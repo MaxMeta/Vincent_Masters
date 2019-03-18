@@ -1,2 +1,2 @@
 # Vincent_Masters
-Here are the scripts that Vincent  Novak wrote/used for his masters thesis
+Here are the scripts that Vincent  Nowak wrote/used for his masters thesis
