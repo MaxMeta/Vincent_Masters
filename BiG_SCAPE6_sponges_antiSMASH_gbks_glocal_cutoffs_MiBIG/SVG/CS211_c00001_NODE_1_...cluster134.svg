@@ -1,0 +1,82 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="244.43333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="234.43333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg3675_1)</title>
+			<polygon class=" (ctg3675_1)" points="10,10 20,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran_CTD (PF16326)
+"ABC transporter C-terminal domain"</title>
+				<polygon class="PF16326" points="12,28 12,28 17,40 12,52 12,52" stroke-linejoin="round" width="6" height="24" fill="rgb(180,67,143)" stroke="rgb(144,53,114)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3675_2)</title>
+			<polygon class=" (ctg3675_2)" points="26,10 34,40 26,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2282 (PF10048)
+"Predicted integral membrane protein (DUF2282)"</title>
+				<polygon class="PF10048" points="29,31 31,40 29,49" stroke-linejoin="round" width="5" height="24" fill="rgb(58,205,168)" stroke="rgb(46,164,134)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3675_3)</title>
+			<polygon class=" (ctg3675_3)" points="36,25 36,25 36,10 66,40 36,70 36,55 36,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF692 (PF05114)
+"Protein of unknown function (DUF692)"</title>
+				<polygon class="PF05114" points="38,28 50,28 62,40 50,52 38,52" stroke-linejoin="round" width="26" height="24" fill="rgb(63,196,127)" stroke="rgb(50,156,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3675_4)</title>
+			<polygon class=" (ctg3675_4)" points="66,25 66,25 66,10 96,40 66,70 66,55 66,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2063 (PF09836)
+"Putative DNA-binding domain"</title>
+				<rect class="PF09836" x="69" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(88,194,190)" stroke="rgb(70,155,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3675_5)</title>
+			<polygon class=" (ctg3675_5)" points="96,10 111,40 96,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DoxX (PF07681)
+"DoxX"</title>
+				<polygon class="PF07681" points="99,28 101,28 107,39 107,41 101,52 99,52" stroke-linejoin="round" width="8" height="24" fill="rgb(93,188,216)" stroke="rgb(74,150,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3675_6)</title>
+			<polygon class=" (ctg3675_6)" points="112,40 141,10 141,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Polysacc_deac_1 (PF01522)
+"Polysaccharide deacetylase"</title>
+				<polygon class="PF01522" points="124,32 128,28 136,28 136,52 128,52 124,48" stroke-linejoin="round" width="12" height="24" fill="rgb(56,221,58)" stroke="rgb(44,176,46)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3675_7)</title>
+			<polygon class=" (ctg3675_7)" points="143,25 165,25 165,10 195,40 165,70 165,55 143,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>RuBisCO_large (PF00016)
+"Ribulose bisphosphate carboxylase large chain, catalytic domain"</title>
+				<rect class="PF00016" x="155" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(64,188,210)" stroke="rgb(51,150,168)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Cupin_2 (PF07883)
+"Cupin domain"</title>
+				<polygon class="PF07883" points="187,36 191,40 187,44" stroke-linejoin="round" width="6" height="24" fill="rgb(211,192,74)" stroke="rgb(168,153,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3675_8)</title>
+			<polygon class=" (ctg3675_8)" points="204,40 216,10 216,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>zf-dskA_traR (PF01258)
+"Prokaryotic dksA/traR C4-type zinc finger"</title>
+				<polygon class="PF01258" points="207,40 207,40 207,40" stroke-linejoin="round" width="3" height="24" fill="rgb(77,182,70)" stroke="rgb(61,145,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

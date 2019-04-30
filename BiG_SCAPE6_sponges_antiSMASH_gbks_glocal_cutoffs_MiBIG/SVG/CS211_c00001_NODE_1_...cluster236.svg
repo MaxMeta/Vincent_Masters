@@ -1,0 +1,67 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="247.03333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="237.03333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg13279_1)</title>
+			<polygon class=" (ctg13279_1)" points="10,40 15,10 15,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short (PF00106)
+"short chain dehydrogenase"</title>
+				<polygon class="PF00106" points="13,40 14,34 14,46" stroke-linejoin="round" width="4" height="24" fill="rgb(182,219,73)" stroke="rgb(145,175,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13279_2)</title>
+			<polygon class=" (ctg13279_2)" points="15,40 19,10 19,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg13279_3)</title>
+			<polygon class=" (ctg13279_3)" points="83,25 50,25 50,10 20,40 50,70 50,55 83,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="29,35 36,28 43,28 43,52 36,52 29,45" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="50" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13279_4)</title>
+			<polygon class=" (ctg13279_4)" points="82,40 108,10 108,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg13279_5)</title>
+			<polygon class=" (ctg13279_5)" points="108,40 137,10 137,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF692 (PF05114)
+"Protein of unknown function (DUF692)"</title>
+				<polygon class="PF05114" points="112,40 124,28 135,28 135,52 124,52" stroke-linejoin="round" width="26" height="24" fill="rgb(63,196,127)" stroke="rgb(50,156,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13279_6)</title>
+			<polygon class=" (ctg13279_6)" points="177,25 174,25 174,10 144,40 174,70 174,55 177,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg13279_7)</title>
+			<polygon class=" (ctg13279_7)" points="182,25 186,25 186,10 216,40 186,70 186,55 182,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Sulf_transp (PF04143)
+"Sulphur transport"</title>
+				<polygon class="PF04143" points="185,28 199,28 211,40 199,52 185,52" stroke-linejoin="round" width="30" height="24" fill="rgb(166,79,214)" stroke="rgb(132,63,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13279_8)</title>
+			<polygon class=" (ctg13279_8)" points="221,40 236,10 236,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FCSD-flav_bind (PF09242)
+"Flavocytochrome c sulphide dehydrogenase, flavin-binding"</title>
+				<polygon class="PF09242" points="224,40 227,34 227,46" stroke-linejoin="round" width="6" height="24" fill="rgb(203,202,93)" stroke="rgb(162,161,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

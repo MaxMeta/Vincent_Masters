@@ -1,0 +1,111 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="523.6" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="513.6" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg4948_1)</title>
+			<polygon class=" (ctg4948_1)" points="193,25 40,25 40,10 10,40 40,70 40,55 193,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ADH_zinc_N (PF00107)
+"Zinc-binding dehydrogenase"</title>
+				<polygon class="PF00107" points="14,40 17,37 17,43" stroke-linejoin="round" width="7" height="24" fill="rgb(81,108,215)" stroke="rgb(64,86,172)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ADH_N (PF08240)
+"Alcohol dehydrogenase GroES-like domain"</title>
+				<polygon class="PF08240" points="19,35 26,28 29,28 29,52 26,52 19,45" stroke-linejoin="round" width="10" height="24" fill="rgb(211,65,138)" stroke="rgb(168,51,110)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PS-DH (PF14765)
+"Polyketide synthase dehydratase"</title>
+				<rect class="PF14765" x="72" y="28" stroke-linejoin="round" width="29" height="24" fill="rgb(173,56,182)" stroke="rgb(138,44,145)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl_transf_1 (PF00698)
+"Acyl transferase domain"</title>
+				<rect class="PF00698" x="106" y="28" stroke-linejoin="round" width="32" height="24" fill="rgb(59,176,209)" stroke="rgb(47,140,167)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KAsynt_C_assoc (PF16197)
+"Ketoacyl-synthetase C-terminal extension"</title>
+				<rect class="PF16197" x="142" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(240,150,172)" stroke="rgb(192,120,137)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<rect class="PF02801" x="154" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="167" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4948_2)</title>
+			<polygon class=" (ctg4948_2)" points="206,40 216,10 216,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg4948_3)</title>
+			<polygon class=" (ctg4948_3)" points="256,25 252,25 252,10 222,40 252,70 252,55 256,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Rotamase_3 (PF13616)
+"PPIC-type PPIASE domain"</title>
+				<polygon class="PF13616" points="227,39 238,28 240,28 240,52 238,52 227,41" stroke-linejoin="round" width="13" height="24" fill="rgb(212,56,169)" stroke="rgb(169,44,135)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SurA_N_3 (PF13624)
+"SurA N-terminal domain"</title>
+				<rect class="PF13624" x="242" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(84,156,193)" stroke="rgb(67,124,154)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4948_4)</title>
+			<polygon class=" (ctg4948_4)" points="264,10 293,40 264,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyco_transf_9 (PF01075)
+"Glycosyltransferase family 9 (heptosyltransferase)"</title>
+				<polygon class="PF01075" points="274,28 277,28 289,40 277,52 274,52" stroke-linejoin="round" width="18" height="24" fill="rgb(200,89,91)" stroke="rgb(160,71,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4948_5)</title>
+			<polygon class=" (ctg4948_5)" points="294,25 307,25 307,10 337,40 307,70 307,55 294,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SBD_N (PF07005)
+"Sugar-binding N-terminal domain"</title>
+				<rect class="PF07005" x="295" y="28" stroke-linejoin="round" width="22" height="24" fill="rgb(217,82,111)" stroke="rgb(173,65,88)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>NBD_C (PF17042)
+"Nucleotide-binding C-terminal domain"</title>
+				<polygon class="PF17042" points="319,28 320,28 332,40 320,52 319,52" stroke-linejoin="round" width="15" height="24" fill="rgb(155,211,77)" stroke="rgb(124,168,61)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4948_6)</title>
+			<polygon class=" (ctg4948_6)" points="339,25 342,25 342,10 372,40 342,70 342,55 339,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PdxA (PF04166)
+"Pyridoxal phosphate biosynthetic protein PdxA"</title>
+				<polygon class="PF04166" points="342,28 356,28 368,40 356,52 342,52" stroke-linejoin="round" width="29" height="24" fill="rgb(180,54,159)" stroke="rgb(144,43,127)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4948_7)</title>
+			<polygon class=" (ctg4948_7)" points="409,10 433,40 409,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg4948_8)</title>
+			<polygon class=" (ctg4948_8)" points="469,25 462,25 462,10 432,40 462,70 462,55 469,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AlbA_2 (PF04326)
+"Putative DNA-binding domain"</title>
+				<rect class="PF04326" x="454" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(156,198,86)" stroke="rgb(124,158,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4948_9)</title>
+			<polygon class=" (ctg4948_9)" points="513,25 500,25 500,10 470,40 500,70 500,55 513,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

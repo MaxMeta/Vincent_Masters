@@ -1,0 +1,20 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+p450                 PF00067.22   463 BGC0000798.1_ORF1:gid::pid:EER93095.1:loc:335:2189:strand:- -            617   3.5e-92  309.6   0.0   1   1   2.3e-96   4.1e-92  309.3   0.0     1   452   142   596   142   607 0.90 Cytochrome P450
+DUF4371              PF14291.6    236 BGC0000798.1_ORF2:gid::pid:EER93096.1:loc:67558:69931:strand:- -            742   1.5e-32  113.1   2.4   1   1   1.7e-36   1.5e-32  113.1   2.4     7   236   114   351   109   351 0.85 Domain of unknown function (DUF4371)
+Dimer_Tnp_hAT        PF05699.14    86 BGC0000798.1_ORF2:gid::pid:EER93096.1:loc:67558:69931:strand:- -            742   6.1e-17   61.2   0.1   1   1   1.5e-20   1.3e-16   60.1   0.1     1    85   628   717   628   718 0.90 hAT family C-terminal dimerisation region
+p450                 PF00067.22   463 BGC0000798.1_ORF3:gid::pid:EER93097.1:loc:73148:74922:strand:- -            558   3.4e-81  273.3   0.0   1   1   2.4e-85   4.3e-81  273.0   0.0     1   450    69   531    69   543 0.89 Cytochrome P450
+DUF4371              PF14291.6    236 BGC0000798.1_ORF4:gid::pid:EER90515.1:loc:98323:101925:strand:+ -            704   1.5e-32  113.2   2.2   1   1   1.6e-36   1.5e-32  113.2   2.2     7   236    76   313    71   313 0.85 Domain of unknown function (DUF4371)
+Dimer_Tnp_hAT        PF05699.14    86 BGC0000798.1_ORF4:gid::pid:EER90515.1:loc:98323:101925:strand:+ -            704   5.5e-17   61.3   0.1   1   1   1.4e-20   1.2e-16   60.2   0.1     1    85   590   679   590   680 0.90 hAT family C-terminal dimerisation region
+UDPGT                PF00201.18   499 BGC0000798.1_ORF5:gid::pid:EER90516.1:loc:102841:104320:strand:+ -            492   4.4e-21   75.2   0.1   1   1     6e-25   1.1e-20   74.0   0.0   276   413   303   452   287   458 0.87 UDP-glucoronosyl and UDP-glucosyl transferase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000798.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000798.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000798.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:44:00 2019
+# [ok]

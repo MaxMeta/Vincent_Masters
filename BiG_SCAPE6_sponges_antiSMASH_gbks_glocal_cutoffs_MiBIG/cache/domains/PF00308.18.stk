@@ -1,0 +1,36 @@
+# STOCKHOLM 1.0
+
+CS783_c00001_NODE_1_...cluster019_ORF30:gid::pid::loc:40138:41458:strand:-:105:323         -NPKYTFDRFVVASCNQFAHAAARAVAEAPSRIYNPLFIYGGAGLGKTHLMQAVGHKVRSIDKAARLSYVSSEKFTNEVVNAIRYDKTLALREKYRNVDVLLVDDIHFISGKHATQQEFFHTFNTLYDAQKQIVLSSDLLPKEIPDIQNRLTSRLEWGLIADIQMPDLETKVAILKKKAEFENCELPDNVAFFIASKIES
+#=GR CS783_c00001_NODE_1_...cluster019_ORF30:gid::pid::loc:40138:41458:strand:-:105:323 PP .689****************************************************************************************************************************************************************************************************
+CS211_c00001_NODE_1_...cluster005_ORF4:gid::pid::loc:7101:8427:strand:-:107:325            -NQRYTFANFVVGSSNQFAHAAALAVAERPSRSYNPLFLYGGVGLGKTHLMHAIGHSIKIEHPNVNLAYVPSERFTNDMIASIRYGRTAGFREKYRNIDVLLMDDVQFLANKEKTQEEFFHTFNSLYDAQKQIVISSDSPPQEIPTLEERLHSRFQWGLIADIQAPDLETKVAILRKKAALQRVELPDDVAFFISSNTKS
+#=GR CS211_c00001_NODE_1_...cluster005_ORF4:gid::pid::loc:7101:8427:strand:-:107:325    PP .79*****************************************************************************************************************************************************************************************************
+CS783_c00001_NODE_1_...cluster062_ORF6:gid::pid::loc:7099:8533:strand:-:143:361            -NQRNTFANFVVGSSNQFAHATALAVAERPSRSYNPLFLYGGVGLGKTHLMHAIGHSIKIEHPNVNLAYVPSERFTNDLVTSIRYGRTAGFREKYRNIDVLLMDDVQFLAGKEKTQEEFFHTFNSLYDAQKQIVISSDSPPQEIPTLEERLHSRFQWGLIADIQAPDLETKVAILRKKAALQRVELPDDVAFFISSNTKS
+#=GR CS783_c00001_NODE_1_...cluster062_ORF6:gid::pid::loc:7099:8533:strand:-:143:361    PP .799****************************************************************************************************************************************************************************************************
+CS202_c00001_NODE_1_...cluster002_ORF32:gid::pid::loc:39695:41015:strand:-:105:323         -NPKYTFDRFVVASCNQFAHAAALAVAEAPSRIYNPLFIYGGAGLGKTHLMQAVGHKVRSISKAARLSYVSSEKFTNEVVNAIRYDKTLALREKYRNVDVLLVDDIHFISGKQATQQEFFHTFNTLYDAQKQIVLSSDLLPKEIPDIQNRLTSRLEWGLIADIQMPDLETKVAILKKKAEFENCELPDNVAFFIASKIES
+#=GR CS202_c00001_NODE_1_...cluster002_ORF32:gid::pid::loc:39695:41015:strand:-:105:323 PP .689****************************************************************************************************************************************************************************************************
+CS211_c00001_NODE_1_...cluster039_ORF6:gid::pid::loc:5741:7148:strand:-:122:338            -NPKYTFGSFVVGPSNRLACSAAQAVCESPGRGYNPLFIYSGVGLGKTHLLHAIGQVCAS--QGMSVLYATSEQFTNEFISAIRNRTTEEFRNRYRSVQVLLMDDVHFLSGKEQTHEGFFHTFNDLHNSGNQVVITCDRPPRALNLLEDRLRSRFEWGLITDIQPPDLETRMAILLSKADQLGVALSENVLELIAKRVQK
+#=GR CS211_c00001_NODE_1_...cluster039_ORF6:gid::pid::loc:5741:7148:strand:-:122:338    PP .689***************************************************98765..6899**************************************************************************************************************************************
+CS204_c00001_NODE_1_...cluster171_ORF2:gid::pid::loc:1719:2889:strand:+:55:271             -NPRYTFESFVVGPSNRLAFSAAHAVADTPGLSYNPLFLYSGAGLGKTHLLQAIGRTCA--MRGMSVLYVTSEQFTNEFIAAIRSRTTEDFRKRYRSVQMLLVDDVQFLSGKEQTHEGFFHTFNDIHNSGHQVVVSSDRPPRELPLMEERLRSRFEWGLIADIQPPDLETRMAILASKADEMHVGLEDAVIELIAKRVQR
+#=GR CS204_c00001_NODE_1_...cluster171_ORF2:gid::pid::loc:1719:2889:strand:+:55:271     PP .689***************************************************9875..68999**************************************************************************************************************************************
+CS202_c00001_NODE_1_...cluster017_ORF35:gid::pid::loc:35868:37272:strand:+:133:351         -NQRNTFENFVVGSSNQFAHATALAVAERPSRSYNPLFLYGGVGLGKTHLMHAIGHSIKIEHPNINLAYVPSERFTNDLVTSIRYGRTAGFREKYRNIDVLLMDDVQFLAGKEKTQEEFFHTFNSLYDAQKQIVISSDSPPQEIPTLEERLHSRFQWGLIADIQAPDLETKVAILRKKAALQRVELPDDVAFFISSNTKS
+#=GR CS202_c00001_NODE_1_...cluster017_ORF35:gid::pid::loc:35868:37272:strand:+:133:351 PP .799****************************************************************************************************************************************************************************************************
+#=GC PP_cons                                                                               .689****************************************************9999*999****************************************************************************************************************************************
+#=GC RF                                                                                    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CS783_c00001_NODE_1_...cluster019_ORF30:gid::pid::loc:40138:41458:strand:-:105:323         NIRELEGSLNRLIAFSSL-t.
+#=GR CS783_c00001_NODE_1_...cluster019_ORF30:gid::pid::loc:40138:41458:strand:-:105:323 PP **************9976.7.
+CS211_c00001_NODE_1_...cluster005_ORF4:gid::pid::loc:7101:8427:strand:-:107:325            NIRQLEGSLIRLIAYSS--li
+#=GR CS211_c00001_NODE_1_...cluster005_ORF4:gid::pid::loc:7101:8427:strand:-:107:325    PP **************997..58
+CS783_c00001_NODE_1_...cluster062_ORF6:gid::pid::loc:7099:8533:strand:-:143:361            NIRQLEGSLIRLIAYSS--li
+#=GR CS783_c00001_NODE_1_...cluster062_ORF6:gid::pid::loc:7099:8533:strand:-:143:361    PP **************997..58
+CS202_c00001_NODE_1_...cluster002_ORF32:gid::pid::loc:39695:41015:strand:-:105:323         NIRELEGSLNRLIAFCS--lt
+#=GR CS202_c00001_NODE_1_...cluster002_ORF32:gid::pid::loc:39695:41015:strand:-:105:323 PP ************99876..68
+CS211_c00001_NODE_1_...cluster039_ORF6:gid::pid::loc:5741:7148:strand:-:122:338            NVRELEGSLNRVVAFSQL-m.
+#=GR CS211_c00001_NODE_1_...cluster039_ORF6:gid::pid::loc:5741:7148:strand:-:122:338    PP **************9975.8.
+CS204_c00001_NODE_1_...cluster171_ORF2:gid::pid::loc:1719:2889:strand:+:55:271             NVRELEGSLNRMVAYAQL-m.
+#=GR CS204_c00001_NODE_1_...cluster171_ORF2:gid::pid::loc:1719:2889:strand:+:55:271     PP **************9975.8.
+CS202_c00001_NODE_1_...cluster017_ORF35:gid::pid::loc:35868:37272:strand:+:133:351         NIRQLEGSLIRLIAYSS--li
+#=GR CS202_c00001_NODE_1_...cluster017_ORF35:gid::pid::loc:35868:37272:strand:+:133:351 PP **************997..58
+#=GC PP_cons                                                                               **************9875...
+#=GC RF                                                                                    xxxxxxxxxxxxxxxxxxx..
+//

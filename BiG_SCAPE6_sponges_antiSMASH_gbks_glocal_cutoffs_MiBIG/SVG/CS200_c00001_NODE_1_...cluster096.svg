@@ -1,0 +1,163 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="799.9666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="789.9666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg950_20)</title>
+			<polygon class=" (ctg950_20)" points="22,10 49,40 22,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg950_21)</title>
+			<polygon class=" (ctg950_21)" points="88,25 81,25 81,10 51,40 81,70 81,55 88,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PhzC-PhzF (PF02567)
+"Phenazine biosynthesis-like protein"</title>
+				<polygon class="PF02567" points="55,40 67,28 75,28 75,52 67,52" stroke-linejoin="round" width="24" height="24" fill="rgb(223,91,96)" stroke="rgb(178,72,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg950_22)</title>
+			<polygon class=" (ctg950_22)" points="89,25 107,25 107,10 137,40 107,70 107,55 89,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aldedh (PF00171)
+"Aldehyde dehydrogenase family"</title>
+				<polygon class="PF00171" points="90,28 120,28 132,40 120,52 90,52" stroke-linejoin="round" width="46" height="24" fill="rgb(105,213,139)" stroke="rgb(84,170,111)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg950_23)</title>
+			<polygon class=" (ctg950_23)" points="176,25 169,25 169,10 139,40 169,70 169,55 176,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NHL (PF01436)
+"NHL repeat"</title>
+				<polygon class="PF01436" points="149,34 151,32 151,48 149,46" stroke-linejoin="round" width="2" height="24" fill="rgb(186,63,63)" stroke="rgb(148,50,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg950_24)</title>
+			<polygon class=" (ctg950_24)" points="184,25 192,25 192,10 222,40 192,70 192,55 184,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Epimerase (PF01370)
+"NAD dependent epimerase/dehydratase family"</title>
+				<polygon class="PF01370" points="185,28 206,28 208,30 208,50 206,52 185,52" stroke-linejoin="round" width="23" height="24" fill="rgb(98,102,214)" stroke="rgb(78,81,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg950_25)</title>
+			<polygon class=" (ctg950_25)" points="223,25 229,25 229,10 259,40 229,70 229,55 223,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Rieske (PF00355)
+"Rieske [2Fe-2S] domain"</title>
+				<rect class="PF00355" x="226" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(186,77,145)" stroke="rgb(148,61,115)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg950_26)</title>
+			<polygon class=" (ctg950_26)" points="259,25 265,25 265,10 295,40 265,70 265,55 259,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ERG4_ERG24 (PF01222)
+"Ergosterol biosynthesis ERG4/ERG24 family"</title>
+				<polygon class="PF01222" points="260,28 279,28 291,40 279,52 260,52" stroke-linejoin="round" width="35" height="24" fill="rgb(99,195,207)" stroke="rgb(79,155,165)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg950_27)</title>
+			<polygon class=" (ctg950_27)" points="299,25 312,25 312,10 342,40 312,70 312,55 299,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="299,28 326,28 338,40 326,52 299,52" stroke-linejoin="round" width="42" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg950_28)</title>
+			<polygon class=" (ctg950_28)" points="343,25 426,25 426,10 456,40 426,70 426,55 343,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SE (PF08491)
+"Squalene epoxidase"</title>
+				<rect class="PF08491" x="358" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(93,72,221)" stroke="rgb(74,57,176)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SQHop_cyclase_N (PF13249)
+"Squalene-hopene cyclase N-terminal domain"</title>
+				<rect class="PF13249" x="390" y="28" stroke-linejoin="round" width="29" height="24" fill="rgb(88,190,89)" stroke="rgb(70,152,71)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SQHop_cyclase_C (PF13243)
+"Squalene-hopene cyclase C-terminal domain"</title>
+				<polygon class="PF13243" points="421,28 440,28 452,40 440,52 421,52" stroke-linejoin="round" width="32" height="24" fill="rgb(191,58,201)" stroke="rgb(152,46,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg950_29)</title>
+			<polygon class=" (ctg950_29)" points="460,25 461,25 461,10 491,40 461,70 461,55 460,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_11 (PF08241)
+"Methyltransferase domain"</title>
+				<polygon class="PF08241" points="467,28 475,28 476,29 476,51 475,52 467,52" stroke-linejoin="round" width="9" height="24" fill="rgb(106,219,159)" stroke="rgb(84,175,127)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Sterol_MT_C (PF08498)
+"Sterol methyltransferase C-terminal"</title>
+				<polygon class="PF08498" points="485,38 487,40 485,42" stroke-linejoin="round" width="6" height="24" fill="rgb(65,219,176)" stroke="rgb(52,175,140)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg950_30)</title>
+			<polygon class=" (ctg950_30)" points="497,10 506,40 497,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PhdYeFM_antitox (PF02604)
+"Antitoxin Phd_YefM, type II toxin-antitoxin system"</title>
+				<polygon class="PF02604" points="497,28 499,28 503,40 499,52 497,52" stroke-linejoin="round" width="7" height="24" fill="rgb(204,60,69)" stroke="rgb(163,48,55)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg950_31)</title>
+			<polygon class=" (ctg950_31)" points="506,10 516,40 506,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ParE_toxin (PF05016)
+"ParE toxin of type II toxin-antitoxin system, parDE"</title>
+				<polygon class="PF05016" points="506,28 509,28 513,40 509,52 506,52" stroke-linejoin="round" width="9" height="24" fill="rgb(110,226,73)" stroke="rgb(88,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg950_32)</title>
+			<polygon class=" (ctg950_32)" points="520,40 536,10 536,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg950_33)</title>
+			<polygon class=" (ctg950_33)" points="543,25 546,25 546,10 576,40 546,70 546,55 543,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>COesterase (PF00135)
+"Carboxylesterase family"</title>
+				<polygon class="PF00135" points="551,28 559,28 564,33 564,47 559,52 551,52" stroke-linejoin="round" width="13" height="24" fill="rgb(204,82,64)" stroke="rgb(163,65,51)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg950_34)</title>
+			<polygon class=" (ctg950_34)" points="618,25 608,25 608,10 578,40 608,70 608,55 618,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg950_35)</title>
+			<polygon class=" (ctg950_35)" points="681,25 649,25 649,10 619,40 649,70 649,55 681,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Sulfatase (PF00884)
+"Sulfatase"</title>
+				<rect class="PF00884" x="646" y="28" stroke-linejoin="round" width="32" height="24" fill="rgb(61,103,198)" stroke="rgb(48,82,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg950_36)</title>
+			<polygon class=" (ctg950_36)" points="695,25 711,25 711,10 741,40 711,70 711,55 695,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Sulfatase (PF00884)
+"Sulfatase"</title>
+				<rect class="PF00884" x="695" y="28" stroke-linejoin="round" width="30" height="24" fill="rgb(61,103,198)" stroke="rgb(48,82,158)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DUF4976 (PF16347)
+"Domain of unknown function (DUF4976)"</title>
+				<polygon class="PF16347" points="725,28 725,28 734,37 734,43 725,52 725,52" stroke-linejoin="round" width="9" height="24" fill="rgb(122,75,207)" stroke="rgb(97,60,165)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

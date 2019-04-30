@@ -1,0 +1,33 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Methyltransf_23      PF13489.6    165 BGC0001173.1_ORF1:gid::pid:WP_034619896.1:loc:0:807:strand:- -            268     8e-14   51.8   0.0   1   1   4.2e-17   1.1e-13   51.4   0.0    16   125    56   176    26   203 0.82 Methyltransferase domain
+Methyltransf_25      PF13649.6     97 BGC0001173.1_ORF1:gid::pid:WP_034619896.1:loc:0:807:strand:- -            268   8.3e-13   48.9   0.0   1   1   1.5e-15   3.7e-12   46.8   0.0     1    88    64   145    64   153 0.90 Methyltransferase domain
+Methyltransf_31      PF13847.6    152 BGC0001173.1_ORF1:gid::pid:WP_034619896.1:loc:0:807:strand:- -            268   6.3e-12   45.5   0.1   1   1   3.4e-15   8.7e-12   45.1   0.1     4   126    61   177    58   215 0.81 Methyltransferase domain
+Methyltransf_12      PF08242.12    99 BGC0001173.1_ORF1:gid::pid:WP_034619896.1:loc:0:807:strand:- -            268   2.2e-10   41.2   0.0   1   1   1.8e-13   4.7e-10   40.1   0.0     1    95    65   152    65   156 0.87 Methyltransferase domain
+Methyltransf_11      PF08241.12    96 BGC0001173.1_ORF1:gid::pid:WP_034619896.1:loc:0:807:strand:- -            268   5.8e-10   39.7   0.0   1   1   3.7e-13   9.6e-10   39.0   0.0     1    89    65   151    65   158 0.90 Methyltransferase domain
+MTS                  PF05175.14   169 BGC0001173.1_ORF1:gid::pid:WP_034619896.1:loc:0:807:strand:- -            268   1.7e-05   24.4   0.0   1   1   2.2e-08   5.7e-05   22.7   0.0    33    83    62   113    50   129 0.77 Methyltransferase small domain
+MetW                 PF07021.12   193 BGC0001173.1_ORF1:gid::pid:WP_034619896.1:loc:0:807:strand:- -            268   1.9e-05   24.4   0.0   1   1   1.9e-08   4.8e-05   23.0   0.0    16    99    63   147    53   158 0.84 Methionine biosynthesis protein MetW
+CPBP                 PF02517.16    92 BGC0001173.1_ORF2:gid::pid:WP_003211749.1:loc:832:1504:strand:- -            223   1.3e-10   41.5   9.3   1   1   7.3e-15   1.3e-10   41.5   9.3     9    91   114   198   109   199 0.91 CPBP intramembrane metalloprotease
+Nitroreductase       PF00881.24   170 BGC0001173.1_ORF3:gid::pid:WP_003211436.1:loc:1508:2318:strand:- -            269   5.8e-13   49.2   0.0   1   1   5.3e-17   9.5e-13   48.6   0.0     1   154    90   251    90   268 0.92 Nitroreductase family
+YcaO                 PF02624.16   323 BGC0001173.1_ORF4:gid::pid:WP_003211025.1:loc:2342:3689:strand:- -            448     1e-64  218.9   0.0   1   1   7.1e-69   1.3e-64  218.6   0.0     2   322    65   404    64   405 0.90 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+Pentapeptide_4       PF13599.6     77 BGC0001173.1_ORF7:gid::pid:WP_003212115.1:loc:6277:6997:strand:- -            239   3.5e-25   88.0  21.0   1   3   4.3e-12   2.6e-08   33.9   3.0     2    68    95   161    94   166 0.94 Pentapeptide repeats (9 copies)
+Pentapeptide_4       PF13599.6     77 BGC0001173.1_ORF7:gid::pid:WP_003212115.1:loc:6277:6997:strand:- -            239   3.5e-25   88.0  21.0   2   3   1.7e-13   9.9e-10   38.5   1.9     5    69   118   182   114   183 0.94 Pentapeptide repeats (9 copies)
+Pentapeptide_4       PF13599.6     77 BGC0001173.1_ORF7:gid::pid:WP_003212115.1:loc:6277:6997:strand:- -            239   3.5e-25   88.0  21.0   3   3   4.2e-14   2.5e-10   40.4   1.4     2    62   165   225   164   238 0.87 Pentapeptide repeats (9 copies)
+Pentapeptide         PF00805.22    40 BGC0001173.1_ORF7:gid::pid:WP_003212115.1:loc:6277:6997:strand:- -            239   2.6e-14   52.5   0.7   1   1   6.3e-08   0.00038   20.0   0.1     1    33   184   216   184   219 0.92 Pentapeptide repeats (8 copies)
+ABC2_membrane        PF01061.24   210 BGC0001173.1_ORF8:gid::pid:WP_003212220.1:loc:7141:7888:strand:- -            248   7.3e-21   74.6  19.6   1   1   8.1e-25   7.3e-21   74.6  19.6     6   207     4   206     1   208 0.86 ABC-2 type transporter
+ABC2_membrane_3      PF12698.7    345 BGC0001173.1_ORF8:gid::pid:WP_003212220.1:loc:7141:7888:strand:- -            248   2.5e-18   66.3  21.5   1   1   2.8e-22   2.5e-18   66.3  21.5   160   344    50   236    44   237 0.85 ABC-2 family transporter protein
+ABC_tran             PF00005.27   137 BGC0001173.1_ORF9:gid::pid:WP_003211121.1:loc:8150:9044:strand:- -            297     1e-28  100.5   0.0   1   1   4.2e-32   3.8e-28   98.7   0.0     1   136    17   152    17   153 0.97 ABC transporter
+AAA_21               PF13304.6    303 BGC0001173.1_ORF9:gid::pid:WP_003211121.1:loc:8150:9044:strand:- -            297   3.1e-15   56.8   0.1   1   1   9.6e-11   8.6e-07   29.1   0.0   235   299   123   184   106   188 0.92 AAA domain, putative AbiEii toxin, Type IV TA system
+HTH_34               PF13601.6     80 BGC0001173.1_ORF10:gid::pid:WP_034619900.1:loc:9065:9359:strand:- -             97   1.1e-25   89.5   0.1   1   1   1.5e-29   1.3e-25   89.3   0.1     1    79    15    93    15    94 0.98 Winged helix DNA-binding domain
+HTH_5                PF01022.20    47 BGC0001173.1_ORF10:gid::pid:WP_034619900.1:loc:9065:9359:strand:- -             97   1.4e-05   24.9   0.0   1   1     3e-09   2.6e-05   24.0   0.0     3    45    15    58    13    59 0.94 Bacterial regulatory protein, arsR family
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001173.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001173.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001173.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:36:50 2019
+# [ok]

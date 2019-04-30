@@ -1,0 +1,23 @@
+#                                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Acyl_transf_1        PF00698.21   319 CS202_c00001_NODE_1_...cluster182_ORF1:gid::pid::loc:318:4224:strand:- -           1301   3.1e-62  210.9   0.0   1   1   1.3e-65   4.8e-62  210.3   0.0     3   314   542   864   540   868 0.90 Acyl transferase domain
+ketoacyl-synt        PF00109.26   253 CS202_c00001_NODE_1_...cluster182_ORF1:gid::pid::loc:318:4224:strand:- -           1301   1.5e-53  182.0   0.1   1   1   2.3e-55   8.3e-52  176.3   0.1     4   251    10   254     8   256 0.91 Beta-ketoacyl synthase, N-terminal domain
+PS-DH                PF14765.6    298 CS202_c00001_NODE_1_...cluster182_ORF1:gid::pid::loc:318:4224:strand:- -           1301   1.5e-35  122.9   0.2   1   1   1.5e-38   5.5e-35  121.0   0.0     2   286   915  1206   914  1211 0.85 Polyketide synthase dehydratase
+Ketoacyl-synt_C      PF02801.22   118 CS202_c00001_NODE_1_...cluster182_ORF1:gid::pid::loc:318:4224:strand:- -           1301   2.2e-30  105.1   0.2   1   1   1.3e-33   4.7e-30  104.0   0.2    16   115   288   387   264   390 0.88 Beta-ketoacyl synthase, C-terminal domain
+KAsynt_C_assoc       PF16197.5    112 CS202_c00001_NODE_1_...cluster182_ORF1:gid::pid::loc:318:4224:strand:- -           1301   3.8e-15   56.3   0.0   1   1   1.8e-18   6.5e-15   55.6   0.0     1   108   393   504   393   508 0.86 Ketoacyl-synthetase C-terminal extension
+Ribonuc_L-PSP        PF01042.21   121 CS202_c00001_NODE_1_...cluster182_ORF2:gid::pid::loc:4488:4896:strand:- -            135   7.5e-28   97.0   0.0   1   1   4.9e-32   8.8e-28   96.8   0.0     8   121    17   129    10   129 0.93 Endoribonuclease L-PSP
+ECH_1                PF00378.20   251 CS202_c00001_NODE_1_...cluster182_ORF3:gid::pid::loc:5016:5814:strand:+ -            265   6.4e-58  196.0   0.0   1   1   8.2e-62   7.4e-58  195.8   0.0     2   250     9   264     8   265 0.92 Enoyl-CoA hydratase/isomerase
+ECH_2                PF16113.5    334 CS202_c00001_NODE_1_...cluster182_ORF3:gid::pid::loc:5016:5814:strand:+ -            265   1.2e-39  136.8   0.1   1   1   5.1e-38   4.6e-34  118.4   0.0     2   186    14   202    13   211 0.93 Enoyl-CoA hydratase/isomerase
+adh_short            PF00106.25   195 CS202_c00001_NODE_1_...cluster182_ORF4:gid::pid::loc:5817:6030:strand:+ -             71   2.8e-09   36.7   1.4   1   1   3.3e-13     3e-09   36.6   1.4     1    68     8    70     8    71 0.90 short chain dehydrogenase
+adh_short_C2         PF13561.6    234 CS202_c00001_NODE_1_...cluster182_ORF4:gid::pid::loc:5817:6030:strand:+ -             71   7.4e-08   32.2   2.2   1   1   9.3e-12   8.4e-08   32.1   2.2     2    60    14    70    13    71 0.89 Enoyl-(Acyl carrier protein) reductase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster182.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS202_c00001_NODE_1_...cluster182.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster182.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:56:49 2019
+# [ok]

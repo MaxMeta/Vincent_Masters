@@ -1,0 +1,31 @@
+#                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+CPSase_L_D2          PF02786.17   211 BGC0000234.1_ORF1:gid:jadJ:pid:AAD37851.1:loc:152:1907:strand:+ -            584   1.8e-75  253.1   0.0   1   1   9.9e-79     3e-75  252.4   0.0     1   208   114   320   114   322 0.99 Carbamoyl-phosphate synthase L chain, ATP binding domain
+Biotin_carb_N        PF00289.22   110 BGC0000234.1_ORF1:gid:jadJ:pid:AAD37851.1:loc:152:1907:strand:+ -            584   8.1e-45  151.9   0.1   1   1   2.9e-47   8.7e-44  148.6   0.0     3   110     2   109     1   109 0.99 Biotin carboxylase, N-terminal domain
+Biotin_carb_C        PF02785.19   108 BGC0000234.1_ORF1:gid:jadJ:pid:AAD37851.1:loc:152:1907:strand:+ -            584   1.9e-35  121.2   0.0   1   1     3e-38   8.8e-35  119.1   0.0     1   107   333   441   333   442 0.98 Biotin carboxylase C-terminal domain
+Biotin_lipoyl        PF00364.22    73 BGC0000234.1_ORF1:gid:jadJ:pid:AAD37851.1:loc:152:1907:strand:+ -            584   3.7e-17   61.9   1.5   1   1     3e-20   8.9e-17   60.7   1.5     2    73   516   582   515   582 0.96 Biotin-requiring enzyme
+ATP-grasp            PF02222.22   171 BGC0000234.1_ORF1:gid:jadJ:pid:AAD37851.1:loc:152:1907:strand:+ -            584   1.4e-08   34.5   0.0   1   1   1.1e-11   3.4e-08   33.3   0.0    17   159   140   291   135   293 0.85 ATP-grasp domain
+Biotin_lipoyl_2      PF13533.6     50 BGC0000234.1_ORF1:gid:jadJ:pid:AAD37851.1:loc:152:1907:strand:+ -            584     2e-08   33.9   0.4   1   1   2.4e-11   7.2e-08   32.1   0.2     4    36   516   548   513   556 0.90 Biotin-lipoyl like
+Cyclase_polyket      PF04673.12   104 BGC0000234.1_ORF2:gid:jadI:pid:AAD37852.1:loc:2019:2349:strand:+ -            109   2.8e-44  149.6   0.0   1   1   1.8e-48   3.1e-44  149.5   0.0     1   104     2   106     2   106 0.98 Polyketide synthesis cyclase
+ketoacyl-synt        PF00109.26   253 BGC0000234.1_ORF3:gid:jadA:pid:AAB36562.1:loc:2345:3614:strand:+ -            422   2.5e-51  174.7   1.2   1   1     5e-55   4.5e-51  173.9   1.2     2   253     4   253     3   253 0.88 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.22   118 BGC0000234.1_ORF3:gid:jadA:pid:AAB36562.1:loc:2345:3614:strand:+ -            422   4.3e-36  123.5   1.0   1   1   9.4e-40   8.4e-36  122.6   1.0     1   117   261   375   261   376 0.98 Beta-ketoacyl synthase, C-terminal domain
+ketoacyl-synt        PF00109.26   253 BGC0000234.1_ORF4:gid::pid:AAB36563.1:loc:3610:4825:strand:+ -            404   9.7e-46  156.4   1.1   1   1   1.5e-49   1.3e-45  155.9   1.1     3   253     4   243     2   244 0.90 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.22   118 BGC0000234.1_ORF4:gid::pid:AAB36563.1:loc:3610:4825:strand:+ -            404   1.1e-22   80.2   0.0   1   1   3.4e-26     3e-22   78.8   0.0     1   117   252   361   252   362 0.94 Beta-ketoacyl synthase, C-terminal domain
+PP-binding           PF00550.25    67 BGC0000234.1_ORF5:gid:acp:pid:AAB36564.1:loc:4867:5137:strand:+ -             89   8.1e-09   35.7   0.6   1   1   5.5e-13   9.9e-09   35.4   0.6    11    67    23    79     9    79 0.85 Phosphopantetheine attachment site
+adh_short            PF00106.25   195 BGC0000234.1_ORF6:gid::pid:AAB36565.1:loc:5210:6005:strand:+ -            264   8.5e-63  211.3   1.7   1   1   1.8e-66   1.1e-62  211.0   1.7     2   193    11   204    10   206 0.98 short chain dehydrogenase
+adh_short_C2         PF13561.6    234 BGC0000234.1_ORF6:gid::pid:AAB36565.1:loc:5210:6005:strand:+ -            264     6e-58  196.2   2.8   1   1   1.3e-61   7.5e-58  195.8   2.8     1   233    16   261    16   262 0.95 Enoyl-(Acyl carrier protein) reductase
+KR                   PF08659.10   180 BGC0000234.1_ORF6:gid::pid:AAB36565.1:loc:5210:6005:strand:+ -            264   1.2e-10   41.6   0.7   1   1   3.1e-14   1.8e-10   41.0   0.7     3   121    12   126    11   186 0.80 KR domain
+Polyketide_cyc2      PF10604.9    143 BGC0000234.1_ORF7:gid::pid:AAB36566.1:loc:6045:6978:strand:+ -            310   7.1e-19   68.5   7.3   1   2   1.7e-14   1.5e-10   41.5   1.9     2   143     4   145     3   145 0.73 Polyketide cyclase / dehydrase and lipid transport
+Polyketide_cyc2      PF10604.9    143 BGC0000234.1_ORF7:gid::pid:AAB36566.1:loc:6045:6978:strand:+ -            310   7.1e-19   68.5   7.3   2   2     4e-11   3.6e-07   30.5   0.3     2   106   155   267   154   307 0.72 Polyketide cyclase / dehydrase and lipid transport
+Polyketide_cyc       PF03364.20   130 BGC0000234.1_ORF7:gid::pid:AAB36566.1:loc:6045:6978:strand:+ -            310   5.6e-13   49.2   0.3   1   1   2.5e-11   2.3e-07   31.1   0.1     1    87    12   100    12   130 0.78 Polyketide cyclase / dehydrase and lipid transport
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000234.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000234.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000234.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:43:58 2019
+# [ok]

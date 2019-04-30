@@ -1,0 +1,103 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="459.96666666666664" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="449.96666666666664" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg3037_5)</title>
+			<polygon class=" (ctg3037_5)" points="97,25 82,25 82,10 52,40 82,70 82,55 97,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_M50 (PF02163)
+"Peptidase family M50"</title>
+				<polygon class="PF02163" points="56,40 68,28 95,28 95,52 68,52" stroke-linejoin="round" width="42" height="24" fill="rgb(105,96,203)" stroke="rgb(83,76,162)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3037_6)</title>
+			<polygon class=" (ctg3037_6)" points="140,25 132,25 132,10 102,40 132,70 132,55 140,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DXPR_C (PF13288)
+"DXP reductoisomerase C-terminal domain"</title>
+				<polygon class="PF13288" points="106,40 114,32 114,48" stroke-linejoin="round" width="11" height="24" fill="rgb(184,95,48)" stroke="rgb(147,76,38)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DXP_redisom_C (PF08436)
+"1-deoxy-D-xylulose 5-phosphate reductoisomerase C-terminal domain"</title>
+				<polygon class="PF08436" points="117,29 118,28 125,28 125,52 118,52 117,51" stroke-linejoin="round" width="8" height="24" fill="rgb(160,186,55)" stroke="rgb(127,148,44)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DXP_reductoisom (PF02670)
+"1-deoxy-D-xylulose 5-phosphate reductoisomerase"</title>
+				<rect class="PF02670" x="127" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(106,225,169)" stroke="rgb(84,180,135)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3037_7)</title>
+			<polygon class=" (ctg3037_7)" points="146,40 175,10 175,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CTP_transf_1 (PF01148)
+"Cytidylyltransferase family"</title>
+				<polygon class="PF01148" points="150,40 162,28 172,28 172,52 162,52" stroke-linejoin="round" width="26" height="24" fill="rgb(98,187,226)" stroke="rgb(78,149,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3037_8)</title>
+			<polygon class=" (ctg3037_8)" points="176,40 202,10 202,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Prenyltransf (PF01255)
+"Putative undecaprenyl diphosphate synthase"</title>
+				<polygon class="PF01255" points="180,40 191,28 199,28 199,52 191,52" stroke-linejoin="round" width="22" height="24" fill="rgb(129,224,60)" stroke="rgb(103,179,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3037_9)</title>
+			<polygon class=" (ctg3037_9)" points="205,25 225,25 225,10 255,40 225,70 225,55 205,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PmbA_TldD (PF01523)
+"Putative modulator of DNA gyrase"</title>
+				<polygon class="PF01523" points="210,28 238,28 239,29 239,51 238,52 210,52" stroke-linejoin="round" width="29" height="24" fill="rgb(83,181,55)" stroke="rgb(66,144,44)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3037_10)</title>
+			<polygon class=" (ctg3037_10)" points="259,25 275,25 275,10 305,40 275,70 275,55 259,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PmbA_TldD (PF01523)
+"Putative modulator of DNA gyrase"</title>
+				<polygon class="PF01523" points="263,28 289,28 292,31 292,49 289,52 263,52" stroke-linejoin="round" width="29" height="24" fill="rgb(83,181,55)" stroke="rgb(66,144,44)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3037_11)</title>
+			<polygon class=" (ctg3037_11)" points="307,10 322,40 307,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3037_12)</title>
+			<polygon class=" (ctg3037_12)" points="323,40 343,10 343,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>UDG (PF03167)
+"Uracil DNA glycosylase superfamily"</title>
+				<polygon class="PF03167" points="327,40 335,28 340,28 340,52 335,52" stroke-linejoin="round" width="15" height="24" fill="rgb(64,224,60)" stroke="rgb(51,179,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3037_13)</title>
+			<polygon class=" (ctg3037_13)" points="343,40 372,10 372,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="347,40 359,28 370,28 370,52 359,52" stroke-linejoin="round" width="25" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3037_14)</title>
+			<polygon class=" (ctg3037_14)" points="373,40 392,10 392,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3037_15)</title>
+			<polygon class=" (ctg3037_15)" points="400,25 403,25 403,10 433,40 403,70 403,55 400,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3037_16)</title>
+			<polygon class=" (ctg3037_16)" points="436,40 443,10 443,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

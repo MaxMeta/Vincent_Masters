@@ -1,0 +1,24 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+p450                 PF00067.22   463 BGC0000674.1_ORF1:gid::pid:EDY49121.1:loc:0:1347:strand:- -            448   2.1e-62  211.4   0.0   1   1   7.2e-66   1.3e-61  208.8   0.0     4   448    16   423    13   435 0.87 Cytochrome P450
+Methyltransf_11      PF08241.12    96 BGC0000674.1_ORF3:gid::pid:EDY49123.1:loc:2312:3170:strand:- -            285   1.8e-15   57.4   0.0   1   1   8.4e-19     3e-15   56.6   0.0     1    95    57   147    57   148 0.88 Methyltransferase domain
+Methyltransf_23      PF13489.6    165 BGC0000674.1_ORF3:gid::pid:EDY49123.1:loc:2312:3170:strand:- -            285   2.6e-14   53.4   0.0   1   1     1e-17   3.6e-14   52.9   0.0     8   120    35   151    27   192 0.80 Methyltransferase domain
+Methyltransf_25      PF13649.6     97 BGC0000674.1_ORF3:gid::pid:EDY49123.1:loc:2312:3170:strand:- -            285   3.2e-13   50.2   0.0   1   1   1.6e-16   5.9e-13   49.3   0.0     2    97    57   144    56   144 0.94 Methyltransferase domain
+Methyltransf_12      PF08242.12    99 BGC0000674.1_ORF3:gid::pid:EDY49123.1:loc:2312:3170:strand:- -            285   2.9e-12   47.2   0.0   1   1   1.4e-15   5.2e-12   46.4   0.0     1    99    57   146    57   146 0.84 Methyltransferase domain
+Methyltransf_31      PF13847.6    152 BGC0000674.1_ORF3:gid::pid:EDY49123.1:loc:2312:3170:strand:- -            285   3.3e-08   33.4   0.0   1   1   5.8e-11   2.1e-07   30.9   0.0     6   113    55   152    51   184 0.80 Methyltransferase domain
+Amino_oxidase        PF01593.24   452 BGC0000674.1_ORF4:gid::pid:EDY49124.1:loc:3605:4991:strand:+ -            461   2.5e-43  149.0   0.5   1   1   7.9e-47   2.8e-43  148.8   0.5     1   452    17   454    17   454 0.84 Flavin containing amine oxidoreductase
+NAD_binding_8        PF13450.6     68 BGC0000674.1_ORF4:gid::pid:EDY49124.1:loc:3605:4991:strand:+ -            461     2e-18   66.4   0.1   1   1   1.3e-21   4.6e-18   65.2   0.1     1    67    12    80    12    81 0.91 NAD(P)-binding Rossmann-like domain
+Pyr_redox_2          PF07992.14   294 BGC0000674.1_ORF4:gid::pid:EDY49124.1:loc:3605:4991:strand:+ -            461   1.4e-09   37.6   0.1   1   1     2e-10     7e-07   28.8   0.0     2    41     9    47     8    83 0.84 Pyridine nucleotide-disulphide oxidoreductase
+FAD_oxidored         PF12831.7    433 BGC0000674.1_ORF4:gid::pid:EDY49124.1:loc:3605:4991:strand:+ -            461   2.5e-07   30.4   0.0   1   1   1.2e-10   4.2e-07   29.7   0.0     3    42    11    50    10    82 0.89 FAD dependent oxidoreductase
+FAD_binding_2        PF00890.24   417 BGC0000674.1_ORF4:gid::pid:EDY49124.1:loc:3605:4991:strand:+ -            461   1.1e-06   28.0   1.4   1   1   6.7e-10   2.4e-06   26.9   0.1     2    36    10    44     9    50 0.93 FAD binding domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000674.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000674.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000674.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:43:27 2019
+# [ok]

@@ -1,0 +1,30 @@
+#                                                                                                                          --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                         accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                               -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Uma2                 PF05685.12   172 CS200_c00001_NODE_1_...cluster229_ORF2:gid::pid::loc:278:842:strand:+ -            187   1.6e-32  112.4   0.0   1   1     1e-36   1.8e-32  112.2   0.0     3   169    16   179    14   182 0.91 Putative restriction endonuclease
+GYD                  PF08734.11    91 CS200_c00001_NODE_1_...cluster229_ORF4:gid::pid::loc:1524:1845:strand:+ -            106   4.2e-24   84.3   0.2   1   1   2.7e-28   4.8e-24   84.1   0.2     1    91     4    95     4    95 0.98 GYD domain
+ketoacyl-synt        PF00109.26   253 CS200_c00001_NODE_1_...cluster229_ORF5:gid::pid::loc:1986:5094:strand:+ -           1035   6.3e-79  265.1   3.2   1   1   2.1e-82   9.3e-79  264.6   0.6     2   253    19   271    18   271 0.91 Beta-ketoacyl synthase, N-terminal domain
+Acyl_transf_1        PF00698.21   319 CS200_c00001_NODE_1_...cluster229_ORF5:gid::pid::loc:1986:5094:strand:+ -           1035   5.8e-56  190.3   1.8   1   1     2e-59   8.8e-56  189.7   1.8     2   272   582   861   581   881 0.92 Acyl transferase domain
+Ketoacyl-synt_C      PF02801.22   118 CS200_c00001_NODE_1_...cluster229_ORF5:gid::pid::loc:1986:5094:strand:+ -           1035   1.7e-42  144.2   0.8   1   1   1.8e-45   8.2e-42  141.9   0.5     2   117   280   396   279   397 0.99 Beta-ketoacyl synthase, C-terminal domain
+KAsynt_C_assoc       PF16197.5    112 CS200_c00001_NODE_1_...cluster229_ORF5:gid::pid::loc:1986:5094:strand:+ -           1035   2.9e-14   53.4   0.0   1   1   1.8e-17     8e-14   52.1   0.0     1    88   399   515   399   529 0.90 Ketoacyl-synthetase C-terminal extension
+KR                   PF08659.10   180 CS200_c00001_NODE_1_...cluster229_ORF6:gid::pid::loc:5035:9706:strand:+ -           1557   3.7e-58  196.4   6.8   1   1   3.5e-61   5.7e-58  195.8   0.0     2   180  1180  1357  1179  1357 0.99 KR domain
+PS-DH                PF14765.6    298 CS200_c00001_NODE_1_...cluster229_ORF6:gid::pid::loc:5035:9706:strand:+ -           1557   1.5e-31  109.7   0.0   1   1   2.2e-34   3.6e-31  108.5   0.0    79   296    19   231    10   233 0.90 Polyketide synthase dehydratase
+ADH_zinc_N_2         PF13602.6    133 CS200_c00001_NODE_1_...cluster229_ORF6:gid::pid::loc:5035:9706:strand:+ -           1557   3.8e-24   86.2   0.0   1   1   2.7e-23   4.4e-20   73.1   0.0     1   133  1027  1165  1027  1165 0.85 Zinc-binding dehydrogenase
+ADH_zinc_N           PF00107.26   130 CS200_c00001_NODE_1_...cluster229_ORF6:gid::pid::loc:5035:9706:strand:+ -           1557   4.9e-22   78.3   0.3   1   1   9.6e-25   1.6e-21   76.7   0.3     1    89   996  1083   996  1096 0.95 Zinc-binding dehydrogenase
+Methyltransf_12      PF08242.12    99 CS200_c00001_NODE_1_...cluster229_ORF6:gid::pid::loc:5035:9706:strand:+ -           1557     3e-16   59.9   0.0   1   1   4.5e-19   7.4e-16   58.7   0.0     1    99   465   566   465   566 0.88 Methyltransferase domain
+adh_short            PF00106.25   195 CS200_c00001_NODE_1_...cluster229_ORF6:gid::pid::loc:5035:9706:strand:+ -           1557   1.2e-14   54.2   0.6   1   1   2.7e-14   4.5e-11   42.6   0.0     3   160  1181  1337  1179  1342 0.86 short chain dehydrogenase
+PP-binding           PF00550.25    67 CS200_c00001_NODE_1_...cluster229_ORF6:gid::pid::loc:5035:9706:strand:+ -           1557   8.1e-13   48.5   0.0   1   1   1.4e-15   2.4e-12   47.0   0.0     3    67  1461  1526  1459  1526 0.91 Phosphopantetheine attachment site
+Methyltransf_23      PF13489.6    165 CS200_c00001_NODE_1_...cluster229_ORF6:gid::pid::loc:5035:9706:strand:+ -           1557   1.1e-10   41.6   0.0   1   1   2.1e-13   3.4e-10   40.0   0.0     9   161   449   617   437   621 0.72 Methyltransferase domain
+adh_short_C2         PF13561.6    234 CS200_c00001_NODE_1_...cluster229_ORF6:gid::pid::loc:5035:9706:strand:+ -           1557   1.6e-10   41.0   3.5   1   1   1.1e-11   1.8e-08   34.3   0.0     4   146  1188  1331  1185  1338 0.76 Enoyl-(Acyl carrier protein) reductase
+Methyltransf_25      PF13649.6     97 CS200_c00001_NODE_1_...cluster229_ORF6:gid::pid::loc:5035:9706:strand:+ -           1557   2.8e-10   40.8   0.0   1   1   1.2e-12     2e-09   38.0   0.0     1    97   464   564   464   564 0.92 Methyltransferase domain
+Methyltransf_11      PF08241.12    96 CS200_c00001_NODE_1_...cluster229_ORF6:gid::pid::loc:5035:9706:strand:+ -           1557   3.5e-08   34.0   0.0   1   1   6.7e-11   1.1e-07   32.4   0.0     1    95   465   567   465   568 0.92 Methyltransferase domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS200_c00001_NODE_1_...cluster229.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS200_c00001_NODE_1_...cluster229.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS200_c00001_NODE_1_...cluster229.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:36:22 2019
+# [ok]

@@ -1,0 +1,143 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="512.9" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="502.9" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg1623_14)</title>
+			<polygon class=" (ctg1623_14)" points="74,25 50,25 50,10 20,40 50,70 50,55 74,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PGM_PMM_IV (PF00408)
+"Phosphoglucomutase/phosphomannomutase, C-terminal domain"</title>
+				<polygon class="PF00408" points="24,40 32,32 32,48" stroke-linejoin="round" width="10" height="24" fill="rgb(74,205,143)" stroke="rgb(59,164,114)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PGM_PMM_III (PF02880)
+"Phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain III"</title>
+				<polygon class="PF02880" points="31,33 36,28 43,28 43,52 36,52 31,47" stroke-linejoin="round" width="12" height="24" fill="rgb(67,204,90)" stroke="rgb(53,163,72)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PGM_PMM_II (PF02879)
+"Phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain II"</title>
+				<rect class="PF02879" x="44" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(192,221,60)" stroke="rgb(153,176,48)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PGM_PMM_I (PF02878)
+"Phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain I"</title>
+				<rect class="PF02878" x="57" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(217,133,102)" stroke="rgb(173,106,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1623_15)</title>
+			<polygon class=" (ctg1623_15)" points="74,40 97,10 97,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PNP_UDP_1 (PF01048)
+"Phosphorylase superfamily"</title>
+				<polygon class="PF01048" points="78,40 87,28 96,28 96,52 87,52" stroke-linejoin="round" width="22" height="24" fill="rgb(75,186,148)" stroke="rgb(60,148,118)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1623_16)</title>
+			<polygon class=" (ctg1623_16)" points="103,40 132,10 132,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PfkB (PF00294)
+"pfkB family carbohydrate kinase"</title>
+				<polygon class="PF00294" points="107,40 119,28 130,28 130,52 119,52" stroke-linejoin="round" width="27" height="24" fill="rgb(153,96,212)" stroke="rgb(122,76,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1623_17)</title>
+			<polygon class=" (ctg1623_17)" points="169,25 167,25 167,10 137,40 167,70 167,55 169,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aldo_ket_red (PF00248)
+"Aldo/keto reductase family"</title>
+				<polygon class="PF00248" points="141,40 153,28 167,28 167,52 153,52" stroke-linejoin="round" width="30" height="24" fill="rgb(225,205,58)" stroke="rgb(180,164,46)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1623_18)</title>
+			<polygon class=" (ctg1623_18)" points="170,40 197,10 197,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GFO_IDH_MocA (PF01408)
+"Oxidoreductase family, NAD-binding Rossmann fold"</title>
+				<rect class="PF01408" x="190" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(76,117,190)" stroke="rgb(60,93,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1623_19)</title>
+			<polygon class=" (ctg1623_19)" points="204,25 258,25 258,10 288,40 258,70 258,55 204,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_M1_N (PF17900)
+"Peptidase M1 N-terminal domain"</title>
+				<rect class="PF17900" x="205" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(212,82,159)" stroke="rgb(169,65,127)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Peptidase_M1 (PF01433)
+"Peptidase family M1 domain"</title>
+				<rect class="PF01433" x="227" y="28" stroke-linejoin="round" width="21" height="24" fill="rgb(173,57,219)" stroke="rgb(138,45,175)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ERAP1_C (PF11838)
+"ERAP1-like C-terminal domain"</title>
+				<polygon class="PF11838" points="255,28 271,28 283,40 271,52 255,52" stroke-linejoin="round" width="30" height="24" fill="rgb(131,95,202)" stroke="rgb(104,76,161)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1623_20)</title>
+			<polygon class=" (ctg1623_20)" points="324,25 321,25 321,10 291,40 321,70 321,55 324,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF3463 (PF11946)
+"Domain of unknown function (DUF3463)"</title>
+				<polygon class="PF11946" points="295,40 304,31 304,49" stroke-linejoin="round" width="13" height="24" fill="rgb(193,51,57)" stroke="rgb(154,40,45)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<polygon class="PF04055" points="305,30 307,28 320,28 320,52 307,52 305,50" stroke-linejoin="round" width="15" height="24" fill="rgb(149,56,222)" stroke="rgb(119,44,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1623_21)</title>
+			<polygon class=" (ctg1623_21)" points="324,40 342,10 342,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1623_22)</title>
+			<polygon class=" (ctg1623_22)" points="405,25 373,25 373,10 343,40 373,70 373,55 405,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQHop_cyclase_C (PF13243)
+"Squalene-hopene cyclase C-terminal domain"</title>
+				<polygon class="PF13243" points="347,40 359,28 375,28 375,52 359,52" stroke-linejoin="round" width="32" height="24" fill="rgb(191,58,201)" stroke="rgb(152,46,160)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SQHop_cyclase_N (PF13249)
+"Squalene-hopene cyclase N-terminal domain"</title>
+				<rect class="PF13249" x="376" y="28" stroke-linejoin="round" width="28" height="24" fill="rgb(88,190,89)" stroke="rgb(70,152,71)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1623_23)</title>
+			<polygon class=" (ctg1623_23)" points="439,25 436,25 436,10 406,40 436,70 436,55 439,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>polyprenyl_synt (PF00348)
+"Polyprenyl synthetase"</title>
+				<polygon class="PF00348" points="411,39 422,28 435,28 435,52 422,52 411,41" stroke-linejoin="round" width="24" height="24" fill="rgb(61,206,65)" stroke="rgb(48,164,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1623_24)</title>
+			<polygon class=" (ctg1623_24)" points="487,25 469,25 469,10 439,40 469,70 469,55 487,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amino_oxidase (PF01593)
+"Flavin containing amine oxidoreductase"</title>
+				<polygon class="PF01593" points="443,40 455,28 484,28 484,52 455,52" stroke-linejoin="round" width="43" height="24" fill="rgb(184,74,52)" stroke="rgb(147,59,41)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1623_25)</title>
+			<polygon class=" (ctg1623_25)" points="489,40 502,10 502,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="492,40 497,28 501,28 501,52 497,52" stroke-linejoin="round" width="11" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

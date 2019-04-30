@@ -1,0 +1,16 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ACR_tran             PF00873.19  1021 CS783_c00001_NODE_1_...cluster101_ORF2:gid::pid::loc:327:3474:strand:+ -           1048  2.3e-157  525.5   9.8   1   1    3e-161  2.7e-157  525.3   9.8     3  1020     6  1034     4  1035 0.91 AcrB/AcrD/AcrF family
+NHase_alpha          PF02979.16   184 CS783_c00001_NODE_1_...cluster101_ORF3:gid::pid::loc:3719:3986:strand:+ -             88   1.6e-07   30.8   0.0   1   1   1.1e-11     2e-07   30.5   0.0   115   167    19    72    14    76 0.86 Nitrile hydratase, alpha chain
+Cupin_4              PF08007.12   319 CS783_c00001_NODE_1_...cluster101_ORF5:gid::pid::loc:5149:6598:strand:- -            482   4.7e-33  115.0   0.1   1   1   6.8e-37   6.1e-33  114.6   0.1     4   248    89   340    85   404 0.77 Cupin superfamily protein
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS783_c00001_NODE_1_...cluster101.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS783_c00001_NODE_1_...cluster101.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS783_c00001_NODE_1_...cluster101.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:55:34 2019
+# [ok]

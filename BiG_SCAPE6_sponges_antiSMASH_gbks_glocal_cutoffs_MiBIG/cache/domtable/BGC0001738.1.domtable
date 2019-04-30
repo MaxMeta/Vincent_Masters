@@ -1,0 +1,36 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.28   423 BGC0001738.1_ORF1:gid:phm1:pid:BBC43184.1:loc:0:12300:strand:- -           3961     2e-76  257.3   0.3   1   1   4.1e-79   4.6e-76  256.1   0.1     7   416  3023  3424  3017  3433 0.87 AMP-binding enzyme
+ketoacyl-synt        PF00109.26   253 BGC0001738.1_ORF1:gid:phm1:pid:BBC43184.1:loc:0:12300:strand:- -           3961   7.9e-72  241.9   0.0   1   1   1.3e-74   1.5e-71  241.0   0.0     2   253     5   256     4   256 0.96 Beta-ketoacyl synthase, N-terminal domain
+KR                   PF08659.10   180 BGC0001738.1_ORF1:gid:phm1:pid:BBC43184.1:loc:0:12300:strand:- -           3961   7.4e-56  188.9   0.0   1   1   1.1e-53   1.2e-50  171.9   0.0     2   177  2106  2278  2105  2281 0.96 KR domain
+Condensation         PF00668.20   457 BGC0001738.1_ORF1:gid:phm1:pid:BBC43184.1:loc:0:12300:strand:- -           3961   2.4e-54  184.7   0.0   1   1   3.8e-57   4.3e-54  183.9   0.0     5   442  2552  2982  2549  2987 0.87 Condensation domain
+PS-DH                PF14765.6    298 BGC0001738.1_ORF1:gid:phm1:pid:BBC43184.1:loc:0:12300:strand:- -           3961   5.9e-46  157.1   0.0   1   1     1e-48   1.1e-45  156.1   0.0     1   296   933  1235   933  1237 0.91 Polyketide synthase dehydratase
+Acyl_transf_1        PF00698.21   319 BGC0001738.1_ORF1:gid:phm1:pid:BBC43184.1:loc:0:12300:strand:- -           3961   2.6e-42  145.5   0.0   1   1   4.5e-45     5e-42  144.5   0.0     3   299   541   861   540   872 0.83 Acyl transferase domain
+Ketoacyl-synt_C      PF02801.22   118 BGC0001738.1_ORF1:gid:phm1:pid:BBC43184.1:loc:0:12300:strand:- -           3961   4.9e-30  104.0   0.0   1   1   1.2e-32   1.3e-29  102.6   0.0     3   116   266   383   265   385 0.93 Beta-ketoacyl synthase, C-terminal domain
+NAD_binding_4        PF07993.12   257 BGC0001738.1_ORF1:gid:phm1:pid:BBC43184.1:loc:0:12300:strand:- -           3961   1.9e-26   92.8   0.0   1   1   2.3e-28   2.6e-25   89.1   0.0     1   252  3655  3867  3655  3872 0.78 Male sterility protein
+Methyltransf_12      PF08242.12    99 BGC0001738.1_ORF1:gid:phm1:pid:BBC43184.1:loc:0:12300:strand:- -           3961   3.5e-17   63.0   0.0   1   1   2.2e-19   2.5e-16   60.2   0.0     2    99  1410  1510  1409  1510 0.92 Methyltransferase domain
+KAsynt_C_assoc       PF16197.5    112 BGC0001738.1_ORF1:gid:phm1:pid:BBC43184.1:loc:0:12300:strand:- -           3961   3.2e-16   59.8   0.0   1   1   7.8e-19   8.7e-16   58.4   0.0    12   109   397   500   388   502 0.88 Ketoacyl-synthetase C-terminal extension
+PP-binding           PF00550.25    67 BGC0001738.1_ORF1:gid:phm1:pid:BBC43184.1:loc:0:12300:strand:- -           3961   1.1e-15   57.7   0.4   1   2   1.1e-08   1.3e-05   25.5   0.1     8    65  2400  2458  2397  2460 0.88 Phosphopantetheine attachment site
+PP-binding           PF00550.25    67 BGC0001738.1_ORF1:gid:phm1:pid:BBC43184.1:loc:0:12300:strand:- -           3961   1.1e-15   57.7   0.4   2   2   6.1e-10   6.9e-07   29.5   0.0     5    67  3550  3612  3547  3612 0.90 Phosphopantetheine attachment site
+adh_short            PF00106.25   195 BGC0001738.1_ORF1:gid:phm1:pid:BBC43184.1:loc:0:12300:strand:- -           3961   1.4e-12   47.5   0.0   1   1   5.8e-13   6.5e-10   38.8   0.0     2   176  2106  2278  2105  2298 0.84 short chain dehydrogenase
+Epimerase            PF01370.21   241 BGC0001738.1_ORF1:gid:phm1:pid:BBC43184.1:loc:0:12300:strand:- -           3961     8e-12   45.1   0.0   1   1   7.8e-12   8.7e-09   35.2   0.0     1   197  3653  3851  3653  3873 0.77 NAD dependent epimerase/dehydratase family
+Methyltransf_25      PF13649.6     97 BGC0001738.1_ORF1:gid:phm1:pid:BBC43184.1:loc:0:12300:strand:- -           3961   4.4e-10   40.1   0.0   1   1   3.5e-12   3.9e-09   37.1   0.0     1    97  1408  1508  1408  1508 0.89 Methyltransferase domain
+Methyltransf_23      PF13489.6    165 BGC0001738.1_ORF1:gid:phm1:pid:BBC43184.1:loc:0:12300:strand:- -           3961   1.5e-09   37.9   0.0   1   1   4.3e-12   4.8e-09   36.3   0.0    20   160  1402  1561  1385  1566 0.75 Methyltransferase domain
+Methyltransf_11      PF08241.12    96 BGC0001738.1_ORF1:gid:phm1:pid:BBC43184.1:loc:0:12300:strand:- -           3961   1.7e-08   35.0   0.0   1   1   4.5e-11     5e-08   33.5   0.0     2    95  1410  1511  1409  1512 0.83 Methyltransferase domain
+Fungal_trans         PF04082.18   267 BGC0001738.1_ORF2:gid:phm2:pid:BBC43185.1:loc:12984:15559:strand:- -            744   6.7e-16   58.1   0.1   1   1   6.1e-20   1.1e-15   57.4   0.1     1   230   227   453   227   503 0.77 Fungal specific transcription factor domain
+MFS_1                PF07690.16   353 BGC0001738.1_ORF3:gid:phm3:pid:BBC43186.1:loc:15946:17504:strand:+ -            485   2.8e-44  151.5  40.7   1   1   3.1e-48   2.8e-44  151.5  40.7    10   353    61   437    50   437 0.83 Major Facilitator Superfamily
+Sugar_tr             PF00083.24   452 BGC0001738.1_ORF3:gid:phm3:pid:BBC43186.1:loc:15946:17504:strand:+ -            485   2.3e-13   49.8   8.3   1   1   2.6e-17   2.3e-13   49.8   8.3    43   194    73   226    29   263 0.84 Sugar (and other) transporter
+ADH_zinc_N           PF00107.26   130 BGC0001738.1_ORF4:gid:phm4:pid:BBC43187.1:loc:18096:19185:strand:- -            362   4.2e-11   42.9   0.0   1   1   8.8e-15   7.9e-11   42.1   0.0     2    81   174   251   173   287 0.88 Zinc-binding dehydrogenase
+ADH_N                PF08240.12   109 BGC0001738.1_ORF4:gid:phm4:pid:BBC43187.1:loc:18096:19185:strand:- -            362   1.5e-05   24.9   0.1   1   1   6.2e-09   5.6e-05   23.0   0.1     2    63    36    95    35   100 0.92 Alcohol dehydrogenase GroES-like domain
+Methyltransf_2       PF00891.18   210 BGC0001738.1_ORF5:gid:phm5:pid:BBC43188.1:loc:19590:20691:strand:+ -            366   3.5e-21   75.5   0.0   1   1   2.7e-25   4.8e-21   75.0   0.0    64   209   198   345   149   346 0.87 O-methyltransferase domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001738.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001738.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001738.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:37:12 2019
+# [ok]

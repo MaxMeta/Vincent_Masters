@@ -1,0 +1,19 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MBOAT                PF03062.19   348 BGC0000726.1_ORF1:gid:algI:pid:AAQ84556.1:loc:0:1458:strand:+ -            485     1e-28  100.7  12.1   1   1   1.4e-32   2.4e-28   99.5  12.1    48   309    35   346     1   381 0.83 MBOAT, membrane-bound O-acyltransferase family
+ALGX                 PF16822.5    268 BGC0000726.1_ORF2:gid:algJ:pid:AAQ84557.1:loc:1468:2626:strand:+ -            385   5.1e-99  331.3   3.0   1   1  3.5e-103   6.2e-99  331.0   3.0     1   268    81   346    81   346 0.99 SGNH hydrolase-like domain, acetyltransferase AlgX
+AlgF                 PF11182.8    180 BGC0000726.1_ORF3:gid:algF:pid:AAQ84558.1:loc:2640:3294:strand:+ -            217   2.6e-83  278.3   1.5   1   1   1.7e-87   3.1e-83  278.0   1.5     2   179    17   194    16   195 0.99 Alginate O-acetyl transferase AlgF
+NTP_transferase      PF00483.23   248 BGC0000726.1_ORF4:gid:algA:pid:AAQ84559.1:loc:3324:4613:strand:+ -            430   8.2e-73  245.0   0.0   1   1   2.6e-76   1.6e-72  244.1   0.0     2   246     4   286     3   288 0.96 Nucleotidyl transferase
+MannoseP_isomer      PF01050.18   151 BGC0000726.1_ORF4:gid:algA:pid:AAQ84559.1:loc:3324:4613:strand:+ -            430   9.1e-54  181.4   1.2   1   1     3e-57   1.8e-53  180.5   1.2     1   115   315   429   315   430 0.99 Mannose-6-phosphate isomerase
+NTP_transf_3         PF12804.7    160 BGC0000726.1_ORF4:gid:algA:pid:AAQ84559.1:loc:3324:4613:strand:+ -            430   3.4e-09   37.3   0.1   1   1   1.3e-12   7.6e-09   36.1   0.0     2   113     5   131     4   219 0.80 MobA-like NTP transferase domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000726.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000726.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000726.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:52:18 2019
+# [ok]

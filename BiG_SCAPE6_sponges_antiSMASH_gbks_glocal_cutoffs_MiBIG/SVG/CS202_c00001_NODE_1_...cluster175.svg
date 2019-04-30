@@ -1,0 +1,37 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="235.16666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="225.16666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg9097_1)</title>
+			<polygon class=" (ctg9097_1)" points="10,25 47,25 47,10 77,40 47,70 47,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQHop_cyclase_N (PF13249)
+"Squalene-hopene cyclase N-terminal domain"</title>
+				<rect class="PF13249" x="13" y="28" stroke-linejoin="round" width="29" height="24" fill="rgb(88,190,89)" stroke="rgb(70,152,71)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SQHop_cyclase_C (PF13243)
+"Squalene-hopene cyclase C-terminal domain"</title>
+				<polygon class="PF13243" points="43,28 61,28 73,40 61,52 43,52" stroke-linejoin="round" width="32" height="24" fill="rgb(191,58,201)" stroke="rgb(152,46,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg9097_2)</title>
+			<polygon class=" (ctg9097_2)" points="76,40 100,10 100,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg9097_3)</title>
+			<polygon class=" (ctg9097_3)" points="224,25 140,25 140,10 110,40 140,70 140,55 224,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Beta_propel (PF09826)
+"Beta propeller domain"</title>
+				<rect class="PF09826" x="133" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(187,75,50)" stroke="rgb(149,60,39)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Beta_propel (PF09826)
+"Beta propeller domain"</title>
+				<rect class="PF09826" x="174" y="28" stroke-linejoin="round" width="48" height="24" fill="rgb(187,75,50)" stroke="rgb(149,60,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

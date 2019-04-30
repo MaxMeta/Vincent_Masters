@@ -1,0 +1,91 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="423.7" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="413.7" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg3684_1)</title>
+			<polygon class=" (ctg3684_1)" points="12,10 38,40 12,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pan_kinase (PF03309)
+"Type III pantothenate kinase"</title>
+				<polygon class="PF03309" points="12,28 23,28 32,38 32,42 23,52 12,52" stroke-linejoin="round" width="20" height="24" fill="rgb(184,180,48)" stroke="rgb(147,144,38)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3684_2)</title>
+			<polygon class=" (ctg3684_2)" points="79,25 69,25 69,10 39,40 69,70 69,55 79,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="43,40 55,28 71,28 71,52 55,52" stroke-linejoin="round" width="29" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3684_3)</title>
+			<polygon class=" (ctg3684_3)" points="86,10 95,40 86,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cpn10 (PF00166)
+"Chaperonin 10 Kd subunit"</title>
+				<polygon class="PF00166" points="86,28 88,28 92,40 88,52 86,52" stroke-linejoin="round" width="9" height="24" fill="rgb(88,59,221)" stroke="rgb(70,47,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3684_4)</title>
+			<polygon class=" (ctg3684_4)" points="99,25 123,25 123,10 153,40 123,70 123,55 99,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cpn60_TCP1 (PF00118)
+"TCP-1/cpn60 chaperonin family"</title>
+				<polygon class="PF00118" points="101,28 137,28 149,40 137,52 101,52" stroke-linejoin="round" width="50" height="24" fill="rgb(73,204,119)" stroke="rgb(58,163,95)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3684_5)</title>
+			<polygon class=" (ctg3684_5)" points="157,10 182,40 157,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CarboxypepD_reg (PF13620)
+"Carboxypeptidase regulatory-like domain"</title>
+				<rect class="PF13620" x="160" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(201,63,96)" stroke="rgb(160,50,76)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Plug (PF07715)
+"TonB-dependent Receptor Plug Domain"</title>
+				<polygon class="PF07715" points="170,30 178,40 170,50" stroke-linejoin="round" width="9" height="24" fill="rgb(99,133,214)" stroke="rgb(79,106,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3684_6)</title>
+			<polygon class=" (ctg3684_6)" points="187,10 190,40 187,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3684_7)</title>
+			<polygon class=" (ctg3684_7)" points="222,25 277,25 277,10 307,40 277,70 277,55 222,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HsdM_N (PF12161)
+"HsdM N-terminal domain"</title>
+				<rect class="PF12161" x="222" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(68,127,210)" stroke="rgb(54,101,168)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>N6_Mtase (PF02384)
+"N-6 DNA Methylase"</title>
+				<rect class="PF02384" x="235" y="28" stroke-linejoin="round" width="31" height="24" fill="rgb(46,179,90)" stroke="rgb(36,143,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3684_8)</title>
+			<polygon class=" (ctg3684_8)" points="307,25 319,25 319,10 349,40 319,70 319,55 307,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methylase_S (PF01420)
+"Type I restriction modification DNA specificity domain"</title>
+				<rect class="PF01420" x="308" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(94,156,220)" stroke="rgb(75,124,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3684_9)</title>
+			<polygon class=" (ctg3684_9)" points="349,10 366,40 349,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_24 (PF13412)
+"Winged helix-turn-helix DNA-binding"</title>
+				<polygon class="PF13412" points="360,35 362,40 360,45" stroke-linejoin="round" width="4" height="24" fill="rgb(222,79,68)" stroke="rgb(177,63,54)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,86 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="279.93333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="269.93333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg4857_1)</title>
+			<polygon class=" (ctg4857_1)" points="10,10 13,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg4857_2)</title>
+			<polygon class=" (ctg4857_2)" points="57,25 42,25 42,10 12,40 42,70 42,55 57,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amino_oxidase (PF01593)
+"Flavin containing amine oxidoreductase"</title>
+				<polygon class="PF01593" points="27,29 28,28 55,28 55,52 28,52 27,51" stroke-linejoin="round" width="28" height="24" fill="rgb(184,74,52)" stroke="rgb(147,59,41)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4857_3)</title>
+			<polygon class=" (ctg4857_3)" points="65,10 74,40 65,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2282 (PF10048)
+"Predicted integral membrane protein (DUF2282)"</title>
+				<polygon class="PF10048" points="68,30 71,40 68,50" stroke-linejoin="round" width="5" height="24" fill="rgb(58,205,168)" stroke="rgb(46,164,134)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4857_4)</title>
+			<polygon class=" (ctg4857_4)" points="76,10 102,40 76,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF692 (PF05114)
+"Protein of unknown function (DUF692)"</title>
+				<polygon class="PF05114" points="76,28 87,28 98,40 87,52 76,52" stroke-linejoin="round" width="26" height="24" fill="rgb(63,196,127)" stroke="rgb(50,156,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4857_5)</title>
+			<polygon class=" (ctg4857_5)" points="103,10 129,40 103,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2063 (PF09836)
+"Putative DNA-binding domain"</title>
+				<rect class="PF09836" x="103" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(88,194,190)" stroke="rgb(70,155,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4857_6)</title>
+			<polygon class=" (ctg4857_6)" points="129,40 136,10 136,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg4857_7)</title>
+			<polygon class=" (ctg4857_7)" points="174,25 167,25 167,10 137,40 167,70 167,55 174,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>S4 (PF01479)
+"S4 domain"</title>
+				<polygon class="PF01479" points="141,40 143,38 143,42" stroke-linejoin="round" width="4" height="24" fill="rgb(93,184,76)" stroke="rgb(74,147,60)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>tRNA-synt_1b (PF00579)
+"tRNA synthetases class I (W and Y)"</title>
+				<polygon class="PF00579" points="145,36 153,28 173,28 173,52 153,52 145,44" stroke-linejoin="round" width="28" height="24" fill="rgb(82,63,204)" stroke="rgb(65,50,163)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4857_8)</title>
+			<polygon class=" (ctg4857_8)" points="186,25 201,25 201,10 231,40 201,70 201,55 186,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>OapA (PF04225)
+"Opacity-associated protein A LysM-like domain"</title>
+				<rect class="PF04225" x="195" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(92,198,153)" stroke="rgb(73,158,122)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Peptidase_M23 (PF01551)
+"Peptidase family M23"</title>
+				<polygon class="PF01551" points="217,30 226,39 226,41 217,50" stroke-linejoin="round" width="9" height="24" fill="rgb(65,169,193)" stroke="rgb(51,135,154)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4857_9)</title>
+			<polygon class=" (ctg4857_9)" points="231,25 237,25 237,10 267,40 237,70 237,55 231,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AnmK (PF03702)
+"Anhydro-N-acetylmuramic acid kinase"</title>
+				<polygon class="PF03702" points="231,28 251,28 263,40 251,52 231,52" stroke-linejoin="round" width="36" height="24" fill="rgb(182,60,66)" stroke="rgb(145,48,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

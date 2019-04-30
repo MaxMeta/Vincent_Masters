@@ -1,0 +1,63 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="150.0" height="400">
+	<g>
+		<line x1="10" y1="40.0" x2="77.0" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>UGTB1
+UDP-glucosyltransferase</title>
+			<polygon class="UGTB1
+UDP-glucosyltransferase" points="25,25 38,25 38,10 68,40 38,70 38,55 25,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyco_transf_28 (PF03033)
+"Glycosyltransferase family 28 N-terminal domain"</title>
+				<rect class="PF03033" x="25" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(157,218,79)" stroke="rgb(125,174,63)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>UDPGT (PF00201)
+"UDP-glucoronosyl and UDP-glucosyl transferase"</title>
+				<polygon class="PF00201" points="51,28 52,28 64,40 52,52 51,52" stroke-linejoin="round" width="16" height="24" fill="rgb(225,150,107)" stroke="rgb(180,120,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="120.0" x2="140.0" y2="120.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>mdr
+multidrug resistance protein</title>
+			<polygon class="mdr
+multidrug resistance protein" points="10,105 110,105 110,90 140,120 110,150 110,135 10,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="200.0" x2="41.06666666666666" y2="200.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>
+acetyltransferase</title>
+			<polygon class="
+acetyltransferase" points="11,170 37,200 11,230" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="280.0" x2="69.26666666666667" y2="280.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>UGTA1
+UDP-glucosyltransferase</title>
+			<polygon class="UGTA1
+UDP-glucosyltransferase" points="17,265 33,265 33,250 63,280 33,310 33,295 17,295" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="360.0" x2="111.43333333333334" y2="360.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>
+cytochrome P450 monooxygenase CYP52-M1</title>
+			<polygon class="
+cytochrome P450 monooxygenase CYP52-M1" points="18,345 41,345 41,330 71,360 41,390 41,375 18,375" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="88,330 102,360 88,390" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

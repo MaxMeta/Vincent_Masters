@@ -1,0 +1,23 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Aminotran_3          PF00202.21   406 BGC0001599.1_ORF1:gid::pid:CDN62024.1:loc:0:1347:strand:- -            448  1.4e-103  346.7   0.0   1   1  9.6e-108  1.7e-103  346.4   0.0    10   405    22   438    15   439 0.95 Aminotransferase class-III
+Condensation         PF00668.20   457 BGC0001599.1_ORF2:gid::pid:CDN62025.1:loc:1403:2765:strand:- -            453   8.2e-41  140.1   0.0   1   1   5.4e-45   9.7e-41  139.9   0.0     5   454     8   449     5   452 0.89 Condensation domain
+DUF3050              PF11251.8    233 BGC0001599.1_ORF4:gid::pid:CDN62027.1:loc:3161:3944:strand:+ -            260   2.8e-89  298.8   0.0   1   1   3.6e-93   3.2e-89  298.6   0.0     1   232    18   246    18   247 0.98 Protein of unknown function (DUF3050)
+AurF                 PF11583.8    283 BGC0001599.1_ORF6:gid::pid:CDN62029.1:loc:4326:5253:strand:+ -            308     8e-19   68.0   0.3   1   1   5.8e-23     1e-18   67.6   0.3    31   255    24   262     6   272 0.84 P-aminobenzoate N-oxygenase AurF
+AMP-binding          PF00501.28   423 BGC0001599.1_ORF7:gid::pid:CDN62030.1:loc:5262:8829:strand:+ -           1188   1.3e-83  280.9   0.0   1   1   5.6e-87     2e-83  280.4   0.0     3   423   199   594   197   594 0.88 AMP-binding enzyme
+NAD_binding_4        PF07993.12   257 BGC0001599.1_ORF7:gid::pid:CDN62030.1:loc:5262:8829:strand:+ -           1188   1.2e-54  185.2   0.0   1   1   4.8e-58   1.7e-54  184.7   0.0     1   257   809  1048   809  1048 0.92 Male sterility protein
+PP-binding           PF00550.25    67 BGC0001599.1_ORF7:gid::pid:CDN62030.1:loc:5262:8829:strand:+ -           1188   2.7e-13   50.0   0.1   1   1   2.2e-16   7.9e-13   48.6   0.1     2    67   702   767   702   767 0.97 Phosphopantetheine attachment site
+Epimerase            PF01370.21   241 BGC0001599.1_ORF7:gid::pid:CDN62030.1:loc:5262:8829:strand:+ -           1188   2.5e-11   43.5   0.0   1   1   1.3e-14   4.7e-11   42.6   0.0     1   176   807  1002   807  1022 0.79 NAD dependent epimerase/dehydratase family
+AMP-binding_C        PF13193.6     76 BGC0001599.1_ORF7:gid::pid:CDN62030.1:loc:5262:8829:strand:+ -           1188   2.7e-07   31.5   2.7   1   1   9.2e-10   3.3e-06   28.0   0.1     1    76   602   673   602   673 0.84 AMP-binding enzyme C-terminal domain
+Polyketide_cyc2      PF10604.9    143 BGC0001599.1_ORF8:gid::pid:CDN62031.1:loc:8884:9373:strand:+ -            162   1.5e-18   67.5   0.0   1   1     1e-22   1.8e-18   67.2   0.0     5   141    24   158    22   160 0.89 Polyketide cyclase / dehydrase and lipid transport
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001599.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001599.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001599.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:43:53 2019
+# [ok]

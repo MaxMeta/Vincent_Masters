@@ -1,0 +1,164 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="579.8" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="569.8" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg721_1)</title>
+			<polygon class=" (ctg721_1)" points="10,10 26,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TetR_N (PF00440)
+"Bacterial regulatory proteins, tetR family"</title>
+				<rect class="PF00440" x="10" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(73,212,190)" stroke="rgb(58,169,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg721_2)</title>
+			<polygon class=" (ctg721_2)" points="30,25 30,25 30,10 60,40 30,70 30,55 30,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="31,28 43,28 55,40 43,52 31,52" stroke-linejoin="round" width="25" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg721_3)</title>
+			<polygon class=" (ctg721_3)" points="60,10 88,40 60,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="61,28 72,28 84,40 72,52 61,52" stroke-linejoin="round" width="25" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg721_4)</title>
+			<polygon class=" (ctg721_4)" points="89,25 108,25 108,10 138,40 108,70 108,55 89,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amino_oxidase (PF01593)
+"Flavin containing amine oxidoreductase"</title>
+				<polygon class="PF01593" points="91,28 121,28 133,40 133,40 121,52 91,52" stroke-linejoin="round" width="42" height="24" fill="rgb(184,74,52)" stroke="rgb(147,59,41)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg721_5)</title>
+			<polygon class=" (ctg721_5)" points="138,25 141,25 141,10 171,40 141,70 141,55 138,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>polyprenyl_synt (PF00348)
+"Polyprenyl synthetase"</title>
+				<polygon class="PF00348" points="140,28 154,28 164,38 164,42 154,52 140,52" stroke-linejoin="round" width="24" height="24" fill="rgb(61,206,65)" stroke="rgb(48,164,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg721_6)</title>
+			<polygon class=" (ctg721_6)" points="171,25 206,25 206,10 236,40 206,70 206,55 171,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQHop_cyclase_N (PF13249)
+"Squalene-hopene cyclase N-terminal domain"</title>
+				<rect class="PF13249" x="171" y="28" stroke-linejoin="round" width="28" height="24" fill="rgb(88,190,89)" stroke="rgb(70,152,71)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SQHop_cyclase_C (PF13243)
+"Squalene-hopene cyclase C-terminal domain"</title>
+				<polygon class="PF13243" points="200,28 220,28 232,40 232,40 220,52 200,52" stroke-linejoin="round" width="32" height="24" fill="rgb(191,58,201)" stroke="rgb(152,46,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg721_7)</title>
+			<polygon class=" (ctg721_7)" points="239,10 254,40 239,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg721_8)</title>
+			<polygon class=" (ctg721_8)" points="254,25 257,25 257,10 287,40 257,70 257,55 254,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<polygon class="PF04055" points="257,28 271,28 272,29 272,51 271,52 257,52" stroke-linejoin="round" width="15" height="24" fill="rgb(149,56,222)" stroke="rgb(119,44,177)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DUF3463 (PF11946)
+"Domain of unknown function (DUF3463)"</title>
+				<polygon class="PF11946" points="273,30 283,40 273,50" stroke-linejoin="round" width="13" height="24" fill="rgb(193,51,57)" stroke="rgb(154,40,45)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg721_9)</title>
+			<polygon class=" (ctg721_9)" points="371,25 318,25 318,10 288,40 318,70 318,55 371,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ERAP1_C (PF11838)
+"ERAP1-like C-terminal domain"</title>
+				<polygon class="PF11838" points="292,40 304,28 319,28 319,52 304,52" stroke-linejoin="round" width="30" height="24" fill="rgb(131,95,202)" stroke="rgb(104,76,161)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Peptidase_M1 (PF01433)
+"Peptidase family M1 domain"</title>
+				<rect class="PF01433" x="327" y="28" stroke-linejoin="round" width="21" height="24" fill="rgb(173,57,219)" stroke="rgb(138,45,175)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Peptidase_M1_N (PF17900)
+"Peptidase M1 N-terminal domain"</title>
+				<rect class="PF17900" x="352" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(212,82,159)" stroke="rgb(169,65,127)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg721_10)</title>
+			<polygon class=" (ctg721_10)" points="370,40 377,10 377,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg721_11)</title>
+			<polygon class=" (ctg721_11)" points="378,10 385,40 378,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg721_12)</title>
+			<polygon class=" (ctg721_12)" points="383,40 391,10 391,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg721_13)</title>
+			<polygon class=" (ctg721_13)" points="403,40 408,10 408,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg721_14)</title>
+			<polygon class=" (ctg721_14)" points="408,40 415,10 415,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg721_15)</title>
+			<polygon class=" (ctg721_15)" points="425,40 429,10 429,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg721_16)</title>
+			<polygon class=" (ctg721_16)" points="431,10 442,40 431,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg721_17)</title>
+			<polygon class=" (ctg721_17)" points="455,10 462,40 455,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg721_18)</title>
+			<polygon class=" (ctg721_18)" points="462,10 475,40 462,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PIN (PF01850)
+"PIN domain"</title>
+				<polygon class="PF01850" points="462,28 466,28 472,40 466,52 462,52" stroke-linejoin="round" width="11" height="24" fill="rgb(91,217,126)" stroke="rgb(72,173,100)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg721_19)</title>
+			<polygon class=" (ctg721_19)" points="480,10 484,40 480,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg721_20)</title>
+			<polygon class=" (ctg721_20)" points="484,25 486,25 486,10 516,40 486,70 486,55 484,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PfkB (PF00294)
+"pfkB family carbohydrate kinase"</title>
+				<polygon class="PF00294" points="484,28 500,28 512,40 500,52 484,52" stroke-linejoin="round" width="31" height="24" fill="rgb(153,96,212)" stroke="rgb(122,76,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg721_21)</title>
+			<polygon class=" (ctg721_21)" points="518,10 545,40 518,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PNP_UDP_1 (PF01048)
+"Phosphorylase superfamily"</title>
+				<polygon class="PF01048" points="520,28 529,28 540,40 529,52 520,52" stroke-linejoin="round" width="24" height="24" fill="rgb(75,186,148)" stroke="rgb(60,148,118)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

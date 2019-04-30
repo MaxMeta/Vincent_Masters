@@ -1,0 +1,308 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="995.1333333333333" height="160">
+	<g>
+		<line x1="10" y1="40.0" x2="985.1333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (Npun_R1259)
+hypothetical protein</title>
+			<polygon class=" (Npun_R1259)
+hypothetical protein" points="41,25 40,25 40,10 10,40 40,70 40,55 41,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (Npun_R1260)
+phospho-2-dehydro-3-deoxyheptonate aldolase</title>
+			<polygon class=" (Npun_R1260)
+phospho-2-dehydro-3-deoxyheptonate aldolase" points="86,25 80,25 80,10 50,40 80,70 80,55 86,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DAHP_synth_1 (PF00793)
+"DAHP synthetase I family"</title>
+				<polygon class="PF00793" points="54,40 66,28 78,28 78,52 66,52" stroke-linejoin="round" width="26" height="24" fill="rgb(223,103,208)" stroke="rgb(178,82,166)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DAHP_snth_FXD (PF18152)
+"DAHP synthase ferredoxin-like domain"</title>
+				<rect class="PF18152" x="79" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(83,182,57)" stroke="rgb(66,145,45)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (Npun_R1261)
+anthranilate phosphoribosyltransferase</title>
+			<polygon class=" (Npun_R1261)
+anthranilate phosphoribosyltransferase" points="131,25 125,25 125,10 95,40 125,70 125,55 131,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_3 (PF00591)
+"Glycosyl transferase family, a/b domain"</title>
+				<polygon class="PF00591" points="99,40 111,28 122,28 122,52 111,52" stroke-linejoin="round" width="26" height="24" fill="rgb(73,116,182)" stroke="rgb(58,92,145)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Glycos_trans_3N (PF02885)
+"Glycosyl transferase family, helical bundle domain"</title>
+				<rect class="PF02885" x="123" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(156,69,183)" stroke="rgb(124,55,146)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (Npun_R1262)
+tryptophan synthase, beta subunit</title>
+			<polygon class=" (Npun_R1262)
+tryptophan synthase, beta subunit" points="176,25 165,25 165,10 135,40 165,70 165,55 176,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PALP (PF00291)
+"Pyridoxal-phosphate dependent enzyme"</title>
+				<polygon class="PF00291" points="139,40 151,28 169,28 169,52 151,52" stroke-linejoin="round" width="33" height="24" fill="rgb(180,55,145)" stroke="rgb(144,44,116)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (Npun_R1263)
+tyrosinase</title>
+			<polygon class=" (Npun_R1263)
+tyrosinase" points="218,25 208,25 208,10 178,40 208,70 208,55 218,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Tyrosinase (PF00264)
+"Common central domain of tyrosinase"</title>
+				<polygon class="PF00264" points="185,37 194,28 209,28 209,52 194,52 185,43" stroke-linejoin="round" width="24" height="24" fill="rgb(87,199,223)" stroke="rgb(69,159,178)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (Npun_R1264)
+tryptophan synthase, alpha subunit</title>
+			<polygon class=" (Npun_R1264)
+tryptophan synthase, alpha subunit" points="223,40 250,10 250,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Trp_syntA (PF00290)
+"Tryptophan synthase alpha chain"</title>
+				<polygon class="PF00290" points="227,40 238,28 249,28 249,52 238,52" stroke-linejoin="round" width="25" height="24" fill="rgb(101,209,118)" stroke="rgb(80,167,94)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (Npun_R1265)
+Indole-3-glycerol phosphate synthase</title>
+			<polygon class=" (Npun_R1265)
+Indole-3-glycerol phosphate synthase" points="267,40 294,10 294,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>IGPS (PF00218)
+"Indole-3-glycerol phosphate synthase"</title>
+				<polygon class="PF00218" points="271,40 282,28 292,28 292,52 282,52" stroke-linejoin="round" width="25" height="24" fill="rgb(183,89,153)" stroke="rgb(146,71,122)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (Npun_R1266)
+anthranilate synthase</title>
+			<polygon class=" (Npun_R1266)
+anthranilate synthase" points="373,25 330,25 330,10 300,40 330,70 330,55 373,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GATase (PF00117)
+"Glutamine amidotransferase class-I"</title>
+				<polygon class="PF00117" points="304,40 316,28 319,28 319,52 316,52" stroke-linejoin="round" width="18" height="24" fill="rgb(159,201,96)" stroke="rgb(127,160,76)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Chorismate_bind (PF00425)
+"chorismate binding enzyme"</title>
+				<rect class="PF00425" x="324" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(188,116,88)" stroke="rgb(150,92,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Anth_synt_I_N (PF04715)
+"Anthranilate synthase component I, N terminal region"</title>
+				<rect class="PF04715" x="353" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(163,87,183)" stroke="rgb(130,69,146)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (Npun_R1267)
+3-dehydroquinate synthase</title>
+			<polygon class=" (Npun_R1267)
+3-dehydroquinate synthase" points="429,25 420,25 420,10 390,40 420,70 420,55 429,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DHQ_synthase (PF01761)
+"3-dehydroquinate synthase"</title>
+				<polygon class="PF01761" points="394,40 406,28 419,28 419,52 406,52 394,40" stroke-linejoin="round" width="25" height="24" fill="rgb(150,62,180)" stroke="rgb(120,49,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (Npun_R1268)
+DSBA oxidoreductase</title>
+			<polygon class=" (Npun_R1268)
+DSBA oxidoreductase" points="429,40 450,10 450,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DSBA (PF01323)
+"DSBA-like thioredoxin domain"</title>
+				<polygon class="PF01323" points="433,40 442,28 450,28 450,52 442,52" stroke-linejoin="round" width="20" height="24" fill="rgb(221,114,99)" stroke="rgb(176,91,79)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (Npun_R1269)
+Prephenate dehydrogenase</title>
+			<polygon class=" (Npun_R1269)
+Prephenate dehydrogenase" points="491,25 485,25 485,10 455,40 485,70 485,55 491,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PDH (PF02153)
+"Prephenate dehydrogenase"</title>
+				<polygon class="PF02153" points="459,40 471,28 480,28 480,52 471,52" stroke-linejoin="round" width="22" height="24" fill="rgb(90,185,212)" stroke="rgb(72,148,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (Npun_R1270)
+glycosyl transferase, group 1</title>
+			<polygon class=" (Npun_R1270)
+glycosyl transferase, group 1" points="535,25 522,25 522,10 492,40 522,70 522,55 535,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_1 (PF00534)
+"Glycosyl transferases group 1"</title>
+				<polygon class="PF00534" points="496,40 508,28 513,28 513,52 508,52 496,40" stroke-linejoin="round" width="17" height="24" fill="rgb(228,92,150)" stroke="rgb(182,73,119)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Glyco_trans_4_4 (PF13579)
+"Glycosyl transferase 4-like domain"</title>
+				<rect class="PF13579" x="515" y="28" stroke-linejoin="round" width="18" height="24" fill="rgb(143,60,202)" stroke="rgb(114,47,161)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (Npun_R1271)
+conserved hypothetical protein</title>
+			<polygon class=" (Npun_R1271)
+conserved hypothetical protein" points="582,25 573,25 573,10 543,40 573,70 573,55 582,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PEP-CTERM (PF07589)
+"PEP-CTERM motif"</title>
+				<polygon class="PF07589" points="547,40 546,41 546,39" stroke-linejoin="round" width="2" height="24" fill="rgb(125,218,99)" stroke="rgb(100,174,79)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DUF5128 (PF17170)
+"6-bladed beta-propeller"</title>
+				<polygon class="PF17170" points="553,34 559,28 561,28 561,52 559,52 553,46" stroke-linejoin="round" width="8" height="24" fill="rgb(67,171,188)" stroke="rgb(53,136,150)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (Npun_R1272)
+conserved hypothetical protein</title>
+			<polygon class=" (Npun_R1272)
+conserved hypothetical protein" points="631,25 618,25 618,10 588,40 618,70 618,55 631,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (Npun_R1273)
+conserved hypothetical protein</title>
+			<polygon class=" (Npun_R1273)
+conserved hypothetical protein" points="677,25 665,25 665,10 635,40 665,70 665,55 677,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (Npun_R1274)
+conserved hypothetical protein</title>
+			<polygon class=" (Npun_R1274)
+conserved hypothetical protein" points="711,25 709,25 709,10 679,40 709,70 709,55 711,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (Npun_R1275)
+Glu/Leu/Phe/Val dehydrogenase, C terminal</title>
+			<polygon class=" (Npun_R1275)
+Glu/Leu/Phe/Val dehydrogenase, C terminal" points="748,25 743,25 743,10 713,40 743,70 743,55 748,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ELFV_dehydrog (PF00208)
+"Glutamate/Leucine/Phenylalanine/Valine dehydrogenase"</title>
+				<polygon class="PF00208" points="717,40 728,29 728,51" stroke-linejoin="round" width="15" height="24" fill="rgb(181,160,45)" stroke="rgb(144,128,36)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ELFV_dehydrog_N (PF02812)
+"Glu/Leu/Phe/Val dehydrogenase, dimerisation domain"</title>
+				<rect class="PF02812" x="734" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(157,52,200)" stroke="rgb(125,41,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (Npun_R1276)
+thiamine pyrophosphate enzyme domain protein TPP-binding</title>
+			<polygon class=" (Npun_R1276)
+thiamine pyrophosphate enzyme domain protein TPP-binding" points="822,25 790,25 790,10 760,40 790,70 790,55 822,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TPP_enzyme_C (PF02775)
+"Thiamine pyrophosphate enzyme, C-terminal TPP binding domain"</title>
+				<polygon class="PF02775" points="764,40 776,28 778,28 778,52 776,52 764,40" stroke-linejoin="round" width="14" height="24" fill="rgb(156,179,45)" stroke="rgb(124,143,36)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TPP_enzyme_M (PF00205)
+"Thiamine pyrophosphate enzyme, central domain"</title>
+				<rect class="PF00205" x="784" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(149,194,69)" stroke="rgb(119,155,55)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TPP_enzyme_N (PF02776)
+"Thiamine pyrophosphate enzyme, N-terminal TPP binding domain"</title>
+				<rect class="PF02776" x="799" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(55,81,185)" stroke="rgb(44,64,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (Npun_F1277)
+PAS/PAC sensor signal transduction histidine kinase</title>
+			<polygon class=" (Npun_F1277)
+PAS/PAC sensor signal transduction histidine kinase" points="884,25 920,25 920,10 950,40 920,70 920,55 884,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PAS_9 (PF13426)
+"PAS domain"</title>
+				<rect class="PF13426" x="887" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(182,140,74)" stroke="rgb(145,112,59)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PAS_8 (PF13188)
+"PAS domain"</title>
+				<rect class="PF13188" x="901" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(206,218,73)" stroke="rgb(164,174,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PAS_9 (PF13426)
+"PAS domain"</title>
+				<rect class="PF13426" x="914" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(182,140,74)" stroke="rgb(145,112,59)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HisKA (PF00512)
+"His Kinase A (phospho-acceptor) domain"</title>
+				<rect class="PF00512" x="926" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(193,125,62)" stroke="rgb(154,100,49)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HATPase_c (PF02518)
+"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"</title>
+				<polygon class="PF02518" points="938,33 945,40 938,47" stroke-linejoin="round" width="11" height="24" fill="rgb(80,94,225)" stroke="rgb(64,75,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (Npun_F1278)
+two component transcriptional regulator, AraC family</title>
+			<polygon class=" (Npun_F1278)
+two component transcriptional regulator, AraC family" points="956,10 984,40 956,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<rect class="PF00072" x="956" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(100,107,203)" stroke="rgb(80,85,162)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HTH_18 (PF12833)
+"Helix-turn-helix domain"</title>
+				<polygon class="PF12833" points="975,35 980,40 975,45" stroke-linejoin="round" width="7" height="24" fill="rgb(216,58,224)" stroke="rgb(172,46,179)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="120.0" x2="198.2" y2="120.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (Npun_F5232)
+hypothetical protein</title>
+			<polygon class=" (Npun_F5232)
+hypothetical protein" points="10,90 38,120 10,150" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (Npun_F5233)
+TatD-related deoxyribonuclease</title>
+			<polygon class=" (Npun_F5233)
+TatD-related deoxyribonuclease" points="42,105 42,105 42,90 72,120 42,150 42,135 42,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (Npun_F5234)
+UbiA prenyltransferase</title>
+			<polygon class=" (Npun_F5234)
+UbiA prenyltransferase" points="76,90 105,120 76,150" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (Npun_F5235)
+conserved hypothetical protein</title>
+			<polygon class=" (Npun_F5235)
+conserved hypothetical protein" points="111,105 121,105 121,90 151,120 121,150 121,135 111,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (Npun_F5236)
+type I phosphodiesterase/nucleotide pyrophosphatase</title>
+			<polygon class=" (Npun_F5236)
+type I phosphodiesterase/nucleotide pyrophosphatase" points="152,105 167,105 167,90 197,120 167,150 167,135 152,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

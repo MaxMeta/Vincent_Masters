@@ -1,0 +1,32 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Phage_integrase      PF00589.22   172 CS211_c00001_NODE_1_...cluster127_ORF3:gid::pid::loc:1435:2458:strand:+ -            340   2.9e-23   82.5   0.0   1   1   1.7e-26   1.6e-22   80.2   0.0     2   171   155   315   154   316 0.87 Phage integrase family
+Phage_int_SAM_3      PF14659.6     58 CS211_c00001_NODE_1_...cluster127_ORF3:gid::pid::loc:1435:2458:strand:+ -            340   2.1e-05   24.7   0.0   1   1   3.7e-09   3.3e-05   24.1   0.0     9    53    60   104    51   108 0.91 Phage integrase, N-terminal SAM-like domain
+DDE_Tnp_IS66_C       PF13817.6     39 CS211_c00001_NODE_1_...cluster127_ORF4:gid::pid::loc:2559:2808:strand:+ -             82   1.7e-17   63.3   0.1   1   1   2.6e-21   2.3e-17   62.9   0.1     1    39    37    75    37    75 0.99 IS66 C-terminal element
+DDE_Tnp_IS66         PF03050.14   282 CS211_c00001_NODE_1_...cluster127_ORF4:gid::pid::loc:2559:2808:strand:+ -             82   1.6e-06   27.8   0.0   1   1   2.2e-10     2e-06   27.5   0.0   252   281     1    30     1    31 0.96 Transposase IS66 family
+TonB_dep_Rec         PF00593.24   470 CS211_c00001_NODE_1_...cluster127_ORF5:gid::pid::loc:3529:5851:strand:+ -            773   6.7e-16   59.2  12.5   1   1   9.8e-20   1.8e-15   57.8  12.6    50   469   296   771   268   772 0.68 TonB dependent receptor
+Methyltransf_2       PF00891.18   210 CS211_c00001_NODE_1_...cluster127_ORF9:gid::pid::loc:7266:7815:strand:- -            182   2.3e-33  115.3   0.0   1   1   4.8e-37   2.8e-33  115.0   0.0    58   209    17   162    12   163 0.93 O-methyltransferase domain
+MTS                  PF05175.14   169 CS211_c00001_NODE_1_...cluster127_ORF9:gid::pid::loc:7266:7815:strand:- -            182   3.7e-05   23.4   0.0   1   1   9.1e-09   5.4e-05   22.8   0.0    32   138    22   121    14   127 0.88 Methyltransferase small domain
+Methyltransf_11      PF08241.12    96 CS211_c00001_NODE_1_...cluster127_ORF9:gid::pid::loc:7266:7815:strand:- -            182   8.9e-05   23.1   0.0   1   1   2.1e-08   0.00013   22.6   0.0     2    95    27   119    26   120 0.89 Methyltransferase domain
+Dimerisation2        PF16864.5     90 CS211_c00001_NODE_1_...cluster127_ORF10:gid::pid::loc:8013:8934:strand:- -            306   1.1e-06   28.5   0.1   1   1   1.9e-10   1.7e-06   27.9   0.1     5    63   247   301   243   305 0.91 Dimerisation domain
+Radical_SAM          PF04055.21   167 CS211_c00001_NODE_1_...cluster127_ORF11:gid::pid::loc:9037:10261:strand:- -            407   2.7e-14   53.9   0.0   1   1   7.6e-18   6.8e-14   52.6   0.0     6   138   114   252   112   266 0.91 Radical SAM superfamily
+Glycos_transf_1      PF00534.20   172 CS211_c00001_NODE_1_...cluster127_ORF11:gid::pid::loc:9037:10261:strand:- -            407   6.5e-09   35.6   0.0   1   1   1.1e-12     1e-08   34.9   0.0   108   170     1    63     1    65 0.96 Glycosyl transferases group 1
+DDE_Tnp_1_2          PF13586.6     90 CS211_c00001_NODE_1_...cluster127_ORF13:gid::pid::loc:11199:11730:strand:+ -            176     3e-10   40.3   0.0   1   1   5.4e-14   4.9e-10   39.7   0.0     3    85    93   167    91   172 0.85 Transposase DDE domain
+DDE_Tnp_1            PF01609.21   214 CS211_c00001_NODE_1_...cluster127_ORF13:gid::pid::loc:11199:11730:strand:+ -            176   1.3e-08   34.7   1.0   1   1   5.1e-12   4.5e-08   33.0   1.0    43   210    52   166    29   170 0.92 Transposase DDE domain
+MMPL                 PF03176.15   333 CS211_c00001_NODE_1_...cluster127_ORF14:gid::pid::loc:11959:14299:strand:+ -            779   5.4e-34  117.6  30.0   1   2   2.9e-22   1.3e-18   67.1   7.2    70   316   125   396    57   423 0.78 MMPL family
+MMPL                 PF03176.15   333 CS211_c00001_NODE_1_...cluster127_ORF14:gid::pid::loc:11959:14299:strand:+ -            779   5.4e-34  117.6  30.0   2   2   6.4e-19   2.9e-15   56.1  14.8   112   309   582   771   554   779 0.83 MMPL family
+Sterol-sensing       PF12349.8    153 CS211_c00001_NODE_1_...cluster127_ORF14:gid::pid::loc:11959:14299:strand:+ -            779   4.7e-14   52.5   6.4   1   1   1.9e-15   8.4e-12   45.2   0.1     7   140   255   387   249   399 0.87 Sterol-sensing domain of SREBP cleavage-activation
+Patched              PF02460.18   811 CS211_c00001_NODE_1_...cluster127_ORF14:gid::pid::loc:11959:14299:strand:+ -            779   7.4e-07   27.6   0.9   1   1   1.7e-10   7.4e-07   27.6   0.9   256   383   256   383   227   401 0.93 Patched family
+NHase_alpha          PF02979.16   184 CS211_c00001_NODE_1_...cluster127_ORF15:gid::pid::loc:14455:14707:strand:+ -             83   2.1e-09   36.9   0.1   1   1   1.8e-11   3.1e-07   29.9   0.0   115   168    19    73    14    80 0.90 Nitrile hydratase, alpha chain
+YcaO                 PF02624.16   323 CS211_c00001_NODE_1_...cluster127_ORF17:gid::pid::loc:15940:18295:strand:- -            784   1.3e-89  300.7   2.3   1   1   1.2e-93   2.1e-89  300.0   2.3     2   323   411   747   410   747 0.87 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster127.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS211_c00001_NODE_1_...cluster127.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster127.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:50:22 2019
+# [ok]

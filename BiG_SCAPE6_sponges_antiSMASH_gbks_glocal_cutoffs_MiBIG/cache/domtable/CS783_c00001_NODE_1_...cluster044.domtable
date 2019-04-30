@@ -1,0 +1,21 @@
+#                                                                                                                          --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                         accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                               -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+PQQ_3                PF13570.6     40 CS783_c00001_NODE_1_...cluster044_ORF2:gid::pid::loc:69:618:strand:+ -            182   1.8e-09   37.8   5.1   1   1   2.7e-07    0.0016   18.8   0.2     4    40    83   119    80   119 0.78 PQQ-like domain
+PQQ                  PF01011.21    38 CS783_c00001_NODE_1_...cluster044_ORF2:gid::pid::loc:69:618:strand:+ -            182   1.4e-09   37.4   0.0   1   1   4.1e-10   2.5e-06   27.1   0.0     2    37   102   137   100   138 0.89 PQQ enzyme repeat
+PQQ_2                PF13360.6    237 CS783_c00001_NODE_1_...cluster044_ORF2:gid::pid::loc:69:618:strand:+ -            182     2e-08   34.1   0.1   1   1   4.2e-12   2.5e-08   33.8   0.1    46   135    70   156    53   162 0.79 PQQ-like domain
+Methyltransf_11      PF08241.12    96 CS783_c00001_NODE_1_...cluster044_ORF4:gid::pid::loc:1341:1926:strand:- -            194   1.4e-12   48.1   0.0   1   1   5.3e-16   2.4e-12   47.3   0.0    20    93     2    77     1    79 0.97 Methyltransferase domain
+Methyltransf_25      PF13649.6     97 CS783_c00001_NODE_1_...cluster044_ORF4:gid::pid::loc:1341:1926:strand:- -            194   2.2e-10   41.1   0.0   1   1   7.7e-14   3.5e-10   40.5   0.0    23    97     2    76     1    76 0.92 Methyltransferase domain
+Methyltransf_31      PF13847.6    152 CS783_c00001_NODE_1_...cluster044_ORF4:gid::pid::loc:1341:1926:strand:- -            194   3.5e-09   36.6   0.0   1   1   9.6e-13   4.3e-09   36.3   0.0    31   107     3    78     1   108 0.91 Methyltransferase domain
+Ubie_methyltran      PF01209.18   233 CS783_c00001_NODE_1_...cluster044_ORF4:gid::pid::loc:1341:1926:strand:- -            194   5.4e-08   32.5   0.0   1   1   1.8e-11   7.9e-08   31.9   0.0    83   152    11    81     2    98 0.88 ubiE/COQ5 methyltransferase family
+YcaO                 PF02624.16   323 CS783_c00001_NODE_1_...cluster044_ORF8:gid::pid::loc:4707:5916:strand:- -            402   7.2e-91  304.8   0.8   1   1   4.6e-95   8.3e-91  304.6   0.8     2   323    29   365    28   365 0.89 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS783_c00001_NODE_1_...cluster044.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS783_c00001_NODE_1_...cluster044.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS783_c00001_NODE_1_...cluster044.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:40:32 2019
+# [ok]

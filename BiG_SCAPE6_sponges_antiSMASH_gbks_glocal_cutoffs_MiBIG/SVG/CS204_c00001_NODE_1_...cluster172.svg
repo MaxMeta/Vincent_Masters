@@ -1,0 +1,84 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="271.6333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="261.6333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg9624_1)</title>
+			<polygon class=" (ctg9624_1)" points="10,40 23,10 23,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg9624_2)</title>
+			<polygon class=" (ctg9624_2)" points="34,40 51,10 51,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cation_efflux (PF01545)
+"Cation efflux family"</title>
+				<rect class="PF01545" x="45" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(151,84,211)" stroke="rgb(120,67,168)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg9624_3)</title>
+			<polygon class=" (ctg9624_3)" points="51,40 67,10 67,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cation_efflux (PF01545)
+"Cation efflux family"</title>
+				<polygon class="PF01545" points="54,40 61,28 64,28 64,52 61,52" stroke-linejoin="round" width="12" height="24" fill="rgb(151,84,211)" stroke="rgb(120,67,168)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg9624_4)</title>
+			<polygon class=" (ctg9624_4)" points="71,40 82,10 82,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_3 (PF01381)
+"Helix-turn-helix"</title>
+				<polygon class="PF01381" points="74,40 76,35 76,45" stroke-linejoin="round" width="3" height="24" fill="rgb(105,79,202)" stroke="rgb(83,63,161)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg9624_5)</title>
+			<polygon class=" (ctg9624_5)" points="86,10 93,40 86,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg9624_6)</title>
+			<polygon class=" (ctg9624_6)" points="103,25 107,25 107,10 137,40 107,70 107,55 103,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg9624_7)</title>
+			<polygon class=" (ctg9624_7)" points="137,25 138,25 138,10 168,40 138,70 138,55 137,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg9624_8)</title>
+			<polygon class=" (ctg9624_8)" points="172,10 180,40 172,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NHase_alpha (PF02979)
+"Nitrile hydratase, alpha chain"</title>
+				<polygon class="PF02979" points="173,28 173,28 177,40 173,52 173,52" stroke-linejoin="round" width="6" height="24" fill="rgb(204,148,70)" stroke="rgb(163,118,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg9624_9)</title>
+			<polygon class=" (ctg9624_9)" points="183,10 191,40 183,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg9624_10)</title>
+			<polygon class=" (ctg9624_10)" points="192,10 200,40 192,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NHase_alpha (PF02979)
+"Nitrile hydratase, alpha chain"</title>
+				<polygon class="PF02979" points="193,28 193,28 197,40 193,52 193,52" stroke-linejoin="round" width="6" height="24" fill="rgb(204,148,70)" stroke="rgb(163,118,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg9624_11)</title>
+			<polygon class=" (ctg9624_11)" points="261,25 231,25 231,10 201,40 231,70 231,55 261,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="208,37 217,28 222,28 222,52 217,52 208,43" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="228" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

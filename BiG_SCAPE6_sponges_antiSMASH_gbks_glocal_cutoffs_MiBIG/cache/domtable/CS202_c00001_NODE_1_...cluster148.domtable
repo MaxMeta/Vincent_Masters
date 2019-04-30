@@ -1,0 +1,21 @@
+#                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+YcaO                 PF02624.16   323 CS202_c00001_NODE_1_...cluster148_ORF1:gid::pid::loc:1:1270:strand:+ -            422     4e-91  305.7   1.2   1   1   2.6e-95   4.7e-91  305.4   1.2     2   323    48   385    47   385 0.88 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+NHase_alpha          PF02979.16   184 CS202_c00001_NODE_1_...cluster148_ORF3:gid::pid::loc:2494:2728:strand:- -             77   4.1e-08   32.7   0.0   1   1   3.2e-12   5.7e-08   32.3   0.0   115   168    13    67     8    75 0.90 Nitrile hydratase, alpha chain
+UbiA                 PF01040.18   252 CS202_c00001_NODE_1_...cluster148_ORF5:gid::pid::loc:4159:5038:strand:+ -            292   9.9e-58  195.4  22.3   1   1   6.8e-62   1.2e-57  195.1  22.3     1   246    28   269    28   281 0.95 UbiA prenyltransferase family
+NHase_alpha          PF02979.16   184 CS202_c00001_NODE_1_...cluster148_ORF6:gid::pid::loc:5154:5409:strand:+ -             84   6.7e-07   28.8   0.0   1   1   4.5e-11   8.2e-07   28.5   0.0   115   164    19    69     7    79 0.87 Nitrile hydratase, alpha chain
+DUF2236              PF09995.9    227 CS202_c00001_NODE_1_...cluster148_ORF8:gid::pid::loc:6335:7379:strand:+ -            347   2.3e-21   77.1   0.4   1   1   1.6e-25   2.9e-21   76.7   0.4     7   211    64   290    58   304 0.83 Uncharacterized protein conserved in bacteria (DUF2236)
+MMPL                 PF03176.15   333 CS202_c00001_NODE_1_...cluster148_ORF9:gid::pid::loc:7446:9741:strand:+ -            764   7.5e-39  133.6  28.1   1   2   1.8e-26   1.6e-22   79.9   9.1    75   329   152   402    55   406 0.82 MMPL family
+MMPL                 PF03176.15   333 CS202_c00001_NODE_1_...cluster148_ORF9:gid::pid::loc:7446:9741:strand:+ -            764   7.5e-39  133.6  28.1   2   2   2.9e-20   2.6e-16   59.5  11.0    87   302   552   759   548   764 0.91 MMPL family
+Sterol-sensing       PF12349.8    153 CS202_c00001_NODE_1_...cluster148_ORF9:gid::pid::loc:7446:9741:strand:+ -            764   1.7e-08   34.4  18.4   1   1   3.9e-12   3.5e-08   33.4   6.3     9   135   250   376   246   389 0.92 Sterol-sensing domain of SREBP cleavage-activation
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster148.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS202_c00001_NODE_1_...cluster148.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster148.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:53:14 2019
+# [ok]

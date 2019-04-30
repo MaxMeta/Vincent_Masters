@@ -1,0 +1,38 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+FecCD                PF01032.18   312 BGC0000943.1_ORF1:gid::pid:ABD29255.1:loc:0:915:strand:- -            304   5.8e-82  275.2  37.6   1   1   7.3e-86   6.6e-82  275.0  37.6    11   311     1   299     1   300 0.99 FecCD transport family
+ABC-3                PF00950.17   258 BGC0000943.1_ORF1:gid::pid:ABD29255.1:loc:0:915:strand:- -            304   0.00019   21.0  30.5   1   1   2.2e-08   0.00019   21.0  30.5    46   253    79   296    67   301 0.74 ABC 3 transport family
+FecCD                PF01032.18   312 BGC0000943.1_ORF2:gid::pid:ABD29256.1:loc:995:1991:strand:- -            331   4.7e-89  298.5  45.3   1   1   3.1e-93   5.6e-89  298.2  45.3     2   312    16   326    15   326 0.98 FecCD transport family
+Peripla_BP_2         PF01497.18   238 BGC0000943.1_ORF3:gid::pid:ABD29257.1:loc:2006:2999:strand:- -            330   2.3e-25   89.6   4.3   1   1   1.8e-29   3.1e-25   89.1   4.3     1   231    56   294    56   298 0.88 Periplasmic binding protein
+PALP                 PF00291.25   294 BGC0000943.1_ORF4:gid::pid:ABD29258.1:loc:3364:4210:strand:+ -            281   8.4e-47  160.0   0.0   1   1   5.4e-51   9.6e-47  159.8   0.0    37   294     1   254     1   254 0.94 Pyridoxal-phosphate dependent enzyme
+OCD_Mu_crystall      PF02423.15   318 BGC0000943.1_ORF5:gid::pid:ABD29259.1:loc:4206:5217:strand:+ -            336   1.2e-64  218.2   0.0   1   1   7.7e-69   1.4e-64  218.1   0.0    18   317    22   327     3   328 0.88 Ornithine cyclodeaminase/mu-crystallin family
+IucA_IucC            PF04183.12   239 BGC0000943.1_ORF6:gid::pid:ABD29260.1:loc:5237:6992:strand:+ -            584   2.7e-54  184.3   0.0   1   1   4.8e-58   4.3e-54  183.6   0.0     2   239   135   376   134   376 0.92 IucA / IucC family
+FhuF                 PF06276.12   163 BGC0000943.1_ORF6:gid::pid:ABD29260.1:loc:5237:6992:strand:+ -            584   2.3e-15   57.4   0.2   1   1     8e-19   7.2e-15   55.8   0.2     8   152   404   557   398   567 0.79 Ferric iron reductase FhuF-like transporter
+MFS_1                PF07690.16   353 BGC0000943.1_ORF7:gid::pid:ABD29261.1:loc:6984:8241:strand:+ -            418   1.4e-47  162.4  44.8   1   2   8.2e-36   4.9e-32  111.2  21.9     1   232    14   243    14   252 0.83 Major Facilitator Superfamily
+MFS_1                PF07690.16   353 BGC0000943.1_ORF7:gid::pid:ABD29261.1:loc:6984:8241:strand:+ -            418   1.4e-47  162.4  44.8   2   2   1.8e-19   1.1e-15   57.5  21.8     3   168   225   392   222   406 0.84 Major Facilitator Superfamily
+Sugar_tr             PF00083.24   452 BGC0000943.1_ORF7:gid::pid:ABD29261.1:loc:6984:8241:strand:+ -            418   1.5e-17   63.6  36.1   1   2   1.1e-14   6.4e-11   41.8  12.3    44   188    47   184    20   193 0.92 Sugar (and other) transporter
+Sugar_tr             PF00083.24   452 BGC0000943.1_ORF7:gid::pid:ABD29261.1:loc:6984:8241:strand:+ -            418   1.5e-17   63.6  36.1   2   2   1.8e-10     1e-06   27.9  15.8    43   185   245   393   222   399 0.85 Sugar (and other) transporter
+MFS_1_like           PF12832.7    385 BGC0000943.1_ORF7:gid::pid:ABD29261.1:loc:6984:8241:strand:+ -            418   7.5e-07   28.3  25.5   1   1   1.9e-10   1.1e-06   27.7   2.2     9    84    19    99    13   104 0.83 MFS_1 like family
+IucA_IucC            PF04183.12   239 BGC0000943.1_ORF8:gid::pid:ABD29262.1:loc:8230:9967:strand:+ -            578   1.1e-48  165.9   0.0   1   1   1.9e-52   1.7e-48  165.3   0.0     2   238   135   369   134   370 0.90 IucA / IucC family
+FhuF                 PF06276.12   163 BGC0000943.1_ORF8:gid::pid:ABD29262.1:loc:8230:9967:strand:+ -            578   1.6e-25   90.4   0.1   1   1   4.2e-29   3.8e-25   89.2   0.1     1   158   392   551   392   556 0.85 Ferric iron reductase FhuF-like transporter
+IucA_IucC            PF04183.12   239 BGC0000943.1_ORF9:gid::pid:ABD29263.1:loc:9875:11726:strand:+ -            616   3.2e-63  213.5   0.1   1   1   1.1e-66   9.9e-63  211.9   0.0     2   239   156   403   155   403 0.95 IucA / IucC family
+FhuF                 PF06276.12   163 BGC0000943.1_ORF9:gid::pid:ABD29263.1:loc:9875:11726:strand:+ -            616   2.2e-36  125.7   0.6   1   1   4.6e-40   4.1e-36  124.9   0.6     1   161   422   593   422   595 0.91 Ferric iron reductase FhuF-like transporter
+HpcH_HpaI            PF03328.14   221 BGC0000943.1_ORF10:gid::pid:ABD29264.1:loc:11700:12477:strand:+ -            258   1.6e-30  105.9   1.3   1   1   1.2e-34   2.1e-30  105.5   1.3     3   186    18   209    17   242 0.87 HpcH/HpaI aldolase/citrate lyase family
+Orn_Arg_deC_N        PF02784.16   247 BGC0000943.1_ORF11:gid::pid:ABD29265.1:loc:12476:13679:strand:+ -            400   1.8e-35  122.5   0.0   1   1   3.7e-39   2.2e-35  122.2   0.0     5   247    29   273    25   273 0.93 Pyridoxal-dependent decarboxylase, pyridoxal binding domain
+Orn_DAP_Arg_deC      PF00278.22    98 BGC0000943.1_ORF11:gid::pid:ABD29265.1:loc:12476:13679:strand:+ -            400   4.6e-14   52.4   0.0   1   1   9.3e-18   5.5e-14   52.2   0.0     5    98   123   371    20   371 0.65 Pyridoxal-dependent decarboxylase, C-terminal sheet domain
+Ala_racemase_N       PF01168.20   219 BGC0000943.1_ORF11:gid::pid:ABD29265.1:loc:12476:13679:strand:+ -            400   7.3e-06   25.8   0.1   1   1     2e-09   1.2e-05   25.1   0.1     2   190    24   223    23   242 0.78 Alanine racemase, N-terminal domain
+ParBc                PF02195.18    90 BGC0000943.1_ORF12:gid::pid:ABD29266.1:loc:13682:14447:strand:+ -            254   2.5e-09   37.3   0.0   1   1   3.2e-13   5.8e-09   36.1   0.0     9    71    17    76     9    88 0.86 ParB-like nuclease domain
+adh_short_C2         PF13561.6    234 BGC0000943.1_ORF16:gid::pid:ABD29269.1:loc:15937:16714:strand:+ -            258   8.1e-58  195.7   2.6   1   1   1.8e-61   1.1e-57  195.3   2.6     1   233    11   255    11   256 0.91 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.25   195 BGC0000943.1_ORF16:gid::pid:ABD29269.1:loc:15937:16714:strand:+ -            258   2.1e-55  187.2   3.6   1   1   4.5e-59   2.7e-55  186.9   3.6     1   190     5   195     5   199 0.98 short chain dehydrogenase
+KR                   PF08659.10   180 BGC0000943.1_ORF16:gid::pid:ABD29269.1:loc:15937:16714:strand:+ -            258   4.6e-15   56.0   0.5   1   1   1.2e-18   7.1e-15   55.4   0.5     3   161     7   166     6   189 0.83 KR domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000943.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000943.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000943.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:55:07 2019
+# [ok]

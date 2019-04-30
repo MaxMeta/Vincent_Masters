@@ -1,0 +1,24 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Nitroreductase       PF00881.24   170 BGC0001170.1_ORF2:gid::pid:WP_003488389.1:loc:347:1304:strand:+ -            318     8e-26   91.1   0.0   1   1   6.2e-30   1.1e-25   90.6   0.0     1   170   124   314   124   314 0.94 Nitroreductase family
+YcaO                 PF02624.16   323 BGC0001170.1_ORF4:gid::pid:WP_003488393.1:loc:2404:3763:strand:+ -            452   6.1e-51  173.6   0.0   1   1     4e-55   7.1e-51  173.4   0.0     2   322    69   421    68   422 0.80 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+CPBP                 PF02517.16    92 BGC0001170.1_ORF5:gid::pid:WP_042386110.1:loc:3737:4376:strand:+ -            212   8.8e-10   38.8   6.7   1   1   4.9e-14   8.8e-10   38.8   6.7     7    91   118   206   112   207 0.88 CPBP intramembrane metalloprotease
+ABC_tran             PF00005.27   137 BGC0001170.1_ORF7:gid::pid:WP_042386113.1:loc:5273:6206:strand:+ -            310   9.5e-35  120.1   0.0   1   1   2.7e-38   2.4e-34  118.8   0.0     1   136    19   162    19   163 0.97 ABC transporter
+AAA_21               PF13304.6    303 BGC0001170.1_ORF7:gid::pid:WP_042386113.1:loc:5273:6206:strand:+ -            310     1e-10   41.9   0.3   1   1   3.1e-11   2.8e-07   30.6   0.0   234   297   132   192    68   197 0.83 AAA domain, putative AbiEii toxin, Type IV TA system
+ABC2_membrane_3      PF12698.7    345 BGC0001170.1_ORF8:gid::pid:WP_003488401.1:loc:6217:7342:strand:+ -            374   2.6e-34  118.9  23.7   1   1     5e-38     3e-34  118.7  23.7     1   345    19   367    18   367 0.78 ABC-2 family transporter protein
+ABC2_membrane        PF01061.24   210 BGC0001170.1_ORF8:gid::pid:WP_003488401.1:loc:6217:7342:strand:+ -            374   7.5e-23   81.1  19.9   1   1   1.3e-23   7.5e-20   71.2   8.6    49   210   178   340   150   340 0.86 ABC-2 type transporter
+ABC2_membrane_2      PF12679.7    288 BGC0001170.1_ORF8:gid::pid:WP_003488401.1:loc:6217:7342:strand:+ -            374   1.5e-13   50.7   8.1   1   1   3.6e-17   2.2e-13   50.2   8.1     1   287     4   372     4   373 0.76 ABC-2 family transporter protein
+ABC2_membrane_3      PF12698.7    345 BGC0001170.1_ORF9:gid::pid:WP_003488403.1:loc:7343:8486:strand:+ -            380   2.3e-36  125.7  31.4   1   1   4.5e-40   2.7e-36  125.4  31.4     3   345    21   368    19   368 0.89 ABC-2 family transporter protein
+ABC2_membrane        PF01061.24   210 BGC0001170.1_ORF9:gid::pid:WP_003488403.1:loc:7343:8486:strand:+ -            380   4.7e-26   91.5  10.8   1   1   7.8e-30   4.7e-26   91.5  10.8    51   205   184   336   159   340 0.84 ABC-2 type transporter
+ABC2_membrane_2      PF12679.7    288 BGC0001170.1_ORF9:gid::pid:WP_003488403.1:loc:7343:8486:strand:+ -            380   2.6e-10   40.1  13.3   1   1   7.4e-14   4.4e-10   39.3  13.3     9   280    13   367     7   374 0.82 ABC-2 family transporter protein
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001170.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001170.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001170.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:29:10 2019
+# [ok]

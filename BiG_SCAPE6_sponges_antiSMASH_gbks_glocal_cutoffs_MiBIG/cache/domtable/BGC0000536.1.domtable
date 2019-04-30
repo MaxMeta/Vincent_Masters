@@ -1,0 +1,28 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Gallidermin          PF02052.15    52 BGC0000536.1_ORF1:gid:nisQ:pid:BAG71479.1:loc:172:346:strand:+ -             57   6.5e-08   32.8   0.6   1   1   4.9e-12   8.8e-08   32.4   0.6    11    45     6    37     2    43 0.82 Gallidermin
+Lant_dehydr_N        PF04738.13   653 BGC0000536.1_ORF2:gid:niqB:pid:BAG71480.1:loc:452:3434:strand:+ -            993     4e-91  306.1   0.0   1   1   5.3e-95   4.8e-91  305.8   0.0     2   653    39   664    38   664 0.91 Lantibiotic dehydratase, N terminus
+Lant_dehydr_C        PF14028.6    312 BGC0000536.1_ORF2:gid:niqB:pid:BAG71480.1:loc:452:3434:strand:+ -            993   2.6e-25   89.6   0.0   1   1   3.2e-27   2.9e-23   82.9   0.0     1   311   737   986   737   987 0.78 Lantibiotic biosynthesis dehydratase C-term
+ABC_tran             PF00005.27   137 BGC0000536.1_ORF3:gid:niqT:pid:BAG71481.1:loc:3444:5247:strand:+ -            600   1.7e-38  132.2   0.1   1   1   7.2e-42   4.3e-38  130.9   0.0     1   137   369   523   369   523 0.92 ABC transporter
+SMC_N                PF02463.19   220 BGC0000536.1_ORF3:gid:niqT:pid:BAG71481.1:loc:3444:5247:strand:+ -            600   3.6e-12   46.2   1.2   1   1   3.3e-14     2e-10   40.5   1.2    12   212   366   566   360   572 0.72 RecF/RecN/SMC N terminal domain
+LANC_like            PF05147.13   352 BGC0000536.1_ORF4:gid:niqC:pid:BAG71482.1:loc:5239:6481:strand:+ -            413   7.9e-76  254.9   6.7   1   1   5.6e-80     1e-75  254.6   6.7     3   352    31   402    29   402 0.95 Lanthionine synthetase C-like protein
+Spa1_C               PF18218.1     99 BGC0000536.1_ORF5:gid:niqI:pid:BAG71483.1:loc:6477:7215:strand:+ -            245   2.1e-28   98.7   6.5   1   1   1.4e-27   2.5e-23   82.3   0.2     1    99   142   240   142   240 0.99 Lantibiotic immunity protein Spa1 C-terminal domain
+Peptidase_S8         PF00082.22   298 BGC0000536.1_ORF6:gid:niqP:pid:BAG71484.1:loc:7216:9304:strand:+ -            695   1.6e-44  152.4   4.3   1   1   1.7e-48   1.6e-44  152.4   4.3     2   284   256   553   255   577 0.85 Subtilase family
+Gram_pos_anchor      PF00746.21    43 BGC0000536.1_ORF6:gid:niqP:pid:BAG71484.1:loc:7216:9304:strand:+ -            695   0.00041   20.2   0.1   1   1   1.2e-07    0.0011   18.9   0.1     9    42   663   694   661   695 0.92 LPXTG cell wall anchor motif
+Response_reg         PF00072.24   112 BGC0000536.1_ORF7:gid:niqR:pid:BAG71485.1:loc:9369:10056:strand:+ -            228   3.5e-26   91.6   1.1   1   1   5.6e-30     5e-26   91.1   1.1     1   111     4   112     4   113 0.98 Response regulator receiver domain
+Trans_reg_C          PF00486.28    77 BGC0000536.1_ORF7:gid:niqR:pid:BAG71485.1:loc:9369:10056:strand:+ -            228   8.7e-18   64.2   0.2   1   1   2.6e-21   2.3e-17   62.8   0.1     1    76   152   225   152   226 0.96 Transcriptional regulatory protein, C terminal
+HATPase_c            PF02518.26   112 BGC0000536.1_ORF8:gid:niqK:pid:BAG71486.1:loc:10048:11392:strand:+ -            447   5.2e-09   36.6   0.0   1   1     5e-12   4.5e-08   33.6   0.0     4   108   341   445   338   447 0.90 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+HisKA                PF00512.25    67 BGC0000536.1_ORF8:gid:niqK:pid:BAG71486.1:loc:10048:11392:strand:+ -            447   1.5e-07   31.3   0.0   1   1   3.9e-11   3.5e-07   30.2   0.0     5    63   232   289   228   293 0.86 His Kinase A (phospho-acceptor) domain
+ABC_tran             PF00005.27   137 BGC0000536.1_ORF9:gid:niqF:pid:BAG71487.1:loc:11489:12167:strand:+ -            225   4.3e-27   95.3   0.5   1   1   1.5e-30   1.3e-26   93.7   0.1     1   137    18   152    18   152 0.96 ABC transporter
+AAA_21               PF13304.6    303 BGC0000536.1_ORF9:gid:niqF:pid:BAG71487.1:loc:11489:12167:strand:+ -            225   9.9e-15   55.1   1.9   1   1   1.3e-12   1.2e-08   35.2   0.1   234   300   121   184   101   187 0.91 AAA domain, putative AbiEii toxin, Type IV TA system
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000536.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000536.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000536.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:50:45 2019
+# [ok]

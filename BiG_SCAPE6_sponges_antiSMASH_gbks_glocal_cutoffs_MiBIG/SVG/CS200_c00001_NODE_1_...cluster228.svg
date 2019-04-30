@@ -1,0 +1,37 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="226.86666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="216.86666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg8175_1)</title>
+			<polygon class=" (ctg8175_1)" points="10,10 36,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Transposase_20 (PF02371)
+"Transposase IS116/IS110/IS902 family"</title>
+				<polygon class="PF02371" points="20,28 21,28 28,35 28,45 21,52 20,52" stroke-linejoin="round" width="8" height="24" fill="rgb(104,204,65)" stroke="rgb(83,163,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8175_2)</title>
+			<polygon class=" (ctg8175_2)" points="37,40 50,10 50,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NHase_alpha (PF02979)
+"Nitrile hydratase, alpha chain"</title>
+				<polygon class="PF02979" points="41,38 45,28 48,28 48,52 45,52 41,42" stroke-linejoin="round" width="7" height="24" fill="rgb(204,148,70)" stroke="rgb(163,118,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8175_3)</title>
+			<polygon class=" (ctg8175_3)" points="134,25 87,25 87,10 57,40 87,70 87,55 134,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MMPL (PF03176)
+"MMPL family"</title>
+				<polygon class="PF03176" points="61,40 73,28 79,28 79,52 73,52" stroke-linejoin="round" width="22" height="24" fill="rgb(228,109,193)" stroke="rgb(182,87,154)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MMPL (PF03176)
+"MMPL family"</title>
+				<rect class="PF03176" x="93" y="28" stroke-linejoin="round" width="36" height="24" fill="rgb(228,109,193)" stroke="rgb(182,87,154)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

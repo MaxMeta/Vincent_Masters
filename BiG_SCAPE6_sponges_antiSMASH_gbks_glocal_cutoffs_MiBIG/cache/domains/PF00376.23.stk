@@ -1,0 +1,23 @@
+# STOCKHOLM 1.0
+
+BGC0001228.1_ORF8:gid::pid:WP_051419350.1:loc:7403:8180:strand:-:2:39              pv---DLARQHGISTQAVRNYEKDG.CLPPAVRTA.SGYRQY
+#=GR BGC0001228.1_ORF8:gid::pid:WP_051419350.1:loc:7403:8180:strand:-:2:39      PP 99...79******************.*********.****99
+BGC0001560.1_ORF9:gid::pid:ARO38318.1:loc:25589:26078:strand:+:24:60               .p--REASELLGVNVRTLARWEKAG.II-QAIKTP.SGQRRY
+#=GR BGC0001560.1_ORF9:gid::pid:ARO38318.1:loc:25589:26078:strand:+:24:60       PP .7..69*******************.**.******.*****9
+BGC0000339.1_ORF15:gid:ecm15:pid:BAE98164.1:loc:35493:36351:strand:-:32:69         ph---DLAREHGISTQAVRNYERDG.FIPLARRTP.SGYRTY
+#=GR BGC0000339.1_ORF15:gid:ecm15:pid:BAE98164.1:loc:35493:36351:strand:-:32:69 PP 99...79******************.*********.****99
+BGC0000259.1_ORF1:gid:cueR:pid:CAH55645.1:loc:167:575:strand:-:2:37                ..-ISDVAKKTGLTSKTIRFYEEKSaDYPAPIRSD.NGY---
+#=GR BGC0000259.1_ORF1:gid:cueR:pid:CAH55645.1:loc:167:575:strand:-:2:37        PP ...99*******************77999******.**9...
+BGC0001644.1_ORF10:gid::pid:AJQ95709.1:loc:112344:112944:strand:-:6:42             ..-IGEAAALLGVSVTTLRRWEVEG.KL-IPERTM.SGHRRY
+#=GR BGC0001644.1_ORF10:gid::pid:AJQ95709.1:loc:112344:112944:strand:-:6:42     PP ...9*********************.99.99****.*****9
+BGC0001011.1_ORF30:gid:merM:pid:ABC87522.1:loc:107412:107820:strand:-:1:35         ..-----SRLSGLSEPTLRYYEKIG.LIPAVDRDRdSGHRRY
+#=GR BGC0001011.1_ORF30:gid:merM:pid:ABC87522.1:loc:107412:107820:strand:-:1:35 PP .......79****************.***9999888*****9
+BGC0000873.1_ORF31:gid::pid:CAD62206.1:loc:31775:32153:strand:-:4:40               ..-IGELSRRTDTPVRMLRYYEEQG.LI-HSERLP.NGYRSY
+#=GR BGC0000873.1_ORF31:gid::pid:CAD62206.1:loc:31775:32153:strand:-:4:40       PP ...9*********************.**.******.****99
+BGC0000434.1_ORF10:gid:swb3:pid:BAI63275.1:loc:17012:17795:strand:-:5:42           pv---DLAREHGISTQAVRNYEKDG.CVPPADRTA.SGYRTY
+#=GR BGC0000434.1_ORF10:gid:swb3:pid:BAI63275.1:loc:17012:17795:strand:-:5:42   PP 99...79******************.*********.****99
+BGC0000445.1_ORF7:gid:tioE:pid:CAJ34361.1:loc:4903:5614:strand:+:4:41              pa---DLAHEHGLSPQSVRNYERDG.LIPPARRTE.SGYRRY
+#=GR BGC0000445.1_ORF7:gid:tioE:pid:CAJ34361.1:loc:4903:5614:strand:+:4:41      PP 85...89******************.*********.*****9
+#=GC PP_cons                                                                       ...9989******************.*********.*****9
+#=GC RF                                                                            ..xxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxx.xxxxxx
+//

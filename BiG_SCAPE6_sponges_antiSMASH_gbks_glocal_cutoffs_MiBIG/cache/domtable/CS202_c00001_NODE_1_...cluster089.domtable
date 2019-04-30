@@ -1,0 +1,23 @@
+#                                                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+GST_C_2              PF13410.6     69 CS202_c00001_NODE_1_...cluster089_ORF2:gid::pid::loc:468:1251:strand:+ -            260   8.6e-07   28.9   0.3   1   1   1.8e-10   1.6e-06   28.0   0.3     2    69   158   223   157   223 0.94 Glutathione S-transferase, C-terminal domain
+GST_C                PF00043.25    93 CS202_c00001_NODE_1_...cluster089_ORF2:gid::pid::loc:468:1251:strand:+ -            260     1e-06   28.9   0.0   1   1   1.9e-10   1.7e-06   28.1   0.0    18    91   154   226    93   228 0.84 Glutathione S-transferase, C-terminal domain
+DUF692               PF05114.13   263 CS202_c00001_NODE_1_...cluster089_ORF11:gid::pid::loc:5000:5852:strand:+ -            283    5e-104  347.2   0.1   1   1  3.2e-108  5.7e-104  347.0   0.1     1   261    13   273    13   275 0.99 Protein of unknown function (DUF692)
+DUF2063              PF09836.9     85 CS202_c00001_NODE_1_...cluster089_ORF12:gid::pid::loc:5841:6696:strand:+ -            284   2.6e-16   59.6   0.0   1   1   3.5e-20   6.3e-16   58.4   0.0    16    85    45   119    11   119 0.86 Putative DNA-binding domain
+DUF4156              PF13698.6     91 CS202_c00001_NODE_1_...cluster089_ORF13:gid::pid::loc:6806:7256:strand:- -            149   4.5e-11   42.9   0.0   1   1   3.4e-15   6.1e-11   42.5   0.0     2    91    65   147    64   147 0.93 Domain of unknown function (DUF4156)
+tRNA-synt_2b         PF00587.25   179 CS202_c00001_NODE_1_...cluster089_ORF14:gid::pid::loc:7339:9067:strand:- -            575   8.3e-48  162.7   0.0   1   1   2.1e-51   1.2e-47  162.1   0.0     2   179    95   459    94   459 0.98 tRNA synthetase class II core domain (G, H, P, S and T)
+tRNA_edit            PF04073.15   123 CS202_c00001_NODE_1_...cluster089_ORF14:gid::pid::loc:7339:9067:strand:- -            575   1.9e-27   95.7   0.0   1   1   5.5e-31   3.3e-27   95.0   0.0     1   119   257   373   257   376 0.97 Aminoacyl-tRNA editing domain
+HGTP_anticodon       PF03129.20    94 CS202_c00001_NODE_1_...cluster089_ORF14:gid::pid::loc:7339:9067:strand:- -            575   1.6e-13   50.6   0.0   1   1     5e-17     3e-13   49.7   0.0     3    93   477   568   475   569 0.95 Anticodon binding domain
+LysR_substrate       PF03466.20   209 CS202_c00001_NODE_1_...cluster089_ORF17:gid::pid::loc:9332:10199:strand:+ -            288   5.1e-45  153.4   0.0   1   1   7.5e-49   6.7e-45  153.0   0.0     3   206    74   279    72   282 0.98 LysR substrate binding domain
+HTH_1                PF00126.27    60 CS202_c00001_NODE_1_...cluster089_ORF17:gid::pid::loc:9332:10199:strand:+ -            288   1.1e-17   63.7   0.3   1   1   2.5e-21   2.2e-17   62.7   0.3    15    60     3    48     1    48 0.97 Bacterial regulatory helix-turn-helix protein, lysR family
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster089.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS202_c00001_NODE_1_...cluster089.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster089.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:55:17 2019
+# [ok]

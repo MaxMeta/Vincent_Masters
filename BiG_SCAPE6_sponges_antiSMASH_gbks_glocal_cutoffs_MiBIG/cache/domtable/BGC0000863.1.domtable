@@ -1,0 +1,31 @@
+#                                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                       accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                             -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+PP-binding           PF00550.25    67 BGC0000863.1_ORF1:gid:pfaA:pid:ABF00127.1:loc:1224:9507:strand:+ -           2760   1.8e-61  204.4   8.1   1   5   7.3e-13   1.5e-09   38.1   0.0     4    66  1337  1401  1334  1402 0.96 Phosphopantetheine attachment site
+PP-binding           PF00550.25    67 BGC0000863.1_ORF1:gid:pfaA:pid:ABF00127.1:loc:1224:9507:strand:+ -           2760   1.8e-61  204.4   8.1   2   5   7.3e-13   1.5e-09   38.1   0.0     4    66  1432  1496  1429  1497 0.96 Phosphopantetheine attachment site
+PP-binding           PF00550.25    67 BGC0000863.1_ORF1:gid:pfaA:pid:ABF00127.1:loc:1224:9507:strand:+ -           2760   1.8e-61  204.4   8.1   3   5   7.3e-13   1.5e-09   38.1   0.0     4    66  1527  1591  1524  1592 0.96 Phosphopantetheine attachment site
+PP-binding           PF00550.25    67 BGC0000863.1_ORF1:gid:pfaA:pid:ABF00127.1:loc:1224:9507:strand:+ -           2760   1.8e-61  204.4   8.1   4   5   7.3e-13   1.5e-09   38.1   0.0     4    66  1622  1686  1619  1687 0.96 Phosphopantetheine attachment site
+PP-binding           PF00550.25    67 BGC0000863.1_ORF1:gid:pfaA:pid:ABF00127.1:loc:1224:9507:strand:+ -           2760   1.8e-61  204.4   8.1   5   5   7.3e-13   1.5e-09   38.1   0.0     4    66  1717  1781  1714  1782 0.96 Phosphopantetheine attachment site
+ketoacyl-synt        PF00109.26   253 BGC0000863.1_ORF1:gid:pfaA:pid:ABF00127.1:loc:1224:9507:strand:+ -           2760   4.1e-58  196.9   0.0   1   1   5.7e-61   1.1e-57  195.5   0.0     3   253    27   301    25   301 0.92 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.22   118 BGC0000863.1_ORF1:gid:pfaA:pid:ABF00127.1:loc:1224:9507:strand:+ -           2760     5e-38  129.8   0.6   1   1     7e-41   1.4e-37  128.3   0.6     1   116   309   425   309   427 0.99 Beta-ketoacyl synthase, C-terminal domain
+KR                   PF08659.10   180 BGC0000863.1_ORF1:gid:pfaA:pid:ABF00127.1:loc:1224:9507:strand:+ -           2760   2.2e-32  112.4   1.8   1   1   4.2e-35   8.4e-32  110.5   1.0     3   179  2138  2362  2137  2363 0.91 KR domain
+Acyl_transf_1        PF00698.21   319 BGC0000863.1_ORF1:gid:pfaA:pid:ABF00127.1:loc:1224:9507:strand:+ -           2760   1.9e-25   90.1   0.0   1   1   1.9e-28   3.7e-25   89.1   0.0     3   315   609   941   608   944 0.87 Acyl transferase domain
+PS-DH                PF14765.6    298 BGC0000863.1_ORF1:gid:pfaA:pid:ABF00127.1:loc:1224:9507:strand:+ -           2760   3.5e-21   75.7   0.0   1   1   4.7e-24   9.4e-21   74.3   0.0    12   290  2439  2730  2434  2737 0.81 Polyketide synthase dehydratase
+KAsynt_C_assoc       PF16197.5    112 BGC0000863.1_ORF1:gid:pfaA:pid:ABF00127.1:loc:1224:9507:strand:+ -           2760   2.2e-11   44.2   0.0   1   1   2.9e-14   5.9e-11   42.8   0.0     1    90   430   527   430   544 0.81 Ketoacyl-synthetase C-terminal extension
+ketoacyl-synt        PF00109.26   253 BGC0000863.1_ORF2:gid:pfaB:pid:ABF00128.1:loc:9507:12468:strand:+ -            986   4.9e-57  193.4   0.0   1   2   6.4e-41   5.7e-37  127.6   0.0     1   253    26   309    26   309 0.87 Beta-ketoacyl synthase, N-terminal domain
+ketoacyl-synt        PF00109.26   253 BGC0000863.1_ORF2:gid:pfaB:pid:ABF00128.1:loc:9507:12468:strand:+ -            986   4.9e-57  193.4   0.0   2   2   4.6e-21   4.1e-17   62.6   0.0     2   248   512   787   511   790 0.81 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.22   118 BGC0000863.1_ORF2:gid:pfaB:pid:ABF00128.1:loc:9507:12468:strand:+ -            986   2.2e-36  124.5   0.0   1   1     2e-37   1.8e-33  115.0   0.0     1   117   317   434   317   435 0.97 Beta-ketoacyl synthase, C-terminal domain
+PhzC-PhzF            PF02567.16   283 BGC0000863.1_ORF3:gid::pid:ABF00129.1:loc:12624:13398:strand:+ -            257   4.3e-39  134.7   0.0   1   1   2.3e-42   4.1e-38  131.5   0.0     1   257     9   236     9   253 0.81 Phenazine biosynthesis-like protein
+FabA                 PF07977.13   138 BGC0000863.1_ORF4:gid:pfaD:pid:ABF00130.1:loc:13521:16560:strand:+ -           1012   4.6e-77  256.3   0.2   1   2   4.8e-42   4.3e-38  130.1   0.0     3   138   449   582   447   582 0.91 FabA-like domain
+FabA                 PF07977.13   138 BGC0000863.1_ORF4:gid:pfaD:pid:ABF00130.1:loc:13521:16560:strand:+ -           1012   4.6e-77  256.3   0.2   2   2   7.6e-40   6.8e-36  122.9   0.0     3   136   725   860   723   862 0.90 FabA-like domain
+ACPS                 PF01648.20   114 BGC0000863.1_ORF4:gid:pfaD:pid:ABF00130.1:loc:13521:16560:strand:+ -           1012   1.6e-11   44.4   0.0   1   1   5.3e-15   4.7e-11   42.8   0.0     5    88   165   241   164   268 0.83 4'-phosphopantetheinyl transferase superfamily
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000863.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000863.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000863.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:39:45 2019
+# [ok]

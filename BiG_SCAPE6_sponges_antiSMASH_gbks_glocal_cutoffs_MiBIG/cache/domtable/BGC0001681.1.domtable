@@ -1,0 +1,15 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Acyltransferase      PF01553.21   135 BGC0001681.1_ORF1:gid::pid:CBW20927.1:loc:0:819:strand:+ -            272   5.4e-05   22.8   0.0   1   1   4.9e-09   8.9e-05   22.1   0.0     2   132    70   196    69   225 0.80 Acyltransferase
+Acetyltransf_5       PF13444.6    101 BGC0001681.1_ORF2:gid:hlyA:pid:CBW20928.1:loc:849:1863:strand:+ -            337   4.7e-11   43.3   0.0   1   1   5.5e-15   9.9e-11   42.3   0.0     1    95    51   151    51   155 0.85 Acetyltransferase (GNAT) domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001681.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001681.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001681.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:34:01 2019
+# [ok]

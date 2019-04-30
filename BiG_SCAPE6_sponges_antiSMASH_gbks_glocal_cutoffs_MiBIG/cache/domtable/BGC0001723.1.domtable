@@ -1,0 +1,33 @@
+#                                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                       accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                             -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+FAD_binding_3        PF01494.19   349 BGC0001723.1_ORF1:gid:ovmOI:pid:ARK36153.1:loc:128:1616:strand:+ -            495   4.3e-90  302.5   0.0   1   1   1.2e-93   5.4e-90  302.1   0.0     1   348     7   337     7   338 0.93 FAD binding domain
+NAD_binding_8        PF13450.6     68 BGC0001723.1_ORF1:gid:ovmOI:pid:ARK36153.1:loc:128:1616:strand:+ -            495   4.5e-06   26.8   0.0   1   1   4.8e-09   2.1e-05   24.6   0.0     1    36    12    47    12    60 0.94 NAD(P)-binding Rossmann-like domain
+Cyclase_polyket      PF04673.12   104 BGC0001723.1_ORF2:gid:ovmC:pid:ARK36154.1:loc:1724:2057:strand:+ -            110   7.1e-44  148.3   0.1   1   1   4.4e-48   7.9e-44  148.2   0.1     1   104     3   107     3   107 0.98 Polyketide synthesis cyclase
+ketoacyl-synt        PF00109.26   253 BGC0001723.1_ORF3:gid:ovmP:pid:ARK36155.1:loc:2053:3325:strand:+ -            423   1.2e-55  188.9   0.4   1   1   2.3e-59     2e-55  188.1   0.4     2   253     4   253     3   253 0.90 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.22   118 BGC0001723.1_ORF3:gid:ovmP:pid:ARK36155.1:loc:2053:3325:strand:+ -            423   1.4e-35  121.9   1.3   1   1   1.5e-39   1.4e-35  121.9   1.3     1   117   261   375   261   376 0.98 Beta-ketoacyl synthase, C-terminal domain
+ketoacyl-synt        PF00109.26   253 BGC0001723.1_ORF4:gid:ovmK:pid:ARK36156.1:loc:3321:4545:strand:+ -            407   7.2e-44  150.3   0.7   1   1     8e-48   7.2e-44  150.3   0.7     2   252     6   246     5   247 0.90 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.22   118 BGC0001723.1_ORF4:gid:ovmK:pid:ARK36156.1:loc:3321:4545:strand:+ -            407   2.2e-22   79.3   0.0   1   1     1e-25     9e-22   77.3   0.0     1   117   255   364   255   365 0.92 Beta-ketoacyl synthase, C-terminal domain
+PP-binding           PF00550.25    67 BGC0001723.1_ORF5:gid:ovmS:pid:ARK36157.1:loc:4625:4898:strand:+ -             90   1.7e-09   37.9   1.0   1   1   1.2e-13   2.1e-09   37.6   1.0    13    66    25    79     9    80 0.88 Phosphopantetheine attachment site
+adh_short            PF00106.25   195 BGC0001723.1_ORF6:gid:ovmT:pid:ARK36158.1:loc:5021:5804:strand:+ -            260   5.3e-65  218.5   0.8   1   1   1.5e-68   6.6e-65  218.2   0.8     2   193     7   200     6   202 0.98 short chain dehydrogenase
+adh_short_C2         PF13561.6    234 BGC0001723.1_ORF6:gid:ovmT:pid:ARK36158.1:loc:5021:5804:strand:+ -            260   1.7e-60  204.5   3.3   1   1   4.6e-64   2.1e-60  204.2   3.3     1   233    12   257    12   258 0.94 Enoyl-(Acyl carrier protein) reductase
+KR                   PF08659.10   180 BGC0001723.1_ORF6:gid:ovmT:pid:ARK36158.1:loc:5021:5804:strand:+ -            260   1.8e-11   44.3   0.9   1   1   6.3e-15   2.8e-11   43.7   0.9     3   151     8   158     7   182 0.83 KR domain
+Epimerase            PF01370.21   241 BGC0001723.1_ORF6:gid:ovmT:pid:ARK36158.1:loc:5021:5804:strand:+ -            260   8.6e-05   22.1   0.7   1   1     3e-08   0.00013   21.5   0.7     1   102     8   124     8   148 0.69 NAD dependent epimerase/dehydratase family
+Polyketide_cyc2      PF10604.9    143 BGC0001723.1_ORF7:gid:ovmA:pid:ARK36159.1:loc:5831:6779:strand:+ -            315     9e-26   90.9   4.8   1   2   1.6e-19   1.5e-15   57.8   2.2     2   143     4   146     3   146 0.79 Polyketide cyclase / dehydrase and lipid transport
+Polyketide_cyc2      PF10604.9    143 BGC0001723.1_ORF7:gid:ovmA:pid:ARK36159.1:loc:5831:6779:strand:+ -            315     9e-26   90.9   4.8   2   2   3.5e-12   3.2e-08   34.0   0.0     2   139   156   304   155   308 0.65 Polyketide cyclase / dehydrase and lipid transport
+Polyketide_cyc       PF03364.20   130 BGC0001723.1_ORF7:gid:ovmA:pid:ARK36159.1:loc:5831:6779:strand:+ -            315   3.7e-18   66.0   0.0   1   2   1.7e-13   1.5e-09   38.1   0.0     1   103    12   113    12   132 0.82 Polyketide cyclase / dehydrase and lipid transport
+Polyketide_cyc       PF03364.20   130 BGC0001723.1_ORF7:gid:ovmA:pid:ARK36159.1:loc:5831:6779:strand:+ -            315   3.7e-18   66.0   0.0   2   2     1e-09   9.1e-06   25.9   0.0     3    88   166   254   164   281 0.80 Polyketide cyclase / dehydrase and lipid transport
+FAD_binding_3        PF01494.19   349 BGC0001723.1_ORF8:gid:ovmOII:pid:ARK36160.1:loc:6768:8241:strand:+ -            490   1.3e-79  268.0   0.4   1   1   1.9e-83   1.7e-79  267.6   0.4     1   346     2   329     2   331 0.95 FAD binding domain
+FAD_binding_3        PF01494.19   349 BGC0001723.1_ORF9:gid:ovmOIII:pid:ARK36161.1:loc:8260:9781:strand:+ -            506   3.3e-84  283.1   0.2   1   1   1.2e-87   4.3e-84  282.8   0.2     3   348    19   351    18   352 0.93 FAD binding domain
+Pyr_redox            PF00070.27    81 BGC0001723.1_ORF9:gid:ovmOIII:pid:ARK36161.1:loc:8260:9781:strand:+ -            506   8.3e-08   32.7   0.1   1   1   3.8e-08   0.00014   22.4   0.1     2    40    20    58    19    76 0.81 Pyridine nucleotide-disulphide oxidoreductase
+ACPS                 PF01648.20   114 BGC0001723.1_ORF10:gid:ovmF:pid:ARK36162.1:loc:9854:10733:strand:+ -            292   1.3e-09   38.2   0.0   1   1   1.7e-13     3e-09   37.0   0.0     1    71   146   210   146   237 0.84 4'-phosphopantetheinyl transferase superfamily
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001723.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001723.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001723.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:56:53 2019
+# [ok]

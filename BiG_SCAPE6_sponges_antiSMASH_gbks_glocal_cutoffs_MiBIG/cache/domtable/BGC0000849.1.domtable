@@ -1,0 +1,16 @@
+#                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+TetR_N               PF00440.23    47 BGC0000849.1_ORF1:gid:SCO6265:pid:CAB60184.1:loc:0:648:strand:- -            215   1.9e-17   62.8   0.7   1   1     1e-21   1.9e-17   62.8   0.7     1    45    14    58    14    60 0.97 Bacterial regulatory proteins, tetR family
+AfsA                 PF03756.13   133 BGC0000849.1_ORF2:gid:SCO6266:pid:CAB60185.1:loc:765:1710:strand:+ -            314   4.2e-55  185.4   1.3   1   2   5.2e-42   9.3e-38  129.2   0.3     1   132    28   163    28   164 0.98 A-factor biosynthesis hotdog domain
+AfsA                 PF03756.13   133 BGC0000849.1_ORF2:gid:SCO6266:pid:CAB60185.1:loc:765:1710:strand:+ -            314   4.2e-55  185.4   1.3   2   2   6.1e-19   1.1e-14   54.6   0.0     3   124   196   302   194   309 0.77 A-factor biosynthesis hotdog domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000849.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000849.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000849.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:53:53 2019
+# [ok]

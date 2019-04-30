@@ -1,0 +1,26 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Capsule_synth        PF05159.14   310 BGC0000737.1_ORF1:gid:phyA:pid:AAK17907.1:loc:0:351:strand:- -            117   1.9e-17   63.7   0.0   1   1   1.4e-21   2.5e-17   63.3   0.0     1    58    51   117    51   117 0.97 Capsule polysaccharide biosynthesis protein
+Glycos_transf_2      PF00535.26   170 BGC0000737.1_ORF3:gid:dcbF:pid:AAK17905.1:loc:2891:4397:strand:+ -            501   5.3e-33  114.2   1.6   1   1   1.9e-32   1.1e-28  100.1   0.4     1   123    96   216    96   266 0.87 Glycosyl transferase family 2
+Glyco_tranf_2_2      PF10111.9    276 BGC0000737.1_ORF3:gid:dcbF:pid:AAK17905.1:loc:2891:4397:strand:+ -            501   1.4e-10   41.1   2.9   1   1   4.9e-14   2.9e-10   40.1   2.9     4   138    97   228    94   268 0.81 Glycosyltransferase like family 2
+Glyco_tranf_2_3      PF13641.6    230 BGC0000737.1_ORF3:gid:dcbF:pid:AAK17905.1:loc:2891:4397:strand:+ -            501   4.1e-08   33.4   0.0   1   1   9.7e-12   5.8e-08   32.9   0.0     2   120    93   210    92   271 0.77 Glycosyltransferase like family 2
+UDPG_MGDP_dh_N       PF03721.14   187 BGC0000737.1_ORF4:gid:dcbC:pid:AAK17904.1:loc:4784:5957:strand:+ -            390   4.7e-34  117.6   0.5   1   1   8.3e-37   1.9e-33  115.6   0.5     2   181     3   169     2   175 0.91 UDP-glucose/GDP-mannose dehydrogenase family, NAD binding domain
+UDPG_MGDP_dh         PF00984.19    94 BGC0000737.1_ORF4:gid:dcbC:pid:AAK17904.1:loc:4784:5957:strand:+ -            390     4e-26   91.1   0.0   1   1   3.7e-29   8.2e-26   90.1   0.0     2    93   193   282   192   283 0.96 UDP-glucose/GDP-mannose dehydrogenase family, central domain
+UDPG_MGDP_dh_C       PF03720.15   105 BGC0000737.1_ORF4:gid:dcbC:pid:AAK17904.1:loc:4784:5957:strand:+ -            390   8.5e-13   48.6   0.2   1   1   1.4e-12   3.1e-09   37.2   0.0     2    82   302   376   301   388 0.89 UDP-glucose/GDP-mannose dehydrogenase family, UDP binding domain
+3HCDH_N              PF02737.18   180 BGC0000737.1_ORF4:gid:dcbC:pid:AAK17904.1:loc:4784:5957:strand:+ -            390     2e-06   27.8   0.4   1   1   2.4e-09   5.3e-06   26.4   0.3     1   117     3   115     3   133 0.83 3-hydroxyacyl-CoA dehydrogenase, NAD binding domain
+Glyco_hydro_4        PF02056.16   183 BGC0000737.1_ORF4:gid:dcbC:pid:AAK17904.1:loc:4784:5957:strand:+ -            390     3e-06   26.9   0.1   1   1   2.6e-09   5.9e-06   25.9   0.1     1    80     3    81     3    92 0.78 Family 4 glycosyl hydrolase
+ApbA                 PF02558.16   152 BGC0000737.1_ORF4:gid:dcbC:pid:AAK17904.1:loc:4784:5957:strand:+ -            390   1.8e-05   24.4   0.2   1   1   3.3e-08   7.5e-05   22.4   0.1     1    78     4    84     4   139 0.87 Ketopantoate reductase PanE/ApbA
+Glycos_transf_2      PF00535.26   170 BGC0000737.1_ORF5:gid:dcbB:pid:AAK17903.1:loc:5949:7383:strand:+ -            477   4.3e-31  108.0   0.0   1   1   1.3e-34   7.7e-31  107.2   0.0     1   113   217   328   217   364 0.93 Glycosyl transferase family 2
+Glyco_tranf_2_3      PF13641.6    230 BGC0000737.1_ORF5:gid:dcbB:pid:AAK17903.1:loc:5949:7383:strand:+ -            477   3.7e-14   53.2   0.0   1   1   8.9e-18   5.3e-14   52.7   0.0     4   128   216   335   213   366 0.91 Glycosyltransferase like family 2
+Glyco_tranf_2_2      PF10111.9    276 BGC0000737.1_ORF5:gid:dcbB:pid:AAK17903.1:loc:5949:7383:strand:+ -            477   6.9e-08   32.3   0.2   1   1   2.7e-11   1.6e-07   31.1   0.2     5   104   221   317   216   334 0.78 Glycosyltransferase like family 2
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000737.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000737.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000737.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:47:19 2019
+# [ok]

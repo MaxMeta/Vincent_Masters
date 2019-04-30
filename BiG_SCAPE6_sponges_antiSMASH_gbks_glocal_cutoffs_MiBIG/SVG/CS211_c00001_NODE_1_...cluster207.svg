@@ -1,0 +1,79 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="292.8666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="282.8666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg10320_1)</title>
+			<polygon class=" (ctg10320_1)" points="10,40 39,10 39,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_5 (PF00266)
+"Aminotransferase class-V"</title>
+				<polygon class="PF00266" points="14,40 26,28 35,28 35,52 26,52" stroke-linejoin="round" width="25" height="24" fill="rgb(214,54,122)" stroke="rgb(171,43,97)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg10320_2)</title>
+			<polygon class=" (ctg10320_2)" points="47,25 80,25 80,10 110,40 80,70 80,55 47,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DXP_synthase_N (PF13292)
+"1-deoxy-D-xylulose-5-phosphate synthase"</title>
+				<rect class="PF13292" x="47" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(46,179,173)" stroke="rgb(36,143,138)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Transket_pyr (PF02779)
+"Transketolase, pyrimidine binding domain"</title>
+				<rect class="PF02779" x="78" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(189,186,84)" stroke="rgb(151,148,67)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Transketolase_C (PF02780)
+"Transketolase, C-terminal domain"</title>
+				<polygon class="PF02780" points="96,30 106,40 96,50" stroke-linejoin="round" width="12" height="24" fill="rgb(76,206,101)" stroke="rgb(60,164,80)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg10320_3)</title>
+			<polygon class=" (ctg10320_3)" points="111,25 147,25 147,10 177,40 147,70 147,55 111,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQHop_cyclase_N (PF13249)
+"Squalene-hopene cyclase N-terminal domain"</title>
+				<rect class="PF13249" x="114" y="28" stroke-linejoin="round" width="28" height="24" fill="rgb(88,190,89)" stroke="rgb(70,152,71)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SQHop_cyclase_C (PF13243)
+"Squalene-hopene cyclase C-terminal domain"</title>
+				<polygon class="PF13243" points="144,28 161,28 173,40 161,52 144,52" stroke-linejoin="round" width="31" height="24" fill="rgb(191,58,201)" stroke="rgb(152,46,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg10320_4)</title>
+			<polygon class=" (ctg10320_4)" points="178,10 204,40 178,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PNP_UDP_1 (PF01048)
+"Phosphorylase superfamily"</title>
+				<polygon class="PF01048" points="178,28 190,28 199,39 199,41 190,52 178,52" stroke-linejoin="round" width="21" height="24" fill="rgb(75,186,148)" stroke="rgb(60,148,118)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg10320_5)</title>
+			<polygon class=" (ctg10320_5)" points="242,25 233,25 233,10 203,40 233,70 233,55 242,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF3463 (PF11946)
+"Domain of unknown function (DUF3463)"</title>
+				<polygon class="PF11946" points="209,38 219,28 222,28 222,52 219,52 209,42" stroke-linejoin="round" width="13" height="24" fill="rgb(193,51,57)" stroke="rgb(154,40,45)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<rect class="PF04055" x="223" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(149,56,222)" stroke="rgb(119,44,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg10320_6)</title>
+			<polygon class=" (ctg10320_6)" points="275,25 273,25 273,10 243,40 273,70 273,55 275,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LYTB (PF02401)
+"LytB protein"</title>
+				<polygon class="PF02401" points="247,40 259,28 273,28 273,52 259,52" stroke-linejoin="round" width="27" height="24" fill="rgb(155,62,193)" stroke="rgb(124,49,154)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

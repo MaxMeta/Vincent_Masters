@@ -1,0 +1,91 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="345.8666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="335.8666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg8122_1)</title>
+			<polygon class=" (ctg8122_1)" points="10,10 30,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="10,28 19,28 27,40 19,52 10,52" stroke-linejoin="round" width="19" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8122_2)</title>
+			<polygon class=" (ctg8122_2)" points="30,25 44,25 44,10 74,40 44,70 44,55 30,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amino_oxidase (PF01593)
+"Flavin containing amine oxidoreductase"</title>
+				<polygon class="PF01593" points="31,28 58,28 70,40 58,52 31,52" stroke-linejoin="round" width="42" height="24" fill="rgb(184,74,52)" stroke="rgb(147,59,41)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8122_3)</title>
+			<polygon class=" (ctg8122_3)" points="78,25 113,25 113,10 143,40 113,70 113,55 78,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQHop_cyclase_N (PF13249)
+"Squalene-hopene cyclase N-terminal domain"</title>
+				<rect class="PF13249" x="81" y="28" stroke-linejoin="round" width="28" height="24" fill="rgb(88,190,89)" stroke="rgb(70,152,71)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SQHop_cyclase_C (PF13243)
+"Squalene-hopene cyclase C-terminal domain"</title>
+				<polygon class="PF13243" points="110,28 127,28 139,40 127,52 110,52" stroke-linejoin="round" width="31" height="24" fill="rgb(191,58,201)" stroke="rgb(152,46,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8122_4)</title>
+			<polygon class=" (ctg8122_4)" points="145,25 148,25 148,10 178,40 148,70 148,55 145,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<polygon class="PF04055" points="148,28 162,28 163,29 163,51 162,52 148,52" stroke-linejoin="round" width="15" height="24" fill="rgb(149,56,222)" stroke="rgb(119,44,177)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DUF3463 (PF11946)
+"Domain of unknown function (DUF3463)"</title>
+				<polygon class="PF11946" points="164,30 174,40 164,50" stroke-linejoin="round" width="13" height="24" fill="rgb(193,51,57)" stroke="rgb(154,40,45)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8122_5)</title>
+			<polygon class=" (ctg8122_5)" points="188,40 211,10 211,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg8122_6)</title>
+			<polygon class=" (ctg8122_6)" points="213,40 229,10 229,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HNH (PF01844)
+"HNH endonuclease"</title>
+				<polygon class="PF01844" points="217,38 221,31 221,49 217,42" stroke-linejoin="round" width="4" height="24" fill="rgb(118,184,79)" stroke="rgb(94,147,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8122_7)</title>
+			<polygon class=" (ctg8122_7)" points="268,25 260,25 260,10 230,40 260,70 260,55 268,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>N6_N4_Mtase (PF01555)
+"DNA methylase"</title>
+				<polygon class="PF01555" points="235,39 246,28 264,28 264,52 246,52 235,41" stroke-linejoin="round" width="29" height="24" fill="rgb(54,198,162)" stroke="rgb(43,158,129)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8122_8)</title>
+			<polygon class=" (ctg8122_8)" points="287,40 302,10 302,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Phage_holin_4_2 (PF04020)
+"Mycobacterial 4 TMS phage holin, superfamily IV"</title>
+				<polygon class="PF04020" points="290,40 296,28 301,28 301,52 296,52 290,40" stroke-linejoin="round" width="11" height="24" fill="rgb(207,69,163)" stroke="rgb(165,55,130)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8122_9)</title>
+			<polygon class=" (ctg8122_9)" points="309,10 335,40 309,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acetyltransf_1 (PF00583)
+"Acetyltransferase (GNAT) family"</title>
+				<polygon class="PF00583" points="316,28 321,28 331,40 331,40 321,52 316,52" stroke-linejoin="round" width="15" height="24" fill="rgb(121,183,50)" stroke="rgb(96,146,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

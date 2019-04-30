@@ -1,0 +1,24 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Peptidase_M16_C      PF05193.21   183 CS200_c00001_NODE_1_...cluster254_ORF1:gid::pid::loc:1:892:strand:+ -            296   9.1e-10   38.8   0.0   1   1   8.1e-14   1.5e-09   38.2   0.0    18   183    66   228    48   228 0.88 Peptidase M16 inactive domain
+Fe_dep_repr_C        PF02742.15    70 CS200_c00001_NODE_1_...cluster254_ORF2:gid::pid::loc:969:1665:strand:+ -            231   3.9e-28   97.3   0.1   1   1   3.4e-31     2e-27   95.0   0.1     1    69    71   139    71   140 0.99 Iron dependent repressor, metal binding and dimerisation domain
+Fe_dep_repress       PF01325.19    60 CS200_c00001_NODE_1_...cluster254_ORF2:gid::pid::loc:969:1665:strand:+ -            231   9.4e-09   35.4   0.0   1   1   3.7e-12   2.2e-08   34.2   0.0     7    55    15    63    10    68 0.89 Iron dependent repressor, N-terminal DNA binding domain
+FeoA                 PF04023.14    74 CS200_c00001_NODE_1_...cluster254_ORF2:gid::pid::loc:969:1665:strand:+ -            231   5.4e-07   29.8   0.1   1   1   2.5e-10   1.5e-06   28.4   0.0     2    73   152   226   151   227 0.93 FeoA domain
+Meth_synt_2          PF01717.18   324 CS200_c00001_NODE_1_...cluster254_ORF3:gid::pid::loc:1723:2836:strand:+ -            370   1.9e-18   66.8   0.0   1   1   2.1e-22   3.7e-18   65.9   0.0     5   306     9   343     4   367 0.79 Cobalamin-independent synthase, Catalytic domain
+Sulfate_transp       PF00916.20   380 CS200_c00001_NODE_1_...cluster254_ORF4:gid::pid::loc:2866:4540:strand:- -            557   7.2e-67  225.8  22.1   1   1     8e-71   7.2e-67  225.8  22.1     1   379    29   385    29   386 0.97 Sulfate permease family
+STAS                 PF01740.21   117 CS200_c00001_NODE_1_...cluster254_ORF4:gid::pid::loc:2866:4540:strand:- -            557   4.4e-05   23.1   0.0   1   1     8e-09   7.1e-05   22.4   0.0    48   114   474   541   436   544 0.83 STAS domain
+ketoacyl-synt        PF00109.26   253 CS200_c00001_NODE_1_...cluster254_ORF5:gid::pid::loc:4657:7369:strand:+ -            904   3.8e-76  256.0   1.0   1   1   1.2e-79   5.5e-76  255.5   0.1     2   253    10   262     9   262 0.88 Beta-ketoacyl synthase, N-terminal domain
+Acyl_transf_1        PF00698.21   319 CS200_c00001_NODE_1_...cluster254_ORF5:gid::pid::loc:4657:7369:strand:+ -            904   2.7e-51  175.0   0.0   1   1   8.5e-55   3.8e-51  174.5   0.0     2   275   573   855   572   888 0.87 Acyl transferase domain
+Ketoacyl-synt_C      PF02801.22   118 CS200_c00001_NODE_1_...cluster254_ORF5:gid::pid::loc:4657:7369:strand:+ -            904   9.2e-42  141.8   0.1   1   1   2.1e-44   9.6e-41  138.5   0.1     2   118   271   388   270   388 0.99 Beta-ketoacyl synthase, C-terminal domain
+KAsynt_C_assoc       PF16197.5    112 CS200_c00001_NODE_1_...cluster254_ORF5:gid::pid::loc:4657:7369:strand:+ -            904   1.2e-11   45.0   0.0   1   1   9.2e-15   4.1e-11   43.3   0.0     1    87   390   504   390   525 0.90 Ketoacyl-synthetase C-terminal extension
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS200_c00001_NODE_1_...cluster254.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS200_c00001_NODE_1_...cluster254.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS200_c00001_NODE_1_...cluster254.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:55:49 2019
+# [ok]

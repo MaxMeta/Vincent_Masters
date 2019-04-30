@@ -1,0 +1,33 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+YcaO                 PF02624.16   323 CS202_c00001_NODE_1_...cluster165_ORF2:gid::pid::loc:367:2713:strand:+ -            781   3.3e-90  302.6   2.7   1   1   1.8e-94   3.3e-90  302.6   2.7     2   323   406   744   405   744 0.88 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+Methyltransf_11      PF08241.12    96 CS202_c00001_NODE_1_...cluster165_ORF4:gid::pid::loc:3986:4862:strand:+ -            291   7.6e-23   81.0   0.1   1   1   6.7e-26   1.2e-22   80.4   0.1     1    95    78   176    78   177 0.97 Methyltransferase domain
+Methyltransf_25      PF13649.6     97 CS202_c00001_NODE_1_...cluster165_ORF4:gid::pid::loc:3986:4862:strand:+ -            291   3.7e-21   75.6   0.1   1   1   3.5e-24   6.2e-21   74.9   0.1     1    97    77   173    77   173 0.95 Methyltransferase domain
+Methyltransf_31      PF13847.6    152 CS202_c00001_NODE_1_...cluster165_ORF4:gid::pid::loc:3986:4862:strand:+ -            291   5.6e-17   61.9   0.0   1   1   4.3e-20   7.7e-17   61.5   0.0     4   115    74   188    71   229 0.86 Methyltransferase domain
+Methyltransf_23      PF13489.6    165 CS202_c00001_NODE_1_...cluster165_ORF4:gid::pid::loc:3986:4862:strand:+ -            291   5.7e-16   58.8   0.0   1   1   4.2e-19   7.5e-16   58.4   0.0    23   164    74   226    49   227 0.82 Methyltransferase domain
+Ubie_methyltran      PF01209.18   233 CS202_c00001_NODE_1_...cluster165_ORF4:gid::pid::loc:3986:4862:strand:+ -            291   4.1e-15   55.8   0.1   1   1   2.2e-17     4e-14   52.5   0.1    46   154    72   180    59   198 0.88 ubiE/COQ5 methyltransferase family
+CMAS                 PF02353.20   273 CS202_c00001_NODE_1_...cluster165_ORF4:gid::pid::loc:3986:4862:strand:+ -            291   2.2e-11   43.6   0.0   1   1   1.6e-14   2.9e-11   43.2   0.0    40   218    51   230    47   254 0.78 Mycolic acid cyclopropane synthetase
+Methyltransf_12      PF08242.12    99 CS202_c00001_NODE_1_...cluster165_ORF4:gid::pid::loc:3986:4862:strand:+ -            291   5.4e-11   43.1   0.1   1   1   4.8e-14   8.7e-11   42.5   0.1     1    99    78   175    78   175 0.88 Methyltransferase domain
+MTS                  PF05175.14   169 CS202_c00001_NODE_1_...cluster165_ORF4:gid::pid::loc:3986:4862:strand:+ -            291   7.3e-08   32.1   0.1   1   1   6.9e-11   1.2e-07   31.4   0.1    31   136    73   176    56   186 0.88 Methyltransferase small domain
+Methyltransf_15      PF09445.10   165 CS202_c00001_NODE_1_...cluster165_ORF4:gid::pid::loc:3986:4862:strand:+ -            291   4.4e-06   26.4   0.3   1   1   3.5e-09   6.3e-06   25.9   0.3     3    64    76   138    74   161 0.87 RNA cap guanine-N2 methyltransferase
+Methyltransf_11      PF08241.12    96 CS202_c00001_NODE_1_...cluster165_ORF5:gid::pid::loc:4868:5723:strand:- -            284   1.1e-20   74.0   0.0   1   1   1.1e-23   2.5e-20   72.9   0.0     1    93    64   159    64   161 0.97 Methyltransferase domain
+Methyltransf_25      PF13649.6     97 CS202_c00001_NODE_1_...cluster165_ORF5:gid::pid::loc:4868:5723:strand:- -            284   9.5e-20   71.1   0.0   1   1     9e-23     2e-19   70.1   0.0     1    97    63   158    63   158 0.96 Methyltransferase domain
+Methyltransf_31      PF13847.6    152 CS202_c00001_NODE_1_...cluster165_ORF5:gid::pid::loc:4868:5723:strand:- -            284   8.5e-16   58.1   0.0   1   1   5.4e-19   1.2e-15   57.6   0.0     4   113    60   166    57   195 0.88 Methyltransferase domain
+CMAS                 PF02353.20   273 CS202_c00001_NODE_1_...cluster165_ORF5:gid::pid::loc:4868:5723:strand:- -            284   5.3e-14   52.2   0.0   1   1     3e-17   6.8e-14   51.8   0.0    36   162    33   160     2   186 0.83 Mycolic acid cyclopropane synthetase
+Ubie_methyltran      PF01209.18   233 CS202_c00001_NODE_1_...cluster165_ORF5:gid::pid::loc:4868:5723:strand:- -            284   1.3e-11   44.3   0.0   1   1   1.3e-14     3e-11   43.1   0.0    47   153    59   164    43   181 0.91 ubiE/COQ5 methyltransferase family
+Methyltransf_12      PF08242.12    99 CS202_c00001_NODE_1_...cluster165_ORF5:gid::pid::loc:4868:5723:strand:- -            284     3e-11   43.9   0.0   1   1   3.2e-14   7.3e-11   42.7   0.0     1    98    64   159    64   160 0.88 Methyltransferase domain
+Methyltransf_23      PF13489.6    165 CS202_c00001_NODE_1_...cluster165_ORF5:gid::pid::loc:4868:5723:strand:- -            284   4.4e-11   42.9   0.0   1   1   3.4e-14   7.5e-11   42.1   0.0    20   163    57   210    38   212 0.76 Methyltransferase domain
+Methyltransf_15      PF09445.10   165 CS202_c00001_NODE_1_...cluster165_ORF5:gid::pid::loc:4868:5723:strand:- -            284   8.6e-05   22.2   0.0   1   1   5.1e-08   0.00011   21.8   0.0     2    60    61   120    60   173 0.88 RNA cap guanine-N2 methyltransferase
+FAD_binding_4        PF01565.23   139 CS202_c00001_NODE_1_...cluster165_ORF6:gid::pid::loc:6093:7167:strand:+ -            357   6.6e-11   42.1   2.4   1   1   6.2e-15   1.1e-10   41.4   2.4    48   138     3    90     1    91 0.86 FAD binding domain
+MMPL                 PF03176.15   333 CS202_c00001_NODE_1_...cluster165_ORF7:gid::pid::loc:7163:7469:strand:- -            101   3.3e-07   29.5   5.2   1   1     2e-11   3.6e-07   29.4   5.2   224   302     2    81     1    97 0.87 MMPL family
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster165.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS202_c00001_NODE_1_...cluster165.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster165.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:34:07 2019
+# [ok]

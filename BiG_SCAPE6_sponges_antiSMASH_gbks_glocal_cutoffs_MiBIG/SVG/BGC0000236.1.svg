@@ -1,0 +1,390 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1172.1333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="1162.1333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>
+unknown</title>
+			<polygon class="
+unknown" points="11,40 30,10 30,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TerD (PF02342)
+"TerD domain"</title>
+				<polygon class="PF02342" points="15,40 23,28 28,28 28,52 23,52" stroke-linejoin="round" width="16" height="24" fill="rgb(84,103,187)" stroke="rgb(67,82,149)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+putative arylamine N-acetyltransferase</title>
+			<polygon class="
+putative arylamine N-acetyltransferase" points="31,10 58,40 31,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acetyltransf_2 (PF00797)
+"N-acetyltransferase"</title>
+				<polygon class="PF00797" points="33,28 43,28 54,40 43,52 33,52" stroke-linejoin="round" width="23" height="24" fill="rgb(68,124,226)" stroke="rgb(54,99,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+unknown</title>
+			<polygon class="
+unknown" points="60,10 80,40 60,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4937 (PF16291)
+"Domain of unknown function (DUF4937"</title>
+				<rect class="PF16291" x="60" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(140,203,94)" stroke="rgb(112,162,75)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+unknown</title>
+			<polygon class="
+unknown" points="83,10 105,40 83,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>His_Phos_1 (PF00300)
+"Histidine phosphatase superfamily (branch 1)"</title>
+				<polygon class="PF00300" points="83,28 92,28 101,40 92,52 83,52" stroke-linejoin="round" width="19" height="24" fill="rgb(135,184,63)" stroke="rgb(107,147,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+putative hydrolase</title>
+			<polygon class="
+putative hydrolase" points="106,25 106,25 106,10 136,40 106,70 106,55 106,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ADP_ribosyl_GH (PF03747)
+"ADP-ribosylglycohydrolase"</title>
+				<polygon class="PF03747" points="107,28 120,28 132,40 120,52 107,52" stroke-linejoin="round" width="26" height="24" fill="rgb(215,124,105)" stroke="rgb(172,99,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+putative transmembrane efflux protein</title>
+			<polygon class="
+putative transmembrane efflux protein" points="188,25 166,25 166,10 136,40 166,70 166,55 188,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="145,35 152,28 184,28 184,52 152,52 145,45" stroke-linejoin="round" width="39" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+putative transcriptional regulator</title>
+			<polygon class="
+putative transcriptional regulator" points="195,10 216,40 195,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TetR_N (PF00440)
+"Bacterial regulatory proteins, tetR family"</title>
+				<rect class="PF00440" x="198" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(73,212,190)" stroke="rgb(58,169,152)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TetR_C_11 (PF16859)
+"Tetracyclin repressor-like, C-terminal domain"</title>
+				<polygon class="PF16859" points="203,28 204,28 212,40 204,52 203,52" stroke-linejoin="round" width="11" height="24" fill="rgb(219,77,198)" stroke="rgb(175,61,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+putative ribonuclease HII</title>
+			<polygon class="
+putative ribonuclease HII" points="218,10 241,40 218,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>RNase_HII (PF01351)
+"Ribonuclease HII"</title>
+				<polygon class="PF01351" points="220,28 228,28 237,40 228,52 220,52" stroke-linejoin="round" width="18" height="24" fill="rgb(76,183,124)" stroke="rgb(60,146,99)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+unknown</title>
+			<polygon class="
+unknown" points="246,10 266,40 246,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+unknown</title>
+			<polygon class="
+unknown" points="274,40 295,10 295,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+putative ATP-dependent DNA helicase</title>
+			<polygon class="
+putative ATP-dependent DNA helicase" points="306,25 348,25 348,10 378,40 348,70 348,55 306,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DEAD (PF00270)
+"DEAD/DEAH box helicase"</title>
+				<rect class="PF00270" x="308" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(195,100,62)" stroke="rgb(156,80,49)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Helicase_C (PF00271)
+"Helicase conserved C-terminal domain"</title>
+				<rect class="PF00271" x="329" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(104,224,158)" stroke="rgb(83,179,126)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>RecQ_Zn_bind (PF16124)
+"RecQ zinc-binding"</title>
+				<rect class="PF16124" x="348" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(207,93,128)" stroke="rgb(165,74,102)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+unknown</title>
+			<polygon class="
+unknown" points="381,25 384,25 384,10 414,40 384,70 384,55 381,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+unknown</title>
+			<polygon class="
+unknown" points="416,10 429,40 416,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PTPS (PF01242)
+"6-pyruvoyl tetrahydropterin synthase"</title>
+				<polygon class="PF01242" points="416,28 420,28 426,40 420,52 416,52" stroke-linejoin="round" width="12" height="24" fill="rgb(179,224,60)" stroke="rgb(143,179,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+putative bifunctional enzyme deaminase/reductase</title>
+			<polygon class="
+putative bifunctional enzyme deaminase/reductase" points="430,10 452,40 430,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>RibD_C (PF01872)
+"RibD C-terminal domain"</title>
+				<polygon class="PF01872" points="430,28 440,28 448,40 440,52 430,52" stroke-linejoin="round" width="21" height="24" fill="rgb(225,80,120)" stroke="rgb(180,64,95)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+unknown</title>
+			<polygon class="
+unknown" points="456,10 466,40 456,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+unknown</title>
+			<polygon class="
+unknown" points="471,25 522,25 522,10 552,40 522,70 522,55 471,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+unknown</title>
+			<polygon class="
+unknown" points="555,10 564,40 555,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>kinR
+putative TetR/AcrR-family transcriptional regulator</title>
+			<polygon class="kinR
+putative TetR/AcrR-family transcriptional regulator" points="565,40 584,10 584,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TetR_N (PF00440)
+"Bacterial regulatory proteins, tetR family"</title>
+				<polygon class="PF00440" points="577,28 577,28 581,28 581,52 577,52 577,52" stroke-linejoin="round" width="4" height="24" fill="rgb(73,212,190)" stroke="rgb(58,169,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kinU1
+KinU1</title>
+			<polygon class="kinU1
+KinU1" points="591,10 605,40 591,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Putative_PNPOx (PF01243)
+"Pyridoxamine 5'-phosphate oxidase"</title>
+				<polygon class="PF01243" points="592,28 595,28 600,37 600,43 595,52 592,52" stroke-linejoin="round" width="8" height="24" fill="rgb(177,193,67)" stroke="rgb(141,154,53)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kinX
+JadX-like protein</title>
+			<polygon class="kinX
+JadX-like protein" points="604,40 623,10 623,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SnoaL_4 (PF13577)
+"SnoaL-like domain"</title>
+				<polygon class="PF13577" points="610,37 616,28 623,28 623,52 616,52 610,43" stroke-linejoin="round" width="13" height="24" fill="rgb(68,223,209)" stroke="rgb(54,178,167)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kinO1
+oxygenase-like protein</title>
+			<polygon class="kinO1
+oxygenase-like protein" points="629,25 648,25 648,10 678,40 648,70 648,55 629,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FAD_binding_3 (PF01494)
+"FAD binding domain"</title>
+				<polygon class="PF01494" points="629,28 661,28 662,29 662,51 661,52 629,52" stroke-linejoin="round" width="33" height="24" fill="rgb(182,175,59)" stroke="rgb(145,140,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kinG
+anthrone oxidase-like protein</title>
+			<polygon class="kinG
+anthrone oxidase-like protein" points="679,10 702,40 679,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABM (PF03992)
+"Antibiotic biosynthesis monooxygenase"</title>
+				<polygon class="PF03992" points="691,31 698,40 698,40 691,49" stroke-linejoin="round" width="7" height="24" fill="rgb(193,84,127)" stroke="rgb(154,67,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kinI
+JadI cyclase-like protein</title>
+			<polygon class="kinI
+JadI cyclase-like protein" points="717,10 728,40 717,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cyclase_polyket (PF04673)
+"Polyketide synthesis cyclase"</title>
+				<polygon class="PF04673" points="717,28 720,28 724,40 720,52 717,52" stroke-linejoin="round" width="10" height="24" fill="rgb(49,187,78)" stroke="rgb(39,149,62)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kinA
+putative ketoacyl synthase</title>
+			<polygon class="kinA
+putative ketoacyl synthase" points="728,25 740,25 740,10 770,40 740,70 740,55 728,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="728" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<polygon class="PF02801" points="754,28 754,28 765,39 765,41 754,52 754,52" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kinB
+putative chain length determinant</title>
+			<polygon class="kinB
+putative chain length determinant" points="770,25 780,25 780,10 810,40 780,70 780,55 770,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="770" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<polygon class="PF02801" points="795,29 806,40 806,40 795,51" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kinC
+putative acyl carrier protein</title>
+			<polygon class="kinC
+putative acyl carrier protein" points="812,10 823,40 812,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="815,28 815,28 819,40 815,52 815,52" stroke-linejoin="round" width="7" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kinE
+putative ketoreductase</title>
+			<polygon class="kinE
+putative ketoreductase" points="824,10 850,40 824,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short (PF00106)
+"short chain dehydrogenase"</title>
+				<polygon class="PF00106" points="824,28 836,28 843,37 843,43 836,52 824,52" stroke-linejoin="round" width="19" height="24" fill="rgb(182,219,73)" stroke="rgb(145,175,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kinD
+cyclase/dehydratase-like protein</title>
+			<polygon class="kinD
+cyclase/dehydratase-like protein" points="851,25 852,25 852,10 882,40 852,70 852,55 851,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Polyketide_cyc2 (PF10604)
+"Polyketide cyclase / dehydrase and lipid transport"</title>
+				<rect class="PF10604" x="851" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(105,204,74)" stroke="rgb(84,163,59)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Polyketide_cyc2 (PF10604)
+"Polyketide cyclase / dehydrase and lipid transport"</title>
+				<polygon class="PF10604" points="866,29 877,40 866,51" stroke-linejoin="round" width="15" height="24" fill="rgb(105,204,74)" stroke="rgb(84,163,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kinOR
+oxygenase reductase-like protein</title>
+			<polygon class="kinOR
+oxygenase reductase-like protein" points="882,25 901,25 901,10 931,40 901,70 901,55 882,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FAD_binding_3 (PF01494)
+"FAD binding domain"</title>
+				<rect class="PF01494" x="882" y="28" stroke-linejoin="round" width="32" height="24" fill="rgb(182,175,59)" stroke="rgb(145,140,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kinO2
+oxygenase-like protein</title>
+			<polygon class="kinO2
+oxygenase-like protein" points="935,25 954,25 954,10 984,40 954,70 954,55 935,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FAD_binding_3 (PF01494)
+"FAD binding domain"</title>
+				<rect class="PF01494" x="935" y="28" stroke-linejoin="round" width="33" height="24" fill="rgb(182,175,59)" stroke="rgb(145,140,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kinU
+LanU-like protein</title>
+			<polygon class="kinU
+LanU-like protein" points="994,10 1019,40 994,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Abhydrolase_6 (PF12697)
+"Alpha/beta hydrolase family"</title>
+				<polygon class="PF12697" points="994,28 1005,28 1015,40 1005,52 994,52" stroke-linejoin="round" width="23" height="24" fill="rgb(113,71,219)" stroke="rgb(90,56,175)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kinJ
+putative integral membrane efflux protein</title>
+			<polygon class="kinJ
+putative integral membrane efflux protein" points="1019,25 1031,25 1031,10 1061,40 1031,70 1031,55 1019,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_3 (PF05977)
+"Transmembrane secretion effector"</title>
+				<polygon class="PF05977" points="1019,28 1045,28 1057,40 1045,52 1019,52" stroke-linejoin="round" width="41" height="24" fill="rgb(80,62,217)" stroke="rgb(64,49,173)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kinM
+JadM phosphopantetheinyl transferase-like protein</title>
+			<polygon class="kinM
+JadM phosphopantetheinyl transferase-like protein" points="1062,10 1085,40 1062,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ACPS (PF01648)
+"4'-phosphopantetheinyl transferase superfamily"</title>
+				<polygon class="PF01648" points="1074,31 1081,40 1074,49" stroke-linejoin="round" width="8" height="24" fill="rgb(85,184,135)" stroke="rgb(68,147,108)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kinN
+JadN decarboxylase-like protein</title>
+			<polygon class="kinN
+JadN decarboxylase-like protein" points="1087,25 1109,25 1109,10 1139,40 1109,70 1109,55 1087,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Carboxyl_trans (PF01039)
+"Carboxyl transferase domain"</title>
+				<polygon class="PF01039" points="1090,28 1123,28 1135,40 1123,52 1090,52" stroke-linejoin="round" width="48" height="24" fill="rgb(180,136,60)" stroke="rgb(144,108,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kinX2
+SimX2-like protein</title>
+			<polygon class="kinX2
+SimX2-like protein" points="1140,10 1150,40 1140,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ACC_epsilon (PF13822)
+"Acyl-CoA carboxylase epsilon subunit"</title>
+				<polygon class="PF13822" points="1143,29 1147,40 1143,51" stroke-linejoin="round" width="6" height="24" fill="rgb(226,73,128)" stroke="rgb(180,58,102)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

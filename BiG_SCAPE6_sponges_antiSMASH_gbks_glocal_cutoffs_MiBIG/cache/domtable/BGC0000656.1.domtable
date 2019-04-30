@@ -1,0 +1,19 @@
+#                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Lycopene_cycl        PF05834.12   380 BGC0000656.1_ORF1:gid:crtY:pid:AAL01999.1:loc:169:1327:strand:+ -            385  3.5e-128  427.9   0.0   1   1  4.4e-132    4e-128  427.7   0.0     1   379     2   372     2   373 0.99 Lycopene cyclase protein
+NAD_binding_8        PF13450.6     68 BGC0000656.1_ORF1:gid:crtY:pid:AAL01999.1:loc:169:1327:strand:+ -            385     2e-05   24.7   0.4   1   1   1.2e-08   0.00011   22.4   0.2     2    35     6    41     6    58 0.92 NAD(P)-binding Rossmann-like domain
+Amino_oxidase        PF01593.24   452 BGC0000656.1_ORF2:gid:crtI:pid:AAL02000.1:loc:1323:2838:strand:+ -            504   8.1e-45  153.9   0.1   1   1   2.4e-48   1.1e-44  153.5   0.1     2   452    20   496    19   496 0.81 Flavin containing amine oxidoreductase
+NAD_binding_8        PF13450.6     68 BGC0000656.1_ORF2:gid:crtI:pid:AAL02000.1:loc:1323:2838:strand:+ -            504   3.4e-14   52.8   0.1   1   1     2e-17   8.9e-14   51.5   0.1     1    56    14    69    14    78 0.92 NAD(P)-binding Rossmann-like domain
+FAD_binding_2        PF00890.24   417 BGC0000656.1_ORF2:gid:crtI:pid:AAL02000.1:loc:1323:2838:strand:+ -            504   2.5e-05   23.6   0.3   1   1   3.5e-08   0.00016   20.9   0.1     3    36    13    46    11    55 0.91 FAD binding domain
+SQS_PSY              PF00494.19   263 BGC0000656.1_ORF3:gid:crtB:pid:AAL02001.1:loc:2834:3770:strand:+ -            311   1.4e-70  237.8   3.5   1   1   9.2e-75   1.6e-70  237.6   3.5     2   261    17   276    16   278 0.93 Squalene/phytoene synthase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000656.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000656.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000656.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:27:53 2019
+# [ok]

@@ -1,0 +1,69 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="238.33333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="228.33333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg11813_1)</title>
+			<polygon class=" (ctg11813_1)" points="10,40 29,10 29,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LYTB (PF02401)
+"LytB protein"</title>
+				<polygon class="PF02401" points="14,40 22,28 26,28 26,52 22,52" stroke-linejoin="round" width="16" height="24" fill="rgb(155,62,193)" stroke="rgb(124,49,154)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11813_2)</title>
+			<polygon class=" (ctg11813_2)" points="67,25 61,25 61,10 31,40 61,70 61,55 67,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="35,40 47,28 64,28 64,52 47,52 35,40" stroke-linejoin="round" width="29" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11813_3)</title>
+			<polygon class=" (ctg11813_3)" points="87,10 99,40 87,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>STAS (PF01740)
+"STAS domain"</title>
+				<polygon class="PF01740" points="88,28 91,28 96,40 91,52 88,52" stroke-linejoin="round" width="10" height="24" fill="rgb(219,58,116)" stroke="rgb(175,46,92)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11813_4)</title>
+			<polygon class=" (ctg11813_4)" points="103,10 114,40 103,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>STAS (PF01740)
+"STAS domain"</title>
+				<polygon class="PF01740" points="103,28 106,28 111,40 106,52 103,52" stroke-linejoin="round" width="10" height="24" fill="rgb(219,58,116)" stroke="rgb(175,46,92)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11813_5)</title>
+			<polygon class=" (ctg11813_5)" points="188,25 145,25 145,10 115,40 145,70 145,55 188,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HATPase_c (PF02518)
+"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"</title>
+				<polygon class="PF02518" points="119,40 129,30 129,50" stroke-linejoin="round" width="12" height="24" fill="rgb(80,94,225)" stroke="rgb(64,75,180)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HisKA (PF00512)
+"His Kinase A (phospho-acceptor) domain"</title>
+				<rect class="PF00512" x="134" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(193,125,62)" stroke="rgb(154,100,49)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HAMP (PF00672)
+"HAMP domain"</title>
+				<rect class="PF00672" x="147" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(124,89,195)" stroke="rgb(99,71,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11813_6)</title>
+			<polygon class=" (ctg11813_6)" points="227,25 219,25 219,10 189,40 219,70 219,55 227,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peripla_BP_6 (PF13458)
+"Periplasmic binding protein"</title>
+				<polygon class="PF13458" points="193,40 205,28 224,28 224,52 205,52" stroke-linejoin="round" width="34" height="24" fill="rgb(94,183,81)" stroke="rgb(75,146,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,36 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Orn_Arg_deC_N        PF02784.16   247 BGC0001778.1_ORF1:gid::pid:KKZ73322.1:loc:0:1335:strand:- -            444   1.5e-60  204.7   0.0   1   1   2.1e-64   1.9e-60  204.3   0.0     2   246    55   307    54   308 0.97 Pyridoxal-dependent decarboxylase, pyridoxal binding domain
+Orn_DAP_Arg_deC      PF00278.22    98 BGC0001778.1_ORF1:gid::pid:KKZ73322.1:loc:0:1335:strand:- -            444   5.3e-18   65.1   0.0   1   1   6.7e-22     6e-18   64.9   0.0     5    98   143   399    49   399 0.67 Pyridoxal-dependent decarboxylase, C-terminal sheet domain
+PRAI                 PF00697.22   194 BGC0001778.1_ORF3:gid::pid:KKZ73235.1:loc:3309:3969:strand:+ -            219   4.6e-36  124.4   0.0   1   1   2.9e-40   5.2e-36  124.2   0.0     1   193     3   195     3   196 0.90 N-(5'phosphoribosyl)anthranilate (PRA) isomerase
+MFS_1                PF07690.16   353 BGC0001778.1_ORF4:gid::pid:KKZ73236.1:loc:5006:6395:strand:- -            462   2.3e-42  145.2  61.4   1   1   1.3e-46   2.3e-42  145.2  61.4     2   352    21   413    20   414 0.89 Major Facilitator Superfamily
+Indigoidine_A        PF04227.12   291 BGC0001778.1_ORF5:gid::pid:KKZ73237.1:loc:7167:8121:strand:- -            317   1.3e-95  320.2   0.0   1   1    8e-100   1.4e-95  320.0   0.0     1   290    22   309    22   310 0.99 Indigoidine synthase A like protein
+DSBA                 PF01323.20   193 BGC0001778.1_ORF6:gid::pid:KKZ73323.1:loc:8229:8835:strand:- -            201   1.8e-17   63.7   0.0   1   1   1.3e-21   2.3e-17   63.4   0.0    16   191     3   174     1   176 0.89 DSBA-like thioredoxin domain
+dCMP_cyt_deam_1      PF00383.23   101 BGC0001778.1_ORF7:gid::pid:KKZ73238.1:loc:8945:9434:strand:- -            162   7.6e-16   57.8   0.0   1   1   1.1e-19     1e-15   57.5   0.0     7   100    12   107     7   108 0.94 Cytidine and deoxycytidylate deaminase zinc-binding region
+MafB19-deam          PF14437.6    138 BGC0001778.1_ORF7:gid::pid:KKZ73238.1:loc:8945:9434:strand:- -            162   3.7e-13   49.4   0.0   1   1   4.9e-17   4.4e-13   49.2   0.0     9   102     8   109     2   129 0.91 MafB19-like deaminase
+Multi_Drug_Res       PF00893.19    93 BGC0001778.1_ORF8:gid::pid:KKZ73239.1:loc:9442:9760:strand:- -            105     1e-20   74.2   8.3   1   1   7.2e-25   1.3e-20   73.9   8.3     1    91     1    91     1    93 0.98 Small Multidrug Resistance protein
+Multi_Drug_Res       PF00893.19    93 BGC0001778.1_ORF9:gid::pid:KKZ73324.1:loc:9833:10214:strand:- -            126   1.8e-17   63.8   6.6   1   1   1.2e-21   2.2e-17   63.5   6.6     1    93     1    93     1    93 0.98 Small Multidrug Resistance protein
+MarR_2               PF12802.7     62 BGC0001778.1_ORF10:gid::pid:KKZ73240.1:loc:10376:10832:strand:+ -            151   2.8e-11   43.1   0.0   1   1   5.6e-15   5.1e-11   42.3   0.0     1    62    40   101    40   101 0.95 MarR family
+MarR                 PF01047.22    59 BGC0001778.1_ORF10:gid::pid:KKZ73240.1:loc:10376:10832:strand:+ -            151   5.4e-07   29.5   0.0   1   1   1.1e-10   9.7e-07   28.6   0.0     3    59    44   102    42   102 0.93 MarR family
+AMP-binding          PF00501.28   423 BGC0001778.1_ORF11:gid::pid:KKZ73241.1:loc:11199:12657:strand:+ -            485   6.5e-58  196.3   0.0   1   1   3.2e-61   2.9e-57  194.2   0.0     3   423    12   389    10   389 0.88 AMP-binding enzyme
+AMP-binding_C        PF13193.6     76 BGC0001778.1_ORF11:gid::pid:KKZ73241.1:loc:11199:12657:strand:+ -            485     1e-12   48.8   0.3   1   1   8.4e-16   7.6e-12   46.1   0.1     1    76   397   473   397   473 0.91 AMP-binding enzyme C-terminal domain
+Ectoine_synth        PF06339.12   127 BGC0001778.1_ORF13:gid::pid:KKZ73243.1:loc:13053:13428:strand:+ -            124   3.1e-39  134.1   0.1   1   1   5.7e-43   3.4e-39  133.9   0.1     6   119     6   116     1   123 0.91 Ectoine synthase
+Cupin_2              PF07883.11    71 BGC0001778.1_ORF13:gid::pid:KKZ73243.1:loc:13053:13428:strand:+ -            124   1.1e-06   28.2   0.3   1   1   3.1e-10   1.9e-06   27.5   0.1     8    71    41   104    36   104 0.87 Cupin domain
+AraC_binding         PF02311.19   136 BGC0001778.1_ORF13:gid::pid:KKZ73243.1:loc:13053:13428:strand:+ -            124   0.00013   21.9   0.1   1   1   2.8e-08   0.00016   21.5   0.1    24    71    52   100    43   117 0.86 AraC-like ligand binding domain
+Acyl-CoA_dh_1        PF00441.24   150 BGC0001778.1_ORF14:gid::pid:KKZ73325.1:loc:13537:14665:strand:+ -            375   3.6e-28   98.6   0.7   1   1   1.5e-31   6.7e-28   97.8   0.7     3   147   227   371   225   373 0.94 Acyl-CoA dehydrogenase, C-terminal domain
+Acyl-CoA_dh_M        PF02770.19    97 BGC0001778.1_ORF14:gid::pid:KKZ73325.1:loc:13537:14665:strand:+ -            375     5e-25   87.5   0.0   1   1   3.4e-28   1.5e-24   86.0   0.0     2    96   120   212   119   213 0.93 Acyl-CoA dehydrogenase, middle domain
+Acyl-CoA_dh_N        PF02771.16   113 BGC0001778.1_ORF14:gid::pid:KKZ73325.1:loc:13537:14665:strand:+ -            375     1e-15   58.4   0.0   1   1   1.4e-18   6.1e-15   55.9   0.0    19   113    19   115     8   115 0.87 Acyl-CoA dehydrogenase, N-terminal domain
+Acyl-CoA_dh_2        PF08028.11   134 BGC0001778.1_ORF14:gid::pid:KKZ73325.1:loc:13537:14665:strand:+ -            375   4.6e-11   43.1   0.5   1   1   1.6e-14     7e-11   42.5   0.5     6   131   245   360   240   363 0.95 Acyl-CoA dehydrogenase, C-terminal domain
+Transglut_core       PF01841.19   112 BGC0001778.1_ORF15:gid::pid:KKZ73244.1:loc:14683:15403:strand:+ -            239   1.5e-16   60.8   0.0   1   1   1.3e-20   2.3e-16   60.3   0.0    10   112    36   143    26   143 0.88 Transglutaminase-like superfamily
+Amdase               PF17645.1    217 BGC0001778.1_ORF16:gid::pid:KKZ73245.1:loc:15415:16225:strand:+ -            269   1.1e-16   61.2   0.0   1   1   7.8e-21   1.4e-16   60.8   0.0    36   211    78   253    69   262 0.88 Arylmalonate decarboxylase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001778.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001778.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001778.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:47:51 2019
+# [ok]

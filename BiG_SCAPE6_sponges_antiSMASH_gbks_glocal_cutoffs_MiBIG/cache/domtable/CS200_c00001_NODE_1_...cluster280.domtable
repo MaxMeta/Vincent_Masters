@@ -1,0 +1,25 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+polyprenyl_synt      PF00348.17   256 CS200_c00001_NODE_1_...cluster280_ORF1:gid::pid::loc:1:799:strand:+ -            265   2.5e-46  157.8   0.0   1   1   1.7e-50     3e-46  157.6   0.0    45   254     2   214     1   216 0.92 Polyprenyl synthetase
+SQS_PSY              PF00494.19   263 CS200_c00001_NODE_1_...cluster280_ORF2:gid::pid::loc:905:1793:strand:+ -            295   7.9e-73  245.2   3.7   1   1   5.6e-77     1e-72  244.8   3.7     2   262    26   276    25   277 0.95 Squalene/phytoene synthase
+SQS_PSY              PF00494.19   263 CS200_c00001_NODE_1_...cluster280_ORF3:gid::pid::loc:1828:2701:strand:+ -            290     4e-76  256.0   0.5   1   1   2.6e-80   4.8e-76  255.7   0.5     2   260    17   267    16   270 0.95 Squalene/phytoene synthase
+Amino_oxidase        PF01593.24   452 CS200_c00001_NODE_1_...cluster280_ORF4:gid::pid::loc:2661:4038:strand:+ -            458   2.4e-45  155.7   0.4   1   1   1.4e-48   2.7e-45  155.5   0.4     1   451    20   451    20   452 0.88 Flavin containing amine oxidoreductase
+NAD_binding_8        PF13450.6     68 CS200_c00001_NODE_1_...cluster280_ORF4:gid::pid::loc:2661:4038:strand:+ -            458   4.1e-12   46.1   3.1   1   1   2.9e-15   5.8e-12   45.7   0.1     1    54    15    70    15    80 0.92 NAD(P)-binding Rossmann-like domain
+DAO                  PF01266.24   352 CS200_c00001_NODE_1_...cluster280_ORF4:gid::pid::loc:2661:4038:strand:+ -            458   8.5e-11   42.0   2.6   1   1   1.1e-12   2.1e-09   37.4   2.6     1   312    12   405    12   431 0.61 FAD dependent oxidoreductase
+FAD_oxidored         PF12831.7    433 CS200_c00001_NODE_1_...cluster280_ORF4:gid::pid::loc:2661:4038:strand:+ -            458   2.4e-09   37.0   0.0   1   1   3.7e-12   7.4e-09   35.5   0.0     2    49    13    59    12   100 0.79 FAD dependent oxidoreductase
+FAD_binding_2        PF00890.24   417 CS200_c00001_NODE_1_...cluster280_ORF4:gid::pid::loc:2661:4038:strand:+ -            458   1.4e-08   34.2   0.9   1   1   3.9e-11   7.7e-08   31.8   0.3     2    38    13    49    12    52 0.92 FAD binding domain
+Pyr_redox_2          PF07992.14   294 CS200_c00001_NODE_1_...cluster280_ORF4:gid::pid::loc:2661:4038:strand:+ -            458   1.1e-06   28.2   0.0   1   1   1.9e-09   3.8e-06   26.3   0.1     2    39    12    48    11    85 0.89 Pyridine nucleotide-disulphide oxidoreductase
+GIDA                 PF01134.22   392 CS200_c00001_NODE_1_...cluster280_ORF4:gid::pid::loc:2661:4038:strand:+ -            458   1.5e-06   27.6   0.3   1   1   3.8e-09   7.7e-06   25.2   0.1     1    29    12    40    12    71 0.88 Glucose inhibited division protein A
+Polyketide_cyc2      PF10604.9    143 CS200_c00001_NODE_1_...cluster280_ORF5:gid::pid::loc:4126:4606:strand:+ -            159   8.5e-13   48.8   0.4   1   1   1.1e-16   9.7e-13   48.6   0.4     4   143     4   158     1   158 0.75 Polyketide cyclase / dehydrase and lipid transport
+AHSA1                PF08327.11   125 CS200_c00001_NODE_1_...cluster280_ORF5:gid::pid::loc:4126:4606:strand:+ -            159   5.4e-09   36.3   0.2   1   1   7.8e-13     7e-09   36.0   0.2     2    97    12   118    11   132 0.84 Activator of Hsp90 ATPase homolog 1-like protein
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS200_c00001_NODE_1_...cluster280.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS200_c00001_NODE_1_...cluster280.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS200_c00001_NODE_1_...cluster280.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:46:01 2019
+# [ok]

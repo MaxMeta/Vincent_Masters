@@ -1,0 +1,36 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ADH_N                PF08240.12   109 BGC0001707.1_ORF2:gid::pid:AQM75223.1:loc:296:875:strand:- -            192   6.3e-13   48.6   0.5   1   1   6.7e-17   1.2e-12   47.7   0.5     1    53   135   186   135   188 0.95 Alcohol dehydrogenase GroES-like domain
+Ribosomal_L11        PF00298.19    70 BGC0001707.1_ORF3:gid::pid:AQM75224.1:loc:2357:2804:strand:- -            148   1.1e-22   80.3   3.0   1   1   1.8e-26   1.6e-22   79.7   0.3     1    70    78   146    78   146 0.99 Ribosomal protein L11, RNA binding domain
+Ribosomal_L11_N      PF03946.14    65 BGC0001707.1_ORF3:gid::pid:AQM75224.1:loc:2357:2804:strand:- -            148   6.4e-16   58.0   0.3   1   1   1.1e-19   9.7e-16   57.4   0.3     2    65    11    73     7    73 0.94 Ribosomal protein L11, N-terminal domain
+DDE_3                PF13358.6    146 BGC0001707.1_ORF4:gid::pid:AQM75225.1:loc:2982:4077:strand:+ -            364   1.6e-18   66.9   0.1   1   1   1.4e-21   2.4e-18   66.3   0.1     3   141   175   317   173   320 0.88 DDE superfamily endonuclease
+HTH_29               PF13551.6     63 BGC0001707.1_ORF4:gid::pid:AQM75225.1:loc:2982:4077:strand:+ -            364   2.2e-17   62.8   3.5   1   1   4.6e-20   8.3e-17   61.0   0.7     1    61    35    94    35    96 0.93 Winged helix-turn helix
+HTH_23               PF13384.6     50 BGC0001707.1_ORF4:gid::pid:AQM75225.1:loc:2982:4077:strand:+ -            364   7.5e-16   57.4   1.7   1   1   8.9e-17   1.6e-13   50.0   0.8     5    49    33    77    30    78 0.95 Homeodomain-like domain
+HTH_32               PF13565.6     73 BGC0001707.1_ORF4:gid::pid:AQM75225.1:loc:2982:4077:strand:+ -            364   8.9e-15   55.1   0.7   1   1   4.9e-18   8.9e-15   55.1   0.7     1    73    61   133    61   133 0.93 Homeodomain-like domain
+HTH_28               PF13518.6     52 BGC0001707.1_ORF4:gid::pid:AQM75225.1:loc:2982:4077:strand:+ -            364     2e-12   47.0   1.0   1   1   1.1e-15     2e-12   47.0   1.0     2    50    35    85    34    87 0.91 Helix-turn-helix domain
+LZ_Tnp_IS481         PF13011.6     85 BGC0001707.1_ORF4:gid::pid:AQM75225.1:loc:2982:4077:strand:+ -            364   1.7e-09   38.1   4.3   1   1   4.5e-12     8e-09   35.9   1.2    13    80    29    98    21   104 0.77 leucine-zipper of insertion element IS481
+Terminase_5          PF06056.12    58 BGC0001707.1_ORF4:gid::pid:AQM75225.1:loc:2982:4077:strand:+ -            364   6.3e-06   26.0   0.2   1   1   1.4e-07   0.00026   20.8   0.0    16    58    48    90    44    90 0.93 Putative ATPase subunit of terminase (gpP-like)
+Lant_dehydr_C        PF14028.6    312 BGC0001707.1_ORF5:gid::pid:AQM75226.1:loc:4148:5249:strand:- -            366   3.6e-08   33.3   0.0   1   1   2.6e-11   4.7e-07   29.7   0.0   181   311   190   346   131   347 0.88 Lantibiotic biosynthesis dehydratase C-term
+Radical_SAM          PF04055.21   167 BGC0001707.1_ORF6:gid::pid:AQM75227.1:loc:5245:6415:strand:- -            389   5.5e-16   59.4   0.0   1   1   4.6e-20   8.2e-16   58.8   0.0     2   165     4   183     3   185 0.84 Radical SAM superfamily
+BATS                 PF06968.13    86 BGC0001707.1_ORF8:gid::pid:AQM75229.1:loc:7118:8312:strand:+ -            397   2.5e-09   37.2   0.0   1   1   2.3e-13   4.2e-09   36.4   0.0     1    85   276   379   276   380 0.94 Biotin and Thiamin Synthesis associated domain
+AMP-binding          PF00501.28   423 BGC0001707.1_ORF10:gid::pid:AQM75231.1:loc:9388:10525:strand:+ -            378     1e-21   77.1   0.0   1   1   7.5e-26   1.3e-21   76.7   0.0   162   380    54   256    14   290 0.79 AMP-binding enzyme
+YcaO                 PF02624.16   323 BGC0001707.1_ORF12:gid::pid:AQM75233.1:loc:12682:14452:strand:+ -            589   2.6e-75  253.7   0.3   1   1   1.8e-79   3.2e-75  253.4   0.3     2   322   202   545   201   546 0.90 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+Lant_dehydr_N        PF04738.13   653 BGC0001707.1_ORF14:gid::pid:AQM75235.1:loc:17393:18842:strand:+ -            482   2.9e-26   91.8   2.4   1   1   2.8e-30   5.1e-26   91.0   2.4   363   633    99   375    51   377 0.80 Lantibiotic dehydratase, N terminus
+Lant_dehydr_C        PF14028.6    312 BGC0001707.1_ORF15:gid::pid:AQM75236.1:loc:18771:19848:strand:+ -            358   2.1e-53  181.9   0.6   1   1   1.4e-57   2.5e-53  181.7   0.6     1   309    28   322    28   325 0.92 Lantibiotic biosynthesis dehydratase C-term
+p450                 PF00067.22   463 BGC0001707.1_ORF16:gid::pid:AQM75237.1:loc:19873:21232:strand:+ -            452   1.4e-30  106.5   0.0   1   1   4.4e-31   7.8e-27   94.1   0.0    90   433   135   422    81   442 0.78 Cytochrome P450
+p450                 PF00067.22   463 BGC0001707.1_ORF17:gid::pid:AQM75238.1:loc:21264:22488:strand:+ -            407   1.2e-22   80.3   0.0   1   2   1.5e-09   2.7e-05   23.1   0.0   244   300   216   270   188   273 0.89 Cytochrome P450
+p450                 PF00067.22   463 BGC0001707.1_ORF17:gid::pid:AQM75238.1:loc:21264:22488:strand:+ -            407   1.2e-22   80.3   0.0   2   2   5.2e-19   9.2e-15   54.3   0.0   327   449   279   392   275   407 0.87 Cytochrome P450
+DUF4096              PF13340.6     75 BGC0001707.1_ORF23:gid::pid:AQM75244.1:loc:26331:27246:strand:+ -            304   1.5e-21   76.4   0.7   1   1   6.7e-25     4e-21   75.0   0.7     1    75    41   118    41   118 0.95 Putative transposase of IS4/5 family (DUF4096)
+DDE_Tnp_1            PF01609.21   214 BGC0001707.1_ORF23:gid::pid:AQM75244.1:loc:26331:27246:strand:+ -            304   9.6e-21   74.4   0.0   1   1   2.7e-24   1.6e-20   73.7   0.0     5   207   136   284   132   289 0.93 Transposase DDE domain
+DDE_Tnp_1_2          PF13586.6     90 BGC0001707.1_ORF23:gid::pid:AQM75244.1:loc:26331:27246:strand:+ -            304   2.6e-13   50.2   0.1   1   1   8.2e-17   4.9e-13   49.3   0.1     1    88   212   291   212   293 0.82 Transposase DDE domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001707.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001707.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001707.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:36:29 2019
+# [ok]

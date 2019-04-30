@@ -1,0 +1,34 @@
+#                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NTP_transferase      PF00483.23   248 BGC0000251.1_ORF2:gid::pid::loc:1191:2073:strand:+ -            293   1.4e-56  191.9   0.0   1   1   1.9e-60   1.7e-56  191.6   0.0     1   244     2   236     2   239 0.97 Nucleotidyl transferase
+NTP_transf_3         PF12804.7    160 BGC0000251.1_ORF2:gid::pid::loc:1191:2073:strand:+ -            293   9.7e-14   52.0   0.0   1   1   1.3e-17   1.2e-13   51.8   0.0     1   120     3   132     3   212 0.79 MobA-like NTP transferase domain
+p450                 PF00067.22   463 BGC0000251.1_ORF5:gid::pid::loc:3798:5025:strand:+ -            408   9.9e-07   27.8   0.0   1   1   7.9e-11   1.4e-06   27.3   0.0   327   387   285   344   276   348 0.91 Cytochrome P450
+Methyltransf_14      PF08484.11   160 BGC0000251.1_ORF6:gid::pid::loc:5087:6356:strand:+ -            422   4.5e-55  185.8   0.0   1   1   1.3e-58     6e-55  185.4   0.0     2   160   254   411   253   411 0.99 C-methyltransferase C-terminal domain
+Methyltransf_13      PF08421.11    62 BGC0000251.1_ORF6:gid::pid::loc:5087:6356:strand:+ -            422   1.4e-19   70.1   0.1   1   1   5.4e-23   2.4e-19   69.3   0.1     1    62    13    74    13    74 0.99 Putative zinc binding domain
+Methyltransf_23      PF13489.6    165 BGC0000251.1_ORF6:gid::pid::loc:5087:6356:strand:+ -            422   1.3e-14   54.4   0.0   1   1   5.1e-18   2.3e-14   53.6   0.0    20   163   104   247    84   249 0.88 Methyltransferase domain
+Methyltransf_11      PF08241.12    96 BGC0000251.1_ORF6:gid::pid::loc:5087:6356:strand:+ -            422   2.6e-07   31.2   0.0   1   1   1.2e-10   5.2e-07   30.2   0.0     2    96   112   205   111   205 0.93 Methyltransferase domain
+SnoaL                PF07366.12   126 BGC0000251.1_ORF9:gid::pid::loc:8506:8941:strand:+ -            144   6.7e-31  106.7   0.0   1   1   8.3e-35   7.5e-31  106.6   0.0     2   126     6   132     5   132 0.95 SnoaL-like polyketide cyclase
+SnoaL_2              PF12680.7    102 BGC0000251.1_ORF9:gid::pid::loc:8506:8941:strand:+ -            144   6.5e-11   42.8   0.5   1   1   9.1e-15   8.1e-11   42.5   0.5     1   102     8   119     8   119 0.86 SnoaL-like domain
+PhyH                 PF05721.13   211 BGC0000251.1_ORF10:gid::pid::loc:8991:9699:strand:+ -            235   1.2e-39  136.8   0.3   1   1   1.5e-37   2.7e-33  116.0   0.1    76   211    61   191    52   191 0.92 Phytanoyl-CoA dioxygenase (PhyH)
+NAD_binding_10       PF13460.6    184 BGC0000251.1_ORF12:gid::pid::loc:11056:11884:strand:+ -            275     2e-21   76.7   3.4   1   1   9.8e-25   5.9e-21   75.2   3.4     1   182     7   173     7   175 0.83 NAD(P)H-binding
+NmrA                 PF05368.13   233 BGC0000251.1_ORF12:gid::pid::loc:11056:11884:strand:+ -            275   6.1e-15   55.4   0.0   1   1   2.9e-18   1.8e-14   53.9   0.0     1   232     3   210     3   211 0.85 NmrA-like family
+Epimerase            PF01370.21   241 BGC0000251.1_ORF12:gid::pid::loc:11056:11884:strand:+ -            275   6.9e-09   35.5   0.1   1   1   1.3e-10   7.7e-07   28.8   0.0     1    71     3    69     3    77 0.89 NAD dependent epimerase/dehydratase family
+DUF1205              PF06722.12    95 BGC0000251.1_ORF13:gid::pid::loc:11927:13751:strand:+ -            607   2.9e-22   78.6   0.0   1   1   6.6e-26   5.9e-22   77.6   0.0     1    95   207   304   207   304 0.96 Protein of unknown function (DUF1205)
+UDPGT                PF00201.18   499 BGC0000251.1_ORF13:gid::pid::loc:11927:13751:strand:+ -            607   6.8e-07   28.4   0.0   1   1   1.1e-10     1e-06   27.9   0.0   299   420   275   397   260   405 0.90 UDP-glucoronosyl and UDP-glucosyl transferase
+SnoaL_4              PF13577.6    127 BGC0000251.1_ORF14:gid::pid::loc:13973:14441:strand:+ -            155   6.6e-14   52.1   0.0   1   1   4.4e-18   7.8e-14   51.9   0.0     7   126    27   149    24   150 0.85 SnoaL-like domain
+adh_short_C2         PF13561.6    234 BGC0000251.1_ORF15:gid::pid::loc:14576:15377:strand:+ -            266   3.4e-52  177.3   1.6   1   1   8.9e-56     4e-52  177.1   1.6     4   234    31   264    26   264 0.90 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.25   195 BGC0000251.1_ORF15:gid::pid::loc:14576:15377:strand:+ -            266   1.7e-46  158.1   3.7   1   1   4.8e-50   2.2e-46  157.8   3.7     2   186    23   204    22   211 0.96 short chain dehydrogenase
+KR                   PF08659.10   180 BGC0000251.1_ORF15:gid::pid::loc:14576:15377:strand:+ -            266   7.4e-10   39.0   1.2   1   1   2.2e-13     1e-09   38.6   1.2     3   121    24   134    23   192 0.81 KR domain
+Epimerase            PF01370.21   241 BGC0000251.1_ORF15:gid::pid::loc:14576:15377:strand:+ -            266   2.9e-05   23.7   0.5   1   1   1.5e-08   6.8e-05   22.4   0.5     1   157    24   182    24   198 0.71 NAD dependent epimerase/dehydratase family
+PhyH                 PF05721.13   211 BGC0000251.1_ORF16:gid::pid::loc:15449:16019:strand:+ -            190     3e-25   89.7   0.0   1   1   2.1e-29   3.7e-25   89.4   0.0     1   153    28   173    28   183 0.91 Phytanoyl-CoA dioxygenase (PhyH)
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000251.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000251.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000251.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:53:01 2019
+# [ok]

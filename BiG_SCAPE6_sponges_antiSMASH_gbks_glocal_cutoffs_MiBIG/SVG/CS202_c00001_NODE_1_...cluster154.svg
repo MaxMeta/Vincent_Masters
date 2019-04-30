@@ -1,0 +1,74 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="339.6333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="329.6333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg5598_1)</title>
+			<polygon class=" (ctg5598_1)" points="124,25 40,25 40,10 10,40 40,70 40,55 124,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQHop_cyclase_C (PF13243)
+"Squalene-hopene cyclase C-terminal domain"</title>
+				<polygon class="PF13243" points="14,40 26,28 45,28 45,52 26,52" stroke-linejoin="round" width="32" height="24" fill="rgb(191,58,201)" stroke="rgb(152,46,160)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SQHop_cyclase_N (PF13249)
+"Squalene-hopene cyclase N-terminal domain"</title>
+				<rect class="PF13249" x="46" y="28" stroke-linejoin="round" width="29" height="24" fill="rgb(88,190,89)" stroke="rgb(70,152,71)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SE (PF08491)
+"Squalene epoxidase"</title>
+				<rect class="PF08491" x="84" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(93,72,221)" stroke="rgb(74,57,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5598_2)</title>
+			<polygon class=" (ctg5598_2)" points="171,25 154,25 154,10 124,40 154,70 154,55 171,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="128,40 140,28 168,28 168,52 140,52" stroke-linejoin="round" width="43" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5598_3)</title>
+			<polygon class=" (ctg5598_3)" points="207,25 201,25 201,10 171,40 201,70 201,55 207,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ERG4_ERG24 (PF01222)
+"Ergosterol biosynthesis ERG4/ERG24 family"</title>
+				<polygon class="PF01222" points="175,40 187,28 206,28 206,52 187,52" stroke-linejoin="round" width="35" height="24" fill="rgb(99,195,207)" stroke="rgb(79,155,165)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5598_4)</title>
+			<polygon class=" (ctg5598_4)" points="243,25 237,25 237,10 207,40 237,70 237,55 243,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Rieske (PF00355)
+"Rieske [2Fe-2S] domain"</title>
+				<rect class="PF00355" x="231" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(186,77,145)" stroke="rgb(148,61,115)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5598_5)</title>
+			<polygon class=" (ctg5598_5)" points="281,25 274,25 274,10 244,40 274,70 274,55 281,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Epimerase (PF01370)
+"NAD dependent epimerase/dehydratase family"</title>
+				<polygon class="PF01370" points="256,32 260,28 279,28 279,52 260,52 256,48" stroke-linejoin="round" width="23" height="24" fill="rgb(98,102,214)" stroke="rgb(78,81,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5598_6)</title>
+			<polygon class=" (ctg5598_6)" points="293,25 299,25 299,10 329,40 299,70 299,55 293,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyco_transf_4 (PF13439)
+"Glycosyltransferase Family 4"</title>
+				<rect class="PF13439" x="298" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(162,57,186)" stroke="rgb(129,45,148)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Glycos_transf_1 (PF00534)
+"Glycosyl transferases group 1"</title>
+				<polygon class="PF00534" points="314,29 325,40 314,51" stroke-linejoin="round" width="13" height="24" fill="rgb(228,92,150)" stroke="rgb(182,73,119)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

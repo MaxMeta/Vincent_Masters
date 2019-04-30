@@ -1,0 +1,24 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AAA_lid_2            PF17863.1     73 CS211_c00001_NODE_1_...cluster203_ORF1:gid::pid::loc:0:255:strand:+ -             84   2.4e-15   56.1   0.1   1   1   1.5e-19   2.8e-15   55.9   0.1     5    72    11    79     8    80 0.95 AAA lid domain
+GST_N_3              PF13417.6     75 CS211_c00001_NODE_1_...cluster203_ORF4:gid::pid::loc:1361:2021:strand:- -            219   1.6e-12   47.7   0.0   1   1   4.4e-16   2.6e-12   47.0   0.0     5    73    12    82    10    88 0.95 Glutathione S-transferase, N-terminal domain
+GST_N_2              PF13409.6     70 CS211_c00001_NODE_1_...cluster203_ORF4:gid::pid::loc:1361:2021:strand:- -            219   4.7e-10   39.6   0.1   1   1   1.2e-13     7e-10   39.1   0.1     2    69    14    78    13    79 0.92 Glutathione S-transferase, N-terminal domain
+GST_N                PF02798.20    76 CS211_c00001_NODE_1_...cluster203_ORF4:gid::pid::loc:1361:2021:strand:- -            219     4e-08   33.5   0.0   1   1   1.2e-11     7e-08   32.7   0.0    11    75    14    77     3    78 0.83 Glutathione S-transferase, N-terminal domain
+HTH_3                PF01381.22    55 CS211_c00001_NODE_1_...cluster203_ORF8:gid::pid::loc:3513:4182:strand:+ -            222   1.5e-12   47.3   0.2   1   1   6.1e-16   2.8e-12   46.5   0.2     1    53    12    64    12    66 0.95 Helix-turn-helix
+HTH_31               PF13560.6     64 CS211_c00001_NODE_1_...cluster203_ORF8:gid::pid::loc:3513:4182:strand:+ -            222     1e-10   41.8   0.3   1   1   2.3e-14     1e-10   41.8   0.3     5    59    11    64    10    68 0.93 Helix-turn-helix domain
+HipA_C               PF07804.12   212 CS211_c00001_NODE_1_...cluster203_ORF9:gid::pid::loc:4174:5398:strand:+ -            407   2.5e-51  174.4   0.0   1   1   3.4e-55   3.1e-51  174.1   0.0     1   212   141   380   141   380 0.89 HipA-like C-terminal domain
+Couple_hipA          PF13657.6     99 CS211_c00001_NODE_1_...cluster203_ORF9:gid::pid::loc:4174:5398:strand:+ -            407   5.5e-19   68.7   0.1   1   1   2.2e-22     2e-18   66.9   0.0     2    98     8   111     7   112 0.91 HipA N-terminal domain
+AMP-binding          PF00501.28   423 CS211_c00001_NODE_1_...cluster203_ORF10:gid::pid::loc:5512:8395:strand:+ -            960   1.6e-76  257.6   0.0   1   1   3.7e-80   2.2e-76  257.1   0.0     2   422   129   569   128   570 0.87 AMP-binding enzyme
+Acyltransferase      PF01553.21   135 CS211_c00001_NODE_1_...cluster203_ORF10:gid::pid::loc:5512:8395:strand:+ -            960   1.7e-25   89.2   0.0   1   1   5.5e-29   3.3e-25   88.3   0.0     2   133   756   878   755   880 0.97 Acyltransferase
+PP-binding           PF00550.25    67 CS211_c00001_NODE_1_...cluster203_ORF10:gid::pid::loc:5512:8395:strand:+ -            960   9.5e-10   38.7   0.1   1   1   3.6e-13   2.2e-09   37.6   0.1    14    63    37    87    21    91 0.88 Phosphopantetheine attachment site
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster203.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS211_c00001_NODE_1_...cluster203.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster203.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:51:16 2019
+# [ok]

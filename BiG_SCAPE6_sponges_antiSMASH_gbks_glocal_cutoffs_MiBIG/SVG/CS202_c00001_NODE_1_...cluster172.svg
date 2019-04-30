@@ -1,0 +1,64 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="241.96666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="231.96666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg8722_1)</title>
+			<polygon class=" (ctg8722_1)" points="10,25 16,25 16,10 46,40 16,70 16,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SelB-wing_3 (PF09107)
+"Elongation factor SelB, winged helix"</title>
+				<polygon class="PF09107" points="41,39 42,40 41,41" stroke-linejoin="round" width="4" height="24" fill="rgb(77,192,121)" stroke="rgb(61,153,96)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8722_2)</title>
+			<polygon class=" (ctg8722_2)" points="93,25 84,25 84,10 54,40 84,70 84,55 93,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PGK (PF00162)
+"Phosphoglycerate kinase"</title>
+				<polygon class="PF00162" points="58,40 70,28 92,28 92,52 70,52" stroke-linejoin="round" width="37" height="24" fill="rgb(63,212,81)" stroke="rgb(50,169,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8722_3)</title>
+			<polygon class=" (ctg8722_3)" points="129,25 125,25 125,10 95,40 125,70 125,55 129,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Gp_dh_C (PF02800)
+"Glyceraldehyde 3-phosphate dehydrogenase, C-terminal domain"</title>
+				<polygon class="PF02800" points="99,40 111,28 112,28 112,52 111,52" stroke-linejoin="round" width="15" height="24" fill="rgb(160,186,82)" stroke="rgb(128,148,65)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Gp_dh_N (PF00044)
+"Glyceraldehyde 3-phosphate dehydrogenase, NAD binding domain"</title>
+				<rect class="PF00044" x="118" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(212,98,148)" stroke="rgb(169,78,118)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8722_4)</title>
+			<polygon class=" (ctg8722_4)" points="134,10 163,40 134,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="136,28 147,28 159,40 147,52 136,52" stroke-linejoin="round" width="25" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8722_5)</title>
+			<polygon class=" (ctg8722_5)" points="164,10 191,40 164,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="165,28 176,28 187,40 176,52 165,52" stroke-linejoin="round" width="25" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8722_6)</title>
+			<polygon class=" (ctg8722_6)" points="192,25 201,25 201,10 231,40 201,70 201,55 192,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amino_oxidase (PF01593)
+"Flavin containing amine oxidoreductase"</title>
+				<polygon class="PF01593" points="193,28 215,28 227,40 215,52 193,52" stroke-linejoin="round" width="38" height="24" fill="rgb(184,74,52)" stroke="rgb(147,59,41)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,76 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="268.3" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="258.3" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg11760_1)</title>
+			<polygon class=" (ctg11760_1)" points="13,40 36,10 36,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_2 (PF00535)
+"Glycosyl transferase family 2"</title>
+				<polygon class="PF00535" points="18,39 27,28 34,28 34,52 27,52 18,41" stroke-linejoin="round" width="16" height="24" fill="rgb(224,122,96)" stroke="rgb(179,97,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11760_2)</title>
+			<polygon class=" (ctg11760_2)" points="93,25 66,25 66,10 36,40 66,70 66,55 93,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQHop_cyclase_C (PF13243)
+"Squalene-hopene cyclase C-terminal domain"</title>
+				<polygon class="PF13243" points="40,40 52,28 55,28 55,52 52,52" stroke-linejoin="round" width="17" height="24" fill="rgb(191,58,201)" stroke="rgb(152,46,160)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SQHop_cyclase_C (PF13243)
+"Squalene-hopene cyclase C-terminal domain"</title>
+				<rect class="PF13243" x="55" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(191,58,201)" stroke="rgb(152,46,160)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Prenyltrans (PF00432)
+"Prenyltransferase and squalene oxidase repeat"</title>
+				<rect class="PF00432" x="85" y="28" stroke-linejoin="round" width="2" height="24" fill="rgb(218,215,79)" stroke="rgb(174,172,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11760_3)</title>
+			<polygon class=" (ctg11760_3)" points="142,25 128,25 128,10 98,40 128,70 128,55 142,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Xan_ur_permease (PF00860)
+"Permease family"</title>
+				<polygon class="PF00860" points="102,40 114,28 139,28 139,52 114,52" stroke-linejoin="round" width="38" height="24" fill="rgb(216,88,217)" stroke="rgb(172,70,173)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11760_4)</title>
+			<polygon class=" (ctg11760_4)" points="177,25 174,25 174,10 144,40 174,70 174,55 177,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aldo_ket_red (PF00248)
+"Aldo/keto reductase family"</title>
+				<polygon class="PF00248" points="148,40 160,28 175,28 175,52 160,52" stroke-linejoin="round" width="29" height="24" fill="rgb(225,205,58)" stroke="rgb(180,164,46)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11760_5)</title>
+			<polygon class=" (ctg11760_5)" points="178,10 186,40 178,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg11760_6)</title>
+			<polygon class=" (ctg11760_6)" points="191,10 203,40 191,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cyclophil_like (PF04126)
+"Cyclophilin-like"</title>
+				<polygon class="PF04126" points="191,28 194,28 200,40 194,52 191,52" stroke-linejoin="round" width="11" height="24" fill="rgb(206,185,57)" stroke="rgb(164,148,45)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11760_7)</title>
+			<polygon class=" (ctg11760_7)" points="203,10 222,40 203,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg11760_8)</title>
+			<polygon class=" (ctg11760_8)" points="226,10 250,40 226,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg11760_9)</title>
+			<polygon class=" (ctg11760_9)" points="249,10 257,40 249,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

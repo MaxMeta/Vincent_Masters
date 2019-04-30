@@ -1,0 +1,269 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="531.6" height="1200">
+	<g>
+		<line x1="10" y1="40.0" x2="85.13333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>mmlJ
+malonyl CoA-acyl carrier protein transacylase</title>
+			<polygon class="mmlJ
+malonyl CoA-acyl carrier protein transacylase" points="10,10 31,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>mmlK
+long chain fatty acid CoA ligase</title>
+			<polygon class="mmlK
+long chain fatty acid CoA ligase" points="32,25 53,25 53,10 83,40 53,70 53,55 32,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<polygon class="PF00501" points="33,28 67,28 73,34 73,46 67,52 33,52" stroke-linejoin="round" width="40" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<polygon class="PF13193" points="75,36 79,40 75,44" stroke-linejoin="round" width="7" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="120.0" x2="277.1666666666667" y2="120.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>mmlL
+long chain fatty acid CoA ligase</title>
+			<polygon class="mmlL
+long chain fatty acid CoA ligase" points="65,105 41,105 41,90 11,120 41,150 41,135 65,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>mmlM
+acyl carrier protein</title>
+			<polygon class="mmlM
+acyl carrier protein" points="69,90 77,120 69,150" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>mmlN
+aldo-keto reductase</title>
+			<polygon class="mmlN
+aldo-keto reductase" points="83,120 111,90 111,150" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>mmlO
+transcriptional regulator</title>
+			<polygon class="mmlO
+transcriptional regulator" points="116,90 130,120 116,150" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>mmlP
+proline iminopeptidase</title>
+			<polygon class="mmlP
+proline iminopeptidase" points="132,120 161,90 161,150" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="200.0" x2="259.6" y2="200.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>mmlD
+modular PKS</title>
+			<polygon class="mmlD
+modular PKS" points="10,185 16,185 16,170 46,200 16,230 16,215 10,215" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>mmlE
+modular PKS</title>
+			<polygon class="mmlE
+modular PKS" points="48,185 228,185 228,170 258,200 228,230 228,215 48,215" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="280.0" x2="66.46666666666667" y2="280.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>mmlC
+modular PKS</title>
+			<polygon class="mmlC
+modular PKS" points="41,265 40,265 40,250 10,280 40,310 40,295 41,295" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>mmlD (mmlD_1)
+mmlD_1</title>
+			<polygon class="mmlD (mmlD_1)
+mmlD_1" points="42,280 66,250 66,310" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="360.0" x2="419.03333333333336" y2="360.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>mmlC (mmlC_1)
+mmlC_1</title>
+			<polygon class="mmlC (mmlC_1)
+mmlC_1" points="287,345 40,345 40,330 10,360 40,390 40,375 287,375" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>mmlB
+modular PKS</title>
+			<polygon class="mmlB
+modular PKS" points="418,345 318,345 318,330 288,360 318,390 318,375 418,375" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="440.0" x2="111.93333333333334" y2="440.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>mmlB (mmlB_1)
+mmlB_1</title>
+			<polygon class="mmlB (mmlB_1)
+mmlB_1" points="111,425 85,425 85,410 55,440 85,470 85,455 111,455" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="520.0" x2="186.76666666666668" y2="520.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg7_orf1)</title>
+			<polygon class=" (ctg7_orf1)" points="10,505 86,505 86,490 116,520 86,550 86,535 10,535" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg7_orf2)</title>
+			<polygon class=" (ctg7_orf2)" points="115,505 156,505 156,490 186,520 156,550 156,535 115,535" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="600.0" x2="88.0" y2="600.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>mmlA
+modular PKS</title>
+			<polygon class="mmlA
+modular PKS" points="88,585 40,585 40,570 10,600 40,630 40,615 88,615" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="680.0" x2="22.233333333333334" y2="680.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>mmlA (mmlA_1)
+mmlA_1</title>
+			<polygon class="mmlA (mmlA_1)
+mmlA_1" points="10,680 22,650 22,710" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="760.0" x2="190.0" y2="760.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>mmlA (mmlA_2)
+mmlA_2</title>
+			<polygon class="mmlA (mmlA_2)
+mmlA_2" points="190,745 40,745 40,730 10,760 40,790 40,775 190,775" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="840.0" x2="521.6" y2="840.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>mmlX
+2-oxoglutarate oxidoreductase</title>
+			<polygon class="mmlX
+2-oxoglutarate oxidoreductase" points="11,840 23,810 23,870" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>mmlV
+serine/threonine protein kinase</title>
+			<polygon class="mmlV
+serine/threonine protein kinase" points="36,825 56,825 56,810 86,840 56,870 56,855 36,855" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>mmlU
+histidine kinase</title>
+			<polygon class="mmlU
+histidine kinase" points="87,825 100,825 100,810 130,840 100,870 100,855 87,855" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>mmlW
+response regulator reciever</title>
+			<polygon class="mmlW
+response regulator reciever" points="131,810 151,840 131,870" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>mmlY
+hypothetical protein</title>
+			<polygon class="mmlY
+hypothetical protein" points="241,825 186,825 186,810 156,840 186,870 186,855 241,855" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>mmlS
+ABC transporter</title>
+			<polygon class="mmlS
+ABC transporter" points="241,840 250,810 250,870" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>mmlR
+LuxR regulator</title>
+			<polygon class="mmlR
+LuxR regulator" points="360,825 303,825 303,810 273,840 303,870 303,855 360,855" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>mmlT
+thioesterase</title>
+			<polygon class="mmlT
+thioesterase" points="406,840 431,810 431,870" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>mmlQ
+major facilitator transporter</title>
+			<polygon class="mmlQ
+major facilitator transporter" points="504,825 475,825 475,810 445,840 475,870 475,855 504,855" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="920.0" x2="183.0" y2="920.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg12_orf1)</title>
+			<polygon class=" (ctg12_orf1)" points="10,905 152,905 152,890 182,920 152,950 152,935 10,935" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="1000.0" x2="99.23333333333333" y2="1000.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>mmlA (mmlA_3)
+mmlA_3</title>
+			<polygon class="mmlA (mmlA_3)
+mmlA_3" points="99,985 40,985 40,970 10,1000 40,1030 40,1015 99,1015" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="1080.0" x2="142.66666666666666" y2="1080.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg14_orf1)</title>
+			<polygon class=" (ctg14_orf1)" points="30,1050 49,1080 30,1110" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg14_orf2)</title>
+			<polygon class=" (ctg14_orf2)" points="69,1065 112,1065 112,1050 142,1080 112,1110 112,1095 69,1095" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="1160.0" x2="240.93333333333334" y2="1160.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="10,1145 47,1145 47,1130 77,1160 47,1190 47,1175 10,1175" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>mmlF
+ferredoxin</title>
+			<polygon class="mmlF
+ferredoxin" points="82,1160 95,1130 95,1190" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>mmlG
+cytochrome P450 hydroxylase</title>
+			<polygon class="mmlG
+cytochrome P450 hydroxylase" points="133,1145 119,1145 119,1130 89,1160 119,1190 119,1175 133,1175" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>mmlH
+glutamate 2,3 aminomutase</title>
+			<polygon class="mmlH
+glutamate 2,3 aminomutase" points="139,1145 155,1145 155,1130 185,1160 155,1190 155,1175 139,1175" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>mmlI
+aminotransferase</title>
+			<polygon class="mmlI
+aminotransferase" points="187,1145 198,1145 198,1130 228,1160 198,1190 198,1175 187,1175" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

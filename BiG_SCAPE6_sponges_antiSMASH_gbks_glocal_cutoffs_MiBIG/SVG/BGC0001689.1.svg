@@ -1,0 +1,70 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="251.7" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="241.7" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>nphB
+prenyltransferase</title>
+			<polygon class="nphB
+prenyltransferase" points="21,25 21,25 21,10 51,40 21,70 21,55 21,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PTase_Orf2 (PF11468)
+"Aromatic prenyltransferase Orf2"</title>
+				<polygon class="PF11468" points="21,28 35,28 47,40 35,52 21,52" stroke-linejoin="round" width="29" height="24" fill="rgb(121,52,185)" stroke="rgb(96,41,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+RNA polymerase sigma-24</title>
+			<polygon class="
+RNA polymerase sigma-24" points="87,25 85,25 85,10 55,40 85,70 85,55 87,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Sigma70_r4_2 (PF08281)
+"Sigma-70, region 4"</title>
+				<polygon class="PF08281" points="70,29 71,28 75,28 75,52 71,52 70,51" stroke-linejoin="round" width="5" height="24" fill="rgb(222,103,144)" stroke="rgb(177,82,115)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Sigma70_r2 (PF04542)
+"Sigma-70 region 2"</title>
+				<rect class="PF04542" x="79" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(184,59,197)" stroke="rgb(147,47,157)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>nphC
+chalcone and stilbene synthase domain protein</title>
+			<polygon class="nphC
+chalcone and stilbene synthase domain protein" points="113,25 118,25 118,10 148,40 118,70 118,55 113,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Chal_sti_synt_N (PF00195)
+"Chalcone and stilbene synthases, N-terminal domain"</title>
+				<rect class="PF00195" x="114" y="28" stroke-linejoin="round" width="18" height="24" fill="rgb(60,181,161)" stroke="rgb(47,144,128)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Chal_sti_synt_C (PF02797)
+"Chalcone and stilbene synthases, C-terminal domain"</title>
+				<polygon class="PF02797" points="133,29 144,40 133,51" stroke-linejoin="round" width="13" height="24" fill="rgb(139,212,63)" stroke="rgb(111,169,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>nphD
+MomA-like oxygenase</title>
+			<polygon class="nphD
+MomA-like oxygenase" points="150,10 168,40 150,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cupin_2 (PF07883)
+"Cupin domain"</title>
+				<polygon class="PF07883" points="153,28 157,28 161,34 161,46 157,52 153,52" stroke-linejoin="round" width="8" height="24" fill="rgb(211,192,74)" stroke="rgb(168,153,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>nphE
+DegT/DnrJ/EryC1/StrS aminotransferase</title>
+			<polygon class="nphE
+DegT/DnrJ/EryC1/StrS aminotransferase" points="169,25 177,25 177,10 207,40 177,70 177,55 169,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DegT_DnrJ_EryC1 (PF01041)
+"DegT/DnrJ/EryC1/StrS aminotransferase family"</title>
+				<polygon class="PF01041" points="170,28 191,28 203,40 191,52 170,52" stroke-linejoin="round" width="35" height="24" fill="rgb(59,139,191)" stroke="rgb(47,111,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

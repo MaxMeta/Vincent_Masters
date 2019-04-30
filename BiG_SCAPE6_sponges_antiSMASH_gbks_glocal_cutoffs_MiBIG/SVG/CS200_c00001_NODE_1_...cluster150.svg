@@ -1,0 +1,56 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="285.5" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="275.5" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg3130_11)</title>
+			<polygon class=" (ctg3130_11)" points="59,40 65,10 65,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3130_12)</title>
+			<polygon class=" (ctg3130_12)" points="78,10 92,40 78,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3130_13)</title>
+			<polygon class=" (ctg3130_13)" points="93,40 119,10 119,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3130_14)</title>
+			<polygon class=" (ctg3130_14)" points="131,10 138,40 131,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3130_15)</title>
+			<polygon class=" (ctg3130_15)" points="142,10 149,40 142,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3130_16)</title>
+			<polygon class=" (ctg3130_16)" points="148,10 167,40 148,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_11 (PF08241)
+"Methyltransferase domain"</title>
+				<rect class="PF08241" x="148" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(106,219,159)" stroke="rgb(84,175,127)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3130_17)</title>
+			<polygon class=" (ctg3130_17)" points="176,40 186,10 186,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3130_18)</title>
+			<polygon class=" (ctg3130_18)" points="198,40 227,10 227,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4338 (PF14236)
+"Domain of unknown function (DUF4338)"</title>
+				<polygon class="PF14236" points="202,40 214,28 220,28 220,52 214,52" stroke-linejoin="round" width="22" height="24" fill="rgb(62,140,221)" stroke="rgb(49,112,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3130_19)</title>
+			<polygon class=" (ctg3130_19)" points="266,25 257,25 257,10 227,40 257,70 257,55 266,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DDE_Tnp_IS66 (PF03050)
+"Transposase IS66 family"</title>
+				<polygon class="PF03050" points="233,38 243,28 262,28 262,52 243,52 233,42" stroke-linejoin="round" width="29" height="24" fill="rgb(189,225,106)" stroke="rgb(151,180,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

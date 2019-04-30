@@ -1,0 +1,24 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ketoacyl-synt        PF00109.26   253 BGC0000183.1_ORF1:gid::pid:ACT85958.1:loc:0:679:strand:+ -            226   3.4e-60  203.7   1.5   1   1   7.3e-64   4.4e-60  203.4   1.5    84   253     1   166     1   166 0.97 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.22   118 BGC0000183.1_ORF1:gid::pid:ACT85958.1:loc:0:679:strand:+ -            226   4.3e-15   55.8   0.1   1   1   1.6e-18   9.3e-15   54.7   0.1     1    53   174   226   174   226 0.98 Beta-ketoacyl synthase, C-terminal domain
+Thiolase_N           PF00108.23   260 BGC0000183.1_ORF1:gid::pid:ACT85958.1:loc:0:679:strand:+ -            226   1.8e-06   27.5   0.1   1   1   6.2e-10   3.7e-06   26.5   0.1    76   115    79   118    68   143 0.88 Thiolase, N-terminal domain
+ketoacyl-synt        PF00109.26   253 BGC0000183.1_ORF2:gid::pid:ACT85959.1:loc:779:1497:strand:+ -            239   8.3e-59  199.2   2.7   1   1   1.2e-62     1e-58  198.9   2.7    84   253     1   164     1   164 0.96 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.22   118 BGC0000183.1_ORF2:gid::pid:ACT85959.1:loc:779:1497:strand:+ -            239   1.1e-20   73.8   0.0   1   1   4.2e-24   3.8e-20   72.1   0.0     1    66   172   237   172   239 0.98 Beta-ketoacyl synthase, C-terminal domain
+ketoacyl-synt        PF00109.26   253 BGC0000183.1_ORF3:gid::pid:ACT85960.1:loc:2376:3046:strand:+ -            223   1.7e-57  194.9   1.9   1   1   4.2e-61   2.5e-57  194.4   1.9    84   253     1   163     1   163 0.93 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.22   118 BGC0000183.1_ORF3:gid::pid:ACT85960.1:loc:2376:3046:strand:+ -            223   3.6e-13   49.5   0.1   1   1   1.3e-16   7.9e-13   48.5   0.1     1    53   171   223   171   223 0.99 Beta-ketoacyl synthase, C-terminal domain
+Thiolase_N           PF00108.23   260 BGC0000183.1_ORF3:gid::pid:ACT85960.1:loc:2376:3046:strand:+ -            223   4.3e-07   29.6   0.1   1   1   1.2e-10   6.9e-07   28.9   0.1    75   112    75   112    46   138 0.88 Thiolase, N-terminal domain
+ketoacyl-synt        PF00109.26   253 BGC0000183.1_ORF4:gid::pid:ACT85961.1:loc:5522:6186:strand:+ -            221   2.9e-57  194.1   1.8   1   1   6.9e-61   4.1e-57  193.6   1.8    84   253     1   163     1   163 0.93 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.22   118 BGC0000183.1_ORF4:gid::pid:ACT85961.1:loc:5522:6186:strand:+ -            221   1.6e-11   44.2   0.1   1   1   6.3e-15   3.7e-11   43.1   0.0     1    51   171   221   171   221 0.99 Beta-ketoacyl synthase, C-terminal domain
+Thiolase_N           PF00108.23   260 BGC0000183.1_ORF4:gid::pid:ACT85961.1:loc:5522:6186:strand:+ -            221   3.7e-07   29.8   0.2   1   1     1e-10     6e-07   29.1   0.2    75   112    75   112    44   138 0.85 Thiolase, N-terminal domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000183.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000183.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000183.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:45:26 2019
+# [ok]

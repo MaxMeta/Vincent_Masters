@@ -1,0 +1,32 @@
+#                                                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DUF2182              PF09948.9    188 CS211_c00001_NODE_1_...cluster133_ORF1:gid::pid::loc:115:712:strand:- -            198   1.2e-53  181.8  19.2   1   1   7.7e-58   1.4e-53  181.6  19.2     1   187     7   191     7   192 0.96 Predicted metal-binding integral membrane protein (DUF2182)
+DUF1326              PF07040.11   177 CS211_c00001_NODE_1_...cluster133_ORF2:gid::pid::loc:799:1438:strand:- -            212     3e-34  118.6   0.2   1   1     2e-38   3.6e-34  118.3   0.2     1   174    23   198    23   201 0.90 Protein of unknown function (DUF1326)
+DUF4159              PF13709.6    205 CS211_c00001_NODE_1_...cluster133_ORF3:gid::pid::loc:1469:2312:strand:- -            280   3.3e-42  144.2   0.0   1   1   2.3e-46   4.1e-42  143.9   0.0     2   205    56   278    55   278 0.89 Domain of unknown function (DUF4159)
+APS_kinase           PF01583.20   158 CS211_c00001_NODE_1_...cluster133_ORF4:gid::pid::loc:2301:4161:strand:- -            619   2.4e-70  235.5   0.0   1   1   8.9e-74   5.3e-70  234.4   0.0     3   155   441   592   439   595 0.98 Adenylylsulphate kinase
+GTP_EFTU             PF00009.27   194 CS211_c00001_NODE_1_...cluster133_ORF4:gid::pid::loc:2301:4161:strand:- -            619     1e-37  129.6   0.0   1   1   3.1e-41   1.9e-37  128.7   0.0     5   182     6   190     3   230 0.87 Elongation factor Tu GTP binding domain
+PAPS_reduct          PF01507.19   174 CS211_c00001_NODE_1_...cluster133_ORF5:gid::pid::loc:4216:5116:strand:- -            299   1.6e-59  200.9   0.0   1   1     1e-63   1.8e-59  200.6   0.0     2   174    46   273    45   273 0.98 Phosphoadenosine phosphosulfate reductase family
+SQS_PSY              PF00494.19   263 CS211_c00001_NODE_1_...cluster133_ORF6:gid::pid::loc:5232:6198:strand:+ -            321   5.1e-39  134.4   7.6   1   1   3.4e-43     6e-39  134.1   7.6     4   261    11   292     8   294 0.89 Squalene/phytoene synthase
+Aminotran_5          PF00266.19   371 CS211_c00001_NODE_1_...cluster133_ORF8:gid::pid::loc:7562:8816:strand:+ -            417   7.6e-37  127.1   0.0   1   1   9.7e-41   8.7e-37  126.9   0.0    39   371    94   409    62   409 0.92 Aminotransferase class-V
+Cys_Met_Meta_PP      PF01053.20   382 CS211_c00001_NODE_1_...cluster133_ORF8:gid::pid::loc:7562:8816:strand:+ -            417    0.0001   21.0   0.0   1   1     2e-08   0.00018   20.2   0.0    73   200   123   254   104   257 0.81 Cys/Met metabolism PLP-dependent enzyme
+GCV_T                PF01571.21   257 CS211_c00001_NODE_1_...cluster133_ORF9:gid::pid::loc:8937:10131:strand:+ -            397   4.8e-63  212.9   0.0   1   1   6.9e-67   6.2e-63  212.6   0.0    10   257    18   267    15   267 0.96 Aminomethyltransferase folate-binding domain
+GCV_T_C              PF08669.11    80 CS211_c00001_NODE_1_...cluster133_ORF9:gid::pid::loc:8937:10131:strand:+ -            397   2.3e-16   59.5   0.1   1   1   5.3e-20   4.7e-16   58.5   0.1    16    80   323   391   309   391 0.83 Glycine cleavage T-protein C-terminal barrel domain
+Amino_oxidase        PF01593.24   452 CS211_c00001_NODE_1_...cluster133_ORF10:gid::pid::loc:10287:11898:strand:+ -            536   1.3e-14   54.3   0.0   1   1   1.8e-17   7.8e-14   51.8   0.0     3   374    16   439    16   518 0.72 Flavin containing amine oxidoreductase
+FAD_binding_2        PF00890.24   417 CS211_c00001_NODE_1_...cluster133_ORF10:gid::pid::loc:10287:11898:strand:+ -            536   4.2e-09   36.0   3.8   1   1   6.4e-09   2.9e-05   23.3   2.0     1    39     6    44     6    45 0.97 FAD binding domain
+NAD_binding_8        PF13450.6     68 CS211_c00001_NODE_1_...cluster133_ORF10:gid::pid::loc:10287:11898:strand:+ -            536   5.3e-08   33.0   0.1   1   1   1.2e-11   5.3e-08   33.0   0.1     1    43     9    55     9    68 0.87 NAD(P)-binding Rossmann-like domain
+Amino_oxidase        PF01593.24   452 CS211_c00001_NODE_1_...cluster133_ORF11:gid::pid::loc:11894:13466:strand:+ -            523   8.9e-16   58.2   3.8   1   1   5.3e-14   1.9e-10   40.7   0.0   194   452   229   521   168   521 0.75 Flavin containing amine oxidoreductase
+NAD_binding_8        PF13450.6     68 CS211_c00001_NODE_1_...cluster133_ORF11:gid::pid::loc:11894:13466:strand:+ -            523   2.3e-10   40.5   1.8   1   1   6.6e-14   2.3e-10   40.5   1.8     1    49     8    57     8    60 0.95 NAD(P)-binding Rossmann-like domain
+N6_N4_Mtase          PF01555.18   231 CS211_c00001_NODE_1_...cluster133_ORF12:gid::pid::loc:13473:13878:strand:- -            134   5.6e-22   78.6   0.0   1   1     4e-26   7.1e-22   78.2   0.0   103   229     7   111     2   112 0.76 DNA methylase
+N6_N4_Mtase          PF01555.18   231 CS211_c00001_NODE_1_...cluster133_ORF13:gid::pid::loc:13888:14473:strand:- -            194   3.8e-12   46.4   0.0   1   1   5.3e-16   4.7e-12   46.1   0.0     1    87    77   175    77   184 0.85 DNA methylase
+Methyltransf_11      PF08241.12    96 CS211_c00001_NODE_1_...cluster133_ORF13:gid::pid::loc:13888:14473:strand:- -            194   6.1e-06   26.8   0.1   1   1   2.4e-09   2.2e-05   25.0   0.1    33    96    47   131    24   131 0.81 Methyltransferase domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster133.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS211_c00001_NODE_1_...cluster133.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster133.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:32:16 2019
+# [ok]

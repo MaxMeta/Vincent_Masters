@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+BGC0000020.1_ORF1:gid:asm37:pid:AAM54115.1:loc:0:1678:strand:+:337:538          -IGHHNDCFLASDTDFGTY--EDPATEYPYLEAETRTLPMGGE---TCAVNPPRTD-CPTATAELSRFHWTYLNTDYQQDVLRAWSAQGC-----LAEVTAKLGYRFTLRDSVFPTTTTRGAALPVRVNLTNDGYAAAVNQRTVNLVLRNTTTGALTRLPLTADPRTWLPGA-RAIAQDAQIPPSLATGQYALLLELADP
+#=GR BGC0000020.1_ORF1:gid:asm37:pid:AAM54115.1:loc:0:1678:strand:+:337:538  PP .7*****************..**********************...******9998.*********************************.....****************************************************************************9.568888*********************
+BGC0001511.1_ORF42:gid::pid:AQZ37127.1:loc:81255:82941:strand:-:340:541         -VGHHNDCFLASDTDFGTY--EDPATEHPYLEAETRSLPMGGE---TCAVNPPRTD-CPTATAELSRFHWTYLNTDYQQDVLRAWSAQGC-----LAEVTTKLGYRFTLRDSVFPTTTTRGAALPVRVNLTNDGYAAAVNQRTVNLVLRNTTTGALTRLPLTADPRTWLPGA-QAIAQDAQIPPSLATGTYALLLELADP
+#=GR BGC0001511.1_ORF42:gid::pid:AQZ37127.1:loc:81255:82941:strand:-:340:541 PP .7*****************..**********************...******9998.*********************************.....****************************************************************************9.678889*********************
+#=GC PP_cons                                                                    .7*****************..**********************...******9998.*********************************.....****************************************************************************9.578889*********************
+#=GC RF                                                                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BGC0000020.1_ORF1:gid:asm37:pid:AAM54115.1:loc:0:1678:strand:+:337:538          A--LPGRPEYSIQTAN
+#=GR BGC0000020.1_ORF1:gid:asm37:pid:AAM54115.1:loc:0:1678:strand:+:337:538  PP *..99**********9
+BGC0001511.1_ORF42:gid::pid:AQZ37127.1:loc:81255:82941:strand:-:340:541         A--LPGRPEYSIQTAN
+#=GR BGC0001511.1_ORF42:gid::pid:AQZ37127.1:loc:81255:82941:strand:-:340:541 PP *..99**********9
+#=GC PP_cons                                                                    *..99**********9
+#=GC RF                                                                         xxxxxxxxxxxxxxxx
+//

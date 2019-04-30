@@ -1,0 +1,28 @@
+#                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Acyl_transf_1        PF00698.21   319 CS211_c00001_NODE_1_...cluster181_ORF1:gid::pid::loc:0:8043:strand:- -           2681  2.3e-111  372.3   0.2   1   2   3.1e-58   4.2e-55  187.5   0.5     2   271   119   383   118   403 0.93 Acyl transferase domain
+Acyl_transf_1        PF00698.21   319 CS211_c00001_NODE_1_...cluster181_ORF1:gid::pid::loc:0:8043:strand:- -           2681  2.3e-111  372.3   0.2   2   2   1.7e-56   2.4e-53  181.7   0.0     2   271  1882  2157  1881  2191 0.89 Acyl transferase domain
+ketoacyl-synt        PF00109.26   253 CS211_c00001_NODE_1_...cluster181_ORF1:gid::pid::loc:0:8043:strand:- -           2681   4.1e-79  265.7   3.3   1   1   3.7e-82   5.1e-79  265.4   1.0     2   253  1350  1592  1349  1592 0.94 Beta-ketoacyl synthase, N-terminal domain
+KR                   PF08659.10   180 CS211_c00001_NODE_1_...cluster181_ORF1:gid::pid::loc:0:8043:strand:- -           2681   3.3e-61  206.3   1.5   1   1   1.2e-63   1.7e-60  204.0   0.6     2   179   967  1143   966  1144 0.99 KR domain
+PS-DH                PF14765.6    298 CS211_c00001_NODE_1_...cluster181_ORF1:gid::pid::loc:0:8043:strand:- -           2681   1.6e-48  165.5   0.6   1   1   2.1e-51   2.9e-48  164.6   0.6     1   296   465   732   465   734 0.93 Polyketide synthase dehydratase
+Ketoacyl-synt_C      PF02801.22   118 CS211_c00001_NODE_1_...cluster181_ORF1:gid::pid::loc:0:8043:strand:- -           2681   3.5e-43  146.4   0.1   1   1     6e-46   8.3e-43  145.2   0.1     2   118  1601  1718  1600  1718 0.98 Beta-ketoacyl synthase, C-terminal domain
+KAsynt_C_assoc       PF16197.5    112 CS211_c00001_NODE_1_...cluster181_ORF1:gid::pid::loc:0:8043:strand:- -           2681   1.3e-18   67.4   0.0   1   1   1.9e-19   2.7e-16   60.0   0.0     1   108  1720  1849  1720  1853 0.82 Ketoacyl-synthetase C-terminal extension
+Methyltransf_12      PF08242.12    99 CS211_c00001_NODE_1_...cluster181_ORF1:gid::pid::loc:0:8043:strand:- -           2681   8.3e-17   61.8   0.0   1   1   1.2e-19   1.7e-16   60.8   0.0     1    99  2443  2544  2443  2544 0.90 Methyltransferase domain
+adh_short            PF00106.25   195 CS211_c00001_NODE_1_...cluster181_ORF1:gid::pid::loc:0:8043:strand:- -           2681   6.5e-13   48.6   0.2   1   1   1.7e-15   2.3e-12   46.8   0.0     4   161   969  1125   966  1137 0.90 short chain dehydrogenase
+Methyltransf_25      PF13649.6     97 CS211_c00001_NODE_1_...cluster181_ORF1:gid::pid::loc:0:8043:strand:- -           2681   3.1e-11   43.8   0.0   1   1   6.5e-14   8.9e-11   42.4   0.0     1    97  2442  2542  2442  2542 0.91 Methyltransferase domain
+Methyltransf_11      PF08241.12    96 CS211_c00001_NODE_1_...cluster181_ORF1:gid::pid::loc:0:8043:strand:- -           2681   8.7e-10   39.1   0.0   1   1   1.4e-12     2e-09   38.0   0.0     2    96  2444  2546  2443  2546 0.90 Methyltransferase domain
+PP-binding           PF00550.25    67 CS211_c00001_NODE_1_...cluster181_ORF1:gid::pid::loc:0:8043:strand:- -           2681   2.5e-09   37.3   0.0   1   1   6.7e-12   9.3e-09   35.5   0.0     3    67  1253  1326  1251  1326 0.89 Phosphopantetheine attachment site
+adh_short_C2         PF13561.6    234 CS211_c00001_NODE_1_...cluster181_ORF1:gid::pid::loc:0:8043:strand:- -           2681   6.3e-09   35.7   0.1   1   1   1.3e-11   1.8e-08   34.2   0.1     4   153   975  1125   972  1136 0.84 Enoyl-(Acyl carrier protein) reductase
+Phage_integrase      PF00589.22   172 CS211_c00001_NODE_1_...cluster181_ORF2:gid::pid::loc:8191:9415:strand:+ -            407   3.3e-14   53.1   0.0   1   1   3.1e-17   2.8e-13   50.0   0.0    25   166   234   367   213   371 0.86 Phage integrase family
+Arm-DNA-bind_3       PF13356.6     74 CS211_c00001_NODE_1_...cluster181_ORF2:gid::pid::loc:8191:9415:strand:+ -            407   7.8e-07   29.4   0.3   1   1   2.6e-10   2.3e-06   27.9   0.3     2    65     9    88     8    96 0.79 Arm DNA-binding domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster181.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS211_c00001_NODE_1_...cluster181.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster181.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:37:16 2019
+# [ok]

@@ -1,0 +1,18 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+2OG-FeII_Oxy_3       PF13640.6     96 CS783_c00001_NODE_1_...cluster141_ORF3:gid::pid::loc:737:1304:strand:- -            188   1.4e-08   35.5   0.0   1   1   1.2e-12   2.1e-08   34.9   0.0     3    95    79   172    77   173 0.80 2OG-Fe(II) oxygenase superfamily
+Terminase_6C         PF17289.2    155 CS783_c00001_NODE_1_...cluster141_ORF8:gid::pid::loc:3082:4351:strand:+ -            422   1.3e-17   64.3   0.0   1   1   1.2e-21   2.2e-17   63.6   0.0     1   152   212   365   212   368 0.95 Terminase RNaseH-like domain
+DUF935               PF06074.12   520 CS783_c00001_NODE_1_...cluster141_ORF9:gid::pid::loc:4350:5949:strand:+ -            532   1.6e-82  277.9   0.0   1   1   1.1e-86   2.1e-82  277.6   0.0    71   519    75   527    73   528 0.90 Protein of unknown function (DUF935)
+Phage_Mu_F           PF04233.14   112 CS783_c00001_NODE_1_...cluster141_ORF10:gid::pid::loc:5955:6810:strand:+ -            284   1.3e-24   87.1   0.9   1   1   7.4e-29   1.3e-24   87.1   0.0     2   111    54   184    53   185 0.94 Phage Mu protein F like protein
+ERG4_ERG24           PF01222.17   432 CS783_c00001_NODE_1_...cluster141_ORF11:gid::pid::loc:7132:7264:strand:- -             43   8.2e-07   28.1   0.2   1   1   4.6e-11   8.2e-07   28.1   0.2   394   432     4    43     1    43 0.90 Ergosterol biosynthesis ERG4/ERG24 family
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS783_c00001_NODE_1_...cluster141.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS783_c00001_NODE_1_...cluster141.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS783_c00001_NODE_1_...cluster141.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:37:44 2019
+# [ok]

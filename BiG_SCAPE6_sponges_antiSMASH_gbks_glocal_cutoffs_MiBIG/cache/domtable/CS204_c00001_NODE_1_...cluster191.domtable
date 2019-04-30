@@ -1,0 +1,20 @@
+#                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SRAP                 PF02586.14   219 CS204_c00001_NODE_1_...cluster191_ORF1:gid::pid::loc:18:624:strand:+ -            201   4.5e-40  137.5   0.0   1   1     3e-44   5.5e-40  137.3   0.0     1   209     1   189     1   194 0.88 SOS response associated peptidase (SRAP)
+AMP-binding          PF00501.28   423 CS204_c00001_NODE_1_...cluster191_ORF2:gid::pid::loc:828:2769:strand:+ -            646   4.6e-56  190.2   0.0   1   1   6.9e-60   6.2e-56  189.8   0.0    13   420    21   442    10   445 0.85 AMP-binding enzyme
+PP-binding           PF00550.25    67 CS204_c00001_NODE_1_...cluster191_ORF2:gid::pid::loc:828:2769:strand:+ -            646   4.2e-07   30.2   0.2   1   1   1.1e-10   9.6e-07   29.1   0.2     5    67   575   639   572   639 0.87 Phosphopantetheine attachment site
+Lip_A_acyltrans      PF03279.13   295 CS204_c00001_NODE_1_...cluster191_ORF3:gid::pid::loc:2757:3675:strand:- -            305   6.5e-29  101.0   0.0   1   1   4.4e-33   7.9e-29  100.7   0.0    16   295    19   299    11   299 0.94 Bacterial lipid A biosynthesis acyltransferase
+UPF0014              PF03649.13   242 CS204_c00001_NODE_1_...cluster191_ORF4:gid::pid::loc:3708:4446:strand:+ -            245   8.1e-55  185.8  26.6   1   2   2.8e-38     5e-34  117.7  13.3     3   154    12   162    10   164 0.90 Uncharacterised protein family (UPF0014)
+UPF0014              PF03649.13   242 CS204_c00001_NODE_1_...cluster191_ORF4:gid::pid::loc:3708:4446:strand:+ -            245   8.1e-55  185.8  26.6   2   2   3.6e-25   6.5e-21   74.8   5.4   171   236   164   229   160   233 0.93 Uncharacterised protein family (UPF0014)
+MMPL                 PF03176.15   333 CS204_c00001_NODE_1_...cluster191_ORF6:gid::pid::loc:5261:6137:strand:- -            291   4.5e-11   42.3  19.2   1   1     3e-15   5.4e-11   42.0  19.2   107   301    90   279    47   290 0.82 MMPL family
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS204_c00001_NODE_1_...cluster191.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS204_c00001_NODE_1_...cluster191.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS204_c00001_NODE_1_...cluster191.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:56:41 2019
+# [ok]

@@ -1,0 +1,18 @@
+#                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Asn_synthase         PF00733.21   355 BGC0000578.1_ORF1:gid::pid:WP_032798308.1:loc:236:1163:strand:+ -            309   1.8e-07   31.1   1.0   1   1   1.4e-11   2.4e-07   30.7   1.0     2    71   239   308   238   309 0.95 Asparagine synthase
+Asn_synthase         PF00733.21   355 BGC0000578.1_ORF2:gid::pid:WP_032798309.1:loc:1433:2453:strand:+ -            339   7.7e-22   78.4   0.0   1   1   5.9e-26   1.1e-21   78.0   0.0   109   334    44   298    17   317 0.71 Asparagine synthase
+PqqD                 PF05402.12    67 BGC0000578.1_ORF3:gid::pid:WP_006126488.1:loc:2449:2701:strand:+ -             83   1.4e-12   47.7   0.2   1   1   8.7e-17   1.6e-12   47.6   0.2     3    67    17    81    15    81 0.96 Coenzyme PQQ synthesis protein D (PqqD)
+ABC_membrane         PF00664.23   274 BGC0000578.1_ORF5:gid::pid:WP_010071619.1:loc:3121:5005:strand:+ -            627   2.9e-39  135.4   1.0   1   1     4e-43   3.6e-39  135.1   1.0     5   273    73   336    69   337 0.98 ABC transporter transmembrane region
+ABC_tran             PF00005.27   137 BGC0000578.1_ORF5:gid::pid:WP_010071619.1:loc:3121:5005:strand:+ -            627   2.3e-31  109.1   0.0   1   1     4e-35   3.6e-31  108.5   0.0     2   137   403   551   402   551 0.89 ABC transporter
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000578.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000578.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000578.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:37:43 2019
+# [ok]

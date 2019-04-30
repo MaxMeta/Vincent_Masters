@@ -1,0 +1,118 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="487.3333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="477.3333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg4863_1)</title>
+			<polygon class=" (ctg4863_1)" points="10,40 21,10 21,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg4863_2)</title>
+			<polygon class=" (ctg4863_2)" points="29,10 35,40 29,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg4863_3)</title>
+			<polygon class=" (ctg4863_3)" points="38,25 65,25 65,10 95,40 65,70 65,55 38,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Carbam_trans_N (PF02543)
+"Carbamoyltransferase N-terminus"</title>
+				<rect class="PF02543" x="38" y="28" stroke-linejoin="round" width="35" height="24" fill="rgb(146,218,61)" stroke="rgb(116,174,48)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Carbam_trans_C (PF16861)
+"Carbamoyltransferase C-terminus"</title>
+				<polygon class="PF16861" points="78,28 79,28 91,40 79,52 78,52" stroke-linejoin="round" width="16" height="24" fill="rgb(183,87,154)" stroke="rgb(146,69,123)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4863_4)</title>
+			<polygon class=" (ctg4863_4)" points="96,25 101,25 101,10 131,40 101,70 101,55 96,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg4863_5)</title>
+			<polygon class=" (ctg4863_5)" points="146,10 175,40 146,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_2 (PF00535)
+"Glycosyl transferase family 2"</title>
+				<polygon class="PF00535" points="147,28 159,28 161,30 161,50 159,52 147,52" stroke-linejoin="round" width="14" height="24" fill="rgb(224,122,96)" stroke="rgb(179,97,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4863_6)</title>
+			<polygon class=" (ctg4863_6)" points="187,25 190,25 190,10 220,40 190,70 190,55 187,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Epimerase (PF01370)
+"NAD dependent epimerase/dehydratase family"</title>
+				<polygon class="PF01370" points="187,28 204,28 210,34 210,46 204,52 187,52" stroke-linejoin="round" width="23" height="24" fill="rgb(98,102,214)" stroke="rgb(78,81,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4863_7)</title>
+			<polygon class=" (ctg4863_7)" points="231,25 241,25 241,10 271,40 241,70 241,55 231,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyco_trans_4_4 (PF13579)
+"Glycosyl transferase 4-like domain"</title>
+				<rect class="PF13579" x="233" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(143,60,202)" stroke="rgb(114,47,161)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Glycos_transf_1 (PF00534)
+"Glycosyl transferases group 1"</title>
+				<polygon class="PF00534" points="251,28 255,28 267,40 255,52 251,52" stroke-linejoin="round" width="17" height="24" fill="rgb(228,92,150)" stroke="rgb(182,73,119)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4863_8)</title>
+			<polygon class=" (ctg4863_8)" points="271,10 278,40 271,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg4863_9)</title>
+			<polygon class=" (ctg4863_9)" points="317,25 311,25 311,10 281,40 311,70 311,55 317,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyco_trans_1_2 (PF13524)
+"Glycosyl transferases group 1"</title>
+				<polygon class="PF13524" points="285,40 292,33 292,47" stroke-linejoin="round" width="9" height="24" fill="rgb(67,127,200)" stroke="rgb(53,101,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4863_10)</title>
+			<polygon class=" (ctg4863_10)" points="364,25 351,25 351,10 321,40 351,70 351,55 364,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Polysacc_synt_C (PF14667)
+"Polysaccharide biosynthesis C-terminal domain"</title>
+				<polygon class="PF14667" points="325,40 331,34 331,46" stroke-linejoin="round" width="8" height="24" fill="rgb(222,92,150)" stroke="rgb(177,73,120)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Polysacc_synt_3 (PF13440)
+"Polysaccharide biosynthesis protein"</title>
+				<polygon class="PF13440" points="336,29 337,28 345,28 345,52 337,52 336,51" stroke-linejoin="round" width="9" height="24" fill="rgb(90,196,165)" stroke="rgb(72,156,132)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4863_11)</title>
+			<polygon class=" (ctg4863_11)" points="413,25 404,25 404,10 374,40 404,70 404,55 413,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_1 (PF00534)
+"Glycosyl transferases group 1"</title>
+				<polygon class="PF00534" points="378,40 390,28 392,28 392,52 390,52" stroke-linejoin="round" width="16" height="24" fill="rgb(228,92,150)" stroke="rgb(182,73,119)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Glyco_trans_4_4 (PF13579)
+"Glycosyl transferase 4-like domain"</title>
+				<rect class="PF13579" x="394" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(143,60,202)" stroke="rgb(114,47,161)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4863_12)</title>
+			<polygon class=" (ctg4863_12)" points="473,25 444,25 444,10 414,40 444,70 444,55 473,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Asn_synthase (PF00733)
+"Asparagine synthase"</title>
+				<polygon class="PF00733" points="418,40 430,28 448,28 448,52 430,52" stroke-linejoin="round" width="34" height="24" fill="rgb(97,201,176)" stroke="rgb(77,160,140)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GATase_7 (PF13537)
+"Glutamine amidotransferase domain"</title>
+				<rect class="PF13537" x="456" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(200,63,57)" stroke="rgb(160,50,45)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

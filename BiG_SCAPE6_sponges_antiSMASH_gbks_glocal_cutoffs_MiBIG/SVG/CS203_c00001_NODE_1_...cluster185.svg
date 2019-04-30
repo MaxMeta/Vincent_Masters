@@ -1,0 +1,80 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="310.4" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="300.4" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg8603_1)</title>
+			<polygon class=" (ctg8603_1)" points="46,25 40,25 40,10 10,40 40,70 40,55 46,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Epimerase (PF01370)
+"NAD dependent epimerase/dehydratase family"</title>
+				<polygon class="PF01370" points="22,32 26,28 45,28 45,52 26,52 22,48" stroke-linejoin="round" width="23" height="24" fill="rgb(98,102,214)" stroke="rgb(78,81,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8603_2)</title>
+			<polygon class=" (ctg8603_2)" points="52,10 58,40 52,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg8603_3)</title>
+			<polygon class=" (ctg8603_3)" points="63,40 68,10 68,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_3 (PF01381)
+"Helix-turn-helix"</title>
+				<polygon class="PF01381" points="66,40 67,35 67,45" stroke-linejoin="round" width="4" height="24" fill="rgb(105,79,202)" stroke="rgb(83,63,161)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8603_4)</title>
+			<polygon class=" (ctg8603_4)" points="84,25 99,25 99,10 129,40 99,70 99,55 84,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AbiEi_2 (PF09952)
+"Transcriptional regulator, AbiEi antitoxin, Type IV TA system"</title>
+				<polygon class="PF09952" points="113,28 113,28 125,40 113,52 113,52" stroke-linejoin="round" width="15" height="24" fill="rgb(146,196,81)" stroke="rgb(116,156,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8603_5)</title>
+			<polygon class=" (ctg8603_5)" points="129,10 140,40 129,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg8603_6)</title>
+			<polygon class=" (ctg8603_6)" points="141,10 155,40 141,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg8603_7)</title>
+			<polygon class=" (ctg8603_7)" points="183,40 205,10 205,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NTP_transf_2 (PF01909)
+"Nucleotidyltransferase domain"</title>
+				<polygon class="PF01909" points="196,28 196,28 203,28 203,52 196,52 196,52" stroke-linejoin="round" width="7" height="24" fill="rgb(55,187,183)" stroke="rgb(44,149,146)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8603_8)</title>
+			<polygon class=" (ctg8603_8)" points="205,40 223,10 223,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg8603_9)</title>
+			<polygon class=" (ctg8603_9)" points="230,10 237,40 230,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<polygon class="PF00072" points="230,28 230,28 234,40 234,40 230,52 230,52" stroke-linejoin="round" width="4" height="24" fill="rgb(100,107,203)" stroke="rgb(80,85,162)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8603_10)</title>
+			<polygon class=" (ctg8603_10)" points="237,25 269,25 269,10 299,40 269,70 269,55 237,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Plug (PF07715)
+"TonB-dependent Receptor Plug Domain"</title>
+				<rect class="PF07715" x="243" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(99,133,214)" stroke="rgb(79,106,171)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TonB_dep_Rec (PF00593)
+"TonB dependent receptor"</title>
+				<polygon class="PF00593" points="271,28 283,28 295,40 283,52 271,52" stroke-linejoin="round" width="28" height="24" fill="rgb(171,200,51)" stroke="rgb(136,160,40)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

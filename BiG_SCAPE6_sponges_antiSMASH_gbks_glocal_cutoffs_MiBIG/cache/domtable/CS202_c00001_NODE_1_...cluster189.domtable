@@ -1,0 +1,17 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Amino_oxidase        PF01593.24   452 CS202_c00001_NODE_1_...cluster189_ORF1:gid::pid::loc:2:884:strand:- -            294   5.1e-23   82.1   0.1   1   1   2.2e-26   6.5e-23   81.7   0.1     2   285     7   288     6   293 0.75 Flavin containing amine oxidoreductase
+NAD_binding_8        PF13450.6     68 CS202_c00001_NODE_1_...cluster189_ORF1:gid::pid::loc:2:884:strand:- -            294     2e-14   53.6   0.4   1   1   1.8e-17   5.2e-14   52.2   0.4     1    66     1    68     1    70 0.87 NAD(P)-binding Rossmann-like domain
+FA_desaturase        PF00487.24   254 CS202_c00001_NODE_1_...cluster189_ORF3:gid::pid::loc:2403:4446:strand:+ -            680   3.5e-24   86.0  21.7   1   1     4e-28   3.5e-24   86.0  21.7     6   244   124   342   119   350 0.76 Fatty acid desaturase
+GlnE                 PF03710.15   251 CS202_c00001_NODE_1_...cluster189_ORF3:gid::pid::loc:2403:4446:strand:+ -            680   9.4e-08   31.8   0.0   1   1   2.2e-09     2e-05   24.1   0.0     3   116   397   535   395   570 0.76 Glutamate-ammonia ligase adenylyltransferase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster189.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS202_c00001_NODE_1_...cluster189.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster189.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:45:21 2019
+# [ok]

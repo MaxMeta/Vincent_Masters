@@ -1,0 +1,33 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.28   423 BGC0001502.1_ORF1:gid::pid:YP_856987.1:loc:0:1551:strand:- -            516   5.5e-73  246.0   0.0   1   1   1.2e-76   1.1e-72  245.0   0.0    16   423    44   424    30   424 0.84 AMP-binding enzyme
+AMP-binding_C        PF13193.6     76 BGC0001502.1_ORF1:gid::pid:YP_856987.1:loc:0:1551:strand:- -            516   3.9e-10   40.6   0.0   1   1   7.9e-14   7.1e-10   39.7   0.0     1    76   432   506   432   506 0.93 AMP-binding enzyme C-terminal domain
+Condensation         PF00668.20   457 BGC0001502.1_ORF2:gid::pid:YP_856988.1:loc:1547:7742:strand:- -           2064  9.8e-182  604.7   0.0   1   3   1.9e-86   1.1e-82  278.1   0.0     6   445    39   471    35   482 0.92 Condensation domain
+Condensation         PF00668.20   457 BGC0001502.1_ORF2:gid::pid:YP_856988.1:loc:1547:7742:strand:- -           2064  9.8e-182  604.7   0.0   2   3   3.8e-47   2.3e-43  148.6   0.0     3   366  1076  1420  1075  1432 0.83 Condensation domain
+Condensation         PF00668.20   457 BGC0001502.1_ORF2:gid::pid:YP_856988.1:loc:1547:7742:strand:- -           2064  9.8e-182  604.7   0.0   3   3   7.3e-55   4.4e-51  174.0   0.0     2   421  1524  1931  1523  1951 0.85 Condensation domain
+AMP-binding          PF00501.28   423 BGC0001502.1_ORF2:gid::pid:YP_856988.1:loc:1547:7742:strand:- -           2064   1.6e-88  297.2   0.0   1   1   4.2e-92   2.5e-88  296.5   0.0     2   423   504   893   503   893 0.86 AMP-binding enzyme
+PP-binding           PF00550.25    67 BGC0001502.1_ORF2:gid::pid:YP_856988.1:loc:1547:7742:strand:- -           2064   8.2e-28   96.6   0.0   1   2   3.3e-15     2e-11   44.1   0.0     2    66   998  1058   997  1059 0.95 Phosphopantetheine attachment site
+PP-binding           PF00550.25    67 BGC0001502.1_ORF2:gid::pid:YP_856988.1:loc:1547:7742:strand:- -           2064   8.2e-28   96.6   0.0   2   2   6.2e-17   3.7e-13   49.6   0.0     2    67  1990  2055  1989  2055 0.95 Phosphopantetheine attachment site
+adh_short_C2         PF13561.6    234 BGC0001502.1_ORF3:gid::pid:YP_856989.1:loc:7858:8608:strand:- -            249   4.7e-50  170.3   0.3   1   1   1.4e-53   8.4e-50  169.5   0.3     1   234    14   246    14   246 0.92 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.25   195 BGC0001502.1_ORF3:gid::pid:YP_856989.1:loc:7858:8608:strand:- -            249     1e-44  152.3   0.6   1   1   7.6e-48   4.5e-44  150.2   0.6     1   189     8   185     8   191 0.93 short chain dehydrogenase
+KR                   PF08659.10   180 BGC0001502.1_ORF3:gid::pid:YP_856989.1:loc:7858:8608:strand:- -            249   1.3e-06   28.5   1.4   1   1   1.1e-08   6.6e-05   22.9   0.0    60   161    53   157    46   163 0.91 KR domain
+AMP-binding          PF00501.28   423 BGC0001502.1_ORF4:gid::pid:YP_856990.1:loc:8637:11739:strand:- -           1033   7.5e-77  258.7   0.0   1   1   2.3e-80     1e-76  258.2   0.0     4   422   457   849   454   850 0.83 AMP-binding enzyme
+Condensation         PF00668.20   457 BGC0001502.1_ORF4:gid::pid:YP_856990.1:loc:8637:11739:strand:- -           1033   5.1e-44  150.7   0.0   1   1   1.5e-47   6.8e-44  150.3   0.0     5   446     4   424     1   435 0.92 Condensation domain
+PP-binding           PF00550.25    67 BGC0001502.1_ORF4:gid::pid:YP_856990.1:loc:8637:11739:strand:- -           1033   1.5e-15   57.2   0.0   1   1     8e-19   3.6e-15   56.1   0.0     2    67   955  1018   954  1018 0.95 Phosphopantetheine attachment site
+AMP-binding_C        PF13193.6     76 BGC0001502.1_ORF4:gid::pid:YP_856990.1:loc:8637:11739:strand:- -           1033   1.9e-10   41.6   0.0   1   1   1.2e-13   5.2e-10   40.2   0.0     1    76   858   929   858   929 0.94 AMP-binding enzyme C-terminal domain
+Isochorismatase      PF00857.20   175 BGC0001502.1_ORF5:gid::pid:YP_856991.1:loc:11735:12659:strand:- -            307   7.2e-34  117.5   0.0   1   1   1.2e-37     1e-33  117.0   0.0     2   172    30   200    29   203 0.98 Isochorismatase family
+PP-binding           PF00550.25    67 BGC0001502.1_ORF5:gid::pid:YP_856991.1:loc:11735:12659:strand:- -            307   7.9e-08   32.5   0.0   1   1   1.9e-11   1.7e-07   31.5   0.0    11    63   239   290   229   294 0.86 Phosphopantetheine attachment site
+AMP-binding          PF00501.28   423 BGC0001502.1_ORF6:gid:entE:pid:YP_856992.1:loc:12682:14344:strand:- -            553   5.2e-75  252.6   0.0   1   1   7.1e-79   6.4e-75  252.3   0.0     2   422    37   446    36   447 0.88 AMP-binding enzyme
+AMP-binding_C        PF13193.6     76 BGC0001502.1_ORF6:gid:entE:pid:YP_856992.1:loc:12682:14344:strand:- -            553   5.8e-11   43.2   0.0   1   1   2.6e-14   2.3e-10   41.3   0.0     1    76   455   530   455   530 0.92 AMP-binding enzyme C-terminal domain
+Chorismate_bind      PF00425.18   258 BGC0001502.1_ORF7:gid::pid:YP_856993.1:loc:14420:15614:strand:- -            397   4.1e-76  255.9   0.0   1   1   3.4e-80   6.1e-76  255.4   0.0     3   258   127   381   125   381 0.97 chorismate binding enzyme
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001502.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001502.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001502.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:55:30 2019
+# [ok]

@@ -1,0 +1,31 @@
+#                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                       accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                             -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Asn_synthase         PF00733.21   355 BGC0000846.1_ORF8:gid::pid::loc:8274:10140:strand:+ -            621   2.4e-67  228.1   0.0   1   1   5.2e-71   3.1e-67  227.8   0.0     2   335   249   587   248   614 0.90 Asparagine synthase
+GATase_7             PF13537.6    123 BGC0000846.1_ORF8:gid::pid::loc:8274:10140:strand:+ -            621     2e-27   95.6   0.0   1   1   5.3e-31   3.2e-27   94.9   0.0    12   122    67   176    56   177 0.93 Glutamine amidotransferase domain
+GATase_6             PF13522.6    134 BGC0000846.1_ORF8:gid::pid::loc:8274:10140:strand:+ -            621   8.7e-21   74.5   0.0   1   1   2.5e-24   1.5e-20   73.8   0.0     1   133    41   170    41   171 0.93 Glutamine amidotransferase domain
+TauD                 PF02668.16   268 BGC0000846.1_ORF9:gid::pid::loc:10188:11052:strand:+ -            287   3.2e-61  207.5   0.0   1   1     2e-65   3.6e-61  207.3   0.0     4   268     6   272     3   272 0.94 Taurine catabolism dioxygenase TauD, TfdA family
+GMC_oxred_N          PF00732.19   296 BGC0000846.1_ORF10:gid::pid::loc:11048:13133:strand:+ -            694   2.3e-78  263.6   0.0   1   1   2.5e-81   4.9e-78  262.5   0.0     1   295     4   293     4   294 0.98 GMC oxidoreductase
+GMC_oxred_C          PF05199.13   144 BGC0000846.1_ORF10:gid::pid::loc:11048:13133:strand:+ -            694   7.2e-41  140.1   0.0   1   1   5.7e-44   1.1e-40  139.4   0.0     1   143   385   520   385   521 0.94 GMC oxidoreductase
+Acetyltransf_1       PF00583.25   117 BGC0000846.1_ORF10:gid::pid::loc:11048:13133:strand:+ -            694   2.6e-12   47.0   0.1   1   1   3.5e-15     7e-12   45.6   0.1    19   117   573   668   552   668 0.80 Acetyltransferase (GNAT) family
+Acetyltransf_10      PF13673.7    127 BGC0000846.1_ORF10:gid::pid::loc:11048:13133:strand:+ -            694   2.6e-09   37.1   0.0   1   1   3.1e-12   6.1e-09   35.9   0.0    37   111   593   673   537   689 0.85 Acetyltransferase (GNAT) domain
+Acetyltransf_7       PF13508.7     76 BGC0000846.1_ORF10:gid::pid::loc:11048:13133:strand:+ -            694   3.1e-08   33.9   0.0   1   1   3.7e-11   7.4e-08   32.7   0.0     6    75   587   669   582   670 0.73 Acetyltransferase (GNAT) domain
+NAD_binding_8        PF13450.6     68 BGC0000846.1_ORF10:gid::pid::loc:11048:13133:strand:+ -            694   1.2e-05   25.5   0.4   1   1   4.1e-08   8.1e-05   22.8   0.1     1    28     8    36     8    39 0.95 NAD(P)-binding Rossmann-like domain
+Lycopene_cycl        PF05834.12   380 BGC0000846.1_ORF10:gid::pid::loc:11048:13133:strand:+ -            694   7.3e-06   25.3   0.1   1   1   6.8e-09   1.4e-05   24.4   0.1     1    35     5    38     5    43 0.93 Lycopene cyclase protein
+EamA                 PF00892.20   137 BGC0000846.1_ORF11:gid::pid::loc:13119:14082:strand:+ -            320   6.3e-11   42.6  36.7   1   1   7.5e-14   1.3e-09   38.3  12.9     3   136    23   157    21   158 0.90 EamA-like transporter family
+ATP-grasp_4          PF13535.6    160 BGC0000846.1_ORF12:gid::pid::loc:14078:15338:strand:+ -            419   2.4e-08   33.8   0.0   1   1     9e-12     8e-08   32.0   0.0     3   155   148   292   146   296 0.83 ATP-grasp domain
+Sugar_tr             PF00083.24   452 BGC0000846.1_ORF13:gid::pid::loc:15443:16745:strand:+ -            433   3.3e-32  112.0  26.8   1   2   2.5e-26   2.2e-22   79.6   7.6     7   213    19   232    13   239 0.91 Sugar (and other) transporter
+Sugar_tr             PF00083.24   452 BGC0000846.1_ORF13:gid::pid::loc:15443:16745:strand:+ -            433   3.3e-32  112.0  26.8   2   2   5.1e-14   4.6e-10   38.9  11.0   257   434   240   410   231   417 0.73 Sugar (and other) transporter
+MFS_1                PF07690.16   353 BGC0000846.1_ORF13:gid::pid::loc:15443:16745:strand:+ -            433   2.9e-27   95.5  49.7   1   1   5.3e-24   4.7e-20   71.8  22.9     9   256    25   281    17   285 0.76 Major Facilitator Superfamily
+DUF3742              PF12553.8    121 BGC0000846.1_ORF14:gid::pid::loc:16804:17215:strand:+ -            136   1.7e-22   79.8   0.2   1   1   1.6e-26   2.8e-22   79.1   0.2     1   111     1   132     1   135 0.91 Protein of unknown function (DUF3742)
+HEAT_2               PF13646.6     88 BGC0000846.1_ORF22:gid::pid::loc:22696:22933:strand:+ -             78   6.2e-11   42.5   1.0   1   1   1.3e-14   7.8e-11   42.2   1.0    29    87     4    63     2    64 0.95 HEAT repeats
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000846.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000846.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000846.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:53:50 2019
+# [ok]

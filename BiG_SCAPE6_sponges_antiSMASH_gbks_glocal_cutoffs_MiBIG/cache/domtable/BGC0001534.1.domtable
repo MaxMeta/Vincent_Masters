@@ -1,0 +1,23 @@
+#                                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                       accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                             -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+2-oxoacid_dh         PF00198.23   233 BGC0001534.1_ORF1:gid:bkdC2:pid:AVE17169.1:loc:799:2254:strand:- -            484   7.4e-74  248.1   0.0   1   1   1.6e-77   9.8e-74  247.7   0.0     4   232   253   481   250   482 0.98 2-oxoacid dehydrogenases acyltransferase (catalytic domain)
+Biotin_lipoyl        PF00364.22    73 BGC0001534.1_ORF1:gid:bkdC2:pid:AVE17169.1:loc:799:2254:strand:- -            484   7.8e-17   60.9   0.2   1   1   2.5e-20   1.5e-16   60.0   0.2     2    72    12    83    11    84 0.97 Biotin-requiring enzyme
+E3_binding           PF02817.17    36 BGC0001534.1_ORF1:gid:bkdC2:pid:AVE17169.1:loc:799:2254:strand:- -            484   4.5e-13   49.3   1.7   1   1   1.8e-16     1e-12   48.1   0.7     2    35   180   213   179   214 0.95 e3 binding domain
+Transket_pyr         PF02779.24   178 BGC0001534.1_ORF2:gid:bkdB2:pid:AVE17168.1:loc:2235:3252:strand:- -            338   7.5e-46  156.0   0.1   1   1   2.1e-49   1.8e-45  154.8   0.0     3   175    13   186    11   189 0.98 Transketolase, pyrimidine binding domain
+Transketolase_C      PF02780.20   124 BGC0001534.1_ORF2:gid:bkdB2:pid:AVE17168.1:loc:2235:3252:strand:- -            338   5.2e-37  126.5   0.0   1   1     9e-41   8.1e-37  125.9   0.0     1   124   204   325   204   325 0.99 Transketolase, C-terminal domain
+E1_dh                PF00676.20   300 BGC0001534.1_ORF3:gid:bkdA2:pid:AVE17167.1:loc:3263:4424:strand:- -            386   4.2e-74  249.2   0.0   1   1   8.7e-78   5.2e-74  248.9   0.0    12   285    67   331    58   346 0.92 Dehydrogenase E1 component
+DXP_synthase_N       PF13292.6    273 BGC0001534.1_ORF3:gid:bkdA2:pid:AVE17167.1:loc:3263:4424:strand:- -            386   2.4e-07   30.3   0.0   1   1   9.1e-10   5.4e-06   25.8   0.0   115   177   152   214   148   220 0.94 1-deoxy-D-xylulose-5-phosphate synthase
+HTH_24               PF13412.6     48 BGC0001534.1_ORF4:gid:bkdR:pid:AVE17166.1:loc:4685:5264:strand:+ -            192   4.2e-15   55.0   0.5   1   1   1.5e-18   8.7e-15   54.0   0.5     1    48    41    88    41    88 0.98 Winged helix-turn-helix DNA-binding
+HTH_AsnC-type        PF13404.6     42 BGC0001534.1_ORF4:gid:bkdR:pid:AVE17166.1:loc:4685:5264:strand:+ -            192   7.2e-14   51.3   3.3   1   1   2.1e-17   1.2e-13   50.6   3.3     1    41    41    81    41    82 0.99 AsnC-type helix-turn-helix domain
+AsnC_trans_reg       PF01037.21    75 BGC0001534.1_ORF4:gid:bkdR:pid:AVE17166.1:loc:4685:5264:strand:+ -            192   2.4e-13   49.8   0.0   1   1   6.7e-17     4e-13   49.1   0.0     8    75   114   178   107   178 0.92 Lrp/AsnC ligand binding domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001534.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001534.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001534.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:35:39 2019
+# [ok]

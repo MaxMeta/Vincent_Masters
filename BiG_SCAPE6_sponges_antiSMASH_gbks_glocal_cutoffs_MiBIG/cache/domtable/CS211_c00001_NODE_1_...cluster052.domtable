@@ -1,0 +1,17 @@
+#                                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Aldo_ket_red         PF00248.21   294 CS211_c00001_NODE_1_...cluster052_ORF1:gid::pid::loc:236:1232:strand:- -            331   7.5e-55  186.2   0.0   1   1     5e-59     9e-55  185.9   0.0     1   289    16   321    16   325 0.96 Aldo/keto reductase family
+ABC_tran             PF00005.27   137 CS211_c00001_NODE_1_...cluster052_ORF6:gid::pid::loc:6306:8367:strand:+ -            686   1.2e-31  110.0   0.0   1   1   3.2e-35   1.9e-31  109.4   0.0     3   137   470   617   468   617 0.89 ABC transporter
+Peptidase_C39        PF03412.15   133 CS211_c00001_NODE_1_...cluster052_ORF6:gid::pid::loc:6306:8367:strand:+ -            686   2.6e-19   69.4   0.0   1   1   7.5e-23   4.5e-19   68.6   0.0    32   129     2    97     1   100 0.97 Peptidase C39 family
+ABC_membrane         PF00664.23   274 CS211_c00001_NODE_1_...cluster052_ORF6:gid::pid::loc:6306:8367:strand:+ -            686     5e-17   62.4   5.0   1   1   1.1e-20   6.5e-17   62.1   5.0     2   268   127   387   126   393 0.92 ABC transporter transmembrane region
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster052.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS211_c00001_NODE_1_...cluster052.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster052.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:36:56 2019
+# [ok]

@@ -1,0 +1,207 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="680.4" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="670.4" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg3461_4)</title>
+			<polygon class=" (ctg3461_4)" points="16,10 35,40 16,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aconitase_C (PF00694)
+"Aconitase C-terminal domain"</title>
+				<polygon class="PF00694" points="16,28 24,28 28,34 28,46 24,52 16,52" stroke-linejoin="round" width="12" height="24" fill="rgb(63,185,92)" stroke="rgb(50,148,73)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3461_5)</title>
+			<polygon class=" (ctg3461_5)" points="110,25 69,25 69,10 39,40 69,70 69,55 110,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PQQ_2 (PF13360)
+"PQQ-like domain"</title>
+				<rect class="PF13360" x="56" y="28" stroke-linejoin="round" width="19" height="24" fill="rgb(98,210,146)" stroke="rgb(78,168,116)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Metallophos (PF00149)
+"Calcineurin-like phosphoesterase"</title>
+				<rect class="PF00149" x="82" y="28" stroke-linejoin="round" width="19" height="24" fill="rgb(181,197,58)" stroke="rgb(144,157,46)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3461_6)</title>
+			<polygon class=" (ctg3461_6)" points="116,10 134,40 116,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Nitroreductase (PF00881)
+"Nitroreductase family"</title>
+				<polygon class="PF00881" points="116,28 123,28 131,40 131,40 123,52 116,52" stroke-linejoin="round" width="15" height="24" fill="rgb(79,118,187)" stroke="rgb(63,94,149)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3461_7)</title>
+			<polygon class=" (ctg3461_7)" points="136,25 141,25 141,10 171,40 141,70 141,55 136,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GFO_IDH_MocA (PF01408)
+"Oxidoreductase family, NAD-binding Rossmann fold"</title>
+				<rect class="PF01408" x="136" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(76,117,190)" stroke="rgb(60,93,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3461_8)</title>
+			<polygon class=" (ctg3461_8)" points="171,25 182,25 182,10 212,40 182,70 182,55 171,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CoA_transf_3 (PF02515)
+"CoA-transferase family III"</title>
+				<polygon class="PF02515" points="172,28 196,28 208,40 208,40 196,52 172,52" stroke-linejoin="round" width="36" height="24" fill="rgb(226,102,90)" stroke="rgb(180,81,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3461_9)</title>
+			<polygon class=" (ctg3461_9)" points="219,10 229,40 219,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>OmdA (PF13376)
+"Bacteriocin-protection, YdeI or OmpD-Associated"</title>
+				<polygon class="PF13376" points="222,29 225,40 222,51" stroke-linejoin="round" width="5" height="24" fill="rgb(212,104,109)" stroke="rgb(169,83,87)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3461_10)</title>
+			<polygon class=" (ctg3461_10)" points="230,40 242,10 242,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ribonuc_L-PSP (PF01042)
+"Endoribonuclease L-PSP"</title>
+				<polygon class="PF01042" points="233,40 238,28 241,28 241,52 238,52" stroke-linejoin="round" width="11" height="24" fill="rgb(93,120,208)" stroke="rgb(74,96,166)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3461_11)</title>
+			<polygon class=" (ctg3461_11)" points="250,10 255,40 250,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3461_12)</title>
+			<polygon class=" (ctg3461_12)" points="289,25 289,25 289,10 259,40 289,70 289,55 289,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>IU_nuc_hydro (PF01156)
+"Inosine-uridine preferring nucleoside hydrolase"</title>
+				<polygon class="PF01156" points="263,40 275,28 288,28 288,52 275,52" stroke-linejoin="round" width="29" height="24" fill="rgb(156,80,217)" stroke="rgb(124,64,173)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3461_13)</title>
+			<polygon class=" (ctg3461_13)" points="293,10 307,40 293,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>QueF (PF14489)
+"QueF-like protein"</title>
+				<polygon class="PF14489" points="299,30 303,40 299,50" stroke-linejoin="round" width="7" height="24" fill="rgb(91,158,228)" stroke="rgb(72,126,182)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3461_14)</title>
+			<polygon class=" (ctg3461_14)" points="307,10 323,40 307,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NUDIX (PF00293)
+"NUDIX domain"</title>
+				<polygon class="PF00293" points="307,28 313,28 320,40 320,40 313,52 307,52" stroke-linejoin="round" width="13" height="24" fill="rgb(92,56,187)" stroke="rgb(73,44,149)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3461_15)</title>
+			<polygon class=" (ctg3461_15)" points="329,10 341,40 329,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NUDIX (PF00293)
+"NUDIX domain"</title>
+				<polygon class="PF00293" points="329,28 332,28 338,40 338,40 332,52 329,52" stroke-linejoin="round" width="9" height="24" fill="rgb(92,56,187)" stroke="rgb(73,44,149)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3461_16)</title>
+			<polygon class=" (ctg3461_16)" points="343,10 372,40 343,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="344,28 356,28 368,40 356,52 344,52" stroke-linejoin="round" width="25" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3461_17)</title>
+			<polygon class=" (ctg3461_17)" points="419,25 403,25 403,10 373,40 403,70 403,55 419,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SBBP (PF06739)
+"Beta-propeller repeat"</title>
+				<polygon class="PF06739" points="386,31 389,28 390,28 390,52 389,52 386,49" stroke-linejoin="round" width="4" height="24" fill="rgb(54,187,121)" stroke="rgb(43,149,96)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SBBP (PF06739)
+"Beta-propeller repeat"</title>
+				<rect class="PF06739" x="392" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(54,187,121)" stroke="rgb(43,149,96)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SBBP (PF06739)
+"Beta-propeller repeat"</title>
+				<rect class="PF06739" x="399" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(54,187,121)" stroke="rgb(43,149,96)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SBBP (PF06739)
+"Beta-propeller repeat"</title>
+				<rect class="PF06739" x="405" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(54,187,121)" stroke="rgb(43,149,96)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3461_18)</title>
+			<polygon class=" (ctg3461_18)" points="426,40 443,10 443,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3461_19)</title>
+			<polygon class=" (ctg3461_19)" points="451,25 476,25 476,10 506,40 476,70 476,55 451,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>tRNA-synt_2 (PF00152)
+"tRNA synthetases class II (D, K and N)"</title>
+				<polygon class="PF00152" points="458,28 489,28 501,40 489,52 458,52" stroke-linejoin="round" width="44" height="24" fill="rgb(90,71,190)" stroke="rgb(72,56,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3461_20)</title>
+			<polygon class=" (ctg3461_20)" points="508,25 530,25 530,10 560,40 530,70 530,55 508,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amidohydro_3 (PF07969)
+"Amidohydrolase family"</title>
+				<polygon class="PF07969" points="512,28 544,28 556,40 544,52 512,52" stroke-linejoin="round" width="46" height="24" fill="rgb(228,157,101)" stroke="rgb(182,125,80)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3461_21)</title>
+			<polygon class=" (ctg3461_21)" points="561,10 566,40 561,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3461_22)</title>
+			<polygon class=" (ctg3461_22)" points="566,10 590,40 566,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TauE (PF01925)
+"Sulfite exporter TauE/SafE"</title>
+				<polygon class="PF01925" points="567,28 577,28 586,40 577,52 567,52" stroke-linejoin="round" width="22" height="24" fill="rgb(105,203,95)" stroke="rgb(84,162,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3461_23)</title>
+			<polygon class=" (ctg3461_23)" points="588,40 595,10 595,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3461_24)</title>
+			<polygon class=" (ctg3461_24)" points="596,40 618,10 618,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF3800 (PF12686)
+"Protein of unknown function (DUF3800)"</title>
+				<polygon class="PF12686" points="600,40 609,28 617,28 617,52 609,52" stroke-linejoin="round" width="21" height="24" fill="rgb(215,73,159)" stroke="rgb(172,58,127)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3461_25)</title>
+			<polygon class=" (ctg3461_25)" points="624,25 631,25 631,10 661,40 631,70 631,55 624,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Bac_luciferase (PF00296)
+"Luciferase-like monooxygenase"</title>
+				<polygon class="PF00296" points="624,28 645,28 657,40 645,52 624,52" stroke-linejoin="round" width="34" height="24" fill="rgb(180,112,78)" stroke="rgb(144,89,62)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3461_26)</title>
+			<polygon class=" (ctg3461_26)" points="666,40 669,10 669,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

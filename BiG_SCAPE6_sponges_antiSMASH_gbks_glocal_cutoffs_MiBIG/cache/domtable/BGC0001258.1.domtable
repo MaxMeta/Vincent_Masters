@@ -1,0 +1,22 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SAT                  PF16073.5    240 BGC0001258.1_ORF1:gid:pks1:pid:AAN59953.1:loc:73:7295:strand:+ -           2124   2.7e-73  246.6   1.8   1   1   1.1e-76   2.7e-73  246.6   1.8     1   239    11   246    11   247 0.98 Starter unit:ACP transacylase in aflatoxin biosynthesis
+ketoacyl-synt        PF00109.26   253 BGC0001258.1_ORF1:gid:pks1:pid:AAN59953.1:loc:73:7295:strand:+ -           2124   3.3e-72  243.1   0.0   1   1   3.3e-75   8.5e-72  241.8   0.0     4   253   380   627   378   627 0.97 Beta-ketoacyl synthase, N-terminal domain
+Acyl_transf_1        PF00698.21   319 BGC0001258.1_ORF1:gid:pks1:pid:AAN59953.1:loc:73:7295:strand:+ -           2124   3.3e-41  141.8   0.0   1   1   4.2e-44   1.1e-40  140.1   0.0     2   305   907  1215   906  1228 0.88 Acyl transferase domain
+Ketoacyl-synt_C      PF02801.22   118 BGC0001258.1_ORF1:gid:pks1:pid:AAN59953.1:loc:73:7295:strand:+ -           2124   2.7e-37  127.4   0.6   1   1   3.3e-40   8.5e-37  125.8   0.6     1   117   635   755   635   756 0.98 Beta-ketoacyl synthase, C-terminal domain
+Thioesterase         PF00975.20   231 BGC0001258.1_ORF1:gid:pks1:pid:AAN59953.1:loc:73:7295:strand:+ -           2124   1.1e-19   71.4   0.0   1   1     4e-22     1e-18   68.3   0.0     2   107  1886  1989  1885  2119 0.76 Thioesterase domain
+PP-binding           PF00550.25    67 BGC0001258.1_ORF1:gid:pks1:pid:AAN59953.1:loc:73:7295:strand:+ -           2124   6.8e-20   71.2   4.0   1   2   3.7e-12   9.4e-09   35.5   0.2     2    66  1651  1715  1650  1716 0.95 Phosphopantetheine attachment site
+PP-binding           PF00550.25    67 BGC0001258.1_ORF1:gid:pks1:pid:AAN59953.1:loc:73:7295:strand:+ -           2124   6.8e-20   71.2   4.0   2   2   1.8e-12   4.7e-09   36.5   0.4     3    64  1774  1835  1772  1838 0.94 Phosphopantetheine attachment site
+PS-DH                PF14765.6    298 BGC0001258.1_ORF1:gid:pks1:pid:AAN59953.1:loc:73:7295:strand:+ -           2124   2.4e-15   56.6   0.0   1   1   1.4e-18   3.7e-15   56.0   0.0    23   296  1315  1598  1293  1600 0.83 Polyketide synthase dehydratase
+Zn_clus              PF00172.18    40 BGC0001258.1_ORF2:gid:gsp:pid:AAN59954.1:loc:10011:11229:strand:+ -            405   2.8e-07   30.5   8.0   1   1   1.6e-11   2.8e-07   30.5   8.0     2    36    18    51    17    55 0.92 Fungal Zn(2)-Cys(6) binuclear cluster domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001258.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001258.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001258.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:55:34 2019
+# [ok]

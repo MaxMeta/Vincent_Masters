@@ -1,0 +1,54 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="207.93333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="197.93333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg14752_1)</title>
+			<polygon class=" (ctg14752_1)" points="10,10 14,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg14752_2)</title>
+			<polygon class=" (ctg14752_2)" points="71,25 53,25 53,10 23,40 53,70 53,55 71,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF3179 (PF11376)
+"Protein of unknown function (DUF3179)"</title>
+				<polygon class="PF11376" points="27,40 39,28 52,28 52,52 39,52" stroke-linejoin="round" width="29" height="24" fill="rgb(221,178,92)" stroke="rgb(176,142,73)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg14752_3)</title>
+			<polygon class=" (ctg14752_3)" points="72,10 83,40 72,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg14752_4)</title>
+			<polygon class=" (ctg14752_4)" points="92,25 97,25 97,10 127,40 97,70 97,55 92,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Chal_sti_synt_N (PF00195)
+"Chalcone and stilbene synthases, N-terminal domain"</title>
+				<polygon class="PF00195" points="98,28 110,28 112,30 112,50 110,52 98,52" stroke-linejoin="round" width="14" height="24" fill="rgb(60,181,161)" stroke="rgb(47,144,128)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Chal_sti_synt_C (PF02797)
+"Chalcone and stilbene synthases, C-terminal domain"</title>
+				<polygon class="PF02797" points="113,31 122,40 113,49" stroke-linejoin="round" width="13" height="24" fill="rgb(139,212,63)" stroke="rgb(111,169,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg14752_5)</title>
+			<polygon class=" (ctg14752_5)" points="127,10 145,40 127,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ICMT (PF04140)
+"Isoprenylcysteine carboxyl methyltransferase (ICMT) family"</title>
+				<polygon class="PF04140" points="134,28 134,28 142,40 134,52 134,52" stroke-linejoin="round" width="9" height="24" fill="rgb(100,223,104)" stroke="rgb(80,178,83)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg14752_6)</title>
+			<polygon class=" (ctg14752_6)" points="148,25 165,25 165,10 195,40 165,70 165,55 148,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1501 (PF07394)
+"Protein of unknown function (DUF1501)"</title>
+				<polygon class="PF07394" points="153,28 179,28 191,40 179,52 153,52" stroke-linejoin="round" width="42" height="24" fill="rgb(199,225,81)" stroke="rgb(159,180,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

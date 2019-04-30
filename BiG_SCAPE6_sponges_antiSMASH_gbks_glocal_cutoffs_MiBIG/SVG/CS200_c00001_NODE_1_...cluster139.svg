@@ -1,0 +1,165 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="655.3666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="645.3666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg2592_1)</title>
+			<polygon class=" (ctg2592_1)" points="10,25 46,25 46,10 76,40 46,70 46,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>UPF0182 (PF03699)
+"Uncharacterised protein family (UPF0182)"</title>
+				<polygon class="PF03699" points="10,28 60,28 62,30 62,50 60,52 10,52" stroke-linejoin="round" width="52" height="24" fill="rgb(169,89,227)" stroke="rgb(135,71,181)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2592_2)</title>
+			<polygon class=" (ctg2592_2)" points="76,10 80,40 76,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2592_3)</title>
+			<polygon class=" (ctg2592_3)" points="80,25 87,25 87,10 117,40 87,70 87,55 80,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ATP-grasp_2 (PF08442)
+"ATP-grasp domain"</title>
+				<rect class="PF08442" x="80" y="28" stroke-linejoin="round" width="19" height="24" fill="rgb(76,220,127)" stroke="rgb(60,176,101)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ligase_CoA (PF00549)
+"CoA-ligase"</title>
+				<polygon class="PF00549" points="105,32 113,40 105,48" stroke-linejoin="round" width="12" height="24" fill="rgb(184,103,76)" stroke="rgb(147,82,60)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2592_4)</title>
+			<polygon class=" (ctg2592_4)" points="120,10 149,40 120,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CoA_binding (PF02629)
+"CoA binding domain"</title>
+				<rect class="PF02629" x="120" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(57,204,178)" stroke="rgb(45,163,142)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ligase_CoA (PF00549)
+"CoA-ligase"</title>
+				<polygon class="PF00549" points="135,30 145,40 135,50" stroke-linejoin="round" width="12" height="24" fill="rgb(184,103,76)" stroke="rgb(147,82,60)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2592_5)</title>
+			<polygon class=" (ctg2592_5)" points="149,10 163,40 149,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NDK (PF00334)
+"Nucleoside diphosphate kinase"</title>
+				<polygon class="PF00334" points="149,28 154,28 159,40 154,52 149,52" stroke-linejoin="round" width="13" height="24" fill="rgb(197,210,70)" stroke="rgb(157,168,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2592_6)</title>
+			<polygon class=" (ctg2592_6)" points="164,25 170,25 170,10 200,40 170,70 170,55 164,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_11 (PF08241)
+"Methyltransferase domain"</title>
+				<rect class="PF08241" x="174" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(106,219,159)" stroke="rgb(84,175,127)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Sterol_MT_C (PF08498)
+"Sterol methyltransferase C-terminal"</title>
+				<polygon class="PF08498" points="192,36 196,40 192,44" stroke-linejoin="round" width="6" height="24" fill="rgb(65,219,176)" stroke="rgb(52,175,140)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2592_7)</title>
+			<polygon class=" (ctg2592_7)" points="311,25 227,25 227,10 197,40 227,70 227,55 311,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQHop_cyclase_C (PF13243)
+"Squalene-hopene cyclase C-terminal domain"</title>
+				<polygon class="PF13243" points="202,39 213,28 234,28 234,52 213,52 202,41" stroke-linejoin="round" width="32" height="24" fill="rgb(191,58,201)" stroke="rgb(152,46,160)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SQHop_cyclase_N (PF13249)
+"Squalene-hopene cyclase N-terminal domain"</title>
+				<rect class="PF13249" x="235" y="28" stroke-linejoin="round" width="29" height="24" fill="rgb(88,190,89)" stroke="rgb(70,152,71)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SE (PF08491)
+"Squalene epoxidase"</title>
+				<rect class="PF08491" x="274" y="28" stroke-linejoin="round" width="23" height="24" fill="rgb(93,72,221)" stroke="rgb(74,57,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2592_8)</title>
+			<polygon class=" (ctg2592_8)" points="357,25 342,25 342,10 312,40 342,70 342,55 357,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="316,40 328,28 356,28 356,52 328,52" stroke-linejoin="round" width="43" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2592_9)</title>
+			<polygon class=" (ctg2592_9)" points="392,25 388,25 388,10 358,40 388,70 388,55 392,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ERG4_ERG24 (PF01222)
+"Ergosterol biosynthesis ERG4/ERG24 family"</title>
+				<polygon class="PF01222" points="362,40 374,28 392,28 392,52 374,52" stroke-linejoin="round" width="34" height="24" fill="rgb(99,195,207)" stroke="rgb(79,155,165)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2592_10)</title>
+			<polygon class=" (ctg2592_10)" points="432,25 425,25 425,10 395,40 425,70 425,55 432,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Rieske (PF00355)
+"Rieske [2Fe-2S] domain"</title>
+				<rect class="PF00355" x="419" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(186,77,145)" stroke="rgb(148,61,115)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2592_11)</title>
+			<polygon class=" (ctg2592_11)" points="471,25 462,25 462,10 432,40 462,70 462,55 471,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Epimerase (PF01370)
+"NAD dependent epimerase/dehydratase family"</title>
+				<polygon class="PF01370" points="444,32 448,28 467,28 467,52 448,52 444,48" stroke-linejoin="round" width="23" height="24" fill="rgb(98,102,214)" stroke="rgb(78,81,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2592_12)</title>
+			<polygon class=" (ctg2592_12)" points="514,25 507,25 507,10 477,40 507,70 507,55 514,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acyl_transf_3 (PF01757)
+"Acyltransferase family"</title>
+				<polygon class="PF01757" points="481,40 493,28 514,28 514,52 493,52" stroke-linejoin="round" width="35" height="24" fill="rgb(50,152,200)" stroke="rgb(40,121,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2592_13)</title>
+			<polygon class=" (ctg2592_13)" points="584,25 548,25 548,10 518,40 548,70 548,55 584,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="522,40 534,28 561,28 561,52 534,52" stroke-linejoin="round" width="42" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GPP34 (PF05719)
+"Golgi phosphoprotein 3 (GPP34)"</title>
+				<rect class="PF05719" x="563" y="28" stroke-linejoin="round" width="20" height="24" fill="rgb(221,100,205)" stroke="rgb(176,80,163)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2592_14)</title>
+			<polygon class=" (ctg2592_14)" points="588,10 608,40 588,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YceD (PF02620)
+"Large ribosomal RNA subunit accumulation protein YceD"</title>
+				<polygon class="PF02620" points="596,28 596,28 604,40 596,52 596,52" stroke-linejoin="round" width="11" height="24" fill="rgb(206,67,167)" stroke="rgb(164,53,133)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2592_15)</title>
+			<polygon class=" (ctg2592_15)" points="609,10 615,40 609,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ribosomal_L32p (PF01783)
+"Ribosomal L32p protein family"</title>
+				<polygon class="PF01783" points="609,28 609,28 612,40 609,52 609,52" stroke-linejoin="round" width="5" height="24" fill="rgb(54,205,64)" stroke="rgb(43,164,51)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

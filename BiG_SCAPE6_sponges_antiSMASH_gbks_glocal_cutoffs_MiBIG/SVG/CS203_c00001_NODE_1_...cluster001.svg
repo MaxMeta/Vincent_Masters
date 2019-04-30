@@ -1,0 +1,185 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="799.6666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="789.6666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg7_270)</title>
+			<polygon class=" (ctg7_270)" points="13,40 16,10 16,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg7_271)</title>
+			<polygon class=" (ctg7_271)" points="50,25 46,25 46,10 16,40 46,70 46,55 50,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Rieske (PF00355)
+"Rieske [2Fe-2S] domain"</title>
+				<rect class="PF00355" x="39" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(186,77,145)" stroke="rgb(148,61,115)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7_272)</title>
+			<polygon class=" (ctg7_272)" points="85,25 85,25 85,10 55,40 85,70 85,55 85,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>OMP_b-brl (PF13505)
+"Outer membrane protein beta-barrel domain"</title>
+				<polygon class="PF13505" points="59,40 71,28 83,28 83,52 71,52" stroke-linejoin="round" width="28" height="24" fill="rgb(200,118,85)" stroke="rgb(160,94,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7_273)</title>
+			<polygon class=" (ctg7_273)" points="136,25 121,25 121,10 91,40 121,70 121,55 136,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amino_oxidase (PF01593)
+"Flavin containing amine oxidoreductase"</title>
+				<polygon class="PF01593" points="106,29 107,28 134,28 134,52 107,52 106,51" stroke-linejoin="round" width="28" height="24" fill="rgb(184,74,52)" stroke="rgb(147,59,41)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7_274)</title>
+			<polygon class=" (ctg7_274)" points="145,40 148,10 148,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg7_275)</title>
+			<polygon class=" (ctg7_275)" points="150,25 154,25 154,10 184,40 154,70 154,55 150,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_11 (PF08241)
+"Methyltransferase domain"</title>
+				<polygon class="PF08241" points="160,28 168,28 169,29 169,51 168,52 160,52" stroke-linejoin="round" width="9" height="24" fill="rgb(106,219,159)" stroke="rgb(84,175,127)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Sterol_MT_C (PF08498)
+"Sterol methyltransferase C-terminal"</title>
+				<polygon class="PF08498" points="177,37 180,40 177,43" stroke-linejoin="round" width="6" height="24" fill="rgb(65,219,176)" stroke="rgb(52,175,140)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7_276)</title>
+			<polygon class=" (ctg7_276)" points="185,25 192,25 192,10 222,40 192,70 192,55 185,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Epimerase (PF01370)
+"NAD dependent epimerase/dehydratase family"</title>
+				<polygon class="PF01370" points="186,28 206,28 209,31 209,49 206,52 186,52" stroke-linejoin="round" width="23" height="24" fill="rgb(98,102,214)" stroke="rgb(78,81,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7_277)</title>
+			<polygon class=" (ctg7_277)" points="222,25 229,25 229,10 259,40 229,70 229,55 222,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Rieske (PF00355)
+"Rieske [2Fe-2S] domain"</title>
+				<rect class="PF00355" x="225" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(186,77,145)" stroke="rgb(148,61,115)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7_278)</title>
+			<polygon class=" (ctg7_278)" points="259,25 265,25 265,10 295,40 265,70 265,55 259,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ERG4_ERG24 (PF01222)
+"Ergosterol biosynthesis ERG4/ERG24 family"</title>
+				<polygon class="PF01222" points="260,28 279,28 291,40 279,52 260,52" stroke-linejoin="round" width="34" height="24" fill="rgb(99,195,207)" stroke="rgb(79,155,165)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7_279)</title>
+			<polygon class=" (ctg7_279)" points="296,25 313,25 313,10 343,40 313,70 313,55 296,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="298,28 326,28 338,40 326,52 298,52" stroke-linejoin="round" width="43" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7_280)</title>
+			<polygon class=" (ctg7_280)" points="343,25 426,25 426,10 456,40 426,70 426,55 343,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SE (PF08491)
+"Squalene epoxidase"</title>
+				<rect class="PF08491" x="358" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(93,72,221)" stroke="rgb(74,57,176)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SQHop_cyclase_N (PF13249)
+"Squalene-hopene cyclase N-terminal domain"</title>
+				<rect class="PF13249" x="390" y="28" stroke-linejoin="round" width="29" height="24" fill="rgb(88,190,89)" stroke="rgb(70,152,71)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SQHop_cyclase_C (PF13243)
+"Squalene-hopene cyclase C-terminal domain"</title>
+				<polygon class="PF13243" points="421,28 439,28 451,40 439,52 421,52" stroke-linejoin="round" width="32" height="24" fill="rgb(191,58,201)" stroke="rgb(152,46,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7_281)</title>
+			<polygon class=" (ctg7_281)" points="460,40 484,10 484,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg7_282)</title>
+			<polygon class=" (ctg7_282)" points="486,40 510,10 510,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg7_283)</title>
+			<polygon class=" (ctg7_283)" points="590,25 544,25 544,10 514,40 544,70 544,55 590,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MMPL (PF03176)
+"MMPL family"</title>
+				<polygon class="PF03176" points="518,40 530,28 545,28 545,52 530,52" stroke-linejoin="round" width="31" height="24" fill="rgb(228,109,193)" stroke="rgb(182,87,154)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MMPL (PF03176)
+"MMPL family"</title>
+				<rect class="PF03176" x="549" y="28" stroke-linejoin="round" width="34" height="24" fill="rgb(228,109,193)" stroke="rgb(182,87,154)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7_284)</title>
+			<polygon class=" (ctg7_284)" points="600,40 612,10 612,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NTP_transf_9 (PF04248)
+"Domain of unknown function (DUF427)"</title>
+				<polygon class="PF04248" points="603,40 608,28 610,28 610,52 608,52" stroke-linejoin="round" width="9" height="24" fill="rgb(184,123,83)" stroke="rgb(147,98,66)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7_285)</title>
+			<polygon class=" (ctg7_285)" points="618,25 642,25 642,10 672,40 642,70 642,55 618,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="621,28 656,28 660,32 660,48 656,52 621,52" stroke-linejoin="round" width="39" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7_286)</title>
+			<polygon class=" (ctg7_286)" points="710,25 702,25 702,10 672,40 702,70 702,55 710,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FGE-sulfatase (PF03781)
+"Sulfatase-modifying factor enzyme 1"</title>
+				<polygon class="PF03781" points="676,40 688,28 694,28 694,52 688,52" stroke-linejoin="round" width="22" height="24" fill="rgb(206,81,170)" stroke="rgb(164,64,136)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7_287)</title>
+			<polygon class=" (ctg7_287)" points="722,40 742,10 742,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>N_methyl (PF07963)
+"Prokaryotic N-terminal methylation motif"</title>
+				<rect class="PF07963" x="739" y="28" stroke-linejoin="round" width="2" height="24" fill="rgb(116,101,204)" stroke="rgb(92,80,163)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7_288)</title>
+			<polygon class=" (ctg7_288)" points="742,40 754,10 754,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>N_methyl (PF07963)
+"Prokaryotic N-terminal methylation motif"</title>
+				<rect class="PF07963" x="751" y="28" stroke-linejoin="round" width="2" height="24" fill="rgb(116,101,204)" stroke="rgb(92,80,163)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7_289)</title>
+			<polygon class=" (ctg7_289)" points="755,40 769,10 769,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GspH (PF12019)
+"Type II transport protein GspH"</title>
+				<polygon class="PF12019" points="758,40 764,28 765,28 765,52 764,52" stroke-linejoin="round" width="10" height="24" fill="rgb(151,185,87)" stroke="rgb(120,148,69)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,33 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ACPS                 PF01648.20   114 CS211_c00001_NODE_1_...cluster178_ORF1:gid::pid::loc:8:719:strand:- -            236   3.5e-11   43.2   0.0   1   1   3.7e-15   6.6e-11   42.4   0.0     1    85   123   200   123   230 0.83 4'-phosphopantetheinyl transferase superfamily
+PP-binding           PF00550.25    67 CS211_c00001_NODE_1_...cluster178_ORF2:gid::pid::loc:801:1044:strand:- -             80   1.8e-08   34.6   0.1   1   1   1.2e-12   2.1e-08   34.4   0.1     2    67     7    76     6    76 0.89 Phosphopantetheine attachment site
+ketoacyl-synt        PF00109.26   253 CS211_c00001_NODE_1_...cluster178_ORF3:gid::pid::loc:1122:10803:strand:- -           3226  8.8e-155  513.6   8.7   1   2   9.8e-83     1e-79  267.7   1.0     2   253    11   263    10   263 0.93 Beta-ketoacyl synthase, N-terminal domain
+ketoacyl-synt        PF00109.26   253 CS211_c00001_NODE_1_...cluster178_ORF3:gid::pid::loc:1122:10803:strand:- -           3226  8.8e-155  513.6   8.7   2   2   3.3e-77   3.4e-74  249.6   1.4     3   253  2640  2883  2638  2883 0.90 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.22   118 CS211_c00001_NODE_1_...cluster178_ORF3:gid::pid::loc:1122:10803:strand:- -           3226   7.6e-80  264.6   1.6   1   2   8.4e-45   8.9e-42  141.8   0.0     2   117   272   386   271   387 0.98 Beta-ketoacyl synthase, C-terminal domain
+Ketoacyl-synt_C      PF02801.22   118 CS211_c00001_NODE_1_...cluster178_ORF3:gid::pid::loc:1122:10803:strand:- -           3226   7.6e-80  264.6   1.6   2   2   3.3e-38   3.5e-35  120.6   0.2     2   117  2892  3008  2891  3009 0.98 Beta-ketoacyl synthase, C-terminal domain
+KR                   PF08659.10   180 CS211_c00001_NODE_1_...cluster178_ORF3:gid::pid::loc:1122:10803:strand:- -           3226   3.5e-63  212.8   3.2   1   1   6.5e-65   6.8e-62  208.6   0.5     2   179  2212  2388  2211  2389 0.99 KR domain
+PS-DH                PF14765.6    298 CS211_c00001_NODE_1_...cluster178_ORF3:gid::pid::loc:1122:10803:strand:- -           3226   3.2e-57  194.0   1.6   1   1   1.1e-59   1.2e-56  192.2   1.6     1   296   945  1245   945  1247 0.88 Polyketide synthase dehydratase
+Acyl_transf_1        PF00698.21   319 CS211_c00001_NODE_1_...cluster178_ORF3:gid::pid::loc:1122:10803:strand:- -           3226   4.6e-56  190.6   0.4   1   1   7.9e-59   8.4e-56  189.8   0.4     2   271   576   852   575   871 0.89 Acyl transferase domain
+KAsynt_C_assoc       PF16197.5    112 CS211_c00001_NODE_1_...cluster178_ORF3:gid::pid::loc:1122:10803:strand:- -           3226   1.1e-29  103.1   0.0   1   2   6.6e-16   6.9e-13   49.0   0.0     1    92   389   514   389   529 0.91 Ketoacyl-synthetase C-terminal extension
+KAsynt_C_assoc       PF16197.5    112 CS211_c00001_NODE_1_...cluster178_ORF3:gid::pid::loc:1122:10803:strand:- -           3226   1.1e-29  103.1   0.0   2   2   1.4e-16   1.5e-13   51.2   0.0     1    88  3011  3109  3011  3121 0.91 Ketoacyl-synthetase C-terminal extension
+ADH_zinc_N_2         PF13602.6    133 CS211_c00001_NODE_1_...cluster178_ORF3:gid::pid::loc:1122:10803:strand:- -           3226   1.2e-20   74.9   0.0   1   1   1.7e-20   1.8e-17   64.6   0.0     1   132  2059  2196  2059  2197 0.83 Zinc-binding dehydrogenase
+ADH_zinc_N           PF00107.26   130 CS211_c00001_NODE_1_...cluster178_ORF3:gid::pid::loc:1122:10803:strand:- -           3226   7.3e-21   74.5   0.3   1   1   3.3e-23   3.5e-20   72.3   0.3     1    89  2028  2115  2028  2129 0.93 Zinc-binding dehydrogenase
+Methyltransf_12      PF08242.12    99 CS211_c00001_NODE_1_...cluster178_ORF3:gid::pid::loc:1122:10803:strand:- -           3226   2.6e-18   66.6   0.0   1   1   8.5e-21     9e-18   64.9   0.0     2    99  1480  1580  1479  1580 0.90 Methyltransferase domain
+adh_short            PF00106.25   195 CS211_c00001_NODE_1_...cluster178_ORF3:gid::pid::loc:1122:10803:strand:- -           3226   1.6e-12   47.3   5.3   1   1   6.3e-14   6.6e-11   42.0   0.0     3   160  2213  2369  2211  2380 0.90 short chain dehydrogenase
+Methyltransf_23      PF13489.6    165 CS211_c00001_NODE_1_...cluster178_ORF3:gid::pid::loc:1122:10803:strand:- -           3226   1.2e-11   44.7   0.0   1   1   2.8e-14   2.9e-11   43.5   0.0     9   164  1459  1634  1451  1635 0.72 Methyltransferase domain
+Methyltransf_25      PF13649.6     97 CS211_c00001_NODE_1_...cluster178_ORF3:gid::pid::loc:1122:10803:strand:- -           3226   1.1e-10   42.0   0.0   1   1     4e-13   4.2e-10   40.2   0.0     1    97  1478  1578  1478  1578 0.93 Methyltransferase domain
+PP-binding           PF00550.25    67 CS211_c00001_NODE_1_...cluster178_ORF3:gid::pid::loc:1122:10803:strand:- -           3226   2.5e-10   40.5   0.0   1   1   6.9e-13   7.3e-10   39.1   0.0     3    67  2494  2559  2492  2559 0.92 Phosphopantetheine attachment site
+Methyltransf_11      PF08241.12    96 CS211_c00001_NODE_1_...cluster178_ORF3:gid::pid::loc:1122:10803:strand:- -           3226   4.7e-09   36.8   0.0   1   1   1.2e-11   1.3e-08   35.3   0.0     2    95  1480  1581  1479  1582 0.91 Methyltransferase domain
+adh_short_C2         PF13561.6    234 CS211_c00001_NODE_1_...cluster178_ORF3:gid::pid::loc:1122:10803:strand:- -           3226   1.7e-07   31.1  12.5   1   1   1.7e-10   1.8e-07   31.0   0.1     4   144  2220  2361  2217  2372 0.77 Enoyl-(Acyl carrier protein) reductase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster178.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS211_c00001_NODE_1_...cluster178.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster178.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:53:46 2019
+# [ok]

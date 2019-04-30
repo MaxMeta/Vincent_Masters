@@ -1,0 +1,39 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Amino_oxidase        PF01593.24   452 BGC0001087.1_ORF1:gid::pid:ABP52726.1:loc:0:1527:strand:- -            508   2.7e-23   83.0   0.2   1   1   2.7e-26   6.8e-23   81.7   0.2     1   452    41   485    41   485 0.69 Flavin containing amine oxidoreductase
+NAD_binding_8        PF13450.6     68 BGC0001087.1_ORF1:gid::pid:ABP52726.1:loc:0:1527:strand:- -            508   1.4e-12   47.6   0.2   1   1   1.3e-15   3.4e-12   46.4   0.2     1    67    36   104    36   105 0.88 NAD(P)-binding Rossmann-like domain
+DAO                  PF01266.24   352 BGC0001087.1_ORF1:gid::pid:ABP52726.1:loc:0:1527:strand:- -            508   4.2e-10   39.8  10.0   1   1   5.9e-13   1.5e-09   37.9  10.0     3   205    35   303    33   463 0.61 FAD dependent oxidoreductase
+FAD_oxidored         PF12831.7    433 BGC0001087.1_ORF1:gid::pid:ABP52726.1:loc:0:1527:strand:- -            508   1.2e-06   28.2   0.2   1   1   7.9e-10     2e-06   27.4   0.2     3    65    35    97    34   114 0.93 FAD dependent oxidoreductase
+FAD_binding_2        PF00890.24   417 BGC0001087.1_ORF1:gid::pid:ABP52726.1:loc:0:1527:strand:- -            508   7.9e-06   25.2   5.2   1   1   3.6e-09   9.3e-06   25.0   3.5     3    37    35    69    34    76 0.93 FAD binding domain
+Lycopene_cycl        PF05834.12   380 BGC0001087.1_ORF2:gid::pid:ABP54855.1:loc:1627:2887:strand:- -            419   7.7e-73  245.7   0.0   1   1     5e-77     9e-73  245.5   0.0     1   377    13   379    13   382 0.92 Lycopene cyclase protein
+Acetyltransf_1       PF00583.25   117 BGC0001087.1_ORF4:gid::pid:ABP55679.1:loc:5369:5939:strand:+ -            189   3.1e-05   24.2   0.1   1   1   2.3e-09   4.2e-05   23.8   0.1    38   117    55   153    15   153 0.69 Acetyltransferase (GNAT) family
+Caroten_synth        PF04240.12   209 BGC0001087.1_ORF5:gid::pid:ABP55680.1:loc:5935:6775:strand:+ -            279   7.3e-37  127.3  21.1   1   1   4.1e-41   7.3e-37  127.3  21.1     4   207    43   253    40   255 0.85 Carotenoid biosynthesis protein
+Glyco_tranf_2_3      PF13641.6    230 BGC0001087.1_ORF6:gid::pid:ABP55681.1:loc:6771:7899:strand:+ -            375   5.3e-13   49.4   0.3   1   1   1.4e-16   8.2e-13   48.8   0.3     2   207    39   250    38   274 0.84 Glycosyltransferase like family 2
+Glycos_transf_2      PF00535.26   170 BGC0001087.1_ORF6:gid::pid:ABP55681.1:loc:6771:7899:strand:+ -            375   7.9e-13   48.6   0.0   1   1   2.3e-16   1.4e-12   47.8   0.0     2   113    42   157    41   186 0.89 Glycosyl transferase family 2
+Glyco_transf_21      PF13506.6    173 BGC0001087.1_ORF6:gid::pid:ABP55681.1:loc:6771:7899:strand:+ -            375   1.4e-08   34.4   0.0   1   1   4.8e-12   2.9e-08   33.4   0.0    16   148   111   249   101   264 0.80 Glycosyl transferase family 21
+Amino_oxidase        PF01593.24   452 BGC0001087.1_ORF7:gid::pid:ABP55682.1:loc:7909:9397:strand:+ -            495   2.1e-14   53.7   1.6   1   1   4.6e-17   1.4e-13   51.0   0.1     2   266    12   290    11   310 0.79 Flavin containing amine oxidoreductase
+NAD_binding_8        PF13450.6     68 BGC0001087.1_ORF7:gid::pid:ABP55682.1:loc:7909:9397:strand:+ -            495   2.1e-13   50.3   0.7   1   1   3.4e-16     1e-12   48.1   0.1     1    60     6    69     6    74 0.86 NAD(P)-binding Rossmann-like domain
+DAO                  PF01266.24   352 BGC0001087.1_ORF7:gid::pid:ABP55682.1:loc:7909:9397:strand:+ -            495   1.3e-09   38.1  14.2   1   1   3.4e-12     1e-08   35.2  14.2     1   351     3   489     3   490 0.55 FAD dependent oxidoreductase
+CDP-OH_P_transf      PF01066.21    66 BGC0001087.1_ORF8:gid::pid:ABP55683.1:loc:9462:10152:strand:- -            229   1.4e-09   38.6   0.9   1   1   7.8e-14   1.4e-09   38.6   0.9     1    66    50   116    50   116 0.91 CDP-alcohol phosphatidyltransferase
+MTHFR                PF02219.17   287 BGC0001087.1_ORF9:gid::pid:ABP55684.1:loc:10196:11114:strand:- -            305   3.3e-99  331.8   0.0   1   1  2.1e-103   3.7e-99  331.7   0.0     4   286    18   299    15   300 0.98 Methylenetetrahydrofolate reductase
+polyprenyl_synt      PF00348.17   256 BGC0001087.1_ORF10:gid::pid:ABP55685.1:loc:11295:12378:strand:+ -            360   1.2e-50  172.0   0.0   1   1   8.5e-55   1.5e-50  171.6   0.0     4   249    44   304    42   311 0.89 Polyprenyl synthetase
+MerR_1               PF13411.6     69 BGC0001087.1_ORF11:gid::pid:ABP56865.1:loc:17092:18037:strand:- -            314   7.4e-14   51.6   0.0   1   1   1.9e-17   1.1e-13   51.0   0.0     2    65     7    71     6    75 0.91 MerR HTH family regulatory protein
+B12-binding_2        PF02607.17    75 BGC0001087.1_ORF11:gid::pid:ABP56865.1:loc:17092:18037:strand:- -            314   2.7e-06   27.7   0.2   1   1   9.8e-10   5.8e-06   26.6   0.2     2    73   109   179   108   180 0.93 B12 binding domain
+NUDIX                PF00293.28   131 BGC0001087.1_ORF12:gid::pid:ABP56866.1:loc:18026:18626:strand:- -            199   3.2e-21   75.7   0.3   1   1   2.4e-25   4.2e-21   75.3   0.3     2   125    34   161    33   167 0.81 NUDIX domain
+Amino_oxidase        PF01593.24   452 BGC0001087.1_ORF13:gid::pid:ABP56867.1:loc:18622:20101:strand:- -            492   9.4e-35  120.8   0.4   1   1     5e-37   1.1e-33  117.2   0.4     1   451    18   487    18   488 0.75 Flavin containing amine oxidoreductase
+DAO                  PF01266.24   352 BGC0001087.1_ORF13:gid::pid:ABP56867.1:loc:18622:20101:strand:- -            492   5.7e-17   62.3   3.1   1   1   1.1e-19   2.4e-16   60.3   2.7     1   198    10   281    10   284 0.67 FAD dependent oxidoreductase
+NAD_binding_8        PF13450.6     68 BGC0001087.1_ORF13:gid::pid:ABP56867.1:loc:18622:20101:strand:- -            492   7.2e-13   48.6   0.3   1   1   8.1e-16   1.8e-12   47.3   0.3     1    54    13    66    13    76 0.95 NAD(P)-binding Rossmann-like domain
+FAD_binding_2        PF00890.24   417 BGC0001087.1_ORF13:gid::pid:ABP56867.1:loc:18622:20101:strand:- -            492     6e-08   32.2   5.4   1   1   3.8e-10   8.5e-07   28.4   2.1     2    36    11    45    10    51 0.93 FAD binding domain
+polyprenyl_synt      PF00348.17   256 BGC0001087.1_ORF14:gid::pid:ABP56868.1:loc:20130:21285:strand:- -            384     1e-52  178.7   0.0   1   1   7.7e-57   1.4e-52  178.3   0.0    10   253    71   335    65   338 0.86 Polyprenyl synthetase
+SQS_PSY              PF00494.19   263 BGC0001087.1_ORF15:gid::pid:ABP56869.1:loc:21347:22286:strand:+ -            312   2.6e-69  233.7   6.4   1   1   1.9e-73   3.4e-69  233.3   6.4     2   260    17   275    16   278 0.96 Squalene/phytoene synthase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001087.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001087.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001087.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:50:43 2019
+# [ok]

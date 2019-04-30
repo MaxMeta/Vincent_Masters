@@ -1,0 +1,101 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="427.26666666666665" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="417.26666666666665" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg4305_1)</title>
+			<polygon class=" (ctg4305_1)" points="10,40 30,10 30,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Plug (PF07715)
+"TonB-dependent Receptor Plug Domain"</title>
+				<polygon class="PF07715" points="14,40 22,28 23,28 23,52 22,52" stroke-linejoin="round" width="11" height="24" fill="rgb(99,133,214)" stroke="rgb(79,106,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4305_2)</title>
+			<polygon class=" (ctg4305_2)" points="50,40 57,10 57,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg4305_3)</title>
+			<polygon class=" (ctg4305_3)" points="60,10 83,40 60,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg4305_4)</title>
+			<polygon class=" (ctg4305_4)" points="84,10 93,40 84,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg4305_5)</title>
+			<polygon class=" (ctg4305_5)" points="97,40 105,10 105,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="100,40 103,28 105,28 105,52 103,52" stroke-linejoin="round" width="8" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4305_6)</title>
+			<polygon class=" (ctg4305_6)" points="148,25 136,25 136,10 106,40 136,70 136,55 148,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GPP34 (PF05719)
+"Golgi phosphoprotein 3 (GPP34)"</title>
+				<rect class="PF05719" x="127" y="28" stroke-linejoin="round" width="20" height="24" fill="rgb(221,100,205)" stroke="rgb(176,80,163)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4305_7)</title>
+			<polygon class=" (ctg4305_7)" points="201,25 179,25 179,10 149,40 179,70 179,55 201,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="160,33 165,28 199,28 199,52 165,52 160,47" stroke-linejoin="round" width="39" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4305_8)</title>
+			<polygon class=" (ctg4305_8)" points="201,40 229,10 229,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>EcKinase (PF02958)
+"Ecdysteroid kinase"</title>
+				<polygon class="PF02958" points="211,34 216,28 224,28 224,52 216,52 211,46" stroke-linejoin="round" width="13" height="24" fill="rgb(183,78,99)" stroke="rgb(146,62,79)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4305_9)</title>
+			<polygon class=" (ctg4305_9)" points="230,10 244,40 230,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg4305_10)</title>
+			<polygon class=" (ctg4305_10)" points="361,25 276,25 276,10 246,40 276,70 276,55 361,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQHop_cyclase_C (PF13243)
+"Squalene-hopene cyclase C-terminal domain"</title>
+				<polygon class="PF13243" points="250,40 262,28 280,28 280,52 262,52" stroke-linejoin="round" width="32" height="24" fill="rgb(191,58,201)" stroke="rgb(152,46,160)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SQHop_cyclase_N (PF13249)
+"Squalene-hopene cyclase N-terminal domain"</title>
+				<rect class="PF13249" x="282" y="28" stroke-linejoin="round" width="29" height="24" fill="rgb(88,190,89)" stroke="rgb(70,152,71)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SE (PF08491)
+"Squalene epoxidase"</title>
+				<rect class="PF08491" x="319" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(93,72,221)" stroke="rgb(74,57,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4305_11)</title>
+			<polygon class=" (ctg4305_11)" points="363,40 374,10 374,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg4305_12)</title>
+			<polygon class=" (ctg4305_12)" points="377,40 397,10 397,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg4305_13)</title>
+			<polygon class=" (ctg4305_13)" points="399,10 407,40 399,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg4305_14)</title>
+			<polygon class=" (ctg4305_14)" points="410,10 417,40 410,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

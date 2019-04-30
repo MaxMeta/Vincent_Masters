@@ -1,0 +1,20 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+LytTR                PF04397.15    98 BGC0000486.1_ORF1:gid::pid:AAC69555.2:loc:466:1183:strand:+ -            238   4.3e-15   55.7   0.1   1   1   8.9e-19     8e-15   54.9   0.1     7    96   142   228   136   230 0.92 LytTr DNA-binding domain
+Response_reg         PF00072.24   112 BGC0000486.1_ORF1:gid::pid:AAC69555.2:loc:466:1183:strand:+ -            238   1.5e-10   41.2   0.0   1   1   2.6e-14   2.3e-10   40.6   0.0     1   108     4   114     4   118 0.79 Response regulator receiver domain
+HATPase_c_5          PF14501.6    101 BGC0000486.1_ORF2:gid::pid:AAC69556.1:loc:1341:2514:strand:+ -            390   1.9e-23   82.3   1.4   1   1   1.1e-27   1.9e-23   82.3   1.4     2   100   285   386   284   387 0.94 GHKL domain
+ABC_tran             PF00005.27   137 BGC0000486.1_ORF3:gid:bviB:pid:AAC69557.2:loc:3046:3889:strand:+ -            280   4.9e-24   85.4   0.2   1   1   1.1e-27   9.8e-24   84.4   0.1     5   137    24   158    20   158 0.87 ABC transporter
+ABC2_membrane_5      PF13346.6    206 BGC0000486.1_ORF4:gid:bviC:pid:AAC69558.2:loc:3890:4541:strand:+ -            216   2.1e-27   96.0  26.0   1   1   1.3e-31   2.3e-27   95.9  26.0     1   206     3   211     3   211 0.88 ABC-2 family transporter protein
+BacteriocIIc_cy      PF12173.8     91 BGC0000486.1_ORF6:gid:bviA:pid:AAC69560.1:loc:4777:5020:strand:+ -             80   4.1e-39  132.7   7.8   1   1   2.5e-43   4.4e-39  132.6   7.8    12    91     4    80     1    80 0.97 Bacteriocin class IIc cyclic gassericin A-like
+SpoIIM               PF01944.17   156 BGC0000486.1_ORF7:gid:bviE:pid:AAC69561.2:loc:5120:5621:strand:+ -            166   1.9e-08   34.5  24.5   1   1   1.5e-12   2.6e-08   34.0  24.5     3   156    19   159    17   159 0.82 Stage II sporulation protein M
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000486.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000486.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000486.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:52:38 2019
+# [ok]

@@ -1,0 +1,55 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="193.16666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="183.16666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg19211_1)</title>
+			<polygon class=" (ctg19211_1)" points="46,25 43,25 43,10 13,40 43,70 43,55 46,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="17,40 29,28 44,28 44,52 29,52" stroke-linejoin="round" width="28" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg19211_2)</title>
+			<polygon class=" (ctg19211_2)" points="52,10 61,40 52,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pterin_4a (PF01329)
+"Pterin 4 alpha carbinolamine dehydratase"</title>
+				<polygon class="PF01329" points="52,28 54,28 58,40 54,52 52,52" stroke-linejoin="round" width="8" height="24" fill="rgb(109,209,90)" stroke="rgb(87,167,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg19211_3)</title>
+			<polygon class=" (ctg19211_3)" points="103,25 91,25 91,10 61,40 91,70 91,55 103,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_3 (PF00202)
+"Aminotransferase class-III"</title>
+				<polygon class="PF00202" points="65,40 77,28 100,28 100,52 77,52" stroke-linejoin="round" width="39" height="24" fill="rgb(49,163,189)" stroke="rgb(39,130,151)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg19211_4)</title>
+			<polygon class=" (ctg19211_4)" points="136,25 134,25 134,10 104,40 134,70 134,55 136,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Na_Ca_ex (PF01699)
+"Sodium/calcium exchanger protein"</title>
+				<polygon class="PF01699" points="108,40 118,30 118,50" stroke-linejoin="round" width="14" height="24" fill="rgb(64,189,136)" stroke="rgb(51,151,108)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Na_Ca_ex (PF01699)
+"Sodium/calcium exchanger protein"</title>
+				<rect class="PF01699" x="121" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(64,189,136)" stroke="rgb(51,151,108)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg19211_5)</title>
+			<polygon class=" (ctg19211_5)" points="182,25 166,25 166,10 136,40 166,70 166,55 182,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PHP (PF02811)
+"PHP domain"</title>
+				<polygon class="PF02811" points="140,40 152,28 159,28 159,52 152,52" stroke-linejoin="round" width="21" height="24" fill="rgb(167,87,219)" stroke="rgb(133,69,175)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

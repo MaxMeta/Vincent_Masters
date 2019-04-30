@@ -1,0 +1,37 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MFS_1                PF07690.16   353 BGC0000317.1_ORF1:gid::pid:KFH48645.1:loc:0:1623:strand:- -            482   8.5e-46  156.5  38.7   1   1   9.4e-50   8.5e-46  156.5  38.7     2   352    50   431    49   432 0.85 Major Facilitator Superfamily
+Sugar_tr             PF00083.24   452 BGC0000317.1_ORF1:gid::pid:KFH48645.1:loc:0:1623:strand:- -            482   9.5e-13   47.8   9.9   1   1   1.1e-16   9.5e-13   47.8   9.9    33   191    66   218    36   232 0.81 Sugar (and other) transporter
+AMP-binding          PF00501.28   423 BGC0000317.1_ORF2:gid::pid:KFH48713.1:loc:2579:4743:strand:- -            642   5.7e-64  216.3   0.0   1   1   8.3e-68   7.5e-64  215.9   0.0     1   420    61   491    61   494 0.83 AMP-binding enzyme
+AMP-binding_C        PF13193.6     76 BGC0000317.1_ORF2:gid::pid:KFH48713.1:loc:2579:4743:strand:- -            642   1.1e-06   29.5   0.0   1   1   2.7e-10   2.4e-06   28.4   0.0     1    66   502   571   502   575 0.87 AMP-binding enzyme C-terminal domain
+CoA_transf_3         PF02515.17   368 BGC0000317.1_ORF3:gid::pid:KFH48581.1:loc:6257:7503:strand:+ -            383   6.9e-62  209.7   0.0   1   1   1.5e-65   2.7e-61  207.8   0.0     1   318     9   311     9   320 0.88 CoA-transferase family III
+2OG-FeII_Oxy         PF03171.20   101 BGC0000317.1_ORF4:gid::pid:KFH48817.1:loc:9234:10251:strand:- -            338     2e-14   53.9   0.0   1   1     6e-18   5.4e-14   52.5   0.0     4    99   186   288   183   290 0.84 2OG-Fe(II) oxygenase superfamily
+DIOX_N               PF14226.6    118 BGC0000317.1_ORF4:gid::pid:KFH48817.1:loc:9234:10251:strand:- -            338   4.2e-13   50.1   0.0   1   1   7.5e-17   6.7e-13   49.4   0.0     1   118    11   134    11   134 0.87 non-haem dioxygenase in morphine synthesis N-terminal
+AMP-binding          PF00501.28   423 BGC0000317.1_ORF5:gid::pid:KFH48607.1:loc:11294:22623:strand:+ -           3755  3.7e-267  885.7   0.0   1   3   4.8e-93   1.7e-89  300.3   0.0     1   423   309   724   309   724 0.88 AMP-binding enzyme
+AMP-binding          PF00501.28   423 BGC0000317.1_ORF5:gid::pid:KFH48607.1:loc:11294:22623:strand:+ -           3755  3.7e-267  885.7   0.0   2   3   1.9e-94   6.9e-91  304.9   0.0     1   423  1410  1820  1410  1820 0.88 AMP-binding enzyme
+AMP-binding          PF00501.28   423 BGC0000317.1_ORF5:gid::pid:KFH48607.1:loc:11294:22623:strand:+ -           3755  3.7e-267  885.7   0.0   3   3   5.8e-86   2.1e-82  277.0   0.0     1   423  2484  2890  2484  2890 0.89 AMP-binding enzyme
+Condensation         PF00668.20   457 BGC0000317.1_ORF5:gid::pid:KFH48607.1:loc:11294:22623:strand:+ -           3755  3.7e-246  817.1   0.1   1   3   2.9e-93     1e-89  301.3   0.2     2   456   937  1391   936  1392 0.91 Condensation domain
+Condensation         PF00668.20   457 BGC0000317.1_ORF5:gid::pid:KFH48607.1:loc:11294:22623:strand:+ -           3755  3.7e-246  817.1   0.1   2   3   7.5e-93   2.7e-89  300.0   5.1     5   439  2016  2448  2013  2459 0.87 Condensation domain
+Condensation         PF00668.20   457 BGC0000317.1_ORF5:gid::pid:KFH48607.1:loc:11294:22623:strand:+ -           3755  3.7e-246  817.1   0.1   3   3   2.5e-58   8.8e-55  186.2   0.0     2   448  3094  3519  3093  3527 0.87 Condensation domain
+PP-binding           PF00550.25    67 BGC0000317.1_ORF5:gid::pid:KFH48607.1:loc:11294:22623:strand:+ -           3755   1.6e-44  150.1   0.3   1   3   7.2e-17   2.6e-13   50.1   0.0     2    67   841   906   840   906 0.97 Phosphopantetheine attachment site
+PP-binding           PF00550.25    67 BGC0000317.1_ORF5:gid::pid:KFH48607.1:loc:11294:22623:strand:+ -           3755   1.6e-44  150.1   0.3   2   3   5.7e-18   2.1e-14   53.6   0.0     3    67  1931  1995  1929  1995 0.97 Phosphopantetheine attachment site
+PP-binding           PF00550.25    67 BGC0000317.1_ORF5:gid::pid:KFH48607.1:loc:11294:22623:strand:+ -           3755   1.6e-44  150.1   0.3   3   3   2.2e-14     8e-11   42.1   0.0     1    65  3005  3067  3005  3069 0.95 Phosphopantetheine attachment site
+AMP-binding_C        PF13193.6     76 BGC0000317.1_ORF5:gid::pid:KFH48607.1:loc:11294:22623:strand:+ -           3755   7.5e-27   94.1   0.0   1   2   2.9e-11     1e-07   32.8   0.0     1    76  1828  1903  1828  1903 0.93 AMP-binding enzyme C-terminal domain
+AMP-binding_C        PF13193.6     76 BGC0000317.1_ORF5:gid::pid:KFH48607.1:loc:11294:22623:strand:+ -           3755   7.5e-27   94.1   0.0   2   2   2.8e-12     1e-08   36.1   0.0     1    76  2898  2979  2898  2979 0.89 AMP-binding enzyme C-terminal domain
+Thioesterase         PF00975.20   231 BGC0000317.1_ORF5:gid::pid:KFH48607.1:loc:11294:22623:strand:+ -           3755   1.6e-26   93.8   0.0   1   1   1.4e-29     5e-26   92.2   0.0     2   227  3542  3747  3541  3752 0.78 Thioesterase domain
+2-Hacid_dh_C         PF02826.19   178 BGC0000317.1_ORF6:gid::pid:KFH48730.1:loc:23839:24886:strand:+ -            348   1.6e-56  190.5   0.0   1   1   2.5e-60   2.3e-56  190.0   0.0     2   178   115   300   114   300 0.93 D-isomer specific 2-hydroxyacid dehydrogenase, NAD binding domain
+2-Hacid_dh           PF00389.30   134 BGC0000317.1_ORF6:gid::pid:KFH48730.1:loc:23839:24886:strand:+ -            348   5.5e-34  116.7   0.0   1   1   7.4e-38   6.6e-34  116.4   0.0    20   132    29   330     6   332 0.98 D-isomer specific 2-hydroxyacid dehydrogenase, catalytic domain
+MFS_1                PF07690.16   353 BGC0000317.1_ORF7:gid::pid:KFH48706.1:loc:25134:26881:strand:- -            561   3.5e-43  147.9  32.0   1   1   5.8e-47   3.5e-43  147.9  32.0     2   349    92   471    91   478 0.83 Major Facilitator Superfamily
+TRI12                PF06609.13   599 BGC0000317.1_ORF7:gid::pid:KFH48706.1:loc:25134:26881:strand:- -            561   9.4e-10   37.5   1.9   1   1   2.3e-13   1.4e-09   37.0   1.9    51   231    89   275    63   282 0.80 Fungal trichothecene efflux pump (TRI12)
+Sugar_tr             PF00083.24   452 BGC0000317.1_ORF7:gid::pid:KFH48706.1:loc:25134:26881:strand:- -            561   3.8e-07   29.4  22.3   1   1   2.5e-10   1.5e-06   27.4  22.5    44   434   119   508    80   513 0.68 Sugar (and other) transporter
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000317.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000317.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000317.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:30:42 2019
+# [ok]

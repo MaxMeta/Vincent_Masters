@@ -1,0 +1,30 @@
+#                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ketoacyl-synt        PF00109.26   253 CS203_c00001_NODE_1_...cluster155_ORF1:gid::pid::loc:2:5804:strand:- -           1934   1.7e-79  267.0   0.9   1   1     4e-82     8e-79  264.8   0.4     2   253    24   276    23   276 0.91 Beta-ketoacyl synthase, N-terminal domain
+PS-DH                PF14765.6    298 CS203_c00001_NODE_1_...cluster155_ORF1:gid::pid::loc:2:5804:strand:- -           1934     7e-56  189.6   0.0   1   1   5.7e-59   1.1e-55  188.9   0.0     1   296   955  1250   955  1252 0.90 Polyketide synthase dehydratase
+Acyl_transf_1        PF00698.21   319 CS203_c00001_NODE_1_...cluster155_ORF1:gid::pid::loc:2:5804:strand:- -           1934   2.3e-53  181.8   0.1   1   1   1.8e-56   3.5e-53  181.2   0.1     2   277   587   868   586   893 0.90 Acyl transferase domain
+Ketoacyl-synt_C      PF02801.22   118 CS203_c00001_NODE_1_...cluster155_ORF1:gid::pid::loc:2:5804:strand:- -           1934   1.7e-43  147.4   0.1   1   1   2.7e-46   5.3e-43  145.8   0.1     2   117   285   401   284   402 0.99 Beta-ketoacyl synthase, C-terminal domain
+Methyltransf_12      PF08242.12    99 CS203_c00001_NODE_1_...cluster155_ORF1:gid::pid::loc:2:5804:strand:- -           1934   1.9e-15   57.4   0.0   1   1   3.1e-18   6.2e-15   55.7   0.0     2    99  1485  1585  1484  1585 0.89 Methyltransferase domain
+KAsynt_C_assoc       PF16197.5    112 CS203_c00001_NODE_1_...cluster155_ORF1:gid::pid::loc:2:5804:strand:- -           1934   1.5e-12   47.9   0.0   1   1   2.2e-15   4.5e-12   46.4   0.0     1    87   404   522   404   538 0.85 Ketoacyl-synthetase C-terminal extension
+Methyltransf_25      PF13649.6     97 CS203_c00001_NODE_1_...cluster155_ORF1:gid::pid::loc:2:5804:strand:- -           1934   8.1e-08   32.9   0.0   1   1   1.1e-10   2.3e-07   31.4   0.0     1    97  1483  1583  1483  1583 0.92 Methyltransferase domain
+Methyltransf_23      PF13489.6    165 CS203_c00001_NODE_1_...cluster155_ORF1:gid::pid::loc:2:5804:strand:- -           1934   5.6e-08   32.8   0.0   1   1   6.7e-11   1.3e-07   31.6   0.0     7   163  1462  1638  1456  1640 0.65 Methyltransferase domain
+Methyltransf_11      PF08241.12    96 CS203_c00001_NODE_1_...cluster155_ORF1:gid::pid::loc:2:5804:strand:- -           1934   1.5e-05   25.5   0.0   1   1   2.2e-08   4.4e-05   24.0   0.0     2    95  1485  1586  1484  1587 0.89 Methyltransferase domain
+TonB_dep_Rec         PF00593.24   470 CS203_c00001_NODE_1_...cluster155_ORF3:gid::pid::loc:6629:9587:strand:+ -            985   2.3e-31  110.2  19.1   1   2   5.1e-14   2.3e-10   41.0  11.7    52   244   317   521   245   574 0.63 TonB dependent receptor
+TonB_dep_Rec         PF00593.24   470 CS203_c00001_NODE_1_...cluster155_ORF3:gid::pid::loc:6629:9587:strand:+ -            985   2.3e-31  110.2  19.1   2   2     1e-23   4.7e-20   72.9   0.7   247   464   688   978   638   984 0.81 TonB dependent receptor
+CarboxypepD_reg      PF13620.6     82 CS203_c00001_NODE_1_...cluster155_ORF3:gid::pid::loc:6629:9587:strand:+ -            985   7.1e-18   64.7   1.0   1   1   5.5e-21   2.5e-17   62.9   1.0     2    81    24   102    23   103 0.97 Carboxypeptidase regulatory-like domain
+Plug                 PF07715.15   108 CS203_c00001_NODE_1_...cluster155_ORF3:gid::pid::loc:6629:9587:strand:+ -            985   1.2e-16   61.3   1.2   1   1   5.9e-20   2.6e-16   60.1   0.5     3   108   124   232   122   232 0.85 TonB-dependent Receptor Plug Domain
+CarbopepD_reg_2      PF13715.6     88 CS203_c00001_NODE_1_...cluster155_ORF3:gid::pid::loc:6629:9587:strand:+ -            985   3.7e-13   49.3   1.4   1   1   9.5e-17   4.3e-13   49.1   0.3     1    88    24   114    24   114 0.87 CarboxypepD_reg-like domain
+ADP_ribosyl_GH       PF03747.14   291 CS203_c00001_NODE_1_...cluster155_ORF4:gid::pid::loc:9658:10666:strand:+ -            335   6.4e-60  203.4  10.9   1   1   4.5e-64   8.2e-60  203.0  10.9     1   289    35   299    35   301 0.89 ADP-ribosylglycohydrolase
+tRNA-synt_1b         PF00579.25   293 CS203_c00001_NODE_1_...cluster155_ORF5:gid::pid::loc:10673:11777:strand:- -            367   7.6e-76  255.2   0.0   1   1   5.5e-80   9.9e-76  254.8   0.0     5   292     9   293     5   294 0.96 tRNA synthetases class I (W and Y)
+ALAD                 PF00490.21   317 CS203_c00001_NODE_1_...cluster155_ORF6:gid::pid::loc:12035:13028:strand:- -            330  7.1e-140  465.7   0.0   1   1  4.5e-144    8e-140  465.5   0.0     2   316     5   324     4   325 0.98 Delta-aminolevulinic acid dehydratase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS203_c00001_NODE_1_...cluster155.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS203_c00001_NODE_1_...cluster155.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS203_c00001_NODE_1_...cluster155.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:39:25 2019
+# [ok]

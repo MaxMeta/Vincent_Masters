@@ -1,0 +1,33 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.28   423 BGC0000064.1_ORF1:gid:fusA:pid:AAT28740.1:loc:0:11857:strand:+ -           3733   1.3e-80  271.1   0.0   1   1   2.3e-83     2e-80  270.4   0.0     2   422  2792  3203  2791  3204 0.86 AMP-binding enzyme
+ketoacyl-synt        PF00109.26   253 BGC0000064.1_ORF1:gid:fusA:pid:AAT28740.1:loc:0:11857:strand:+ -           3733   6.5e-76  255.2   0.0   1   1   1.7e-78   1.5e-75  254.0   0.0     2   253    10   260     9   260 0.97 Beta-ketoacyl synthase, N-terminal domain
+Condensation         PF00668.20   457 BGC0000064.1_ORF1:gid:fusA:pid:AAT28740.1:loc:0:11857:strand:+ -           3733   3.7e-63  213.8   0.7   1   1     7e-66   6.2e-63  213.0   0.7     6   445  2340  2759  2336  2767 0.87 Condensation domain
+PS-DH                PF14765.6    298 BGC0000064.1_ORF1:gid:fusA:pid:AAT28740.1:loc:0:11857:strand:+ -           3733     1e-62  212.1   0.1   1   1   1.9e-65   1.7e-62  211.3   0.1     1   294   935  1228   935  1232 0.95 Polyketide synthase dehydratase
+KR                   PF08659.10   180 BGC0000064.1_ORF1:gid:fusA:pid:AAT28740.1:loc:0:11857:strand:+ -           3733   4.7e-54  183.0   1.6   1   1   3.3e-56   2.9e-53  180.4   0.5     2   178  1910  2084  1909  2086 0.98 KR domain
+Acyl_transf_1        PF00698.21   319 BGC0000064.1_ORF1:gid:fusA:pid:AAT28740.1:loc:0:11857:strand:+ -           3733   2.6e-44  152.0   0.1   1   1   1.1e-46   9.6e-44  150.2   0.0     3   304   548   869   547   884 0.85 Acyl transferase domain
+NAD_binding_4        PF07993.12   257 BGC0000064.1_ORF1:gid:fusA:pid:AAT28740.1:loc:0:11857:strand:+ -           3733   1.3e-43  149.1   0.0   1   1   2.6e-45   2.3e-42  145.0   0.0     1   255  3430  3651  3430  3653 0.89 Male sterility protein
+Ketoacyl-synt_C      PF02801.22   118 BGC0000064.1_ORF1:gid:fusA:pid:AAT28740.1:loc:0:11857:strand:+ -           3733   1.1e-31  109.2   0.0   1   1   2.8e-34   2.5e-31  108.1   0.0     2   115   269   386   268   389 0.97 Beta-ketoacyl synthase, C-terminal domain
+PP-binding           PF00550.25    67 BGC0000064.1_ORF1:gid:fusA:pid:AAT28740.1:loc:0:11857:strand:+ -           3733   3.5e-19   68.9   0.4   1   2   1.1e-08   9.5e-06   25.9   0.2     2    65  2198  2261  2197  2263 0.94 Phosphopantetheine attachment site
+PP-binding           PF00550.25    67 BGC0000064.1_ORF1:gid:fusA:pid:AAT28740.1:loc:0:11857:strand:+ -           3733   3.5e-19   68.9   0.4   2   2   3.1e-13   2.8e-10   40.4   0.0     6    66  3323  3383  3318  3384 0.91 Phosphopantetheine attachment site
+Methyltransf_12      PF08242.12    99 BGC0000064.1_ORF1:gid:fusA:pid:AAT28740.1:loc:0:11857:strand:+ -           3733   3.7e-18   66.1   0.0   1   1   1.5e-20   1.3e-17   64.3   0.0     1    99  1408  1509  1408  1509 0.89 Methyltransferase domain
+KAsynt_C_assoc       PF16197.5    112 BGC0000064.1_ORF1:gid:fusA:pid:AAT28740.1:loc:0:11857:strand:+ -           3733   8.4e-16   58.4   0.0   1   1   3.6e-18   3.2e-15   56.5   0.0    12   110   401   507   392   508 0.92 Ketoacyl-synthetase C-terminal extension
+Methyltransf_23      PF13489.6    165 BGC0000064.1_ORF1:gid:fusA:pid:AAT28740.1:loc:0:11857:strand:+ -           3733   1.2e-15   57.7   0.0   1   1   3.4e-18   3.1e-15   56.4   0.0    19   163  1400  1562  1385  1572 0.75 Methyltransferase domain
+Epimerase            PF01370.21   241 BGC0000064.1_ORF1:gid:fusA:pid:AAT28740.1:loc:0:11857:strand:+ -           3733   1.4e-15   57.4   0.0   1   1   4.4e-15   3.9e-12   46.1   0.0     2   193  3429  3628  3428  3654 0.77 NAD dependent epimerase/dehydratase family
+adh_short            PF00106.25   195 BGC0000064.1_ORF1:gid:fusA:pid:AAT28740.1:loc:0:11857:strand:+ -           3733   3.8e-15   55.8   0.7   1   1   6.6e-17   5.9e-14   52.0   0.2     1   182  1909  2084  1909  2094 0.88 short chain dehydrogenase
+Methyltransf_25      PF13649.6     97 BGC0000064.1_ORF1:gid:fusA:pid:AAT28740.1:loc:0:11857:strand:+ -           3733   4.9e-11   43.2   0.0   1   1   6.8e-13   6.1e-10   39.7   0.0     1    97  1407  1507  1407  1507 0.86 Methyltransferase domain
+3Beta_HSD            PF01073.19   280 BGC0000064.1_ORF1:gid:fusA:pid:AAT28740.1:loc:0:11857:strand:+ -           3733   3.6e-10   39.3   0.0   1   1     8e-09   7.2e-06   25.2   0.0     2   141  3430  3568  3429  3660 0.75 3-beta hydroxysteroid dehydrogenase/isomerase family
+Methyltransf_11      PF08241.12    96 BGC0000064.1_ORF1:gid:fusA:pid:AAT28740.1:loc:0:11857:strand:+ -           3733   8.3e-09   36.0   0.0   1   1     3e-11   2.7e-08   34.4   0.0     1    95  1408  1510  1408  1511 0.86 Methyltransferase domain
+Ubie_methyltran      PF01209.18   233 BGC0000064.1_ORF1:gid:fusA:pid:AAT28740.1:loc:0:11857:strand:+ -           3733   7.4e-05   22.2   0.0   1   1   2.1e-07   0.00018   20.9   0.0    30   156  1385  1516  1362  1531 0.80 ubiE/COQ5 methyltransferase family
+Methyltransf_16      PF10294.9    174 BGC0000064.1_ORF1:gid:fusA:pid:AAT28740.1:loc:0:11857:strand:+ -           3733   0.00014   21.7   0.0   1   1   3.6e-07   0.00032   20.5   0.0    31   154  1390  1510  1383  1516 0.80 Lysine methyltransferase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000064.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000064.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000064.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:38:21 2019
+# [ok]

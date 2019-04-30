@@ -1,0 +1,349 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1276.5333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="1266.5333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (BTH_I2260)
+carbohydrate kinase, PfkB family</title>
+			<polygon class=" (BTH_I2260)
+carbohydrate kinase, PfkB family" points="12,25 12,25 12,10 42,40 12,70 12,55 12,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PfkB (PF00294)
+"pfkB family carbohydrate kinase"</title>
+				<polygon class="PF00294" points="12,28 26,28 38,40 26,52 12,52" stroke-linejoin="round" width="29" height="24" fill="rgb(153,96,212)" stroke="rgb(122,76,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (BTH_I2261)
+beta-ketothiolase</title>
+			<polygon class=" (BTH_I2261)
+beta-ketothiolase" points="46,25 55,25 55,10 85,40 55,70 55,55 46,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Thiolase_N (PF00108)
+"Thiolase, N-terminal domain"</title>
+				<polygon class="PF00108" points="46,28 69,28 71,30 71,50 69,52 46,52" stroke-linejoin="round" width="25" height="24" fill="rgb(82,90,195)" stroke="rgb(65,72,156)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Thiolase_C (PF02803)
+"Thiolase, C-terminal domain"</title>
+				<polygon class="PF02803" points="73,32 81,40 73,48" stroke-linejoin="round" width="12" height="24" fill="rgb(218,187,56)" stroke="rgb(174,149,44)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (BTH_I2262)
+hypothetical protein</title>
+			<polygon class=" (BTH_I2262)
+hypothetical protein" points="86,10 106,40 86,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>metC (BTH_I2263)
+cystathionine beta-lyase</title>
+			<polygon class="metC (BTH_I2263)
+cystathionine beta-lyase" points="115,25 124,25 124,10 154,40 124,70 124,55 115,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cys_Met_Meta_PP (PF01053)
+"Cys/Met metabolism PLP-dependent enzyme"</title>
+				<polygon class="PF01053" points="116,28 138,28 150,40 138,52 116,52" stroke-linejoin="round" width="37" height="24" fill="rgb(142,222,85)" stroke="rgb(113,177,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (BTH_I2264)
+phosphoserine phosphatase</title>
+			<polygon class=" (BTH_I2264)
+phosphoserine phosphatase" points="162,40 190,10 190,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HAD (PF12710)
+"haloacid dehalogenase-like hydrolase"</title>
+				<polygon class="PF12710" points="166,40 177,28 182,28 182,52 177,52" stroke-linejoin="round" width="17" height="24" fill="rgb(181,59,119)" stroke="rgb(144,47,95)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DUF4072 (PF13284)
+"Domain of unknown function (DUF4072)"</title>
+				<rect class="PF13284" x="185" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(93,87,184)" stroke="rgb(74,69,147)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (BTH_I2265)
+conserved hypothetical protein</title>
+			<polygon class=" (BTH_I2265)
+conserved hypothetical protein" points="212,10 230,40 212,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (BTH_I2266)
+membrane protein, putative</title>
+			<polygon class=" (BTH_I2266)
+membrane protein, putative" points="240,40 267,10 267,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>UPF0014 (PF03649)
+"Uncharacterised protein family (UPF0014)"</title>
+				<polygon class="PF03649" points="244,40 255,28 266,28 266,52 255,52" stroke-linejoin="round" width="24" height="24" fill="rgb(208,153,93)" stroke="rgb(166,122,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (BTH_I2267)
+ABC transporter, ATP-binding protein</title>
+			<polygon class=" (BTH_I2267)
+ABC transporter, ATP-binding protein" points="267,40 294,10 294,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="273,38 282,28 287,28 287,52 282,52 273,42" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (BTH_I2268)
+AsmA family protein</title>
+			<polygon class=" (BTH_I2268)
+AsmA family protein" points="295,25 346,25 346,10 376,40 346,70 346,55 295,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AsmA (PF05170)
+"AsmA family"</title>
+				<polygon class="PF05170" points="295,28 360,28 365,33 365,47 360,52 295,52" stroke-linejoin="round" width="70" height="24" fill="rgb(208,59,109)" stroke="rgb(166,47,87)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (BTH_I2269)
+ABC transporter, ATP-binding protein</title>
+			<polygon class=" (BTH_I2269)
+ABC transporter, ATP-binding protein" points="391,25 414,25 414,10 444,40 414,70 414,55 391,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<rect class="PF00005" x="392" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran_Xtn (PF12848)
+"ABC transporter"</title>
+				<rect class="PF12848" x="413" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(54,177,199)" stroke="rgb(43,141,159)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="424,28 427,28 437,38 437,42 427,52 424,52" stroke-linejoin="round" width="13" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (BTH_I2270)
+outer membrane porin OpcP</title>
+			<polygon class=" (BTH_I2270)
+outer membrane porin OpcP" points="498,25 490,25 490,10 460,40 490,70 490,55 498,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Porin_4 (PF13609)
+"Gram-negative porin"</title>
+				<polygon class="PF13609" points="464,40 476,28 496,28 496,52 476,52" stroke-linejoin="round" width="33" height="24" fill="rgb(217,146,63)" stroke="rgb(173,116,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (BTH_I2271)
+aldehyde dehydrogenase</title>
+			<polygon class=" (BTH_I2271)
+aldehyde dehydrogenase" points="504,25 523,25 523,10 553,40 523,70 523,55 504,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aldedh (PF00171)
+"Aldehyde dehydrogenase family"</title>
+				<polygon class="PF00171" points="507,28 537,28 549,40 537,52 507,52" stroke-linejoin="round" width="45" height="24" fill="rgb(105,213,139)" stroke="rgb(84,170,111)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (BTH_I2272)
+oxidoreductase, 2-nitropropane dioxygenase family</title>
+			<polygon class=" (BTH_I2272)
+oxidoreductase, 2-nitropropane dioxygenase family" points="558,25 570,25 570,10 600,40 570,70 570,55 558,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NMO (PF03060)
+"Nitronate monooxygenase"</title>
+				<polygon class="PF03060" points="562,28 584,28 596,40 584,52 562,52" stroke-linejoin="round" width="36" height="24" fill="rgb(100,193,226)" stroke="rgb(80,154,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (BTH_I2273)
+outer membrane protein, OmpW family</title>
+			<polygon class=" (BTH_I2273)
+outer membrane protein, OmpW family" points="603,10 624,40 603,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>OmpW (PF03922)
+"OmpW family"</title>
+				<polygon class="PF03922" points="606,28 612,28 620,40 612,52 606,52" stroke-linejoin="round" width="17" height="24" fill="rgb(62,138,201)" stroke="rgb(49,110,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (BTH_I2274)
+Protein of unknown function (DUF1289) family</title>
+			<polygon class=" (BTH_I2274)
+Protein of unknown function (DUF1289) family" points="628,40 636,10 636,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1289 (PF06945)
+"Protein of unknown function (DUF1289)"</title>
+				<polygon class="PF06945" points="631,40 633,32 633,48" stroke-linejoin="round" width="4" height="24" fill="rgb(84,199,130)" stroke="rgb(67,159,104)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (BTH_I2275)
+manganese/iron transporter, NRAMP family</title>
+			<polygon class=" (BTH_I2275)
+manganese/iron transporter, NRAMP family" points="693,25 671,25 671,10 641,40 671,70 671,55 693,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Nramp (PF01566)
+"Natural resistance-associated macrophage protein"</title>
+				<polygon class="PF01566" points="645,40 657,28 678,28 678,52 657,52" stroke-linejoin="round" width="35" height="24" fill="rgb(155,80,205)" stroke="rgb(123,64,164)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (BTH_I2276)
+putrescine ABC transporter, periplasmic putrescine-binding protein</title>
+			<polygon class=" (BTH_I2276)
+putrescine ABC transporter, periplasmic putrescine-binding protein" points="697,25 703,25 703,10 733,40 703,70 703,55 697,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SBP_bac_8 (PF13416)
+"Bacterial extracellular solute-binding protein"</title>
+				<polygon class="PF13416" points="701,28 717,28 729,40 717,52 701,52" stroke-linejoin="round" width="29" height="24" fill="rgb(66,211,58)" stroke="rgb(52,168,46)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (BTH_I2277)
+putrescine ABC transporter, ATP-binding protein</title>
+			<polygon class=" (BTH_I2277)
+putrescine ABC transporter, ATP-binding protein" points="737,25 745,25 745,10 775,40 745,70 745,55 737,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<rect class="PF00005" x="741" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TOBE_2 (PF08402)
+"TOBE domain"</title>
+				<polygon class="PF08402" points="767,36 771,40 767,44" stroke-linejoin="round" width="8" height="24" fill="rgb(70,123,193)" stroke="rgb(56,98,154)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (BTH_I2278)
+putrescine ABC transporter, permease protein</title>
+			<polygon class=" (BTH_I2278)
+putrescine ABC transporter, permease protein" points="775,25 776,25 776,10 806,40 776,70 776,55 775,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BPD_transp_1 (PF00528)
+"Binding-protein-dependent transport system inner membrane component"</title>
+				<polygon class="PF00528" points="785,28 789,28 801,40 789,52 785,52" stroke-linejoin="round" width="20" height="24" fill="rgb(77,208,225)" stroke="rgb(61,166,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (BTH_I2279)
+putrescine ABC transporter, permease protein</title>
+			<polygon class=" (BTH_I2279)
+putrescine ABC transporter, permease protein" points="806,10 833,40 806,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BPD_transp_1 (PF00528)
+"Binding-protein-dependent transport system inner membrane component"</title>
+				<polygon class="PF00528" points="813,28 817,28 829,40 817,52 813,52" stroke-linejoin="round" width="19" height="24" fill="rgb(77,208,225)" stroke="rgb(61,166,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (BTH_I2280)
+membrane protein, putative</title>
+			<polygon class=" (BTH_I2280)
+membrane protein, putative" points="840,40 866,10 866,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TauE (PF01925)
+"Sulfite exporter TauE/SafE"</title>
+				<polygon class="PF01925" points="844,40 855,28 865,28 865,52 855,52" stroke-linejoin="round" width="25" height="24" fill="rgb(105,203,95)" stroke="rgb(84,162,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (BTH_I2281)
+pyridine nucleotide-disulphide oxidoreductase</title>
+			<polygon class=" (BTH_I2281)
+pyridine nucleotide-disulphide oxidoreductase" points="924,25 899,25 899,10 869,40 899,70 899,55 924,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pyr_redox_2 (PF07992)
+"Pyridine nucleotide-disulphide oxidoreductase"</title>
+				<polygon class="PF07992" points="878,35 885,28 909,28 909,52 885,52 878,45" stroke-linejoin="round" width="31" height="24" fill="rgb(83,223,167)" stroke="rgb(66,178,133)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DUF442 (PF04273)
+"Putative phosphatase (DUF442)"</title>
+				<rect class="PF04273" x="913" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(73,189,97)" stroke="rgb(58,151,77)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (BTH_I2282)
+metallo-beta-lactamase family protein</title>
+			<polygon class=" (BTH_I2282)
+metallo-beta-lactamase family protein" points="926,40 955,10 955,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lactamase_B (PF00753)
+"Metallo-beta-lactamase superfamily"</title>
+				<polygon class="PF00753" points="940,30 942,28 954,28 954,52 942,52 940,50" stroke-linejoin="round" width="14" height="24" fill="rgb(206,198,96)" stroke="rgb(164,158,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (BTH_I2283)
+sigma-54 dependent transcriptional regulator</title>
+			<polygon class=" (BTH_I2283)
+sigma-54 dependent transcriptional regulator" points="964,25 979,25 979,10 1009,40 979,70 979,55 964,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PAS_4 (PF08448)
+"PAS fold"</title>
+				<rect class="PF08448" x="966" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(50,90,192)" stroke="rgb(40,71,153)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Sigma54_activat (PF00158)
+"Sigma-54 interaction domain"</title>
+				<polygon class="PF00158" points="978,28 992,28 994,30 994,50 992,52 978,52" stroke-linejoin="round" width="16" height="24" fill="rgb(101,145,216)" stroke="rgb(80,115,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (BTH_I2284)
+conserved hypothetical protein</title>
+			<polygon class=" (BTH_I2284)
+conserved hypothetical protein" points="1016,10 1034,40 1016,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2975 (PF11188)
+"Protein of unknown function (DUF2975)"</title>
+				<polygon class="PF11188" points="1016,28 1023,28 1031,40 1023,52 1016,52" stroke-linejoin="round" width="17" height="24" fill="rgb(62,193,110)" stroke="rgb(49,154,88)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (BTH_I2285)
+transcription regulator, Cro/CI family -related protein</title>
+			<polygon class=" (BTH_I2285)
+transcription regulator, Cro/CI family -related protein" points="1035,10 1042,40 1035,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_26 (PF13443)
+"Cro/C1-type HTH DNA-binding domain"</title>
+				<polygon class="PF13443" points="1035,28 1035,28 1039,40 1035,52 1035,52" stroke-linejoin="round" width="6" height="24" fill="rgb(210,216,86)" stroke="rgb(168,172,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (BTH_I2286)
+conserved hypothetical protein</title>
+			<polygon class=" (BTH_I2286)
+conserved hypothetical protein" points="1043,10 1069,40 1043,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (BTH_I2287)
+RND efflux system, outer membrane lipoprotein, NodT family</title>
+			<polygon class=" (BTH_I2287)
+RND efflux system, outer membrane lipoprotein, NodT family" points="1125,25 1102,25 1102,10 1072,40 1102,70 1102,55 1125,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>OEP (PF02321)
+"Outer membrane efflux protein"</title>
+				<polygon class="PF02321" points="1076,40 1088,28 1094,28 1094,52 1088,52 1076,40" stroke-linejoin="round" width="18" height="24" fill="rgb(205,57,201)" stroke="rgb(164,45,160)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>OEP (PF02321)
+"Outer membrane efflux protein"</title>
+				<rect class="PF02321" x="1096" y="28" stroke-linejoin="round" width="19" height="24" fill="rgb(205,57,201)" stroke="rgb(164,45,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (BTH_I2288)
+AcrB/AcrD/AcrF family protein</title>
+			<polygon class=" (BTH_I2288)
+AcrB/AcrD/AcrF family protein" points="1231,25 1156,25 1156,10 1126,40 1156,70 1156,55 1231,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ACR_tran (PF00873)
+"AcrB/AcrD/AcrF family"</title>
+				<polygon class="PF00873" points="1130,40 1142,28 1230,28 1230,52 1142,52" stroke-linejoin="round" width="102" height="24" fill="rgb(63,191,60)" stroke="rgb(50,152,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

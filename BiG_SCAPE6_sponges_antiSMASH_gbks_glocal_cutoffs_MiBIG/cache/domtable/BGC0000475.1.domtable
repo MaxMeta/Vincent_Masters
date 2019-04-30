@@ -1,0 +1,24 @@
+#                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+PatG_C               PF18065.1    115 BGC0000475.1_ORF1:gid:patA:pid:AAY21150.1:loc:226:2335:strand:+ -            702   6.2e-39  132.5   0.0   1   1   1.7e-42     1e-38  131.8   0.0     4   115   587   698   584   698 0.98 PatG C-terminal
+Peptidase_S8         PF00082.22   298 BGC0000475.1_ORF1:gid:patA:pid:AAY21150.1:loc:226:2335:strand:+ -            702   5.5e-35  121.1   0.0   1   1     2e-38   1.2e-34  120.0   0.0     3   282    16   256    14   269 0.86 Subtilase family
+PatG_D               PF18047.1    111 BGC0000475.1_ORF1:gid:patA:pid:AAY21150.1:loc:226:2335:strand:+ -            702   3.7e-27   94.9   0.0   1   1   1.1e-30   6.6e-27   94.1   0.0     1   111   426   540   426   540 0.98 PatG Domain
+YcaO                 PF02624.16   323 BGC0000475.1_ORF4:gid:patD:pid:AAY21153.1:loc:3269:5624:strand:+ -            784   5.3e-94  315.1   0.0   1   1   4.2e-98   7.6e-94  314.6   0.0     1   323   415   747   415   747 0.94 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+PatG_C               PF18065.1    115 BGC0000475.1_ORF7:gid:patG:pid:AAY21156.1:loc:7225:10801:strand:+ -           1191   8.6e-34  116.0   0.0   1   1   4.6e-37   1.7e-33  115.0   0.0     3   115  1069  1181  1067  1181 0.98 PatG C-terminal
+HTH_57               PF18679.1    108 BGC0000475.1_ORF7:gid:patG:pid:AAY21156.1:loc:7225:10801:strand:+ -           1191   5.7e-32  110.2   0.0   1   1     4e-35   1.4e-31  109.0   0.0     3   108    10   116     8   116 0.96 ThcOx helix turn helix domain
+PatG_D               PF18047.1    111 BGC0000475.1_ORF7:gid:patG:pid:AAY21156.1:loc:7225:10801:strand:+ -           1191   2.1e-23   82.9   0.0   1   1   1.5e-26   5.3e-23   81.6   0.0     2   108   923  1022   922  1026 0.97 PatG Domain
+Peptidase_S8         PF00082.22   298 BGC0000475.1_ORF7:gid:patG:pid:AAY21156.1:loc:7225:10801:strand:+ -           1191   6.2e-21   74.9   0.0   1   1   2.7e-24   9.6e-21   74.3   0.0    50   283   604   822   510   861 0.78 Subtilase family
+Nitroreductase       PF00881.24   170 BGC0000475.1_ORF7:gid:patG:pid:AAY21156.1:loc:7225:10801:strand:+ -           1191   5.9e-11   42.7   0.0   1   1   3.1e-14   1.1e-10   41.8   0.0     1   164   276   474   276   480 0.86 Nitroreductase family
+FAD_binding_7        PF03441.14   202 BGC0000475.1_ORF8:gid::pid:AAY21157.1:loc:11027:12455:strand:- -            475   1.8e-81  272.5   3.2   1   1   2.7e-85   2.4e-81  272.0   3.2     1   201   280   471   280   472 0.95 FAD binding domain of DNA photolyase
+DNA_photolyase       PF00875.18   164 BGC0000475.1_ORF8:gid::pid:AAY21157.1:loc:11027:12455:strand:- -            475   1.3e-48  165.1   0.0   1   1   3.1e-52   2.8e-48  164.0   0.0     2   158     6   162     5   171 0.94 DNA photolyase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000475.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000475.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000475.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:34:34 2019
+# [ok]

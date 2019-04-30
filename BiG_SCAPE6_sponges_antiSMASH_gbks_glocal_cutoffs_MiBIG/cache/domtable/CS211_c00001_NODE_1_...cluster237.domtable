@@ -1,0 +1,26 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+FMO-like             PF00743.19   532 CS211_c00001_NODE_1_...cluster237_ORF1:gid::pid::loc:2:968:strand:- -            322   3.1e-15   55.6   0.0   1   1   2.4e-18   7.3e-15   54.4   0.0     5   215    20   219    17   228 0.79 Flavin-binding monooxygenase-like
+Pyr_redox_3          PF13738.6    305 CS211_c00001_NODE_1_...cluster237_ORF1:gid::pid::loc:2:968:strand:- -            322   5.5e-15   55.4   0.0   1   1   7.2e-18   2.1e-14   53.5   0.0     1   202    20   225    20   262 0.78 Pyridine nucleotide-disulphide oxidoreductase
+Pyr_redox_2          PF07992.14   294 CS211_c00001_NODE_1_...cluster237_ORF1:gid::pid::loc:2:968:strand:- -            322   4.3e-10   39.3   0.0   1   1   2.9e-13   8.7e-10   38.3   0.0     2   206    18   254    17   270 0.72 Pyridine nucleotide-disulphide oxidoreductase
+NAD_binding_8        PF13450.6     68 CS211_c00001_NODE_1_...cluster237_ORF1:gid::pid::loc:2:968:strand:- -            322   8.7e-10   38.7   0.1   1   1   5.8e-11   1.7e-07   31.3   0.3     1    52    21    72    21    85 0.91 NAD(P)-binding Rossmann-like domain
+K_oxygenase          PF13434.6    342 CS211_c00001_NODE_1_...cluster237_ORF1:gid::pid::loc:2:968:strand:- -            322   9.9e-06   24.9   0.1   1   1   6.2e-09   1.9e-05   24.0   0.0    90   252    89   242    69   283 0.77 L-lysine 6-monooxygenase (NADPH-requiring)
+Ectoine_synth        PF06339.12   127 CS211_c00001_NODE_1_...cluster237_ORF2:gid::pid::loc:1167:2001:strand:+ -            277   6.8e-67  223.5   0.0   1   2   7.1e-35   6.3e-31  107.2   0.0     1   125     1   129     1   131 0.93 Ectoine synthase
+Ectoine_synth        PF06339.12   127 CS211_c00001_NODE_1_...cluster237_ORF2:gid::pid::loc:1167:2001:strand:+ -            277   6.8e-67  223.5   0.0   2   2   3.5e-37   3.2e-33  114.6   0.0     1   125   140   266   140   268 0.97 Ectoine synthase
+adh_short            PF00106.25   195 CS211_c00001_NODE_1_...cluster237_ORF4:gid::pid::loc:2708:3020:strand:- -            103   9.6e-10   38.2   0.3   1   1   5.9e-14   1.1e-09   38.1   0.3     1    46     9    55     9    74 0.87 short chain dehydrogenase
+DAO                  PF01266.24   352 CS211_c00001_NODE_1_...cluster237_ORF5:gid::pid::loc:3477:4779:strand:+ -            433   6.1e-47  160.9   0.9   1   1   1.2e-50   7.1e-47  160.7   0.9     2   352    35   389    34   389 0.83 FAD dependent oxidoreductase
+FAD_binding_2        PF00890.24   417 CS211_c00001_NODE_1_...cluster237_ORF5:gid::pid::loc:3477:4779:strand:+ -            433   1.2e-07   31.2   2.5   1   1   9.9e-11   5.9e-07   28.9   1.0     2    46    35    79    34    89 0.95 FAD binding domain
+NAD_binding_8        PF13450.6     68 CS211_c00001_NODE_1_...cluster237_ORF5:gid::pid::loc:3477:4779:strand:+ -            433   1.4e-06   28.4   0.2   1   1     7e-10   4.2e-06   26.9   0.1     1    55    37    94    37   108 0.82 NAD(P)-binding Rossmann-like domain
+Ribonuc_L-PSP        PF01042.21   121 CS211_c00001_NODE_1_...cluster237_ORF6:gid::pid::loc:4939:5335:strand:+ -            131   6.4e-18   64.9   0.0   1   1   4.3e-22   7.8e-18   64.6   0.0    18   120    27   130    21   131 0.93 Endoribonuclease L-PSP
+Bac_luciferase       PF00296.20   314 CS211_c00001_NODE_1_...cluster237_ORF7:gid::pid::loc:5342:6185:strand:- -            280   9.6e-48  163.2   0.1   1   1   6.7e-52   1.2e-47  162.9   0.1    21   241    15   240     2   276 0.89 Luciferase-like monooxygenase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster237.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS211_c00001_NODE_1_...cluster237.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster237.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:51:48 2019
+# [ok]

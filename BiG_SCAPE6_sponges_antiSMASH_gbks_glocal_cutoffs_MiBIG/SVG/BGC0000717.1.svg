@@ -1,0 +1,916 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="3040.0" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="3030.0" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (SG11H8.1)
+conserved hypothetical protein</title>
+			<polygon class=" (SG11H8.1)
+conserved hypothetical protein" points="18,10 43,40 18,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SseB (PF07179)
+"SseB protein N-terminal domain"</title>
+				<polygon class="PF07179" points="20,28 30,28 33,32 33,48 30,52 20,52" stroke-linejoin="round" width="13" height="24" fill="rgb(221,181,60)" stroke="rgb(176,144,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SG11H8.2)
+putative aquaporin Z</title>
+			<polygon class=" (SG11H8.2)
+putative aquaporin Z" points="46,10 71,40 46,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MIP (PF00230)
+"Major intrinsic protein"</title>
+				<polygon class="PF00230" points="46,28 57,28 67,40 57,52 46,52" stroke-linejoin="round" width="22" height="24" fill="rgb(105,207,228)" stroke="rgb(84,165,182)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SG11H8.3c)
+conserved hypothetical protein</title>
+			<polygon class=" (SG11H8.3c)
+conserved hypothetical protein" points="74,40 86,10 86,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (SG11H8.4)
+translation initiation factor IF-3</title>
+			<polygon class=" (SG11H8.4)
+translation initiation factor IF-3" points="98,10 121,40 98,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>IF3_N (PF05198)
+"Translation initiation factor IF-3, N-terminal domain"</title>
+				<rect class="PF05198" x="100" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(226,105,214)" stroke="rgb(180,83,171)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>IF3_C (PF00707)
+"Translation initiation factor IF-3, C-terminal domain"</title>
+				<polygon class="PF00707" points="108,28 108,28 116,38 116,42 108,52 108,52" stroke-linejoin="round" width="8" height="24" fill="rgb(122,214,90)" stroke="rgb(97,171,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SG11H8.5)
+ribosomal protein L35</title>
+			<polygon class=" (SG11H8.5)
+ribosomal protein L35" points="125,10 131,40 125,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ribosomal_L35p (PF01632)
+"Ribosomal protein L35"</title>
+				<polygon class="PF01632" points="125,28 125,28 128,40 125,52 125,52" stroke-linejoin="round" width="6" height="24" fill="rgb(87,201,54)" stroke="rgb(69,160,43)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SG11H8.6)
+ribosomal protein L20</title>
+			<polygon class=" (SG11H8.6)
+ribosomal protein L20" points="136,10 148,40 136,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ribosomal_L20 (PF00453)
+"Ribosomal protein L20"</title>
+				<polygon class="PF00453" points="136,28 140,28 145,40 140,52 136,52" stroke-linejoin="round" width="10" height="24" fill="rgb(221,85,111)" stroke="rgb(176,67,88)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SG11H8.7)
+putative rRNA methylase</title>
+			<polygon class=" (SG11H8.7)
+putative rRNA methylase" points="150,25 150,25 150,10 180,40 150,70 150,55 150,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SpoU_sub_bind (PF08032)
+"RNA 2'-O ribose methyltransferase substrate binding"</title>
+				<rect class="PF08032" x="156" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(99,204,143)" stroke="rgb(79,163,114)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SpoU_methylase (PF00588)
+"SpoU rRNA Methylase family"</title>
+				<polygon class="PF00588" points="164,28 164,28 176,40 164,52 164,52" stroke-linejoin="round" width="14" height="24" fill="rgb(84,205,178)" stroke="rgb(67,164,142)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SG11H8.8)
+putative two-component system sensor kinase</title>
+			<polygon class=" (SG11H8.8)
+putative two-component system sensor kinase" points="187,25 195,25 195,10 225,40 195,70 195,55 187,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PAS (PF00989)
+"PAS fold"</title>
+				<rect class="PF00989" x="191" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(205,221,64)" stroke="rgb(164,176,51)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HisKA (PF00512)
+"His Kinase A (phospho-acceptor) domain"</title>
+				<rect class="PF00512" x="202" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(193,125,62)" stroke="rgb(154,100,49)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HATPase_c (PF02518)
+"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"</title>
+				<polygon class="PF02518" points="214,33 221,40 214,47" stroke-linejoin="round" width="11" height="24" fill="rgb(80,94,225)" stroke="rgb(64,75,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SG11H8.9)
+putative phenylalanyl-tRNA synthetase alpha subunit</title>
+			<polygon class=" (SG11H8.9)
+putative phenylalanyl-tRNA synthetase alpha subunit" points="230,25 238,25 238,10 268,40 238,70 238,55 230,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Phe_tRNA-synt_N (PF02912)
+"Aminoacyl tRNA synthetase class II, N-terminal domain"</title>
+				<rect class="PF02912" x="233" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(185,106,54)" stroke="rgb(148,84,43)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>tRNA-synt_2d (PF01409)
+"tRNA synthetases class II core domain (F)"</title>
+				<polygon class="PF01409" points="240,28 251,28 263,40 251,52 240,52" stroke-linejoin="round" width="26" height="24" fill="rgb(88,202,82)" stroke="rgb(70,161,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SG7F10.1)
+putative phenylalanyl-tRNA synthetase beta subunit</title>
+			<polygon class=" (SG7F10.1)
+putative phenylalanyl-tRNA synthetase beta subunit" points="268,25 321,25 321,10 351,40 321,70 321,55 268,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>tRNA_bind (PF01588)
+"Putative tRNA binding domain"</title>
+				<rect class="PF01588" x="272" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(192,51,118)" stroke="rgb(153,40,94)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>B3_4 (PF03483)
+"B3/4 domain"</title>
+				<rect class="PF03483" x="290" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(97,63,226)" stroke="rgb(77,50,180)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>B5 (PF03484)
+"tRNA synthetase B5 domain"</title>
+				<rect class="PF03484" x="309" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(94,91,186)" stroke="rgb(75,72,148)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>tRNA_synthFbeta (PF17759)
+"Phenylalanyl tRNA synthetase beta chain CLM domain"</title>
+				<polygon class="PF17759" points="316,28 335,28 339,32 339,48 335,52 316,52" stroke-linejoin="round" width="23" height="24" fill="rgb(61,193,115)" stroke="rgb(48,154,92)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FDX-ACB (PF03147)
+"Ferredoxin-fold anticodon binding domain"</title>
+				<polygon class="PF03147" points="342,35 347,40 342,45" stroke-linejoin="round" width="9" height="24" fill="rgb(152,84,215)" stroke="rgb(121,67,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SG7F10.2)
+putative transcriptional regulator</title>
+			<polygon class=" (SG7F10.2)
+putative transcriptional regulator" points="365,25 380,25 380,10 410,40 380,70 380,55 365,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (SG7F10.3)
+conserved hypothetical protein</title>
+			<polygon class=" (SG7F10.3)
+conserved hypothetical protein" points="413,10 430,40 413,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NUDIX (PF00293)
+"NUDIX domain"</title>
+				<polygon class="PF00293" points="416,28 420,28 427,40 420,52 416,52" stroke-linejoin="round" width="12" height="24" fill="rgb(92,56,187)" stroke="rgb(73,44,149)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>strU (SG7F10.4c)
+putative NAD(P)-dependent oxidoreductase StrU</title>
+			<polygon class="strU (SG7F10.4c)
+putative NAD(P)-dependent oxidoreductase StrU" points="476,25 464,25 464,10 434,40 464,70 464,55 476,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NAD_binding_3 (PF03447)
+"Homoserine dehydrogenase, NAD binding domain"</title>
+				<rect class="PF03447" x="461" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(89,165,190)" stroke="rgb(71,131,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>strV (SG7F10.5)
+putative ABC transporter StrV</title>
+			<polygon class="strV (SG7F10.5)
+putative ABC transporter StrV" points="493,25 521,25 521,10 551,40 521,70 521,55 493,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="496" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="528,28 535,28 542,35 542,45 535,52 528,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>strW (SG7F10.6)
+putative ABC transporter StrW</title>
+			<polygon class="strW (SG7F10.6)
+putative ABC transporter StrW" points="552,25 580,25 580,10 610,40 580,70 580,55 552,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="555" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="587,28 593,28 601,36 601,44 593,52 587,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>stsG (SG7F10.7)
+putative L-glutaminyl-2-N-methyltransferase StsG</title>
+			<polygon class="stsG (SG7F10.7)
+putative L-glutaminyl-2-N-methyltransferase StsG" points="612,10 637,40 612,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_25 (PF13649)
+"Methyltransferase domain"</title>
+				<polygon class="PF13649" points="617,28 623,28 626,32 626,48 623,52 617,52" stroke-linejoin="round" width="9" height="24" fill="rgb(227,135,74)" stroke="rgb(181,108,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>stsF (SG7F10.8)
+putative glycosyltransferase StsF</title>
+			<polygon class="stsF (SG7F10.8)
+putative glycosyltransferase StsF" points="639,10 662,40 639,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>stsE (SG7F10.9)
+putative ATP:scyllo-inosamine 4-phosphotransferase StsE</title>
+			<polygon class="stsE (SG7F10.9)
+putative ATP:scyllo-inosamine 4-phosphotransferase StsE" points="662,25 665,25 665,10 695,40 665,70 665,55 662,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>APH (PF01636)
+"Phosphotransferase enzyme family"</title>
+				<polygon class="PF01636" points="665,28 678,28 688,38 688,42 678,52 665,52" stroke-linejoin="round" width="23" height="24" fill="rgb(106,220,228)" stroke="rgb(84,176,182)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>stsD (SG7F10.10)
+putative aminosugar-converting enzyme StsD</title>
+			<polygon class="stsD (SG7F10.10)
+putative aminosugar-converting enzyme StsD" points="697,10 718,40 697,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HAD_2 (PF13419)
+"Haloacid dehalogenase-like hydrolase"</title>
+				<polygon class="PF13419" points="702,28 706,28 714,40 706,52 702,52" stroke-linejoin="round" width="13" height="24" fill="rgb(60,223,188)" stroke="rgb(48,178,150)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>stsC (SG7F10.11c)
+L-glutamine:scyllo-inosose aminotransferase StsC</title>
+			<polygon class="stsC (SG7F10.11c)
+L-glutamine:scyllo-inosose aminotransferase StsC" points="760,25 748,25 748,10 718,40 748,70 748,55 760,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DegT_DnrJ_EryC1 (PF01041)
+"DegT/DnrJ/EryC1/StrS aminotransferase family"</title>
+				<polygon class="PF01041" points="722,40 734,28 758,28 758,52 734,52" stroke-linejoin="round" width="39" height="24" fill="rgb(59,139,191)" stroke="rgb(47,111,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>stsB (SG7F10.12)
+putative NADH:N-amidino-scyllo-inosamine oxidoreductase StsB</title>
+			<polygon class="stsB (SG7F10.12)
+putative NADH:N-amidino-scyllo-inosamine oxidoreductase StsB" points="769,25 789,25 789,10 819,40 789,70 789,55 769,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>stsA (SG7F10.13)
+putative L-alanine:N-amidino-3-keto-scyllo-inosamine aminotransferase StsA</title>
+			<polygon class="stsA (SG7F10.13)
+putative L-alanine:N-amidino-3-keto-scyllo-inosamine aminotransferase StsA" points="821,25 832,25 832,10 862,40 832,70 832,55 821,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DegT_DnrJ_EryC1 (PF01041)
+"DegT/DnrJ/EryC1/StrS aminotransferase family"</title>
+				<polygon class="PF01041" points="822,28 845,28 853,36 853,44 845,52 822,52" stroke-linejoin="round" width="31" height="24" fill="rgb(59,139,191)" stroke="rgb(47,111,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>strO (SG7F10.14c)
+putative N-amidino-scyllo-inosamine-4-phosphate phosphatase StrO</title>
+			<polygon class="strO (SG7F10.14c)
+putative N-amidino-scyllo-inosamine-4-phosphate phosphatase StrO" points="864,40 890,10 890,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Inositol_P (PF00459)
+"Inositol monophosphatase family"</title>
+				<polygon class="PF00459" points="868,40 878,28 889,28 889,52 878,52" stroke-linejoin="round" width="25" height="24" fill="rgb(67,210,137)" stroke="rgb(53,168,109)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>strN (SG7F10.15)
+putative N-amidionostreptamine 6-phosphotransferase StrN</title>
+			<polygon class="strN (SG7F10.15)
+putative N-amidionostreptamine 6-phosphotransferase StrN" points="893,25 895,25 895,10 925,40 895,70 895,55 893,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>APH (PF01636)
+"Phosphotransferase enzyme family"</title>
+				<polygon class="PF01636" points="896,28 908,28 920,40 920,40 908,52 896,52" stroke-linejoin="round" width="24" height="24" fill="rgb(106,220,228)" stroke="rgb(84,176,182)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>strB2 (SG7F10.16)
+putative scyllo-inosamine-4-phosphate amidinotransferase StrB2</title>
+			<polygon class="strB2 (SG7F10.16)
+putative scyllo-inosamine-4-phosphate amidinotransferase StrB2" points="925,25 930,25 930,10 960,40 930,70 930,55 925,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>strM (SG7F10.17)
+dTDP-4-dehydrorhamnose 3,5-epimerase StrM</title>
+			<polygon class="strM (SG7F10.17)
+dTDP-4-dehydrorhamnose 3,5-epimerase StrM" points="961,10 981,40 961,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>dTDP_sugar_isom (PF00908)
+"dTDP-4-dehydrorhamnose 3,5-epimerase"</title>
+				<polygon class="PF00908" points="961,28 969,28 977,40 969,52 961,52" stroke-linejoin="round" width="17" height="24" fill="rgb(184,89,121)" stroke="rgb(147,71,96)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>strL (SG7F10.18c)
+dTDP-L-rhamnose synthase StrL</title>
+			<polygon class="strL (SG7F10.18c)
+dTDP-L-rhamnose synthase StrL" points="1013,25 1013,25 1013,10 983,40 1013,70 1013,55 1013,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>RmlD_sub_bind (PF04321)
+"RmlD substrate binding domain"</title>
+				<polygon class="PF04321" points="987,40 999,28 1012,28 1012,52 999,52" stroke-linejoin="round" width="28" height="24" fill="rgb(196,203,60)" stroke="rgb(156,162,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>strE (SG7F10.19c)
+dTDP-D-glucose 4,6-dehydratase StrE</title>
+			<polygon class="strE (SG7F10.19c)
+dTDP-D-glucose 4,6-dehydratase StrE" points="1048,25 1045,25 1045,10 1015,40 1045,70 1045,55 1048,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GDP_Man_Dehyd (PF16363)
+"GDP-mannose 4,6 dehydratase"</title>
+				<polygon class="PF16363" points="1019,40 1031,28 1047,28 1047,52 1031,52" stroke-linejoin="round" width="30" height="24" fill="rgb(162,221,65)" stroke="rgb(129,176,51)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>strD (SG7F10.20c)
+dTTP:alpha-D-glucose-1-phosphate thymidylyltransferase StrD</title>
+			<polygon class="strD (SG7F10.20c)
+dTTP:alpha-D-glucose-1-phosphate thymidylyltransferase StrD" points="1086,25 1081,25 1081,10 1051,40 1081,70 1081,55 1086,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NTP_transferase (PF00483)
+"Nucleotidyl transferase"</title>
+				<polygon class="PF00483" points="1062,33 1067,28 1085,28 1085,52 1067,52 1062,47" stroke-linejoin="round" width="23" height="24" fill="rgb(198,101,87)" stroke="rgb(158,80,69)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>strR (SG7F10.21)
+str/sts-gene cluster transcriptional regulator StrR</title>
+			<polygon class="strR (SG7F10.21)
+str/sts-gene cluster transcriptional regulator StrR" points="1100,25 1105,25 1105,10 1135,40 1105,70 1105,55 1100,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ParBc (PF02195)
+"ParB-like nuclease domain"</title>
+				<rect class="PF02195" x="1103" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(55,214,209)" stroke="rgb(44,171,167)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>strA (SG7F10.22)
+streptomycin 6-phosphotransferase StrA, APH(6)</title>
+			<polygon class="strA (SG7F10.22)
+streptomycin 6-phosphotransferase StrA, APH(6)" points="1139,25 1143,25 1143,10 1173,40 1143,70 1143,55 1139,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>APH_6_hur (PF04655)
+"Aminoglycoside/hydroxyurea antibiotic resistance kinase"</title>
+				<polygon class="PF04655" points="1146,28 1157,28 1169,40 1157,52 1146,52" stroke-linejoin="round" width="24" height="24" fill="rgb(92,202,190)" stroke="rgb(73,161,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>strB1 (SG7F10.23)
+L-arginine:scyllo-inosamine-4-phosphate amidinotransferase; amidinotransferase I StrB1</title>
+			<polygon class="strB1 (SG7F10.23)
+L-arginine:scyllo-inosamine-4-phosphate amidinotransferase; amidinotransferase I StrB1" points="1190,25 1194,25 1194,10 1224,40 1194,70 1194,55 1190,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>strF (SG7F10.24)
+putative streptomycin biosynthesis enzyme StrF</title>
+			<polygon class="strF (SG7F10.24)
+putative streptomycin biosynthesis enzyme StrF" points="1226,10 1254,40 1226,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyco_tranf_2_5 (PF13712)
+"Glycosyltransferase like family"</title>
+				<polygon class="PF13712" points="1226,28 1238,28 1246,36 1246,44 1238,52 1226,52" stroke-linejoin="round" width="20" height="24" fill="rgb(220,96,135)" stroke="rgb(176,76,108)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>strG (SG7F10.25)
+putative streptomycin biosynthesis enzyme StrG</title>
+			<polygon class="strG (SG7F10.25)
+putative streptomycin biosynthesis enzyme StrG" points="1255,10 1275,40 1255,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>strH (SG7F10.26)
+putative phosphoglucosamine mutase StrH</title>
+			<polygon class="strH (SG7F10.26)
+putative phosphoglucosamine mutase StrH" points="1280,25 1288,25 1288,10 1318,40 1288,70 1288,55 1280,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>strI (SG7F10.27)
+putative myo-inositol:NAD+ 2-oxidoreductase StrI</title>
+			<polygon class="strI (SG7F10.27)
+putative myo-inositol:NAD+ 2-oxidoreductase StrI" points="1320,25 1324,25 1324,10 1354,40 1324,70 1324,55 1320,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GFO_IDH_MocA (PF01408)
+"Oxidoreductase family, NAD-binding Rossmann fold"</title>
+				<rect class="PF01408" x="1320" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(76,117,190)" stroke="rgb(60,93,152)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GFO_IDH_MocA_C (PF02894)
+"Oxidoreductase family, C-terminal alpha/beta domain"</title>
+				<polygon class="PF02894" points="1333,28 1338,28 1343,33 1343,47 1338,52 1333,52" stroke-linejoin="round" width="10" height="24" fill="rgb(195,223,82)" stroke="rgb(155,178,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>strK (SG7F10.28)
+streptomycin-6-phosphate 6-phosphohydrolase StrK</title>
+			<polygon class="strK (SG7F10.28)
+streptomycin-6-phosphate 6-phosphohydrolase StrK" points="1355,25 1370,25 1370,10 1400,40 1370,70 1370,55 1355,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Alk_phosphatase (PF00245)
+"Alkaline phosphatase"</title>
+				<polygon class="PF00245" points="1359,28 1383,28 1395,40 1395,40 1383,52 1359,52" stroke-linejoin="round" width="36" height="24" fill="rgb(172,203,66)" stroke="rgb(137,162,52)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Alk_phosphatase (PF00245)
+"Alkaline phosphatase"</title>
+				<polygon class="PF00245" points="1395,40 1395,40 1395,40" stroke-linejoin="round" width="4" height="24" fill="rgb(172,203,66)" stroke="rgb(137,162,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>strS (SG7F10.29)
+putative N-methyl-L-glucosamine biosynthetic aminotransferase StrS</title>
+			<polygon class="strS (SG7F10.29)
+putative N-methyl-L-glucosamine biosynthetic aminotransferase StrS" points="1404,25 1411,25 1411,10 1441,40 1411,70 1411,55 1404,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DegT_DnrJ_EryC1 (PF01041)
+"DegT/DnrJ/EryC1/StrS aminotransferase family"</title>
+				<polygon class="PF01041" points="1405,28 1425,28 1437,40 1425,52 1405,52" stroke-linejoin="round" width="36" height="24" fill="rgb(59,139,191)" stroke="rgb(47,111,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>strT (SG7F10.30)
+putative streptomycin biosynthetic oxidoreductase StrT</title>
+			<polygon class="strT (SG7F10.30)
+putative streptomycin biosynthetic oxidoreductase StrT" points="1445,25 1446,25 1446,10 1476,40 1446,70 1446,55 1445,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aldo_ket_red (PF00248)
+"Aldo/keto reductase family"</title>
+				<polygon class="PF00248" points="1446,28 1460,28 1472,40 1460,52 1446,52" stroke-linejoin="round" width="29" height="24" fill="rgb(225,205,58)" stroke="rgb(180,164,46)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>strZ (SG7F10.31)
+putative membrane-spanning protein StrZ</title>
+			<polygon class="strZ (SG7F10.31)
+putative membrane-spanning protein StrZ" points="1487,25 1499,25 1499,10 1529,40 1499,70 1499,55 1487,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GT87 (PF09594)
+"Glycosyltransferase family 87"</title>
+				<polygon class="PF09594" points="1493,28 1513,28 1516,31 1516,49 1513,52 1493,52" stroke-linejoin="round" width="23" height="24" fill="rgb(110,68,183)" stroke="rgb(87,54,146)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SG7F10.32c)
+putative 3-hydroxyacyl-CoA dehydrogenase</title>
+			<polygon class=" (SG7F10.32c)
+putative 3-hydroxyacyl-CoA dehydrogenase" points="1565,25 1563,25 1563,10 1533,40 1563,70 1563,55 1565,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>3HCDH (PF00725)
+"3-hydroxyacyl-CoA dehydrogenase, C-terminal domain"</title>
+				<polygon class="PF00725" points="1537,40 1542,35 1542,45" stroke-linejoin="round" width="9" height="24" fill="rgb(180,78,60)" stroke="rgb(144,62,48)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>3HCDH_N (PF02737)
+"3-hydroxyacyl-CoA dehydrogenase, NAD binding domain"</title>
+				<polygon class="PF02737" points="1542,35 1549,28 1560,28 1560,52 1549,52 1542,45" stroke-linejoin="round" width="18" height="24" fill="rgb(212,65,199)" stroke="rgb(169,52,159)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SG7F10.33)
+putative secreted protein</title>
+			<polygon class=" (SG7F10.33)
+putative secreted protein" points="1568,25 1581,25 1581,10 1611,40 1581,70 1581,55 1568,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GHL10 (PF02638)
+"Glycosyl hydrolase-like 10"</title>
+				<polygon class="PF02638" points="1572,28 1595,28 1604,37 1604,43 1595,52 1572,52" stroke-linejoin="round" width="32" height="24" fill="rgb(213,157,96)" stroke="rgb(170,125,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SG7F10.34c)
+conserved hypothetical protein</title>
+			<polygon class=" (SG7F10.34c)
+conserved hypothetical protein" points="1613,40 1620,10 1620,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1918 (PF08940)
+"Domain of unknown function (DUF1918)"</title>
+				<polygon class="PF08940" points="1616,40 1619,28 1620,28 1620,52 1619,52" stroke-linejoin="round" width="5" height="24" fill="rgb(79,88,192)" stroke="rgb(63,70,153)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SG7F10.35c)
+putative integral membrane protein</title>
+			<polygon class=" (SG7F10.35c)
+putative integral membrane protein" points="1656,25 1652,25 1652,10 1622,40 1652,70 1652,55 1656,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>EamA (PF00892)
+"EamA-like transporter family"</title>
+				<polygon class="PF00892" points="1626,40 1636,30 1636,50" stroke-linejoin="round" width="13" height="24" fill="rgb(105,217,77)" stroke="rgb(84,173,61)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>EamA (PF00892)
+"EamA-like transporter family"</title>
+				<polygon class="PF00892" points="1638,28 1638,28 1651,28 1651,52 1638,52 1638,52" stroke-linejoin="round" width="13" height="24" fill="rgb(105,217,77)" stroke="rgb(84,173,61)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SG7F10.36)
+putative transcriptional regulator</title>
+			<polygon class=" (SG7F10.36)
+putative transcriptional regulator" points="1657,25 1675,25 1675,10 1705,40 1675,70 1675,55 1657,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GntR (PF00392)
+"Bacterial regulatory proteins, gntR family"</title>
+				<rect class="PF00392" x="1657" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(160,85,194)" stroke="rgb(127,68,155)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Aminotran_1_2 (PF00155)
+"Aminotransferase class I and II"</title>
+				<polygon class="PF00155" points="1669,28 1689,28 1701,40 1689,52 1669,52" stroke-linejoin="round" width="35" height="24" fill="rgb(89,113,198)" stroke="rgb(71,90,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SG7F10.37c)
+putative lantibiotic biosynthesis protein</title>
+			<polygon class=" (SG7F10.37c)
+putative lantibiotic biosynthesis protein" points="1816,25 1736,25 1736,10 1706,40 1736,70 1736,55 1816,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lant_dehydr_C (PF14028)
+"Lantibiotic biosynthesis dehydratase C-term"</title>
+				<polygon class="PF14028" points="1710,40 1722,28 1734,28 1734,52 1722,52" stroke-linejoin="round" width="27" height="24" fill="rgb(107,223,113)" stroke="rgb(85,178,90)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Lant_dehydr_N (PF04738)
+"Lantibiotic dehydratase, N terminus"</title>
+				<rect class="PF04738" x="1742" y="28" stroke-linejoin="round" width="64" height="24" fill="rgb(219,60,229)" stroke="rgb(175,47,183)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SG7F10.38c)
+hypothetical protein</title>
+			<polygon class=" (SG7F10.38c)
+hypothetical protein" points="1818,40 1830,10 1830,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (SG7F10.39)
+conserved hypothetical protein</title>
+			<polygon class=" (SG7F10.39)
+conserved hypothetical protein" points="1839,10 1858,40 1839,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>His_Phos_1 (PF00300)
+"Histidine phosphatase superfamily (branch 1)"</title>
+				<polygon class="PF00300" points="1840,28 1847,28 1854,40 1847,52 1840,52" stroke-linejoin="round" width="17" height="24" fill="rgb(135,184,63)" stroke="rgb(107,147,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SG7F10.40)
+putative esterase A (fragment)</title>
+			<polygon class=" (SG7F10.40)
+putative esterase A (fragment)" points="1861,10 1867,40 1861,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (SG7F10.41)
+putative peptidyl-prolyl cis-trans isomerase A</title>
+			<polygon class=" (SG7F10.41)
+putative peptidyl-prolyl cis-trans isomerase A" points="1867,10 1883,40 1867,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pro_isomerase (PF00160)
+"Cyclophilin type peptidyl-prolyl cis-trans isomerase/CLD"</title>
+				<polygon class="PF00160" points="1867,28 1873,28 1880,40 1873,52 1867,52" stroke-linejoin="round" width="15" height="24" fill="rgb(130,221,72)" stroke="rgb(103,176,57)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SG7F10.42)
+hypothetical protein</title>
+			<polygon class=" (SG7F10.42)
+hypothetical protein" points="1889,10 1907,40 1889,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (SG7F10.43c)
+conserved hypothetical protein</title>
+			<polygon class=" (SG7F10.43c)
+conserved hypothetical protein" points="1909,40 1922,10 1922,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (SG7F10.44)
+putative LysR-family transcriptional regulator</title>
+			<polygon class=" (SG7F10.44)
+putative LysR-family transcriptional regulator" points="1924,10 1950,40 1924,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LysR_substrate (PF03466)
+"LysR substrate binding domain"</title>
+				<polygon class="PF03466" points="1924,28 1935,28 1942,35 1942,45 1935,52 1924,52" stroke-linejoin="round" width="18" height="24" fill="rgb(55,136,195)" stroke="rgb(44,108,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SG7F10.45)
+putative integral membrane protein</title>
+			<polygon class=" (SG7F10.45)
+putative integral membrane protein" points="1958,25 1974,25 1974,10 2004,40 1974,70 1974,55 1958,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (SG7F10.46c)
+putative transcriptional regulator</title>
+			<polygon class=" (SG7F10.46c)
+putative transcriptional regulator" points="2037,25 2034,25 2034,10 2004,40 2034,70 2034,55 2037,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HEAT_2 (PF13646)
+"HEAT repeats"</title>
+				<polygon class="PF13646" points="2009,39 2019,29 2019,51 2009,41" stroke-linejoin="round" width="10" height="24" fill="rgb(161,180,58)" stroke="rgb(128,144,46)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MerR_1 (PF13411)
+"MerR HTH family regulatory protein"</title>
+				<rect class="PF13411" x="2030" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(100,202,107)" stroke="rgb(80,161,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SG7F10.47c)
+conserved hypothetical protein</title>
+			<polygon class=" (SG7F10.47c)
+conserved hypothetical protein" points="2038,40 2064,10 2064,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (SG7F10.48c)
+conserved hypothetical protein</title>
+			<polygon class=" (SG7F10.48c)
+conserved hypothetical protein" points="2067,40 2086,10 2086,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GPP34 (PF05719)
+"Golgi phosphoprotein 3 (GPP34)"</title>
+				<polygon class="PF05719" points="2071,40 2079,28 2085,28 2085,52 2079,52" stroke-linejoin="round" width="17" height="24" fill="rgb(221,100,205)" stroke="rgb(176,80,163)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SG7F10.49c)
+putative deoxyxylulose-5-phosphate synthase</title>
+			<polygon class=" (SG7F10.49c)
+putative deoxyxylulose-5-phosphate synthase" points="2094,40 2116,10 2116,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (SG7F10.50c)</title>
+			<polygon class=" (SG7F10.50c)" points="2125,40 2142,10 2142,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>argC (SG7F10.51)
+N-acetyl-gamma-glutamylphosphate reductase</title>
+			<polygon class="argC (SG7F10.51)
+N-acetyl-gamma-glutamylphosphate reductase" points="2144,25 2148,25 2148,10 2178,40 2148,70 2148,55 2144,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Semialdhyde_dh (PF01118)
+"Semialdehyde dehydrogenase, NAD binding domain"</title>
+				<rect class="PF01118" x="2144" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(191,106,221)" stroke="rgb(152,84,176)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Semialdhyde_dhC (PF02774)
+"Semialdehyde dehydrogenase, dimerisation domain"</title>
+				<polygon class="PF02774" points="2159,28 2161,28 2173,40 2161,52 2159,52" stroke-linejoin="round" width="15" height="24" fill="rgb(57,188,185)" stroke="rgb(45,150,147)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>argJ (SG7F10.52)
+N2-acetyl-L-ornithine:L-glutamate N-acetyltransferase ArgJ</title>
+			<polygon class="argJ (SG7F10.52)
+N2-acetyl-L-ornithine:L-glutamate N-acetyltransferase ArgJ" points="2178,25 2186,25 2186,10 2216,40 2186,70 2186,55 2178,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ArgJ (PF01960)
+"ArgJ family"</title>
+				<polygon class="PF01960" points="2179,28 2200,28 2212,40 2200,52 2179,52" stroke-linejoin="round" width="37" height="24" fill="rgb(81,120,181)" stroke="rgb(64,95,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>argB (SG7F10.53)
+N-acetylglutamate kinase ArgB</title>
+			<polygon class="argB (SG7F10.53)
+N-acetylglutamate kinase ArgB" points="2216,25 2217,25 2217,10 2247,40 2217,70 2217,55 2216,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AA_kinase (PF00696)
+"Amino acid kinase family"</title>
+				<polygon class="PF00696" points="2218,28 2231,28 2242,39 2242,41 2231,52 2218,52" stroke-linejoin="round" width="24" height="24" fill="rgb(148,78,224)" stroke="rgb(118,62,179)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>argD (SG7F10.54)
+N2-acetyl-L-ornithine:2-oxoglutarate aminotransferase ArgD</title>
+			<polygon class="argD (SG7F10.54)
+N2-acetyl-L-ornithine:2-oxoglutarate aminotransferase ArgD" points="2247,25 2257,25 2257,10 2287,40 2257,70 2257,55 2247,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_3 (PF00202)
+"Aminotransferase class-III"</title>
+				<polygon class="PF00202" points="2248,28 2270,28 2282,40 2270,52 2248,52" stroke-linejoin="round" width="37" height="24" fill="rgb(49,163,189)" stroke="rgb(39,130,151)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>argR (SG7F10.55)
+putative repressor of arg regulon ArgR</title>
+			<polygon class="argR (SG7F10.55)
+putative repressor of arg regulon ArgR" points="2288,10 2305,40 2288,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Arg_repressor (PF01316)
+"Arginine repressor, DNA binding domain"</title>
+				<rect class="PF01316" x="2289" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(219,102,162)" stroke="rgb(175,81,129)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Arg_repressor_C (PF02863)
+"Arginine repressor, C-terminal domain"</title>
+				<polygon class="PF02863" points="2298,33 2302,40 2298,47" stroke-linejoin="round" width="6" height="24" fill="rgb(80,175,218)" stroke="rgb(64,140,174)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>apbE (SG7F10.56c)
+putative thiamine biosynthesis lipoprotein precursor ApbE</title>
+			<polygon class="apbE (SG7F10.56c)
+putative thiamine biosynthesis lipoprotein precursor ApbE" points="2307,40 2330,10 2330,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>argG (SG7F10.57)
+argininosuccinate synthase ArgG</title>
+			<polygon class="argG (SG7F10.57)
+argininosuccinate synthase ArgG" points="2338,25 2347,25 2347,10 2377,40 2347,70 2347,55 2338,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Arginosuc_synth (PF00764)
+"Arginosuccinate synthase"</title>
+				<polygon class="PF00764" points="2338,28 2361,28 2373,40 2361,52 2338,52" stroke-linejoin="round" width="38" height="24" fill="rgb(93,212,110)" stroke="rgb(74,169,88)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>argH (SG7F10.58)
+argininosuccinate lyase ArgH</title>
+			<polygon class="argH (SG7F10.58)
+argininosuccinate lyase ArgH" points="2381,25 2398,25 2398,10 2428,40 2398,70 2398,55 2381,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lyase_1 (PF00206)
+"Lyase"</title>
+				<rect class="PF00206" x="2382" y="28" stroke-linejoin="round" width="29" height="24" fill="rgb(217,92,141)" stroke="rgb(173,73,112)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ASL_C2 (PF14698)
+"Argininosuccinate lyase C-terminal"</title>
+				<polygon class="PF14698" points="2418,34 2424,40 2424,40 2418,46" stroke-linejoin="round" width="6" height="24" fill="rgb(107,69,187)" stroke="rgb(85,55,149)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SG7F10.59)
+putative oxidoreductase</title>
+			<polygon class=" (SG7F10.59)
+putative oxidoreductase" points="2430,25 2434,25 2434,10 2464,40 2434,70 2434,55 2430,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aldo_ket_red (PF00248)
+"Aldo/keto reductase family"</title>
+				<polygon class="PF00248" points="2433,28 2448,28 2460,40 2448,52 2433,52" stroke-linejoin="round" width="29" height="24" fill="rgb(225,205,58)" stroke="rgb(180,164,46)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SG7F10.60c)
+hypothetical protein</title>
+			<polygon class=" (SG7F10.60c)
+hypothetical protein" points="2542,25 2497,25 2497,10 2467,40 2497,70 2497,55 2542,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (SG7F10.61)
+putative TetR-family transcriptional regulator</title>
+			<polygon class=" (SG7F10.61)
+putative TetR-family transcriptional regulator" points="2550,10 2569,40 2550,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TetR_N (PF00440)
+"Bacterial regulatory proteins, tetR family"</title>
+				<rect class="PF00440" x="2551" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(73,212,190)" stroke="rgb(58,169,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SG7F10.62)
+putative transmembrane-multidrug transport protein of DHA2-subfamily PqrB</title>
+			<polygon class=" (SG7F10.62)
+putative transmembrane-multidrug transport protein of DHA2-subfamily PqrB" points="2569,25 2590,25 2590,10 2620,40 2590,70 2590,55 2569,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="2571,28 2604,28 2610,34 2610,46 2604,52 2571,52" stroke-linejoin="round" width="39" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SG7F10.63c)
+putative 1-acylglycerol-3-phosphate O-acyltransferase</title>
+			<polygon class=" (SG7F10.63c)
+putative 1-acylglycerol-3-phosphate O-acyltransferase" points="2626,40 2652,10 2652,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acyltransferase (PF01553)
+"Acyltransferase"</title>
+				<polygon class="PF01553" points="2633,37 2641,28 2646,28 2646,52 2641,52 2633,43" stroke-linejoin="round" width="13" height="24" fill="rgb(87,176,216)" stroke="rgb(69,140,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SG7F10.64)
+hypothetical protein</title>
+			<polygon class=" (SG7F10.64)
+hypothetical protein" points="2657,25 2665,25 2665,10 2695,40 2665,70 2665,55 2657,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GDPD (PF03009)
+"Glycerophosphoryl diester phosphodiesterase family"</title>
+				<polygon class="PF03009" points="2662,28 2679,28 2691,40 2679,52 2662,52" stroke-linejoin="round" width="31" height="24" fill="rgb(196,119,93)" stroke="rgb(156,95,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SG7F10.65)
+putative RNA polymerase sigma factor</title>
+			<polygon class=" (SG7F10.65)
+putative RNA polymerase sigma factor" points="2701,10 2720,40 2701,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (SG7F10.66)
+putative acetyltransferase</title>
+			<polygon class=" (SG7F10.66)
+putative acetyltransferase" points="2720,10 2737,40 2720,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acetyltransf_10 (PF13673)
+"Acetyltransferase (GNAT) domain"</title>
+				<polygon class="PF13673" points="2723,28 2726,28 2734,40 2726,52 2723,52" stroke-linejoin="round" width="13" height="24" fill="rgb(88,180,95)" stroke="rgb(70,144,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SG7F10.67c)
+putative integral membrane protein</title>
+			<polygon class=" (SG7F10.67c)
+putative integral membrane protein" points="2738,40 2752,10 2752,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (SG7F10.68c)
+putative integral membrane protein</title>
+			<polygon class=" (SG7F10.68c)
+putative integral membrane protein" points="2753,40 2764,10 2764,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (SG7F10.69)
+putative ABC transporter ATP-binding protein</title>
+			<polygon class=" (SG7F10.69)
+putative ABC transporter ATP-binding protein" points="2784,25 2791,25 2791,10 2821,40 2791,70 2791,55 2784,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<rect class="PF00005" x="2787" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>NIL (PF09383)
+"NIL domain"</title>
+				<polygon class="PF09383" points="2811,34 2817,40 2811,46" stroke-linejoin="round" width="7" height="24" fill="rgb(151,90,196)" stroke="rgb(120,72,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SG7F10.70)
+putative ABC transporter permease protein</title>
+			<polygon class=" (SG7F10.70)
+putative ABC transporter permease protein" points="2821,10 2843,40 2821,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BPD_transp_1 (PF00528)
+"Binding-protein-dependent transport system inner membrane component"</title>
+				<polygon class="PF00528" points="2824,28 2830,28 2839,40 2830,52 2824,52" stroke-linejoin="round" width="18" height="24" fill="rgb(77,208,225)" stroke="rgb(61,166,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SG7F10.71)
+putative lipoprotein precursor</title>
+			<polygon class=" (SG7F10.71)
+putative lipoprotein precursor" points="2846,10 2874,40 2846,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lipoprotein_9 (PF03180)
+"NLPA lipoprotein"</title>
+				<polygon class="PF03180" points="2850,28 2858,28 2870,40 2858,52 2850,52" stroke-linejoin="round" width="23" height="24" fill="rgb(162,197,97)" stroke="rgb(129,157,77)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SG7F10.72)
+putative acetyltransferase</title>
+			<polygon class=" (SG7F10.72)
+putative acetyltransferase" points="2875,10 2900,40 2875,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acetyltransf_3 (PF13302)
+"Acetyltransferase (GNAT) domain"</title>
+				<polygon class="PF13302" points="2880,28 2886,28 2894,37 2894,43 2886,52 2880,52" stroke-linejoin="round" width="14" height="24" fill="rgb(105,146,215)" stroke="rgb(84,116,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SG7F10.73)
+putative methyltransferase</title>
+			<polygon class=" (SG7F10.73)
+putative methyltransferase" points="2905,25 2916,25 2916,10 2946,40 2916,70 2916,55 2905,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TP_methylase (PF00590)
+"Tetrapyrrole (Corrin/Porphyrin) Methylases"</title>
+				<rect class="PF00590" x="2906" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(124,218,92)" stroke="rgb(99,174,73)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SG7F10.74)
+putative nicotinate-nucleotide-dimethylbenzimidazole phosphoribosyltransferase</title>
+			<polygon class=" (SG7F10.74)
+putative nicotinate-nucleotide-dimethylbenzimidazole phosphoribosyltransferase" points="2957,25 2999,25 2999,10 3029,40 2999,70 2999,55 2957,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

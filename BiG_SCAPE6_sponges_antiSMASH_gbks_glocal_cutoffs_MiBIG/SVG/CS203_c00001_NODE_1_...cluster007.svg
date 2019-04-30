@@ -1,0 +1,141 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="742.3666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="732.3666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg20_56)</title>
+			<polygon class=" (ctg20_56)" points="68,25 63,25 63,10 33,40 63,70 63,55 68,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pyr_redox_2 (PF07992)
+"Pyridine nucleotide-disulphide oxidoreductase"</title>
+				<polygon class="PF07992" points="37,40 49,28 67,28 67,52 49,52" stroke-linejoin="round" width="33" height="24" fill="rgb(83,223,167)" stroke="rgb(66,178,133)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg20_57)</title>
+			<polygon class=" (ctg20_57)" points="107,25 103,25 103,10 73,40 103,70 103,55 107,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amidohydro_2 (PF04909)
+"Amidohydrolase"</title>
+				<polygon class="PF04909" points="77,40 89,28 104,28 104,52 89,52" stroke-linejoin="round" width="31" height="24" fill="rgb(95,225,123)" stroke="rgb(76,180,98)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg20_58)</title>
+			<polygon class=" (ctg20_58)" points="186,25 144,25 144,10 114,40 144,70 144,55 186,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Dockerin_1 (PF00404)
+"Dockerin type I domain"</title>
+				<polygon class="PF00404" points="118,40 118,40 118,40" stroke-linejoin="round" width="4" height="24" fill="rgb(89,54,205)" stroke="rgb(71,43,164)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg20_59)</title>
+			<polygon class=" (ctg20_59)" points="186,40 210,10 210,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg20_60)</title>
+			<polygon class=" (ctg20_60)" points="213,40 232,10 232,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg20_61)</title>
+			<polygon class=" (ctg20_61)" points="232,40 245,10 245,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cyclophil_like (PF04126)
+"Cyclophilin-like"</title>
+				<polygon class="PF04126" points="235,40 241,28 243,28 243,52 241,52" stroke-linejoin="round" width="11" height="24" fill="rgb(206,185,57)" stroke="rgb(164,148,45)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg20_62)</title>
+			<polygon class=" (ctg20_62)" points="258,25 261,25 261,10 291,40 261,70 261,55 258,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aldo_ket_red (PF00248)
+"Aldo/keto reductase family"</title>
+				<polygon class="PF00248" points="259,28 275,28 287,40 275,52 259,52" stroke-linejoin="round" width="29" height="24" fill="rgb(225,205,58)" stroke="rgb(180,164,46)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg20_63)</title>
+			<polygon class=" (ctg20_63)" points="294,25 308,25 308,10 338,40 308,70 308,55 294,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Xan_ur_permease (PF00860)
+"Permease family"</title>
+				<polygon class="PF00860" points="295,28 322,28 333,39 333,41 322,52 295,52" stroke-linejoin="round" width="38" height="24" fill="rgb(216,88,217)" stroke="rgb(172,70,173)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg20_64)</title>
+			<polygon class=" (ctg20_64)" points="343,25 368,25 368,10 398,40 368,70 368,55 343,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Prenyltrans (PF00432)
+"Prenyltransferase and squalene oxidase repeat"</title>
+				<rect class="PF00432" x="348" y="28" stroke-linejoin="round" width="2" height="24" fill="rgb(218,215,79)" stroke="rgb(174,172,63)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SQHop_cyclase_C (PF13243)
+"Squalene-hopene cyclase C-terminal domain"</title>
+				<polygon class="PF13243" points="370,28 382,28 394,40 382,52 370,52" stroke-linejoin="round" width="27" height="24" fill="rgb(191,58,201)" stroke="rgb(152,46,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg20_65)</title>
+			<polygon class=" (ctg20_65)" points="401,10 423,40 401,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_2 (PF00535)
+"Glycosyl transferase family 2"</title>
+				<polygon class="PF00535" points="401,28 410,28 417,37 417,43 410,52 401,52" stroke-linejoin="round" width="16" height="24" fill="rgb(224,122,96)" stroke="rgb(179,97,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg20_66)</title>
+			<polygon class=" (ctg20_66)" points="432,25 476,25 476,10 506,40 476,70 476,55 432,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TPR_6 (PF13174)
+"Tetratricopeptide repeat"</title>
+				<rect class="PF13174" x="441" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(184,86,76)" stroke="rgb(147,68,60)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TPR_6 (PF13174)
+"Tetratricopeptide repeat"</title>
+				<rect class="PF13174" x="449" y="28" stroke-linejoin="round" width="2" height="24" fill="rgb(184,86,76)" stroke="rgb(147,68,60)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>YfiO (PF13525)
+"Outer membrane lipoprotein"</title>
+				<rect class="PF13525" x="458" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(135,83,203)" stroke="rgb(108,66,162)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TPR_6 (PF13174)
+"Tetratricopeptide repeat"</title>
+				<rect class="PF13174" x="473" y="28" stroke-linejoin="round" width="2" height="24" fill="rgb(184,86,76)" stroke="rgb(147,68,60)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SLT (PF01464)
+"Transglycosylase SLT domain"</title>
+				<polygon class="PF01464" points="489,28 490,28 500,38 500,42 490,52 489,52" stroke-linejoin="round" width="11" height="24" fill="rgb(181,60,156)" stroke="rgb(144,47,124)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg20_67)</title>
+			<polygon class=" (ctg20_67)" points="530,10 558,40 530,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4159 (PF13709)
+"Domain of unknown function (DUF4159)"</title>
+				<polygon class="PF13709" points="536,28 542,28 554,40 542,52 536,52" stroke-linejoin="round" width="20" height="24" fill="rgb(192,178,93)" stroke="rgb(153,142,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg20_68)</title>
+			<polygon class=" (ctg20_68)" points="677,25 590,25 590,10 560,40 590,70 590,55 677,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg20_69)</title>
+			<polygon class=" (ctg20_69)" points="682,40 705,10 705,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4159 (PF13709)
+"Domain of unknown function (DUF4159)"</title>
+				<polygon class="PF13709" points="686,40 695,28 701,28 701,52 695,52" stroke-linejoin="round" width="19" height="24" fill="rgb(192,178,93)" stroke="rgb(153,142,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

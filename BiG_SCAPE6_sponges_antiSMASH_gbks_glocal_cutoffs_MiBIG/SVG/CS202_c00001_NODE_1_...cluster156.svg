@@ -1,0 +1,92 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="329.6" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="319.6" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg5797_1)</title>
+			<polygon class=" (ctg5797_1)" points="14,25 49,25 49,10 79,40 49,70 49,55 14,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQHop_cyclase_N (PF13249)
+"Squalene-hopene cyclase N-terminal domain"</title>
+				<rect class="PF13249" x="17" y="28" stroke-linejoin="round" width="28" height="24" fill="rgb(88,190,89)" stroke="rgb(70,152,71)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SQHop_cyclase_C (PF13243)
+"Squalene-hopene cyclase C-terminal domain"</title>
+				<polygon class="PF13243" points="46,28 63,28 75,40 63,52 46,52" stroke-linejoin="round" width="31" height="24" fill="rgb(191,58,201)" stroke="rgb(152,46,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5797_2)</title>
+			<polygon class=" (ctg5797_2)" points="81,25 84,25 84,10 114,40 84,70 84,55 81,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<polygon class="PF04055" points="84,28 98,28 99,29 99,51 98,52 84,52" stroke-linejoin="round" width="15" height="24" fill="rgb(149,56,222)" stroke="rgb(119,44,177)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DUF3463 (PF11946)
+"Domain of unknown function (DUF3463)"</title>
+				<polygon class="PF11946" points="100,30 110,40 100,50" stroke-linejoin="round" width="13" height="24" fill="rgb(193,51,57)" stroke="rgb(154,40,45)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5797_3)</title>
+			<polygon class=" (ctg5797_3)" points="119,40 134,10 134,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Phage_holin_4_2 (PF04020)
+"Mycobacterial 4 TMS phage holin, superfamily IV"</title>
+				<polygon class="PF04020" points="122,40 128,28 133,28 133,52 128,52 122,40" stroke-linejoin="round" width="11" height="24" fill="rgb(207,69,163)" stroke="rgb(165,55,130)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5797_4)</title>
+			<polygon class=" (ctg5797_4)" points="169,25 165,25 165,10 135,40 165,70 165,55 169,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ADH_zinc_N (PF00107)
+"Zinc-binding dehydrogenase"</title>
+				<polygon class="PF00107" points="139,40 151,28 152,28 152,52 151,52 139,40" stroke-linejoin="round" width="13" height="24" fill="rgb(81,108,215)" stroke="rgb(64,86,172)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ADH_N_2 (PF16884)
+"N-terminal domain of oxidoreductase"</title>
+				<rect class="PF16884" x="157" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(185,119,52)" stroke="rgb(148,95,41)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5797_5)</title>
+			<polygon class=" (ctg5797_5)" points="174,10 197,40 174,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acetyltransf_1 (PF00583)
+"Acetyltransferase (GNAT) family"</title>
+				<polygon class="PF00583" points="178,28 184,28 193,40 193,40 184,52 178,52" stroke-linejoin="round" width="15" height="24" fill="rgb(121,183,50)" stroke="rgb(96,146,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5797_6)</title>
+			<polygon class=" (ctg5797_6)" points="198,40 206,10 206,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>OmdA (PF13376)
+"Bacteriocin-protection, YdeI or OmpD-Associated"</title>
+				<polygon class="PF13376" points="201,40 204,28 204,28 204,52 204,52" stroke-linejoin="round" width="5" height="24" fill="rgb(212,104,109)" stroke="rgb(169,83,87)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5797_7)</title>
+			<polygon class=" (ctg5797_7)" points="212,25 229,25 229,10 259,40 229,70 229,55 212,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Polysacc_deac_1 (PF01522)
+"Polysaccharide deacetylase"</title>
+				<polygon class="PF01522" points="236,28 243,28 249,34 249,46 243,52 236,52" stroke-linejoin="round" width="13" height="24" fill="rgb(56,221,58)" stroke="rgb(44,176,46)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5797_8)</title>
+			<polygon class=" (ctg5797_8)" points="265,25 289,25 289,10 319,40 289,70 289,55 265,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<rect class="PF07690" x="265" y="28" stroke-linejoin="round" width="31" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

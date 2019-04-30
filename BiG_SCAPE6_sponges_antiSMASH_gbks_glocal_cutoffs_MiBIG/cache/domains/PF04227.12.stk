@@ -1,0 +1,24 @@
+# STOCKHOLM 1.0
+
+BGC0001778.1_ORF5:gid::pid:KKZ73237.1:loc:7167:8121:strand:-:22:310                -VSEALAHGRPVVALESSVLS-GFPYPENLELAREMDAGIRAQGAVPARIALLGGKLRVGLDDALLQEFCAYG-KVPKVSTRDIGVTLAGGGPGGTTVSSSLLAAELAGIRVFAVAGIGGVHRDAPASYDISTDLVQFTRTRTAVVCAGAKSMLHPQWTLEWLETAGIPVIGYRCDDFPAYLSVSSGVRNPHRLDDLSDV
+#=GR BGC0001778.1_ORF5:gid::pid:KKZ73237.1:loc:7167:8121:strand:-:22:310        PP .789**************987.9************************************************75.8*****************************************************************************************************************************
+BGC0000195.1_ORF20:gid:alnA:pid:ACI88875.1:loc:15876:16797:strand:-:14:298         -IATALAERRPVVALESSLITTD----PSSETASLIEKAVRGAGAVPATIGIAGGKLVVGLTDSLIERFAST-KGIPKISARDIGGALAGGGLGATTVAGTIVIAERAGIQVFTTAGIGGVHRRGEDTLDISPDLLQFRKTKMTVVSGGAKSILDHRLTAEYLETAGVPVYGYRTDKLAAFVVREADVPVT-RMDDLHTA
+#=GR BGC0000195.1_ORF20:gid:alnA:pid:ACI88875.1:loc:15876:16797:strand:-:14:298 PP .679****************976....56789***************************************6.68*****************************************************************************************************************997.9*******
+BGC0000727.1_ORF14:gid:sa5:pid:ACK77754.1:loc:11297:12242:strand:+:14:303          -VREALHEGAAVVALESNVITHGLPYPDNAATARKVEDAVRAGGAVPATICIEAGEIRVGMSDSDIERFASL-PGIPKVSSRDLPVVLAQGGLGATTVATSVVAAELAGIPFFSSAGIGGVHRGAQETWDVSSDLIQFTRSKVAVVCAGAKMILDLGLTLEYLETQCVPVVAYRSDDFPAFYCRTSGHKAPHRLDDEQVI
+#=GR BGC0000727.1_ORF14:gid:sa5:pid:ACK77754.1:loc:11297:12242:strand:+:14:303  PP .89********************************************************************6.68*****************************************************************************************************************************
+BGC0000375.1_ORF3:gid:indA:pid:AFV27435.1:loc:5797:6751:strand:+:18:307            -VAAALADGDPVVALESNVITHGLPYPDNAATARKVEDAVRAGGAVPATIGIDDGRIMVGMTDGDIERFAAT-PGIPKVSSRDLAAVLASGGTGATTVASSLVAAELAGIPFFSSAGIGGVHRGAETTMDISSDLIQFTRSRVAVVCAGAKKILDLGLTLEFLETHCVPVIAHGSDDFPAFYCRSSGLRAPQRLDDETLI
+#=GR BGC0000375.1_ORF3:gid:indA:pid:AFV27435.1:loc:5797:6751:strand:+:18:307    PP .789*******************************************************************6.79*****************************************************************************************************************************
+#=GC PP_cons                                                                       .789****************999****999*****************************************7568*******************************************************************************************************************9*********
+#=GC RF                                                                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BGC0001778.1_ORF5:gid::pid:KKZ73237.1:loc:7167:8121:strand:-:22:310                ARATWAHWRSGNGTSVLVTHPIAEDDGIPSQEIADALAEATELAAREGITGPAVTPYLLKAIAEATEGRTAAANRSVLKSTTVLAAEFAV-h.
+#=GR BGC0001778.1_ORF5:gid::pid:KKZ73237.1:loc:7167:8121:strand:-:22:310        PP ***************************************************************************************998.5.
+BGC0000195.1_ORF20:gid:alnA:pid:ACI88875.1:loc:15876:16797:strand:-:14:298         ARAAEAHWQVNGPGTVLLTSPIDEQDAVDEAIVEAAIAEALAQCDQEGIVGNAVSPYLMKALARASGGMLPKAGRSLLLSTARVAGEFS--aa
+#=GR BGC0000195.1_ORF20:gid:alnA:pid:ACI88875.1:loc:15876:16797:strand:-:14:298 PP *************************************************************************************9865..68
+BGC0000727.1_ORF14:gid:sa5:pid:ACK77754.1:loc:11297:12242:strand:+:14:303          ARAVEAHWALGNNSSFLITTPVREEDAIDSTEVDTAIRAAVAEATRDGVSGQAITKYLMRAVDAATEGRSAKANMAVLASCAEAAGRLAV-a.
+#=GR BGC0000727.1_ORF14:gid:sa5:pid:ACK77754.1:loc:11297:12242:strand:+:14:303  PP ****************************************************************************************98.5.
+BGC0000375.1_ORF3:gid:indA:pid:AFV27435.1:loc:5797:6751:strand:+:18:307            ARAVETHWALGNPGGVLVTSPTRPEDAIDEQDVEGAIADALRGAEADGVRGGAVTKYVMRAVDRATEGRSARANTAVLIHTAQIGGRIAA-a.
+#=GR BGC0000375.1_ORF3:gid:indA:pid:AFV27435.1:loc:5797:6751:strand:+:18:307    PP ****************************************************************************************97.6.
+#=GC PP_cons                                                                       **************************************************************************************9987...
+#=GC RF                                                                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

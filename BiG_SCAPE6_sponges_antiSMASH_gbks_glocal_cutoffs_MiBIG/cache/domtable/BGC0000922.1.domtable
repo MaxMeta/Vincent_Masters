@@ -1,0 +1,33 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+PapD_N               PF00345.20   125 BGC0000922.1_ORF1:gid:cupC2:pid:AAG04382.1:loc:0:714:strand:+ -            237   5.8e-41  139.3   0.1   1   1   1.1e-44   9.9e-41  138.6   0.1     1   124    25   141    25   142 0.93 Pili and flagellar-assembly chaperone, PapD N-terminal domain
+PapD_C               PF02753.17    63 BGC0000922.1_ORF1:gid:cupC2:pid:AAG04382.1:loc:0:714:strand:+ -            237   5.7e-18   65.0   0.3   1   1   2.2e-21     2e-17   63.3   0.3     1    62   167   229   167   230 0.97 Pili assembly chaperone PapD, C-terminal domain
+Usher                PF00577.20   551 BGC0000922.1_ORF2:gid:cupC3:pid:AAG04383.1:loc:824:3344:strand:+ -            839  2.5e-165  551.5  18.4   1   1  4.9e-169    3e-165  551.2  18.4     1   551   199   749   199   749 0.97 Outer membrane usher protein
+PapC_N               PF13954.6    146 BGC0000922.1_ORF2:gid:cupC3:pid:AAG04383.1:loc:824:3344:strand:+ -            839   1.6e-41  141.7   0.0   1   1   6.6e-45   3.9e-41  140.5   0.0     1   145    36   184    36   185 0.96 PapC N-terminal domain
+PapC_C               PF13953.6     66 BGC0000922.1_ORF2:gid:cupC3:pid:AAG04383.1:loc:824:3344:strand:+ -            839   6.5e-16   57.9   0.0   1   1   4.2e-19   2.5e-15   56.0   0.0     2    66   759   820   758   820 0.96 PapC C-terminal domain
+DNA_binding_1        PF01035.20    81 BGC0000922.1_ORF3:gid:ogt:pid:AAG04384.1:loc:3423:3945:strand:- -            173   1.5e-31  108.4   0.0   1   1   2.2e-35     2e-31  107.9   0.0     1    79    80   158    80   160 0.98 6-O-methylguanine DNA methyltransferase, DNA binding domain
+Methyltransf_1N      PF02870.15    77 BGC0000922.1_ORF3:gid:ogt:pid:AAG04384.1:loc:3423:3945:strand:- -            173   1.3e-08   35.6   0.0   1   1   2.4e-12   2.2e-08   34.8   0.0     4    77     5    76     4    76 0.97 6-O-methylguanine DNA methyltransferase, ribonuclease-like domain
+AMP-binding          PF00501.28   423 BGC0000922.1_ORF4:gid:pqsA:pid:AAG04385.1:loc:4502:6056:strand:+ -            517   1.5e-72  244.5   0.0   1   1   2.2e-76     2e-72  244.1   0.0     9   422    18   404    14   405 0.84 AMP-binding enzyme
+AMP-binding_C        PF13193.6     76 BGC0000922.1_ORF4:gid:pqsA:pid:AAG04385.1:loc:4502:6056:strand:+ -            517   8.1e-09   36.3   0.0   1   1   1.7e-12   1.5e-08   35.4   0.0     2    76   414   493   413   493 0.89 AMP-binding enzyme C-terminal domain
+ACP_syn_III_C        PF08541.10    90 BGC0000922.1_ORF6:gid:pqsC:pid:AAG04387.1:loc:6893:7940:strand:+ -            348     3e-21   75.4   0.0   1   1   8.8e-25   7.9e-21   74.0   0.0     1    89   253   341   253   342 0.98 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal
+ACP_syn_III          PF08545.10    80 BGC0000922.1_ORF6:gid:pqsC:pid:AAG04387.1:loc:6893:7940:strand:+ -            348   1.1e-18   66.8   0.7   1   1   2.3e-22   2.1e-18   66.0   0.7     2    79   124   200   123   201 0.94 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III
+ACP_syn_III_C        PF08541.10    90 BGC0000922.1_ORF7:gid:pqsD:pid:AAG04388.1:loc:7982:8996:strand:+ -            337   2.4e-28   98.1   0.0   1   1   3.7e-31   3.3e-27   94.5   0.0     1    89   242   328   242   329 0.98 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal
+ACP_syn_III          PF08545.10    80 BGC0000922.1_ORF7:gid:pqsD:pid:AAG04388.1:loc:7982:8996:strand:+ -            337   2.8e-23   81.6   0.5   1   1   5.4e-27   4.8e-23   80.8   0.5     1    80   107   188   107   188 0.96 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III
+Lactamase_B          PF00753.27   197 BGC0000922.1_ORF8:gid:pqsE:pid:AAG04389.1:loc:8989:9895:strand:+ -            301   8.8e-27   94.4   0.1   1   1     6e-31   1.1e-26   94.1   0.1     2   197    18   221    17   221 0.97 Metallo-beta-lactamase superfamily
+Chorismate_bind      PF00425.18   258 BGC0000922.1_ORF9:gid:phnA:pid:AAG04390.1:loc:10012:11605:strand:+ -            530   3.4e-82  275.9   0.0   1   1   4.8e-86   4.3e-82  275.6   0.0     3   258   246   505   244   505 0.97 chorismate binding enzyme
+Anth_synt_I_N        PF04715.13   142 BGC0000922.1_ORF9:gid:phnA:pid:AAG04390.1:loc:10012:11605:strand:+ -            530   4.3e-06   27.0   0.0   1   1   1.2e-09   1.1e-05   25.7   0.0    66   141   127   194    31   195 0.71 Anthranilate synthase component I, N terminal region
+GATase               PF00117.28   190 BGC0000922.1_ORF10:gid:phnB:pid:AAG04391.1:loc:11582:12185:strand:+ -            200   1.8e-44  151.8   0.0   1   1   2.2e-48     2e-44  151.7   0.0     2   187     5   186     4   189 0.94 Glutamine amidotransferase class-I
+Peptidase_C26        PF07722.13   216 BGC0000922.1_ORF10:gid:phnB:pid:AAG04391.1:loc:11582:12185:strand:+ -            200   5.3e-10   39.4   0.0   1   1   3.3e-13   2.9e-09   37.0   0.0   103   216    74   171    62   171 0.82 Peptidase C26
+LysR_substrate       PF03466.20   209 BGC0000922.1_ORF11:gid:mvfR:pid:AAG04392.1:loc:12137:13136:strand:- -            332   4.1e-14   52.4   0.0   1   1   7.4e-18   6.7e-14   51.8   0.0    52   208   139   292   123   293 0.87 LysR substrate binding domain
+HTH_1                PF00126.27    60 BGC0000922.1_ORF11:gid:mvfR:pid:AAG04392.1:loc:12137:13136:strand:- -            332   1.2e-10   41.2   0.0   1   1   2.4e-14   2.1e-10   40.4   0.0     1    59     6    64     6    65 0.96 Bacterial regulatory helix-turn-helix protein, lysR family
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000922.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000922.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000922.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:49:03 2019
+# [ok]

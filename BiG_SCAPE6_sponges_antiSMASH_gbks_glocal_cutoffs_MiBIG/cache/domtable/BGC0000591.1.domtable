@@ -1,0 +1,16 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SBP_bac_3            PF00497.20   225 BGC0000591.1_ORF3:gid::pid:BAA81782.1:loc:1273:2089:strand:+ -            271   5.6e-20   71.7   0.0   1   1   3.7e-24   6.7e-20   71.5   0.0     6   212    20   227    15   235 0.83 Bacterial extracellular solute-binding proteins, family 3
+Inhibitor_I10        PF12559.8     64 BGC0000591.1_ORF4:gid:mstI:pid:BAA81783.1:loc:2398:2590:strand:+ -             63   1.4e-11   44.4   0.4   1   1   9.3e-16   1.7e-11   44.2   0.4    12    64     2    56     1    56 0.87 Serine endopeptidase inhibitors
+RimK                 PF08443.11   188 BGC0000591.1_ORF5:gid::pid:BAA81784.1:loc:2933:3653:strand:+ -            239     1e-07   31.7   0.0   1   1   7.5e-12   1.3e-07   31.4   0.0     3   187    40   233    38   234 0.75 RimK-like ATP-grasp domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000591.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000591.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000591.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:56:25 2019
+# [ok]

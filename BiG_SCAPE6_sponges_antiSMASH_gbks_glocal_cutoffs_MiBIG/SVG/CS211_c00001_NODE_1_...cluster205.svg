@@ -1,0 +1,77 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="295.8666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="285.8666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg10175_1)</title>
+			<polygon class=" (ctg10175_1)" points="10,10 35,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg10175_2)</title>
+			<polygon class=" (ctg10175_2)" points="36,10 48,40 36,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg10175_3)</title>
+			<polygon class=" (ctg10175_3)" points="51,10 75,40 51,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CxxCxxCC (PF03692)
+"Putative zinc- or iron-chelating domain"</title>
+				<polygon class="PF03692" points="55,28 61,28 66,34 66,46 61,52 55,52" stroke-linejoin="round" width="11" height="24" fill="rgb(222,135,69)" stroke="rgb(177,108,55)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg10175_4)</title>
+			<polygon class=" (ctg10175_4)" points="76,25 108,25 108,10 138,40 108,70 108,55 76,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GTP_EFTU (PF00009)
+"Elongation factor Tu GTP binding domain"</title>
+				<rect class="PF00009" x="76" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(196,118,83)" stroke="rgb(156,94,66)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SelB-wing_3 (PF09107)
+"Elongation factor SelB, winged helix"</title>
+				<polygon class="PF09107" points="133,39 134,40 133,41" stroke-linejoin="round" width="4" height="24" fill="rgb(77,192,121)" stroke="rgb(61,153,96)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg10175_5)</title>
+			<polygon class=" (ctg10175_5)" points="181,25 169,25 169,10 139,40 169,70 169,55 181,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PGK (PF00162)
+"Phosphoglycerate kinase"</title>
+				<polygon class="PF00162" points="143,40 155,28 177,28 177,52 155,52" stroke-linejoin="round" width="37" height="24" fill="rgb(63,212,81)" stroke="rgb(50,169,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg10175_6)</title>
+			<polygon class=" (ctg10175_6)" points="217,25 213,25 213,10 183,40 213,70 213,55 217,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Gp_dh_C (PF02800)
+"Glyceraldehyde 3-phosphate dehydrogenase, C-terminal domain"</title>
+				<polygon class="PF02800" points="187,40 199,28 200,28 200,52 199,52" stroke-linejoin="round" width="15" height="24" fill="rgb(160,186,82)" stroke="rgb(128,148,65)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Gp_dh_N (PF00044)
+"Glyceraldehyde 3-phosphate dehydrogenase, NAD binding domain"</title>
+				<rect class="PF00044" x="206" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(212,98,148)" stroke="rgb(169,78,118)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg10175_7)</title>
+			<polygon class=" (ctg10175_7)" points="228,10 256,40 228,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="229,28 240,28 252,40 240,52 229,52" stroke-linejoin="round" width="25" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg10175_8)</title>
+			<polygon class=" (ctg10175_8)" points="257,10 284,40 257,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="258,28 269,28 280,40 269,52 258,52" stroke-linejoin="round" width="25" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

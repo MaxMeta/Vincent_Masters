@@ -1,0 +1,27 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DUF2237              PF09996.9    115 CS211_c00001_NODE_1_...cluster245_ORF1:gid::pid::loc:1:205:strand:+ -             67   5.4e-26   90.8   0.0   1   1   3.3e-30   5.9e-26   90.7   0.0    53   115     1    63     1    63 0.99 Uncharacterized protein conserved in bacteria (DUF2237)
+DUF418               PF04235.12   163 CS211_c00001_NODE_1_...cluster245_ORF2:gid::pid::loc:290:1574:strand:- -            427   1.7e-39  135.4  15.4   1   1   9.3e-44   1.7e-39  135.4  15.4     1   163   259   421   259   421 0.98 Protein of unknown function (DUF418)
+PQQ                  PF01011.21    38 CS211_c00001_NODE_1_...cluster245_ORF3:gid::pid::loc:1894:3796:strand:+ -            633   2.5e-33  112.4  15.4   1   2   2.8e-08   0.00017   21.4   0.1     1    36   185   220   185   222 0.94 PQQ enzyme repeat
+PQQ                  PF01011.21    38 CS211_c00001_NODE_1_...cluster245_ORF3:gid::pid::loc:1894:3796:strand:+ -            633   2.5e-33  112.4  15.4   2   2   1.4e-08   8.3e-05   22.3   0.0    10    34   242   266   235   268 0.84 PQQ enzyme repeat
+PQQ_2                PF13360.6    237 CS211_c00001_NODE_1_...cluster245_ORF3:gid::pid::loc:1894:3796:strand:+ -            633   2.9e-31  108.9   5.3   1   3   2.4e-19   1.5e-15   57.5   0.1    24   149   172   320   138   366 0.86 PQQ-like domain
+PQQ_2                PF13360.6    237 CS211_c00001_NODE_1_...cluster245_ORF3:gid::pid::loc:1894:3796:strand:+ -            633   2.9e-31  108.9   5.3   2   3   4.7e-08   0.00028   20.6   0.1     3    64   303   394   302   400 0.74 PQQ-like domain
+PQQ_2                PF13360.6    237 CS211_c00001_NODE_1_...cluster245_ORF3:gid::pid::loc:1894:3796:strand:+ -            633   2.9e-31  108.9   5.3   3   3   3.9e-17   2.3e-13   50.3   1.7     5   183   378   616   374   632 0.73 PQQ-like domain
+PQQ_3                PF13570.6     40 CS211_c00001_NODE_1_...cluster245_ORF3:gid::pid::loc:1894:3796:strand:+ -            633   1.6e-19   69.8  30.6   1   1   7.4e-11   4.4e-07   30.2   0.1     2    40   164   203   164   203 0.92 PQQ-like domain
+SQHop_cyclase_C      PF13243.6    319 CS211_c00001_NODE_1_...cluster245_ORF5:gid::pid::loc:4497:6237:strand:- -            579  1.5e-128  428.4   7.0   1   1  1.4e-122  5.1e-119  397.1   2.6     2   296   208   505   207   507 0.96 Squalene-hopene cyclase C-terminal domain
+SQHop_cyclase_N      PF13249.6    291 CS211_c00001_NODE_1_...cluster245_ORF5:gid::pid::loc:4497:6237:strand:- -            579   1.5e-83  280.2   4.7   1   1   4.6e-77   1.7e-73  247.3   0.2    94   286     1   193     1   198 0.98 Squalene-hopene cyclase N-terminal domain
+Prenyltrans          PF00432.21    44 CS211_c00001_NODE_1_...cluster245_ORF5:gid::pid::loc:4497:6237:strand:- -            579   8.4e-27   92.6   8.3   1   4   1.7e-05     0.059   13.1   0.2     3    22   139   158   138   159 0.91 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.21    44 CS211_c00001_NODE_1_...cluster245_ORF5:gid::pid::loc:4497:6237:strand:- -            579   8.4e-27   92.6   8.3   2   4   2.5e-05     0.088   12.6   0.0     5    22   304   321   302   326 0.90 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.21    44 CS211_c00001_NODE_1_...cluster245_ORF5:gid::pid::loc:4497:6237:strand:- -            579   8.4e-27   92.6   8.3   3   4   3.4e-10   1.2e-06   28.1   0.0     2    44   369   410   368   410 0.95 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.21    44 CS211_c00001_NODE_1_...cluster245_ORF5:gid::pid::loc:4497:6237:strand:- -            579   8.4e-27   92.6   8.3   4   4     2e-12   7.1e-09   35.3   0.2     3    41   418   466   417   469 0.94 Prenyltransferase and squalene oxidase repeat
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster245.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS211_c00001_NODE_1_...cluster245.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster245.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:51:47 2019
+# [ok]

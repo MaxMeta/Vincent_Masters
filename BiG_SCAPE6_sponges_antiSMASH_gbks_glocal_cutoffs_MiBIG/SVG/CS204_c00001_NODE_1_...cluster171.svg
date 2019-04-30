@@ -1,0 +1,74 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="276.8" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="266.8" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg9355_1)</title>
+			<polygon class=" (ctg9355_1)" points="10,40 39,10 39,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>E1_dh (PF00676)
+"Dehydrogenase E1 component"</title>
+				<polygon class="PF00676" points="14,40 26,28 35,28 35,52 26,52" stroke-linejoin="round" width="25" height="24" fill="rgb(180,115,48)" stroke="rgb(144,92,38)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg9355_2)</title>
+			<polygon class=" (ctg9355_2)" points="67,25 76,25 76,10 106,40 76,70 76,55 67,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Bac_DnaA (PF00308)
+"Bacterial dnaA  protein"</title>
+				<polygon class="PF00308" points="72,28 89,28 93,32 93,48 89,52 72,52" stroke-linejoin="round" width="21" height="24" fill="rgb(188,76,147)" stroke="rgb(150,60,117)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Bac_DnaA_C (PF08299)
+"Bacterial dnaA protein helix-turn-helix"</title>
+				<polygon class="PF08299" points="96,35 101,40 96,45" stroke-linejoin="round" width="6" height="24" fill="rgb(223,151,101)" stroke="rgb(178,120,80)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg9355_3)</title>
+			<polygon class=" (ctg9355_3)" points="110,25 119,25 119,10 149,40 119,70 119,55 110,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>THUMP (PF02926)
+"THUMP domain"</title>
+				<rect class="PF02926" x="113" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(52,209,163)" stroke="rgb(41,167,130)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ThiI (PF02568)
+"Thiamine biosynthesis protein (ThiI)"</title>
+				<polygon class="PF02568" points="127,28 133,28 145,40 133,52 127,52" stroke-linejoin="round" width="19" height="24" fill="rgb(186,79,88)" stroke="rgb(148,63,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg9355_4)</title>
+			<polygon class=" (ctg9355_4)" points="150,25 156,25 156,10 186,40 156,70 156,55 150,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="152,28 170,28 182,40 182,40 170,52 152,52" stroke-linejoin="round" width="30" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg9355_5)</title>
+			<polygon class=" (ctg9355_5)" points="186,25 196,25 196,10 226,40 196,70 196,55 186,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Chromate_transp (PF02417)
+"Chromate transporter"</title>
+				<rect class="PF02417" x="187" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(216,70,196)" stroke="rgb(172,56,156)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Chromate_transp (PF02417)
+"Chromate transporter"</title>
+				<polygon class="PF02417" points="209,28 210,28 222,40 210,52 209,52" stroke-linejoin="round" width="16" height="24" fill="rgb(216,70,196)" stroke="rgb(172,56,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg9355_6)</title>
+			<polygon class=" (ctg9355_6)" points="234,25 236,25 236,10 266,40 236,70 236,55 234,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Bac_luciferase (PF00296)
+"Luciferase-like monooxygenase"</title>
+				<polygon class="PF00296" points="234,28 250,28 262,40 250,52 234,52" stroke-linejoin="round" width="30" height="24" fill="rgb(180,112,78)" stroke="rgb(144,89,62)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

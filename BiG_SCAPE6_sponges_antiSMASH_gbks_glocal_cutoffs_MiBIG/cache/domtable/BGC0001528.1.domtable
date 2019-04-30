@@ -1,0 +1,17 @@
+#                                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                       accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                             -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+TauD                 PF02668.16   268 BGC0001528.1_ORF1:gid:btcD:pid:BBE36499.1:loc:2981:4165:strand:- -            339   3.1e-36  125.6   0.0   1   1   2.1e-40   3.8e-36  125.3   0.0     4   265    21   317    18   320 0.90 Taurine catabolism dioxygenase TauD, TfdA family
+p450                 PF00067.22   463 BGC0001528.1_ORF2:gid:btcC:pid:BBE36500.1:loc:9170:10933:strand:- -            510   2.1e-65  221.3   0.0   1   1   1.3e-69   2.4e-65  221.1   0.0    11   462    45   496    35   497 0.89 Cytochrome P450
+p450                 PF00067.22   463 BGC0001528.1_ORF3:gid:btcB:pid:BBE36501.1:loc:11715:13533:strand:- -            528   4.2e-55  187.3   0.0   1   1   2.8e-59   5.1e-55  187.0   0.0     9   452    73   512    64   523 0.90 Cytochrome P450
+polyprenyl_synt      PF00348.17   256 BGC0001528.1_ORF4:gid:btcA:pid:BBE36502.1:loc:14493:16881:strand:+ -            725   9.7e-53  178.8   0.0   1   1   8.3e-57   1.5e-52  178.2   0.0     4   246   429   661   426   672 0.89 Polyprenyl synthetase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001528.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001528.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001528.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:32:03 2019
+# [ok]

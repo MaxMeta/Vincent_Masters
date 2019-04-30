@@ -1,0 +1,79 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="301.1" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="291.1" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>strO
+N-amidino-scyllo-inosamine-4-phosphate phosphatase</title>
+			<polygon class="strO
+N-amidino-scyllo-inosamine-4-phosphate phosphatase" points="11,10 37,40 11,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Inositol_P (PF00459)
+"Inositol monophosphatase family"</title>
+				<polygon class="PF00459" points="11,28 23,28 33,40 23,52 11,52" stroke-linejoin="round" width="25" height="24" fill="rgb(67,210,137)" stroke="rgb(53,168,109)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>stsA
+L-alanine:N-amidino-3-keto-scyllo-inosamine aminotransferase</title>
+			<polygon class="stsA
+L-alanine:N-amidino-3-keto-scyllo-inosamine aminotransferase" points="79,25 68,25 68,10 38,40 68,70 68,55 79,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DegT_DnrJ_EryC1 (PF01041)
+"DegT/DnrJ/EryC1/StrS aminotransferase family"</title>
+				<polygon class="PF01041" points="47,35 54,28 78,28 78,52 54,52 47,45" stroke-linejoin="round" width="31" height="24" fill="rgb(59,139,191)" stroke="rgb(47,111,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>stsB
+NADH:N-amidino-scyllo-inosamine oxidoreductase</title>
+			<polygon class="stsB
+NADH:N-amidino-scyllo-inosamine oxidoreductase" points="132,25 113,25 113,10 83,40 113,70 113,55 132,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>stsC
+L-glutamine:scyllo-inosose aminotransferase</title>
+			<polygon class="stsC
+L-glutamine:scyllo-inosose aminotransferase" points="139,25 151,25 151,10 181,40 151,70 151,55 139,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DegT_DnrJ_EryC1 (PF01041)
+"DegT/DnrJ/EryC1/StrS aminotransferase family"</title>
+				<polygon class="PF01041" points="141,28 165,28 177,40 165,52 141,52" stroke-linejoin="round" width="39" height="24" fill="rgb(59,139,191)" stroke="rgb(47,111,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>stsD</title>
+			<polygon class="stsD" points="182,40 203,10 203,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HAD_2 (PF13419)
+"Haloacid dehalogenase-like hydrolase"</title>
+				<polygon class="PF13419" points="186,40 195,28 197,28 197,52 195,52" stroke-linejoin="round" width="13" height="24" fill="rgb(60,223,188)" stroke="rgb(48,178,150)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>stsE
+ATP:scyllo-inosamine phosphatransferase</title>
+			<polygon class="stsE
+ATP:scyllo-inosamine phosphatransferase" points="236,25 235,25 235,10 205,40 235,70 235,55 236,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>APH (PF01636)
+"Phosphotransferase enzyme family"</title>
+				<polygon class="PF01636" points="211,38 221,28 234,28 234,52 221,52 211,42" stroke-linejoin="round" width="23" height="24" fill="rgb(106,220,228)" stroke="rgb(84,176,182)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>stsF</title>
+			<polygon class="stsF" points="238,40 261,10 261,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>stsG
+methyltransferase</title>
+			<polygon class="stsG
+methyltransferase" points="263,40 288,10 288,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_25 (PF13649)
+"Methyltransferase domain"</title>
+				<polygon class="PF13649" points="274,32 277,28 283,28 283,52 277,52 274,48" stroke-linejoin="round" width="9" height="24" fill="rgb(227,135,74)" stroke="rgb(181,108,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

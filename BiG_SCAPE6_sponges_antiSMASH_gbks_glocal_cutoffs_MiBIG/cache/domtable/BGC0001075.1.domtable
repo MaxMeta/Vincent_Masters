@@ -1,0 +1,27 @@
+#                                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                       accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                             -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+TetR_C_11            PF16859.5    113 BGC0001075.1_ORF1:gid:rauR:pid:BAN59734.1:loc:2658:3240:strand:- -            193   5.8e-21   74.9   0.5   1   1   1.1e-24     1e-20   74.2   0.5     1    99    76   172    76   185 0.92 Tetracyclin repressor-like, C-terminal domain
+TetR_N               PF00440.23    47 BGC0001075.1_ORF1:gid:rauR:pid:BAN59734.1:loc:2658:3240:strand:- -            193   1.2e-09   37.8   0.0   1   1   5.4e-13   4.9e-09   35.9   0.0     2    45    20    63    19    65 0.90 Bacterial regulatory proteins, tetR family
+p450                 PF00067.22   463 BGC0001075.1_ORF2:gid:rauA:pid:BAN59735.1:loc:3558:4794:strand:+ -            411     9e-19   67.5   0.0   1   1   3.3e-20     6e-16   58.2   0.0   246   436   228   385   189   408 0.85 Cytochrome P450
+UbiA                 PF01040.18   252 BGC0001075.1_ORF3:gid:rauB:pid:BAN59736.1:loc:4796:5858:strand:+ -            353     1e-13   51.2  23.8   1   1   5.8e-18     1e-13   51.2  23.8     6   238    29   270    23   277 0.75 UbiA prenyltransferase family
+PP-binding           PF00550.25    67 BGC0001075.1_ORF4:gid:rauC:pid:BAN59737.1:loc:5871:6120:strand:+ -             82   9.3e-09   35.5   0.8   1   1     6e-13   1.1e-08   35.3   0.8     1    63     5    68     5    72 0.91 Phosphopantetheine attachment site
+Ketoacyl-synt_C      PF02801.22   118 BGC0001075.1_ORF5:gid:rauD:pid:BAN59738.1:loc:6113:7277:strand:+ -            387   2.2e-28   98.7   0.3   1   1   4.6e-32   4.1e-28   97.8   0.3     1   115   226   338   226   341 0.97 Beta-ketoacyl synthase, C-terminal domain
+ketoacyl-synt        PF00109.26   253 BGC0001075.1_ORF5:gid:rauD:pid:BAN59738.1:loc:6113:7277:strand:+ -            387   1.1e-15   57.9   0.8   1   1   1.6e-18   1.4e-14   54.3   0.9   156   250   126   219    83   222 0.91 Beta-ketoacyl synthase, N-terminal domain
+AMP-binding          PF00501.28   423 BGC0001075.1_ORF7:gid:rauF:pid:BAN59740.1:loc:7847:9971:strand:+ -            707   3.9e-40  137.8   0.1   1   1   6.4e-41   1.2e-36  126.3   0.1    17   422    32   380    20   381 0.84 AMP-binding enzyme
+MFS_1                PF07690.16   353 BGC0001075.1_ORF8:gid:rauG:pid:BAN59741.1:loc:9967:11452:strand:+ -            494   5.4e-43  147.3  57.8   1   2   2.3e-35   1.4e-31  109.8  36.6     1   257    28   284    28   307 0.76 Major Facilitator Superfamily
+MFS_1                PF07690.16   353 BGC0001075.1_ORF8:gid:rauG:pid:BAN59741.1:loc:9967:11452:strand:+ -            494   5.4e-43  147.3  57.8   2   2   2.4e-14   1.4e-10   40.6  17.9     4   172   282   483   279   489 0.88 Major Facilitator Superfamily
+Sugar_tr             PF00083.24   452 BGC0001075.1_ORF8:gid:rauG:pid:BAN59741.1:loc:9967:11452:strand:+ -            494   3.8e-07   29.3  31.1   1   1   4.1e-09   2.5e-05   23.4   3.1    60   157   324   426   309   477 0.84 Sugar (and other) transporter
+MFS_2                PF13347.6    427 BGC0001075.1_ORF8:gid:rauG:pid:BAN59741.1:loc:9967:11452:strand:+ -            494   1.4e-06   27.2  12.6   1   1   2.3e-10   1.4e-06   27.2  12.6   220   336   270   388   267   483 0.81 MFS/sugar transport protein
+NUDIX                PF00293.28   131 BGC0001075.1_ORF9:gid:rauH:pid:BAN59742.1:loc:11441:12035:strand:+ -            197   6.4e-11   42.4   0.0   1   1   4.8e-15   8.6e-11   42.0   0.0     2   121    38   157    37   167 0.84 NUDIX domain
+polyprenyl_synt      PF00348.17   256 BGC0001075.1_ORF10:gid:rauI:pid:BAN59743.1:loc:12031:12982:strand:+ -            316   1.4e-38  132.4   0.1   1   1   1.1e-42   1.9e-38  132.0   0.1    10   223    42   266    37   293 0.89 Polyprenyl synthetase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001075.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001075.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001075.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:31:57 2019
+# [ok]

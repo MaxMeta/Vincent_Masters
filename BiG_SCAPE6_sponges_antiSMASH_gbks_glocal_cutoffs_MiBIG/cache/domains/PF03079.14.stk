@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+BGC0001704.1_ORF4:gid:nocB:pid:AQX77678.1:loc:1871:2426:strand:-:13:169                   dlinisqelaplniqinrwtvadnr-----------------------------------ELKRLLAQDSLNEDEKEQVLKALDSYFEQLqqta...........gyktrDLVVLHQGIPNLDMLMAKFDQIHTHADDEVRYVIDGEAIFGFVRPDGSQAELTVQPEEYINVPAGTEHWFYLTPAKRVKAVRYFITTEGW
+#=GR BGC0001704.1_ORF4:gid:nocB:pid:AQX77678.1:loc:1871:2426:strand:-:13:169           PP ***9999888888777776655443...................................3344444445444444444444333333334555...........88888999999**********************************9999999999****************************************
+BGC0001703.1_ORF3:gid:nocB:pid:AKL71634.1:loc:1735:2293:strand:-:5:169                    ...................lengtl-----------------HTDLNEIAQELAPLKIEINRWSVADN--PELKELLVQDSLNDEQKEQVlkgvdiyfeqlkqtagyqarDLVVLHPGIPNLNELMAKFQQIHTHADDEVRYIIDGEGIFGFVLPDDSQVELTVQPEEYINVPAGTEHWFYLTSIKRVKAVRYFTTTEGW
+#=GR BGC0001703.1_ORF3:gid:nocB:pid:AKL71634.1:loc:1735:2293:strand:-:5:169            PP ...................*88765.................78999999999999999888877666..66666777666666666666668999**************99****************************************************************************************
+BGC0001316.1_ORF6:gid:chr3.CM0241.600.r2.m:pid::loc:185460:187306:strand:+:46:152         ..............ilhhdgshhlr--------------------------------------------------------------MWD....................MLDLCPEKVENYEKKLKNFYTEHIHHDEEIRYCLEGSGYFDVRDKGDRWIRIWIKAGDLIILPAGSYHRITLNTSNYVKLMRLFIGEPVW
+#=GR BGC0001316.1_ORF6:gid:chr3.CM0241.600.r2.m:pid::loc:185460:187306:strand:+:46:152 PP ..............*9987765444..............................................................444....................6899**************************************************************************************
+#=GC PP_cons                                                                              ..........................................789999999999999998666665554555555555555555555444....................899****************************************9**********************************************
+#=GC RF                                                                                   .........................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BGC0001704.1_ORF4:gid:nocB:pid:AQX77678.1:loc:1871:2426:strand:-:13:169                   IP
+#=GR BGC0001704.1_ORF4:gid:nocB:pid:AQX77678.1:loc:1871:2426:strand:-:13:169           PP 85
+BGC0001703.1_ORF3:gid:nocB:pid:AKL71634.1:loc:1735:2293:strand:-:5:169                    TP
+#=GR BGC0001703.1_ORF3:gid:nocB:pid:AKL71634.1:loc:1735:2293:strand:-:5:169            PP 86
+BGC0001316.1_ORF6:gid:chr3.CM0241.600.r2.m:pid::loc:185460:187306:strand:+:46:152         TA
+#=GR BGC0001316.1_ORF6:gid:chr3.CM0241.600.r2.m:pid::loc:185460:187306:strand:+:46:152 PP 96
+#=GC PP_cons                                                                              86
+#=GC RF                                                                                   xx
+//

@@ -1,0 +1,131 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="585.5666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="575.5666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg3897_1)</title>
+			<polygon class=" (ctg3897_1)" points="43,25 43,25 43,10 13,40 43,70 43,55 43,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Nitroreductase (PF00881)
+"Nitroreductase family"</title>
+				<polygon class="PF00881" points="17,40 29,28 32,28 32,52 29,52" stroke-linejoin="round" width="18" height="24" fill="rgb(79,118,187)" stroke="rgb(63,94,149)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3897_2)</title>
+			<polygon class=" (ctg3897_2)" points="44,40 70,10 70,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3897_3)</title>
+			<polygon class=" (ctg3897_3)" points="108,25 101,25 101,10 71,40 101,70 101,55 108,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ThiF (PF00899)
+"ThiF family"</title>
+				<polygon class="PF00899" points="75,40 87,28 98,28 98,52 87,52" stroke-linejoin="round" width="26" height="24" fill="rgb(82,50,180)" stroke="rgb(65,39,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3897_4)</title>
+			<polygon class=" (ctg3897_4)" points="129,40 154,10 154,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LytTR (PF04397)
+"LytTr DNA-binding domain"</title>
+				<polygon class="PF04397" points="133,40 138,34 138,46" stroke-linejoin="round" width="9" height="24" fill="rgb(207,76,174)" stroke="rgb(165,60,139)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<polygon class="PF00072" points="142,29 143,28 152,28 152,52 143,52 142,51" stroke-linejoin="round" width="10" height="24" fill="rgb(100,107,203)" stroke="rgb(80,85,162)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3897_5)</title>
+			<polygon class=" (ctg3897_5)" points="189,25 186,25 186,10 156,40 186,70 186,55 189,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>His_kinase (PF06580)
+"Histidine kinase"</title>
+				<polygon class="PF06580" points="167,33 172,28 174,28 174,52 172,52 167,47" stroke-linejoin="round" width="7" height="24" fill="rgb(87,219,195)" stroke="rgb(69,175,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3897_6)</title>
+			<polygon class=" (ctg3897_6)" points="238,25 220,25 220,10 190,40 220,70 220,55 238,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YcaO (PF02624)
+"YcaO cyclodehydratase, ATP-ad Mg2+-binding"</title>
+				<polygon class="PF02624" points="194,40 206,28 229,28 229,52 206,52 194,40" stroke-linejoin="round" width="35" height="24" fill="rgb(76,84,185)" stroke="rgb(60,67,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3897_7)</title>
+			<polygon class=" (ctg3897_7)" points="300,25 280,25 280,10 250,40 280,70 280,55 300,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Na_H_antiporter (PF03553)
+"Na+/H+ antiporter family"</title>
+				<polygon class="PF03553" points="254,40 266,28 282,28 282,52 266,52" stroke-linejoin="round" width="30" height="24" fill="rgb(115,72,216)" stroke="rgb(91,57,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3897_8)</title>
+			<polygon class=" (ctg3897_8)" points="384,25 336,25 336,10 306,40 336,70 336,55 384,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pkinase (PF00069)
+"Protein kinase domain"</title>
+				<polygon class="PF00069" points="320,30 322,28 346,28 346,52 322,52 320,50" stroke-linejoin="round" width="26" height="24" fill="rgb(104,187,65)" stroke="rgb(83,149,51)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SIR2_2 (PF13289)
+"SIR2-like domain"</title>
+				<rect class="PF13289" x="357" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(70,187,154)" stroke="rgb(56,149,123)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3897_9)</title>
+			<polygon class=" (ctg3897_9)" points="395,25 395,25 395,10 425,40 395,70 395,55 395,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3897_10)</title>
+			<polygon class=" (ctg3897_10)" points="429,40 440,10 440,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3897_11)</title>
+			<polygon class=" (ctg3897_11)" points="444,40 460,10 460,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Sigma54_activat (PF00158)
+"Sigma-54 interaction domain"</title>
+				<polygon class="PF00158" points="449,36 453,28 459,28 459,52 453,52 449,44" stroke-linejoin="round" width="10" height="24" fill="rgb(101,145,216)" stroke="rgb(80,115,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3897_12)</title>
+			<polygon class=" (ctg3897_12)" points="464,25 478,25 478,10 508,40 478,70 478,55 464,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>UPF0004 (PF00919)
+"Uncharacterized protein family UPF0004"</title>
+				<rect class="PF00919" x="464" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(97,207,199)" stroke="rgb(77,165,159)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<polygon class="PF04055" points="478,28 491,28 495,32 495,48 491,52 478,52" stroke-linejoin="round" width="17" height="24" fill="rgb(149,56,222)" stroke="rgb(119,44,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3897_13)</title>
+			<polygon class=" (ctg3897_13)" points="550,25 544,25 544,10 514,40 544,70 544,55 550,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<polygon class="PF04055" points="522,36 530,28 539,28 539,52 530,52 522,44" stroke-linejoin="round" width="17" height="24" fill="rgb(149,56,222)" stroke="rgb(119,44,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3897_14)</title>
+			<polygon class=" (ctg3897_14)" points="560,10 575,40 560,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_M16 (PF00675)
+"Insulinase (Peptidase family M16)"</title>
+				<polygon class="PF00675" points="561,28 565,28 571,40 565,52 561,52" stroke-linejoin="round" width="13" height="24" fill="rgb(70,225,127)" stroke="rgb(56,180,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,60 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="261.73333333333335" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="251.73333333333332" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg12187_1)</title>
+			<polygon class=" (ctg12187_1)" points="40,25 40,25 40,10 10,40 40,70 40,55 40,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg12187_2)</title>
+			<polygon class=" (ctg12187_2)" points="54,10 74,40 54,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CarbopepD_reg_2 (PF13715)
+"CarboxypepD_reg-like domain"</title>
+				<rect class="PF13715" x="54" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(198,51,128)" stroke="rgb(158,40,102)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg12187_3)</title>
+			<polygon class=" (ctg12187_3)" points="77,10 104,40 77,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CarbopepD_reg_2 (PF13715)
+"CarboxypepD_reg-like domain"</title>
+				<polygon class="PF13715" points="81,28 88,28 89,28 89,52 88,52 81,52" stroke-linejoin="round" width="8" height="24" fill="rgb(198,51,128)" stroke="rgb(158,40,102)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg12187_4)</title>
+			<polygon class=" (ctg12187_4)" points="161,25 134,25 134,10 104,40 134,70 134,55 161,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ArsP_1 (PF03773)
+"Predicted permease"</title>
+				<polygon class="PF03773" points="109,39 120,28 137,28 137,52 120,52 109,41" stroke-linejoin="round" width="28" height="24" fill="rgb(103,196,76)" stroke="rgb(82,156,60)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg12187_5)</title>
+			<polygon class=" (ctg12187_5)" points="167,25 221,25 221,10 251,40 221,70 221,55 167,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="167" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<rect class="PF02801" x="193" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KAsynt_C_assoc (PF16197)
+"Ketoacyl-synthetase C-terminal extension"</title>
+				<rect class="PF16197" x="205" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(240,150,172)" stroke="rgb(192,120,137)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl_transf_1 (PF00698)
+"Acyl transferase domain"</title>
+				<polygon class="PF00698" points="222,28 234,28 246,40 234,52 222,52" stroke-linejoin="round" width="28" height="24" fill="rgb(59,176,209)" stroke="rgb(47,140,167)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

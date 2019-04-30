@@ -1,0 +1,80 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="441.93333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="431.93333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg96_21)</title>
+			<polygon class=" (ctg96_21)" points="35,10 60,40 35,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg96_22)</title>
+			<polygon class=" (ctg96_22)" points="60,10 88,40 60,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg96_23)</title>
+			<polygon class=" (ctg96_23)" points="88,25 102,25 102,10 132,40 102,70 102,55 88,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="110,28 116,28 124,36 124,44 116,52 110,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg96_24)</title>
+			<polygon class=" (ctg96_24)" points="133,25 145,25 145,10 175,40 145,70 145,55 133,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg96_25)</title>
+			<polygon class=" (ctg96_25)" points="176,25 223,25 223,10 253,40 223,70 223,55 176,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YcaO (PF02624)
+"YcaO cyclodehydratase, ATP-ad Mg2+-binding"</title>
+				<polygon class="PF02624" points="215,28 237,28 248,39 248,41 237,52 215,52" stroke-linejoin="round" width="33" height="24" fill="rgb(76,84,185)" stroke="rgb(60,67,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg96_26)</title>
+			<polygon class=" (ctg96_26)" points="256,40 264,10 264,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg96_27)</title>
+			<polygon class=" (ctg96_27)" points="324,25 297,25 297,10 267,40 297,70 297,55 324,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GlnE (PF03710)
+"Glutamate-ammonia ligase adenylyltransferase"</title>
+				<polygon class="PF03710" points="272,39 283,28 297,28 297,52 283,52 272,41" stroke-linejoin="round" width="25" height="24" fill="rgb(81,188,126)" stroke="rgb(64,150,100)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FA_desaturase (PF00487)
+"Fatty acid desaturase"</title>
+				<rect class="PF00487" x="302" y="28" stroke-linejoin="round" width="21" height="24" fill="rgb(104,51,205)" stroke="rgb(83,40,164)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg96_28)</title>
+			<polygon class=" (ctg96_28)" points="341,40 357,10 357,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lumazine_bd_2 (PF12893)
+"Putative lumazine-binding"</title>
+				<polygon class="PF12893" points="344,40 351,28 354,28 354,52 351,52" stroke-linejoin="round" width="12" height="24" fill="rgb(191,119,51)" stroke="rgb(152,95,40)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg96_29)</title>
+			<polygon class=" (ctg96_29)" points="358,40 378,10 378,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ferric_reduct (PF01794)
+"Ferric reductase like transmembrane component"</title>
+				<polygon class="PF01794" points="362,40 370,28 373,28 373,52 370,52 362,40" stroke-linejoin="round" width="11" height="24" fill="rgb(64,69,204)" stroke="rgb(51,55,163)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg96_30)</title>
+			<polygon class=" (ctg96_30)" points="410,25 408,25 408,10 378,40 408,70 408,55 410,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Oxidored_molyb (PF00174)
+"Oxidoreductase molybdopterin binding domain"</title>
+				<polygon class="PF00174" points="384,38 394,28 400,28 400,52 394,52 384,42" stroke-linejoin="round" width="16" height="24" fill="rgb(152,193,93)" stroke="rgb(121,154,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

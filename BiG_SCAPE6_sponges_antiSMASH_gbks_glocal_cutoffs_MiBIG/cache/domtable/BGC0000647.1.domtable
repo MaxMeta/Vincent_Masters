@@ -1,0 +1,17 @@
+#                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Amino_oxidase        PF01593.24   452 BGC0000647.1_ORF1:gid:crtI:pid:AAB31138.1:loc:251:1808:strand:+ -            518   1.7e-26   93.5   0.2   1   1   3.1e-29   1.4e-25   90.5   0.2     1   445    20   493    20   498 0.81 Flavin containing amine oxidoreductase
+NAD_binding_8        PF13450.6     68 BGC0000647.1_ORF1:gid:crtI:pid:AAB31138.1:loc:251:1808:strand:+ -            518   2.6e-15   56.4   0.8   1   1   5.1e-18   2.3e-14   53.4   0.1     1    65    15    76    15    80 0.91 NAD(P)-binding Rossmann-like domain
+FAD_binding_2        PF00890.24   417 BGC0000647.1_ORF1:gid:crtI:pid:AAB31138.1:loc:251:1808:strand:+ -            518     2e-07   30.5   5.0   1   1   6.2e-09   2.8e-05   23.4   1.2     2    36    13    47    12    56 0.91 FAD binding domain
+SQS_PSY              PF00494.19   263 BGC0000647.1_ORF2:gid:crtB:pid:AAB31139.1:loc:1804:2872:strand:+ -            355   9.6e-67  225.2   8.2   1   1   8.2e-71   1.5e-66  224.6   8.2     2   262    15   276    14   278 0.94 Squalene/phytoene synthase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000647.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000647.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000647.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:29:25 2019
+# [ok]

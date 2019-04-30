@@ -1,0 +1,108 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="336.9" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="326.9" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg6948_1)</title>
+			<polygon class=" (ctg6948_1)" points="55,25 40,25 40,10 10,40 40,70 40,55 55,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQHop_cyclase_N (PF13249)
+"Squalene-hopene cyclase N-terminal domain"</title>
+				<rect class="PF13249" x="36" y="28" stroke-linejoin="round" width="19" height="24" fill="rgb(88,190,89)" stroke="rgb(70,152,71)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6948_2)</title>
+			<polygon class=" (ctg6948_2)" points="58,40 83,10 83,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Prenyltrans (PF00432)
+"Prenyltransferase and squalene oxidase repeat"</title>
+				<polygon class="PF00432" points="62,40 61,41 61,39" stroke-linejoin="round" width="3" height="24" fill="rgb(218,215,79)" stroke="rgb(174,172,63)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Prenyltrans (PF00432)
+"Prenyltransferase and squalene oxidase repeat"</title>
+				<polygon class="PF00432" points="63,39 67,34 67,46 63,41" stroke-linejoin="round" width="4" height="24" fill="rgb(218,215,79)" stroke="rgb(174,172,63)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Prenyltrans (PF00432)
+"Prenyltransferase and squalene oxidase repeat"</title>
+				<rect class="PF00432" x="77" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(218,215,79)" stroke="rgb(174,172,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6948_3)</title>
+			<polygon class=" (ctg6948_3)" points="140,25 112,25 112,10 82,40 112,70 112,55 140,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>polyprenyl_synt (PF00348)
+"Polyprenyl synthetase"</title>
+				<polygon class="PF00348" points="89,37 98,28 114,28 114,52 98,52 89,43" stroke-linejoin="round" width="25" height="24" fill="rgb(61,206,65)" stroke="rgb(48,164,52)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DUF116 (PF01976)
+"Protein of unknown function DUF116"</title>
+				<rect class="PF01976" x="118" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(103,188,75)" stroke="rgb(82,150,60)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6948_4)</title>
+			<polygon class=" (ctg6948_4)" points="181,25 171,25 171,10 141,40 171,70 171,55 181,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<rect class="PF04055" x="160" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(149,56,222)" stroke="rgb(119,44,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6948_5)</title>
+			<polygon class=" (ctg6948_5)" points="183,40 212,10 212,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg6948_6)</title>
+			<polygon class=" (ctg6948_6)" points="214,40 224,10 224,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg6948_7)</title>
+			<polygon class=" (ctg6948_7)" points="261,25 255,25 255,10 225,40 255,70 255,55 261,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>cobW (PF02492)
+"CobW/HypB/UreG, nucleotide-binding domain"</title>
+				<rect class="PF02492" x="242" y="28" stroke-linejoin="round" width="18" height="24" fill="rgb(79,112,178)" stroke="rgb(63,89,142)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6948_8)</title>
+			<polygon class=" (ctg6948_8)" points="261,40 264,10 264,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg6948_9)</title>
+			<polygon class=" (ctg6948_9)" points="264,40 279,10 279,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GCV_H (PF01597)
+"Glycine cleavage H-protein"</title>
+				<polygon class="PF01597" points="267,40 273,28 276,28 276,52 273,52" stroke-linejoin="round" width="10" height="24" fill="rgb(77,190,144)" stroke="rgb(61,152,115)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6948_10)</title>
+			<polygon class=" (ctg6948_10)" points="286,10 294,40 286,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PrlF_antitoxin (PF15937)
+"prlF antitoxin for toxin YhaV_toxin"</title>
+				<polygon class="PF15937" points="286,28 287,28 290,36 290,44 287,52 286,52" stroke-linejoin="round" width="4" height="24" fill="rgb(107,71,182)" stroke="rgb(85,56,145)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6948_11)</title>
+			<polygon class=" (ctg6948_11)" points="294,10 307,40 294,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PIN (PF01850)
+"PIN domain"</title>
+				<polygon class="PF01850" points="294,28 298,28 304,40 298,52 294,52" stroke-linejoin="round" width="12" height="24" fill="rgb(91,217,126)" stroke="rgb(72,173,100)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6948_12)</title>
+			<polygon class=" (ctg6948_12)" points="308,40 326,10 326,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

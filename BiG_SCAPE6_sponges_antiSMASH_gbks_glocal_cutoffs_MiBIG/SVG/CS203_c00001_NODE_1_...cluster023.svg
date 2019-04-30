@@ -1,0 +1,67 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="417.6333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="407.6333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg134_89)</title>
+			<polygon class=" (ctg134_89)" points="30,40 40,10 40,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Multi_Drug_Res (PF00893)
+"Small Multidrug Resistance protein"</title>
+				<polygon class="PF00893" points="33,40 37,28 40,28 40,52 37,52" stroke-linejoin="round" width="9" height="24" fill="rgb(199,75,202)" stroke="rgb(159,60,161)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg134_90)</title>
+			<polygon class=" (ctg134_90)" points="85,25 113,25 113,10 143,40 113,70 113,55 85,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Xan_ur_permease (PF00860)
+"Permease family"</title>
+				<rect class="PF00860" x="87" y="28" stroke-linejoin="round" width="38" height="24" fill="rgb(216,88,217)" stroke="rgb(172,70,173)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg134_91)</title>
+			<polygon class=" (ctg134_91)" points="145,40 157,10 157,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg134_92)</title>
+			<polygon class=" (ctg134_92)" points="158,10 176,40 158,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pterin_4a (PF01329)
+"Pterin 4 alpha carbinolamine dehydratase"</title>
+				<polygon class="PF01329" points="166,29 172,40 166,51" stroke-linejoin="round" width="9" height="24" fill="rgb(109,209,90)" stroke="rgb(87,167,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg134_93)</title>
+			<polygon class=" (ctg134_93)" points="176,25 210,25 210,10 240,40 210,70 210,55 176,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>B12-binding (PF02310)
+"B12 binding domain"</title>
+				<rect class="PF02310" x="188" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(145,190,60)" stroke="rgb(115,152,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg134_94)</title>
+			<polygon class=" (ctg134_94)" points="249,40 257,10 257,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg134_95)</title>
+			<polygon class=" (ctg134_95)" points="274,10 297,40 274,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF502 (PF04367)
+"Protein of unknown function (DUF502)"</title>
+				<polygon class="PF04367" points="280,28 284,28 290,36 290,44 284,52 280,52" stroke-linejoin="round" width="10" height="24" fill="rgb(56,223,87)" stroke="rgb(44,178,69)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg134_96)</title>
+			<polygon class=" (ctg134_96)" points="302,25 309,25 309,10 339,40 309,70 309,55 302,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HlyD_D23 (PF16576)
+"Barrel-sandwich domain of CusB or HlyD membrane-fusion"</title>
+				<polygon class="PF16576" points="307,28 323,28 330,35 330,45 323,52 307,52" stroke-linejoin="round" width="23" height="24" fill="rgb(70,190,92)" stroke="rgb(56,152,73)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

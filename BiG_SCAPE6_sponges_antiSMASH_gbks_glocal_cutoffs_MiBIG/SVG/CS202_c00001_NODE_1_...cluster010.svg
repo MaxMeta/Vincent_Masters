@@ -1,0 +1,175 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="721.2666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="711.2666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg49_29)</title>
+			<polygon class=" (ctg49_29)" points="48,25 56,25 56,10 86,40 56,70 56,55 48,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyco_trans_1_4 (PF13692)
+"Glycosyl transferases group 1"</title>
+				<polygon class="PF13692" points="68,28 70,28 82,40 82,40 70,52 68,52" stroke-linejoin="round" width="14" height="24" fill="rgb(85,182,142)" stroke="rgb(68,145,113)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg49_30)</title>
+			<polygon class=" (ctg49_30)" points="93,25 114,25 114,10 144,40 114,70 114,55 93,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>OEP (PF02321)
+"Outer membrane efflux protein"</title>
+				<rect class="PF02321" x="99" y="28" stroke-linejoin="round" width="21" height="24" fill="rgb(205,57,201)" stroke="rgb(164,45,160)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>OEP (PF02321)
+"Outer membrane efflux protein"</title>
+				<polygon class="PF02321" points="123,28 128,28 140,40 128,52 123,52" stroke-linejoin="round" width="18" height="24" fill="rgb(205,57,201)" stroke="rgb(164,45,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg49_31)</title>
+			<polygon class=" (ctg49_31)" points="144,25 154,25 154,10 184,40 154,70 154,55 144,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Biotin_lipoyl_2 (PF13533)
+"Biotin-lipoyl like"</title>
+				<rect class="PF13533" x="150" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(229,122,112)" stroke="rgb(183,97,89)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HlyD_3 (PF13437)
+"HlyD family secretion protein"</title>
+				<polygon class="PF13437" points="162,28 168,28 173,33 173,47 168,52 162,52" stroke-linejoin="round" width="11" height="24" fill="rgb(82,200,102)" stroke="rgb(65,160,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg49_32)</title>
+			<polygon class=" (ctg49_32)" points="185,25 261,25 261,10 291,40 261,70 261,55 185,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ACR_tran (PF00873)
+"AcrB/AcrD/AcrF family"</title>
+				<rect class="PF00873" x="186" y="28" stroke-linejoin="round" width="60" height="24" fill="rgb(63,191,60)" stroke="rgb(50,152,48)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ACR_tran (PF00873)
+"AcrB/AcrD/AcrF family"</title>
+				<polygon class="PF00873" points="250,28 275,28 287,40 275,52 250,52" stroke-linejoin="round" width="39" height="24" fill="rgb(63,191,60)" stroke="rgb(50,152,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg49_33)</title>
+			<polygon class=" (ctg49_33)" points="336,25 326,25 326,10 296,40 326,70 326,55 336,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2236 (PF09995)
+"Uncharacterized protein conserved in bacteria (DUF2236)"</title>
+				<polygon class="PF09995" points="300,40 312,28 325,28 325,52 312,52 300,40" stroke-linejoin="round" width="25" height="24" fill="rgb(194,179,92)" stroke="rgb(155,143,73)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg49_34)</title>
+			<polygon class=" (ctg49_34)" points="377,25 373,25 373,10 343,40 373,70 373,55 377,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="347,40 359,28 375,28 375,52 359,52" stroke-linejoin="round" width="29" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg49_35)</title>
+			<polygon class=" (ctg49_35)" points="384,40 398,10 398,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PIN (PF01850)
+"PIN domain"</title>
+				<polygon class="PF01850" points="387,40 393,28 398,28 398,52 393,52" stroke-linejoin="round" width="13" height="24" fill="rgb(91,217,126)" stroke="rgb(72,173,100)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg49_36)</title>
+			<polygon class=" (ctg49_36)" points="398,40 407,10 407,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PhdYeFM_antitox (PF02604)
+"Antitoxin Phd_YefM, type II toxin-antitoxin system"</title>
+				<polygon class="PF02604" points="401,40 405,28 406,28 406,52 405,52" stroke-linejoin="round" width="6" height="24" fill="rgb(204,60,69)" stroke="rgb(163,48,55)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg49_37)</title>
+			<polygon class=" (ctg49_37)" points="446,25 440,25 440,10 410,40 440,70 440,55 446,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_1 (PF00534)
+"Glycosyl transferases group 1"</title>
+				<polygon class="PF00534" points="414,40 426,28 428,28 428,52 426,52" stroke-linejoin="round" width="17" height="24" fill="rgb(228,92,150)" stroke="rgb(182,73,119)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg49_38)</title>
+			<polygon class=" (ctg49_38)" points="447,40 472,10 472,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_21 (PF05050)
+"Methyltransferase FkbM domain"</title>
+				<polygon class="PF05050" points="451,40 461,28 467,28 467,52 461,52 451,40" stroke-linejoin="round" width="16" height="24" fill="rgb(95,204,52)" stroke="rgb(76,163,41)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg49_39)</title>
+			<polygon class=" (ctg49_39)" points="517,25 503,25 503,10 473,40 503,70 503,55 517,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Polysacc_synt_C (PF14667)
+"Polysaccharide biosynthesis C-terminal domain"</title>
+				<polygon class="PF14667" points="477,40 481,36 481,44" stroke-linejoin="round" width="8" height="24" fill="rgb(222,92,150)" stroke="rgb(177,73,120)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Polysacc_synt (PF01943)
+"Polysaccharide biosynthesis protein"</title>
+				<polygon class="PF01943" points="487,30 489,28 514,28 514,52 489,52 487,50" stroke-linejoin="round" width="27" height="24" fill="rgb(71,213,101)" stroke="rgb(56,170,80)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg49_40)</title>
+			<polygon class=" (ctg49_40)" points="564,25 546,25 546,10 516,40 546,70 546,55 564,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Wzy_C (PF04932)
+"O-Antigen ligase"</title>
+				<polygon class="PF04932" points="524,36 532,28 539,28 539,52 532,52 524,44" stroke-linejoin="round" width="15" height="24" fill="rgb(106,219,107)" stroke="rgb(84,175,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg49_41)</title>
+			<polygon class=" (ctg49_41)" points="605,25 595,25 595,10 565,40 595,70 595,55 605,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Wzz (PF02706)
+"Chain length determinant protein"</title>
+				<rect class="PF02706" x="593" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(184,132,90)" stroke="rgb(147,105,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg49_42)</title>
+			<polygon class=" (ctg49_42)" points="663,25 636,25 636,10 606,40 636,70 636,55 663,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SLBB (PF10531)
+"SLBB domain"</title>
+				<rect class="PF10531" x="626" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(92,145,209)" stroke="rgb(73,116,167)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SLBB (PF10531)
+"SLBB domain"</title>
+				<rect class="PF10531" x="634" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(92,145,209)" stroke="rgb(73,116,167)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Poly_export (PF02563)
+"Polysaccharide biosynthesis/export protein"</title>
+				<rect class="PF02563" x="650" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(125,185,59)" stroke="rgb(100,148,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg49_43)</title>
+			<polygon class=" (ctg49_43)" points="677,10 706,40 677,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GHMP_kinases_N (PF00288)
+"GHMP kinases N terminal domain"</title>
+				<polygon class="PF00288" points="687,28 690,28 692,30 692,50 690,52 687,52" stroke-linejoin="round" width="5" height="24" fill="rgb(190,54,91)" stroke="rgb(152,43,72)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GHMP_kinases_C (PF08544)
+"GHMP kinases C terminal"</title>
+				<polygon class="PF08544" points="698,36 702,40 698,44" stroke-linejoin="round" width="8" height="24" fill="rgb(95,112,219)" stroke="rgb(76,89,175)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

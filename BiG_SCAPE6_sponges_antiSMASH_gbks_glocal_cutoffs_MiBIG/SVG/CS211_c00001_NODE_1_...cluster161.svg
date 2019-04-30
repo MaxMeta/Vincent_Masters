@@ -1,0 +1,114 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="436.6666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="426.6666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg5794_1)</title>
+			<polygon class=" (ctg5794_1)" points="10,40 32,10 32,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ECH_1 (PF00378)
+"Enoyl-CoA hydratase/isomerase"</title>
+				<polygon class="PF00378" points="14,40 23,28 27,28 27,52 23,52" stroke-linejoin="round" width="17" height="24" fill="rgb(218,72,181)" stroke="rgb(174,57,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5794_2)</title>
+			<polygon class=" (ctg5794_2)" points="32,40 61,10 61,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SKI (PF01202)
+"Shikimate kinase"</title>
+				<polygon class="PF01202" points="36,40 48,28 49,28 49,52 48,52" stroke-linejoin="round" width="16" height="24" fill="rgb(62,197,58)" stroke="rgb(49,157,46)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HTH_31 (PF13560)
+"Helix-turn-helix domain"</title>
+				<rect class="PF13560" x="54" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(207,145,90)" stroke="rgb(165,116,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5794_3)</title>
+			<polygon class=" (ctg5794_3)" points="62,10 77,40 62,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Flavodoxin_1 (PF00258)
+"Flavodoxin"</title>
+				<polygon class="PF00258" points="62,28 67,28 74,40 67,52 62,52" stroke-linejoin="round" width="14" height="24" fill="rgb(77,169,183)" stroke="rgb(61,135,146)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5794_4)</title>
+			<polygon class=" (ctg5794_4)" points="78,25 97,25 97,10 127,40 97,70 97,55 78,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<polygon class="PF00501" points="79,28 111,28 118,35 118,45 111,52 79,52" stroke-linejoin="round" width="39" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<polygon class="PF13193" points="119,36 123,40 119,44" stroke-linejoin="round" width="7" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5794_5)</title>
+			<polygon class=" (ctg5794_5)" points="127,10 153,40 127,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Abhydrolase_6 (PF12697)
+"Alpha/beta hydrolase family"</title>
+				<polygon class="PF12697" points="130,28 138,28 149,40 138,52 130,52" stroke-linejoin="round" width="22" height="24" fill="rgb(113,71,219)" stroke="rgb(90,56,175)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5794_6)</title>
+			<polygon class=" (ctg5794_6)" points="196,25 184,25 184,10 154,40 184,70 184,55 196,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg5794_7)</title>
+			<polygon class=" (ctg5794_7)" points="231,25 226,25 226,10 196,40 226,70 226,55 231,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="200,40 212,28 229,28 229,52 212,52 200,40" stroke-linejoin="round" width="29" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5794_8)</title>
+			<polygon class=" (ctg5794_8)" points="336,25 290,25 290,10 260,40 290,70 290,55 336,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MMPL (PF03176)
+"MMPL family"</title>
+				<polygon class="PF03176" points="264,40 276,28 281,28 281,52 276,52" stroke-linejoin="round" width="21" height="24" fill="rgb(228,109,193)" stroke="rgb(182,87,154)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MMPL (PF03176)
+"MMPL family"</title>
+				<rect class="PF03176" x="295" y="28" stroke-linejoin="round" width="35" height="24" fill="rgb(228,109,193)" stroke="rgb(182,87,154)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5794_9)</title>
+			<polygon class=" (ctg5794_9)" points="378,25 369,25 369,10 339,40 369,70 369,55 378,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2236 (PF09995)
+"Uncharacterized protein conserved in bacteria (DUF2236)"</title>
+				<polygon class="PF09995" points="343,40 355,28 367,28 367,52 355,52 343,40" stroke-linejoin="round" width="24" height="24" fill="rgb(194,179,92)" stroke="rgb(155,143,73)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5794_10)</title>
+			<polygon class=" (ctg5794_10)" points="388,10 395,40 388,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Hydant_A_N (PF05378)
+"Hydantoinase/oxoprolinase N-terminal region"</title>
+				<polygon class="PF05378" points="388,28 388,28 391,40 388,52 388,52" stroke-linejoin="round" width="5" height="24" fill="rgb(116,89,225)" stroke="rgb(92,71,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5794_11)</title>
+			<polygon class=" (ctg5794_11)" points="405,10 422,40 405,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Hydant_A_N (PF05378)
+"Hydantoinase/oxoprolinase N-terminal region"</title>
+				<polygon class="PF05378" points="405,28 411,28 419,40 411,52 405,52" stroke-linejoin="round" width="16" height="24" fill="rgb(116,89,225)" stroke="rgb(92,71,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

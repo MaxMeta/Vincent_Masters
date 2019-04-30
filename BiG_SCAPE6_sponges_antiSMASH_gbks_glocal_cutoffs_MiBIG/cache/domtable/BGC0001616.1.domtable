@@ -1,0 +1,18 @@
+#                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ADH_zinc_N           PF00107.26   130 BGC0001616.1_ORF1:gid:himH:pid:BBA91552.1:loc:488:1734:strand:+ -            342   2.2e-11   43.9   0.1   1   1   4.2e-15   3.8e-11   43.1   0.1     2    81   171   247   170   276 0.86 Zinc-binding dehydrogenase
+ADH_N                PF08240.12   109 BGC0001616.1_ORF1:gid:himH:pid:BBA91552.1:loc:488:1734:strand:+ -            342   2.4e-11   43.5   0.0   1   1   7.3e-15   6.5e-11   42.1   0.0     2    62    32    91    31    97 0.94 Alcohol dehydrogenase GroES-like domain
+PhyH                 PF05721.13   211 BGC0001616.1_ORF2:gid:himG:pid:BBA91553.1:loc:8839:9862:strand:- -            322   5.4e-19   69.3   0.0   1   1   4.7e-23   8.4e-19   68.7   0.0     3   207    39   238    37   242 0.79 Phytanoyl-CoA dioxygenase (PhyH)
+NmrA                 PF05368.13   233 BGC0001616.1_ORF3:gid:himF:pid:BBA91554.1:loc:10346:11614:strand:+ -            331   3.3e-34  118.4   0.0   1   1   7.3e-38   6.5e-34  117.5   0.0     1   232     4   250     4   251 0.87 NmrA-like family
+NAD_binding_10       PF13460.6    184 BGC0001616.1_ORF3:gid:himF:pid:BBA91554.1:loc:10346:11614:strand:+ -            331   3.7e-12   46.5   0.4   1   1   6.7e-16     6e-12   45.8   0.4     1    99     8   115     8   141 0.85 NAD(P)H-binding
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001616.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001616.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001616.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:38:04 2019
+# [ok]

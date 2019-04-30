@@ -1,0 +1,157 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="744.1" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="734.1" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg193_1)</title>
+			<polygon class=" (ctg193_1)" points="12,10 33,40 12,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HlyD_3 (PF13437)
+"HlyD family secretion protein"</title>
+				<polygon class="PF13437" points="14,28 21,28 24,32 24,48 21,52 14,52" stroke-linejoin="round" width="10" height="24" fill="rgb(82,200,102)" stroke="rgb(65,160,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg193_2)</title>
+			<polygon class=" (ctg193_2)" points="35,25 110,25 110,10 140,40 110,70 110,55 35,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ACR_tran (PF00873)
+"AcrB/AcrD/AcrF family"</title>
+				<polygon class="PF00873" points="36,28 124,28 136,40 124,52 36,52" stroke-linejoin="round" width="102" height="24" fill="rgb(63,191,60)" stroke="rgb(50,152,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg193_3)</title>
+			<polygon class=" (ctg193_3)" points="141,25 218,25 218,10 248,40 218,70 218,55 141,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ACR_tran (PF00873)
+"AcrB/AcrD/AcrF family"</title>
+				<polygon class="PF00873" points="143,28 232,28 244,40 232,52 143,52" stroke-linejoin="round" width="102" height="24" fill="rgb(63,191,60)" stroke="rgb(50,152,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg193_4)</title>
+			<polygon class=" (ctg193_4)" points="249,25 256,25 256,10 286,40 256,70 256,55 249,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Beta-lactamase (PF00144)
+"Beta-lactamase"</title>
+				<polygon class="PF00144" points="250,28 269,28 281,40 269,52 250,52" stroke-linejoin="round" width="34" height="24" fill="rgb(92,159,200)" stroke="rgb(73,127,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg193_5)</title>
+			<polygon class=" (ctg193_5)" points="286,25 370,25 370,10 400,40 370,70 370,55 286,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FAD_binding_3 (PF01494)
+"FAD binding domain"</title>
+				<rect class="PF01494" x="288" y="28" stroke-linejoin="round" width="30" height="24" fill="rgb(182,175,59)" stroke="rgb(145,140,47)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SQHop_cyclase_N (PF13249)
+"Squalene-hopene cyclase N-terminal domain"</title>
+				<rect class="PF13249" x="336" y="28" stroke-linejoin="round" width="29" height="24" fill="rgb(88,190,89)" stroke="rgb(70,152,71)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SQHop_cyclase_C (PF13243)
+"Squalene-hopene cyclase C-terminal domain"</title>
+				<polygon class="PF13243" points="366,28 383,28 395,40 383,52 366,52" stroke-linejoin="round" width="32" height="24" fill="rgb(191,58,201)" stroke="rgb(152,46,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg193_6)</title>
+			<polygon class=" (ctg193_6)" points="461,25 432,25 432,10 402,40 432,70 432,55 461,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<polygon class="PF00501" points="414,32 418,28 456,28 456,52 418,52 414,48" stroke-linejoin="round" width="42" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg193_7)</title>
+			<polygon class=" (ctg193_7)" points="545,25 495,25 495,10 465,40 495,70 495,55 545,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Transpeptidase (PF00905)
+"Penicillin binding protein transpeptidase domain"</title>
+				<polygon class="PF00905" points="472,37 481,28 500,28 500,52 481,52 472,43" stroke-linejoin="round" width="28" height="24" fill="rgb(161,226,87)" stroke="rgb(128,180,69)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PCB_OB (PF17092)
+"Penicillin-binding protein OB-like domain"</title>
+				<rect class="PF17092" x="501" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(71,211,58)" stroke="rgb(56,168,46)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Transgly (PF00912)
+"Transglycosylase"</title>
+				<rect class="PF00912" x="520" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(172,107,216)" stroke="rgb(137,85,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg193_8)</title>
+			<polygon class=" (ctg193_8)" points="546,25 547,25 547,10 577,40 547,70 547,55 546,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PilM_2 (PF11104)
+"Type IV pilus assembly protein PilM;"</title>
+				<polygon class="PF11104" points="547,28 561,28 568,35 568,45 561,52 547,52" stroke-linejoin="round" width="21" height="24" fill="rgb(116,209,94)" stroke="rgb(92,167,75)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PilM_2 (PF11104)
+"Type IV pilus assembly protein PilM;"</title>
+				<polygon class="PF11104" points="568,35 573,40 568,45" stroke-linejoin="round" width="8" height="24" fill="rgb(116,209,94)" stroke="rgb(92,167,75)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg193_9)</title>
+			<polygon class=" (ctg193_9)" points="578,10 597,40 578,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PilN (PF05137)
+"Fimbrial assembly protein (PilN)"</title>
+				<polygon class="PF05137" points="588,32 593,40 588,48" stroke-linejoin="round" width="7" height="24" fill="rgb(172,187,68)" stroke="rgb(137,149,54)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg193_10)</title>
+			<polygon class=" (ctg193_10)" points="596,25 599,25 599,10 629,40 599,70 599,55 596,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PilO (PF04350)
+"Pilus assembly protein, PilO"</title>
+				<polygon class="PF04350" points="600,28 612,28 614,30 614,50 612,52 600,52" stroke-linejoin="round" width="14" height="24" fill="rgb(167,74,182)" stroke="rgb(133,59,145)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PilP (PF04351)
+"Pilus assembly protein, PilP"</title>
+				<polygon class="PF04351" points="615,31 624,40 615,49" stroke-linejoin="round" width="11" height="24" fill="rgb(184,80,168)" stroke="rgb(147,64,134)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg193_11)</title>
+			<polygon class=" (ctg193_11)" points="629,25 641,25 641,10 671,40 641,70 641,55 629,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Secretin_N (PF03958)
+"Bacterial type II/III secretion system short domain"</title>
+				<rect class="PF03958" x="641" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(112,201,90)" stroke="rgb(89,160,72)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Secretin (PF00263)
+"Bacterial type II and III secretion system protein"</title>
+				<polygon class="PF00263" points="654,28 654,28 666,40 654,52 654,52" stroke-linejoin="round" width="15" height="24" fill="rgb(59,184,59)" stroke="rgb(47,147,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg193_12)</title>
+			<polygon class=" (ctg193_12)" points="673,10 691,40 673,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SKI (PF01202)
+"Shikimate kinase"</title>
+				<polygon class="PF01202" points="674,28 680,28 687,40 680,52 674,52" stroke-linejoin="round" width="15" height="24" fill="rgb(62,197,58)" stroke="rgb(49,157,46)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg193_13)</title>
+			<polygon class=" (ctg193_13)" points="690,25 696,25 696,10 726,40 696,70 696,55 690,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DHQ_synthase (PF01761)
+"3-dehydroquinate synthase"</title>
+				<polygon class="PF01761" points="697,28 710,28 722,40 722,40 710,52 697,52" stroke-linejoin="round" width="25" height="24" fill="rgb(150,62,180)" stroke="rgb(120,49,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,48 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="271.3666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="261.3666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg11562_1)</title>
+			<polygon class=" (ctg11562_1)" points="61,25 40,25 40,10 10,40 40,70 40,55 61,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Trp_halogenase (PF04820)
+"Tryptophan halogenase"</title>
+				<polygon class="PF04820" points="14,40 16,38 16,42" stroke-linejoin="round" width="6" height="24" fill="rgb(179,74,194)" stroke="rgb(143,59,155)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FAD_binding_4 (PF01565)
+"FAD binding domain"</title>
+				<rect class="PF01565" x="48" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(226,88,136)" stroke="rgb(180,70,108)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11562_2)</title>
+			<polygon class=" (ctg11562_2)" points="66,25 70,25 70,10 100,40 70,70 70,55 66,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg11562_3)</title>
+			<polygon class=" (ctg11562_3)" points="106,10 118,40 106,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Nif11 (PF07862)
+"Nif11 domain"</title>
+				<polygon class="PF07862" points="106,28 109,28 110,28 110,52 109,52 106,52" stroke-linejoin="round" width="4" height="24" fill="rgb(82,202,204)" stroke="rgb(65,161,163)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11562_4)</title>
+			<polygon class=" (ctg11562_4)" points="121,25 148,25 148,10 178,40 148,70 148,55 121,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg11562_5)</title>
+			<polygon class=" (ctg11562_5)" points="219,25 210,25 210,10 180,40 210,70 210,55 219,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg11562_6)</title>
+			<polygon class=" (ctg11562_6)" points="221,40 233,10 233,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg11562_7)</title>
+			<polygon class=" (ctg11562_7)" points="245,10 261,40 245,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

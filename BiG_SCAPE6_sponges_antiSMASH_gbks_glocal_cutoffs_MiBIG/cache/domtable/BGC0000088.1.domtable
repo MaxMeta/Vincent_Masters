@@ -1,0 +1,22 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+VCBS                 PF13517.6     61 BGC0000088.1_ORF1:gid::pid:AAD34550.1:loc:1812:6865:strand:- -           1529   6.6e-30  103.5  45.9   1   4   5.8e-18   2.6e-14   53.5   4.1     1    60   390   458   390   459 0.96 Repeat domain in Vibrio, Colwellia, Bradyrhizobium and Shewanella
+VCBS                 PF13517.6     61 BGC0000088.1_ORF1:gid::pid:AAD34550.1:loc:1812:6865:strand:- -           1529   6.6e-30  103.5  45.9   2   4   1.1e-10   4.7e-07   30.3   3.3     1    61   698   773   698   773 0.87 Repeat domain in Vibrio, Colwellia, Bradyrhizobium and Shewanella
+VCBS                 PF13517.6     61 BGC0000088.1_ORF1:gid::pid:AAD34550.1:loc:1812:6865:strand:- -           1529   6.6e-30  103.5  45.9   3   4   2.9e-10   1.3e-06   28.9   3.6     1    61   762   822   762   822 0.91 Repeat domain in Vibrio, Colwellia, Bradyrhizobium and Shewanella
+VCBS                 PF13517.6     61 BGC0000088.1_ORF1:gid::pid:AAD34550.1:loc:1812:6865:strand:- -           1529   6.6e-30  103.5  45.9   4   4   3.1e-10   1.4e-06   28.8   2.4     1    59   811   877   811   879 0.70 Repeat domain in Vibrio, Colwellia, Bradyrhizobium and Shewanella
+Lipase_GDSL_2        PF13472.6    179 BGC0000088.1_ORF1:gid::pid:AAD34550.1:loc:1812:6865:strand:- -           1529   8.5e-29  101.2   1.2   1   2   1.3e-18   5.9e-15   56.1   0.2     2   177    64   238    64   240 0.77 GDSL-like Lipase/Acylhydrolase family
+Lipase_GDSL_2        PF13472.6    179 BGC0000088.1_ORF1:gid::pid:AAD34550.1:loc:1812:6865:strand:- -           1529   8.5e-29  101.2   1.2   2   2   1.6e-14   7.1e-11   42.8   0.0     2   159  1177  1416  1176  1426 0.75 GDSL-like Lipase/Acylhydrolase family
+Lipase_GDSL          PF00657.22   200 BGC0000088.1_ORF1:gid::pid:AAD34550.1:loc:1812:6865:strand:- -           1529   3.9e-15   56.4   0.1   1   1   7.2e-14   3.2e-10   40.3   0.0     1   198    61   243    61   245 0.86 GDSL-like Lipase/Acylhydrolase
+PQ-loop              PF04193.14    61 BGC0000088.1_ORF2:gid::pid:AAD34551.1:loc:7615:8602:strand:+ -            328   4.2e-05   23.2   0.7   1   1   9.1e-09   0.00016   21.3   0.7    10    46    46    82    43    95 0.89 PQ loop repeat
+p450                 PF00067.22   463 BGC0000088.1_ORF3:gid:lovA:pid:AAD34552.1:loc:9979:11712:strand:- -            528   1.4e-36  126.2   0.0   1   1   1.2e-40   2.1e-36  125.7   0.0    99   443   149   496   119   515 0.79 Cytochrome P450
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000088.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000088.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000088.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:54:45 2019
+# [ok]

@@ -1,0 +1,27 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ketoacyl-synt        PF00109.26   253 BGC0000037.1_ORF1:gid::pid:CBF69451.1:loc:0:7821:strand:- -           2517     5e-77  258.9   0.0   1   1   1.2e-79   1.6e-76  257.2   0.0     2   253   381   625   380   625 0.93 Beta-ketoacyl synthase, N-terminal domain
+HTH_51               PF18558.1     90 BGC0000037.1_ORF1:gid::pid:CBF69451.1:loc:0:7821:strand:- -           2517   1.5e-30  104.9   0.0   1   1   4.5e-33   6.1e-30  102.9   0.0     1    90  1787  1876  1787  1876 0.99 Helix-turn-helix domain
+Ketoacyl-synt_C      PF02801.22   118 BGC0000037.1_ORF1:gid::pid:CBF69451.1:loc:0:7821:strand:- -           2517   1.3e-28   99.4   1.1   1   1   2.3e-31   3.2e-28   98.1   1.1     2    98   634   730   633   737 0.96 Beta-ketoacyl synthase, C-terminal domain
+PP-binding           PF00550.25    67 BGC0000037.1_ORF1:gid::pid:CBF69451.1:loc:0:7821:strand:- -           2517   5.8e-22   77.8   5.6   1   2   5.7e-13   7.9e-10   38.9   0.2     1    66  1581  1646  1581  1647 0.93 Phosphopantetheine attachment site
+PP-binding           PF00550.25    67 BGC0000037.1_ORF1:gid::pid:CBF69451.1:loc:0:7821:strand:- -           2517   5.8e-22   77.8   5.6   2   2   1.8e-13   2.5e-10   40.5   1.2     2    67  1693  1757  1692  1757 0.94 Phosphopantetheine attachment site
+Acyl_transf_1        PF00698.21   319 BGC0000037.1_ORF1:gid::pid:CBF69451.1:loc:0:7821:strand:- -           2517   4.2e-21   75.8   0.1   1   1   6.4e-23   8.9e-20   71.4   0.1     4   264   850  1117   847  1133 0.86 Acyl transferase domain
+PS-DH                PF14765.6    298 BGC0000037.1_ORF1:gid::pid:CBF69451.1:loc:0:7821:strand:- -           2517   1.1e-16   61.0   0.1   1   1   1.8e-19   2.5e-16   59.8   0.1    29   292  1251  1525  1226  1530 0.83 Polyketide synthase dehydratase
+Abhydrolase_3        PF07859.13   211 BGC0000037.1_ORF1:gid::pid:CBF69451.1:loc:0:7821:strand:- -           2517   3.8e-15   56.3   0.0   1   1   2.8e-16   3.8e-13   49.8   0.0     2   118  2200  2326  2199  2348 0.86 alpha/beta hydrolase fold
+Methyltransf_12      PF08242.12    99 BGC0000037.1_ORF1:gid::pid:CBF69451.1:loc:0:7821:strand:- -           2517   2.3e-14   53.9   0.0   1   1   5.6e-17   7.8e-14   52.2   0.0     1    98  1976  2075  1976  2076 0.97 Methyltransferase domain
+Peptidase_S9         PF00326.21   212 BGC0000037.1_ORF1:gid::pid:CBF69451.1:loc:0:7821:strand:- -           2517   9.3e-11   41.6   0.0   1   1   1.3e-10   1.8e-07   30.9   0.0   121   209  2424  2514  2411  2517 0.81 Prolyl oligopeptidase family
+Methyltransf_25      PF13649.6     97 BGC0000037.1_ORF1:gid::pid:CBF69451.1:loc:0:7821:strand:- -           2517   1.9e-10   41.3   0.0   1   1   1.6e-12   2.2e-09   37.9   0.0     1    97  1975  2074  1975  2074 0.89 Methyltransferase domain
+SAT                  PF16073.5    240 BGC0000037.1_ORF1:gid::pid:CBF69451.1:loc:0:7821:strand:- -           2517   3.9e-10   39.9   1.4   1   1   2.6e-12   3.5e-09   36.7   0.1    47   240    59   250    51   252 0.79 Starter unit:ACP transacylase in aflatoxin biosynthesis
+Methyltransf_23      PF13489.6    165 BGC0000037.1_ORF1:gid::pid:CBF69451.1:loc:0:7821:strand:- -           2517   1.3e-09   38.1   0.0   1   1   1.2e-11   1.7e-08   34.5   0.0     7   164  1954  2128  1947  2129 0.73 Methyltransferase domain
+Methyltransf_11      PF08241.12    96 BGC0000037.1_ORF1:gid::pid:CBF69451.1:loc:0:7821:strand:- -           2517   1.2e-07   32.3   0.0   1   1   3.4e-10   4.7e-07   30.4   0.0     2    95  1977  2077  1976  2078 0.84 Methyltransferase domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000037.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000037.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000037.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:45:56 2019
+# [ok]

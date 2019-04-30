@@ -1,0 +1,57 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="226.26666666666668" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="216.26666666666668" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg12816_1)</title>
+			<polygon class=" (ctg12816_1)" points="10,40 29,10 29,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg12816_2)</title>
+			<polygon class=" (ctg12816_2)" points="62,25 59,25 59,10 29,40 59,70 59,55 62,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg12816_3)</title>
+			<polygon class=" (ctg12816_3)" points="67,40 75,10 75,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NHase_alpha (PF02979)
+"Nitrile hydratase, alpha chain"</title>
+				<polygon class="PF02979" points="70,40 73,28 73,28 73,52 73,52" stroke-linejoin="round" width="6" height="24" fill="rgb(204,148,70)" stroke="rgb(163,118,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg12816_4)</title>
+			<polygon class=" (ctg12816_4)" points="90,40 107,10 107,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acetyltransf_1 (PF00583)
+"Acetyltransferase (GNAT) family"</title>
+				<polygon class="PF00583" points="93,40 100,28 105,28 105,52 100,52" stroke-linejoin="round" width="13" height="24" fill="rgb(121,183,50)" stroke="rgb(96,146,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg12816_5)</title>
+			<polygon class=" (ctg12816_5)" points="107,40 117,10 117,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1778 (PF08681)
+"Protein of unknown function (DUF1778)"</title>
+				<polygon class="PF08681" points="110,40 114,28 114,28 114,52 114,52" stroke-linejoin="round" width="7" height="24" fill="rgb(115,223,63)" stroke="rgb(92,178,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg12816_6)</title>
+			<polygon class=" (ctg12816_6)" points="150,25 149,25 149,10 119,40 149,70 149,55 150,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg12816_7)</title>
+			<polygon class=" (ctg12816_7)" points="159,10 181,40 159,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lactamase_B (PF00753)
+"Metallo-beta-lactamase superfamily"</title>
+				<polygon class="PF00753" points="163,28 168,28 177,40 177,40 168,52 163,52" stroke-linejoin="round" width="14" height="24" fill="rgb(206,198,96)" stroke="rgb(164,158,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg12816_8)</title>
+			<polygon class=" (ctg12816_8)" points="189,10 207,40 189,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

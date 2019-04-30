@@ -1,0 +1,32 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Abhydrolase_6        PF12697.7    220 BGC0000140.1_ORF1:gid::pid:ACZ65471.1:loc:112:1258:strand:- -            381   6.6e-09   36.7   8.3   1   1   1.1e-12   6.6e-09   36.7   8.3     4   120   154   281   151   377 0.63 Alpha/beta hydrolase family
+DUF1100              PF06500.11   411 BGC0000140.1_ORF1:gid::pid:ACZ65471.1:loc:112:1258:strand:- -            381   5.3e-07   28.8   0.0   1   1   1.2e-10   7.1e-07   28.4   0.0    93   291    44   252    36   264 0.81 Alpha/beta hydrolase of unknown function (DUF1100)
+TetR_C_11            PF16859.5    113 BGC0000140.1_ORF2:gid:rkI:pid:ACZ65472.1:loc:1381:2071:strand:- -            229   1.2e-21   77.2   8.0   1   1   1.3e-25   1.2e-21   77.2   8.0     6   112   110   217   105   218 0.96 Tetracyclin repressor-like, C-terminal domain
+TetR_N               PF00440.23    47 BGC0000140.1_ORF2:gid:rkI:pid:ACZ65472.1:loc:1381:2071:strand:- -            229   2.4e-11   43.2   0.0   1   1   4.6e-15   4.1e-11   42.5   0.0    14    47    62    95    48    95 0.87 Bacterial regulatory proteins, tetR family
+MFS_1                PF07690.16   353 BGC0000140.1_ORF3:gid:rkH:pid:ACZ65473.1:loc:2073:3669:strand:- -            531   6.2e-52  176.7  47.2   1   1     6e-55   1.1e-50  172.6  44.7     2   352    27   422    26   423 0.89 Major Facilitator Superfamily
+AMP-binding          PF00501.28   423 BGC0000140.1_ORF4:gid:rkA:pid:ACZ65474.1:loc:4024:5821:strand:+ -            598   1.4e-80  271.0   0.0   1   1   9.4e-85   1.7e-80  270.7   0.0     4   421    12   455     9   457 0.84 AMP-binding enzyme
+PP-binding           PF00550.25    67 BGC0000140.1_ORF5:gid:rkB:pid:ACZ65475.1:loc:5863:6178:strand:+ -            104   4.1e-14   52.7   0.0   1   1   2.8e-18   5.1e-14   52.4   0.0     3    67    27    91    25    91 0.92 Phosphopantetheine attachment site
+ketoacyl-synt        PF00109.26   253 BGC0000140.1_ORF6:gid:rkC:pid:ACZ65476.1:loc:6174:9195:strand:+ -           1006   9.5e-87  290.7   1.5   1   1   8.9e-89   3.2e-85  285.8   0.1     2   253     5   259     4   259 0.93 Beta-ketoacyl synthase, N-terminal domain
+Acyl_transf_1        PF00698.21   319 BGC0000140.1_ORF6:gid:rkC:pid:ACZ65476.1:loc:6174:9195:strand:+ -           1006   6.5e-59  200.0   0.2   1   1   2.7e-62   9.6e-59  199.5   0.2     2   275   530   805   529   820 0.96 Acyl transferase domain
+Ketoacyl-synt_C      PF02801.22   118 BGC0000140.1_ORF6:gid:rkC:pid:ACZ65476.1:loc:6174:9195:strand:+ -           1006   7.6e-39  132.4   2.2   1   1   1.4e-40   5.1e-37  126.5   0.1     1   114   267   379   267   382 0.98 Beta-ketoacyl synthase, C-terminal domain
+KAsynt_C_assoc       PF16197.5    112 BGC0000140.1_ORF6:gid:rkC:pid:ACZ65476.1:loc:6174:9195:strand:+ -           1006     6e-12   46.0   0.0   1   1     3e-15   1.1e-11   45.2   0.0     2   108   386   492   386   495 0.84 Ketoacyl-synthetase C-terminal extension
+PP-binding           PF00550.25    67 BGC0000140.1_ORF6:gid:rkC:pid:ACZ65476.1:loc:6174:9195:strand:+ -           1006   1.3e-08   35.1   0.0   1   1   8.2e-12   2.9e-08   33.9   0.0     6    67   923   988   920   988 0.91 Phosphopantetheine attachment site
+ACP_syn_III          PF08545.10    80 BGC0000140.1_ORF7:gid:rkD:pid:ACZ65477.1:loc:9191:10223:strand:+ -            343   1.2e-14   53.9   0.2   1   1   5.8e-18   2.6e-14   52.8   0.2     3    64   120   190   118   203 0.81 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III
+Chal_sti_synt_N      PF00195.19   225 BGC0000140.1_ORF7:gid:rkD:pid:ACZ65477.1:loc:9191:10223:strand:+ -            343   7.8e-09   35.3   1.1   1   1   1.8e-12   7.8e-09   35.3   1.1    96   224    60   190    45   191 0.84 Chalcone and stilbene synthases, N-terminal domain
+FAE1_CUT1_RppA       PF08392.12   290 BGC0000140.1_ORF7:gid:rkD:pid:ACZ65477.1:loc:9191:10223:strand:+ -            343   2.9e-05   23.5   0.0   1   1   8.8e-09   3.9e-05   23.1   0.0    79   207    59   191    45   211 0.80 FAE1/Type III polyketide synthase-like protein
+PP-binding           PF00550.25    67 BGC0000140.1_ORF9:gid:rkF:pid:ACZ65479.1:loc:12147:12387:strand:+ -             79   2.2e-06   27.9   0.1   1   1   5.5e-10   9.9e-06   25.8   0.1     2    65    11    75    10    77 0.89 Phosphopantetheine attachment site
+Thioesterase         PF00975.20   231 BGC0000140.1_ORF10:gid:rkG:pid:ACZ65480.1:loc:12383:13187:strand:+ -            267   4.2e-34  118.7   0.0   1   1   2.8e-38     5e-34  118.4   0.0     2   229    24   253    23   255 0.90 Thioesterase domain
+Lactamase_B          PF00753.27   197 BGC0000140.1_ORF11:gid::pid:ACZ65481.1:loc:13196:14048:strand:- -            283   3.2e-15   56.7  11.1   1   1   5.2e-19   4.7e-15   56.1  11.1    16   197    38   207    20   207 0.91 Metallo-beta-lactamase superfamily
+Lactamase_B_2        PF12706.7    201 BGC0000140.1_ORF11:gid::pid:ACZ65481.1:loc:13196:14048:strand:- -            283   3.5e-07   29.9   3.1   1   1   5.5e-11   4.9e-07   29.5   3.1     1   146    38   170    38   206 0.67 Beta-lactamase superfamily domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000140.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000140.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000140.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:38:49 2019
+# [ok]

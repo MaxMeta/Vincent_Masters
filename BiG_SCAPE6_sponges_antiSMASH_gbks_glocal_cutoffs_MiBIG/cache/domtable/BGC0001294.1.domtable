@@ -1,0 +1,18 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+BTAD                 PF03704.17   146 BGC0001294.1_ORF1:gid::pid:WP_031020590.1:loc:0:2961:strand:- -            986   5.4e-40  137.2  11.2   1   1   9.1e-44   5.4e-40  137.2  11.2     1   146   102   246   102   246 0.98 Bacterial transcriptional activator domain
+Trans_reg_C          PF00486.28    77 BGC0001294.1_ORF1:gid::pid:WP_031020590.1:loc:0:2961:strand:- -            986   3.6e-08   33.4   0.0   1   1   1.9e-11   1.1e-07   31.8   0.0     9    75    28    93    19    95 0.84 Transcriptional regulatory protein, C terminal
+AAA_22               PF13401.6    137 BGC0001294.1_ORF1:gid::pid:WP_031020590.1:loc:0:2961:strand:- -            986   7.7e-08   32.7   0.1   1   1   4.6e-11   2.8e-07   30.9   0.1     4   113   296   392   291   411 0.84 AAA domain
+Trp_DMAT             PF11991.8    364 BGC0001294.1_ORF2:gid::pid:WP_051890750.1:loc:3283:4309:strand:+ -            341   1.8e-13   50.7   0.0   1   1   3.9e-17     7e-13   48.7   0.0    42   257    16   197     3   206 0.84 Tryptophan dimethylallyltransferase
+Beta_elim_lyase      PF01212.21   293 BGC0001294.1_ORF3:gid::pid::loc:4395:5760:strand:+ -            455   3.9e-69  233.2   0.0   1   1   2.7e-73   4.8e-69  232.9   0.0     1   290    42   417    42   420 0.96 Beta-eliminating lyase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001294.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001294.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001294.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:55:36 2019
+# [ok]

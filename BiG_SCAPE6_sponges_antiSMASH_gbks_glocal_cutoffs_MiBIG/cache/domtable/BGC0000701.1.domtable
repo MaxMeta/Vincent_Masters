@@ -1,0 +1,18 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DHQ_synthase         PF01761.20   262 BGC0000701.1_ORF1:gid::pid:AAZ91667.1:loc:2122:3361:strand:+ -            412   4.7e-63  212.8   0.0   1   1     7e-67   6.3e-63  212.4   0.0     2   249    93   346    92   358 0.93 3-dehydroquinate synthase
+Fe-ADH_2             PF13685.6    250 BGC0000701.1_ORF1:gid::pid:AAZ91667.1:loc:2122:3361:strand:+ -            412   2.7e-08   33.8   0.0   1   1   4.7e-11   4.2e-07   29.9   0.0    20   109    61   158    46   230 0.82 Iron-containing alcohol dehydrogenase
+NTP_transferase      PF00483.23   248 BGC0000701.1_ORF2:gid::pid:AAZ91668.1:loc:3365:4487:strand:+ -            373   3.4e-40  138.2   0.0   1   1   6.9e-44   6.2e-40  137.3   0.0     2   245     6   270     5   273 0.89 Nucleotidyl transferase
+NTP_transf_3         PF12804.7    160 BGC0000701.1_ORF2:gid::pid:AAZ91668.1:loc:3365:4487:strand:+ -            373   1.7e-08   35.0   3.3   1   1     4e-12   3.6e-08   33.9   0.9     1   121     6   164     6   235 0.63 MobA-like NTP transferase domain
+ROK                  PF00480.20   294 BGC0000701.1_ORF3:gid::pid:AAZ91669.1:loc:4483:5539:strand:+ -            351   8.9e-20   71.3   0.0   1   1   6.6e-24   1.2e-19   70.9   0.0    32   243    56   285    12   295 0.81 ROK family
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000701.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000701.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000701.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:29:14 2019
+# [ok]

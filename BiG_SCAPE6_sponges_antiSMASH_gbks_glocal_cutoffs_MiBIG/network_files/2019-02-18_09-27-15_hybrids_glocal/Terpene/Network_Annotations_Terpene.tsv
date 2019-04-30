@@ -1,0 +1,570 @@
+BGC	Accesion ID	Description	Product Prediction	BiG-SCAPE class	Organism	Taxonomy
+BGC0000168.1	BGC0000168.1	Viridicatumtoxin biosynthetic gene cluster	t1pks-terpene	Others	Penicillium aethiopicum	Eukaryota,Fungi,Dikarya,Ascomycota,Pezizomycotina,Eurotiomycetes,Eurotiomycetidae,Eurotiales,Aspergillaceae,Penicillium
+BGC0000293.1	BGC0000293.1	Acetylaszonalenin biosynthetic gene cluster	nrps-terpene	Others	Neosartorya fischeri NRRL 181	Eukaryota,Fungi,Dikarya,Ascomycota,Pezizomycotina,Eurotiomycetes,Eurotiomycetidae,Eurotiales,Aspergillaceae,Neosartorya
+BGC0000356.1	BGC0000356.1	Fumitremorgin biosynthetic gene cluster	nrps-terpene	Others	Aspergillus fumigatus	Eukaryota,Fungi,Dikarya,Ascomycota,Pezizomycotina,Eurotiomycetes,Eurotiomycetidae,Eurotiales,Aspergillaceae,Aspergillus
+BGC0000372.1	BGC0000372.1	Hexadehydro-astechrome (HAS) biosynthetic gene cluster	nrps-terpene	Others	Aspergillus fumigatus Af293	Eukaryota,Fungi,Dikarya,Ascomycota,Pezizomycotina,Eurotiomycetes,Eurotiomycetidae,Eurotiales,Aspergillaceae,Aspergillus
+BGC0000420.1	BGC0000420.1	Roquefortine C / meleagrin biosynthetic gene cluster	terpene-nrps	Others	Penicillium rubens Wisconsin 54-1255	Eukaryota,Fungi,Dikarya,Ascomycota,Pezizomycotina,Eurotiomycetes,Eurotiomycetidae,Eurotiales,Aspergillaceae,Penicillium,Penicillium chrysogenum complex
+BGC0000442.1	BGC0000442.1	Terrequinone biosynthetic gene cluster	terpene	Terpene	Aspergillus nidulans FGSC A4	Eukaryota,Fungi,Dikarya,Ascomycota,Pezizomycotina,Eurotiomycetes,Eurotiomycetidae,Eurotiales,Aspergillaceae,Aspergillus
+BGC0000611.1	BGC0000611.1	Siomycin biosynthetic gene cluster	terpene-thiopeptide	Others	Streptomyces sioyaensis	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000629.1	BGC0000629.1	Aflatrem biosynthetic gene cluster	terpene	Terpene	Aspergillus flavus	Eukaryota,Fungi,Dikarya,Ascomycota,Pezizomycotina,Eurotiomycetes,Eurotiomycetidae,Eurotiales,Aspergillaceae,Aspergillus
+BGC0000630.1	BGC0000630.1	Astaxanthin biosynthetic gene cluster	terpene	Terpene	Paracoccus haeundaensis	Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Paracoccus
+BGC0000631.1	BGC0000631.1	Botrydial biosynthetic gene cluster	terpene	Terpene	Botrytis cinerea B05.10	Eukaryota,Fungi,Dikarya,Ascomycota,Pezizomycotina,Leotiomycetes,Helotiales,Sclerotiniaceae,Botrytis
+BGC0000632.1	BGC0000632.1	Brasilicardin A biosynthetic gene cluster	terpene	Terpene	Nocardia brasiliensis	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Corynebacterineae,Nocardiaceae,Nocardia
+BGC0000633.1	BGC0000633.1	Carotenoid biosynthetic gene cluster	terpene	Terpene	Streptomyces avermitilis	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000634.1	BGC0000634.1	Carotenoid biosynthetic gene cluster	terpene	Terpene	Brevundimonas sp. SD212	Bacteria,Proteobacteria,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Brevundimonas
+BGC0000635.1	BGC0000635.1	Carotenoid biosynthetic gene cluster	terpene	Terpene	Paracoccus sp. N81106	Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Paracoccus
+BGC0000636.1	BGC0000636.1	Carotenoid biosynthetic gene cluster	terpene	Terpene	Brevibacterium linens	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Micrococcineae,Brevibacteriaceae,Brevibacterium
+BGC0000637.1	BGC0000637.1	Carotenoid biosynthetic gene cluster	terpene	Terpene	Corynebacterium glutamicum	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Corynebacterineae,Corynebacteriaceae,Corynebacterium
+BGC0000638.1	BGC0000638.1	Carotenoid biosynthetic gene cluster	terpene	Terpene	Pantoea ananatis	Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Pantoea
+BGC0000639.1	BGC0000639.1	Carotenoid biosynthetic gene cluster	terpene	Terpene	Enterobacteriaceae bacterium DC260	Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae
+BGC0000640.1	BGC0000640.1	Carotenoid biosynthetic gene cluster	terpene	Terpene	Enterobacteriaceae bacterium DC404	Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae
+BGC0000641.1	BGC0000641.1	Carotenoid biosynthetic gene cluster	terpene	Terpene	Enterobacteriaceae bacterium DC416	Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae
+BGC0000642.1	BGC0000642.1	Carotenoid biosynthetic gene cluster	terpene	Terpene	Enterobacteriaceae bacterium DC413	Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae
+BGC0000643.1	BGC0000643.1	Carotenoid biosynthetic gene cluster	terpene	Terpene	Brevundimonas vesicularis	Bacteria,Proteobacteria,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Brevundimonas
+BGC0000644.1	BGC0000644.1	Carotenoid biosynthetic gene cluster	terpene	Terpene	Dietzia sp. CQ4	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Corynebacterineae,Dietziaceae,Dietzia
+BGC0000645.1	BGC0000645.1	Carotenoid biosynthetic gene cluster	terpene	Terpene	Halobacillus halophilus DSM 2266	Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Halobacillus
+BGC0000646.1	BGC0000646.1	Carotenoid biosynthetic gene cluster	terpene	Terpene	uncultured bacterium	Bacteria,environmental samples
+BGC0000647.1	BGC0000647.1	Carotenoid biosynthetic gene cluster	terpene	Terpene	Rhodobacter sphaeroides	Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Rhodobacter
+BGC0000648.1	BGC0000648.1	Carotenoid biosynthetic gene cluster	terpene	Terpene	Myxococcus xanthus	Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Cystobacterineae,Myxococcaceae,Myxococcus
+BGC0000649.1	BGC0000649.1	Carotenoid biosynthetic gene cluster	terpene	Terpene	Streptomyces griseus subsp. griseus NBRC 13350	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000650.1	BGC0000650.1	Carotenoid biosynthetic gene cluster	terpene	Terpene	Algoriphagus sp. KK10202C	Bacteria,Bacteroidetes,Cytophagia,Cytophagales,Cyclobacteriaceae,Algoriphagus
+BGC0000651.1	BGC0000651.1	KS-505a biosynthetic gene cluster	terpene	Terpene	Streptomyces argenteolus	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000652.1	BGC0000652.1	Napyradiomycin biosynthetic gene cluster	t3pks-terpene	Others	Streptomyces sp. CNQ525	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000653.1	BGC0000653.1	Pentalenolactone biosynthetic gene cluster	terpene	Terpene	Streptomyces arenae	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000654.1	BGC0000654.1	Phenalinolactone biosynthetic gene cluster	terpene	Terpene	Streptomyces sp. Tu6071	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000655.1	BGC0000655.1	Siomycin biosynthetic gene cluster	terpene-thiopeptide	Others	Streptomyces sioyaensis	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000656.1	BGC0000656.1	Zeaxanthin biosynthetic gene cluster	terpene	Terpene	Xanthobacter autotrophicus Py2	Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Xanthobacter
+BGC0000657.1	BGC0000657.1	2-methylisoborneol biosynthetic gene cluster	terpene	Terpene	Pseudanabaena sp. dqh15	Bacteria,Cyanobacteria,Oscillatoriophycideae,Oscillatoriales,Pseudanabaena
+BGC0000658.1	BGC0000658.1	2-methylisoborneol biosynthetic gene cluster	terpene	Terpene	Streptomyces griseus subsp. griseus NBRC 13350	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000659.1	BGC0000659.1	2-methylisoborneol biosynthetic gene cluster	terpene	Terpene	Saccharopolyspora erythraea NRRL 2338	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Pseudonocardineae,Pseudonocardiaceae,Saccharopolyspora
+BGC0000660.1	BGC0000660.1	Albaflavenone biosynthetic gene cluster	terpene	Terpene	Streptomyces coelicolor A3(2)	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces,Streptomyces albidoflavus group
+BGC0000661.1	BGC0000661.1	Geosmin biosynthetic gene cluster	terpene	Terpene	Nostoc punctiforme PCC 73102	Bacteria,Cyanobacteria,Nostocales,Nostocaceae,Nostoc
+BGC0000663.1	BGC0000663.1	Hopene biosynthetic gene cluster	terpene	Terpene	Streptomyces coelicolor A3(2)	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces,Streptomyces albidoflavus group
+BGC0000664.1	BGC0000664.1	Isorenieratene biosynthetic gene cluster	terpene	Terpene	Streptomyces griseus subsp. griseus NBRC 13350	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000667.1	BGC0000667.1	PR toxin biosynthetic gene cluster	terpene	Terpene	Penicillium roqueforti FM164	Eukaryota,Fungi,Dikarya,Ascomycota,Pezizomycotina,Eurotiomycetes,Eurotiomycetidae,Eurotiales,Aspergillaceae,Penicillium
+BGC0000669.1	BGC0000669.1	Marneral biosynthetic gene cluster	terpene	Terpene	Arabidopsis thaliana	Eukaryota,Viridiplantae,Streptophyta,Embryophyta,Tracheophyta,Spermatophyta,Magnoliophyta,eudicotyledons,Gunneridae,Pentapetalae,rosids,malvids,Brassicales,Brassicaceae,Camelineae,Arabidopsis
+BGC0000671.1	BGC0000671.1	Momilactone biosynthetic gene cluster	terpene	Terpene	Oryza sativa Japonica Group	Eukaryota,Viridiplantae,Streptophyta,Embryophyta,Tracheophyta,Spermatophyta,Magnoliophyta,Liliopsida,Poales,Poaceae,BEP clade,Ehrhartoideae,Oryzeae,Oryza
+BGC0000672.1	BGC0000672.1	Phytocassane / oryzalides biosynthetic gene cluster	terpene	Terpene	Oryza sativa Japonica Group	Eukaryota,Viridiplantae,Streptophyta,Embryophyta,Tracheophyta,Spermatophyta,Magnoliophyta,Liliopsida,Poales,Poaceae,BEP clade,Ehrhartoideae,Oryzeae,Oryza
+BGC0000674.1	BGC0000674.1	(-)-delta-cadinene biosynthetic gene cluster	terpene	Terpene	Streptomyces clavuligerus ATCC 27064	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000675.1	BGC0000675.1	(+)-T-muurolol biosynthetic gene cluster	terpene	Terpene	Streptomyces clavuligerus ATCC 27064	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000676.1	BGC0000676.1	Aphidicolin biosynthetic gene cluster	terpene	Terpene	Phoma betae	Eukaryota,Fungi,Dikarya,Ascomycota,Pezizomycotina,Dothideomycetes,Pleosporomycetidae,Pleosporales,Pleosporineae,Didymellaceae,mitosporic Didymellaceae,Phoma
+BGC0000678.1	BGC0000678.1	Pentalenolactone biosynthetic gene cluster	terpene	Terpene	Streptomyces avermitilis MA-4680 = NBRC 14893	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000685.1	BGC0000685.1	Brassicicene C biosynthetic gene cluster	terpene	Terpene	Alternaria brassicicola ATCC 96836	Eukaryota,Fungi,Dikarya,Ascomycota,Pezizomycotina,Dothideomycetes,Pleosporomycetidae,Pleosporales,Pleosporineae,Pleosporaceae,Alternaria
+BGC0000688.1	BGC0000688.1	Copalyl diphosphate biosynthetic gene cluster	terpene	Terpene	Diaporthe amygdali	Eukaryota,Fungi,Dikarya,Ascomycota,Pezizomycotina,Sordariomycetes,Sordariomycetidae,Diaporthales,Diaporthaceae,Diaporthe
+BGC0000811.1	BGC0000811.1	Fumigaclavine C biosynthetic gene cluster	terpene	Terpene	Aspergillus fumigatus Af293	Eukaryota,Fungi,Dikarya,Ascomycota,Pezizomycotina,Eurotiomycetes,Eurotiomycetidae,Eurotiales,Aspergillaceae,Aspergillus
+BGC0000816.1	BGC0000816.1	Malbrancheamide biosynthetic gene cluster	terpene-nrps	Others	Malbranchea aurantiaca	Eukaryota,Fungi,Dikarya,Ascomycota,Pezizomycotina,Eurotiomycetes,Eurotiomycetidae,Onygenales,mitosporic Onygenales,Malbranchea
+BGC0000818.1	BGC0000818.1	Notoamide biosynthetic gene cluster	terpene-nrps	Others	Aspergillus versicolor	Eukaryota,Fungi,Dikarya,Ascomycota,Pezizomycotina,Eurotiomycetes,Eurotiomycetidae,Eurotiales,Aspergillaceae,Aspergillus
+BGC0000819.1	BGC0000819.1	Paraherquamide biosynthetic gene cluster	terpene-nrps	Others	Penicillium fellutanum	Eukaryota,Fungi,Dikarya,Ascomycota,Pezizomycotina,Eurotiomycetes,Eurotiomycetidae,Eurotiales,Aspergillaceae,Penicillium
+BGC0000930.1	BGC0000930.1	Trichothecene biosynthetic gene cluster	terpene	Terpene	Fusarium graminearum	Eukaryota,Fungi,Dikarya,Ascomycota,Pezizomycotina,Sordariomycetes,Hypocreomycetidae,Hypocreales,Nectriaceae,Fusarium
+BGC0000931.1	BGC0000931.1	Trichothecene biosynthetic gene cluster	terpene	Terpene	Fusarium graminearum	Eukaryota,Fungi,Dikarya,Ascomycota,Pezizomycotina,Sordariomycetes,Hypocreomycetidae,Hypocreales,Nectriaceae,Fusarium
+BGC0000977.1	BGC0000977.1	Cyclopiazonic acid biosynthetic gene cluster	terpene-nrps-t1pks	Others	Aspergillus oryzae	Eukaryota,Fungi,Dikarya,Ascomycota,Pezizomycotina,Eurotiomycetes,Eurotiomycetidae,Eurotiales,Aspergillaceae,Aspergillus
+BGC0000992.1	BGC0000992.1	Fusaridione A biosynthetic gene cluster	terpene-nrps-t1pks	Others	Fusarium heterosporum	Eukaryota,Fungi,Dikarya,Ascomycota,Pezizomycotina,Sordariomycetes,Hypocreomycetidae,Hypocreales,Nectriaceae,Fusarium
+BGC0001044.1	BGC0001044.1	Sirodesmin biosynthetic gene cluster	t1pks-nrps-terpene	Others	Leptosphaeria maculans	Eukaryota,Fungi,Dikarya,Ascomycota,Pezizomycotina,Dothideomycetes,Pleosporomycetidae,Pleosporales,Pleosporineae,Leptosphaeriaceae,Leptosphaeria,Leptosphaeria maculans complex
+BGC0001046.1	BGC0001046.1	Streptolydigin biosynthetic gene cluster	nrps-terpene-t1pks	Others	Streptomyces lydicus	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0001078.1	BGC0001078.1	Furaquinocin A biosynthetic gene cluster	t3pks-terpene	Others	Streptomyces sp. KO-3988	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0001079.1	BGC0001079.1	Napyradiomycin biosynthetic gene cluster	t3pks-terpene	Others	Streptomyces aculeolatus	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0001081.1	BGC0001081.1	Lolitrem biosynthetic gene cluster	terpene	Terpene	Epichloe festucae var. lolii	Eukaryota,Fungi,Dikarya,Ascomycota,Pezizomycotina,Sordariomycetes,Hypocreomycetidae,Hypocreales,Clavicipitaceae,Epichloe
+BGC0001082.1	BGC0001082.1	Paxilline biosynthetic gene cluster	terpene	Terpene	Penicillium paxilli	Eukaryota,Fungi,Dikarya,Ascomycota,Pezizomycotina,Eurotiomycetes,Eurotiomycetidae,Eurotiales,Aspergillaceae,Penicillium
+BGC0001083.1	BGC0001083.1	Merochlorin biosynthetic gene cluster	terpene-t3pks-nrps-butyrolactone	Others	Streptomyces sp. CNH189	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0001084.1	BGC0001084.1	Notoamide / stephacidin biosynthetic gene cluster	terpene-nrps	Others	Aspergillus sp. MF297-2	Eukaryota,Fungi,Dikarya,Ascomycota,Pezizomycotina,Eurotiomycetes,Eurotiomycetidae,Eurotiales,Aspergillaceae,Aspergillus
+BGC0001086.1	BGC0001086.1	Astaxanthin dideoxyglycoside biosynthetic gene cluster	terpene	Terpene	Sphingomonas sp. PB304	Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingomonas
+BGC0001087.1	BGC0001087.1	Sioxanthin biosynthetic gene cluster	terpene	Terpene	Salinispora tropica CNB-440	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Micromonosporineae,Micromonosporaceae,Salinispora
+BGC0001144.1	BGC0001144.1	Neosartoricin biosynthetic gene cluster	t1pks-terpene	Others	Trichophyton tonsurans CBS 112818	Eukaryota,Fungi,Dikarya,Ascomycota,Pezizomycotina,Eurotiomycetes,Eurotiomycetidae,Onygenales,Arthrodermataceae,Trichophyton
+BGC0001201.1	BGC0001201.1	(+)-eremophilene biosynthetic gene cluster	terpene	Terpene	Sorangium cellulosum So ce56	Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Sorangiineae,Polyangiaceae,Sorangium
+BGC0001205.1	BGC0001205.1	Communesin biosynthetic gene cluster	terpene-t1pks	Others	Penicillium expansum	Eukaryota,Fungi,Dikarya,Ascomycota,Pezizomycotina,Eurotiomycetes,Eurotiomycetidae,Eurotiales,Aspergillaceae,Penicillium
+BGC0001227.1	BGC0001227.1	Isorenieratene biosynthetic gene cluster	terpene	Terpene	Streptomyces collinus Tu 365	Bacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces
+BGC0001241.1	BGC0001241.1	Ergotamine biosynthetic gene cluster	terpene	Terpene	Claviceps fusiformis	Eukaryota,Fungi,Dikarya,Ascomycota,Pezizomycotina,Sordariomycetes,Hypocreomycetidae,Hypocreales,Clavicipitaceae,Claviceps
+BGC0001260.1	BGC0001260.1	Terpendole E biosynthetic gene cluster	terpene	Terpene	Tolypocladium album	Eukaryota,Fungi,Dikarya,Ascomycota,Pezizomycotina,Sordariomycetes,Hypocreomycetidae,Hypocreales,Ophiocordycipitaceae,Tolypocladium
+BGC0001267.1	BGC0001267.1	Lysergic acid / elymoclavine biosynthetic gene cluster	terpene	Terpene	Claviceps fusiformis	Eukaryota,Fungi,Dikarya,Ascomycota,Pezizomycotina,Sordariomycetes,Hypocreomycetidae,Hypocreales,Clavicipitaceae,Claviceps
+BGC0001270.1	BGC0001270.1	Gibberellin A3 / gibberellin A1 / gibberellin A7 / gibberellin A4 / gibberellin A9 biosynthetic gene cluster	terpene	Terpene	Fusarium fujikuroi	Eukaryota,Fungi,Dikarya,Ascomycota,Pezizomycotina,Sordariomycetes,Hypocreomycetidae,Hypocreales,Nectriaceae,Fusarium,Fusarium fujikuroi species complex
+BGC0001271.1	BGC0001271.1	Emericellin biosynthetic gene cluster	terpene-t1pks	Others	Aspergillus nidulans FGSC A4	Eukaryota,Fungi,Dikarya,Ascomycota,Pezizomycotina,Eurotiomycetes,Eurotiomycetidae,Eurotiales,Aspergillaceae,Aspergillus
+BGC0001277.1	BGC0001277.1	Nivalenol / deoxynivalenol / 3-acetyldeoxynivalenol / 15-acetyldeoxynivalenol / neosolaniol / calonectrin / apotrichodiol / isotrichotriol / 15-decalonectrin / T-2 Toxin / 3-acetyl T-2 toxin / trichodiene biosynthetic gene cluster	terpene	Terpene	Fusarium graminearum	Eukaryota,Fungi,Dikarya,Ascomycota,Pezizomycotina,Sordariomycetes,Hypocreomycetidae,Hypocreales,Nectriaceae,Fusarium
+BGC0001278.1	BGC0001278.1	Nivalenol / deoxynivalenol / 3-acetyldeoxynivalenol / 15-acetyldeoxynivalenol / neosolaniol / calonectrin / apotrichodiol / isotrichotriol / 15-decalonectrin / T-2 Toxin / 3-acetyl T-2 toxin / trichodiene biosynthetic gene cluster	terpene	Terpene	Fusarium sporotrichioides	Eukaryota,Fungi,Dikarya,Ascomycota,Pezizomycotina,Sordariomycetes,Hypocreomycetidae,Hypocreales,Nectriaceae,Fusarium
+BGC0001279.1	BGC0001279.1	Deoxysambucinol / sambucinol / roridin E biosynthetic gene cluster	terpene	Terpene	Myrothecium roridum	Eukaryota,Fungi,Dikarya,Ascomycota,Pezizomycotina,Sordariomycetes,Hypocreomycetidae,Hypocreales,Stachybotriaceae,Myrothecium
+BGC0001321.1	BGC0001321.1	Monoterpenes-diterpenes biosynthetic gene cluster	terpene	Terpene	Solanum habrochaites	Eukaryota,Viridiplantae,Streptophyta,Embryophyta,Tracheophyta,Spermatophyta,Magnoliophyta,eudicotyledons,Gunneridae,Pentapetalae,asterids,lamiids,Solanales,Solanaceae,Solanoideae,Solaneae,Solanum,Lycopersicon
+BGC0001322.1	BGC0001322.1	Lycosantalonol biosynthetic gene cluster	terpene	Terpene	Solanum lycopersicum	Eukaryota,Viridiplantae,Streptophyta,Embryophyta,Tracheophyta,Spermatophyta,Magnoliophyta,eudicotyledons,Gunneridae,Pentapetalae,asterids,lamiids,Solanales,Solanaceae,Solanoideae,Solaneae,Solanum,Lycopersicon
+BGC0001323.1	BGC0001323.1	Monoterpenes-diterpenes biosynthetic gene cluster	terpene	Terpene	Solanum pennellii	Eukaryota,Viridiplantae,Streptophyta,Embryophyta,Tracheophyta,Spermatophyta,Magnoliophyta,eudicotyledons,Gunneridae,Pentapetalae,asterids,lamiids,Solanales,Solanaceae,Solanoideae,Solaneae,Solanum,Lycopersicon
+BGC0001324.1	BGC0001324.1	Monoterpenes-diterpenes biosynthetic gene cluster	terpene	Terpene	Solanum pimpinellifolium	Eukaryota,Viridiplantae,Streptophyta,Embryophyta,Tracheophyta,Spermatophyta,Magnoliophyta,eudicotyledons,Gunneridae,Pentapetalae,asterids,lamiids,Solanales,Solanaceae,Solanoideae,Solaneae,Solanum,Lycopersicon
+BGC0001330.1	BGC0001330.1	BE-43547 A1-C2 biosynthetic gene cluster	terpene-nrps-t1pks	Others	Micromonospora sp. RV43	Bacteria,Actinobacteria,Micromonosporales,Micromonosporaceae,Micromonospora
+BGC0001339.1	BGC0001339.1	Squalestatin S1 biosynthetic gene cluster	t1pks-terpene	Others	Phoma sp. MF5453	Eukaryota,Fungi,Dikarya,Ascomycota,Pezizomycotina,Dothideomycetes,Pleosporomycetidae,Pleosporales,Pleosporineae,Didymellaceae,Phoma
+BGC0001361.1	BGC0001361.1	Sodorifen biosynthetic gene cluster	terpene	Terpene	Serratia plymuthica 4Rx13	Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Serratia
+BGC0001365.1	BGC0001365.1	Clapurines biosynthetic gene cluster	terpene-nrps	Others	Claviceps purpurea 20.1	Eukaryota,Fungi,Dikarya,Ascomycota,Pezizomycotina,Sordariomycetes,Hypocreomycetidae,Hypocreales,Clavicipitaceae,Claviceps
+BGC0001372.1	BGC0001372.1	Penigequinolone biosynthetic gene cluster	terpene-nrps	Others	Penicillium thymicola	Eukaryota,Fungi,Dikarya,Ascomycota,Pezizomycotina,Eurotiomycetes,Eurotiomycetidae,Eurotiales,Aspergillaceae,Penicillium
+BGC0001373.1	BGC0001373.1	Sordarin biosynthetic gene cluster	terpene-t1pks	Others	Sordaria araneosa	Eukaryota,Fungi,Dikarya,Ascomycota,Pezizomycotina,Sordariomycetes,Sordariomycetidae,Sordariales,Sordariaceae,Sordaria
+BGC0001375.1	BGC0001375.1	Penitrem biosynthetic gene cluster	terpene	Terpene	Penicillium simplicissimum	Eukaryota,Fungi,Dikarya,Ascomycota,Pezizomycotina,Eurotiomycetes,Eurotiomycetidae,Eurotiales,Aspergillaceae,Penicillium
+BGC0001475.1	BGC0001475.1	Aspterric acid biosynthetic gene cluster	terpene	Terpene	Aspergillus terreus NIH2624	Eukaryota,Fungi,Dikarya,Ascomycota,Pezizomycotina,Eurotiomycetes,Eurotiomycetidae,Eurotiales,Aspergillaceae,Aspergillus
+BGC0001580.1	BGC0001580.1	Ebelactone biosynthetic gene cluster	terpene-t1pks	Others	Kitasatospora aburaviensis	Bacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Kitasatospora
+BGC0001604.1	BGC0001604.1	Gibberellin biosynthetic gene cluster	terpene	Terpene	Fusarium fujikuroi	Eukaryota,Fungi,Dikarya,Ascomycota,Pezizomycotina,Sordariomycetes,Hypocreomycetidae,Hypocreales,Nectriaceae,Fusarium,Fusarium fujikuroi species complex
+BGC0001613.1	BGC0001613.1	Harzianum B biosynthetic gene cluster	terpene	Terpene	Trichoderma hypoxylon	Eukaryota,Fungi,Dikarya,Ascomycota,Pezizomycotina,Sordariomycetes,Hypocreomycetidae,Hypocreales,Hypocreaceae,Trichoderma
+BGC0001617.1	BGC0001617.1	Hirsutene biosynthetic gene cluster	terpene	Terpene	Stereum hirsutum FP-91666 SS1	Eukaryota,Fungi,Dikarya,Basidiomycota,Agaricomycotina,Agaricomycetes,Russulales,Stereaceae,Stereum
+BGC0001624.1	BGC0001624.1	Iso-A82775C biosynthetic gene cluster	terpene	Terpene	Pestalotiopsis fici	Eukaryota,Fungi,Dikarya,Ascomycota,Pezizomycotina,Sordariomycetes,Xylariomycetidae,Xylariales,Sporocadaceae,Pestalotiopsis
+BGC0001642.1	BGC0001642.1	Koraiol biosynthetic gene cluster	terpene	Terpene	Fusarium fujikuroi IMI 58289	Eukaryota,Fungi,Dikarya,Ascomycota,Pezizomycotina,Sordariomycetes,Hypocreomycetidae,Hypocreales,Nectriaceae,Fusarium,Fusarium fujikuroi species complex
+BGC0001646.1	BGC0001646.1	Lagriamide biosynthetic gene cluster	nrps-transatpks-terpene	Others	Burkholderia gladioli	Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia
+BGC0001706.1	BGC0001706.1	Nodulisporic acid F biosynthetic gene cluster	terpene	Terpene	Hypoxylon pulicicidum	Eukaryota,Fungi,Dikarya,Ascomycota,Pezizomycotina,Sordariomycetes,Xylariomycetidae,Xylariales,Hypoxylaceae,Hypoxylon
+BGC0001712.1	BGC0001712.1	Ochrindol biosynthetic gene cluster	terpene	Terpene	Aspergillus steynii IBT 23096	Eukaryota,Fungi,Dikarya,Ascomycota,Pezizomycotina,Eurotiomycetes,Eurotiomycetidae,Eurotiales,Aspergillaceae,Aspergillus
+BGC0001717.1	BGC0001717.1	Okaramine B biosynthetic gene cluster	nrps-terpene	Others	Penicillium simplicissimum	Eukaryota,Fungi,Dikarya,Ascomycota,Pezizomycotina,Eurotiomycetes,Eurotiomycetidae,Eurotiales,Aspergillaceae,Penicillium
+BGC0001718.1	BGC0001718.1	Okaramine B / okaramine D biosynthetic gene cluster	nrps-terpene	Others	Aspergillus aculeatus ATCC 16872	Eukaryota,Fungi,Dikarya,Ascomycota,Pezizomycotina,Eurotiomycetes,Eurotiomycetidae,Eurotiales,Aspergillaceae,Aspergillus
+BGC0001746.1	BGC0001746.1	Pristinol biosynthetic gene cluster	terpene	Terpene	Streptomyces pristinaespiralis ATCC 25486	Bacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces
+BGC0001756.1	BGC0001756.1	Retigeranin / arathanatriene biosynthetic gene cluster	terpene	Terpene	Arabidopsis thaliana	Eukaryota,Viridiplantae,Streptophyta,Embryophyta,Tracheophyta,Spermatophyta,Magnoliophyta,eudicotyledons,Gunneridae,Pentapetalae,rosids,malvids,Brassicales,Brassicaceae,Camelineae,Arabidopsis
+BGC0001775.1	BGC0001775.1	Sespendole biosynthetic gene cluster	terpene	Terpene	Cordana terrestris	Eukaryota,Fungi,Dikarya,Ascomycota,Pezizomycotina,Sordariomycetes,Sordariomycetidae,Sordariomycetidae incertae sedis,Cordana
+BGC0001776.1	BGC0001776.1	Shearinine D biosynthetic gene cluster	terpene	Terpene	Penicillium janthinellum	Eukaryota,Fungi,Dikarya,Ascomycota,Pezizomycotina,Eurotiomycetes,Eurotiomycetidae,Eurotiales,Aspergillaceae,Penicillium
+BGC0001777.1	BGC0001777.1	Shearinine D biosynthetic gene cluster	terpene	Terpene	Escovopsis weberi	Eukaryota,Fungi,Dikarya,Ascomycota,Pezizomycotina,Sordariomycetes,Hypocreomycetidae,Hypocreales,Hypocreaceae,Escovopsis
+BGC0001811.1	BGC0001811.1	Trichodiene-11-one biosynthetic gene cluster	terpene	Terpene	Fusarium asiaticum	Eukaryota,Fungi,Dikarya,Ascomycota,Pezizomycotina,Sordariomycetes,Hypocreomycetidae,Hypocreales,Nectriaceae,Fusarium
+CS200_c00001_NODE_1_...cluster002	c00001_NODE_1_..	NODE_1_length_5167676_cov_36.634580	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster012	c00004_NODE_4_..	NODE_4_length_1455908_cov_17.541590	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster015	c00005_NODE_5_..	NODE_5_length_1102901_cov_11.969598	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster016	c00006_NODE_6_..	NODE_6_length_962626_cov_14.310647	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster018	c00009_NODE_9_..	NODE_9_length_795135_cov_6.514611	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster023	c00019_NODE_19..	NODE_19_length_503566_cov_10.980540	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster024	c00022_NODE_22..	NODE_22_length_468028_cov_8.483581	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster026	c00022_NODE_22..	NODE_22_length_468028_cov_8.483581	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster027	c00024_NODE_24..	NODE_24_length_463426_cov_14.285243	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster028	c00026_NODE_26..	NODE_26_length_459230_cov_25.848034	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster029	c00034_NODE_34..	NODE_34_length_381213_cov_9.116800	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster036	c00078_NODE_78..	NODE_78_length_232314_cov_6.136911	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster042	c00151_NODE_15..	NODE_151_length_146388_cov_5.067373	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster043	c00165_NODE_16..	NODE_165_length_138147_cov_26.521808	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster044	c00166_NODE_16..	NODE_166_length_137714_cov_12.532783	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster045	c00167_NODE_16..	NODE_167_length_137665_cov_7.215330	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster049	c00193_NODE_19..	NODE_193_length_125918_cov_41.839790	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster052	c00223_NODE_22..	NODE_223_length_116268_cov_5.756606	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster054	c00232_NODE_23..	NODE_232_length_114528_cov_6.040952	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster057	c00263_NODE_26..	NODE_263_length_107150_cov_9.103174	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster058	c00277_NODE_27..	NODE_277_length_103937_cov_39.803757	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster060	c00286_NODE_28..	NODE_286_length_102279_cov_12.732849	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster062	c00306_NODE_30..	NODE_306_length_97681_cov_14.945261	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster065	c00342_NODE_34..	NODE_342_length_93235_cov_22.020256	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster067	c00420_NODE_42..	NODE_420_length_82412_cov_10.399878	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster068	c00431_NODE_43..	NODE_431_length_81223_cov_6.697408	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster069	c00497_NODE_49..	NODE_497_length_73911_cov_4.518893	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster070	c00500_NODE_50..	NODE_500_length_73480_cov_12.482271	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster077	c00559_NODE_55..	NODE_559_length_69483_cov_9.173006	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster079	c00607_NODE_60..	NODE_607_length_66911_cov_2.169412	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster080	c00614_NODE_61..	NODE_614_length_66397_cov_8.417368	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster081	c00625_NODE_62..	NODE_625_length_65682_cov_2.580673	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster085	c00754_NODE_75..	NODE_754_length_59356_cov_6.063466	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster086	c00798_NODE_79..	NODE_798_length_57442_cov_3.003577	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster087	c00800_NODE_80..	NODE_800_length_57405_cov_10.596005	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster095	c00928_NODE_92..	NODE_928_length_52636_cov_21.107696	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster096	c00950_NODE_95..	NODE_950_length_51945_cov_3.224439	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster097	c00962_NODE_96..	NODE_962_length_51622_cov_8.756675	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster098	c00977_NODE_97..	NODE_977_length_51108_cov_5.507522	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster108	c01178_NODE_11..	NODE_1178_length_44766_cov_3.710791	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster110	c01215_NODE_12..	NODE_1215_length_43961_cov_7.521148	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster111	c01301_NODE_13..	NODE_1301_length_41915_cov_16.032545	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster114	c01542_NODE_15..	NODE_1542_length_37455_cov_3.251581	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster115	c01551_NODE_15..	NODE_1551_length_37329_cov_1.825547	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster116	c01601_NODE_16..	NODE_1601_length_36382_cov_8.285643	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster117	c01630_NODE_16..	NODE_1630_length_35702_cov_15.943078	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster120	c01716_NODE_17..	NODE_1716_length_34428_cov_10.404216	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster121	c01867_NODE_18..	NODE_1867_length_32558_cov_22.540131	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster123	c01919_NODE_19..	NODE_1919_length_31945_cov_2.694135	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster125	c02025_NODE_20..	NODE_2025_length_30633_cov_9.304596	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster130	c02244_NODE_22..	NODE_2244_length_28420_cov_29.546602	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster132	c02341_NODE_23..	NODE_2341_length_27614_cov_3.783971	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster133	c02374_NODE_23..	NODE_2374_length_27352_cov_3.597576	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster137	c02480_NODE_24..	NODE_2480_length_26381_cov_2.597433	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster139	c02592_NODE_25..	NODE_2592_length_25484_cov_9.217336	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster140	c02606_NODE_26..	NODE_2606_length_25346_cov_6.160791	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster144	c02742_NODE_27..	NODE_2742_length_24435_cov_5.993253	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster146	c02905_NODE_29..	NODE_2905_length_23260_cov_3.593741	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster147	c02965_NODE_29..	NODE_2965_length_22928_cov_16.725670	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster153	c03364_NODE_33..	NODE_3364_length_20904_cov_16.014391	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster154	c03461_NODE_34..	NODE_3461_length_20476_cov_1.693204	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster156	c03578_NODE_35..	NODE_3578_length_19834_cov_11.560309	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster166	c03896_NODE_38..	NODE_3896_length_18537_cov_2.010158	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster170	c04111_NODE_41..	NODE_4111_length_17717_cov_3.453610	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster173	c04182_NODE_41..	NODE_4182_length_17432_cov_2.452875	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster176	c04365_NODE_43..	NODE_4365_length_16774_cov_1.920827	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster177	c04400_NODE_44..	NODE_4400_length_16684_cov_3.198466	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster180	c04549_NODE_45..	NODE_4549_length_16266_cov_2.794907	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster185	c04848_NODE_48..	NODE_4848_length_15383_cov_3.903972	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster186	c04896_NODE_48..	NODE_4896_length_15232_cov_1.681099	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster188	c04950_NODE_49..	NODE_4950_length_15105_cov_3.566431	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster189	c05157_NODE_51..	NODE_5157_length_14584_cov_7.765304	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster193	c05630_NODE_56..	NODE_5630_length_13482_cov_2.601498	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster195	c05638_NODE_56..	NODE_5638_length_13462_cov_2.705287	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster196	c05680_NODE_56..	NODE_5680_length_13392_cov_3.683227	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster197	c05681_NODE_56..	NODE_5681_length_13391_cov_2.400407	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster200	c05777_NODE_57..	NODE_5777_length_13177_cov_3.259923	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster201	c05833_NODE_58..	NODE_5833_length_13088_cov_2.410385	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster203	c05966_NODE_59..	NODE_5966_length_12811_cov_5.163828	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster214	c06989_NODE_69..	NODE_6989_length_11235_cov_1.315538	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster215	c07122_NODE_71..	NODE_7122_length_11047_cov_1.918040	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster216	c07176_NODE_71..	NODE_7176_length_10962_cov_2.360314	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster219	c07427_NODE_74..	NODE_7427_length_10602_cov_6.783389	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster221	c07621_NODE_76..	NODE_7621_length_10363_cov_6.357268	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster222	c07770_NODE_77..	NODE_7770_length_10189_cov_3.043629	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster223	c07885_NODE_78..	NODE_7885_length_10077_cov_1.876683	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster225	c07967_NODE_79..	NODE_7967_length_9981_cov_2.686929	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster227	c08122_NODE_81..	NODE_8122_length_9776_cov_8.479946	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster232	c08788_NODE_87..	NODE_8788_length_9090_cov_1.533973	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster234	c09102_NODE_91..	NODE_9102_length_8803_cov_1.851199	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster235	c09231_NODE_92..	NODE_9231_length_8685_cov_3.450806	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster242	c10179_NODE_10..	NODE_10179_length_7932_cov_1.508520	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster244	c10222_NODE_10..	NODE_10222_length_7904_cov_2.327504	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster247	c10401_NODE_10..	NODE_10401_length_7772_cov_6.160105	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster249	c10447_NODE_10..	NODE_10447_length_7742_cov_1.834012	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster251	c10779_NODE_10..	NODE_10779_length_7519_cov_1.364448	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster252	c10780_NODE_10..	NODE_10780_length_7517_cov_1.836265	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster258	c11502_NODE_11..	NODE_11502_length_7072_cov_1.690137	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster261	c11706_NODE_11..	NODE_11706_length_6946_cov_5.266315	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster263	c12082_NODE_12..	NODE_12082_length_6757_cov_1.376320	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster267	c13329_NODE_13..	NODE_13329_length_6180_cov_1.495622	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster269	c13703_NODE_13..	NODE_13703_length_6030_cov_1.928172	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster273	c14259_NODE_14..	NODE_14259_length_5807_cov_1.559683	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster274	c14273_NODE_14..	NODE_14273_length_5798_cov_1.514724	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster277	c14968_NODE_14..	NODE_14968_length_5548_cov_6.628851	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster279	c15170_NODE_15..	NODE_15170_length_5482_cov_6.399813	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster280	c15763_NODE_15..	NODE_15763_length_5282_cov_1.398836	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster284	c15894_NODE_15..	NODE_15894_length_5237_cov_1.962427	terpene	Terpene		
+CS200_c00001_NODE_1_...cluster289	c16693_NODE_16..	NODE_16693_length_5008_cov_1.291743	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster005	c00009_NODE_9_..	NODE_9_length_305285_cov_4.110746	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster006	c00013_NODE_13..	NODE_13_length_283964_cov_7.654344	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster008	c00027_NODE_27..	NODE_27_length_229752_cov_11.198275	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster010	c00049_NODE_49..	NODE_49_length_194808_cov_4.421063	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster011	c00053_NODE_53..	NODE_53_length_188175_cov_4.866481	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster019	c00086_NODE_86..	NODE_86_length_150588_cov_13.499791	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster020	c00095_NODE_95..	NODE_95_length_146113_cov_5.143993	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster023	c00134_NODE_13..	NODE_134_length_127241_cov_7.264967	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster027	c00167_NODE_16..	NODE_167_length_115309_cov_5.481395	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster028	c00173_NODE_17..	NODE_173_length_113765_cov_4.389896	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster035	c00258_NODE_25..	NODE_258_length_93721_cov_79.867438	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster037	c00271_NODE_27..	NODE_271_length_91079_cov_25.745657	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster038	c00291_NODE_29..	NODE_291_length_87389_cov_25.537863	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster039	c00299_NODE_29..	NODE_299_length_86016_cov_5.528624	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster040	c00371_NODE_37..	NODE_371_length_76254_cov_3.883392	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster042	c00381_NODE_38..	NODE_381_length_74640_cov_3.999960	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster045	c00407_NODE_40..	NODE_407_length_73004_cov_6.132305	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster049	c00458_NODE_45..	NODE_458_length_68754_cov_6.991898	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster051	c00469_NODE_46..	NODE_469_length_67690_cov_8.255214	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster054	c00619_NODE_61..	NODE_619_length_57763_cov_3.119717	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster059	c00686_NODE_68..	NODE_686_length_54679_cov_4.505774	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster061	c00703_NODE_70..	NODE_703_length_53648_cov_13.999178	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster063	c00721_NODE_72..	NODE_721_length_52985_cov_7.007057	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster067	c00874_NODE_87..	NODE_874_length_47156_cov_22.183419	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster068	c00896_NODE_89..	NODE_896_length_46443_cov_1.770295	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster072	c01050_NODE_10..	NODE_1050_length_41033_cov_12.863712	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster074	c01134_NODE_11..	NODE_1134_length_39006_cov_3.161244	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster076	c01256_NODE_12..	NODE_1256_length_36475_cov_75.241086	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster080	c01395_NODE_13..	NODE_1395_length_33431_cov_5.651573	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster082	c01458_NODE_14..	NODE_1458_length_32286_cov_3.504866	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster086	c01613_NODE_16..	NODE_1613_length_29503_cov_3.430862	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster094	c01848_NODE_18..	NODE_1848_length_26246_cov_2.641181	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster095	c01867_NODE_18..	NODE_1867_length_26050_cov_2.597500	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster097	c01973_NODE_19..	NODE_1973_length_24979_cov_7.186021	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster098	c01982_NODE_19..	NODE_1982_length_24914_cov_5.258644	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster105	c02217_NODE_22..	NODE_2217_length_22405_cov_3.193150	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster106	c02226_NODE_22..	NODE_2226_length_22319_cov_2.390591	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster107	c02232_NODE_22..	NODE_2232_length_22285_cov_4.006815	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster112	c02394_NODE_23..	NODE_2394_length_20744_cov_2.817190	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster117	c02643_NODE_26..	NODE_2643_length_19012_cov_4.107969	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster124	c02946_NODE_29..	NODE_2946_length_17220_cov_3.992746	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster126	c03062_NODE_30..	NODE_3062_length_16614_cov_1.969794	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster127	c03134_NODE_31..	NODE_3134_length_16269_cov_2.284723	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster130	c03289_NODE_32..	NODE_3289_length_15489_cov_4.147767	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster133	c03419_NODE_34..	NODE_3419_length_14999_cov_7.042227	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster134	c03504_NODE_35..	NODE_3504_length_14679_cov_4.010445	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster136	c03572_NODE_35..	NODE_3572_length_14471_cov_3.072783	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster139	c03625_NODE_36..	NODE_3625_length_14284_cov_1.728191	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster141	c03667_NODE_36..	NODE_3667_length_14115_cov_1.465542	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster143	c04193_NODE_41..	NODE_4193_length_12470_cov_2.120230	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster145	c04305_NODE_43..	NODE_4305_length_12218_cov_3.416591	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster147	c04508_NODE_45..	NODE_4508_length_11758_cov_1.420686	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster150	c04982_NODE_49..	NODE_4982_length_10678_cov_3.746849	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster152	c05102_NODE_51..	NODE_5102_length_10427_cov_2.837282	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster154	c05598_NODE_55..	NODE_5598_length_9589_cov_2.863771	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster155	c05664_NODE_56..	NODE_5664_length_9489_cov_2.347148	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster156	c05797_NODE_57..	NODE_5797_length_9288_cov_3.807990	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster161	c06693_NODE_66..	NODE_6693_length_8193_cov_1.294694	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster162	c06833_NODE_68..	NODE_6833_length_8020_cov_1.171671	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster164	c07140_NODE_71..	NODE_7140_length_7743_cov_1.872768	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster172	c08722_NODE_87..	NODE_8722_length_6659_cov_2.808634	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster173	c08860_NODE_88..	NODE_8860_length_6581_cov_1.539820	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster175	c09097_NODE_90..	NODE_9097_length_6455_cov_12.250632	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster179	c09581_NODE_95..	NODE_9581_length_6218_cov_1.665736	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster185	c10335_NODE_10..	NODE_10335_length_5885_cov_1.777874	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster187	c10870_NODE_10..	NODE_10870_length_5671_cov_1.853535	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster188	c11032_NODE_11..	NODE_11032_length_5612_cov_1.918140	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster190	c11513_NODE_11..	NODE_11513_length_5449_cov_6.809846	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster191	c11903_NODE_11..	NODE_11903_length_5335_cov_1.273425	terpene	Terpene		
+CS202_c00001_NODE_1_...cluster193	c12707_NODE_12..	NODE_12707_length_5093_cov_1.905155	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster001	c00007_NODE_7_..	NODE_7_length_445432_cov_7.986122	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster004	c00008_NODE_8_..	NODE_8_length_427552_cov_8.246895	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster005	c00010_NODE_10..	NODE_10_length_382868_cov_4.117160	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster006	c00019_NODE_19..	NODE_19_length_301139_cov_8.935823	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster007	c00020_NODE_20..	NODE_20_length_296038_cov_5.748380	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster010	c00058_NODE_58..	NODE_58_length_193750_cov_3.755468	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster012	c00079_NODE_79..	NODE_79_length_176557_cov_8.024520	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster013	c00082_NODE_82..	NODE_82_length_174488_cov_6.221942	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster014	c00085_NODE_85..	NODE_85_length_172847_cov_5.770108	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster016	c00096_NODE_96..	NODE_96_length_166925_cov_7.958213	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster019	c00106_NODE_10..	NODE_106_length_157944_cov_3.804495	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster020	c00107_NODE_10..	NODE_107_length_157646_cov_4.303284	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster021	c00112_NODE_11..	NODE_112_length_156425_cov_14.399967	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster029	c00200_NODE_20..	NODE_200_length_119536_cov_4.755940	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster034	c00224_NODE_22..	NODE_224_length_114052_cov_6.851938	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster040	c00287_NODE_28..	NODE_287_length_101776_cov_9.942656	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster042	c00333_NODE_33..	NODE_333_length_94558_cov_2.846544	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster054	c00476_NODE_47..	NODE_476_length_79574_cov_8.602225	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster063	c00702_NODE_70..	NODE_702_length_62325_cov_14.599714	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster065	c00733_NODE_73..	NODE_733_length_60507_cov_10.301375	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster074	c00877_NODE_87..	NODE_877_length_54447_cov_9.611211	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster075	c00979_NODE_97..	NODE_979_length_50301_cov_2.702914	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster081	c01163_NODE_11..	NODE_1163_length_43977_cov_10.374253	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster082	c01179_NODE_11..	NODE_1179_length_43588_cov_19.502335	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster087	c01434_NODE_14..	NODE_1434_length_38150_cov_8.010125	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster088	c01452_NODE_14..	NODE_1452_length_37748_cov_11.508067	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster089	c01467_NODE_14..	NODE_1467_length_37470_cov_4.426211	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster091	c01664_NODE_16..	NODE_1664_length_34252_cov_3.909919	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster092	c01675_NODE_16..	NODE_1675_length_33990_cov_3.288752	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster093	c01841_NODE_18..	NODE_1841_length_31731_cov_7.961840	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster094	c01842_NODE_18..	NODE_1842_length_31727_cov_9.235411	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster097	c01888_NODE_18..	NODE_1888_length_31309_cov_2.462575	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster099	c01948_NODE_19..	NODE_1948_length_30355_cov_7.881104	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster100	c01969_NODE_19..	NODE_1969_length_30097_cov_2.221054	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster101	c02024_NODE_20..	NODE_2024_length_29614_cov_3.535965	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster103	c02124_NODE_21..	NODE_2124_length_28455_cov_2.245870	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster105	c02176_NODE_21..	NODE_2176_length_27918_cov_4.147062	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster106	c02227_NODE_22..	NODE_2227_length_27351_cov_7.291838	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster107	c02235_NODE_22..	NODE_2235_length_27234_cov_2.569004	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster108	c02240_NODE_22..	NODE_2240_length_27207_cov_1.485635	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster110	c02489_NODE_24..	NODE_2489_length_24524_cov_2.297701	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster112	c02585_NODE_25..	NODE_2585_length_23838_cov_6.533887	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster113	c02622_NODE_26..	NODE_2622_length_23519_cov_6.716655	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster114	c02628_NODE_26..	NODE_2628_length_23483_cov_8.696138	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster118	c03105_NODE_31..	NODE_3105_length_20524_cov_2.485365	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster119	c03123_NODE_31..	NODE_3123_length_20433_cov_1.350389	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster120	c03187_NODE_31..	NODE_3187_length_20062_cov_3.113318	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster121	c03231_NODE_32..	NODE_3231_length_19877_cov_11.884810	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster125	c03469_NODE_34..	NODE_3469_length_18671_cov_2.572045	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster127	c03509_NODE_35..	NODE_3509_length_18491_cov_2.271945	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster128	c03568_NODE_35..	NODE_3568_length_18222_cov_5.527328	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster130	c03700_NODE_37..	NODE_3700_length_17711_cov_2.461954	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster135	c03839_NODE_38..	NODE_3839_length_17136_cov_4.875830	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster139	c03941_NODE_39..	NODE_3941_length_16811_cov_6.516123	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster144	c04349_NODE_43..	NODE_4349_length_15381_cov_1.471614	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster153	c04828_NODE_48..	NODE_4828_length_14112_cov_2.938148	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster162	c05558_NODE_55..	NODE_5558_length_12580_cov_1.623063	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster164	c05653_NODE_56..	NODE_5653_length_12383_cov_1.714997	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster167	c05844_NODE_58..	NODE_5844_length_12044_cov_6.096165	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster168	c05852_NODE_58..	NODE_5852_length_12031_cov_6.556452	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster171	c07010_NODE_70..	NODE_7010_length_10322_cov_3.612359	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster172	c07053_NODE_70..	NODE_7053_length_10274_cov_1.371933	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster174	c07403_NODE_74..	NODE_7403_length_9891_cov_1.695412	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster175	c07442_NODE_74..	NODE_7442_length_9854_cov_9.233371	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster177	c07683_NODE_76..	NODE_7683_length_9586_cov_1.934031	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster179	c07996_NODE_79..	NODE_7996_length_9254_cov_5.847705	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster182	c08224_NODE_82..	NODE_8224_length_9048_cov_1.776034	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster191	c11263_NODE_11..	NODE_11263_length_7036_cov_6.939499	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster203	c13692_NODE_13..	NODE_13692_length_6064_cov_3.162540	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster205	c14132_NODE_14..	NODE_14132_length_5905_cov_1.276912	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster206	c14452_NODE_14..	NODE_14452_length_5805_cov_6.856111	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster211	c16028_NODE_16..	NODE_16028_length_5390_cov_5.942428	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster212	c16632_NODE_16..	NODE_16632_length_5254_cov_5.201677	terpene	Terpene		
+CS203_c00001_NODE_1_...cluster214	c17186_NODE_17..	NODE_17186_length_5133_cov_1.427087	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster002	c00021_NODE_21..	NODE_21_length_301139_cov_4.613182	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster006	c00049_NODE_49..	NODE_49_length_215025_cov_11.859813	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster012	c00090_NODE_90..	NODE_90_length_156740_cov_5.919228	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster016	c00137_NODE_13..	NODE_137_length_127784_cov_3.578033	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster017	c00145_NODE_14..	NODE_145_length_124724_cov_13.424352	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster021	c00173_NODE_17..	NODE_173_length_111713_cov_5.917006	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster029	c00304_NODE_30..	NODE_304_length_80511_cov_2.565100	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster030	c00308_NODE_30..	NODE_308_length_79476_cov_10.454688	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster032	c00341_NODE_34..	NODE_341_length_75552_cov_2.728896	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster033	c00360_NODE_36..	NODE_360_length_72838_cov_16.668345	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster034	c00406_NODE_40..	NODE_406_length_68265_cov_8.093443	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster035	c00408_NODE_40..	NODE_408_length_68153_cov_4.769647	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster036	c00419_NODE_41..	NODE_419_length_67350_cov_4.866043	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster039	c00461_NODE_46..	NODE_461_length_62797_cov_6.748827	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster043	c00540_NODE_54..	NODE_540_length_56562_cov_3.371294	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster049	c00589_NODE_58..	NODE_589_length_54483_cov_4.767643	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster050	c00630_NODE_63..	NODE_630_length_52189_cov_2.340306	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster051	c00636_NODE_63..	NODE_636_length_51905_cov_2.881475	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster052	c00652_NODE_65..	NODE_652_length_51223_cov_2.705456	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster055	c00687_NODE_68..	NODE_687_length_49606_cov_7.080842	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster056	c00702_NODE_70..	NODE_702_length_49015_cov_3.412985	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster060	c00813_NODE_81..	NODE_813_length_44404_cov_6.802606	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster066	c01065_NODE_10..	NODE_1065_length_36623_cov_3.132590	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster076	c01302_NODE_13..	NODE_1302_length_31801_cov_4.137147	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster077	c01346_NODE_13..	NODE_1346_length_31248_cov_6.834806	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster080	c01486_NODE_14..	NODE_1486_length_29015_cov_3.350007	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster081	c01487_NODE_14..	NODE_1487_length_29006_cov_2.213027	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster082	c01547_NODE_15..	NODE_1547_length_28209_cov_5.386119	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster087	c01986_NODE_19..	NODE_1986_length_23801_cov_2.050646	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster091	c02191_NODE_21..	NODE_2191_length_22238_cov_2.210303	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster092	c02319_NODE_23..	NODE_2319_length_21380_cov_3.741731	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster100	c02591_NODE_25..	NODE_2591_length_19663_cov_6.036701	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster103	c02713_NODE_27..	NODE_2713_length_19023_cov_1.533023	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster104	c02731_NODE_27..	NODE_2731_length_18967_cov_3.108227	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster107	c02961_NODE_29..	NODE_2961_length_17856_cov_9.365164	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster109	c03013_NODE_30..	NODE_3013_length_17570_cov_3.261996	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster111	c03086_NODE_30..	NODE_3086_length_17233_cov_1.415059	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster114	c03362_NODE_33..	NODE_3362_length_16153_cov_1.920130	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster119	c03684_NODE_36..	NODE_3684_length_15049_cov_1.845329	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster120	c03777_NODE_37..	NODE_3777_length_14765_cov_1.533543	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster125	c04452_NODE_44..	NODE_4452_length_13021_cov_2.772763	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster129	c04660_NODE_46..	NODE_4660_length_12580_cov_1.517225	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster137	c05786_NODE_57..	NODE_5786_length_10799_cov_1.497657	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster142	c06139_NODE_61..	NODE_6139_length_10375_cov_2.689403	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster148	c06948_NODE_69..	NODE_6948_length_9507_cov_7.931237	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster149	c06991_NODE_69..	NODE_6991_length_9468_cov_8.102345	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster151	c07110_NODE_71..	NODE_7110_length_9356_cov_1.196771	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster154	c07805_NODE_78..	NODE_7805_length_8733_cov_1.542180	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster156	c07848_NODE_78..	NODE_7848_length_8704_cov_1.898566	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster157	c07914_NODE_79..	NODE_7914_length_8646_cov_7.804437	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster169	c09213_NODE_92..	NODE_9213_length_7794_cov_3.643798	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster170	c09280_NODE_92..	NODE_9280_length_7751_cov_0.971013	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster171	c09355_NODE_93..	NODE_9355_length_7704_cov_0.614491	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster187	c11671_NODE_11..	NODE_11671_length_6601_cov_1.036454	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster188	c11813_NODE_11..	NODE_11813_length_6550_cov_1.052779	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster200	c15637_NODE_15..	NODE_15637_length_5440_cov_1.600038	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster203	c16407_NODE_16..	NODE_16407_length_5266_cov_1.496595	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster207	c17063_NODE_17..	NODE_17063_length_5141_cov_1.742521	terpene	Terpene		
+CS204_c00001_NODE_1_...cluster208	c17181_NODE_17..	NODE_17181_length_5116_cov_9.225296	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster007	c00030_NODE_30..	NODE_30_length_181402_cov_19.206658	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster010	c00039_NODE_39..	NODE_39_length_158786_cov_5.495780	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster013	c00055_NODE_55..	NODE_55_length_144724_cov_22.859250	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster015	c00061_NODE_61..	NODE_61_length_138037_cov_20.279726	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster018	c00083_NODE_83..	NODE_83_length_123125_cov_9.679922	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster023	c00157_NODE_15..	NODE_157_length_93339_cov_22.846211	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster028	c00228_NODE_22..	NODE_228_length_81141_cov_8.662219	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster030	c00241_NODE_24..	NODE_241_length_79468_cov_3.373237	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster033	c00310_NODE_31..	NODE_310_length_71439_cov_9.645053	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster034	c00327_NODE_32..	NODE_327_length_69864_cov_5.776446	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster037	c00419_NODE_41..	NODE_419_length_61620_cov_2.119932	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster039	c00437_NODE_43..	NODE_437_length_60301_cov_2.095772	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster041	c00485_NODE_48..	NODE_485_length_58144_cov_16.939931	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster044	c00505_NODE_50..	NODE_505_length_56919_cov_18.512290	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster046	c00521_NODE_52..	NODE_521_length_55815_cov_16.475668	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster050	c00575_NODE_57..	NODE_575_length_52693_cov_23.752863	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster051	c00597_NODE_59..	NODE_597_length_51709_cov_3.452251	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster054	c00665_NODE_66..	NODE_665_length_48997_cov_4.460978	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster056	c00799_NODE_79..	NODE_799_length_44158_cov_4.064341	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster057	c00804_NODE_80..	NODE_804_length_44078_cov_5.266001	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster062	c00929_NODE_92..	NODE_929_length_40566_cov_4.402854	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster063	c00975_NODE_97..	NODE_975_length_39431_cov_1.548367	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster072	c01236_NODE_12..	NODE_1236_length_34525_cov_4.311617	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster073	c01241_NODE_12..	NODE_1241_length_34410_cov_3.878745	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster074	c01267_NODE_12..	NODE_1267_length_33964_cov_1.650058	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster081	c01517_NODE_15..	NODE_1517_length_30439_cov_8.751254	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster082	c01527_NODE_15..	NODE_1527_length_30339_cov_3.717761	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster084	c01679_NODE_16..	NODE_1679_length_28484_cov_2.388264	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster085	c01690_NODE_16..	NODE_1690_length_28377_cov_7.866018	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster091	c01981_NODE_19..	NODE_1981_length_25513_cov_4.179154	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster098	c02212_NODE_22..	NODE_2212_length_23874_cov_26.460606	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster099	c02247_NODE_22..	NODE_2247_length_23686_cov_5.508893	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster102	c02365_NODE_23..	NODE_2365_length_22954_cov_2.496517	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster105	c02471_NODE_24..	NODE_2471_length_22286_cov_4.973419	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster106	c02482_NODE_24..	NODE_2482_length_22226_cov_3.509209	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster108	c02559_NODE_25..	NODE_2559_length_21744_cov_5.532544	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster109	c02599_NODE_25..	NODE_2599_length_21534_cov_8.952632	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster110	c02607_NODE_26..	NODE_2607_length_21470_cov_2.439160	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster114	c02678_NODE_26..	NODE_2678_length_21038_cov_8.704940	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster118	c02805_NODE_28..	NODE_2805_length_20379_cov_5.160774	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster125	c03157_NODE_31..	NODE_3157_length_18891_cov_2.574398	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster128	c03316_NODE_33..	NODE_3316_length_18305_cov_8.113379	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster131	c03331_NODE_33..	NODE_3331_length_18252_cov_2.380966	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster132	c03339_NODE_33..	NODE_3339_length_18215_cov_3.726338	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster133	c03486_NODE_34..	NODE_3486_length_17743_cov_25.291837	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster141	c04169_NODE_41..	NODE_4169_length_15709_cov_5.640932	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster144	c04363_NODE_43..	NODE_4363_length_15209_cov_8.727755	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster147	c04869_NODE_48..	NODE_4869_length_14170_cov_1.729901	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster148	c04924_NODE_49..	NODE_4924_length_14046_cov_1.948919	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster152	c05170_NODE_51..	NODE_5170_length_13548_cov_2.390731	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster157	c05461_NODE_54..	NODE_5461_length_13031_cov_3.427154	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster159	c05543_NODE_55..	NODE_5543_length_12883_cov_7.834352	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster160	c05561_NODE_55..	NODE_5561_length_12852_cov_2.873320	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster161	c05794_NODE_57..	NODE_5794_length_12500_cov_2.953447	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster165	c05860_NODE_58..	NODE_5860_length_12416_cov_3.264220	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster166	c05902_NODE_59..	NODE_5902_length_12332_cov_1.338714	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster167	c06069_NODE_60..	NODE_6069_length_12070_cov_6.759357	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster169	c06087_NODE_60..	NODE_6087_length_12049_cov_2.035732	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster170	c06414_NODE_64..	NODE_6414_length_11584_cov_2.455268	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster172	c06579_NODE_65..	NODE_6579_length_11363_cov_5.623087	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster182	c07584_NODE_75..	NODE_7584_length_10275_cov_20.668605	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster186	c08127_NODE_81..	NODE_8127_length_9747_cov_1.637214	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster187	c08221_NODE_82..	NODE_8221_length_9681_cov_2.618798	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster188	c08354_NODE_83..	NODE_8354_length_9553_cov_21.400594	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster190	c08423_NODE_84..	NODE_8423_length_9491_cov_1.824861	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster191	c08443_NODE_84..	NODE_8443_length_9471_cov_2.473245	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster193	c08574_NODE_85..	NODE_8574_length_9367_cov_4.915584	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster198	c09225_NODE_92..	NODE_9225_length_8899_cov_1.843707	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster205	c10175_NODE_10..	NODE_10175_length_8276_cov_2.542152	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster206	c10311_NODE_10..	NODE_10311_length_8191_cov_1.130332	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster207	c10320_NODE_10..	NODE_10320_length_8186_cov_2.783100	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster214	c11044_NODE_11..	NODE_11044_length_7792_cov_1.551990	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster217	c11290_NODE_11..	NODE_11290_length_7677_cov_7.819603	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster221	c11676_NODE_11..	NODE_11676_length_7486_cov_1.237940	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster222	c11760_NODE_11..	NODE_11760_length_7449_cov_1.886233	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster223	c11857_NODE_11..	NODE_11857_length_7401_cov_9.368573	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster231	c12923_NODE_12..	NODE_12923_length_6950_cov_26.199912	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster240	c14119_NODE_14..	NODE_14119_length_6506_cov_7.332027	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster243	c14636_NODE_14..	NODE_14636_length_6336_cov_4.747947	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster245	c14955_NODE_14..	NODE_14955_length_6239_cov_1.296957	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster246	c14978_NODE_14..	NODE_14978_length_6234_cov_1.639266	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster248	c15084_NODE_15..	NODE_15084_length_6196_cov_0.869171	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster259	c17425_NODE_17..	NODE_17425_length_5583_cov_1.196664	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster261	c17663_NODE_17..	NODE_17663_length_5524_cov_0.898647	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster262	c17813_NODE_17..	NODE_17813_length_5491_cov_1.387584	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster266	c18494_NODE_18..	NODE_18494_length_5342_cov_1.114286	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster268	c18687_NODE_18..	NODE_18687_length_5300_cov_0.863329	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster271	c19211_NODE_19..	NODE_19211_length_5195_cov_1.956393	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster272	c19743_NODE_19..	NODE_19743_length_5090_cov_5.571026	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster273	c19848_NODE_19..	NODE_19848_length_5068_cov_2.693584	terpene	Terpene		
+CS211_c00001_NODE_1_...cluster276	c20035_NODE_20..	NODE_20035_length_5035_cov_1.529747	terpene	Terpene		
+CS783_c00001_NODE_1_...cluster001	c00001_NODE_1_..	NODE_1_length_2765707_cov_4.308384	terpene	Terpene		
+CS783_c00001_NODE_1_...cluster005	c00002_NODE_2_..	NODE_2_length_926060_cov_11.452145	terpene	Terpene		
+CS783_c00001_NODE_1_...cluster007	c00003_NODE_3_..	NODE_3_length_794533_cov_2.366468	terpene	Terpene		
+CS783_c00001_NODE_1_...cluster009	c00006_NODE_6_..	NODE_6_length_644530_cov_2.450330	terpene	Terpene		
+CS783_c00001_NODE_1_...cluster012	c00009_NODE_9_..	NODE_9_length_541910_cov_3.574184	terpene	Terpene		
+CS783_c00001_NODE_1_...cluster017	c00042_NODE_42..	NODE_42_length_264090_cov_7.292424	terpene	Terpene		
+CS783_c00001_NODE_1_...cluster020	c00049_NODE_49..	NODE_49_length_248331_cov_6.302155	terpene	Terpene		
+CS783_c00001_NODE_1_...cluster022	c00054_NODE_54..	NODE_54_length_224147_cov_5.621494	terpene	Terpene		
+CS783_c00001_NODE_1_...cluster024	c00086_NODE_86..	NODE_86_length_187413_cov_3.116229	terpene	Terpene		
+CS783_c00001_NODE_1_...cluster026	c00110_NODE_11..	NODE_110_length_163204_cov_5.117331	terpene	Terpene		
+CS783_c00001_NODE_1_...cluster028	c00155_NODE_15..	NODE_155_length_134027_cov_5.425795	terpene	Terpene		
+CS783_c00001_NODE_1_...cluster030	c00197_NODE_19..	NODE_197_length_113693_cov_3.948691	terpene	Terpene		
+CS783_c00001_NODE_1_...cluster033	c00225_NODE_22..	NODE_225_length_106564_cov_4.198897	terpene	Terpene		
+CS783_c00001_NODE_1_...cluster034	c00241_NODE_24..	NODE_241_length_102462_cov_2.050188	terpene	Terpene		
+CS783_c00001_NODE_1_...cluster036	c00255_NODE_25..	NODE_255_length_97079_cov_3.506622	terpene	Terpene		
+CS783_c00001_NODE_1_...cluster040	c00337_NODE_33..	NODE_337_length_78928_cov_3.889088	terpene	Terpene		
+CS783_c00001_NODE_1_...cluster043	c00464_NODE_46..	NODE_464_length_60055_cov_24.357896	terpene	Terpene		
+CS783_c00001_NODE_1_...cluster048	c00628_NODE_62..	NODE_628_length_49629_cov_1.548079	terpene	Terpene		
+CS783_c00001_NODE_1_...cluster049	c00650_NODE_65..	NODE_650_length_48445_cov_7.830125	terpene	Terpene		
+CS783_c00001_NODE_1_...cluster052	c00716_NODE_71..	NODE_716_length_45647_cov_2.366542	terpene	Terpene		
+CS783_c00001_NODE_1_...cluster053	c00802_NODE_80..	NODE_802_length_41203_cov_5.628007	terpene	Terpene		
+CS783_c00001_NODE_1_...cluster060	c01050_NODE_10..	NODE_1050_length_34414_cov_2.149853	terpene	Terpene		
+CS783_c00001_NODE_1_...cluster063	c01269_NODE_12..	NODE_1269_length_29990_cov_2.317584	terpene	Terpene		
+CS783_c00001_NODE_1_...cluster065	c01356_NODE_13..	NODE_1356_length_28528_cov_1.561776	terpene	Terpene		
+CS783_c00001_NODE_1_...cluster066	c01623_NODE_16..	NODE_1623_length_25065_cov_1.524902	terpene	Terpene		
+CS783_c00001_NODE_1_...cluster070	c01733_NODE_17..	NODE_1733_length_23807_cov_1.435346	terpene	Terpene		
+CS783_c00001_NODE_1_...cluster075	c02091_NODE_20..	NODE_2091_length_20445_cov_1.805837	terpene	Terpene		
+CS783_c00001_NODE_1_...cluster078	c02206_NODE_22..	NODE_2206_length_19477_cov_5.468992	terpene	Terpene		
+CS783_c00001_NODE_1_...cluster083	c02465_NODE_24..	NODE_2465_length_17835_cov_4.995595	terpene	Terpene		
+CS783_c00001_NODE_1_...cluster085	c02564_NODE_25..	NODE_2564_length_17319_cov_7.340275	terpene	Terpene		
+CS783_c00001_NODE_1_...cluster088	c02667_NODE_26..	NODE_2667_length_16783_cov_2.308718	terpene	Terpene		
+CS783_c00001_NODE_1_...cluster091	c02931_NODE_29..	NODE_2931_length_15401_cov_1.661451	terpene	Terpene		
+CS783_c00001_NODE_1_...cluster092	c03037_NODE_30..	NODE_3037_length_14954_cov_1.205099	terpene	Terpene		
+CS783_c00001_NODE_1_...cluster100	c03511_NODE_35..	NODE_3511_length_13298_cov_0.964543	terpene	Terpene		
+CS783_c00001_NODE_1_...cluster102	c03759_NODE_37..	NODE_3759_length_12668_cov_1.802009	terpene	Terpene		
+CS783_c00001_NODE_1_...cluster107	c04139_NODE_41..	NODE_4139_length_11700_cov_3.221896	terpene	Terpene		
+CS783_c00001_NODE_1_...cluster109	c04294_NODE_42..	NODE_4294_length_11332_cov_1.651406	terpene	Terpene		
+CS783_c00001_NODE_1_...cluster114	c04745_NODE_47..	NODE_4745_length_10386_cov_1.252851	terpene	Terpene		
+CS783_c00001_NODE_1_...cluster115	c04882_NODE_48..	NODE_4882_length_10164_cov_1.332271	terpene	Terpene		
+CS783_c00001_NODE_1_...cluster116	c04943_NODE_49..	NODE_4943_length_10051_cov_1.824365	terpene	Terpene		
+CS783_c00001_NODE_1_...cluster125	c05843_NODE_58..	NODE_5843_length_8779_cov_0.956657	terpene	Terpene		
+CS783_c00001_NODE_1_...cluster131	c06096_NODE_60..	NODE_6096_length_8459_cov_1.530605	terpene	Terpene		
+CS783_c00001_NODE_1_...cluster132	c06141_NODE_61..	NODE_6141_length_8406_cov_5.501389	terpene	Terpene		
+CS783_c00001_NODE_1_...cluster135	c06420_NODE_64..	NODE_6420_length_8150_cov_1.020067	terpene	Terpene		
+CS783_c00001_NODE_1_...cluster136	c06900_NODE_69..	NODE_6900_length_7683_cov_1.433695	terpene	Terpene		
+CS783_c00001_NODE_1_...cluster140	c07388_NODE_73..	NODE_7388_length_7286_cov_1.947618	terpene	Terpene		
+CS783_c00001_NODE_1_...cluster142	c07648_NODE_76..	NODE_7648_length_7101_cov_3.256237	terpene	Terpene		
+CS783_c00001_NODE_1_...cluster144	c07816_NODE_78..	NODE_7816_length_6982_cov_2.121663	terpene	Terpene		
+CS783_c00001_NODE_1_...cluster149	c08562_NODE_85..	NODE_8562_length_6505_cov_5.520226	terpene	Terpene		
+CS783_c00001_NODE_1_...cluster150	c08600_NODE_86..	NODE_8600_length_6488_cov_1.314730	terpene	Terpene		
+CS783_c00001_NODE_1_...cluster151	c08729_NODE_87..	NODE_8729_length_6408_cov_3.181977	terpene	Terpene		
+CS783_c00001_NODE_1_...cluster153	c09072_NODE_90..	NODE_9072_length_6217_cov_1.815764	terpene	Terpene		
+CS783_c00001_NODE_1_...cluster158	c10830_NODE_10..	NODE_10830_length_5452_cov_1.661596	terpene	Terpene		
+CS783_c00001_NODE_1_...cluster159	c11652_NODE_11..	NODE_11652_length_5179_cov_5.466152	terpene	Terpene		
+CS783_c00001_NODE_1_...cluster161	c12130_NODE_12..	NODE_12130_length_5043_cov_1.637714	terpene	Terpene		

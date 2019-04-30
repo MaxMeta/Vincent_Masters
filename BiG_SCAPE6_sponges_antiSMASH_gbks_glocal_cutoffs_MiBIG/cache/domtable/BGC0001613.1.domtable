@@ -1,0 +1,31 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DNA_ligase_A_M       PF01068.21   204 BGC0001613.1_ORF1:gid:lig4:pid:ASP18609.1:loc:0:2934:strand:+ -            977   4.4e-43  147.3   0.0   1   1   2.5e-46   7.6e-43  146.5   0.0     9   204   309   525   299   525 0.86 ATP dependent DNA ligase domain
+DNA_ligase_A_N       PF04675.14   173 BGC0001613.1_ORF1:gid:lig4:pid:ASP18609.1:loc:0:2934:strand:+ -            977   9.8e-43  146.5   0.0   1   1   8.7e-46   2.6e-42  145.1   0.0     2   173    51   257    50   257 0.91 DNA ligase N terminus
+RNA_ligase           PF09414.10   161 BGC0001613.1_ORF1:gid:lig4:pid:ASP18609.1:loc:0:2934:strand:+ -            977   1.1e-18   68.1   0.0   1   1   7.8e-22   2.3e-18   67.0   0.0     2   161   325   525   324   525 0.72 RNA ligase
+DNA_ligase_A_C       PF04679.15    99 BGC0001613.1_ORF1:gid:lig4:pid:ASP18609.1:loc:0:2934:strand:+ -            977   2.5e-14   53.7   0.2   1   1   2.9e-17   8.6e-14   51.9   0.0     1    99   550   672   550   672 0.86 ATP dependent DNA ligase C terminal region
+BRCT_2               PF16589.5     85 BGC0001613.1_ORF1:gid:lig4:pid:ASP18609.1:loc:0:2934:strand:+ -            977   1.2e-12   48.0   0.0   1   1   8.1e-12   2.4e-08   34.3   0.0     1    75   732   813   732   824 0.85 BRCT domain, a BRCA1 C-terminus domain
+BRCT                 PF00533.26    79 BGC0001613.1_ORF1:gid:lig4:pid:ASP18609.1:loc:0:2934:strand:+ -            977   3.7e-10   40.0   0.0   1   1   6.9e-10   2.1e-06   28.0   0.0     2    79   732   811   731   811 0.89 BRCA1 C Terminus (BRCT) domain
+Ku                   PF02735.16   204 BGC0001613.1_ORF2:gid:ku70:pid:ASP18608.1:loc:3034:4975:strand:+ -            646   4.4e-46  157.2   0.0   1   1   1.8e-49   8.1e-46  156.3   0.0     1   185   281   471   281   491 0.90 Ku70/Ku80 beta-barrel domain
+Ku_N                 PF03731.15   220 BGC0001613.1_ORF2:gid:ku70:pid:ASP18608.1:loc:3034:4975:strand:+ -            646   2.3e-36  125.6   0.0   1   1   7.6e-40   3.4e-36  125.0   0.0     1   219    34   273    34   274 0.92 Ku70/Ku80 N-terminal alpha/beta domain
+Ku_C                 PF03730.14    88 BGC0001613.1_ORF2:gid:ku70:pid:ASP18608.1:loc:3034:4975:strand:+ -            646     6e-26   91.0   2.4   1   1   1.3e-29     6e-26   91.0   2.4     2    87   497   583   496   585 0.91 Ku70/Ku80 C-terminal arm
+SAP                  PF02037.27    35 BGC0001613.1_ORF2:gid:ku70:pid:ASP18608.1:loc:3034:4975:strand:+ -            646   4.5e-12   45.4   0.0   1   1     4e-15   1.8e-11   43.5   0.0     1    34   608   641   608   642 0.97 SAP domain
+TRI5                 PF06330.11   362 BGC0001613.1_ORF3:gid:thtri5:pid:AST99822.1:loc:8109:9276:strand:+ -            388  1.3e-156  521.0   1.4   1   1    9e-161  1.6e-156  520.8   1.4     1   352    12   363    12   372 0.98 Trichodiene synthase (TRI5)
+Tri3                 PF07428.11   408 BGC0001613.1_ORF4:gid:tri3:pid:AUB51317.1:loc:17485:18979:strand:+ -            497  4.8e-156  519.8   0.0   1   1    7e-160  6.3e-156  519.4   0.0    26   407    11   396     8   397 0.98 15-O-acetyltransferase Tri3
+p450                 PF00067.22   463 BGC0001613.1_ORF5:gid:tri4:pid:AUB51318.1:loc:36564:38082:strand:+ -            505   2.4e-45  155.2   0.0   1   1   3.1e-49   5.5e-45  154.0   0.0     6   417    47   457    43   458 0.78 Cytochrome P450
+Fungal_trans_2       PF11951.8    384 BGC0001613.1_ORF7:gid:tri10:pid:AUB51320.1:loc:150249:151596:strand:+ -            448   2.5e-61  207.6   3.0   1   1   2.1e-65   3.7e-61  207.0   3.0     2   383    37   444    36   445 0.86 Fungal specific transcription factor domain
+p450                 PF00067.22   463 BGC0001613.1_ORF8:gid:tri11:pid:AUB51321.1:loc:301945:303499:strand:+ -            517   6.7e-72  242.7   0.0   1   1   4.7e-76   8.4e-72  242.4   0.0     2   450    39   480    38   488 0.92 Cytochrome P450
+TRI12                PF06609.13   599 BGC0001613.1_ORF9:gid:tri12:pid:AUB51322.1:loc:605544:607110:strand:+ -            521  2.6e-200  666.9  19.0   1   3   4.1e-27   7.4e-23   80.8   0.1     7    89     5    87     2    88 0.94 Fungal trichothecene efflux pump (TRI12)
+TRI12                PF06609.13   599 BGC0001613.1_ORF9:gid:tri12:pid:AUB51322.1:loc:605544:607110:strand:+ -            521  2.6e-200  666.9  19.0   2   3   8.6e-13   1.6e-08   33.5   0.3   140   180    88   128    87   131 0.94 Fungal trichothecene efflux pump (TRI12)
+TRI12                PF06609.13   599 BGC0001613.1_ORF9:gid:tri12:pid:AUB51322.1:loc:605544:607110:strand:+ -            521  2.6e-200  666.9  19.0   3   3  6.9e-172  1.2e-167  558.9  10.5   207   590   130   514   124   521 0.97 Fungal trichothecene efflux pump (TRI12)
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001613.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001613.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001613.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:29:50 2019
+# [ok]

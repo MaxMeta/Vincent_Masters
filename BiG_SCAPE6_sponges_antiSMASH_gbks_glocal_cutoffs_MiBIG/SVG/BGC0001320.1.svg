@@ -1,0 +1,44 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="3689.1" height="160">
+	<g>
+		<line x1="10" y1="40.0" x2="3679.1" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>PGSC0003DMG400011751</title>
+			<polygon class="PGSC0003DMG400011751" points="16,25 28,25 28,10 58,40 28,70 28,55 16,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DIOX_N (PF14226)
+"non-haem dioxygenase in morphine synthesis N-terminal"</title>
+				<rect class="PF14226" x="19" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(122,206,79)" stroke="rgb(97,164,63)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>2OG-FeII_Oxy (PF03171)
+"2OG-Fe(II) oxygenase superfamily"</title>
+				<polygon class="PF03171" points="35,28 42,28 44,30 44,50 42,52 35,52" stroke-linejoin="round" width="9" height="24" fill="rgb(184,68,180)" stroke="rgb(147,54,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>PGSC0003DMG400011750</title>
+			<polygon class="PGSC0003DMG400011750" points="1321,25 1357,25 1357,10 1387,40 1357,70 1357,55 1321,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="1328,28 1371,28 1372,29 1372,51 1371,52 1328,52" stroke-linejoin="round" width="44" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>PGSC0003DMG400011749</title>
+			<polygon class="PGSC0003DMG400011749" points="3623,25 3641,25 3641,10 3671,40 3641,70 3641,55 3623,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>UDPGT (PF00201)
+"UDP-glucoronosyl and UDP-glucosyl transferase"</title>
+				<polygon class="PF00201" points="3633,28 3655,28 3664,37 3664,43 3655,52 3633,52" stroke-linejoin="round" width="31" height="24" fill="rgb(225,150,107)" stroke="rgb(180,120,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="120.0" x2="150.86666666666667" y2="120.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>PGSC0003DMG400024281</title>
+			<polygon class="PGSC0003DMG400024281" points="149,105 48,105 48,90 18,120 48,150 48,135 149,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

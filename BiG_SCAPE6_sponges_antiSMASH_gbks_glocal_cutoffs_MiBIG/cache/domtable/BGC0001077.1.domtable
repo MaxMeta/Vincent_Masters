@@ -1,0 +1,34 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Chal_sti_synt_C      PF02797.15   151 BGC0001077.1_ORF2:gid:agqA:pid:BAL92976.1:loc:449:1508:strand:- -            352   4.3e-23   82.0   0.0   1   1   1.9e-26   8.6e-23   81.0   0.0    13   148   220   346   212   349 0.89 Chalcone and stilbene synthases, C-terminal domain
+Chal_sti_synt_N      PF00195.19   225 BGC0001077.1_ORF2:gid:agqA:pid:BAL92976.1:loc:449:1508:strand:- -            352   3.4e-19   69.2   0.1   1   1   1.2e-22   5.3e-19   68.5   0.1    14   222     4   201     2   204 0.89 Chalcone and stilbene synthases, N-terminal domain
+ACP_syn_III_C        PF08541.10    90 BGC0001077.1_ORF2:gid:agqA:pid:BAL92976.1:loc:449:1508:strand:- -            352   5.8e-11   42.4   0.0   1   1   4.1e-14   1.8e-10   40.8   0.0     1    88   257   345   257   346 0.89 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal
+FAE1_CUT1_RppA       PF08392.12   290 BGC0001077.1_ORF2:gid:agqA:pid:BAL92976.1:loc:449:1508:strand:- -            352   4.1e-07   29.6   0.0   1   1     4e-10   1.8e-06   27.5   0.0    39   204    30   201    22   205 0.84 FAE1/Type III polyketide synthase-like protein
+Acyl-CoA_dh_M        PF02770.19    97 BGC0001077.1_ORF3:gid:agqB:pid:BAL92977.1:loc:1501:2656:strand:- -            384   1.2e-17   63.9   0.0   1   1   5.6e-21   2.5e-17   62.8   0.0     1    95   120   210   120   212 0.92 Acyl-CoA dehydrogenase, middle domain
+Acyl-CoA_dh_2        PF08028.11   134 BGC0001077.1_ORF3:gid:agqB:pid:BAL92977.1:loc:1501:2656:strand:- -            384   1.4e-14   54.5  15.5   1   1   3.2e-18   1.4e-14   54.5  15.5     3   126   241   352   239   358 0.92 Acyl-CoA dehydrogenase, C-terminal domain
+Acyl-CoA_dh_1        PF00441.24   150 BGC0001077.1_ORF3:gid:agqB:pid:BAL92977.1:loc:1501:2656:strand:- -            384     3e-13   50.2   7.9   1   1   1.3e-16   5.9e-13   49.3   7.9    17   132   240   353   227   366 0.92 Acyl-CoA dehydrogenase, C-terminal domain
+Acyl-CoA_dh_N        PF02771.16   113 BGC0001077.1_ORF3:gid:agqB:pid:BAL92977.1:loc:1501:2656:strand:- -            384   4.7e-11   43.4   0.1   1   1     1e-14   4.7e-11   43.4   0.1     9    89     3    82     1    88 0.91 Acyl-CoA dehydrogenase, N-terminal domain
+Methyltransf_11      PF08241.12    96 BGC0001077.1_ORF4:gid:agqC:pid:BAL92978.1:loc:2645:3353:strand:- -            235   4.2e-20   72.2   0.1   1   1   2.9e-23   6.5e-20   71.6   0.1     1    96    51   140    51   140 0.96 Methyltransferase domain
+Methyltransf_25      PF13649.6     97 BGC0001077.1_ORF4:gid:agqC:pid:BAL92978.1:loc:2645:3353:strand:- -            235   9.1e-14   51.9   0.0   1   1   6.2e-17   1.4e-13   51.4   0.0     2    97    51   136    50   136 0.96 Methyltransferase domain
+Methyltransf_23      PF13489.6    165 BGC0001077.1_ORF4:gid:agqC:pid:BAL92978.1:loc:2645:3353:strand:- -            235   3.4e-13   49.8   0.0   1   1     2e-16   4.5e-13   49.4   0.0     9   123    32   146    18   182 0.81 Methyltransferase domain
+Methyltransf_12      PF08242.12    99 BGC0001077.1_ORF4:gid:agqC:pid:BAL92978.1:loc:2645:3353:strand:- -            235   1.7e-10   41.5   0.0   1   1   1.4e-13   3.1e-10   40.7   0.0     1    99    51   138    51   138 0.83 Methyltransferase domain
+Methyltransf_31      PF13847.6    152 BGC0001077.1_ORF4:gid:agqC:pid:BAL92978.1:loc:2645:3353:strand:- -            235   3.7e-10   39.8   0.0   1   1   2.2e-13     5e-10   39.4   0.0     5   113    48   144    44   162 0.89 Methyltransferase domain
+Methyltransf_8       PF05148.15   219 BGC0001077.1_ORF4:gid:agqC:pid:BAL92978.1:loc:2645:3353:strand:- -            235   3.2e-05   23.9   0.0   1   1   2.2e-08   4.9e-05   23.3   0.0    75   160    49   144    45   162 0.75 Hypothetical methyltransferase
+MetW                 PF07021.12   193 BGC0001077.1_ORF4:gid:agqC:pid:BAL92978.1:loc:2645:3353:strand:- -            235   0.00018   21.1   0.0   1   1   1.1e-07   0.00026   20.7   0.0    14   107    47   140    35   157 0.82 Methionine biosynthesis protein MetW
+Ubie_methyltran      PF01209.18   233 BGC0001077.1_ORF4:gid:agqC:pid:BAL92978.1:loc:2645:3353:strand:- -            235   0.00018   20.9   0.0   1   1   1.2e-07   0.00026   20.4   0.0    88   151    77   140    43   152 0.84 ubiE/COQ5 methyltransferase family
+UbiA                 PF01040.18   252 BGC0001077.1_ORF5:gid:agqD:pid:BAL92979.1:loc:3418:4216:strand:+ -            265     3e-22   79.2  28.1   1   1     2e-26   3.7e-22   78.9  28.1     5   236    14   237    12   257 0.79 UbiA prenyltransferase family
+AAA_25               PF13481.6    194 BGC0001077.1_ORF7:gid::pid:BAL92981.1:loc:5125:6550:strand:+ -            474   1.5e-15   57.3   2.4   1   1   3.3e-19   1.5e-15   57.3   2.4     7   193    70   228    63   229 0.82 AAA domain
+ATPase               PF06745.13   231 BGC0001077.1_ORF7:gid::pid:BAL92981.1:loc:5125:6550:strand:+ -            474   7.5e-15   54.9   0.0   1   1   2.4e-14   1.1e-10   41.3   0.0     1    77    78   154    78   161 0.95 KaiC
+Rubredoxin_2         PF18073.1     28 BGC0001077.1_ORF7:gid::pid:BAL92981.1:loc:5125:6550:strand:+ -            474   6.6e-12   44.9   4.4   1   1   2.3e-15     1e-11   44.3   4.4     1    27    15    41    15    42 0.95 Rubredoxin metal binding domain
+DnaB_C               PF03796.15   255 BGC0001077.1_ORF7:gid::pid:BAL92981.1:loc:5125:6550:strand:+ -            474   7.4e-08   32.0   0.0   1   1   2.8e-10   1.2e-06   28.0   0.0     2    66    78   143    77   153 0.90 DnaB-like helicase C terminal domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001077.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001077.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001077.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:34:10 2019
+# [ok]

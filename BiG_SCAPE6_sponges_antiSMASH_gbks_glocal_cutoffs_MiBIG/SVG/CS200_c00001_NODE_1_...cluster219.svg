@@ -1,0 +1,95 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="373.4" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="363.4" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg7427_1)</title>
+			<polygon class=" (ctg7427_1)" points="10,40 26,10 26,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NAPRTase_N (PF17767)
+"Nicotinate phosphoribosyltransferase (NAPRTase) N-terminal domain"</title>
+				<polygon class="PF17767" points="13,40 20,28 25,28 25,52 20,52 13,40" stroke-linejoin="round" width="12" height="24" fill="rgb(186,205,69)" stroke="rgb(148,164,55)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7427_2)</title>
+			<polygon class=" (ctg7427_2)" points="35,25 68,25 68,10 98,40 68,70 68,55 35,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="39" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="74,28 82,28 88,34 88,46 82,52 74,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7427_3)</title>
+			<polygon class=" (ctg7427_3)" points="103,25 120,25 120,10 150,40 120,70 120,55 103,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>tRNA_anti_2 (PF13742)
+"OB-fold nucleic acid binding domain"</title>
+				<rect class="PF13742" x="104" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(221,86,78)" stroke="rgb(176,68,62)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Exonuc_VII_L (PF02601)
+"Exonuclease VII, large subunit"</title>
+				<polygon class="PF02601" points="117,28 134,28 146,40 134,52 117,52" stroke-linejoin="round" width="31" height="24" fill="rgb(182,69,65)" stroke="rgb(145,55,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7427_4)</title>
+			<polygon class=" (ctg7427_4)" points="150,10 158,40 150,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Exonuc_VII_S (PF02609)
+"Exonuclease VII small subunit"</title>
+				<polygon class="PF02609" points="151,28 151,28 154,40 151,52 151,52" stroke-linejoin="round" width="5" height="24" fill="rgb(127,67,194)" stroke="rgb(101,53,155)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7427_5)</title>
+			<polygon class=" (ctg7427_5)" points="165,25 170,25 170,10 200,40 170,70 170,55 165,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>polyprenyl_synt (PF00348)
+"Polyprenyl synthetase"</title>
+				<polygon class="PF00348" points="169,28 184,28 195,39 195,41 184,52 169,52" stroke-linejoin="round" width="26" height="24" fill="rgb(61,206,65)" stroke="rgb(48,164,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7427_6)</title>
+			<polygon class=" (ctg7427_6)" points="201,10 211,40 201,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg7427_7)</title>
+			<polygon class=" (ctg7427_7)" points="241,40 257,10 257,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg7427_8)</title>
+			<polygon class=" (ctg7427_8)" points="311,25 292,25 292,10 262,40 292,70 292,55 311,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Hydantoinase_B (PF02538)
+"Hydantoinase B/oxoprolinase"</title>
+				<polygon class="PF02538" points="272,34 278,28 310,28 310,52 278,52 272,46" stroke-linejoin="round" width="38" height="24" fill="rgb(221,153,86)" stroke="rgb(176,122,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7427_9)</title>
+			<polygon class=" (ctg7427_9)" points="357,25 342,25 342,10 312,40 342,70 342,55 357,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Hydantoinase_A (PF01968)
+"Hydantoinase/oxoprolinase"</title>
+				<polygon class="PF01968" points="316,40 328,28 344,28 344,52 328,52 316,40" stroke-linejoin="round" width="28" height="24" fill="rgb(126,186,91)" stroke="rgb(100,148,72)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Hydant_A_N (PF05378)
+"Hydantoinase/oxoprolinase N-terminal region"</title>
+				<rect class="PF05378" x="347" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(116,89,225)" stroke="rgb(92,71,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7427_10)</title>
+			<polygon class=" (ctg7427_10)" points="358,10 362,40 358,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

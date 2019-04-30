@@ -1,0 +1,31 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Fungal_trans_2       PF11951.8    384 BGC0000313.1_ORF1:gid::pid:ACI30651.1:loc:0:2705:strand:- -            747   4.6e-45  154.1   0.2   1   1   7.4e-49   6.7e-45  153.5   0.2     3   372   375   739   373   745 0.92 Fungal specific transcription factor domain
+Zn_clus              PF00172.18    40 BGC0000313.1_ORF1:gid::pid:ACI30651.1:loc:0:2705:strand:- -            747   1.5e-09   37.8   8.6   1   1   3.9e-13   3.5e-09   36.6   8.6     1    38    18    54    18    56 0.93 Fungal Zn(2)-Cys(6) binuclear cluster domain
+Pro_isomerase        PF00160.21   158 BGC0000313.1_ORF2:gid::pid:ACI30652.1:loc:3518:5598:strand:- -            623   5.3e-51  173.0   0.1   1   1   1.9e-54   1.1e-50  172.0   0.1     4   156   476   620   473   622 0.92 Cyclophilin type peptidyl-prolyl cis-trans isomerase/CLD
+WD40                 PF00400.32    38 BGC0000313.1_ORF2:gid::pid:ACI30652.1:loc:3518:5598:strand:- -            623   6.5e-12   45.8   0.0   1   1   2.2e-07    0.0013   19.5   0.0     4    38   108   143   105   143 0.92 WD domain, G-beta repeat
+Far-17a_AIG1         PF04750.14   202 BGC0000313.1_ORF3:gid::pid:ACI30653.1:loc:6215:6956:strand:+ -            228   3.8e-40  137.4  15.4   1   1   2.4e-44   4.4e-40  137.2  15.4     1   201    16   213    16   214 0.93 FAR-17a/AIG1-like protein
+FMN_dh               PF01070.18   348 BGC0000313.1_ORF4:gid:glycolate_oxidase_L-lactate_2-monooxygenase:pid::loc:7040:7751:strand:- -             49   1.1e-06   28.0   0.0   1   1   6.2e-11   1.1e-06   27.9   0.0    75   117     6    49     2    49 0.89 FMN-dependent dehydrogenase
+ApbA_C               PF08546.11   125 BGC0000313.1_ORF5:gid:kivr:pid:ACI30654.1:loc:7881:9270:strand:- -            462   3.6e-25   88.6   0.0   1   1     1e-28   8.9e-25   87.3   0.0     3   121   284   446   282   449 0.84 Ketopantoate reductase PanE/ApbA C terminal
+ApbA                 PF02558.16   152 BGC0000313.1_ORF5:gid:kivr:pid:ACI30654.1:loc:7881:9270:strand:- -            462   5.5e-14   52.1   0.0   1   1   9.8e-18   8.7e-14   51.4   0.0     1   146    68   237    68   241 0.80 Ketopantoate reductase PanE/ApbA
+AMP-binding          PF00501.28   423 BGC0000313.1_ORF6:gid:Beas:pid:ACI30655.1:loc:11510:21080:strand:+ -           3189  2.3e-136  454.8   0.0   1   2   1.2e-69   5.4e-66  222.9   0.0     3   423   504   901   502   901 0.86 AMP-binding enzyme
+AMP-binding          PF00501.28   423 BGC0000313.1_ORF6:gid:Beas:pid:ACI30655.1:loc:11510:21080:strand:+ -           3189  2.3e-136  454.8   0.0   2   2   1.1e-71   4.8e-68  229.7   0.0     1   423  1599  2004  1599  2004 0.86 AMP-binding enzyme
+Condensation         PF00668.20   457 BGC0000313.1_ORF6:gid:Beas:pid:ACI30655.1:loc:11510:21080:strand:+ -           3189  2.9e-133  444.9   0.0   1   3   1.1e-15   4.8e-12   45.3   0.0     3   454    48   481    46   483 0.76 Condensation domain
+Condensation         PF00668.20   457 BGC0000313.1_ORF6:gid:Beas:pid:ACI30655.1:loc:11510:21080:strand:+ -           3189  2.9e-133  444.9   0.0   2   3   3.9e-83   1.8e-79  267.6   0.0     8   447  1136  1568  1131  1574 0.92 Condensation domain
+Condensation         PF00668.20   457 BGC0000313.1_ORF6:gid:Beas:pid:ACI30655.1:loc:11510:21080:strand:+ -           3189  2.9e-133  444.9   0.0   3   3   7.8e-41   3.5e-37  128.2   0.0     2   432  2773  3183  2772  3188 0.87 Condensation domain
+PP-binding           PF00550.25    67 BGC0000313.1_ORF6:gid:Beas:pid:ACI30655.1:loc:11510:21080:strand:+ -           3189   6.2e-33  113.0   0.1   1   3     3e-13   1.3e-09   38.2   0.0     2    63  1044  1104  1043  1106 0.96 Phosphopantetheine attachment site
+PP-binding           PF00550.25    67 BGC0000313.1_ORF6:gid:Beas:pid:ACI30655.1:loc:11510:21080:strand:+ -           3189   6.2e-33  113.0   0.1   2   3   2.5e-09   1.1e-05   25.7   0.0    18    64  2578  2624  2565  2627 0.88 Phosphopantetheine attachment site
+PP-binding           PF00550.25    67 BGC0000313.1_ORF6:gid:Beas:pid:ACI30655.1:loc:11510:21080:strand:+ -           3189   6.2e-33  113.0   0.1   3   3   3.4e-15   1.5e-11   44.4   0.0     3    60  2663  2717  2662  2724 0.92 Phosphopantetheine attachment site
+Calreticulin         PF00262.18   367 BGC0000313.1_ORF8:gid::pid:ACI30657.1:loc:25821:27691:strand:+ -            557  6.5e-167  555.0  19.3   1   1  3.6e-171  6.5e-167  555.0  19.3     1   367    45   415    45   415 0.99 Calreticulin family
+Aldedh               PF00171.22   462 BGC0000313.1_ORF9:gid::pid:ACI30658.1:loc:28614:30425:strand:+ -            584  4.1e-134  447.6   0.1   1   1    3e-138  5.3e-134  447.2   0.1     2   462    98   562    97   562 0.98 Aldehyde dehydrogenase family
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000313.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000313.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000313.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:39:33 2019
+# [ok]

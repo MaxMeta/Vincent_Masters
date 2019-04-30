@@ -1,0 +1,65 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="197.2" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="187.2" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>algE
+outer membrane protein AlgE</title>
+			<polygon class="algE
+outer membrane protein AlgE" points="10,10 16,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Alginate_exp (PF13372)
+"Alginate export"</title>
+				<polygon class="PF13372" points="10,28 10,28 13,40 10,52 10,52" stroke-linejoin="round" width="5" height="24" fill="rgb(128,200,52)" stroke="rgb(102,160,41)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>algG
+alginate-c5-epimerase AlgG</title>
+			<polygon class="algG
+alginate-c5-epimerase AlgG" points="16,25 38,25 38,10 68,40 38,70 38,55 16,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Beta_helix (PF13229)
+"Right handed beta helix region"</title>
+				<polygon class="PF13229" points="43,28 51,28 58,35 58,45 51,52 43,52" stroke-linejoin="round" width="15" height="24" fill="rgb(197,72,157)" stroke="rgb(157,57,125)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>algX
+AlgX</title>
+			<polygon class="algX
+AlgX" points="69,25 87,25 87,10 117,40 87,70 87,55 69,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ALGX (PF16822)
+"SGNH hydrolase-like domain, acetyltransferase AlgX"</title>
+				<polygon class="PF16822" points="75,28 100,28 101,29 101,51 100,52 75,52" stroke-linejoin="round" width="26" height="24" fill="rgb(104,217,140)" stroke="rgb(83,173,112)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>CBM_26 (PF16824)
+"C-terminal carbohydrate-binding module"</title>
+				<polygon class="PF16824" points="103,31 112,40 103,49" stroke-linejoin="round" width="12" height="24" fill="rgb(71,213,188)" stroke="rgb(56,170,150)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>algL
+alginate lyase AlgL</title>
+			<polygon class="algL
+alginate lyase AlgL" points="117,25 123,25 123,10 153,40 123,70 123,55 117,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Alginate_lyase (PF05426)
+"Alginate lyase"</title>
+				<polygon class="PF05426" points="122,28 137,28 146,37 146,43 137,52 122,52" stroke-linejoin="round" width="24" height="24" fill="rgb(209,93,208)" stroke="rgb(167,74,166)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>algI
+AlgI</title>
+			<polygon class="algI
+AlgI" points="161,10 187,40 161,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MBOAT (PF03062)
+"MBOAT, membrane-bound O-acyltransferase family"</title>
+				<polygon class="PF03062" points="161,28 173,28 183,40 173,52 161,52" stroke-linejoin="round" width="26" height="24" fill="rgb(116,79,215)" stroke="rgb(92,63,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

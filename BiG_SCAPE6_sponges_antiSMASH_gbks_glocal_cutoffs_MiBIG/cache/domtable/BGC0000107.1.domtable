@@ -1,0 +1,21 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SAT                  PF16073.5    240 BGC0000107.1_ORF1:gid:wA:pid:CBF74114.1:loc:144:6819:strand:- -           2157   2.4e-83  279.5   8.3   1   1   3.2e-85   7.2e-82  274.7   0.0     1   240     8   244     8   244 0.99 Starter unit:ACP transacylase in aflatoxin biosynthesis
+ketoacyl-synt        PF00109.26   253 BGC0000107.1_ORF1:gid:wA:pid:CBF74114.1:loc:144:6819:strand:- -           2157   1.5e-82  276.9   0.0   1   1   1.2e-85   2.7e-82  276.2   0.0     3   253   378   626   376   626 0.95 Beta-ketoacyl synthase, N-terminal domain
+Acyl_transf_1        PF00698.21   319 BGC0000107.1_ORF1:gid:wA:pid:CBF74114.1:loc:144:6819:strand:- -           2157   2.7e-43  148.7   0.0   1   1   1.8e-46   4.1e-43  148.1   0.0     2   303   912  1217   911  1233 0.86 Acyl transferase domain
+Ketoacyl-synt_C      PF02801.22   118 BGC0000107.1_ORF1:gid:wA:pid:CBF74114.1:loc:144:6819:strand:- -           2157   2.7e-36  124.2   0.2   1   1   3.1e-39   6.9e-36  122.8   0.2     1   117   634   753   634   754 0.98 Beta-ketoacyl synthase, C-terminal domain
+PP-binding           PF00550.25    67 BGC0000107.1_ORF1:gid:wA:pid:CBF74114.1:loc:144:6819:strand:- -           2157   2.9e-24   85.2   5.2   1   2   1.5e-13   3.3e-10   40.2   0.2     4    66  1655  1717  1653  1718 0.96 Phosphopantetheine attachment site
+PP-binding           PF00550.25    67 BGC0000107.1_ORF1:gid:wA:pid:CBF74114.1:loc:144:6819:strand:- -           2157   2.9e-24   85.2   5.2   2   2   1.7e-15   3.8e-12   46.4   1.0     2    65  1775  1838  1774  1840 0.96 Phosphopantetheine attachment site
+Thioesterase         PF00975.20   231 BGC0000107.1_ORF1:gid:wA:pid:CBF74114.1:loc:144:6819:strand:- -           2157   1.1e-22   81.4   0.2   1   1   2.7e-25   6.2e-22   78.9   0.0     2   107  1897  2001  1896  2149 0.82 Thioesterase domain
+PS-DH                PF14765.6    298 BGC0000107.1_ORF1:gid:wA:pid:CBF74114.1:loc:144:6819:strand:- -           2157   5.3e-12   45.6   0.0   1   1     4e-15     9e-12   44.8   0.0    27   295  1320  1596  1297  1598 0.82 Polyketide synthase dehydratase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000107.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000107.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000107.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:52:00 2019
+# [ok]

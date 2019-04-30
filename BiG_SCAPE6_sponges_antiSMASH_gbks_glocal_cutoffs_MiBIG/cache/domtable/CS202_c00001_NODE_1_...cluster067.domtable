@@ -1,0 +1,29 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DUF4212              PF13937.6     79 CS202_c00001_NODE_1_...cluster067_ORF2:gid::pid::loc:359:650:strand:+ -             96   2.7e-31  107.8   2.8   1   1   1.7e-35     3e-31  107.6   2.8     2    78     4    79     3    80 0.97 Domain of unknown function (DUF4212)
+SSF                  PF00474.17   406 CS202_c00001_NODE_1_...cluster067_ORF3:gid::pid::loc:646:2386:strand:+ -            579   1.5e-48  165.6  35.7   1   2   2.7e-38   4.8e-34  117.9  23.9     1   254    33   296    33   308 0.87 Sodium:solute symporter family
+SSF                  PF00474.17   406 CS202_c00001_NODE_1_...cluster067_ORF3:gid::pid::loc:646:2386:strand:+ -            579   1.5e-48  165.6  35.7   2   2   9.4e-19   1.7e-14   53.5   3.9   289   406   391   506   377   506 0.96 Sodium:solute symporter family
+Pterin_4a            PF01329.19    91 CS202_c00001_NODE_1_...cluster067_ORF4:gid::pid::loc:2382:2736:strand:+ -            117   7.6e-26   90.1   0.1   1   1     5e-30   8.9e-26   89.9   0.1     4    88    24   111    21   114 0.90 Pterin 4 alpha carbinolamine dehydratase
+GRDB                 PF07355.12   347 CS202_c00001_NODE_1_...cluster067_ORF5:gid::pid::loc:2732:3227:strand:+ -            164   6.4e-11   42.1   0.0   1   1   4.7e-15   8.5e-11   41.7   0.0   224   345    45   162    32   163 0.86 Glycine/sarcosine/betaine reductase selenoprotein B (GRDB)
+PIN                  PF01850.21   122 CS202_c00001_NODE_1_...cluster067_ORF8:gid::pid::loc:3925:4282:strand:+ -            118   1.3e-07   32.1   0.1   1   1   8.8e-12   1.6e-07   31.9   0.1    31   115    14   104     3   111 0.93 PIN domain
+SQS_PSY              PF00494.19   263 CS202_c00001_NODE_1_...cluster067_ORF9:gid::pid::loc:4450:5404:strand:+ -            317   1.8e-42  145.7   0.0   1   1   1.2e-46   2.2e-42  145.4   0.0    15   261     1   279     1   281 0.85 Squalene/phytoene synthase
+LolA_like            PF17131.4    183 CS202_c00001_NODE_1_...cluster067_ORF13:gid::pid::loc:8417:9230:strand:- -            270   4.2e-55  186.3   0.0   1   1   6.1e-59   5.5e-55  186.0   0.0     2   183    85   268    84   268 0.97 Outer membrane lipoprotein-sorting protein
+DUF1329              PF07044.11   364 CS202_c00001_NODE_1_...cluster067_ORF13:gid::pid::loc:8417:9230:strand:- -            270   2.9e-09   36.7   1.4   1   1   8.7e-11   7.8e-07   28.7   0.0   141   203    86   143    45   157 0.78 Protein of unknown function (DUF1329)
+MMPL                 PF03176.15   333 CS202_c00001_NODE_1_...cluster067_ORF14:gid::pid::loc:9220:11557:strand:- -            778   4.9e-30  104.6  32.9   1   2   4.6e-24   2.8e-20   72.5  11.5    70   305   148   393    55   424 0.81 MMPL family
+MMPL                 PF03176.15   333 CS202_c00001_NODE_1_...cluster067_ORF14:gid::pid::loc:9220:11557:strand:- -            778   4.9e-30  104.6  32.9   2   2   1.6e-13   9.4e-10   37.9  13.3   120   305   594   774   560   778 0.88 MMPL family
+Sterol-sensing       PF12349.8    153 CS202_c00001_NODE_1_...cluster067_ORF14:gid::pid::loc:9220:11557:strand:- -            778   1.2e-10   41.5  11.3   1   1   3.5e-13   2.1e-09   37.4   3.3     9   139   263   393   256   407 0.87 Sterol-sensing domain of SREBP cleavage-activation
+Patched              PF02460.18   811 CS202_c00001_NODE_1_...cluster067_ORF14:gid::pid::loc:9220:11557:strand:- -            778   8.6e-09   34.1   9.8   1   1   1.4e-12   8.6e-09   34.1   9.8   252   383   257   390   240   403 0.89 Patched family
+DUF2236              PF09995.9    227 CS202_c00001_NODE_1_...cluster067_ORF15:gid::pid::loc:11574:12741:strand:- -            388   1.2e-20   74.7   5.4   1   1     1e-24   1.8e-20   74.1   5.4     5   208   105   330   103   348 0.79 Uncharacterized protein conserved in bacteria (DUF2236)
+NUDIX                PF00293.28   131 CS202_c00001_NODE_1_...cluster067_ORF16:gid::pid::loc:12796:13387:strand:- -            196   2.6e-18   66.3   0.1   1   1   1.8e-22   3.2e-18   66.0   0.1     2   131    42   171    41   171 0.86 NUDIX domain
+DUF1499              PF07386.11   117 CS202_c00001_NODE_1_...cluster067_ORF17:gid::pid::loc:13780:14491:strand:+ -            236   1.9e-29  102.6   0.0   1   1   1.7e-33   3.1e-29  101.9   0.0     1   117   100   233   100   233 0.87 Protein of unknown function (DUF1499)
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster067.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS202_c00001_NODE_1_...cluster067.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster067.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:32:45 2019
+# [ok]

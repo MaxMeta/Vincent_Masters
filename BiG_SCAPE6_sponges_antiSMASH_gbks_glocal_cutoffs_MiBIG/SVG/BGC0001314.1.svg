@@ -1,0 +1,115 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1578.6333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="1568.6333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>CYP716A1 (AT5G36110)
+cytochrome P450, family 716, subfamily A, polypeptide 1</title>
+			<polygon class="CYP716A1 (AT5G36110)
+cytochrome P450, family 716, subfamily A, polypeptide 1" points="10,25 54,25 54,10 84,40 54,70 54,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<rect class="PF00067" x="13" y="28" stroke-linejoin="round" width="43" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>CCB3 (AT5G36120)
+cofactor assembly, complex C (B6F)</title>
+			<polygon class="CCB3 (AT5G36120)
+cofactor assembly, complex C (B6F)" points="120,40 137,10 137,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YGGT (PF02325)
+"YGGT family"</title>
+				<polygon class="PF02325" points="123,40 128,31 128,49" stroke-linejoin="round" width="7" height="24" fill="rgb(224,215,98)" stroke="rgb(179,172,78)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AT5G36130)
+Cytochrome P450 family protein</title>
+			<polygon class=" (AT5G36130)
+Cytochrome P450 family protein" points="473,40 490,10 490,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="477,38 483,28 489,28 489,52 483,52 477,42" stroke-linejoin="round" width="12" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>CYP716A2 (AT5G36140)
+cytochrome P450, family 716, subfamily A, polypeptide 2</title>
+			<polygon class="CYP716A2 (AT5G36140)
+cytochrome P450, family 716, subfamily A, polypeptide 2" points="605,25 601,25 601,10 571,40 601,70 601,55 605,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="575,40 587,28 602,28 602,52 587,52" stroke-linejoin="round" width="28" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>PEN3 (AT5G36150)
+tirucalladienol synthase</title>
+			<polygon class="PEN3 (AT5G36150)
+tirucalladienol synthase" points="1011,25 885,25 885,10 855,40 885,70 885,55 1011,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQHop_cyclase_C (PF13243)
+"Squalene-hopene cyclase C-terminal domain"</title>
+				<rect class="PF13243" x="935" y="28" stroke-linejoin="round" width="33" height="24" fill="rgb(191,58,201)" stroke="rgb(152,46,160)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SQHop_cyclase_N (PF13249)
+"Squalene-hopene cyclase N-terminal domain"</title>
+				<rect class="PF13249" x="970" y="28" stroke-linejoin="round" width="30" height="24" fill="rgb(88,190,89)" stroke="rgb(70,152,71)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AT5G36160)
+tyrosine aminotransferase</title>
+			<polygon class=" (AT5G36160)
+tyrosine aminotransferase" points="1334,25 1302,25 1302,10 1272,40 1302,70 1302,55 1334,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_1_2 (PF00155)
+"Aminotransferase class I and II"</title>
+				<rect class="PF00155" x="1293" y="28" stroke-linejoin="round" width="36" height="24" fill="rgb(89,113,198)" stroke="rgb(71,90,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>HCF109 (AT5G36170)
+protein high chlorophyll fluorescent 109</title>
+			<polygon class="HCF109 (AT5G36170)
+protein high chlorophyll fluorescent 109" points="1429,25 1396,25 1396,10 1366,40 1396,70 1396,55 1429,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>HCF109 (AT5G3617_1)
+AT5G3617_1</title>
+			<polygon class="HCF109 (AT5G3617_1)
+AT5G3617_1" points="1429,25 1396,25 1396,10 1366,40 1396,70 1396,55 1429,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>RF-1 (PF00472)
+"RF-1 domain"</title>
+				<rect class="PF00472" x="1387" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(78,76,196)" stroke="rgb(62,60,156)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PCRF (PF03462)
+"PCRF domain"</title>
+				<rect class="PF03462" x="1399" y="28" stroke-linejoin="round" width="19" height="24" fill="rgb(189,168,84)" stroke="rgb(151,134,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>HCF109 (AT5G3617_2)
+AT5G3617_2</title>
+			<polygon class="HCF109 (AT5G3617_2)
+AT5G3617_2" points="1429,25 1404,25 1404,10 1374,40 1404,70 1404,55 1429,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>scpl1 (AT5G36180)
+serine carboxypeptidase-like 1</title>
+			<polygon class="scpl1 (AT5G36180)
+serine carboxypeptidase-like 1" points="1470,25 1528,25 1528,10 1558,40 1528,70 1528,55 1470,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_S10 (PF00450)
+"Serine carboxypeptidase"</title>
+				<rect class="PF00450" x="1473" y="28" stroke-linejoin="round" width="40" height="24" fill="rgb(228,93,140)" stroke="rgb(182,74,111)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

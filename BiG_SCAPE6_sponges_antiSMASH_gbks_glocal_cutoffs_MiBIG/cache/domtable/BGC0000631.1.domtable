@@ -1,0 +1,21 @@
+#                                                                                                                                         --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                        accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                              -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+p450                 PF00067.22   463 BGC0000631.1_ORF1:gid:gene_Bcin12g06370:pid:Bcin12g06370.1:loc:1094:3194:strand:- -            526   4.3e-67  226.9   0.0   1   1   6.5e-71   1.2e-66  225.4   0.0    15   445    82   495    64   514 0.81 Cytochrome P450
+p450                 PF00067.22   463 BGC0000631.1_ORF2:gid:gene_Bcin12g06380:pid:Bcin12g06380.1:loc:4833:6587:strand:- -            510   4.3e-65  220.3   0.0   1   1   2.9e-69   5.2e-65  220.0   0.0    20   444    69   485    52   505 0.85 Cytochrome P450
+p450                 PF00067.22   463 BGC0000631.1_ORF4:gid:gene_Bcin12g06400:pid:Bcin12g06400.1:loc:9801:12046:strand:- -            567   1.4e-53  182.3   0.0   1   1     1e-57   1.8e-53  181.9   0.0    20   430   121   527   109   529 0.84 Cytochrome P450
+Transferase          PF02458.15   434 BGC0000631.1_ORF5:gid:gene_Bcin12g06410:pid:Bcin12g06410.1:loc:13080:14815:strand:+ -            545   3.4e-09   35.9   0.0   1   1   5.9e-13   1.1e-08   34.3   0.0   129   382   184   458   170   477 0.75 Transferase family
+Zn_clus              PF00172.18    40 BGC0000631.1_ORF6:gid:gene_Bcin12g06420:pid:Bcin12g06420.1:loc:25336:26791:strand:+ -            484   0.00015   21.8  12.1   1   1   1.5e-08   0.00027   21.0  12.1     2    34    35    71    34    76 0.83 Fungal Zn(2)-Cys(6) binuclear cluster domain
+adh_short            PF00106.25   195 BGC0000631.1_ORF7:gid:gene_Bcin12g06430:pid:Bcin12g06430.1:loc:27657:28776:strand:+ -            317     1e-32  113.2   0.2   1   1   2.3e-36   1.4e-32  112.8   0.2     6   188    19   211    14   216 0.89 short chain dehydrogenase
+adh_short_C2         PF13561.6    234 BGC0000631.1_ORF7:gid:gene_Bcin12g06430:pid:Bcin12g06430.1:loc:27657:28776:strand:+ -            317   2.4e-23   83.0   0.2   1   1   5.4e-27   3.2e-23   82.5   0.2     1   179    20   210    20   219 0.82 Enoyl-(Acyl carrier protein) reductase
+KR                   PF08659.10   180 BGC0000631.1_ORF7:gid:gene_Bcin12g06430:pid:Bcin12g06430.1:loc:27657:28776:strand:+ -            317   2.5e-06   27.5   0.8   1   1   1.6e-09   9.7e-06   25.6   0.8     6    92    19    99    14   193 0.71 KR domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000631.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000631.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000631.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:45:44 2019
+# [ok]

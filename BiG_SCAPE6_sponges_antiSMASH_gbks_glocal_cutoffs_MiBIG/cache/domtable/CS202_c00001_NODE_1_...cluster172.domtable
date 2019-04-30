@@ -1,0 +1,26 @@
+#                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SelB-wing_3          PF09107.11    47 CS202_c00001_NODE_1_...cluster172_ORF1:gid::pid::loc:2:1106:strand:+ -            367   5.1e-16   58.0   0.4   1   1   1.8e-19   1.6e-15   56.4   0.2     2    47   314   359   313   359 0.96 Elongation factor SelB, winged helix
+PGK                  PF00162.19   378 CS202_c00001_NODE_1_...cluster172_ORF2:gid::pid::loc:1341:2517:strand:- -            391  4.4e-130  434.0   0.0   1   1  2.8e-134    5e-130  433.8   0.0     4   377     8   379     5   380 0.97 Phosphoglycerate kinase
+Gp_dh_C              PF02800.20   158 CS202_c00001_NODE_1_...cluster172_ORF3:gid::pid::loc:2559:3579:strand:- -            339   7.1e-58  194.7   0.0   1   1   1.2e-61     1e-57  194.1   0.0     1   158   156   312   156   312 0.99 Glyceraldehyde 3-phosphate dehydrogenase, C-terminal domain
+Gp_dh_N              PF00044.24   101 CS202_c00001_NODE_1_...cluster172_ORF3:gid::pid::loc:2559:3579:strand:- -            339   3.6e-34  117.1   0.0   1   1   9.3e-38   8.4e-34  115.9   0.0     1   100     1   101     1   102 0.97 Glyceraldehyde 3-phosphate dehydrogenase, NAD binding domain
+SQS_PSY              PF00494.19   263 CS202_c00001_NODE_1_...cluster172_ORF4:gid::pid::loc:3746:4625:strand:+ -            292   8.4e-65  218.9   4.2   1   1   5.8e-69     1e-64  218.6   4.2     2   260    25   274    24   277 0.95 Squalene/phytoene synthase
+SQS_PSY              PF00494.19   263 CS202_c00001_NODE_1_...cluster172_ORF5:gid::pid::loc:4628:5465:strand:+ -            278     9e-69  231.9   3.9   1   1   5.8e-73     1e-68  231.7   3.9     2   261    15   264    14   266 0.95 Squalene/phytoene synthase
+Amino_oxidase        PF01593.24   452 CS202_c00001_NODE_1_...cluster172_ORF6:gid::pid::loc:5461:6658:strand:+ -            399   3.6e-31  108.9   0.2   1   1   2.2e-34   4.5e-31  108.6   0.2     1   376    12   369    12   397 0.82 Flavin containing amine oxidoreductase
+NAD_binding_8        PF13450.6     68 CS202_c00001_NODE_1_...cluster172_ORF6:gid::pid::loc:5461:6658:strand:+ -            399   3.1e-13   49.7   0.9   1   1   4.5e-16   8.9e-13   48.3   0.9     1    52     7    58     7    71 0.92 NAD(P)-binding Rossmann-like domain
+FAD_oxidored         PF12831.7    433 CS202_c00001_NODE_1_...cluster172_ORF6:gid::pid::loc:5461:6658:strand:+ -            399   1.5e-11   44.3   0.4   1   1   1.4e-14   2.7e-11   43.5   0.4     2    69     5    74     4    93 0.77 FAD dependent oxidoreductase
+FAD_binding_2        PF00890.24   417 CS202_c00001_NODE_1_...cluster172_ORF6:gid::pid::loc:5461:6658:strand:+ -            399   1.6e-11   44.0   1.5   1   1   2.4e-12   4.7e-09   35.8   0.7     2    38     5    41     4    58 0.94 FAD binding domain
+Pyr_redox_2          PF07992.14   294 CS202_c00001_NODE_1_...cluster172_ORF6:gid::pid::loc:5461:6658:strand:+ -            399   4.1e-10   39.4   0.3   1   1   1.3e-09   2.7e-06   26.8   0.1     2    33     4    35     3    66 0.80 Pyridine nucleotide-disulphide oxidoreductase
+GIDA                 PF01134.22   392 CS202_c00001_NODE_1_...cluster172_ORF6:gid::pid::loc:5461:6658:strand:+ -            399   4.4e-07   29.3   0.6   1   1   3.1e-10   6.2e-07   28.8   0.6     2    29     5    32     4    59 0.88 Glucose inhibited division protein A
+Pyr_redox            PF00070.27    81 CS202_c00001_NODE_1_...cluster172_ORF6:gid::pid::loc:5461:6658:strand:+ -            399   1.1e-05   25.9   0.5   1   1   2.1e-08   4.2e-05   24.0   0.5     1    35     4    38     4    44 0.94 Pyridine nucleotide-disulphide oxidoreductase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster172.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS202_c00001_NODE_1_...cluster172.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster172.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:54:48 2019
+# [ok]

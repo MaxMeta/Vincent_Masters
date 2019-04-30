@@ -1,0 +1,37 @@
+#                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+EamA                 PF00892.20   137 BGC0000503.1_ORF1:gid:cinorf3:pid:CAD60516.1:loc:0:346:strand:- -            115   2.3e-07   31.1   7.1   1   1   1.4e-11   2.5e-07   31.0   7.1     5   118     4   114     1   115 0.94 EamA-like transporter family
+Cupin_2              PF07883.11    71 BGC0000503.1_ORF2:gid:cinorf4:pid:CAD60517.1:loc:453:1026:strand:+ -            190   1.5e-15   56.6   0.2   1   1   8.4e-19   2.5e-15   55.9   0.2     4    70   116   183   113   184 0.91 Cupin domain
+HTH_31               PF13560.6     64 BGC0000503.1_ORF2:gid:cinorf4:pid:CAD60517.1:loc:453:1026:strand:+ -            190   1.6e-12   47.6   2.0   1   1   4.5e-13   1.3e-09   38.2   0.4     2    57    11    65    10    65 0.97 Helix-turn-helix domain
+HTH_3                PF01381.22    55 BGC0000503.1_ORF2:gid:cinorf4:pid:CAD60517.1:loc:453:1026:strand:+ -            190   1.5e-11   44.1   0.0   1   1   8.2e-15   2.5e-11   43.5   0.0     1    54    15    68    15    77 0.97 Helix-turn-helix
+HTH_19               PF12844.7     65 BGC0000503.1_ORF2:gid:cinorf4:pid:CAD60517.1:loc:453:1026:strand:+ -            190     2e-09   37.3   0.0   1   1   9.3e-13   2.8e-09   36.9   0.0     2    61    13    71    12    75 0.96 Helix-turn-helix domain
+AraC_binding         PF02311.19   136 BGC0000503.1_ORF2:gid:cinorf4:pid:CAD60517.1:loc:453:1026:strand:+ -            190     2e-05   24.5   0.0   1   1   1.2e-08   3.5e-05   23.7   0.0    17    74   126   183   118   189 0.93 AraC-like ligand binding domain
+HTH_26               PF13443.6     63 BGC0000503.1_ORF2:gid:cinorf4:pid:CAD60517.1:loc:453:1026:strand:+ -            190   7.2e-05   23.1   0.0   1   1   4.5e-08   0.00014   22.3   0.0     1    62    14    74    14    75 0.96 Cro/C1-type HTH DNA-binding domain
+LANC_like            PF05147.13   352 BGC0000503.1_ORF6:gid:cinM:pid:CAD60521.1:loc:2058:5325:strand:+ -           1088   9.4e-77  258.0   0.0   1   1   1.5e-80   1.3e-76  257.5   0.0     4   352   729  1079   727  1079 0.95 Lanthionine synthetase C-like protein
+DUF4135              PF13575.6    375 BGC0000503.1_ORF6:gid:cinM:pid:CAD60521.1:loc:2058:5325:strand:+ -           1088   4.2e-74  250.1   0.0   1   1   6.5e-78   5.8e-74  249.7   0.0     1   374   247   625   247   626 0.88 Domain of unknown function (DUF4135)
+Nif11                PF07862.11    48 BGC0000503.1_ORF7:gid:cinX:pid:CAD60522.1:loc:5339:6317:strand:+ -            325     3e-05   24.2   0.1   1   1     4e-09   7.2e-05   23.0   0.0     1    48     1    48     1    48 0.98 Nif11 domain
+ABC_tran             PF00005.27   137 BGC0000503.1_ORF8:gid:cinT:pid:CAD60523.1:loc:6542:7472:strand:+ -            309   5.6e-31  107.9   0.0   1   1     9e-35     8e-31  107.4   0.0     3   136     3   144     1   145 0.89 ABC transporter
+ABC2_membrane        PF01061.24   210 BGC0000503.1_ORF9:gid:cinH:pid:CAD60524.1:loc:7468:8341:strand:+ -            290   1.9e-31  109.2  15.8   1   1   3.1e-35   1.9e-31  109.2  15.8     5   209    28   235    25   236 0.90 ABC-2 type transporter
+ABC2_membrane_3      PF12698.7    345 BGC0000503.1_ORF9:gid:cinH:pid:CAD60524.1:loc:7468:8341:strand:+ -            290   2.4e-15   56.5  14.1   1   1   4.9e-19   2.9e-15   56.2  14.1   154   342    70   281    44   284 0.84 ABC-2 family transporter protein
+UPF0029              PF01205.19   105 BGC0000503.1_ORF11:gid:cinZ:pid:CAD60526.1:loc:9544:10171:strand:- -            208   2.7e-30  104.8   0.0   1   1   4.3e-34   3.8e-30  104.3   0.0     2   105    20   124    19   124 0.94 Uncharacterized protein family UPF0029
+DUF1949              PF09186.11    56 BGC0000503.1_ORF11:gid:cinZ:pid:CAD60526.1:loc:9544:10171:strand:- -            208   2.1e-12   46.7   0.3   1   1     5e-16   4.5e-12   45.7   0.0     1    55   140   194   140   195 0.98 Domain of unknown function (DUF1949)
+CoA_binding_2        PF13380.6    116 BGC0000503.1_ORF12:gid:cinorf8:pid:CAD60527.1:loc:10245:10665:strand:+ -            139   5.6e-37  126.8   0.1   1   1   7.1e-41   6.4e-37  126.6   0.1     2   115    18   131    17   132 0.98 CoA binding domain
+CoA_binding          PF02629.19    96 BGC0000503.1_ORF12:gid:cinorf8:pid:CAD60527.1:loc:10245:10665:strand:+ -            139    0.0001   22.9   0.0   1   1   1.6e-08   0.00014   22.4   0.0     7    91    20   100    17   103 0.94 CoA binding domain
+Response_reg         PF00072.24   112 BGC0000503.1_ORF14:gid:cinR:pid:CAD60529.1:loc:11110:11761:strand:- -            216   1.2e-27   96.3   0.2   1   1   2.9e-31   1.8e-27   95.7   0.2     2   112     5   116     4   116 0.98 Response regulator receiver domain
+GerE                 PF00196.19    57 BGC0000503.1_ORF14:gid:cinR:pid:CAD60529.1:loc:11110:11761:strand:- -            216   8.6e-17   60.4   0.0   1   1   2.2e-20   1.3e-16   59.8   0.0     2    56   154   208   153   209 0.96 Bacterial regulatory proteins, luxR family
+Sigma70_r4_2         PF08281.12    54 BGC0000503.1_ORF14:gid:cinR:pid:CAD60529.1:loc:11110:11761:strand:- -            216   2.4e-08   33.5   0.2   1   1   7.5e-12   4.5e-08   32.6   0.2     2    54   146   197   145   197 0.95 Sigma-70, region 4
+HisKA_3              PF07730.13    68 BGC0000503.1_ORF15:gid:cinK:pid:CAD60530.1:loc:11757:12822:strand:- -            354   3.4e-16   59.5   6.7   1   1   1.9e-20   3.4e-16   59.5   6.7     1    66   139   204   139   206 0.97 Histidine kinase
+Methyltransf_25      PF13649.6     97 BGC0000503.1_ORF16:gid:cinorf10:pid:CAD60531.1:loc:13256:13754:strand:+ -            165   2.1e-06   28.3   0.0   1   1   3.6e-10   3.2e-06   27.8   0.0    12    97     2    93     1    93 0.88 Methyltransferase domain
+Methyltransf_11      PF08241.12    96 BGC0000503.1_ORF16:gid:cinorf10:pid:CAD60531.1:loc:13256:13754:strand:+ -            165   3.6e-05   24.3   0.0   1   1   5.9e-09   5.3e-05   23.8   0.0    21    96    15    97     1    97 0.89 Methyltransferase domain
+SNARE_assoc          PF09335.11   120 BGC0000503.1_ORF17:gid:cinorf11:pid:CAD60532.1:loc:13753:14944:strand:+ -            396     1e-13   51.8   1.3   1   1   5.8e-18     1e-13   51.8   1.3     1   119    36   161    36   162 0.88 SNARE associated Golgi protein
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000503.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000503.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000503.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:53:45 2019
+# [ok]

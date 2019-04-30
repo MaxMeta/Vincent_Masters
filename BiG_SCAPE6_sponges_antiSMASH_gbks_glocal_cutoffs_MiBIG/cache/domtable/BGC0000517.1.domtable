@@ -1,0 +1,21 @@
+#                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Peptidase_C39        PF03412.15   133 BGC0000517.1_ORF1:gid:BH0451:pid:BAB04170.1:loc:0:2175:strand:- -            724   8.6e-43  145.3   2.3   1   1   5.7e-46   3.4e-42  143.4   0.2     2   131    12   139    11   141 0.98 Peptidase C39 family
+ABC_tran             PF00005.27   137 BGC0000517.1_ORF1:gid:BH0451:pid:BAB04170.1:loc:0:2175:strand:- -            724   1.6e-37  129.1   0.1   1   1   5.5e-41   3.3e-37  128.1   0.1     1   137   497   646   497   646 0.88 ABC transporter
+ABC_membrane         PF00664.23   274 BGC0000517.1_ORF1:gid:BH0451:pid:BAB04170.1:loc:0:2175:strand:- -            724   6.6e-31  108.0  21.2   1   1   1.5e-34   9.2e-31  107.5  21.2     1   272   165   433   165   435 0.98 ABC transporter transmembrane region
+DUF4135              PF13575.6    375 BGC0000517.1_ORF2:gid:BH0452:pid:BAB04171.1:loc:2164:5137:strand:- -            990  1.3e-116  390.0   0.0   1   1    2e-120  1.8e-116  389.6   0.0     1   373   147   520   147   522 0.95 Domain of unknown function (DUF4135)
+LANC_like            PF05147.13   352 BGC0000517.1_ORF2:gid:BH0452:pid:BAB04171.1:loc:2164:5137:strand:- -            990   1.8e-80  270.2   1.3   1   1   2.8e-84   2.5e-80  269.7   1.3     2   349   641   969   640   975 0.96 Lanthionine synthetase C-like protein
+Lantibiotic_a        PF14867.6     29 BGC0000517.1_ORF4:gid:BH0454:pid:BAB04173.1:loc:5658:5868:strand:+ -             69   6.1e-19   67.4   9.1   1   1   4.5e-23     8e-19   67.1   9.1     1    29    39    69    39    69 0.99 Lantibiotic alpha
+DUF4135              PF13575.6    375 BGC0000517.1_ORF5:gid:BH0455:pid:BAB04174.1:loc:5936:9116:strand:+ -           1059  3.3e-118  395.3   0.0   1   1  4.9e-122  4.4e-118  394.9   0.0     1   374   198   576   198   577 0.93 Domain of unknown function (DUF4135)
+LANC_like            PF05147.13   352 BGC0000517.1_ORF5:gid:BH0455:pid:BAB04174.1:loc:5936:9116:strand:+ -           1059     1e-88  297.3   0.1   1   1   4.7e-92   4.2e-88  295.3   0.0     2   351   698  1042   697  1043 0.98 Lanthionine synthetase C-like protein
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000517.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000517.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000517.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:41:32 2019
+# [ok]

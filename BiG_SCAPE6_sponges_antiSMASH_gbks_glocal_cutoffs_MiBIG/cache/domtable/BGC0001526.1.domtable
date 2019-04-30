@@ -1,0 +1,25 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Glycos_transf_1      PF00534.20   172 BGC0001526.1_ORF1:gid:brtA:pid:AOH72619.1:loc:0:1674:strand:- -            557   1.9e-17   63.3   0.0   1   1   4.3e-18   2.6e-14   53.1   0.0     3   143   207   352   205   359 0.86 Glycosyl transferases group 1
+Glyco_trans_1_4      PF13692.6    134 BGC0001526.1_ORF1:gid:brtA:pid:AOH72619.1:loc:0:1674:strand:- -            557   5.6e-13   49.5   0.0   1   1     2e-16   1.2e-12   48.4   0.0     3   119   221   352   219   366 0.80 Glycosyl transferases group 1
+Glyco_trans_1_2      PF13524.6     92 BGC0001526.1_ORF1:gid:brtA:pid:AOH72619.1:loc:0:1674:strand:- -            557   4.3e-06   27.0   0.0   1   1     3e-09   1.8e-05   25.1   0.0     3    84   306   422   302   430 0.90 Glycosyl transferases group 1
+DUF5122              PF17164.4     36 BGC0001526.1_ORF2:gid:brtB:pid:AOH72618.1:loc:2377:4873:strand:+ -            831   2.7e-06   27.5  24.1   1   1   6.7e-10     6e-06   26.5   0.5     2    32   328   363   327   364 0.96 Domain of unknown function (DUF5122) beta-propeller
+ACP_syn_III_C        PF08541.10    90 BGC0001526.1_ORF4:gid:brtD:pid:AOH72616.1:loc:6134:7286:strand:+ -            383   1.5e-10   41.1   0.0   1   1     2e-14   3.5e-10   39.9   0.0     3    74   289   365   288   367 0.89 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal
+UDPGT                PF00201.18   499 BGC0001526.1_ORF5:gid:brtE:pid:AOH72615.1:loc:7432:8629:strand:+ -            398   1.7e-21   76.6   0.0   1   1   1.1e-23   9.4e-20   70.9   0.0   236   418   196   377   176   391 0.84 UDP-glucoronosyl and UDP-glucosyl transferase
+Glyco_tran_28_C      PF04101.16   167 BGC0001526.1_ORF5:gid:brtE:pid:AOH72615.1:loc:7432:8629:strand:+ -            398   1.6e-09   37.9   0.1   1   1     3e-13   2.7e-09   37.2   0.1    32   152   263   375   244   394 0.81 Glycosyltransferase family 28 C-terminal domain
+HlyD_3               PF13437.6    106 BGC0001526.1_ORF6:gid:brtG:pid:AOH72614.1:loc:8889:10170:strand:+ -            426   1.7e-10   41.5  13.4   1   1   6.1e-11   5.4e-07   30.3   0.7     2    96   295   398   294   413 0.79 HlyD family secretion protein
+HlyD_D23             PF16576.5    214 BGC0001526.1_ORF6:gid:brtG:pid:AOH72614.1:loc:8889:10170:strand:+ -            426   3.3e-09   36.3  15.1   1   1   1.6e-12   1.5e-08   34.2   7.2    52   192   229   374   125   375 0.88 Barrel-sandwich domain of CusB or HlyD membrane-fusion
+FtsX                 PF02687.21    96 BGC0001526.1_ORF7:gid:brtH:pid:AOH72613.1:loc:10427:11501:strand:+ -            357     2e-11   44.2   2.0   1   1   1.5e-14   2.6e-10   40.6   0.2     2    91   265   347   264   352 0.93 FtsX-like permease family
+ABC_tran             PF00005.27   137 BGC0001526.1_ORF8:gid:brtI:pid:AOH72612.1:loc:11554:12232:strand:+ -            225   2.3e-32  112.4   0.0   1   1   7.3e-36   3.3e-32  111.9   0.0     3   137    26   173    24   173 0.94 ABC transporter
+DUF559               PF04480.12   109 BGC0001526.1_ORF10:gid:brtK:pid:AOH72610.1:loc:14027:14417:strand:- -            129   7.4e-26   90.1   0.0   1   1   9.5e-30   8.6e-26   89.9   0.0     2   108    16   127    15   128 0.93 Protein of unknown function (DUF559)
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001526.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001526.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001526.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:40:27 2019
+# [ok]

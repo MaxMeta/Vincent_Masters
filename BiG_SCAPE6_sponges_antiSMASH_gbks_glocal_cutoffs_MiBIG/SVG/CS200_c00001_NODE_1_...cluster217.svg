@@ -1,0 +1,106 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="377.1666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="367.1666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg7342_1)</title>
+			<polygon class=" (ctg7342_1)" points="10,10 36,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="12,28 22,28 28,36 28,44 22,52 12,52" stroke-linejoin="round" width="16" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>BCA_ABC_TP_C (PF12399)
+"Branched-chain amino acid ATP-binding cassette transporter"</title>
+				<polygon class="PF12399" points="33,40 32,40 33,40" stroke-linejoin="round" width="2" height="24" fill="rgb(205,68,53)" stroke="rgb(164,54,42)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7342_2)</title>
+			<polygon class=" (ctg7342_2)" points="38,40 58,10 58,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2442 (PF10387)
+"Protein of unknown function (DUF2442)"</title>
+				<polygon class="PF10387" points="42,40 49,30 49,50 42,40" stroke-linejoin="round" width="7" height="24" fill="rgb(196,147,55)" stroke="rgb(156,117,44)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DUF2442 (PF10387)
+"Protein of unknown function (DUF2442)"</title>
+				<polygon class="PF10387" points="49,30 50,28 56,28 56,52 50,52 49,50" stroke-linejoin="round" width="7" height="24" fill="rgb(196,147,55)" stroke="rgb(156,117,44)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7342_3)</title>
+			<polygon class=" (ctg7342_3)" points="57,40 65,10 65,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4160 (PF13711)
+"Domain of unknown function (DUF4160)"</title>
+				<polygon class="PF13711" points="60,40 63,28 63,28 63,52 63,52" stroke-linejoin="round" width="6" height="24" fill="rgb(196,200,56)" stroke="rgb(156,160,44)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7342_4)</title>
+			<polygon class=" (ctg7342_4)" points="67,40 75,10 75,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg7342_5)</title>
+			<polygon class=" (ctg7342_5)" points="76,40 82,10 82,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg7342_6)</title>
+			<polygon class=" (ctg7342_6)" points="105,10 130,40 105,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Type_ISP_C (PF18135)
+"Type ISP C-terminal specificity domain"</title>
+				<polygon class="PF18135" points="105,28 116,28 125,39 125,41 116,52 105,52" stroke-linejoin="round" width="20" height="24" fill="rgb(132,60,181)" stroke="rgb(105,47,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7342_7)</title>
+			<polygon class=" (ctg7342_7)" points="221,25 209,25 209,10 179,40 209,70 209,55 221,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HNH (PF01844)
+"HNH endonuclease"</title>
+				<polygon class="PF01844" points="183,40 185,38 185,42" stroke-linejoin="round" width="4" height="24" fill="rgb(118,184,79)" stroke="rgb(94,147,63)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DUF222 (PF02720)
+"Domain of unknown function (DUF222)"</title>
+				<polygon class="PF02720" points="186,37 195,28 216,28 216,52 195,52 186,43" stroke-linejoin="round" width="30" height="24" fill="rgb(190,119,92)" stroke="rgb(152,95,73)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7342_8)</title>
+			<polygon class=" (ctg7342_8)" points="231,25 239,25 239,10 269,40 239,70 239,55 231,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<polygon class="PF00109" points="233,28 253,28 258,33 258,47 253,52 233,52" stroke-linejoin="round" width="25" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<polygon class="PF02801" points="260,35 265,40 260,45" stroke-linejoin="round" width="8" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7342_9)</title>
+			<polygon class=" (ctg7342_9)" points="270,25 336,25 336,10 366,40 336,70 336,55 270,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>KAsynt_C_assoc (PF16197)
+"Ketoacyl-synthetase C-terminal extension"</title>
+				<rect class="PF16197" x="272" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(240,150,172)" stroke="rgb(192,120,137)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl_transf_1 (PF00698)
+"Acyl transferase domain"</title>
+				<rect class="PF00698" x="289" y="28" stroke-linejoin="round" width="30" height="24" fill="rgb(59,176,209)" stroke="rgb(47,140,167)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PS-DH (PF14765)
+"Polyketide synthase dehydratase"</title>
+				<polygon class="PF14765" points="327,28 350,28 356,34 356,46 350,52 327,52" stroke-linejoin="round" width="29" height="24" fill="rgb(173,56,182)" stroke="rgb(138,44,145)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

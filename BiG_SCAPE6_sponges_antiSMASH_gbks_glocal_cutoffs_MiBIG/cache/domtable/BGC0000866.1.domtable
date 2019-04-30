@@ -1,0 +1,26 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+PhaC_N               PF07167.13   173 BGC0000866.1_ORF1:gid::pid:AAF23364.1:loc:467:2345:strand:+ -            625     9e-70  233.8   0.0   1   1   1.6e-73   1.4e-69  233.2   0.0     1   172   133   299   133   300 0.99 Poly-beta-hydroxybutyrate polymerase (PhaC) N-terminus
+Abhydrolase_1        PF00561.20   257 BGC0000866.1_ORF1:gid::pid:AAF23364.1:loc:467:2345:strand:+ -            625   2.1e-23   83.3   0.0   1   1     4e-27   3.6e-23   82.5   0.0     2   252   275   545   274   550 0.96 alpha/beta hydrolase fold
+Thiolase_N           PF00108.23   260 BGC0000866.1_ORF2:gid::pid:AAF23365.1:loc:2443:3625:strand:+ -            393  6.3e-108  360.0   4.6   1   1  1.4e-111  8.2e-108  359.7   4.6     1   259     4   262     4   263 0.99 Thiolase, N-terminal domain
+Thiolase_C           PF02803.18   123 BGC0000866.1_ORF2:gid::pid:AAF23365.1:loc:2443:3625:strand:+ -            393   1.3e-51  173.4   1.1   1   1   5.6e-55   3.4e-51  172.1   0.6     1   123   270   392   270   392 0.99 Thiolase, C-terminal domain
+ketoacyl-synt        PF00109.26   253 BGC0000866.1_ORF2:gid::pid:AAF23365.1:loc:2443:3625:strand:+ -            393   0.00012   21.7   5.6   1   1   2.4e-08   0.00014   21.5   1.0   168   205    81   118    75   130 0.89 Beta-ketoacyl synthase, N-terminal domain
+adh_short            PF00106.25   195 BGC0000866.1_ORF3:gid::pid:AAF23366.1:loc:3737:4478:strand:+ -            246     1e-62  211.1   0.3   1   1   3.3e-66   1.2e-62  210.9   0.3     2   193     5   197     4   199 0.99 short chain dehydrogenase
+adh_short_C2         PF13561.6    234 BGC0000866.1_ORF3:gid::pid:AAF23366.1:loc:3737:4478:strand:+ -            246   3.8e-55  187.0   0.1   1   1   1.3e-58   4.7e-55  186.7   0.1     4   234    13   244    10   244 0.94 Enoyl-(Acyl carrier protein) reductase
+KR                   PF08659.10   180 BGC0000866.1_ORF3:gid::pid:AAF23366.1:loc:3737:4478:strand:+ -            246   6.7e-19   68.5   0.0   1   1   2.4e-22   8.7e-19   68.1   0.0     5   167     8   171     5   186 0.88 KR domain
+NAD_binding_10       PF13460.6    184 BGC0000866.1_ORF3:gid::pid:AAF23366.1:loc:3737:4478:strand:+ -            246   3.2e-07   30.4   0.1   1   1   1.4e-10   4.9e-07   29.8   0.1     1   147    10   187    10   202 0.79 NAD(P)H-binding
+Epimerase            PF01370.21   241 BGC0000866.1_ORF3:gid::pid:AAF23366.1:loc:3737:4478:strand:+ -            246   8.5e-06   25.4   0.0   1   1   4.1e-09   1.5e-05   24.6   0.0     1   118     6   141     6   216 0.71 NAD dependent epimerase/dehydratase family
+PHB_acc              PF05233.13    40 BGC0000866.1_ORF4:gid::pid:AAF23367.1:loc:4598:5165:strand:+ -            188   4.2e-34  116.3  27.7   1   2   4.3e-22   3.9e-18   65.2   1.5     1    39    75   113    75   113 0.98 PHB accumulation regulatory domain
+PHB_acc              PF05233.13    40 BGC0000866.1_ORF4:gid::pid:AAF23367.1:loc:4598:5165:strand:+ -            188   4.2e-34  116.3  27.7   2   2   1.6e-19   1.5e-15   56.9  17.2     1    40   126   165   126   165 0.97 PHB accumulation regulatory domain
+PHB_acc_N            PF07879.11    61 BGC0000866.1_ORF4:gid::pid:AAF23367.1:loc:4598:5165:strand:+ -            188   7.7e-31  106.0   1.2   1   1   1.7e-34   1.5e-30  105.0   1.2     1    60    11    70    11    71 0.98 PHB/PHA accumulation regulator DNA-binding domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000866.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000866.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000866.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:56:26 2019
+# [ok]

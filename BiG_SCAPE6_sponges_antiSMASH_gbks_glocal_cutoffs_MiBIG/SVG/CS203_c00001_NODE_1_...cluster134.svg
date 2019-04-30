@@ -1,0 +1,161 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="594.9333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="584.9333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg3798_1)</title>
+			<polygon class=" (ctg3798_1)" points="10,40 32,10 32,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DctP (PF03480)
+"Bacterial extracellular solute-binding protein, family 7"</title>
+				<polygon class="PF03480" points="14,40 23,28 28,28 28,52 23,52" stroke-linejoin="round" width="18" height="24" fill="rgb(209,103,193)" stroke="rgb(167,82,154)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3798_2)</title>
+			<polygon class=" (ctg3798_2)" points="47,25 48,25 48,10 78,40 48,70 48,55 47,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Mrr_N (PF14338)
+"Mrr N-terminal domain"</title>
+				<rect class="PF14338" x="47" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(105,205,86)" stroke="rgb(84,164,68)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Mrr_cat (PF04471)
+"Restriction endonuclease"</title>
+				<polygon class="PF04471" points="63,29 74,40 63,51" stroke-linejoin="round" width="12" height="24" fill="rgb(58,187,128)" stroke="rgb(46,149,102)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3798_3)</title>
+			<polygon class=" (ctg3798_3)" points="79,25 142,25 142,10 172,40 142,70 142,55 79,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3798_4)</title>
+			<polygon class=" (ctg3798_4)" points="172,25 177,25 177,10 207,40 177,70 177,55 172,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3798_5)</title>
+			<polygon class=" (ctg3798_5)" points="242,10 270,40 242,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Phage_int_SAM_2 (PF12834)
+"Phage integrase, N-terminal"</title>
+				<rect class="PF12834" x="242" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(64,52,184)" stroke="rgb(51,41,147)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Integrase_1 (PF12835)
+"Integrase"</title>
+				<polygon class="PF12835" points="252,28 254,28 265,39 265,41 254,52 252,52" stroke-linejoin="round" width="13" height="24" fill="rgb(189,83,139)" stroke="rgb(151,66,111)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3798_6)</title>
+			<polygon class=" (ctg3798_6)" points="272,10 278,40 272,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Phage_AlpA (PF05930)
+"Prophage CP4-57 regulatory protein (AlpA)"</title>
+				<polygon class="PF05930" points="272,28 272,28 275,40 272,52 272,52" stroke-linejoin="round" width="5" height="24" fill="rgb(127,223,77)" stroke="rgb(101,178,61)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3798_7)</title>
+			<polygon class=" (ctg3798_7)" points="320,25 309,25 309,10 279,40 309,70 309,55 320,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Phage_integrase (PF00589)
+"Phage integrase family"</title>
+				<polygon class="PF00589" points="283,40 295,28 299,28 299,52 295,52" stroke-linejoin="round" width="17" height="24" fill="rgb(91,96,195)" stroke="rgb(72,76,156)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Arm-DNA-bind_3 (PF13356)
+"Arm DNA-binding domain"</title>
+				<rect class="PF13356" x="311" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(47,183,132)" stroke="rgb(37,146,105)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3798_8)</title>
+			<polygon class=" (ctg3798_8)" points="330,40 354,10 354,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>UPF0014 (PF03649)
+"Uncharacterised protein family (UPF0014)"</title>
+				<polygon class="PF03649" points="334,40 344,28 352,28 352,52 344,52" stroke-linejoin="round" width="22" height="24" fill="rgb(208,153,93)" stroke="rgb(166,122,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3798_9)</title>
+			<polygon class=" (ctg3798_9)" points="358,10 386,40 358,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lip_A_acyltrans (PF03279)
+"Bacterial lipid A biosynthesis acyltransferase"</title>
+				<polygon class="PF03279" points="358,28 370,28 382,40 370,52 358,52" stroke-linejoin="round" width="27" height="24" fill="rgb(95,219,149)" stroke="rgb(76,175,119)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3798_10)</title>
+			<polygon class=" (ctg3798_10)" points="451,25 416,25 416,10 386,40 416,70 416,55 451,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="390,40 392,38 392,42" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="406" y="28" stroke-linejoin="round" width="44" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3798_11)</title>
+			<polygon class=" (ctg3798_11)" points="521,25 505,25 505,10 475,40 505,70 505,55 521,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Mur_ligase_C (PF02875)
+"Mur ligase family, glutamate ligase domain"</title>
+				<polygon class="PF02875" points="482,37 489,30 489,50 482,43" stroke-linejoin="round" width="7" height="24" fill="rgb(197,75,168)" stroke="rgb(157,60,134)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Mur_ligase_M (PF08245)
+"Mur ligase middle domain"</title>
+				<rect class="PF08245" x="492" y="28" stroke-linejoin="round" width="18" height="24" fill="rgb(57,133,195)" stroke="rgb(45,106,156)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Mur_ligase (PF01225)
+"Mur ligase family, catalytic domain"</title>
+				<rect class="PF01225" x="511" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(64,188,155)" stroke="rgb(51,150,124)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3798_12)</title>
+			<polygon class=" (ctg3798_12)" points="522,40 537,10 537,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3798_13)</title>
+			<polygon class=" (ctg3798_13)" points="540,40 564,10 564,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acetyltransf_11 (PF13720)
+"Udp N-acetylglucosamine O-acyltransferase; Domain 2"</title>
+				<polygon class="PF13720" points="544,40 547,36 547,44" stroke-linejoin="round" width="7" height="24" fill="rgb(71,125,196)" stroke="rgb(56,100,156)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Hexapep (PF00132)
+"Bacterial transferase hexapeptide (six repeats)"</title>
+				<polygon class="PF00132" points="551,31 554,28 554,28 554,52 554,52 551,49" stroke-linejoin="round" width="3" height="24" fill="rgb(89,131,202)" stroke="rgb(71,104,161)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Hexapep (PF00132)
+"Bacterial transferase hexapeptide (six repeats)"</title>
+				<rect class="PF00132" x="558" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(89,131,202)" stroke="rgb(71,104,161)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3798_14)</title>
+			<polygon class=" (ctg3798_14)" points="572,40 584,10 584,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BRCT (PF00533)
+"BRCA1 C Terminus (BRCT) domain"</title>
+				<polygon class="PF00533" points="575,40 579,31 579,49" stroke-linejoin="round" width="7" height="24" fill="rgb(69,217,144)" stroke="rgb(55,173,115)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HHH_2 (PF12826)
+"Helix-hairpin-helix motif"</title>
+				<rect class="PF12826" x="581" y="28" stroke-linejoin="round" width="2" height="24" fill="rgb(223,81,103)" stroke="rgb(178,64,82)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

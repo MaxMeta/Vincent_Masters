@@ -1,0 +1,44 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="328.0" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="318.0" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg4189_1)</title>
+			<polygon class=" (ctg4189_1)" points="10,25 30,25 30,10 60,40 30,70 30,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg4189_2)</title>
+			<polygon class=" (ctg4189_2)" points="61,25 71,25 71,10 101,40 71,70 71,55 61,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Patatin (PF01734)
+"Patatin-like phospholipase"</title>
+				<rect class="PF01734" x="62" y="28" stroke-linejoin="round" width="21" height="24" fill="rgb(200,132,98)" stroke="rgb(160,105,78)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4189_3)</title>
+			<polygon class=" (ctg4189_3)" points="104,10 111,40 104,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg4189_4)</title>
+			<polygon class=" (ctg4189_4)" points="116,10 122,40 116,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg4189_5)</title>
+			<polygon class=" (ctg4189_5)" points="142,40 150,10 150,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg4189_6)</title>
+			<polygon class=" (ctg4189_6)" points="245,25 184,25 184,10 154,40 184,70 184,55 245,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="161,37 170,28 175,28 175,52 170,52 161,43" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="182" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

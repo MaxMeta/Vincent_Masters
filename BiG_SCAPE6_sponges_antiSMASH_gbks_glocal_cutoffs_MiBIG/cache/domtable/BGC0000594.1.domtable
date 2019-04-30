@@ -1,0 +1,32 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Methyltransf_11      PF08241.12    96 BGC0000594.1_ORF1:gid::pid:ACC54546.1:loc:0:798:strand:+ -            265   4.6e-20   72.1   0.0   1   1   5.7e-23   1.1e-19   70.8   0.0     1    95    64   156    64   157 0.95 Methyltransferase domain
+Methyltransf_25      PF13649.6     97 BGC0000594.1_ORF1:gid::pid:ACC54546.1:loc:0:798:strand:+ -            265   4.3e-17   62.6   0.0   1   1   5.3e-20   1.1e-16   61.4   0.0     1    97    63   153    63   153 0.95 Methyltransferase domain
+Methyltransf_31      PF13847.6    152 BGC0000594.1_ORF1:gid::pid:ACC54546.1:loc:0:798:strand:+ -            265   1.3e-14   54.3   0.1   1   1   1.6e-17   3.1e-14   53.0   0.0     2   127    58   187    57   237 0.78 Methyltransferase domain
+Methyltransf_23      PF13489.6    165 BGC0000594.1_ORF1:gid::pid:ACC54546.1:loc:0:798:strand:+ -            265     5e-14   52.5   0.0   1   1   3.5e-17   7.1e-14   52.0   0.0     7   161    47   195    37   221 0.80 Methyltransferase domain
+Methyltransf_12      PF08242.12    99 BGC0000594.1_ORF1:gid::pid:ACC54546.1:loc:0:798:strand:+ -            265   1.2e-10   42.0   0.0   1   1   1.4e-13   2.8e-10   40.8   0.0     1    99    64   155    64   155 0.89 Methyltransferase domain
+Ubie_methyltran      PF01209.18   233 BGC0000594.1_ORF1:gid::pid:ACC54546.1:loc:0:798:strand:+ -            265   5.5e-08   32.4   0.0   1   1     7e-11   1.4e-07   31.1   0.0    48   160    60   166    48   174 0.82 ubiE/COQ5 methyltransferase family
+MTS                  PF05175.14   169 BGC0000594.1_ORF1:gid::pid:ACC54546.1:loc:0:798:strand:+ -            265   4.3e-06   26.4   0.0   1   1     5e-09     1e-05   25.2   0.0    23   138    52   158    48   189 0.82 Methyltransferase small domain
+NodS                 PF05401.11   201 BGC0000594.1_ORF1:gid::pid:ACC54546.1:loc:0:798:strand:+ -            265   6.6e-06   25.9   0.0   1   1   4.3e-09   8.5e-06   25.5   0.0    19   190    34   207    25   216 0.70 Nodulation protein S (NodS)
+CMAS                 PF02353.20   273 BGC0000594.1_ORF1:gid::pid:ACC54546.1:loc:0:798:strand:+ -            265     3e-05   23.5   0.0   1   1   3.2e-08   6.4e-05   22.4   0.0    32   168    30   161    20   183 0.79 Mycolic acid cyclopropane synthetase
+ABC_membrane_2       PF06472.15   269 BGC0000594.1_ORF2:gid:mvdA:pid:ACC54547.1:loc:841:2635:strand:+ -            597   1.1e-42  146.3  11.9   1   1   3.9e-46   1.7e-42  145.7  11.9    13   267    49   301    43   303 0.96 ABC transporter transmembrane region 2
+ABC_tran             PF00005.27   137 BGC0000594.1_ORF2:gid:mvdA:pid:ACC54547.1:loc:841:2635:strand:+ -            597   2.2e-19   70.3   0.0   1   1   1.3e-22   5.6e-19   69.0   0.0     2   137   392   529   391   529 0.84 ABC transporter
+ABC_membrane         PF00664.23   274 BGC0000594.1_ORF2:gid:mvdA:pid:ACC54547.1:loc:841:2635:strand:+ -            597   9.2e-13   48.5  10.7   1   1   3.6e-16   1.6e-12   47.7  10.7     2   262    54   314    53   326 0.91 ABC transporter transmembrane region
+SbmA_BacA            PF05992.12   315 BGC0000594.1_ORF2:gid:mvdA:pid:ACC54547.1:loc:841:2635:strand:+ -            597   3.6e-06   26.6  12.0   1   1     2e-09     9e-06   25.3  12.0     8   312    49   351    45   354 0.75 SbmA/BacA-like family
+Acetyltransf_3       PF13302.7    138 BGC0000594.1_ORF3:gid:mvdB:pid:ACC54548.1:loc:2730:3270:strand:+ -            179   2.4e-19   70.4   0.0   1   1   3.2e-23   2.9e-19   70.1   0.0    45   138    57   160     8   160 0.76 Acetyltransferase (GNAT) domain
+Acetyltransf_1       PF00583.25   117 BGC0000594.1_ORF3:gid:mvdB:pid:ACC54548.1:loc:2730:3270:strand:+ -            179   2.6e-14   53.4   0.0   1   1   3.5e-18   3.2e-14   53.2   0.0    36   117    72   159    38   159 0.86 Acetyltransferase (GNAT) family
+Inhibitor_I10        PF12559.8     64 BGC0000594.1_ORF6:gid:mvdE:pid:ACC54551.1:loc:5455:5602:strand:+ -             48     5e-11   42.7   3.5   1   1   1.1e-13   1.9e-09   37.6   3.5     4    64     4    47     1    47 0.71 Serine endopeptidase inhibitors
+Inhibitor_I10        PF12559.8     64 BGC0000594.1_ORF7:gid:mvdF:pid:ACC54552.1:loc:5794:5947:strand:+ -             50   2.7e-11   43.6   0.8   1   1   2.7e-14   4.8e-10   39.5   0.8     9    64     8    49     1    49 0.80 Serine endopeptidase inhibitors
+adh_short_C2         PF13561.6    234 BGC0000594.1_ORF8:gid::pid:ACC54553.1:loc:6074:6812:strand:+ -            245   5.9e-23   81.7   0.4   1   1   7.9e-27   7.1e-23   81.4   0.4     1   234    14   243    14   243 0.83 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.25   195 BGC0000594.1_ORF8:gid::pid:ACC54553.1:loc:6074:6812:strand:+ -            245   3.7e-17   62.4   1.0   1   1   5.1e-21   4.6e-17   62.1   1.0     1   192     8   193     8   196 0.86 short chain dehydrogenase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000594.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000594.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000594.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:42:47 2019
+# [ok]

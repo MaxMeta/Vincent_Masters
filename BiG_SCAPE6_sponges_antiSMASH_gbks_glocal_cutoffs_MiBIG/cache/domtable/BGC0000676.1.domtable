@@ -1,0 +1,18 @@
+#                                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                       accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                             -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+polyprenyl_synt      PF00348.17   256 BGC0000676.1_ORF1:gid:PbGGS:pid:BAD29970.1:loc:621:1653:strand:- -            343   2.3e-60  203.8   0.0   1   1   2.1e-64   3.7e-60  203.1   0.0     2   256    54   295    53   295 0.95 Polyprenyl synthetase
+p450                 PF00067.22   463 BGC0000676.1_ORF3:gid:PbP450-1:pid:BAD29972.1:loc:6698:8429:strand:+ -            486   1.7e-61  208.4   0.0   1   1   1.3e-65   2.4e-61  207.9   0.0    18   443    52   461    36   476 0.85 Cytochrome P450
+MFS_1                PF07690.16   353 BGC0000676.1_ORF4:gid:PbTP:pid:BAD29973.1:loc:8956:10846:strand:- -            564   1.6e-34  119.4  65.3   1   1   1.1e-37     1e-33  116.7  63.0     1   352    67   470    67   471 0.82 Major Facilitator Superfamily
+Sugar_tr             PF00083.24   452 BGC0000676.1_ORF4:gid:PbTP:pid:BAD29973.1:loc:8956:10846:strand:- -            564   3.4e-07   29.5  10.5   1   1   3.8e-11   3.4e-07   29.5  10.5    43   195    56   239     7   240 0.76 Sugar (and other) transporter
+p450                 PF00067.22   463 BGC0000676.1_ORF5:gid:PbP450-2:pid:BAD29974.1:loc:11481:13230:strand:+ -            541   2.9e-40  138.4   0.0   1   1   2.1e-44   3.8e-40  138.0   0.0    14   445    74   506    63   522 0.86 Cytochrome P450
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000676.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000676.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000676.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:45:40 2019
+# [ok]

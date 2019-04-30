@@ -1,0 +1,92 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="405.76666666666665" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="395.76666666666665" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg4869_4)</title>
+			<polygon class=" (ctg4869_4)" points="15,40 27,10 27,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4870 (PF09685)
+"Domain of unknown function (DUF4870)"</title>
+				<polygon class="PF09685" points="18,40 23,28 25,28 25,52 23,52" stroke-linejoin="round" width="10" height="24" fill="rgb(79,193,151)" stroke="rgb(63,154,120)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4869_5)</title>
+			<polygon class=" (ctg4869_5)" points="60,25 57,25 57,10 27,40 57,70 57,55 60,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>oligo_HPY (PF08352)
+"Oligopeptide/dipeptide transporter, C-terminal region"</title>
+				<polygon class="PF08352" points="31,40 36,35 36,45" stroke-linejoin="round" width="6" height="24" fill="rgb(90,183,173)" stroke="rgb(72,146,138)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="42,29 43,28 57,28 57,52 43,52 42,51" stroke-linejoin="round" width="15" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4869_6)</title>
+			<polygon class=" (ctg4869_6)" points="123,25 91,25 91,10 61,40 91,70 91,55 123,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CarboxypepD_reg (PF13620)
+"Carboxypeptidase regulatory-like domain"</title>
+				<rect class="PF13620" x="110" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(201,63,96)" stroke="rgb(160,50,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4869_7)</title>
+			<polygon class=" (ctg4869_7)" points="162,25 154,25 154,10 124,40 154,70 154,55 162,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BPD_transp_1 (PF00528)
+"Binding-protein-dependent transport system inner membrane component"</title>
+				<polygon class="PF00528" points="128,40 140,28 142,28 142,52 140,52" stroke-linejoin="round" width="18" height="24" fill="rgb(77,208,225)" stroke="rgb(61,166,180)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>OppC_N (PF12911)
+"N-terminal TM domain of oligopeptide transport permease C"</title>
+				<rect class="PF12911" x="154" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(167,178,88)" stroke="rgb(133,142,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4869_8)</title>
+			<polygon class=" (ctg4869_8)" points="201,25 197,25 197,10 167,40 197,70 197,55 201,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BPD_transp_1 (PF00528)
+"Binding-protein-dependent transport system inner membrane component"</title>
+				<polygon class="PF00528" points="171,40 183,28 188,28 188,52 183,52" stroke-linejoin="round" width="21" height="24" fill="rgb(77,208,225)" stroke="rgb(61,166,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4869_9)</title>
+			<polygon class=" (ctg4869_9)" points="277,25 235,25 235,10 205,40 235,70 235,55 277,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SBP_bac_5 (PF00496)
+"Bacterial extracellular solute-binding proteins, family 5 Middle"</title>
+				<polygon class="PF00496" points="217,32 221,28 257,28 257,52 221,52 217,48" stroke-linejoin="round" width="40" height="24" fill="rgb(199,94,116)" stroke="rgb(159,75,92)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4869_10)</title>
+			<polygon class=" (ctg4869_10)" points="317,25 313,25 313,10 283,40 313,70 313,55 317,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>oligo_HPY (PF08352)
+"Oligopeptide/dipeptide transporter, C-terminal region"</title>
+				<polygon class="PF08352" points="287,40 291,36 291,44" stroke-linejoin="round" width="6" height="24" fill="rgb(90,183,173)" stroke="rgb(72,146,138)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="296,31 299,28 312,28 312,52 299,52 296,49" stroke-linejoin="round" width="16" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4869_11)</title>
+			<polygon class=" (ctg4869_11)" points="376,25 373,25 373,10 343,40 373,70 373,55 376,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="347,40 359,28 370,28 370,52 359,52" stroke-linejoin="round" width="25" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

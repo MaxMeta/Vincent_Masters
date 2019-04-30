@@ -1,0 +1,40 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="362.6333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="352.6333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg1013_24)</title>
+			<polygon class=" (ctg1013_24)" points="137,25 131,25 131,10 101,40 131,70 131,55 137,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1013_25)</title>
+			<polygon class=" (ctg1013_25)" points="172,25 169,25 169,10 139,40 169,70 169,55 172,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1013_26)</title>
+			<polygon class=" (ctg1013_26)" points="176,40 185,10 185,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NHase_alpha (PF02979)
+"Nitrile hydratase, alpha chain"</title>
+				<polygon class="PF02979" points="179,40 183,28 183,28 183,52 183,52" stroke-linejoin="round" width="7" height="24" fill="rgb(204,148,70)" stroke="rgb(163,118,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1013_27)</title>
+			<polygon class=" (ctg1013_27)" points="290,25 217,25 217,10 187,40 217,70 217,55 290,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ACR_tran (PF00873)
+"AcrB/AcrD/AcrF family"</title>
+				<polygon class="PF00873" points="191,40 203,28 289,28 289,52 203,52" stroke-linejoin="round" width="101" height="24" fill="rgb(63,191,60)" stroke="rgb(50,152,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1013_28)</title>
+			<polygon class=" (ctg1013_28)" points="325,25 321,25 321,10 291,40 321,70 321,55 325,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HlyD_D23 (PF16576)
+"Barrel-sandwich domain of CusB or HlyD membrane-fusion"</title>
+				<polygon class="PF16576" points="299,36 307,28 319,28 319,52 307,52 299,44" stroke-linejoin="round" width="20" height="24" fill="rgb(70,190,92)" stroke="rgb(56,152,73)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,88 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="230.23333333333332" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="220.23333333333332" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>
+response regulator-like protein</title>
+			<polygon class="
+response regulator-like protein" points="25,10 48,40 25,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<polygon class="PF00072" points="25,28 35,28 36,29 36,51 35,52 25,52" stroke-linejoin="round" width="11" height="24" fill="rgb(100,107,203)" stroke="rgb(80,85,162)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>LytTR (PF04397)
+"LytTr DNA-binding domain"</title>
+				<polygon class="PF04397" points="38,32 45,40 38,48" stroke-linejoin="round" width="9" height="24" fill="rgb(207,76,174)" stroke="rgb(165,60,139)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+histidine kinase-like protein</title>
+			<polygon class="
+histidine kinase-like protein" points="54,25 63,25 63,10 93,40 63,70 63,55 54,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HATPase_c_5 (PF14501)
+"GHKL domain"</title>
+				<polygon class="PF14501" points="82,34 88,40 82,46" stroke-linejoin="round" width="10" height="24" fill="rgb(137,71,210)" stroke="rgb(109,56,168)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>bviB
+ATP binding protein BviB</title>
+			<polygon class="bviB
+ATP binding protein BviB" points="111,10 139,40 111,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="113,28 123,28 126,31 126,49 123,52 113,52" stroke-linejoin="round" width="13" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>bviC
+BviB</title>
+			<polygon class="bviC
+BviB" points="139,10 160,40 139,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC2_membrane_5 (PF13346)
+"ABC-2 family transporter protein"</title>
+				<polygon class="PF13346" points="139,28 148,28 156,40 148,52 139,52" stroke-linejoin="round" width="20" height="24" fill="rgb(176,207,85)" stroke="rgb(140,165,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>bviD
+BviC</title>
+			<polygon class="bviD
+BviC" points="161,10 166,40 161,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>bviA
+butyrivibriocin AR10</title>
+			<polygon class="bviA
+butyrivibriocin AR10" points="169,10 177,40 169,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BacteriocIIc_cy (PF12173)
+"Bacteriocin class IIc cyclic gassericin A-like"</title>
+				<polygon class="PF12173" points="169,28 170,28 173,40 170,52 169,52" stroke-linejoin="round" width="7" height="24" fill="rgb(121,181,84)" stroke="rgb(96,144,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>bviE
+BviE</title>
+			<polygon class="bviE
+BviE" points="180,10 196,40 180,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SpoIIM (PF01944)
+"Stage II sporulation protein M"</title>
+				<polygon class="PF01944" points="181,28 186,28 193,40 186,52 181,52" stroke-linejoin="round" width="14" height="24" fill="rgb(96,132,207)" stroke="rgb(76,105,165)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+unknown</title>
+			<polygon class="
+unknown" points="199,10 211,40 199,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

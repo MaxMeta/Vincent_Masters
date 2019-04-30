@@ -1,0 +1,15 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+LysE                 PF01810.18   193 BGC0000884.1_ORF1:gid:mrsC:pid:ACY54551.1:loc:0:633:strand:- -            210   2.4e-29  102.2   9.4   1   1   1.5e-33   2.8e-29  102.0   9.4     1   192    14   205    14   206 0.91 LysE type translocator
+Aminotran_1_2        PF00155.21   363 BGC0000884.1_ORF2:gid:mrsB:pid:ACY54550.1:loc:696:1860:strand:- -            387   3.2e-24   85.8   0.0   1   1   2.1e-28   3.8e-24   85.5   0.0    32   281    56   303    32   376 0.73 Aminotransferase class I and II
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000884.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000884.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000884.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:48:51 2019
+# [ok]

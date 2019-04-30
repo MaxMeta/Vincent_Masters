@@ -1,0 +1,31 @@
+#                                                                                                                          --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                         accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                               -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SQHop_cyclase_C      PF13243.6    319 CS202_c00001_NODE_1_...cluster143_ORF2:gid::pid::loc:110:2192:strand:- -            693  1.2e-151  504.4   8.0   1   1  3.2e-149  1.9e-145  483.9   6.2     1   318   336   653   336   656 0.99 Squalene-hopene cyclase C-terminal domain
+SQHop_cyclase_N      PF13249.6    291 CS202_c00001_NODE_1_...cluster143_ORF2:gid::pid::loc:110:2192:strand:- -            693  1.3e-111  372.4   0.3   1   1  6.9e-105  4.1e-101  337.9   0.0     4   290    45   327    42   328 0.97 Squalene-hopene cyclase N-terminal domain
+Prenyltrans          PF00432.21    44 CS202_c00001_NODE_1_...cluster143_ORF2:gid::pid::loc:110:2192:strand:- -            693   1.3e-30  104.8  10.6   1   4   3.7e-08   0.00022   20.9   0.0     4    44    89   129    86   129 0.92 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.21    44 CS202_c00001_NODE_1_...cluster143_ORF2:gid::pid::loc:110:2192:strand:- -            693   1.3e-30  104.8  10.6   2   4   7.2e-07    0.0043   16.8   0.1     3    21   428   446   426   449 0.91 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.21    44 CS202_c00001_NODE_1_...cluster143_ORF2:gid::pid::loc:110:2192:strand:- -            693   1.3e-30  104.8  10.6   3   4   5.5e-08   0.00033   20.3   0.3     3    40   496   532   496   536 0.91 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.21    44 CS202_c00001_NODE_1_...cluster143_ORF2:gid::pid::loc:110:2192:strand:- -            693   1.3e-30  104.8  10.6   4   4     1e-16   6.2e-13   48.3   0.9     3    44   544   595   542   595 0.97 Prenyltransferase and squalene oxidase repeat
+OCD_Mu_crystall      PF02423.15   318 CS202_c00001_NODE_1_...cluster143_ORF3:gid::pid::loc:2496:3477:strand:- -            326   9.6e-85  284.3   0.2   1   1   6.6e-89   1.2e-84  284.0   0.2     6   316     6   317     3   319 0.96 Ornithine cyclodeaminase/mu-crystallin family
+Vut_1                PF02592.15   150 CS202_c00001_NODE_1_...cluster143_ORF4:gid::pid::loc:3665:4442:strand:+ -            258   1.4e-45  155.2   6.4   1   1   1.3e-49   2.3e-45  154.6   6.4     2   149    50   236    49   238 0.93 Putative vitamin uptake transporter
+adh_short            PF00106.25   195 CS202_c00001_NODE_1_...cluster143_ORF5:gid::pid::loc:4583:5315:strand:- -            243   3.4e-32  111.5   0.0   1   1   4.9e-35   4.4e-31  107.9   0.0     1   191    12   191    12   195 0.87 short chain dehydrogenase
+adh_short_C2         PF13561.6    234 CS202_c00001_NODE_1_...cluster143_ORF5:gid::pid::loc:4583:5315:strand:- -            243   4.4e-31  108.2   0.1   1   1     2e-34   1.8e-30  106.3   0.1     3   230    20   237    18   240 0.88 Enoyl-(Acyl carrier protein) reductase
+PTPS                 PF01242.19   123 CS202_c00001_NODE_1_...cluster143_ORF6:gid::pid::loc:5537:6053:strand:- -            171     6e-14   52.1   0.0   1   1     4e-18   7.2e-14   51.8   0.0     2    98    11   135    10   161 0.87 6-pyruvoyl tetrahydropterin synthase
+PALP                 PF00291.25   294 CS202_c00001_NODE_1_...cluster143_ORF8:gid::pid::loc:6613:7585:strand:- -            323     1e-81  274.6   0.6   1   1   6.4e-86   1.1e-81  274.4   0.6     2   294    17   305    16   305 0.98 Pyridoxal-phosphate dependent enzyme
+SnoaL                PF07366.12   126 CS202_c00001_NODE_1_...cluster143_ORF9:gid::pid::loc:7584:8982:strand:- -            465   1.1e-23   83.4   0.0   1   1     5e-27   2.3e-23   82.4   0.0     3   126   324   445   322   445 0.96 SnoaL-like polyketide cyclase
+Lactamase_B          PF00753.27   197 CS202_c00001_NODE_1_...cluster143_ORF9:gid::pid::loc:7584:8982:strand:- -            465   6.4e-17   62.2   0.5   1   1     3e-20   1.4e-16   61.1   0.4     8   197    49   230    44   230 0.87 Metallo-beta-lactamase superfamily
+SnoaL_2              PF12680.7    102 CS202_c00001_NODE_1_...cluster143_ORF9:gid::pid::loc:7584:8982:strand:- -            465   7.2e-16   58.7   0.0   1   1   4.7e-19   2.1e-15   57.2   0.0     4   100   328   430   324   431 0.94 SnoaL-like domain
+DAO                  PF01266.24   352 CS202_c00001_NODE_1_...cluster143_ORF10:gid::pid::loc:9090:10209:strand:+ -            372   1.9e-47  162.5   0.7   1   1   3.9e-51   2.3e-47  162.3   0.7     1   352     6   345     6   345 0.79 FAD dependent oxidoreductase
+FAD_binding_2        PF00890.24   417 CS202_c00001_NODE_1_...cluster143_ORF10:gid::pid::loc:9090:10209:strand:+ -            372   4.3e-07   29.4   2.2   1   1     4e-10   2.4e-06   26.9   2.2     1    58     6    62     6   201 0.65 FAD binding domain
+NAD_binding_8        PF13450.6     68 CS202_c00001_NODE_1_...cluster143_ORF10:gid::pid::loc:9090:10209:strand:+ -            372   5.1e-06   26.6   0.3   1   1   1.8e-09   1.1e-05   25.6   0.3     1    51     9    58     9    71 0.88 NAD(P)-binding Rossmann-like domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster143.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS202_c00001_NODE_1_...cluster143.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster143.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:55:17 2019
+# [ok]

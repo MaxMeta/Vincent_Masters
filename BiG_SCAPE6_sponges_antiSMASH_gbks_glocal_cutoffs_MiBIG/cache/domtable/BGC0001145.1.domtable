@@ -1,0 +1,22 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+YcaO                 PF02624.16   323 BGC0001145.1_ORF1:gid::pid:WP_004943462.1:loc:0:1911:strand:+ -            636   2.4e-06   27.1   3.2   1   1   1.3e-10   2.4e-06   27.1   3.2    60   204   414   545   378   559 0.81 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+Nitroreductase       PF00881.24   170 BGC0001145.1_ORF2:gid::pid:WP_004943465.1:loc:1903:3835:strand:+ -            643   3.7e-15   56.4   0.1   1   2   5.3e-10   9.5e-06   25.8   0.0    28   164   224   359   198   362 0.82 Nitroreductase family
+Nitroreductase       PF00881.24   170 BGC0001145.1_ORF2:gid::pid:WP_004943465.1:loc:1903:3835:strand:+ -            643   3.7e-15   56.4   0.1   2   2   7.9e-11   1.4e-06   28.5   0.0    87   169   549   629   528   630 0.94 Nitroreductase family
+YcaO                 PF02624.16   323 BGC0001145.1_ORF4:gid::pid:WP_004943471.1:loc:4304:6248:strand:+ -            647     3e-92  309.4   2.4   1   1   2.6e-96   4.6e-92  308.7   2.4     2   322   257   602   256   603 0.92 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+Lant_dehydr_N        PF04738.13   653 BGC0001145.1_ORF5:gid::pid:WP_004943473.1:loc:6263:8861:strand:+ -            865   1.6e-80  271.1   9.7   1   1   1.4e-84   2.5e-80  270.4   9.7     2   652   142   816   141   817 0.87 Lantibiotic dehydratase, N terminus
+Lant_dehydr_C        PF14028.6    312 BGC0001145.1_ORF6:gid::pid:WP_004943476.1:loc:8847:9867:strand:+ -            339   3.2e-67  227.3   5.1   1   1   2.3e-71   4.2e-67  226.9   5.1     1   311    18   329    18   330 0.92 Lantibiotic biosynthesis dehydratase C-term
+Lant_dehydr_C        PF14028.6    312 BGC0001145.1_ORF7:gid::pid:WP_004943480.1:loc:9863:11057:strand:+ -            397   2.1e-73  247.6  10.0   1   1   1.4e-77   2.6e-73  247.3  10.0     1   311     8   350     8   351 0.96 Lantibiotic biosynthesis dehydratase C-term
+AAA_16               PF13191.6    170 BGC0001145.1_ORF10:gid::pid:WP_004943488.1:loc:12918:15726:strand:- -            935   2.1e-14   54.3   7.9   1   1   4.6e-18   4.1e-14   53.3   3.0     4   170     8   150     6   150 0.77 AAA ATPase domain
+GerE                 PF00196.19    57 BGC0001145.1_ORF10:gid::pid:WP_004943488.1:loc:12918:15726:strand:- -            935   6.2e-13   48.1   0.0   1   1   1.3e-16   1.2e-12   47.2   0.0     3    56   873   926   871   927 0.96 Bacterial regulatory proteins, luxR family
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001145.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001145.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001145.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:54:41 2019
+# [ok]

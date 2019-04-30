@@ -1,0 +1,81 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="244.06666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="234.06666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg8622_1)</title>
+			<polygon class=" (ctg8622_1)" points="10,10 30,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FGase (PF05013)
+"N-formylglutamate amidohydrolase"</title>
+				<polygon class="PF05013" points="10,28 18,28 26,40 26,40 18,52 10,52" stroke-linejoin="round" width="16" height="24" fill="rgb(193,90,133)" stroke="rgb(154,72,106)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8622_2)</title>
+			<polygon class=" (ctg8622_2)" points="37,10 58,40 37,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg8622_3)</title>
+			<polygon class=" (ctg8622_3)" points="59,25 82,25 82,10 112,40 82,70 82,55 59,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Rhodanese (PF00581)
+"Rhodanese-like domain"</title>
+				<rect class="PF00581" x="59" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(145,191,76)" stroke="rgb(116,152,60)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Rhodanese (PF00581)
+"Rhodanese-like domain"</title>
+				<rect class="PF00581" x="71" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(145,191,76)" stroke="rgb(116,152,60)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8622_4)</title>
+			<polygon class=" (ctg8622_4)" points="112,10 138,40 112,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cupin_3 (PF05899)
+"Protein of unknown function (DUF861)"</title>
+				<rect class="PF05899" x="116" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(221,163,91)" stroke="rgb(176,130,72)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Cupin_3 (PF05899)
+"Protein of unknown function (DUF861)"</title>
+				<polygon class="PF05899" points="129,35 134,40 129,45" stroke-linejoin="round" width="7" height="24" fill="rgb(221,163,91)" stroke="rgb(176,130,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8622_5)</title>
+			<polygon class=" (ctg8622_5)" points="140,10 149,40 140,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg8622_6)</title>
+			<polygon class=" (ctg8622_6)" points="148,25 149,25 149,10 179,40 149,70 149,55 148,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF692 (PF05114)
+"Protein of unknown function (DUF692)"</title>
+				<polygon class="PF05114" points="152,28 163,28 175,40 163,52 152,52" stroke-linejoin="round" width="26" height="24" fill="rgb(63,196,127)" stroke="rgb(50,156,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8622_7)</title>
+			<polygon class=" (ctg8622_7)" points="180,10 205,40 180,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2063 (PF09836)
+"Putative DNA-binding domain"</title>
+				<rect class="PF09836" x="180" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(88,194,190)" stroke="rgb(70,155,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8622_8)</title>
+			<polygon class=" (ctg8622_8)" points="209,10 227,40 209,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DoxX (PF07681)
+"DoxX"</title>
+				<polygon class="PF07681" points="211,28 216,28 221,36 221,44 216,52 211,52" stroke-linejoin="round" width="10" height="24" fill="rgb(93,188,216)" stroke="rgb(74,150,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8622_9)</title>
+			<polygon class=" (ctg8622_9)" points="227,40 233,10 233,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

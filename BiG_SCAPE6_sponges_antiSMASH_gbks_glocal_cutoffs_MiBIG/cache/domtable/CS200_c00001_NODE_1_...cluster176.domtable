@@ -1,0 +1,28 @@
+#                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DNA_topoisoIV        PF00521.20   426 CS200_c00001_NODE_1_...cluster176_ORF1:gid::pid::loc:1:1954:strand:- -            651  3.5e-152  507.2   0.0   1   1  4.7e-156  4.2e-152  507.0   0.0     1   424    62   526    62   528 0.97 DNA gyrase/topoisomerase IV, subunit A
+DNA_gyraseA_C        PF03989.13    48 CS200_c00001_NODE_1_...cluster176_ORF1:gid::pid::loc:1:1954:strand:- -            651   5.9e-20   70.5   0.0   1   2   1.1e-18   9.8e-15   53.8   0.0     1    48   560   607   560   607 0.98 DNA gyrase C-terminal domain, beta-propeller
+DNA_gyraseA_C        PF03989.13    48 CS200_c00001_NODE_1_...cluster176_ORF1:gid::pid::loc:1:1954:strand:- -            651   5.9e-20   70.5   0.0   2   2   2.8e-06     0.025   14.1   0.0     3    35   612   644   610   646 0.95 DNA gyrase C-terminal domain, beta-propeller
+TPP_enzyme_N         PF02776.18   172 CS200_c00001_NODE_1_...cluster176_ORF2:gid::pid::loc:2159:3824:strand:+ -            554   7.7e-52  175.4   0.2   1   1   6.1e-51   3.6e-47  160.2   0.1     3   170     6   172     4   174 0.95 Thiamine pyrophosphate enzyme, N-terminal TPP binding domain
+TPP_enzyme_C         PF02775.21   153 CS200_c00001_NODE_1_...cluster176_ORF2:gid::pid::loc:2159:3824:strand:+ -            554   7.7e-28   97.2   0.0   1   1   6.9e-31   4.1e-27   94.8   0.0    27   153   422   546   401   546 0.90 Thiamine pyrophosphate enzyme, C-terminal TPP binding domain
+TPP_enzyme_M         PF00205.22   137 CS200_c00001_NODE_1_...cluster176_ORF2:gid::pid::loc:2159:3824:strand:+ -            554   1.3e-22   80.0   0.1   1   1   3.7e-26   2.2e-22   79.3   0.1     1   137   191   327   191   327 0.92 Thiamine pyrophosphate enzyme, central domain
+SSB                  PF00436.25   104 CS200_c00001_NODE_1_...cluster176_ORF3:gid::pid::loc:3833:4304:strand:- -            156   9.4e-39  131.7   0.8   1   1   5.9e-43   1.1e-38  131.5   0.8     1    99     5   105     5   114 0.97 Single-strand binding protein family
+Amidase              PF01425.21   451 CS200_c00001_NODE_1_...cluster176_ORF4:gid::pid::loc:4492:5926:strand:- -            477   6.5e-97  325.3   0.0   1   1  4.4e-101   7.9e-97  325.0   0.0     2   451    28   451    27   451 0.93 Amidase
+UvrA_inter           PF17760.1    109 CS200_c00001_NODE_1_...cluster176_ORF5:gid::pid::loc:6071:9107:strand:+ -           1011   1.2e-37  128.3   0.1   1   1   1.1e-40   3.3e-37  126.9   0.1     1   108   166   273   166   274 0.99 UvrA interaction domain
+UvrA_DNA-bind        PF17755.1    110 CS200_c00001_NODE_1_...cluster176_ORF5:gid::pid::loc:6071:9107:strand:+ -           1011   5.8e-37  126.4   0.0   1   1   1.3e-38   3.9e-35  120.5   0.0     1   108   324   431   324   433 0.99 UvrA DNA-binding domain
+SQS_PSY              PF00494.19   263 CS200_c00001_NODE_1_...cluster176_ORF6:gid::pid::loc:9253:10180:strand:+ -            308   3.5e-51  174.2   4.6   1   1   2.3e-55   4.2e-51  174.0   4.6     3   261     9   259     7   261 0.92 Squalene/phytoene synthase
+Amino_oxidase        PF01593.24   452 CS200_c00001_NODE_1_...cluster176_ORF8:gid::pid::loc:10933:12208:strand:- -            424   8.5e-30  104.4   4.5   1   1   3.4e-32     3e-28   99.3   4.5     1   451    11   414    11   415 0.82 Flavin containing amine oxidoreductase
+NAD_binding_8        PF13450.6     68 CS200_c00001_NODE_1_...cluster176_ORF8:gid::pid::loc:10933:12208:strand:- -            424   4.6e-14   52.4   0.9   1   1   1.1e-17   9.5e-14   51.4   0.9     1    67     6    72     6    73 0.92 NAD(P)-binding Rossmann-like domain
+SQS_PSY              PF00494.19   263 CS200_c00001_NODE_1_...cluster176_ORF9:gid::pid::loc:12220:13108:strand:- -            295   3.1e-60  203.9   0.1   1   1   2.1e-64   3.7e-60  203.6   0.1     3   251    31   272    29   284 0.92 Squalene/phytoene synthase
+LYTB                 PF02401.18   264 CS200_c00001_NODE_1_...cluster176_ORF10:gid::pid::loc:13350:14304:strand:+ -            317   2.5e-88  295.8   0.0   1   1   1.6e-92   2.8e-88  295.6   0.0     1   263     8   284     8   285 0.96 LytB protein
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS200_c00001_NODE_1_...cluster176.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS200_c00001_NODE_1_...cluster176.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS200_c00001_NODE_1_...cluster176.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:39:57 2019
+# [ok]

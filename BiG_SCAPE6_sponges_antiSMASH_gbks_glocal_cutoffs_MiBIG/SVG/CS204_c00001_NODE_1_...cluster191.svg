@@ -1,0 +1,64 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="224.63333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="214.63333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg12961_1)</title>
+			<polygon class=" (ctg12961_1)" points="10,10 30,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SRAP (PF02586)
+"SOS response associated peptidase (SRAP)"</title>
+				<polygon class="PF02586" points="10,28 18,28 26,40 18,52 10,52" stroke-linejoin="round" width="19" height="24" fill="rgb(152,181,61)" stroke="rgb(121,144,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg12961_2)</title>
+			<polygon class=" (ctg12961_2)" points="37,25 71,25 71,10 101,40 71,70 71,55 37,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="38" y="28" stroke-linejoin="round" width="43" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="94,37 97,40 94,43" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg12961_3)</title>
+			<polygon class=" (ctg12961_3)" points="131,25 131,25 131,10 101,40 131,70 131,55 131,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lip_A_acyltrans (PF03279)
+"Bacterial lipid A biosynthesis acyltransferase"</title>
+				<polygon class="PF03279" points="105,40 117,28 129,28 129,52 117,52" stroke-linejoin="round" width="28" height="24" fill="rgb(95,219,149)" stroke="rgb(76,175,119)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg12961_4)</title>
+			<polygon class=" (ctg12961_4)" points="133,10 157,40 133,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>UPF0014 (PF03649)
+"Uncharacterised protein family (UPF0014)"</title>
+				<polygon class="PF03649" points="134,28 144,28 149,35 149,45 144,52 134,52" stroke-linejoin="round" width="15" height="24" fill="rgb(208,153,93)" stroke="rgb(166,122,74)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>UPF0014 (PF03649)
+"Uncharacterised protein family (UPF0014)"</title>
+				<polygon class="PF03649" points="149,35 153,40 149,45" stroke-linejoin="round" width="7" height="24" fill="rgb(208,153,93)" stroke="rgb(166,122,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg12961_5)</title>
+			<polygon class=" (ctg12961_5)" points="162,10 183,40 162,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg12961_6)</title>
+			<polygon class=" (ctg12961_6)" points="185,40 214,10 214,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MMPL (PF03176)
+"MMPL family"</title>
+				<polygon class="PF03176" points="189,40 201,28 209,28 209,52 201,52" stroke-linejoin="round" width="24" height="24" fill="rgb(228,109,193)" stroke="rgb(182,87,154)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

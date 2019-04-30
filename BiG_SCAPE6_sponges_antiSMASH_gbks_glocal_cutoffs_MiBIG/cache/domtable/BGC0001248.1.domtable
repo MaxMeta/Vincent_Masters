@@ -1,0 +1,18 @@
+#                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SQHop_cyclase_N      PF13249.6    291 BGC0001248.1_ORF1:gid:occ:pid:ACF70484.1:loc:1352:4192:strand:+ -            721   2.3e-49  168.1   0.0   1   1   6.9e-45   3.1e-41  141.4   0.0     9   275    82   358    75   365 0.87 Squalene-hopene cyclase N-terminal domain
+SQHop_cyclase_C      PF13243.6    319 BGC0001248.1_ORF1:gid:occ:pid:ACF70484.1:loc:1352:4192:strand:+ -            721   4.9e-49  167.2   0.7   1   1   1.2e-47   5.5e-44  150.6   0.2     2   316   382   710   381   713 0.87 Squalene-hopene cyclase C-terminal domain
+Prenyltrans          PF00432.21    44 BGC0001248.1_ORF1:gid:occ:pid:ACF70484.1:loc:1352:4192:strand:+ -            721   3.2e-29  100.4   8.6   1   3   6.8e-09     3e-05   23.6   0.0     5    44   123   163   119   163 0.95 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.21    44 BGC0001248.1_ORF1:gid:occ:pid:ACF70484.1:loc:1352:4192:strand:+ -            721   3.2e-29  100.4   8.6   2   3     4e-09   1.8e-05   24.4   0.3     3    44   555   595   554   595 0.94 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.21    44 BGC0001248.1_ORF1:gid:occ:pid:ACF70484.1:loc:1352:4192:strand:+ -            721   3.2e-29  100.4   8.6   3   3   9.5e-16   4.3e-12   45.6   0.6     5    43   606   654   603   655 0.95 Prenyltransferase and squalene oxidase repeat
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001248.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001248.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001248.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:30:58 2019
+# [ok]

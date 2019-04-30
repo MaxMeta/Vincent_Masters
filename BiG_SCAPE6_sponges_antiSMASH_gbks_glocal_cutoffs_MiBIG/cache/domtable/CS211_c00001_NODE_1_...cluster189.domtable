@@ -1,0 +1,24 @@
+#                                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+TAL_FSA              PF00923.19   287 CS211_c00001_NODE_1_...cluster189_ORF1:gid::pid::loc:321:1479:strand:- -            385   2.7e-85  286.2   0.0   1   1   1.7e-89   3.1e-85  286.0   0.0     1   287    24   375    24   375 0.97 Transaldolase/Fructose-6-phosphate aldolase
+FGGY_N               PF00370.21   245 CS211_c00001_NODE_1_...cluster189_ORF2:gid::pid::loc:1614:3093:strand:- -            492   1.9e-38  132.5   0.0   1   1   2.6e-42   2.3e-38  132.2   0.0     1   245     7   253     7   253 0.98 FGGY family of carbohydrate kinases, N-terminal domain
+FGGY_C               PF02782.16   198 CS211_c00001_NODE_1_...cluster189_ORF2:gid::pid::loc:1614:3093:strand:- -            492   6.8e-30  104.3   0.1   1   1   1.1e-33   9.8e-30  103.8   0.1     2   195   263   446   262   449 0.91 FGGY family of carbohydrate kinases, C-terminal domain
+Rhomboid             PF01694.22   150 CS211_c00001_NODE_1_...cluster189_ORF3:gid::pid::loc:3126:3828:strand:- -            233   5.2e-41  140.1  17.8   1   1   2.9e-45   5.2e-41  140.1  17.8     9   148    71   225    58   227 0.96 Rhomboid family
+AMP-binding          PF00501.28   423 CS211_c00001_NODE_1_...cluster189_ORF4:gid::pid::loc:3908:6851:strand:- -            980   1.7e-89  300.3   0.0   1   1   4.4e-93   2.6e-89  299.7   0.0     3   421   152   588   150   590 0.87 AMP-binding enzyme
+Acyltransferase      PF01553.21   135 CS211_c00001_NODE_1_...cluster189_ORF4:gid::pid::loc:3908:6851:strand:- -            980   3.3e-24   85.0   0.0   1   1   8.7e-28   5.2e-24   84.4   0.0     4   133   782   909   779   911 0.96 Acyltransferase
+PP-binding           PF00550.25    67 CS211_c00001_NODE_1_...cluster189_ORF4:gid::pid::loc:3908:6851:strand:- -            980   6.7e-05   23.2   2.7   1   1   1.3e-08     8e-05   22.9   0.7     5    67    27    95    23    95 0.80 Phosphopantetheine attachment site
+S-AdoMet_synt_C      PF02773.16   138 CS211_c00001_NODE_1_...cluster189_ORF5:gid::pid::loc:7259:8465:strand:- -            401   1.4e-68  229.1   0.2   1   1   1.6e-71   9.4e-68  226.5   0.1     2   138   241   382   240   382 0.98 S-adenosylmethionine synthetase, C-terminal domain
+S-AdoMet_synt_M      PF02772.16   120 CS211_c00001_NODE_1_...cluster189_ORF5:gid::pid::loc:7259:8465:strand:- -            401   7.3e-49  165.0   0.0   1   1   2.8e-52   1.7e-48  163.9   0.0     1   120   121   238   121   238 0.97 S-adenosylmethionine synthetase, central domain
+S-AdoMet_synt_N      PF00438.20    99 CS211_c00001_NODE_1_...cluster189_ORF5:gid::pid::loc:7259:8465:strand:- -            401   5.1e-38  129.7   0.3   1   1   2.1e-41   1.2e-37  128.5   0.3     2    98     7   105     6   106 0.96 S-adenosylmethionine synthetase, N-terminal domain
+Peptidase_M24        PF00557.24   209 CS211_c00001_NODE_1_...cluster189_ORF6:gid::pid::loc:8721:9546:strand:+ -            275   5.3e-11   42.6   0.0   1   1   4.5e-15   8.1e-11   42.0   0.0     8   115   157   275   150   275 0.76 Metallopeptidase family M24
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster189.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS211_c00001_NODE_1_...cluster189.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster189.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:52:39 2019
+# [ok]

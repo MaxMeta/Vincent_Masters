@@ -1,0 +1,46 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="218.56666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="208.56666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg10166_1)</title>
+			<polygon class=" (ctg10166_1)" points="60,25 40,25 40,10 10,40 40,70 40,55 60,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YcaO (PF02624)
+"YcaO cyclodehydratase, ATP-ad Mg2+-binding"</title>
+				<polygon class="PF02624" points="14,40 21,33 21,47" stroke-linejoin="round" width="11" height="24" fill="rgb(76,84,185)" stroke="rgb(60,67,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg10166_2)</title>
+			<polygon class=" (ctg10166_2)" points="95,25 90,25 90,10 60,40 90,70 90,55 95,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CMAS (PF02353)
+"Mycolic acid cyclopropane synthetase"</title>
+				<polygon class="PF02353" points="64,40 76,28 87,28 87,52 76,52" stroke-linejoin="round" width="26" height="24" fill="rgb(56,174,188)" stroke="rgb(44,139,150)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg10166_3)</title>
+			<polygon class=" (ctg10166_3)" points="183,25 133,25 133,10 103,40 133,70 133,55 183,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GlnD_UR_UTase (PF08335)
+"GlnD PII-uridylyltransferase"</title>
+				<polygon class="PF08335" points="107,40 115,32 115,48" stroke-linejoin="round" width="12" height="24" fill="rgb(77,186,66)" stroke="rgb(61,148,52)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FA_desaturase (PF00487)
+"Fatty acid desaturase"</title>
+				<rect class="PF00487" x="148" y="28" stroke-linejoin="round" width="23" height="24" fill="rgb(104,51,205)" stroke="rgb(83,40,164)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg10166_4)</title>
+			<polygon class=" (ctg10166_4)" points="188,40 208,10 208,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amino_oxidase (PF01593)
+"Flavin containing amine oxidoreductase"</title>
+				<polygon class="PF01593" points="192,40 200,28 208,28 208,52 200,52" stroke-linejoin="round" width="19" height="24" fill="rgb(184,74,52)" stroke="rgb(147,59,41)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

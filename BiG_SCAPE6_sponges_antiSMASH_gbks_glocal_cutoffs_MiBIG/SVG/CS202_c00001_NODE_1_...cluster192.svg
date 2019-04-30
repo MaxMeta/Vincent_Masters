@@ -1,0 +1,40 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="194.03333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="184.03333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg12266_1)</title>
+			<polygon class=" (ctg12266_1)" points="10,40 38,10 38,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HlyD_3 (PF13437)
+"HlyD family secretion protein"</title>
+				<polygon class="PF13437" points="14,40 22,31 22,49" stroke-linejoin="round" width="9" height="24" fill="rgb(82,200,102)" stroke="rgb(65,160,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg12266_2)</title>
+			<polygon class=" (ctg12266_2)" points="72,25 68,25 68,10 38,40 68,70 68,55 72,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg12266_3)</title>
+			<polygon class=" (ctg12266_3)" points="78,40 87,10 87,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NHase_alpha (PF02979)
+"Nitrile hydratase, alpha chain"</title>
+				<polygon class="PF02979" points="81,40 84,30 84,50" stroke-linejoin="round" width="6" height="24" fill="rgb(204,148,70)" stroke="rgb(163,118,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg12266_4)</title>
+			<polygon class=" (ctg12266_4)" points="94,25 106,25 106,10 136,40 106,70 106,55 94,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="116,28 119,28 131,40 119,52 116,52" stroke-linejoin="round" width="16" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg12266_5)</title>
+			<polygon class=" (ctg12266_5)" points="160,10 170,40 160,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

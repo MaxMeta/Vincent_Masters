@@ -1,0 +1,24 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+APH                  PF01636.23   240 BGC0001696.1_ORF2:gid:ntvB:pid:BBC15199.1:loc:479:1439:strand:+ -            319   6.2e-13   49.2   0.3   1   1   4.6e-17   8.2e-13   48.8   0.3    21   209     8   210     2   267 0.75 Phosphotransferase enzyme family
+HopA1                PF17914.1    170 BGC0001696.1_ORF3:gid:ntvC:pid:BBC15200.1:loc:1435:2440:strand:+ -            334   3.6e-49  166.8   0.0   1   1   3.3e-53     6e-49  166.1   0.0     3   170   150   326   148   326 0.95 HopA1 effector protein family
+APH                  PF01636.23   240 BGC0001696.1_ORF4:gid:ntvD:pid:BBC15201.1:loc:2436:3378:strand:+ -            313   2.8e-07   30.7   9.7   1   1   1.6e-11   2.8e-07   30.7   9.7    81   229    91   234    11   253 0.64 Phosphotransferase enzyme family
+Flavoprotein         PF02441.19   158 BGC0001696.1_ORF5:gid:ntvE:pid:BBC15202.1:loc:3377:3980:strand:+ -            200   7.3e-32  110.3   0.1   1   1   4.8e-36   8.7e-32  110.1   0.1     2   146    15   178    14   190 0.88 Flavoprotein
+PrmA                 PF06325.13   296 BGC0001696.1_ORF6:gid:ntvF:pid:BBC15203.1:loc:3987:5205:strand:+ -            405   2.2e-11   43.7   0.0   1   1   5.6e-15   3.3e-11   43.1   0.0   154   237   127   211   123   236 0.81 Ribosomal protein L11 methyltransferase (PrmA)
+Methyltransf_25      PF13649.6     97 BGC0001696.1_ORF6:gid:ntvF:pid:BBC15203.1:loc:3987:5205:strand:+ -            405   1.5e-07   32.0   0.0   1   1   5.5e-10   3.3e-06   27.7   0.0     1    79   138   216   138   233 0.79 Methyltransferase domain
+Met_10               PF02475.16   199 BGC0001696.1_ORF6:gid:ntvF:pid:BBC15203.1:loc:3987:5205:strand:+ -            405    0.0001   22.1   0.0   1   1   2.6e-08   0.00016   21.5   0.0    93   170   127   202   119   240 0.82 Met-10+ like-protein
+YcaO                 PF02624.16   323 BGC0001696.1_ORF7:gid:ntvG:pid:BBC15204.1:loc:5242:6595:strand:+ -            450   3.4e-66  223.8   4.3   1   1   5.2e-70   9.3e-66  222.3   2.6     1   323    69   412    69   412 0.81 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+TfuA                 PF07812.12   120 BGC0001696.1_ORF8:gid:ntvH:pid:BBC15205.1:loc:6609:7299:strand:+ -            229   6.7e-42  142.0   0.4   1   1   6.1e-46   1.1e-41  141.3   0.1     1   120    51   168    51   168 0.99 TfuA-like protein
+PhyH                 PF05721.13   211 BGC0001696.1_ORF9:gid:ntvI:pid:BBC15206.1:loc:7298:8177:strand:+ -            292   5.6e-25   88.8   0.2   1   1   4.5e-29   8.1e-25   88.3   0.2     1   209    12   209    12   211 0.86 Phytanoyl-CoA dioxygenase (PhyH)
+Peptidase_C1         PF00112.23   218 BGC0001696.1_ORF10:gid:ntvJ:pid:BBC15207.1:loc:8173:9001:strand:+ -            275   1.7e-11   44.6   0.0   1   1   1.3e-15   2.3e-11   44.2   0.0     3   198    37   249    35   257 0.75 Papain family cysteine protease
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001696.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001696.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001696.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:43:55 2019
+# [ok]

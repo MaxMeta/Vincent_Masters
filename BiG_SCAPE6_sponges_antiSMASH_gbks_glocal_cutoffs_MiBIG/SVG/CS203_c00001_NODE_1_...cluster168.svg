@@ -1,0 +1,128 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="421.03333333333336" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="411.03333333333336" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg5852_1)</title>
+			<polygon class=" (ctg5852_1)" points="22,40 37,10 37,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg5852_2)</title>
+			<polygon class=" (ctg5852_2)" points="47,40 68,10 68,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AlbA_2 (PF04326)
+"Putative DNA-binding domain"</title>
+				<polygon class="PF04326" points="55,34 60,28 66,28 66,52 60,52 55,46" stroke-linejoin="round" width="11" height="24" fill="rgb(156,198,86)" stroke="rgb(124,158,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5852_3)</title>
+			<polygon class=" (ctg5852_3)" points="108,25 104,25 104,10 74,40 104,70 104,55 108,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NAD_Gly3P_dh_C (PF07479)
+"NAD-dependent glycerol-3-phosphate dehydrogenase C-terminus"</title>
+				<polygon class="PF07479" points="78,40 89,29 89,51" stroke-linejoin="round" width="14" height="24" fill="rgb(80,195,100)" stroke="rgb(64,156,80)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>NAD_Gly3P_dh_N (PF01210)
+"NAD-dependent glycerol-3-phosphate dehydrogenase N-terminus"</title>
+				<rect class="PF01210" x="91" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(125,109,219)" stroke="rgb(100,87,175)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5852_4)</title>
+			<polygon class=" (ctg5852_4)" points="108,40 128,10 128,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>G3P_acyltransf (PF02660)
+"Glycerol-3-phosphate acyltransferase"</title>
+				<polygon class="PF02660" points="112,40 120,28 128,28 128,52 120,52" stroke-linejoin="round" width="18" height="24" fill="rgb(204,58,153)" stroke="rgb(163,46,122)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5852_5)</title>
+			<polygon class=" (ctg5852_5)" points="166,25 163,25 163,10 133,40 163,70 163,55 166,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AIRS_C (PF02769)
+"AIR synthase related protein, C-terminal domain"</title>
+				<polygon class="PF02769" points="137,40 149,28 149,28 149,52 149,52" stroke-linejoin="round" width="16" height="24" fill="rgb(182,125,70)" stroke="rgb(145,100,56)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AIRS (PF00586)
+"AIR synthase related protein, N-terminal domain"</title>
+				<rect class="PF00586" x="150" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(215,196,78)" stroke="rgb(172,156,62)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5852_6)</title>
+			<polygon class=" (ctg5852_6)" points="167,40 188,10 188,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="171,40 180,28 187,28 187,52 180,52" stroke-linejoin="round" width="19" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5852_7)</title>
+			<polygon class=" (ctg5852_7)" points="232,25 220,25 220,10 190,40 220,70 220,55 232,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PALP (PF00291)
+"Pyridoxal-phosphate dependent enzyme"</title>
+				<polygon class="PF00291" points="195,39 206,28 224,28 224,52 206,52 195,41" stroke-linejoin="round" width="29" height="24" fill="rgb(180,55,145)" stroke="rgb(144,44,116)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Thr_synth_N (PF14821)
+"Threonine synthase N terminus"</title>
+				<rect class="PF14821" x="223" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(72,189,108)" stroke="rgb(57,151,86)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5852_8)</title>
+			<polygon class=" (ctg5852_8)" points="263,25 262,25 262,10 232,40 262,70 262,55 263,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GHMP_kinases_C (PF08544)
+"GHMP kinases C terminal"</title>
+				<polygon class="PF08544" points="236,40 241,35 241,45" stroke-linejoin="round" width="8" height="24" fill="rgb(95,112,219)" stroke="rgb(76,89,175)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GHMP_kinases_N (PF00288)
+"GHMP kinases N terminal domain"</title>
+				<polygon class="PF00288" points="247,29 248,28 253,28 253,52 248,52 247,51" stroke-linejoin="round" width="6" height="24" fill="rgb(190,54,91)" stroke="rgb(152,43,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5852_9)</title>
+			<polygon class=" (ctg5852_9)" points="266,40 287,10 287,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2064 (PF09837)
+"Uncharacterized protein conserved in bacteria (DUF2064)"</title>
+				<polygon class="PF09837" points="272,37 279,28 283,28 283,52 279,52 272,43" stroke-linejoin="round" width="11" height="24" fill="rgb(64,152,184)" stroke="rgb(51,121,147)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5852_10)</title>
+			<polygon class=" (ctg5852_10)" points="326,25 317,25 317,10 287,40 317,70 317,55 326,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_5 (PF00266)
+"Aminotransferase class-V"</title>
+				<polygon class="PF00266" points="291,40 303,28 324,28 324,52 303,52" stroke-linejoin="round" width="36" height="24" fill="rgb(214,54,122)" stroke="rgb(171,43,97)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5852_11)</title>
+			<polygon class=" (ctg5852_11)" points="366,10 394,40 366,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AbiEi_4 (PF13338)
+"Transcriptional regulator, AbiEi antitoxin"</title>
+				<rect class="PF13338" x="368" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(77,192,162)" stroke="rgb(61,153,129)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5852_12)</title>
+			<polygon class=" (ctg5852_12)" points="394,10 406,40 394,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AbiEii (PF08843)
+"Nucleotidyl transferase AbiEii toxin, Type IV TA system"</title>
+				<polygon class="PF08843" points="396,28 398,28 403,40 398,52 396,52" stroke-linejoin="round" width="8" height="24" fill="rgb(179,218,98)" stroke="rgb(143,174,78)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

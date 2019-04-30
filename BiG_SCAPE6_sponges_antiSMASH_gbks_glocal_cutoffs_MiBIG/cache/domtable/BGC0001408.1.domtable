@@ -1,0 +1,25 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Orn_Arg_deC_N        PF02784.16   247 BGC0001408.1_ORF1:gid:lysA:pid:AAW74608.1:loc:0:1281:strand:- -            426   1.4e-27   96.7   0.0   1   1   2.8e-31   1.6e-27   96.4   0.0     4   247    63   308    60   308 0.92 Pyridoxal-dependent decarboxylase, pyridoxal binding domain
+Ala_racemase_N       PF01168.20   219 BGC0001408.1_ORF1:gid:lysA:pid:AAW74608.1:loc:0:1281:strand:- -            426   8.6e-16   58.2   1.0   1   1   3.5e-19   2.1e-15   57.0   1.0     2   180    59   252    58   279 0.79 Alanine racemase, N-terminal domain
+Orn_DAP_Arg_deC      PF00278.22    98 BGC0001408.1_ORF1:gid:lysA:pid:AAW74608.1:loc:0:1281:strand:- -            426   8.4e-15   54.8   0.0   1   1   1.7e-18   9.9e-15   54.6   0.0     2    98    56   400    55   400 0.78 Pyridoxal-dependent decarboxylase, C-terminal sheet domain
+IucA_IucC            PF04183.12   239 BGC0001408.1_ORF2:gid:iucA:pid:AAW74609.1:loc:1193:2969:strand:- -            591   6.7e-42  143.7   1.8   1   1   1.4e-45   1.3e-41  142.7   1.8     2   238   152   381   151   382 0.90 IucA / IucC family
+FhuF                 PF06276.12   163 BGC0001408.1_ORF2:gid:iucA:pid:AAW74609.1:loc:1193:2969:strand:- -            591   1.1e-34  120.2   4.3   1   1   2.8e-38   2.5e-34  119.0   4.3     2   162   411   570   410   571 0.95 Ferric iron reductase FhuF-like transporter
+MFS_1                PF07690.16   353 BGC0001408.1_ORF3:gid:yceE:pid:AAW74610.1:loc:2940:4137:strand:- -            398   2.9e-19   69.2  58.6   1   1   8.5e-21   1.5e-16   60.3  30.9    14   264    21   269     8   274 0.77 Major Facilitator Superfamily
+IucA_IucC            PF04183.12   239 BGC0001408.1_ORF4:gid:RhbC:pid:AAW74611.1:loc:4133:5966:strand:- -            610   5.1e-35  121.1   1.9   1   1   1.9e-38   1.7e-34  119.4   1.5     5   239   170   385   166   385 0.89 IucA / IucC family
+FhuF                 PF06276.12   163 BGC0001408.1_ORF4:gid:RhbC:pid:AAW74611.1:loc:4133:5966:strand:- -            610   1.2e-18   68.1   3.9   1   1   1.3e-22   1.2e-18   68.1   3.9     2   151   408   563   407   579 0.87 Ferric iron reductase FhuF-like transporter
+TonB_dep_Rec         PF00593.24   470 BGC0001408.1_ORF6:gid:fecA:pid:AAW74613.1:loc:7394:9536:strand:- -            713   7.6e-41  141.5  25.0   1   1   1.3e-44   7.6e-41  141.5  25.0    16   470   258   712   250   712 0.74 TonB dependent receptor
+Plug                 PF07715.15   108 BGC0001408.1_ORF6:gid:fecA:pid:AAW74613.1:loc:7394:9536:strand:- -            713   1.1e-20   74.2   0.6   1   1   3.9e-24   2.3e-20   73.1   0.6     3   108    66   176    64   176 0.93 TonB-dependent Receptor Plug Domain
+OMP_b-brl_3          PF14905.6    408 BGC0001408.1_ORF6:gid:fecA:pid:AAW74613.1:loc:7394:9536:strand:- -            713   1.9e-08   33.7   1.0   1   1     1e-10   6.1e-07   28.8   1.0   107   386   415   693   381   711 0.79 Outer membrane protein beta-barrel family
+HpcH_HpaI            PF03328.14   221 BGC0001408.1_ORF7:gid:mphE:pid:AAW74614.1:loc:9536:10298:strand:- -            253   8.4e-28   97.0   0.0   1   1   5.9e-32   1.1e-27   96.7   0.0    13   185    16   196    10   227 0.90 HpcH/HpaI aldolase/citrate lyase family
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001408.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001408.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001408.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:44:39 2019
+# [ok]

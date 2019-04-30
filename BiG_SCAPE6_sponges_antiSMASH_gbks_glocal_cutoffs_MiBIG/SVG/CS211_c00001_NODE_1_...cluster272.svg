@@ -1,0 +1,57 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="189.66666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="179.66666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg19743_1)</title>
+			<polygon class=" (ctg19743_1)" points="12,25 45,25 45,10 75,40 45,70 45,55 12,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TPR_MalT (PF17874)
+"MalT-like TPR region"</title>
+				<rect class="PF17874" x="18" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(90,134,202)" stroke="rgb(72,107,161)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TPR_19 (PF14559)
+"Tetratricopeptide repeat"</title>
+				<rect class="PF14559" x="50" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(182,60,145)" stroke="rgb(145,48,115)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TPR_16 (PF13432)
+"Tetratricopeptide repeat"</title>
+				<polygon class="PF13432" points="57,28 59,28 62,31 62,49 59,52 57,52" stroke-linejoin="round" width="5" height="24" fill="rgb(154,205,86)" stroke="rgb(123,164,68)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TPR_16 (PF13432)
+"Tetratricopeptide repeat"</title>
+				<polygon class="PF13432" points="63,32 69,38 69,42 63,48" stroke-linejoin="round" width="6" height="24" fill="rgb(154,205,86)" stroke="rgb(123,164,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg19743_2)</title>
+			<polygon class=" (ctg19743_2)" points="78,10 92,40 78,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>N_methyl (PF07963)
+"Prokaryotic N-terminal methylation motif"</title>
+				<rect class="PF07963" x="78" y="28" stroke-linejoin="round" width="2" height="24" fill="rgb(116,101,204)" stroke="rgb(92,80,163)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Pilin_GH (PF16734)
+"Type IV pilin-like G and H, putative"</title>
+				<polygon class="PF16734" points="82,28 83,28 89,40 83,52 82,52" stroke-linejoin="round" width="8" height="24" fill="rgb(120,227,85)" stroke="rgb(96,181,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg19743_3)</title>
+			<polygon class=" (ctg19743_3)" points="97,25 141,25 141,10 171,40 141,70 141,55 97,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQHop_cyclase_N (PF13249)
+"Squalene-hopene cyclase N-terminal domain"</title>
+				<rect class="PF13249" x="106" y="28" stroke-linejoin="round" width="29" height="24" fill="rgb(88,190,89)" stroke="rgb(70,152,71)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SQHop_cyclase_C (PF13243)
+"Squalene-hopene cyclase C-terminal domain"</title>
+				<polygon class="PF13243" points="137,28 155,28 167,40 155,52 137,52" stroke-linejoin="round" width="31" height="24" fill="rgb(191,58,201)" stroke="rgb(152,46,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

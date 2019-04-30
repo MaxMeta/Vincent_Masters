@@ -1,0 +1,36 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="196.66666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="186.66666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg18687_1)</title>
+			<polygon class=" (ctg18687_1)" points="10,10 14,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg18687_2)</title>
+			<polygon class=" (ctg18687_2)" points="18,40 35,10 35,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_32 (PF13565)
+"Homeodomain-like domain"</title>
+				<polygon class="PF13565" points="26,31 28,28 33,28 33,52 28,52 26,49" stroke-linejoin="round" width="7" height="24" fill="rgb(89,225,112)" stroke="rgb(71,180,89)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg18687_3)</title>
+			<polygon class=" (ctg18687_3)" points="80,25 75,25 75,10 45,40 75,70 75,55 80,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="49,40 61,28 77,28 77,52 61,52" stroke-linejoin="round" width="29" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg18687_4)</title>
+			<polygon class=" (ctg18687_4)" points="171,25 122,25 122,10 92,40 122,70 122,55 171,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CBM9_1 (PF06452)
+"Carbohydrate family 9 binding domain-like"</title>
+				<rect class="PF06452" x="144" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(73,155,206)" stroke="rgb(58,123,164)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

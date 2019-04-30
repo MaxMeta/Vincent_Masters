@@ -1,0 +1,124 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="488.2" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="478.2" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg4924_1)</title>
+			<polygon class=" (ctg4924_1)" points="50,25 40,25 40,10 10,40 40,70 40,55 50,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>UPF0051 (PF01458)
+"Uncharacterized protein family (UPF0051)"</title>
+				<polygon class="PF01458" points="14,40 26,28 28,28 28,52 26,52" stroke-linejoin="round" width="18" height="24" fill="rgb(57,65,214)" stroke="rgb(45,52,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4924_2)</title>
+			<polygon class=" (ctg4924_2)" points="56,10 82,40 56,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TatD_DNase (PF01026)
+"TatD related DNase"</title>
+				<polygon class="PF01026" points="56,28 68,28 78,40 68,52 56,52" stroke-linejoin="round" width="24" height="24" fill="rgb(91,81,210)" stroke="rgb(72,64,168)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4924_3)</title>
+			<polygon class=" (ctg4924_3)" points="90,10 109,40 90,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1802 (PF08819)
+"Domain of unknown function (DUF1802)"</title>
+				<polygon class="PF08819" points="90,28 98,28 106,40 98,52 90,52" stroke-linejoin="round" width="17" height="24" fill="rgb(129,74,179)" stroke="rgb(103,59,143)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4924_4)</title>
+			<polygon class=" (ctg4924_4)" points="112,25 115,25 115,10 145,40 115,70 115,55 112,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aldo_ket_red (PF00248)
+"Aldo/keto reductase family"</title>
+				<polygon class="PF00248" points="113,28 129,28 141,40 129,52 113,52" stroke-linejoin="round" width="30" height="24" fill="rgb(225,205,58)" stroke="rgb(180,164,46)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4924_5)</title>
+			<polygon class=" (ctg4924_5)" points="151,25 213,25 213,10 243,40 213,70 213,55 151,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PPDK_N (PF01326)
+"Pyruvate phosphate dikinase, PEP/pyruvate binding domain"</title>
+				<rect class="PF01326" x="153" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(112,180,78)" stroke="rgb(89,144,62)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PPDK_N (PF01326)
+"Pyruvate phosphate dikinase, PEP/pyruvate binding domain"</title>
+				<rect class="PF01326" x="180" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(112,180,78)" stroke="rgb(89,144,62)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PEP-utilizers (PF00391)
+"PEP-utilising enzyme, mobile domain"</title>
+				<rect class="PF00391" x="193" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(206,59,219)" stroke="rgb(164,47,175)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PEP-utilizers_C (PF02896)
+"PEP-utilising enzyme, TIM barrel domain"</title>
+				<polygon class="PF02896" points="203,28 226,28 238,40 226,52 203,52" stroke-linejoin="round" width="38" height="24" fill="rgb(65,113,188)" stroke="rgb(52,90,150)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4924_6)</title>
+			<polygon class=" (ctg4924_6)" points="277,25 274,25 274,10 244,40 274,70 274,55 277,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Epimerase (PF01370)
+"NAD dependent epimerase/dehydratase family"</title>
+				<polygon class="PF01370" points="253,35 260,28 275,28 275,52 260,52 253,45" stroke-linejoin="round" width="22" height="24" fill="rgb(98,102,214)" stroke="rgb(78,81,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4924_7)</title>
+			<polygon class=" (ctg4924_7)" points="286,40 315,10 315,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="290,40 302,28 313,28 313,52 302,52" stroke-linejoin="round" width="25" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4924_8)</title>
+			<polygon class=" (ctg4924_8)" points="388,25 347,25 347,10 317,40 347,70 347,55 388,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQHop_cyclase_C (PF13243)
+"Squalene-hopene cyclase C-terminal domain"</title>
+				<polygon class="PF13243" points="326,35 333,28 356,28 356,52 333,52 326,45" stroke-linejoin="round" width="30" height="24" fill="rgb(191,58,201)" stroke="rgb(152,46,160)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SQHop_cyclase_N (PF13249)
+"Squalene-hopene cyclase N-terminal domain"</title>
+				<rect class="PF13249" x="357" y="28" stroke-linejoin="round" width="29" height="24" fill="rgb(88,190,89)" stroke="rgb(70,152,71)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4924_9)</title>
+			<polygon class=" (ctg4924_9)" points="423,25 419,25 419,10 389,40 419,70 419,55 423,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Epimerase (PF01370)
+"NAD dependent epimerase/dehydratase family"</title>
+				<polygon class="PF01370" points="400,33 405,28 422,28 422,52 405,52 400,47" stroke-linejoin="round" width="22" height="24" fill="rgb(98,102,214)" stroke="rgb(78,81,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4924_10)</title>
+			<polygon class=" (ctg4924_10)" points="423,40 449,10 449,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PNP_UDP_1 (PF01048)
+"Phosphorylase superfamily"</title>
+				<polygon class="PF01048" points="428,39 438,28 448,28 448,52 438,52 428,41" stroke-linejoin="round" width="20" height="24" fill="rgb(75,186,148)" stroke="rgb(60,148,118)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4924_11)</title>
+			<polygon class=" (ctg4924_11)" points="450,40 474,10 474,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF3463 (PF11946)
+"Domain of unknown function (DUF3463)"</title>
+				<polygon class="PF11946" points="454,40 464,28 464,28 464,52 464,52" stroke-linejoin="round" width="13" height="24" fill="rgb(193,51,57)" stroke="rgb(154,40,45)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,89 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="266.4666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="256.4666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg7251_1)</title>
+			<polygon class=" (ctg7251_1)" points="10,25 28,25 28,10 58,40 28,70 28,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HSP70 (PF00012)
+"Hsp70 protein"</title>
+				<polygon class="PF00012" points="10,28 41,28 53,40 41,52 10,52" stroke-linejoin="round" width="44" height="24" fill="rgb(60,173,201)" stroke="rgb(48,138,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7251_2)</title>
+			<polygon class=" (ctg7251_2)" points="58,10 80,40 58,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GrpE (PF01025)
+"GrpE"</title>
+				<polygon class="PF01025" points="62,28 67,28 76,40 67,52 62,52" stroke-linejoin="round" width="16" height="24" fill="rgb(75,190,103)" stroke="rgb(60,152,82)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7251_3)</title>
+			<polygon class=" (ctg7251_3)" points="80,25 86,25 86,10 116,40 86,70 86,55 80,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DnaJ (PF00226)
+"DnaJ domain"</title>
+				<rect class="PF00226" x="80" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(207,80,207)" stroke="rgb(165,63,165)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DnaJ_C (PF01556)
+"DnaJ C terminal domain"</title>
+				<polygon class="PF01556" points="92,28 100,28 112,40 100,52 92,52" stroke-linejoin="round" width="21" height="24" fill="rgb(97,143,214)" stroke="rgb(77,114,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7251_4)</title>
+			<polygon class=" (ctg7251_4)" points="117,10 130,40 117,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MerR_1 (PF13411)
+"MerR HTH family regulatory protein"</title>
+				<polygon class="PF13411" points="118,28 121,28 124,33 124,47 121,52 118,52" stroke-linejoin="round" width="6" height="24" fill="rgb(100,202,107)" stroke="rgb(80,161,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7251_5)</title>
+			<polygon class=" (ctg7251_5)" points="132,10 147,40 132,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF3151 (PF11349)
+"Protein of unknown function (DUF3151)"</title>
+				<polygon class="PF11349" points="133,28 137,28 143,40 137,52 133,52" stroke-linejoin="round" width="13" height="24" fill="rgb(97,204,228)" stroke="rgb(77,163,182)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7251_6)</title>
+			<polygon class=" (ctg7251_6)" points="255,25 177,25 177,10 147,40 177,70 177,55 255,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acyl_transf_1 (PF00698)
+"Acyl transferase domain"</title>
+				<polygon class="PF00698" points="158,33 163,28 175,28 175,52 163,52 158,47" stroke-linejoin="round" width="17" height="24" fill="rgb(59,176,209)" stroke="rgb(47,140,167)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KAsynt_C_assoc (PF16197)
+"Ketoacyl-synthetase C-terminal extension"</title>
+				<rect class="PF16197" x="178" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(240,150,172)" stroke="rgb(192,120,137)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<rect class="PF02801" x="193" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="206" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="234" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KR (PF08659)
+"KR domain"</title>
+				<rect class="PF08659" x="251" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(66,209,188)" stroke="rgb(52,167,150)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

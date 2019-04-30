@@ -1,0 +1,18 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Response_reg         PF00072.24   112 BGC0000550.1_ORF1:gid::pid:AFB74478.1:loc:0:485:strand:- -            162   1.4e-24   86.4   0.0   1   1   9.7e-29   1.7e-24   86.1   0.0     1   111    12   121    12   122 0.98 Response regulator receiver domain
+L_biotic_typeA       PF04604.13    51 BGC0000550.1_ORF2:gid::pid:AFB74479.1:loc:742:892:strand:+ -             49   2.6e-24   84.8   1.0   1   1   1.6e-28   2.8e-24   84.7   1.0     1    51     1    48     1    48 0.95 Type-A lantibiotic
+L_biotic_typeA       PF04604.13    51 BGC0000550.1_ORF3:gid::pid:AFB74480.1:loc:920:1070:strand:+ -             49   1.1e-24   86.0   0.9   1   1   6.7e-29   1.2e-24   85.9   0.9     1    51     1    48     1    48 0.96 Type-A lantibiotic
+L_biotic_typeA       PF04604.13    51 BGC0000550.1_ORF4:gid::pid:AFB74481.1:loc:1316:1475:strand:+ -             52   8.6e-24   83.1   1.1   1   1   5.2e-28   9.4e-24   83.0   1.1     1    51     1    52     1    52 0.96 Type-A lantibiotic
+DUF4135              PF13575.6    375 BGC0000550.1_ORF5:gid::pid:AFB74482.1:loc:1494:2398:strand:+ -            301   1.9e-40  139.4   0.0   1   1   1.3e-44   2.3e-40  139.1   0.0     1   203    92   299    92   301 0.87 Domain of unknown function (DUF4135)
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000550.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000550.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000550.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:28:55 2019
+# [ok]

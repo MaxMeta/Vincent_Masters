@@ -1,0 +1,22 @@
+#                                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+PQQ                  PF01011.21    38 CS200_c00001_NODE_1_...cluster221_ORF1:gid::pid::loc:356:2351:strand:- -            664   7.6e-31  104.6   0.2   1   1   6.5e-09   3.9e-05   23.4   0.0     1    32    92   123    92   127 0.89 PQQ enzyme repeat
+PQQ_2                PF13360.6    237 CS200_c00001_NODE_1_...cluster221_ORF1:gid::pid::loc:356:2351:strand:- -            664   1.7e-20   73.6   6.0   1   1   2.7e-16   1.6e-12   47.5   1.6    14   236    58   327    47   328 0.76 PQQ-like domain
+PQQ_3                PF13570.6     40 CS200_c00001_NODE_1_...cluster221_ORF1:gid::pid::loc:356:2351:strand:- -            664     2e-08   34.4  20.7   1   1   3.8e-07    0.0023   18.4   0.0    12    40    82   110    58   110 0.75 PQQ-like domain
+Lactamase_B          PF00753.27   197 CS200_c00001_NODE_1_...cluster221_ORF2:gid::pid::loc:2457:3312:strand:- -            284   3.3e-15   56.6   9.7   1   1   2.8e-19   5.1e-15   56.0   9.7     7   197    49   213    43   213 0.88 Metallo-beta-lactamase superfamily
+PQQ_2                PF13360.6    237 CS200_c00001_NODE_1_...cluster221_ORF3:gid::pid::loc:3544:4813:strand:+ -            422   1.1e-25   90.6   0.8   1   2     3e-10   1.8e-06   27.7   0.1    54   174    57   185    53   195 0.76 PQQ-like domain
+PQQ_2                PF13360.6    237 CS200_c00001_NODE_1_...cluster221_ORF3:gid::pid::loc:3544:4813:strand:+ -            422   1.1e-25   90.6   0.8   2   2   2.4e-20   1.4e-16   60.8   0.0     4   227   198   419   195   421 0.79 PQQ-like domain
+PQQ                  PF01011.21    38 CS200_c00001_NODE_1_...cluster221_ORF5:gid::pid::loc:5520:7488:strand:- -            655     1e-24   85.2   3.6   1   1   2.9e-08   0.00026   20.8   0.0     5    27   520   543   517   551 0.84 PQQ enzyme repeat
+PQQ_2                PF13360.6    237 CS200_c00001_NODE_1_...cluster221_ORF5:gid::pid::loc:5520:7488:strand:- -            655   3.3e-18   66.2   0.1   1   1   2.8e-13   2.5e-09   37.1   0.0    14   146    61   238    48   239 0.82 PQQ-like domain
+SQS_PSY              PF00494.19   263 CS200_c00001_NODE_1_...cluster221_ORF6:gid::pid::loc:7659:8709:strand:+ -            349   1.7e-53  181.8   0.1   1   1   1.1e-57     2e-53  181.6   0.1     2   262    22   312    21   313 0.88 Squalene/phytoene synthase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS200_c00001_NODE_1_...cluster221.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS200_c00001_NODE_1_...cluster221.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS200_c00001_NODE_1_...cluster221.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:47:14 2019
+# [ok]

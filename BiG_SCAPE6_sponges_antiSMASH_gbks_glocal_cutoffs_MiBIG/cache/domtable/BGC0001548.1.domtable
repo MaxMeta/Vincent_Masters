@@ -1,0 +1,19 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Pentapeptide         PF00805.22    40 BGC0001548.1_ORF1:gid::pid:OAL15484.1:loc:0:843:strand:+ -            280     1e-19   69.8   9.4   1   2   8.2e-15   4.9e-11   42.0   0.6     4    40   190   226   190   226 0.91 Pentapeptide repeats (8 copies)
+Pentapeptide         PF00805.22    40 BGC0001548.1_ORF1:gid::pid:OAL15484.1:loc:0:843:strand:+ -            280     1e-19   69.8   9.4   2   2   6.3e-14   3.8e-10   39.2   2.6     1    38   212   249   212   249 0.90 Pentapeptide repeats (8 copies)
+Pentapeptide_4       PF13599.6     77 BGC0001548.1_ORF1:gid::pid:OAL15484.1:loc:0:843:strand:+ -            280   9.5e-07   28.9   0.0   1   1     6e-10   3.6e-06   27.1   0.0    10    73   191   256   185   259 0.91 Pentapeptide repeats (9 copies)
+Transglut_core3      PF13471.6    117 BGC0001548.1_ORF2:gid::pid:OAL15485.1:loc:901:1348:strand:- -            148   1.7e-26   92.4   3.8   1   1   1.1e-30     2e-26   92.2   3.8     4   116    24   134    21   135 0.94 Transglutaminase-like superfamily
+PqqD                 PF05402.12    67 BGC0001548.1_ORF3:gid::pid:OAL15486.1:loc:1344:1599:strand:- -             84   2.1e-15   56.8   0.2   1   1   1.4e-19   2.4e-15   56.6   0.2     2    66    18    82    17    83 0.97 Coenzyme PQQ synthesis protein D (PqqD)
+Asn_synthase         PF00733.21   355 BGC0001548.1_ORF4:gid::pid::loc:1637:3455:strand:- -            606     2e-47  162.6   0.3   1   1   1.4e-51   2.5e-47  162.3   0.3     2   354   220   603   219   604 0.86 Asparagine synthase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001548.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001548.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001548.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:35:36 2019
+# [ok]

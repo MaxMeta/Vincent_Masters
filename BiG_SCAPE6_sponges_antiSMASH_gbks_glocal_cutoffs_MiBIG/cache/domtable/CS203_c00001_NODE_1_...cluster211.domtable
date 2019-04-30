@@ -1,0 +1,22 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+G_glu_transpept      PF01019.21   512 CS203_c00001_NODE_1_...cluster211_ORF1:gid::pid::loc:0:276:strand:+ -             91   1.6e-11   43.7   0.0   1   1   9.8e-16   1.7e-11   43.6   0.0   429   512     1    86     1    86 0.88 Gamma-glutamyltranspeptidase
+Bac_DNA_binding      PF00216.21    90 CS203_c00001_NODE_1_...cluster211_ORF2:gid::pid::loc:350:650:strand:- -             99   2.1e-29  101.6   0.0   1   1   1.3e-33   2.3e-29  101.4   0.0     1    89     1    91     1    92 0.96 Bacterial DNA-binding protein
+ADH_N                PF08240.12   109 CS203_c00001_NODE_1_...cluster211_ORF3:gid::pid::loc:938:1982:strand:- -            347   2.1e-26   91.9   0.1   1   1   5.1e-30   4.6e-26   90.8   0.1     1   104    24   124    24   128 0.92 Alcohol dehydrogenase GroES-like domain
+ADH_zinc_N           PF00107.26   130 CS203_c00001_NODE_1_...cluster211_ORF3:gid::pid::loc:938:1982:strand:- -            347   4.9e-23   81.5   0.0   1   1   8.2e-27   7.3e-23   81.0   0.0     3   129   175   304   173   305 0.94 Zinc-binding dehydrogenase
+SQS_PSY              PF00494.19   263 CS203_c00001_NODE_1_...cluster211_ORF4:gid::pid::loc:2005:2968:strand:- -            320   9.5e-77  258.0   5.5   1   1     7e-81   1.3e-76  257.6   5.5     2   262    33   285    32   286 0.95 Squalene/phytoene synthase
+Radical_SAM          PF04055.21   167 CS203_c00001_NODE_1_...cluster211_ORF5:gid::pid::loc:3062:3950:strand:+ -            295   9.3e-19   68.4   0.0   1   1   5.9e-22   5.3e-18   66.0   0.0     6   146    23   162    19   174 0.92 Radical SAM superfamily
+Fer4_12              PF13353.6    139 CS203_c00001_NODE_1_...cluster211_ORF5:gid::pid::loc:3062:3950:strand:+ -            295   2.7e-06   27.7   0.0   1   1   5.4e-10   4.8e-06   26.9   0.0    14    95    23    99    13   124 0.81 4Fe-4S single cluster domain
+Metallophos_2        PF12850.7    165 CS203_c00001_NODE_1_...cluster211_ORF6:gid::pid::loc:3958:4744:strand:+ -            261   1.3e-12   48.2   0.0   1   1   2.1e-16   1.9e-12   47.7   0.0     3   157     6   199     5   205 0.83 Calcineurin-like phosphoesterase superfamily domain
+Metallophos          PF00149.28   204 CS203_c00001_NODE_1_...cluster211_ORF6:gid::pid::loc:3958:4744:strand:+ -            261   0.00024   21.7   0.0   1   1   3.7e-08   0.00034   21.2   0.0     3   172     6   175     4   210 0.68 Calcineurin-like phosphoesterase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS203_c00001_NODE_1_...cluster211.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS203_c00001_NODE_1_...cluster211.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS203_c00001_NODE_1_...cluster211.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:37:36 2019
+# [ok]

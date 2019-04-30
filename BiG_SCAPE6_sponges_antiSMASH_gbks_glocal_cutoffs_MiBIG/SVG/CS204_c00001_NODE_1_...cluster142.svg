@@ -1,0 +1,123 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="365.8333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="355.8333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg6139_1)</title>
+			<polygon class=" (ctg6139_1)" points="10,25 52,25 52,10 82,40 52,70 52,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>RecG_wedge (PF17191)
+"RecG wedge domain"</title>
+				<rect class="PF17191" x="13" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(216,134,69)" stroke="rgb(172,107,55)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DEAD (PF00270)
+"DEAD/DEAH box helicase"</title>
+				<rect class="PF00270" x="39" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(195,100,62)" stroke="rgb(156,80,49)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Helicase_C (PF00271)
+"Helicase conserved C-terminal domain"</title>
+				<polygon class="PF00271" points="59,28 66,28 71,33 71,47 66,52 59,52" stroke-linejoin="round" width="12" height="24" fill="rgb(104,224,158)" stroke="rgb(83,179,126)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6139_2)</title>
+			<polygon class=" (ctg6139_2)" points="83,40 99,10 99,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MoCF_biosynth (PF00994)
+"Probable molybdopterin binding domain"</title>
+				<polygon class="PF00994" points="86,40 93,28 97,28 97,52 93,52" stroke-linejoin="round" width="14" height="24" fill="rgb(75,187,175)" stroke="rgb(60,149,139)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6139_3)</title>
+			<polygon class=" (ctg6139_3)" points="99,40 116,10 116,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HPPK (PF01288)
+"7,8-dihydro-6-hydroxymethylpterin-pyrophosphokinase (HPPK)"</title>
+				<polygon class="PF01288" points="102,40 109,28 114,28 114,52 109,52 102,40" stroke-linejoin="round" width="12" height="24" fill="rgb(203,129,62)" stroke="rgb(162,103,49)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6139_4)</title>
+			<polygon class=" (ctg6139_4)" points="116,40 129,10 129,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FolB (PF02152)
+"Dihydroneopterin aldolase"</title>
+				<polygon class="PF02152" points="119,40 124,28 128,28 128,52 124,52" stroke-linejoin="round" width="11" height="24" fill="rgb(113,204,65)" stroke="rgb(90,163,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6139_5)</title>
+			<polygon class=" (ctg6139_5)" points="130,40 149,10 149,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GTP_cyclohydroI (PF01227)
+"GTP cyclohydrolase I"</title>
+				<polygon class="PF01227" points="134,40 142,28 147,28 147,52 142,52" stroke-linejoin="round" width="17" height="24" fill="rgb(48,180,84)" stroke="rgb(38,144,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6139_6)</title>
+			<polygon class=" (ctg6139_6)" points="191,25 187,25 187,10 157,40 187,70 187,55 191,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NTP_transf_3 (PF12804)
+"MobA-like NTP transferase domain"</title>
+				<polygon class="PF12804" points="172,29 173,28 189,28 189,52 173,52 172,51" stroke-linejoin="round" width="17" height="24" fill="rgb(52,209,196)" stroke="rgb(41,167,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6139_7)</title>
+			<polygon class=" (ctg6139_7)" points="196,10 211,40 196,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg6139_8)</title>
+			<polygon class=" (ctg6139_8)" points="213,40 239,10 239,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Metallophos_2 (PF12850)
+"Calcineurin-like phosphoesterase superfamily domain"</title>
+				<polygon class="PF12850" points="218,39 227,28 238,28 238,52 227,52 218,41" stroke-linejoin="round" width="20" height="24" fill="rgb(143,76,212)" stroke="rgb(114,60,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6139_9)</title>
+			<polygon class=" (ctg6139_9)" points="239,40 268,10 268,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<polygon class="PF04055" points="251,32 255,28 266,28 266,52 255,52 251,48" stroke-linejoin="round" width="15" height="24" fill="rgb(149,56,222)" stroke="rgb(119,44,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6139_10)</title>
+			<polygon class=" (ctg6139_10)" points="272,25 274,25 274,10 304,40 274,70 274,55 272,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="275,28 287,28 299,40 287,52 275,52" stroke-linejoin="round" width="25" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6139_11)</title>
+			<polygon class=" (ctg6139_11)" points="304,25 309,25 309,10 339,40 309,70 309,55 304,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ADH_N (PF08240)
+"Alcohol dehydrogenase GroES-like domain"</title>
+				<rect class="PF08240" x="307" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(211,65,138)" stroke="rgb(168,51,110)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ADH_zinc_N (PF00107)
+"Zinc-binding dehydrogenase"</title>
+				<polygon class="PF00107" points="322,28 323,28 335,40 335,40 323,52 322,52" stroke-linejoin="round" width="13" height="24" fill="rgb(81,108,215)" stroke="rgb(64,86,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6139_12)</title>
+			<polygon class=" (ctg6139_12)" points="349,10 355,40 349,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Bac_DNA_binding (PF00216)
+"Bacterial DNA-binding protein"</title>
+				<polygon class="PF00216" points="349,28 349,28 352,40 349,52 349,52" stroke-linejoin="round" width="6" height="24" fill="rgb(73,205,204)" stroke="rgb(58,164,163)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

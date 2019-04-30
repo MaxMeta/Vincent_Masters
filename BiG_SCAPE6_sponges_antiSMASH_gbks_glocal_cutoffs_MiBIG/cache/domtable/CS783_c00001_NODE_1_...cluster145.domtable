@@ -1,0 +1,26 @@
+#                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ketoacyl-synt        PF00109.26   253 CS783_c00001_NODE_1_...cluster145_ORF1:gid::pid::loc:1:6889:strand:- -           2296  2.1e-160  532.1   8.5   1   2   4.9e-82   9.8e-79  264.5   0.2     3   253   281   522   279   522 0.94 Beta-ketoacyl synthase, N-terminal domain
+ketoacyl-synt        PF00109.26   253 CS783_c00001_NODE_1_...cluster145_ORF1:gid::pid::loc:1:6889:strand:- -           2296  2.1e-160  532.1   8.5   2   2     6e-84   1.2e-80  270.8   1.8     2   253  1799  2041  1798  2041 0.96 Beta-ketoacyl synthase, N-terminal domain
+KR                   PF08659.10   180 CS783_c00001_NODE_1_...cluster145_ORF1:gid::pid::loc:1:6889:strand:- -           2296   1.6e-88  295.3   0.7   1   2   2.1e-31   4.2e-28   98.5   0.3   100   180     3    83     1    83 0.97 KR domain
+KR                   PF08659.10   180 CS783_c00001_NODE_1_...cluster145_ORF1:gid::pid::loc:1:6889:strand:- -           2296   1.6e-88  295.3   0.7   2   2   2.9e-60   5.9e-57  192.5   0.0     2   179  1430  1608  1429  1609 0.98 KR domain
+Ketoacyl-synt_C      PF02801.22   118 CS783_c00001_NODE_1_...cluster145_ORF1:gid::pid::loc:1:6889:strand:- -           2296   3.9e-88  291.4   3.7   1   2   4.3e-47   8.5e-44  148.3   0.6     1   118   530   648   530   648 0.98 Beta-ketoacyl synthase, C-terminal domain
+Ketoacyl-synt_C      PF02801.22   118 CS783_c00001_NODE_1_...cluster145_ORF1:gid::pid::loc:1:6889:strand:- -           2296   3.9e-88  291.4   3.7   2   2   4.4e-45   8.8e-42  141.9   0.1     1   118  2049  2167  2049  2167 0.99 Beta-ketoacyl synthase, C-terminal domain
+Acyl_transf_1        PF00698.21   319 CS783_c00001_NODE_1_...cluster145_ORF1:gid::pid::loc:1:6889:strand:- -           2296   1.1e-51  176.3   0.0   1   1   8.9e-55   1.8e-51  175.6   0.0     2   271   822  1099   821  1105 0.93 Acyl transferase domain
+KAsynt_C_assoc       PF16197.5    112 CS783_c00001_NODE_1_...cluster145_ORF1:gid::pid::loc:1:6889:strand:- -           2296   1.4e-29  102.8   0.0   1   2   5.4e-17   1.1e-13   51.6   0.0     1   100   650   777   650   789 0.78 Ketoacyl-synthetase C-terminal extension
+KAsynt_C_assoc       PF16197.5    112 CS783_c00001_NODE_1_...cluster145_ORF1:gid::pid::loc:1:6889:strand:- -           2296   1.4e-29  102.8   0.0   2   2     6e-16   1.2e-12   48.3   0.0     1    87  2169  2288  2169  2293 0.95 Ketoacyl-synthetase C-terminal extension
+PP-binding           PF00550.25    67 CS783_c00001_NODE_1_...cluster145_ORF1:gid::pid::loc:1:6889:strand:- -           2296   3.2e-25   88.2   0.0   1   2     1e-14   2.1e-11   44.0   0.0     3    67   188   253   187   253 0.88 Phosphopantetheine attachment site
+PP-binding           PF00550.25    67 CS783_c00001_NODE_1_...cluster145_ORF1:gid::pid::loc:1:6889:strand:- -           2296   3.2e-25   88.2   0.0   2   2   7.3e-14   1.5e-10   41.3   0.0     2    66  1707  1772  1706  1773 0.93 Phosphopantetheine attachment site
+adh_short            PF00106.25   195 CS783_c00001_NODE_1_...cluster145_ORF1:gid::pid::loc:1:6889:strand:- -           2296   4.1e-13   49.2   0.0   1   1   2.8e-13   5.5e-10   39.0   0.0     4   160  1432  1589  1429  1594 0.86 short chain dehydrogenase
+adh_short_C2         PF13561.6    234 CS783_c00001_NODE_1_...cluster145_ORF1:gid::pid::loc:1:6889:strand:- -           2296   5.4e-10   39.2   0.0   1   1   1.2e-11   2.4e-08   33.8   0.0     4   149  1438  1586  1435  1591 0.81 Enoyl-(Acyl carrier protein) reductase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS783_c00001_NODE_1_...cluster145.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS783_c00001_NODE_1_...cluster145.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS783_c00001_NODE_1_...cluster145.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:36:24 2019
+# [ok]

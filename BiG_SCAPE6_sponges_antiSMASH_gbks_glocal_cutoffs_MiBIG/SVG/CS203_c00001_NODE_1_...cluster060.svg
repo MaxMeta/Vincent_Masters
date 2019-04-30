@@ -1,0 +1,41 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="361.73333333333335" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="351.73333333333335" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg663_4)</title>
+			<polygon class=" (ctg663_4)" points="105,25 105,25 105,10 75,40 105,70 105,55 105,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg663_5)</title>
+			<polygon class=" (ctg663_5)" points="164,25 153,25 153,10 123,40 153,70 153,55 164,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PQQ_2 (PF13360)
+"PQQ-like domain"</title>
+				<polygon class="PF13360" points="127,40 139,28 145,28 145,52 139,52" stroke-linejoin="round" width="22" height="24" fill="rgb(98,210,146)" stroke="rgb(78,168,116)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg663_6)</title>
+			<polygon class=" (ctg663_6)" points="176,10 184,40 176,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NHase_alpha (PF02979)
+"Nitrile hydratase, alpha chain"</title>
+				<polygon class="PF02979" points="177,28 177,28 181,40 177,52 177,52" stroke-linejoin="round" width="6" height="24" fill="rgb(204,148,70)" stroke="rgb(163,118,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg663_7)</title>
+			<polygon class=" (ctg663_7)" points="201,25 215,25 215,10 245,40 215,70 215,55 201,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methylase_S (PF01420)
+"Type I restriction modification DNA specificity domain"</title>
+				<rect class="PF01420" x="201" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(94,156,220)" stroke="rgb(75,124,176)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Methylase_S (PF01420)
+"Type I restriction modification DNA specificity domain"</title>
+				<polygon class="PF01420" points="224,28 229,28 241,40 229,52 224,52" stroke-linejoin="round" width="18" height="24" fill="rgb(94,156,220)" stroke="rgb(75,124,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

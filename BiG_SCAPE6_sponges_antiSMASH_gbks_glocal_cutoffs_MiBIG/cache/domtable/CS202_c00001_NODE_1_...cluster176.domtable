@@ -1,0 +1,25 @@
+#                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NAD_binding_4        PF07993.12   257 CS202_c00001_NODE_1_...cluster176_ORF1:gid::pid::loc:2:1817:strand:+ -            604   8.4e-45  152.9   0.0   1   1   2.4e-48   1.1e-44  152.6   0.0     1   255   241   482   241   484 0.90 Male sterility protein
+Epimerase            PF01370.21   241 CS202_c00001_NODE_1_...cluster176_ORF1:gid::pid::loc:2:1817:strand:+ -            604   3.6e-15   56.1   0.0   1   1   1.2e-18   5.5e-15   55.5   0.0     1   196   239   462   239   495 0.83 NAD dependent epimerase/dehydratase family
+AMP-binding_C        PF13193.6     76 CS202_c00001_NODE_1_...cluster176_ORF1:gid::pid::loc:2:1817:strand:+ -            604   1.2e-13   51.8   1.9   1   1   5.2e-17   2.3e-13   50.9   0.8     2    76    34   111    33   111 0.88 AMP-binding enzyme C-terminal domain
+PP-binding           PF00550.25    67 CS202_c00001_NODE_1_...cluster176_ORF1:gid::pid::loc:2:1817:strand:+ -            604     2e-09   37.7   0.0   1   1   2.5e-12   1.1e-08   35.3   0.0     1    67   139   203   137   203 0.93 Phosphopantetheine attachment site
+Ank_2                PF12796.7     83 CS202_c00001_NODE_1_...cluster176_ORF2:gid::pid::loc:1939:2905:strand:+ -            321   6.3e-13   49.1   0.0   1   1   2.3e-11   8.3e-08   32.7   0.0    12    63    68   131    59   146 0.78 Ankyrin repeats (3 copies)
+Ank_4                PF13637.6     55 CS202_c00001_NODE_1_...cluster176_ORF2:gid::pid::loc:1939:2905:strand:+ -            321   4.3e-12   46.3   0.1   1   1   7.5e-10   2.7e-06   27.8   0.0    14    54    66   105    63   106 0.91 Ankyrin repeats (many copies)
+Ank_3                PF13606.6     31 CS202_c00001_NODE_1_...cluster176_ORF2:gid::pid::loc:1939:2905:strand:+ -            321   6.7e-12   44.5   1.1   1   1   3.8e-08   0.00013   22.1   0.0     1    30    85   113    85   114 0.93 Ankyrin repeat
+Ank                  PF00023.30    32 CS202_c00001_NODE_1_...cluster176_ORF2:gid::pid::loc:1939:2905:strand:+ -            321   1.3e-06   28.6   5.0   1   1   5.9e-08   0.00021   21.6   0.1     1    27    85   112    85   117 0.92 Ankyrin repeat
+Ribonuc_L-PSP        PF01042.21   121 CS202_c00001_NODE_1_...cluster176_ORF3:gid::pid::loc:2999:3407:strand:- -            135   2.1e-21   76.1   0.0   1   1   1.4e-25   2.5e-21   75.9   0.0     8   120    16   133    11   134 0.88 Endoribonuclease L-PSP
+Amidohydro_2         PF04909.14   291 CS202_c00001_NODE_1_...cluster176_ORF4:gid::pid::loc:3421:4288:strand:- -            288   1.2e-15   58.1   2.3   1   1   2.3e-19   4.1e-15   56.3   2.3    74   291    55   286     2   286 0.90 Amidohydrolase
+DegT_DnrJ_EryC1      PF01041.17   361 CS202_c00001_NODE_1_...cluster176_ORF5:gid::pid::loc:4284:5595:strand:- -            436     3e-69  234.0   0.0   1   1   4.1e-73   3.7e-69  233.8   0.0     3   305    25   335    23   374 0.92 DegT/DnrJ/EryC1/StrS aminotransferase family
+Beta_elim_lyase      PF01212.21   293 CS202_c00001_NODE_1_...cluster176_ORF5:gid::pid::loc:4284:5595:strand:- -            436   1.5e-05   24.4   0.0   1   1   7.2e-09   6.5e-05   22.4   0.0    28   275    45   289    24   295 0.77 Beta-eliminating lyase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster176.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS202_c00001_NODE_1_...cluster176.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster176.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:46:26 2019
+# [ok]

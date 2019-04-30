@@ -1,0 +1,19 @@
+#                                                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Cytokin-bind         PF09265.10   281 CS211_c00001_NODE_1_...cluster274_ORF1:gid::pid::loc:175:550:strand:+ -            124   0.00011   21.7   0.0   1   1   7.4e-09   0.00013   21.4   0.0   192   274    25   105     8   109 0.74 Cytokinin dehydrogenase 1, FAD and cytokinin binding
+MMPL                 PF03176.15   333 CS211_c00001_NODE_1_...cluster274_ORF2:gid::pid::loc:546:2892:strand:- -            781   2.9e-32  111.9  31.6   1   2   2.2e-22     2e-18   66.5  12.8    70   329   129   409    83   421 0.80 MMPL family
+MMPL                 PF03176.15   333 CS211_c00001_NODE_1_...cluster274_ORF2:gid::pid::loc:546:2892:strand:- -            781   2.9e-32  111.9  31.6   2   2   9.9e-18   8.9e-14   51.2  10.7    87   305   559   771   495   776 0.87 MMPL family
+Sterol-sensing       PF12349.8    153 CS211_c00001_NODE_1_...cluster274_ORF2:gid::pid::loc:546:2892:strand:- -            781   5.4e-11   42.6   0.8   1   1     6e-15   5.4e-11   42.6   0.8     8   139   257   387   251   400 0.86 Sterol-sensing domain of SREBP cleavage-activation
+NHase_alpha          PF02979.16   184 CS211_c00001_NODE_1_...cluster274_ORF3:gid::pid::loc:3096:3351:strand:- -             84     9e-08   31.6   0.0   1   1     6e-12   1.1e-07   31.4   0.0   114   169    18    70    11    80 0.87 Nitrile hydratase, alpha chain
+HlyD_3               PF13437.6    106 CS211_c00001_NODE_1_...cluster274_ORF4:gid::pid::loc:4256:5039:strand:+ -            261   7.4e-08   33.1   0.4   1   1     1e-09   1.8e-05   25.3   0.1     1    81   157   240   157   259 0.88 HlyD family secretion protein
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster274.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS211_c00001_NODE_1_...cluster274.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster274.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:36:32 2019
+# [ok]

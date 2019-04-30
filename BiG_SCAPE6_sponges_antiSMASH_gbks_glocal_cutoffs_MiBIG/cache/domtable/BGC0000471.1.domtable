@@ -1,0 +1,31 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+PatG_C               PF18065.1    115 BGC0000471.1_ORF1:gid::pid:AFZ08002.1:loc:0:2001:strand:+ -            666   1.1e-39  134.9   0.0   1   1   3.1e-43   1.9e-39  134.2   0.0     4   115   551   662   548   662 0.97 PatG C-terminal
+Peptidase_S8         PF00082.22   298 BGC0000471.1_ORF1:gid::pid:AFZ08002.1:loc:0:2001:strand:+ -            666   9.6e-36  123.5   0.0   1   1     3e-39   1.8e-35  122.7   0.0     3   282    14   254    12   305 0.88 Subtilase family
+PatG_D               PF18047.1    111 BGC0000471.1_ORF1:gid::pid:AFZ08002.1:loc:0:2001:strand:+ -            666   9.4e-27   93.6   0.0   1   1   2.8e-30   1.6e-26   92.9   0.0     2   110   390   503   389   504 0.98 PatG Domain
+YcaO                 PF02624.16   323 BGC0000471.1_ORF4:gid::pid:AFZ08005.1:loc:3181:5512:strand:+ -            776   2.1e-97  326.3   0.0   1   1  1.8e-101   3.2e-97  325.7   0.0     1   323   408   739   408   739 0.92 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+Methyltransf_11      PF08241.12    96 BGC0000471.1_ORF6:gid::pid:AFZ08007.1:loc:6007:7849:strand:+ -            613   9.7e-19   67.8   0.0   1   1   1.3e-21   2.5e-18   66.5   0.0     2    96   110   208   109   208 0.97 Methyltransferase domain
+Methyltransf_25      PF13649.6     97 BGC0000471.1_ORF6:gid::pid:AFZ08007.1:loc:6007:7849:strand:+ -            613   4.9e-17   62.4   0.0   1   1   6.9e-20   1.4e-16   61.0   0.0     1    97   108   204   108   204 0.95 Methyltransferase domain
+Methyltransf_31      PF13847.6    152 BGC0000471.1_ORF6:gid::pid:AFZ08007.1:loc:6007:7849:strand:+ -            613   6.8e-14   51.9   0.0   1   1   7.4e-17   1.5e-13   50.8   0.0     2   110   103   209   102   238 0.92 Methyltransferase domain
+Methyltransf_12      PF08242.12    99 BGC0000471.1_ORF6:gid::pid:AFZ08007.1:loc:6007:7849:strand:+ -            613   6.7e-11   42.8   0.0   1   1   8.4e-14   1.7e-10   41.5   0.0     2    99   110   206   109   206 0.88 Methyltransferase domain
+CMAS                 PF02353.20   273 BGC0000471.1_ORF6:gid::pid:AFZ08007.1:loc:6007:7849:strand:+ -            613   8.3e-11   41.7   0.0   1   1   7.8e-14   1.6e-10   40.8   0.0    56   218    98   262    87   281 0.86 Mycolic acid cyclopropane synthetase
+Methyltransf_23      PF13489.6    165 BGC0000471.1_ORF6:gid::pid:AFZ08007.1:loc:6007:7849:strand:+ -            613   1.2e-09   38.2   0.0   1   1   1.3e-12   2.6e-09   37.1   0.0    20   164   102   258    85   259 0.77 Methyltransferase domain
+Ubie_methyltran      PF01209.18   233 BGC0000471.1_ORF6:gid::pid:AFZ08007.1:loc:6007:7849:strand:+ -            613   1.9e-08   34.0   0.0   1   1   1.6e-10   3.3e-07   29.9   0.0    41   151    98   208    86   222 0.93 ubiE/COQ5 methyltransferase family
+MTS                  PF05175.14   169 BGC0000471.1_ORF6:gid::pid:AFZ08007.1:loc:6007:7849:strand:+ -            613   2.7e-06   27.0   0.0   1   1   2.4e-09   4.8e-06   26.2   0.0    31   137   104   208    80   233 0.88 Methyltransferase small domain
+Methyltransf_2       PF00891.18   210 BGC0000471.1_ORF6:gid::pid:AFZ08007.1:loc:6007:7849:strand:+ -            613   2.5e-06   26.9   0.0   1   1   1.9e-09   3.8e-06   26.4   0.0    61   182   103   226    62   255 0.81 O-methyltransferase domain
+PatG_C               PF18065.1    115 BGC0000471.1_ORF8:gid::pid:AFZ08009.1:loc:9091:12970:strand:+ -           1292   8.2e-38  128.9   0.1   1   1     6e-41   2.2e-37  127.6   0.1     2   115  1172  1285  1171  1285 0.98 PatG C-terminal
+HTH_57               PF18679.1    108 BGC0000471.1_ORF8:gid::pid:AFZ08009.1:loc:9091:12970:strand:+ -           1292   9.3e-37  125.7   0.0   1   1   1.2e-39   4.1e-36  123.6   0.0     3   108     4   111     2   111 0.96 ThcOx helix turn helix domain
+PatG_D               PF18047.1    111 BGC0000471.1_ORF8:gid::pid:AFZ08009.1:loc:9091:12970:strand:+ -           1292   3.5e-18   66.1   0.0   1   1   2.5e-21   9.1e-18   64.7   0.0     2   108  1017  1124  1016  1128 0.95 PatG Domain
+Peptidase_S8         PF00082.22   298 BGC0000471.1_ORF8:gid::pid:AFZ08009.1:loc:9091:12970:strand:+ -           1292   1.4e-17   63.9   0.0   1   1   7.1e-21   2.5e-17   63.1   0.0    57   283   688   908   530   924 0.75 Subtilase family
+Nitroreductase       PF00881.24   170 BGC0000471.1_ORF8:gid::pid:AFZ08009.1:loc:9091:12970:strand:+ -           1292   8.6e-12   45.4   0.0   1   1   7.5e-15   2.7e-11   43.8   0.0     1   164   270   464   270   470 0.86 Nitroreductase family
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000471.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000471.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000471.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:53:56 2019
+# [ok]

@@ -1,0 +1,24 @@
+#                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+GAF_2                PF13185.6    138 CS200_c00001_NODE_1_...cluster282_ORF1:gid::pid::loc:0:1002:strand:- -            334   5.1e-14   52.7   0.3   1   1   5.2e-16   2.3e-12   47.4   0.1     2   137    33   171    32   172 0.77 GAF domain
+GAF                  PF01590.26   133 CS200_c00001_NODE_1_...cluster282_ORF1:gid::pid::loc:0:1002:strand:- -            334     1e-08   35.9   0.1   1   1   7.1e-11   3.2e-07   31.0   0.0     1   133    34   171    34   171 0.71 GAF domain
+PAS_8                PF13188.7     67 CS200_c00001_NODE_1_...cluster282_ORF1:gid::pid::loc:0:1002:strand:- -            334   6.5e-05   22.8   0.0   1   1   9.9e-08   0.00044   20.2   0.0     4    45   188   232   185   255 0.73 PAS domain
+Trp_halogenase       PF04820.14   454 CS200_c00001_NODE_1_...cluster282_ORF2:gid::pid::loc:1325:3014:strand:+ -            562     6e-15   55.1   0.1   1   1   1.1e-12   1.9e-08   33.6   0.1   148   353   106   344    92   364 0.70 Tryptophan halogenase
+Chal_sti_synt_N      PF00195.19   225 CS200_c00001_NODE_1_...cluster282_ORF3:gid::pid::loc:3010:4096:strand:+ -            361     1e-22   80.7   0.0   1   1   5.2e-26   2.3e-22   79.5   0.0    16   224    12   209     3   211 0.92 Chalcone and stilbene synthases, N-terminal domain
+Chal_sti_synt_C      PF02797.15   151 CS200_c00001_NODE_1_...cluster282_ORF3:gid::pid::loc:3010:4096:strand:+ -            361   1.3e-22   80.4   0.0   1   1   4.3e-26   1.9e-22   79.9   0.0    11   149   224   360   217   361 0.91 Chalcone and stilbene synthases, C-terminal domain
+ACP_syn_III_C        PF08541.10    90 CS200_c00001_NODE_1_...cluster282_ORF3:gid::pid::loc:3010:4096:strand:+ -            361   1.8e-08   34.4   0.0   1   1   1.8e-11   8.1e-08   32.3   0.0     1    89   263   359   263   360 0.83 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal
+FAE1_CUT1_RppA       PF08392.12   290 CS200_c00001_NODE_1_...cluster282_ORF3:gid::pid::loc:3010:4096:strand:+ -            361   2.8e-08   33.4   0.0   1   1   8.9e-12     4e-08   32.9   0.0    95   206    97   209    47   214 0.90 FAE1/Type III polyketide synthase-like protein
+ICMT                 PF04140.14    94 CS200_c00001_NODE_1_...cluster282_ORF4:gid::pid::loc:4095:4650:strand:+ -            184   8.3e-28   96.7   0.7   1   1   1.6e-31   1.4e-27   95.9   0.7     2    93    71   161    70   162 0.97 Isoprenylcysteine carboxyl methyltransferase (ICMT) family
+PEMT                 PF04191.13   106 CS200_c00001_NODE_1_...cluster282_ORF4:gid::pid::loc:4095:4650:strand:+ -            184   1.6e-07   31.6   0.3   1   1   3.3e-11     3e-07   30.8   0.2    10    99    74   161    63   163 0.78 Phospholipid methyltransferase
+GPP34                PF05719.11   203 CS200_c00001_NODE_1_...cluster282_ORF5:gid::pid::loc:4649:5264:strand:+ -            205   9.2e-29  100.9   4.6   1   1   6.2e-33   1.1e-28  100.7   4.6     2   196     5   202     4   205 0.87 Golgi phosphoprotein 3 (GPP34)
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS200_c00001_NODE_1_...cluster282.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS200_c00001_NODE_1_...cluster282.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS200_c00001_NODE_1_...cluster282.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:31:59 2019
+# [ok]

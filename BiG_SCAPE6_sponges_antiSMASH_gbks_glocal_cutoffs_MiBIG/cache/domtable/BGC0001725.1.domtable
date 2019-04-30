@@ -1,0 +1,21 @@
+#                                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                       accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                             -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+HD_2                 PF12917.7    182 BGC0001725.1_ORF1:gid:oxsA:pid:BAA21630.1:loc:1721:2306:strand:+ -            194   4.2e-35  121.1   0.2   1   1   7.9e-39   4.7e-35  121.0   0.2     3   182     5   183     3   183 0.95 HD containing hydrolase-like enzyme
+HD_3                 PF13023.6    165 BGC0001725.1_ORF1:gid:oxsA:pid:BAA21630.1:loc:1721:2306:strand:+ -            194   1.1e-08   35.1   0.1   1   1   2.4e-12   1.4e-08   34.8   0.1     3   150    10   158     8   173 0.70 HD domain
+HD                   PF01966.22   122 BGC0001725.1_ORF1:gid:oxsA:pid:BAA21630.1:loc:1721:2306:strand:+ -            194   3.5e-06   27.2   0.2   1   1   8.8e-10   5.3e-06   26.7   0.2     2    93    29   124    28   137 0.79 HD domain
+B12-binding          PF02310.19   121 BGC0001725.1_ORF2:gid:oxsB:pid:BAA21631.1:loc:2317:4552:strand:+ -            744   6.3e-08   32.7   0.0   1   1   7.8e-12   1.4e-07   31.6   0.0    20   120   143   248   132   249 0.84 B12 binding domain
+HD                   PF01966.22   122 BGC0001725.1_ORF3:gid:oxrB:pid:BAA21632.1:loc:4566:5544:strand:- -            325     9e-11   42.1   0.5   1   1     1e-14   1.8e-10   41.1   0.5     1   121    49   152    49   153 0.89 HD domain
+Pentapeptide         PF00805.22    40 BGC0001725.1_ORF4:gid:oxrA:pid:BAA21633.1:loc:5825:6383:strand:- -            185     9e-18   63.6   8.4   1   2     3e-12   1.8e-08   33.8   1.1     5    38    96   129    95   129 0.75 Pentapeptide repeats (8 copies)
+Pentapeptide         PF00805.22    40 BGC0001725.1_ORF4:gid:oxrA:pid:BAA21633.1:loc:5825:6383:strand:- -            185     9e-18   63.6   8.4   2   2   2.3e-14   1.4e-10   40.6   1.1     3    38   114   149   112   149 0.76 Pentapeptide repeats (8 copies)
+Pentapeptide_4       PF13599.6     77 BGC0001725.1_ORF4:gid:oxrA:pid:BAA21633.1:loc:5825:6383:strand:- -            185   1.4e-06   28.4   0.0   1   1   4.3e-10   2.6e-06   27.5   0.0    12    69    93   151    79   158 0.74 Pentapeptide repeats (9 copies)
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001725.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001725.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001725.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:35:41 2019
+# [ok]

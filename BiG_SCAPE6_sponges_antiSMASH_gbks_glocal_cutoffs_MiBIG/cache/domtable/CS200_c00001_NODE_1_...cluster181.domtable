@@ -1,0 +1,21 @@
+#                                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Amidohydro_3         PF07969.11   473 CS200_c00001_NODE_1_...cluster181_ORF1:gid::pid::loc:237:1887:strand:+ -            549     5e-35  121.9   0.4   1   2   3.3e-25   2.9e-21   76.5   0.0     1   243    40   301    40   340 0.86 Amidohydrolase family
+Amidohydro_3         PF07969.11   473 CS200_c00001_NODE_1_...cluster181_ORF1:gid::pid::loc:237:1887:strand:+ -            549     5e-35  121.9   0.4   2   2   2.5e-15   2.3e-11   43.9   0.2   358   473   413   535   370   535 0.90 Amidohydrolase family
+Pro_CA               PF00484.19   156 CS200_c00001_NODE_1_...cluster181_ORF2:gid::pid::loc:1879:2410:strand:+ -            176   4.2e-15   56.4   0.1   1   1     6e-18   1.1e-13   51.8   0.1     2    73    44   112    43   171 0.78 Carbonic anhydrase
+PhzC-PhzF            PF02567.16   283 CS200_c00001_NODE_1_...cluster181_ORF3:gid::pid::loc:2584:3481:strand:+ -            298   1.2e-30  106.9   0.0   1   1   8.7e-35   1.6e-30  106.6   0.0     1   178     6   177     6   195 0.84 Phenazine biosynthesis-like protein
+Trp_halogenase       PF04820.14   454 CS200_c00001_NODE_1_...cluster181_ORF4:gid::pid::loc:3558:4083:strand:- -            174   5.8e-08   32.0   0.0   1   1   3.9e-12     7e-08   31.7   0.0   303   402    17   118     3   130 0.85 Tryptophan halogenase
+NHase_alpha          PF02979.16   184 CS200_c00001_NODE_1_...cluster181_ORF6:gid::pid::loc:5000:5252:strand:+ -             83   4.8e-08   32.5   0.0   1   1   3.2e-12   5.8e-08   32.3   0.0   115   168    19    73    14    80 0.90 Nitrile hydratase, alpha chain
+YcaO                 PF02624.16   323 CS200_c00001_NODE_1_...cluster181_ORF8:gid::pid::loc:6783:9063:strand:- -            759   4.2e-89  299.0   1.2   1   1   3.9e-93     7e-89  298.3   1.2     2   323   388   722   387   722 0.88 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+GlnE                 PF03710.15   251 CS200_c00001_NODE_1_...cluster181_ORF9:gid::pid::loc:9131:10160:strand:- -            342   0.00011   21.7   0.1   1   1     1e-08   0.00018   21.0   0.1    58   155    19   110     4   135 0.83 Glutamate-ammonia ligase adenylyltransferase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS200_c00001_NODE_1_...cluster181.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS200_c00001_NODE_1_...cluster181.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS200_c00001_NODE_1_...cluster181.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:41:56 2019
+# [ok]

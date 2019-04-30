@@ -1,0 +1,18 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AICARFT_IMPCHas      PF01808.18   296 BGC0000494.1_ORF1:gid::pid:ABG48501.1:loc:169:1330:strand:+ -            386  5.7e-116  387.1   0.8   1   1  3.8e-120  6.8e-116  386.9   0.8     1   296     5   320     5   320 0.95 AICARFT/IMPCHase bienzyme
+LytTR                PF04397.15    98 BGC0000494.1_ORF2:gid::pid:ABG48502.1:loc:1382:2138:strand:- -            251   7.4e-21   74.2   2.0   1   1   7.8e-25   1.4e-20   73.3   2.0     3    97   151   242   150   243 0.94 LytTr DNA-binding domain
+Bacteriocin_IId      PF09221.10    67 BGC0000494.1_ORF3:gid:ublA:pid:ABG48503.1:loc:2437:2668:strand:+ -             76   4.7e-24   84.3  13.7   1   1   2.9e-28   5.3e-24   84.2  13.7     1    67     8    76     8    76 0.99 Bacteriocin class IId cyclical uberolysin-like
+SpoIIM               PF01944.17   156 BGC0000494.1_ORF5:gid:ublC:pid:ABG48505.1:loc:4345:4891:strand:+ -            181   1.1e-17   64.5  20.2   1   1   7.9e-22   1.4e-17   64.1  20.2     2   153    17   171    16   173 0.84 Stage II sporulation protein M
+ABC_tran             PF00005.27   137 BGC0000494.1_ORF6:gid:ublD:pid:ABG48506.1:loc:4875:5532:strand:+ -            218   1.1e-15   58.4   0.0   1   1   1.7e-19   1.5e-15   57.9   0.0     2   135    23   163    22   165 0.93 ABC transporter
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000494.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000494.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000494.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:51:15 2019
+# [ok]

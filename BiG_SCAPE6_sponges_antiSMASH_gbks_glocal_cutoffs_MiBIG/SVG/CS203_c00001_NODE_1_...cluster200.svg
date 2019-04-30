@@ -1,0 +1,51 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="232.5" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="222.5" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg12818_1)</title>
+			<polygon class=" (ctg12818_1)" points="17,10 26,40 17,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NHase_alpha (PF02979)
+"Nitrile hydratase, alpha chain"</title>
+				<polygon class="PF02979" points="17,28 18,28 22,40 18,52 17,52" stroke-linejoin="round" width="6" height="24" fill="rgb(204,148,70)" stroke="rgb(163,118,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg12818_2)</title>
+			<polygon class=" (ctg12818_2)" points="29,25 73,25 73,10 103,40 73,70 73,55 29,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YcaO (PF02624)
+"YcaO cyclodehydratase, ATP-ad Mg2+-binding"</title>
+				<polygon class="PF02624" points="66,28 87,28 99,40 99,40 87,52 66,52" stroke-linejoin="round" width="33" height="24" fill="rgb(76,84,185)" stroke="rgb(60,67,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg12818_3)</title>
+			<polygon class=" (ctg12818_3)" points="106,25 117,25 117,10 147,40 117,70 117,55 106,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Trp_halogenase (PF04820)
+"Tryptophan halogenase"</title>
+				<rect class="PF04820" x="106" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(179,74,194)" stroke="rgb(143,59,155)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Trp_halogenase (PF04820)
+"Tryptophan halogenase"</title>
+				<polygon class="PF04820" points="115,28 131,28 141,38 141,42 131,52 115,52" stroke-linejoin="round" width="26" height="24" fill="rgb(179,74,194)" stroke="rgb(143,59,155)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg12818_4)</title>
+			<polygon class=" (ctg12818_4)" points="221,25 178,25 178,10 148,40 178,70 178,55 221,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>VWA (PF00092)
+"von Willebrand factor type A domain"</title>
+				<rect class="PF00092" x="178" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(199,215,59)" stroke="rgb(159,172,47)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>VWA_3 (PF13768)
+"von Willebrand factor type A domain"</title>
+				<rect class="PF13768" x="215" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(69,203,208)" stroke="rgb(55,162,166)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

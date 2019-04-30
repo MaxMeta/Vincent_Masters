@@ -1,0 +1,22 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Chal_sti_synt_N      PF00195.19   225 CS204_c00001_NODE_1_...cluster197_ORF2:gid::pid::loc:455:1529:strand:+ -            357   3.2e-21   75.8   0.0   1   1   1.7e-24   6.1e-21   74.9   0.0    13   222     9   207     2   210 0.89 Chalcone and stilbene synthases, N-terminal domain
+Chal_sti_synt_C      PF02797.15   151 CS204_c00001_NODE_1_...cluster197_ORF2:gid::pid::loc:455:1529:strand:+ -            357   6.1e-18   65.3   0.0   1   1   2.9e-21     1e-17   64.5   0.0    11   148   224   355   219   356 0.86 Chalcone and stilbene synthases, C-terminal domain
+ACP_syn_III_C        PF08541.10    90 CS204_c00001_NODE_1_...cluster197_ORF2:gid::pid::loc:455:1529:strand:+ -            357   7.2e-12   45.3   0.0   1   1   7.3e-15   2.6e-11   43.5   0.0     1    89   263   355   263   356 0.90 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal
+FAE1_CUT1_RppA       PF08392.12   290 CS204_c00001_NODE_1_...cluster197_ORF2:gid::pid::loc:455:1529:strand:+ -            357   1.7e-10   40.7   0.0   1   1   7.3e-14   2.6e-10   40.1   0.0    95   206    97   209    67   214 0.86 FAE1/Type III polyketide synthase-like protein
+ACP_syn_III          PF08545.10    80 CS204_c00001_NODE_1_...cluster197_ORF2:gid::pid::loc:455:1529:strand:+ -            357   4.4e-05   23.2   0.6   1   1   1.2e-08   4.4e-05   23.2   0.6     6    65   146   210   143   220 0.76 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III
+ICMT                 PF04140.14    94 CS204_c00001_NODE_1_...cluster197_ORF3:gid::pid::loc:1528:2068:strand:+ -            179   6.4e-26   90.6   0.3   1   1   1.2e-29   1.1e-25   89.9   0.3     3    93    72   161    70   162 0.97 Isoprenylcysteine carboxyl methyltransferase (ICMT) family
+PEMT                 PF04191.13   106 CS204_c00001_NODE_1_...cluster197_ORF3:gid::pid::loc:1528:2068:strand:+ -            179   3.5e-10   40.2   0.0   1   1   6.1e-14   5.4e-10   39.6   0.0    12   104    73   166    64   168 0.76 Phospholipid methyltransferase
+Sulfotransfer_3      PF13469.6    217 CS204_c00001_NODE_1_...cluster197_ORF5:gid::pid::loc:2692:3748:strand:+ -            351   1.5e-15   58.2   0.3   1   1     2e-11   1.8e-07   31.8   0.2     1   143    10   191    10   212 0.66 Sulfotransferase family
+Sulfotransfer_1      PF00685.27   267 CS204_c00001_NODE_1_...cluster197_ORF5:gid::pid::loc:2692:3748:strand:+ -            351   1.5e-11   44.3   0.0   1   1   5.2e-13   4.7e-09   36.1   0.0   101   195   170   300   164   312 0.74 Sulfotransferase domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS204_c00001_NODE_1_...cluster197.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS204_c00001_NODE_1_...cluster197.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS204_c00001_NODE_1_...cluster197.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:43:12 2019
+# [ok]

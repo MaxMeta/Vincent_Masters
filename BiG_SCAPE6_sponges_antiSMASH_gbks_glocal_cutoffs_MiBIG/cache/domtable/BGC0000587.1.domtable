@@ -1,0 +1,26 @@
+#                                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                       accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                             -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DUF1205              PF06722.12    95 BGC0000587.1_ORF1:gid:mchA:pid:CAG25570.1:loc:1762:2881:strand:+ -            372   1.7e-29  101.8   0.1   1   1   3.6e-33   3.2e-29  100.9   0.1     1    95   164   259   164   259 0.98 Protein of unknown function (DUF1205)
+UDPGT                PF00201.18   499 BGC0000587.1_ORF1:gid:mchA:pid:CAG25570.1:loc:1762:2881:strand:+ -            372     7e-07   28.4   0.0   1   1   3.9e-10   3.5e-06   26.1   0.0   319   396   253   328   209   336 0.89 UDP-glucoronosyl and UDP-glucosyl transferase
+Esterase             PF00756.20   251 BGC0000587.1_ORF2:gid:mchS1:pid:CAG25571.1:loc:3029:4295:strand:- -            421   3.4e-28   98.9   0.0   1   1   5.8e-32   5.2e-28   98.4   0.0     6   250   189   409   184   410 0.94 Putative esterase
+DUF3327              PF11806.8    122 BGC0000587.1_ORF2:gid:mchS1:pid:CAG25571.1:loc:3029:4295:strand:- -            421   2.4e-26   92.8   0.0   1   1   4.5e-30   4.1e-26   92.1   0.0     1   122    55   168    55   168 0.87 Domain of unknown function (DUF3327)
+HlyC                 PF02794.16   127 BGC0000587.1_ORF10:gid:mchD:pid:CAJ44957.1:loc:8388:8841:strand:+ -            150   5.9e-10   39.1   0.0   1   1   3.8e-14   6.9e-10   38.9   0.0     6   101    24   121    19   141 0.78 RTX toxin acyltransferase family
+HlyD_3               PF13437.6    106 BGC0000587.1_ORF11:gid:mchE:pid:CAJ44958.1:loc:8993:10268:strand:+ -            424   5.1e-16   59.3   0.3   1   1   2.7e-17   9.5e-14   52.0   0.0     2    95   260   357   259   367 0.89 HlyD family secretion protein
+HlyD                 PF00529.20    80 BGC0000587.1_ORF11:gid:mchE:pid:CAJ44958.1:loc:8993:10268:strand:+ -            424   1.6e-13   50.4   0.0   1   1   5.8e-17   2.1e-13   50.0   0.0    12    79    47   397    33   398 0.81 HlyD membrane-fusion protein of T1SS
+HlyD_D23             PF16576.5    214 BGC0000587.1_ORF11:gid:mchE:pid:CAJ44958.1:loc:8993:10268:strand:+ -            424   3.5e-13   49.3   1.8   1   1     5e-13   1.8e-09   37.1   0.4    59   184   198   338   183   345 0.81 Barrel-sandwich domain of CusB or HlyD membrane-fusion
+ABC_membrane         PF00664.23   274 BGC0000587.1_ORF12:gid:mchF:pid:CAJ44959.1:loc:10260:12357:strand:+ -            698   6.3e-47  160.5  17.6   1   1   1.9e-50   8.6e-47  160.1  17.6     4   272   179   444   176   446 0.98 ABC transporter transmembrane region
+Peptidase_C39        PF03412.15   133 BGC0000587.1_ORF12:gid:mchF:pid:CAJ44959.1:loc:10260:12357:strand:+ -            698   1.3e-39  135.1   0.0   1   1   4.9e-43   2.2e-39  134.3   0.0     2   132    21   149    20   150 0.98 Peptidase C39 family
+ABC_tran             PF00005.27   137 BGC0000587.1_ORF12:gid:mchF:pid:CAJ44959.1:loc:10260:12357:strand:+ -            698   1.2e-32  113.3   0.0   1   1   4.3e-36   1.9e-32  112.6   0.0     3   137   511   658   509   658 0.94 ABC transporter
+Peptidase_C70        PF12385.8    145 BGC0000587.1_ORF12:gid:mchF:pid:CAJ44959.1:loc:10260:12357:strand:+ -            698   5.1e-05   23.3   0.0   1   1   3.4e-08   0.00015   21.7   0.0     5   133    19   128    15   140 0.76 Papain-like cysteine protease AvrRpt2
+MccV                 PF17508.2    104 BGC0000587.1_ORF14:gid:mcmA__truncated_:pid:CAJ44961.1:loc:12609:12831:strand:+ -             73   3.3e-13   50.1   0.6   1   1     2e-17   3.6e-13   50.0   0.6     1    70     1    70     1    73 0.94 Microcin V bacteriocin
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000587.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000587.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000587.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:46:17 2019
+# [ok]

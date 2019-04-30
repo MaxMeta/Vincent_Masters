@@ -1,0 +1,73 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="211.56666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="201.56666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg14398_1)</title>
+			<polygon class=" (ctg14398_1)" points="11,40 20,10 20,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg14398_2)</title>
+			<polygon class=" (ctg14398_2)" points="20,40 48,10 48,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>N6_N4_Mtase (PF01555)
+"DNA methylase"</title>
+				<polygon class="PF01555" points="24,40 35,28 45,28 45,52 35,52" stroke-linejoin="round" width="22" height="24" fill="rgb(54,198,162)" stroke="rgb(43,158,129)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg14398_3)</title>
+			<polygon class=" (ctg14398_3)" points="49,40 54,10 54,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg14398_4)</title>
+			<polygon class=" (ctg14398_4)" points="85,25 85,25 85,10 55,40 85,70 85,55 85,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DDE_Tnp_IS1595 (PF12762)
+"ISXO2-like transposase domain"</title>
+				<polygon class="PF12762" points="59,40 71,28 72,28 72,52 71,52" stroke-linejoin="round" width="14" height="24" fill="rgb(211,88,85)" stroke="rgb(168,70,68)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Zn_Tnp_IS1595 (PF12760)
+"Transposase zinc-ribbon domain"</title>
+				<rect class="PF12760" x="79" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(211,61,128)" stroke="rgb(168,48,102)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg14398_5)</title>
+			<polygon class=" (ctg14398_5)" points="127,25 119,25 119,10 89,40 119,70 119,55 127,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TPP_enzyme_C (PF02775)
+"Thiamine pyrophosphate enzyme, C-terminal TPP binding domain"</title>
+				<polygon class="PF02775" points="93,40 105,28 105,28 105,52 105,52 93,40" stroke-linejoin="round" width="12" height="24" fill="rgb(156,179,45)" stroke="rgb(124,143,36)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TPP_enzyme_N (PF02776)
+"Thiamine pyrophosphate enzyme, N-terminal TPP binding domain"</title>
+				<rect class="PF02776" x="110" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(55,81,185)" stroke="rgb(44,64,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg14398_6)</title>
+			<polygon class=" (ctg14398_6)" points="185,25 161,25 161,10 131,40 161,70 161,55 185,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NTP_transf_3 (PF12804)
+"MobA-like NTP transferase domain"</title>
+				<polygon class="PF12804" points="141,34 147,28 154,28 154,52 147,52 141,46" stroke-linejoin="round" width="13" height="24" fill="rgb(52,209,196)" stroke="rgb(41,167,156)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PEP_mutase (PF13714)
+"Phosphoenolpyruvate phosphomutase"</title>
+				<rect class="PF13714" x="159" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(215,91,155)" stroke="rgb(172,72,123)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg14398_7)</title>
+			<polygon class=" (ctg14398_7)" points="185,40 200,10 200,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4143 (PF13635)
+"Domain of unknown function (DUF4143)"</title>
+				<polygon class="PF13635" points="188,40 194,28 200,28 200,52 194,52 188,40" stroke-linejoin="round" width="12" height="24" fill="rgb(119,89,210)" stroke="rgb(95,71,168)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

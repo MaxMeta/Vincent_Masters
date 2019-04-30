@@ -1,0 +1,28 @@
+# STOCKHOLM 1.0
+
+CS202_c00001_NODE_1_...cluster050_ORF4:gid::pid::loc:2346:3636:strand:-:13:236            -AVIADDLTGSCDTAAQFCRYGMRVAMTgLSAPDL.gPDLDLLVVNTASRGLPVERSRQVAARSCRSLLRLGCRP-VYK---KIDSTLKGPWCQEVAAVMAVV-RPdlAIVAPAFPAWGRTSRRGRLLLDSRPPPPRPARGAGPSGIDSGDLLGRLRAEFGSQVELLRRDLLRRPPAVVEKHIQTARRKGHRVLLFDIES
+#=GR CS202_c00001_NODE_1_...cluster050_ORF4:gid::pid::loc:2346:3636:strand:-:13:236    PP .59*************************9944444.777999******************************985.***...*********************.4556********************************************************************************************
+CS200_c00001_NODE_1_...cluster187_ORF5:gid::pid::loc:8545:9835:strand:+:13:236            -AVIADDLTGSCDTAAQFCRYGMRVAMTgLSAPDL.gPDLDLLVVNTASRGLPVERSRQVAARSCRSLLRLGCRP-VYK---KIDSTLKGPWCQEVAAVMAVV-RPdlAIVAPAFPAWGRTSRGGRLLLDSRPPPPRPARGAGPSGIDSGDLLGRLRAEFGSQVELLRRDLLRRPPAVVEKHIQTARRKGHRVLLFDIES
+#=GR CS200_c00001_NODE_1_...cluster187_ORF5:gid::pid::loc:8545:9835:strand:+:13:236    PP .59*************************9944444.777999******************************985.***...*********************.4556********************************************************************************************
+CS783_c00001_NODE_1_...cluster021_ORF18:gid::pid::loc:29938:31228:strand:+:13:236         -AVIADDLTGSCDTAAQFCRYGMRVAMT.GPSAPDlgPDLDLLVVNTASRGLPVERSRQVAALAARSLLSSGCRP-VYK---KIDSTLKGPWCQELAAVMAVV-RPdlAIVAPAFPAWGRTSRGGRLLLDGRPPPPRPARGAGPSGTDSGNLLGRLRAVFGSQVELLRRDLLRRPPAVIEKQIQAARRKGHRVLLFDVES
+#=GR CS783_c00001_NODE_1_...cluster021_ORF18:gid::pid::loc:29938:31228:strand:+:13:236 PP .59************************9.6333336777999******************************985.***...*********************.4556********************************************************************************************
+CS204_c00001_NODE_1_...cluster018_ORF13:gid::pid::loc:13342:14632:strand:-:13:236         -AVMADDLTGSCDTAAQFCRYGMRVAMTgA-SAPDlgPDLDLLVVNTASRGLAFERARQVAAGSARSLLRSGS-RPVYK---KIDSTLKGPWCQELAAVMAVV-RPdlAIVAPAFPAWGRTSRGGRLLLEGRRPPPRPARGAGPSGIDSGDLLGRLRAEFGFQVELLRRDLLRRPPAVVEKHIRTARRKGHRVLLFDIES
+#=GR CS204_c00001_NODE_1_...cluster018_ORF13:gid::pid::loc:13342:14632:strand:-:13:236 PP .589***********************955.22225777999**************************99995.57***...*********************.4556***********************9999999999999*******************************999999*******************
+CS203_c00001_NODE_1_...cluster031_ORF25:gid::pid::loc:32436:33726:strand:+:13:236         -AVMADDLTGSCDTAAQFCRYGMRVAMTgA-SAPDlgPDLDLLVVNTASRGLAFERARQVAAGSARSLLRSGS-RPVYK---KIDSTLKGPWCQELAAVMAVV-RPdlAIVAPAFPAWGRTSRGGRLLLEGRRPPPRPARGAGPSGIDSGDLLGRLRAEFGFQVELLRRDLLRRPPAVVEKHIRTARRKGHRVLLFDIES
+#=GR CS203_c00001_NODE_1_...cluster031_ORF25:gid::pid::loc:32436:33726:strand:+:13:236 PP .589***********************955.22225777999**************************99995.57***...*********************.4556***********************9999999999999*******************************999999*******************
+#=GC PP_cons                                                                              .59************************9.643333..77999**************************99997857***...*********************.45..*************************9999***************************************************************
+#=GC RF                                                                                   xxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CS202_c00001_NODE_1_...cluster050_ORF4:gid::pid::loc:2346:3636:strand:-:13:236            DSELERLALA---GRRLDEAVLWVGSAGLAR--fl
+#=GR CS202_c00001_NODE_1_...cluster050_ORF4:gid::pid::loc:2346:3636:strand:-:13:236    PP **********...4457899*********97..56
+CS200_c00001_NODE_1_...cluster187_ORF5:gid::pid::loc:8545:9835:strand:+:13:236            DGELERLALA---GRRLDEAVLWVGSAGLAR--fl
+#=GR CS200_c00001_NODE_1_...cluster187_ORF5:gid::pid::loc:8545:9835:strand:+:13:236    PP **********...4457899*********97..56
+CS783_c00001_NODE_1_...cluster021_ORF18:gid::pid::loc:29938:31228:strand:+:13:236         DSDLERLALA---GRRLDEAVLWVGSAGLAR--fl
+#=GR CS783_c00001_NODE_1_...cluster021_ORF18:gid::pid::loc:29938:31228:strand:+:13:236 PP **********...4457899*********97..56
+CS204_c00001_NODE_1_...cluster018_ORF13:gid::pid::loc:13342:14632:strand:-:13:236         DSDLERLALT---GRRLDEAVLWVGSAGLAR--fl
+#=GR CS204_c00001_NODE_1_...cluster018_ORF13:gid::pid::loc:13342:14632:strand:-:13:236 PP *********9...4457899*********97..56
+CS203_c00001_NODE_1_...cluster031_ORF25:gid::pid::loc:32436:33726:strand:+:13:236         DSDLERLALT---GRRLDEAVLWVGSAGLAR--fl
+#=GR CS203_c00001_NODE_1_...cluster031_ORF25:gid::pid::loc:32436:33726:strand:+:13:236 PP *********9...4457899*********97..56
+#=GC PP_cons                                                                              **********...4457899*********97....
+#=GC RF                                                                                   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

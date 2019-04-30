@@ -1,0 +1,21 @@
+#                                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SspB                 PF04386.13   160 CS211_c00001_NODE_1_...cluster232_ORF1:gid::pid::loc:543:1032:strand:- -            162   3.6e-42  144.0   0.0   1   1   2.3e-46   4.2e-42  143.8   0.0     2   129    11   138    10   154 0.87 Stringent starvation protein B
+DUF1849              PF08904.11   249 CS211_c00001_NODE_1_...cluster232_ORF2:gid::pid::loc:1457:2264:strand:+ -            268   1.3e-44  152.6   0.0   1   1   8.6e-49   1.5e-44  152.4   0.0     2   247    24   262    23   264 0.96 Domain of unknown function (DUF1849)
+MMPL                 PF03176.15   333 CS211_c00001_NODE_1_...cluster232_ORF3:gid::pid::loc:2473:4840:strand:+ -            788   4.4e-34  117.9  25.3   1   2   1.2e-21   7.2e-18   64.6   4.5    64   316   113   396    56   422 0.76 MMPL family
+MMPL                 PF03176.15   333 CS211_c00001_NODE_1_...cluster232_ORF3:gid::pid::loc:2473:4840:strand:+ -            788   4.4e-34  117.9  25.3   2   2   7.4e-20   4.4e-16   58.7  12.9   108   319   578   781   553   786 0.82 MMPL family
+Sterol-sensing       PF12349.8    153 CS211_c00001_NODE_1_...cluster232_ORF3:gid::pid::loc:2473:4840:strand:+ -            788   3.2e-14   53.1   7.8   1   1   7.8e-16   4.6e-12   46.0   0.2     7   137   255   384   249   397 0.88 Sterol-sensing domain of SREBP cleavage-activation
+Patched              PF02460.18   811 CS211_c00001_NODE_1_...cluster232_ORF3:gid::pid::loc:2473:4840:strand:+ -            788   1.2e-08   33.5  15.0   1   1     3e-11   1.8e-07   29.7   0.6   257   382   257   382   248   394 0.94 Patched family
+NHase_alpha          PF02979.16   184 CS211_c00001_NODE_1_...cluster232_ORF4:gid::pid::loc:5000:5252:strand:+ -             83   1.5e-09   37.4   0.1   1   1   1.7e-11     3e-07   29.9   0.0   115   168    19    73    14    80 0.90 Nitrile hydratase, alpha chain
+Cys_Met_Meta_PP      PF01053.20   382 CS211_c00001_NODE_1_...cluster232_ORF5:gid::pid::loc:5420:5855:strand:- -            144   1.6e-39  135.5   0.0   1   1     1e-43   1.8e-39  135.4   0.0   252   381     1   130     1   131 0.99 Cys/Met metabolism PLP-dependent enzyme
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster232.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS211_c00001_NODE_1_...cluster232.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster232.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:37:57 2019
+# [ok]

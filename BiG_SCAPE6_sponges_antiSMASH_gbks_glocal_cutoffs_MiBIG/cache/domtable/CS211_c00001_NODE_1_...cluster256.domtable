@@ -1,0 +1,20 @@
+#                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ketoacyl-synt        PF00109.26   253 CS211_c00001_NODE_1_...cluster256_ORF1:gid::pid::loc:0:3264:strand:+ -           1087   6.4e-64  216.0   2.7   1   1   3.9e-67   1.4e-63  214.8   2.7    61   253     2   194     1   194 0.94 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.22   118 CS211_c00001_NODE_1_...cluster256_ORF1:gid::pid::loc:0:3264:strand:+ -           1087   5.9e-41  139.2   0.3   1   1   4.2e-44   1.5e-40  137.9   0.3     1   117   202   319   202   320 0.99 Beta-ketoacyl synthase, C-terminal domain
+PS-DH                PF14765.6    298 CS211_c00001_NODE_1_...cluster256_ORF1:gid::pid::loc:0:3264:strand:+ -           1087   1.6e-37  129.3   0.6   1   1     7e-41   2.5e-37  128.7   0.6     2   296   787  1080   786  1082 0.86 Polyketide synthase dehydratase
+Acyl_transf_1        PF00698.21   319 CS211_c00001_NODE_1_...cluster256_ORF1:gid::pid::loc:0:3264:strand:+ -           1087   1.9e-20   73.6   0.0   1   1   2.9e-23     1e-19   71.2   0.0     2   127   499   624   498   631 0.92 Acyl transferase domain
+KAsynt_C_assoc       PF16197.5    112 CS211_c00001_NODE_1_...cluster256_ORF1:gid::pid::loc:0:3264:strand:+ -           1087   1.8e-12   47.7   0.0   1   1   1.3e-15   4.7e-12   46.4   0.0     1    89   322   439   322   465 0.83 Ketoacyl-synthetase C-terminal extension
+PP-binding           PF00550.25    67 CS211_c00001_NODE_1_...cluster256_ORF2:gid::pid::loc:3460:3715:strand:+ -             84   4.1e-08   33.4   0.0   1   1   2.7e-12   4.9e-08   33.2   0.0    23    67    36    80    21    80 0.91 Phosphopantetheine attachment site
+ACR_tran             PF00873.19  1021 CS211_c00001_NODE_1_...cluster256_ORF3:gid::pid::loc:3879:5694:strand:+ -            605   6.4e-90  302.2   0.0   1   1     4e-94   7.1e-90  302.1   0.0     2   587    21   604    20   605 0.93 AcrB/AcrD/AcrF family
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster256.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS211_c00001_NODE_1_...cluster256.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster256.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:33:27 2019
+# [ok]

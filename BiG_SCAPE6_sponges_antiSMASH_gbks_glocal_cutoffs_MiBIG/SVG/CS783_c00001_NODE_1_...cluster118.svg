@@ -1,0 +1,59 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="345.46666666666664" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="335.46666666666664" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg5118_1)</title>
+			<polygon class=" (ctg5118_1)" points="10,10 20,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<rect class="PF00005" x="10" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5118_2)</title>
+			<polygon class=" (ctg5118_2)" points="21,25 88,25 88,10 118,40 88,70 88,55 21,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="63" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="96,28 102,28 110,36 110,44 102,52 96,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5118_3)</title>
+			<polygon class=" (ctg5118_3)" points="119,25 132,25 132,10 162,40 132,70 132,55 119,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg5118_4)</title>
+			<polygon class=" (ctg5118_4)" points="165,25 203,25 203,10 233,40 203,70 203,55 165,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FA_desaturase (PF00487)
+"Fatty acid desaturase"</title>
+				<rect class="PF00487" x="176" y="28" stroke-linejoin="round" width="23" height="24" fill="rgb(104,51,205)" stroke="rgb(83,40,164)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GlnE (PF03710)
+"Glutamate-ammonia ligase adenylyltransferase"</title>
+				<polygon class="PF03710" points="208,28 216,28 219,31 219,49 216,52 208,52" stroke-linejoin="round" width="11" height="24" fill="rgb(81,188,126)" stroke="rgb(64,150,100)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5118_5)</title>
+			<polygon class=" (ctg5118_5)" points="235,25 280,25 280,10 310,40 280,70 280,55 235,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YcaO (PF02624)
+"YcaO cyclodehydratase, ATP-ad Mg2+-binding"</title>
+				<polygon class="PF02624" points="273,28 294,28 306,40 306,40 294,52 273,52" stroke-linejoin="round" width="33" height="24" fill="rgb(76,84,185)" stroke="rgb(60,67,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5118_6)</title>
+			<polygon class=" (ctg5118_6)" points="312,10 335,40 312,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

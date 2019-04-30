@@ -1,0 +1,38 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Aldo_ket_red         PF00248.21   294 BGC0001578.1_ORF1:gid::pid:EED21090.1:loc:0:705:strand:- -            211   1.2e-28  100.1   0.0   1   1   7.7e-33   1.4e-28  100.0   0.0    83   249    40   211    13   211 0.90 Aldo/keto reductase family
+NAD_binding_8        PF13450.6     68 BGC0001578.1_ORF2:gid::pid:EED21091.1:loc:2000:3638:strand:- -            525   9.5e-09   35.4   0.2   1   1   7.4e-12   4.4e-08   33.2   0.4     1    52    42    95    42   108 0.87 NAD(P)-binding Rossmann-like domain
+FAD_oxidored         PF12831.7    433 BGC0001578.1_ORF2:gid::pid:EED21091.1:loc:2000:3638:strand:- -            525     1e-07   31.7   0.2   1   1   2.6e-11   1.5e-07   31.1   0.2     1    38    39    76    39   108 0.92 FAD dependent oxidoreductase
+FAD_binding_2        PF00890.24   417 BGC0001578.1_ORF2:gid::pid:EED21091.1:loc:2000:3638:strand:- -            525   2.5e-06   26.9   0.2   1   1   5.9e-10   3.5e-06   26.3   0.2     1    38    39    76    39    79 0.96 FAD binding domain
+Zn_clus              PF00172.18    40 BGC0001578.1_ORF3:gid::pid:EED21092.1:loc:4858:7359:strand:+ -            773   6.9e-09   35.7   9.2   1   1   8.6e-13   1.5e-08   34.6   9.2     2    39    18    55    17    56 0.89 Fungal Zn(2)-Cys(6) binuclear cluster domain
+p450                 PF00067.22   463 BGC0001578.1_ORF4:gid::pid:EED21093.1:loc:7579:8897:strand:- -            399   1.7e-69  234.7   0.1   1   1   1.2e-73   2.1e-69  234.5   0.1    72   451     4   378     1   391 0.91 Cytochrome P450
+FAD_binding_3        PF01494.19   349 BGC0001578.1_ORF5:gid::pid:EED21094.1:loc:9636:11090:strand:+ -            424   3.3e-22   79.2   0.0   1   1   3.4e-25     3e-21   76.0   0.0     1   346     9   372     9   375 0.68 FAD binding domain
+NAD_binding_8        PF13450.6     68 BGC0001578.1_ORF5:gid::pid:EED21094.1:loc:9636:11090:strand:+ -            424   2.4e-05   24.5   0.0   1   1     7e-09   6.3e-05   23.1   0.0     1    29    14    42    14    68 0.92 NAD(P)-binding Rossmann-like domain
+EthD                 PF07110.11    94 BGC0001578.1_ORF6:gid::pid:EED21095.1:loc:11470:11930:strand:+ -            133   2.2e-18   67.2   0.6   1   1   1.5e-22   2.7e-18   66.9   0.6     1    93    17   113    17   114 0.97 EthD domain
+NmrA                 PF05368.13   233 BGC0001578.1_ORF7:gid::pid:EED21096.1:loc:12419:13591:strand:+ -            325   7.1e-15   55.2   0.0   1   1   1.7e-18     1e-14   54.7   0.0     1   195    10   197    10   217 0.83 NmrA-like family
+NAD_binding_10       PF13460.6    184 BGC0001578.1_ORF7:gid::pid:EED21096.1:loc:12419:13591:strand:+ -            325   2.2e-13   50.5   0.0   1   1     8e-17   4.8e-13   49.4   0.0     1    91    14   101    14   106 0.96 NAD(P)H-binding
+DLH                  PF01738.18   217 BGC0001578.1_ORF9:gid::pid:EED21098.1:loc:13944:14938:strand:- -            249   1.2e-09   38.1   0.0   1   1   7.7e-14   1.4e-09   37.9   0.0     3   216    32   247    30   248 0.78 Dienelactone hydrolase family
+ketoacyl-synt        PF00109.26   253 BGC0001578.1_ORF10:gid::pid:EED21099.1:loc:16111:22908:strand:- -           2157   3.3e-77  259.5   0.0   1   1   2.5e-80   6.3e-77  258.6   0.0     2   253   391   640   390   640 0.95 Beta-ketoacyl synthase, N-terminal domain
+SAT                  PF16073.5    240 BGC0001578.1_ORF10:gid::pid:EED21099.1:loc:16111:22908:strand:- -           2157   3.1e-67  226.8   0.0   1   1     1e-69   2.6e-66  223.8   0.0     1   240    27   260    27   263 0.97 Starter unit:ACP transacylase in aflatoxin biosynthesis
+Acyl_transf_1        PF00698.21   319 BGC0001578.1_ORF10:gid::pid:EED21099.1:loc:16111:22908:strand:- -           2157   9.4e-43  146.9   0.0   1   1     6e-46   1.5e-42  146.2   0.0     2   303   924  1234   923  1246 0.84 Acyl transferase domain
+Ketoacyl-synt_C      PF02801.22   118 BGC0001578.1_ORF10:gid::pid:EED21099.1:loc:16111:22908:strand:- -           2157   1.9e-34  118.2   0.0   1   1   2.4e-37   6.1e-34  116.6   0.0     2   117   649   765   648   766 0.97 Beta-ketoacyl synthase, C-terminal domain
+PP-binding           PF00550.25    67 BGC0001578.1_ORF10:gid::pid:EED21099.1:loc:16111:22908:strand:- -           2157   8.5e-30  102.9   1.9   1   2   9.6e-17   2.5e-13   50.2   0.0     2    66  1688  1752  1687  1753 0.96 Phosphopantetheine attachment site
+PP-binding           PF00550.25    67 BGC0001578.1_ORF10:gid::pid:EED21099.1:loc:16111:22908:strand:- -           2157   8.5e-30  102.9   1.9   2   2   4.6e-17   1.2e-13   51.2   0.7     2    66  1800  1864  1799  1865 0.96 Phosphopantetheine attachment site
+Thioesterase         PF00975.20   231 BGC0001578.1_ORF10:gid::pid:EED21099.1:loc:16111:22908:strand:- -           2157   5.5e-25   88.8   0.0   1   1   4.5e-28   1.2e-24   87.8   0.0     3   116  1914  2025  1912  2156 0.73 Thioesterase domain
+PS-DH                PF14765.6    298 BGC0001578.1_ORF10:gid::pid:EED21099.1:loc:16111:22908:strand:- -           2157   6.1e-14   51.9   0.0   1   1   3.5e-17     9e-14   51.4   0.0     9   294  1325  1621  1318  1625 0.81 Polyketide synthase dehydratase
+Fe-ADH               PF00465.19   364 BGC0001578.1_ORF11:gid::pid:EED21100.1:loc:24438:25638:strand:+ -            389   9.8e-55  185.8   0.0   1   1   1.4e-58   1.3e-54  185.5   0.0     3   348    15   358    14   364 0.91 Iron-containing alcohol dehydrogenase
+Fe-ADH_2             PF13685.6    250 BGC0001578.1_ORF11:gid::pid:EED21100.1:loc:24438:25638:strand:+ -            389   1.1e-08   35.1   0.0   1   1   1.7e-12   1.5e-08   34.7   0.0     6   246    22   274    18   277 0.78 Iron-containing alcohol dehydrogenase
+Methyltransf_2       PF00891.18   210 BGC0001578.1_ORF12:gid::pid:EED21101.1:loc:26291:27802:strand:+ -            433   7.1e-09   35.3   0.0   1   1   8.5e-13   1.5e-08   34.2   0.0     3   206   177   403   176   404 0.81 O-methyltransferase domain
+p450                 PF00067.22   463 BGC0001578.1_ORF13:gid::pid:EED21102.1:loc:28279:29953:strand:- -            522   1.6e-51  175.5   0.0   1   1   1.3e-55   2.3e-51  175.0   0.0     7   433    62   485    56   497 0.80 Cytochrome P450
+Cupin_2              PF07883.11    71 BGC0001578.1_ORF14:gid::pid:EED21103.1:loc:30437:31150:strand:+ -            183   7.9e-12   44.7   0.1   1   1   7.5e-16   1.4e-11   44.0   0.1     5    68    52   117    49   120 0.91 Cupin domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001578.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001578.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001578.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:33:37 2019
+# [ok]

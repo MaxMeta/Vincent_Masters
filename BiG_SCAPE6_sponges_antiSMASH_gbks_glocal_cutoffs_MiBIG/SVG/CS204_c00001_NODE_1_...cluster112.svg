@@ -1,0 +1,74 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="326.0" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="316.0" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg3188_1)</title>
+			<polygon class=" (ctg3188_1)" points="14,40 26,10 26,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3188_2)</title>
+			<polygon class=" (ctg3188_2)" points="80,25 60,25 60,10 30,40 60,70 60,55 80,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Toluene_X (PF03349)
+"Outer membrane protein transport protein (OMPP1/FadL/TodX)"</title>
+				<rect class="PF03349" x="56" y="28" stroke-linejoin="round" width="22" height="24" fill="rgb(68,188,211)" stroke="rgb(54,150,168)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3188_3)</title>
+			<polygon class=" (ctg3188_3)" points="93,10 99,40 93,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3188_4)</title>
+			<polygon class=" (ctg3188_4)" points="102,10 114,40 102,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3188_5)</title>
+			<polygon class=" (ctg3188_5)" points="120,10 148,40 120,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF692 (PF05114)
+"Protein of unknown function (DUF692)"</title>
+				<polygon class="PF05114" points="121,28 132,28 144,40 132,52 121,52" stroke-linejoin="round" width="26" height="24" fill="rgb(63,196,127)" stroke="rgb(50,156,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3188_6)</title>
+			<polygon class=" (ctg3188_6)" points="150,10 176,40 150,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2063 (PF09836)
+"Putative DNA-binding domain"</title>
+				<rect class="PF09836" x="151" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(88,194,190)" stroke="rgb(70,155,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3188_7)</title>
+			<polygon class=" (ctg3188_7)" points="193,10 201,40 193,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3188_8)</title>
+			<polygon class=" (ctg3188_8)" points="213,40 224,10 224,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4156 (PF13698)
+"Domain of unknown function (DUF4156)"</title>
+				<polygon class="PF13698" points="216,40 220,28 221,28 221,52 220,52" stroke-linejoin="round" width="8" height="24" fill="rgb(194,68,203)" stroke="rgb(155,54,162)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3188_9)</title>
+			<polygon class=" (ctg3188_9)" points="231,10 236,40 231,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3188_10)</title>
+			<polygon class=" (ctg3188_10)" points="262,10 269,40 262,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3188_11)</title>
+			<polygon class=" (ctg3188_11)" points="276,10 299,40 276,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SDH_sah (PF01972)
+"Serine dehydrogenase proteinase"</title>
+				<rect class="PF01972" x="276" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(225,73,183)" stroke="rgb(180,58,146)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

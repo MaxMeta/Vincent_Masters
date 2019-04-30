@@ -1,0 +1,17 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+QueC                 PF06508.13   210 BGC0001217.1_ORF1:gid:queC:pid:AIN46707.1:loc:0:696:strand:+ -            231   4.2e-75  251.9   0.0   1   1   5.3e-79   4.7e-75  251.7   0.0     2   209     5   220     4   221 0.96 Queuosine biosynthesis protein QueC
+Asn_synthase         PF00733.21   355 BGC0001217.1_ORF1:gid:queC:pid:AIN46707.1:loc:0:696:strand:+ -            231   9.4e-07   28.8   0.0   1   1   1.5e-10   1.4e-06   28.3   0.0    19    76     4    60     2    65 0.83 Asparagine synthase
+Radical_SAM          PF04055.21   167 BGC0001217.1_ORF2:gid:queE:pid:AIN46709.1:loc:698:1334:strand:+ -            211   1.1e-08   35.7   0.0   1   1   1.8e-12   1.6e-08   35.1   0.0    11    89    46   123    40   146 0.84 Radical SAM superfamily
+PTPS                 PF01242.19   123 BGC0001217.1_ORF3:gid:queD:pid:AIN46708.1:loc:1334:1691:strand:+ -            118   3.2e-37  127.2   0.0   1   1     2e-41   3.5e-37  127.1   0.0     1   123     2   118     2   118 0.96 6-pyruvoyl tetrahydropterin synthase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001217.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001217.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001217.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:40:29 2019
+# [ok]

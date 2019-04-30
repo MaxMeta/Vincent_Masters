@@ -1,0 +1,15 @@
+#                                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ABC_tran             PF00005.27   137 CS203_c00001_NODE_1_...cluster165_ORF1:gid::pid::loc:793:3733:strand:+ -            979   1.4e-28  100.2   0.0   1   1   2.4e-32   2.2e-28   99.5   0.0     1   137   760   909   760   909 0.86 ABC transporter
+ABC_membrane         PF00664.23   274 CS203_c00001_NODE_1_...cluster165_ORF1:gid::pid::loc:793:3733:strand:+ -            979   2.3e-17   63.6   7.8   1   1   3.3e-21     3e-17   63.2   7.8     5   274   434   699   430   699 0.97 ABC transporter transmembrane region
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS203_c00001_NODE_1_...cluster165.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS203_c00001_NODE_1_...cluster165.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS203_c00001_NODE_1_...cluster165.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:36:22 2019
+# [ok]

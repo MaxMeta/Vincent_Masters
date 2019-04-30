@@ -1,0 +1,31 @@
+#                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Methyltransf_11      PF08241.12    96 CS204_c00001_NODE_1_...cluster143_ORF1:gid::pid::loc:98:926:strand:- -            275   1.3e-20   73.8   0.0   1   1   1.1e-23   2.2e-20   73.1   0.0     1    93    62   157    62   159 0.98 Methyltransferase domain
+Methyltransf_25      PF13649.6     97 CS204_c00001_NODE_1_...cluster143_ORF1:gid::pid::loc:98:926:strand:- -            275   1.7e-19   70.3   0.0   1   1   1.6e-22   3.1e-19   69.5   0.0     1    97    61   156    61   156 0.96 Methyltransferase domain
+Methyltransf_31      PF13847.6    152 CS204_c00001_NODE_1_...cluster143_ORF1:gid::pid::loc:98:926:strand:- -            275   2.7e-15   56.5   0.0   1   1   1.7e-18   3.3e-15   56.2   0.0     4   112    58   163    55   204 0.85 Methyltransferase domain
+Ubie_methyltran      PF01209.18   233 CS204_c00001_NODE_1_...cluster143_ORF1:gid::pid::loc:98:926:strand:- -            275   7.9e-13   48.3   0.0   1   1   1.5e-15   3.1e-12   46.3   0.0    47   153    57   162    41   176 0.92 ubiE/COQ5 methyltransferase family
+CMAS                 PF02353.20   273 CS204_c00001_NODE_1_...cluster143_ORF1:gid::pid::loc:98:926:strand:- -            275   5.4e-12   45.6   0.0   1   1   3.2e-15   6.4e-12   45.3   0.0    51   162    46   158     3   204 0.85 Mycolic acid cyclopropane synthetase
+Methyltransf_12      PF08242.12    99 CS204_c00001_NODE_1_...cluster143_ORF1:gid::pid::loc:98:926:strand:- -            275   5.4e-11   43.1   0.0   1   1   6.3e-14   1.2e-10   41.9   0.0     1    98    62   157    62   158 0.89 Methyltransferase domain
+Methyltransf_23      PF13489.6    165 CS204_c00001_NODE_1_...cluster143_ORF1:gid::pid::loc:98:926:strand:- -            275   8.3e-11   42.0   0.0   1   1   6.4e-14   1.3e-10   41.4   0.0    21   163    56   208    37   210 0.75 Methyltransferase domain
+Methyltransf_29      PF03141.16   506 CS204_c00001_NODE_1_...cluster143_ORF1:gid::pid::loc:98:926:strand:- -            275   7.5e-06   24.8   0.0   1   1   5.1e-09     1e-05   24.3   0.0   119   230    59   178    48   187 0.78 Putative S-adenosyl-L-methionine-dependent methyltransferase
+FAD_binding_4        PF01565.23   139 CS204_c00001_NODE_1_...cluster143_ORF2:gid::pid::loc:1125:2424:strand:+ -            432   3.4e-26   91.6   4.2   1   1     3e-30   5.4e-26   91.0   4.2     1   135    32   163    32   167 0.94 FAD binding domain
+MMPL                 PF03176.15   333 CS204_c00001_NODE_1_...cluster143_ORF3:gid::pid::loc:2436:4800:strand:- -            787   2.5e-35  122.0  26.9   1   2   1.7e-23   1.5e-19   70.1  11.4    64   314   132   396    92   423 0.80 MMPL family
+MMPL                 PF03176.15   333 CS204_c00001_NODE_1_...cluster143_ORF3:gid::pid::loc:2436:4800:strand:- -            787   2.5e-35  122.0  26.9   2   2   1.1e-19   9.7e-16   57.6   7.5    83   302   555   768   482   779 0.89 MMPL family
+Sterol-sensing       PF12349.8    153 CS204_c00001_NODE_1_...cluster143_ORF3:gid::pid::loc:2436:4800:strand:- -            787   4.3e-11   42.9   1.1   1   1   4.8e-15   4.3e-11   42.9   1.1     8   143   257   392   251   402 0.86 Sterol-sensing domain of SREBP cleavage-activation
+NHase_alpha          PF02979.16   184 CS204_c00001_NODE_1_...cluster143_ORF4:gid::pid::loc:5000:5255:strand:- -             84   5.4e-08   32.4   0.0   1   1   3.5e-12   6.3e-08   32.1   0.0   114   169    18    70    11    80 0.87 Nitrile hydratase, alpha chain
+HlyD_3               PF13437.6    106 CS204_c00001_NODE_1_...cluster143_ORF5:gid::pid::loc:5817:6708:strand:+ -            296   4.9e-08   33.6   0.0   1   1   4.5e-10     8e-06   26.5   0.0     1    82   157   241   157   271 0.88 HlyD family secretion protein
+Peptidase_C39        PF03412.15   133 CS204_c00001_NODE_1_...cluster143_ORF6:gid::pid::loc:6708:8931:strand:+ -            740   3.7e-32  110.9   0.0   1   1   1.4e-35   6.2e-32  110.2   0.0     3   131    28   154    26   156 0.97 Peptidase C39 family
+ABC_tran             PF00005.27   137 CS204_c00001_NODE_1_...cluster143_ORF6:gid::pid::loc:6708:8931:strand:+ -            740   3.7e-31  108.5   0.0   1   1   1.3e-34   5.6e-31  107.9   0.0     2   137   523   671   522   671 0.86 ABC transporter
+ABC_membrane         PF00664.23   274 CS204_c00001_NODE_1_...cluster143_ORF6:gid::pid::loc:6708:8931:strand:+ -            740   1.7e-19   70.6   2.7   1   1   4.9e-23   2.2e-19   70.2   2.7     3   273   183   449   181   450 0.96 ABC transporter transmembrane region
+Peptidase_C70        PF12385.8    145 CS204_c00001_NODE_1_...cluster143_ORF6:gid::pid::loc:6708:8931:strand:+ -            740   0.00022   21.2   0.0   1   1   1.2e-07   0.00052   20.0   0.0     4   142    24   142    21   145 0.75 Papain-like cysteine protease AvrRpt2
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS204_c00001_NODE_1_...cluster143.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS204_c00001_NODE_1_...cluster143.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS204_c00001_NODE_1_...cluster143.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:41:50 2019
+# [ok]

@@ -1,0 +1,17 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Aminotran_1_2        PF00155.21   363 BGC0001238.1_ORF1:gid:biF:pid:ACR44939.1:loc:107:1462:strand:- -            412     5e-36  124.6   0.0   1   1   3.2e-40   5.7e-36  124.4   0.0     4   363    36   398    33   398 0.86 Aminotransferase class I and II
+AAA_26               PF13500.6    198 BGC0001238.1_ORF2:gid:biA1:pid:ACR44941.1:loc:2170:3443:strand:+ -            389   1.1e-18   67.8   0.0   1   1   9.4e-23   1.7e-18   67.2   0.0     5   176    17   194    13   210 0.82 AAA domain
+BATS                 PF06968.13    86 BGC0001238.1_ORF3:gid:biB:pid:ACR44940.1:loc:5676:6955:strand:+ -            393   6.2e-22   77.5   0.2   1   1   2.9e-25   2.6e-21   75.6   0.0     1    85   265   355   265   356 0.99 Biotin and Thiamin Synthesis associated domain
+Radical_SAM          PF04055.21   167 BGC0001238.1_ORF3:gid:biB:pid:ACR44940.1:loc:5676:6955:strand:+ -            393   2.5e-15   57.3   0.0   1   1   1.8e-18   1.6e-14   54.6   0.0     4   162    93   249    90   254 0.84 Radical SAM superfamily
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001238.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001238.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001238.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:48:04 2019
+# [ok]

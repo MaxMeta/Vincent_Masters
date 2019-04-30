@@ -1,0 +1,58 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="489.4" height="160">
+	<g>
+		<line x1="10" y1="40.0" x2="479.4" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>crtY
+CrtY</title>
+			<polygon class="crtY
+CrtY" points="192,25 200,25 200,10 230,40 200,70 200,55 192,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lycopene_cycl (PF05834)
+"Lycopene cyclase protein"</title>
+				<polygon class="PF05834" points="192,28 213,28 225,40 213,52 192,52" stroke-linejoin="round" width="36" height="24" fill="rgb(212,80,200)" stroke="rgb(169,64,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>crtI
+CrtI</title>
+			<polygon class="crtI
+CrtI" points="232,25 250,25 250,10 280,40 250,70 250,55 232,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amino_oxidase (PF01593)
+"Flavin containing amine oxidoreductase"</title>
+				<polygon class="PF01593" points="233,28 264,28 276,40 264,52 233,52" stroke-linejoin="round" width="47" height="24" fill="rgb(184,74,52)" stroke="rgb(147,59,41)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>crtB
+CrtB</title>
+			<polygon class="crtB
+CrtB" points="280,25 282,25 282,10 312,40 282,70 282,55 280,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="281,28 296,28 307,39 307,41 296,52 281,52" stroke-linejoin="round" width="26" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>crtZ
+CrtZ</title>
+			<polygon class="crtZ
+CrtZ" points="312,40 331,10 331,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FA_hydroxylase (PF04116)
+"Fatty acid hydroxylase superfamily"</title>
+				<polygon class="PF04116" points="316,40 324,28 329,28 329,52 324,52" stroke-linejoin="round" width="14" height="24" fill="rgb(171,60,209)" stroke="rgb(136,48,167)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="120.0" x2="145.6" y2="120.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>crtW
+CrtW</title>
+			<polygon class="crtW
+CrtW" points="96,105 91,105 91,90 61,120 91,150 91,135 96,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

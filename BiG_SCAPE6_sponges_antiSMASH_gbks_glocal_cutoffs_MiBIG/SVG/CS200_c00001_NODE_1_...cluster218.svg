@@ -1,0 +1,92 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="374.76666666666665" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="364.76666666666665" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg7401_1)</title>
+			<polygon class=" (ctg7401_1)" points="10,10 17,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg7401_2)</title>
+			<polygon class=" (ctg7401_2)" points="62,25 52,25 52,10 22,40 52,70 52,55 62,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Phage_integrase (PF00589)
+"Phage integrase family"</title>
+				<polygon class="PF00589" points="26,40 38,28 41,28 41,52 38,52" stroke-linejoin="round" width="16" height="24" fill="rgb(91,96,195)" stroke="rgb(72,76,156)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Arm-DNA-bind_3 (PF13356)
+"Arm DNA-binding domain"</title>
+				<rect class="PF13356" x="54" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(47,183,132)" stroke="rgb(37,146,105)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7401_3)</title>
+			<polygon class=" (ctg7401_3)" points="217,25 102,25 102,10 72,40 102,70 102,55 217,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acyltransferase (PF01553)
+"Acyltransferase"</title>
+				<polygon class="PF01553" points="78,38 88,28 91,28 91,52 88,52 78,42" stroke-linejoin="round" width="13" height="24" fill="rgb(87,176,216)" stroke="rgb(69,140,172)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="97" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="116" y="28" stroke-linejoin="round" width="45" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Sterile (PF03015)
+"Male sterility protein"</title>
+				<rect class="PF03015" x="164" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(157,58,225)" stroke="rgb(125,46,180)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>NAD_binding_4 (PF07993)
+"Male sterility protein"</title>
+				<rect class="PF07993" x="182" y="28" stroke-linejoin="round" width="34" height="24" fill="rgb(100,212,204)" stroke="rgb(80,169,163)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7401_4)</title>
+			<polygon class=" (ctg7401_4)" points="227,10 249,40 227,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>F420_oxidored (PF03807)
+"NADP oxidoreductase coenzyme F420-dependent"</title>
+				<rect class="PF03807" x="227" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(194,51,111)" stroke="rgb(155,40,88)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7401_5)</title>
+			<polygon class=" (ctg7401_5)" points="252,25 252,25 252,10 282,40 252,70 252,55 252,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>UPF0052 (PF01933)
+"Uncharacterised protein family UPF0052"</title>
+				<polygon class="PF01933" points="252,28 266,28 278,40 266,52 252,52" stroke-linejoin="round" width="29" height="24" fill="rgb(163,205,51)" stroke="rgb(130,164,40)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7401_6)</title>
+			<polygon class=" (ctg7401_6)" points="282,10 304,40 282,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CofC (PF01983)
+"Guanylyl transferase CofC like"</title>
+				<polygon class="PF01983" points="282,28 292,28 300,40 292,52 282,52" stroke-linejoin="round" width="21" height="24" fill="rgb(181,97,82)" stroke="rgb(144,77,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7401_7)</title>
+			<polygon class=" (ctg7401_7)" points="304,10 329,40 304,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>F420_ligase (PF01996)
+"F420-0:Gamma-glutamyl ligase"</title>
+				<polygon class="PF01996" points="305,28 315,28 325,40 315,52 305,52" stroke-linejoin="round" width="21" height="24" fill="rgb(204,75,167)" stroke="rgb(163,60,133)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7401_8)</title>
+			<polygon class=" (ctg7401_8)" points="335,40 364,10 364,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

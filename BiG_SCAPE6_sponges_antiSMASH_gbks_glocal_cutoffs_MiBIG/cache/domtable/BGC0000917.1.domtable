@@ -1,0 +1,18 @@
+#                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Mob_synth_C          PF06463.13   128 BGC0000917.1_ORF1:gid:moaA:pid:AAD21201.1:loc:216:1203:strand:+ -            328   3.6e-38  130.4   0.0   1   1   5.8e-42   5.2e-38  129.9   0.0     2   127   181   307   180   308 0.97 Molybdenum Cofactor Synthesis C
+Radical_SAM          PF04055.21   167 BGC0000917.1_ORF1:gid:moaA:pid:AAD21201.1:loc:216:1203:strand:+ -            328   6.5e-20   72.2   0.0   1   1   1.3e-23   1.1e-19   71.4   0.0     1   166    19   174    19   175 0.87 Radical SAM superfamily
+ThiS                 PF02597.20    77 BGC0000917.1_ORF2:gid:moaD:pid:AAD21202.1:loc:1204:1453:strand:+ -             82   1.2e-15   57.8   0.0   1   1   7.7e-20   1.4e-15   57.7   0.0     1    77     4    82     4    82 0.98 ThiS family
+ThiF                 PF00899.21   244 BGC0000917.1_ORF3:gid:moaB:pid:AAD21203.1:loc:1454:2216:strand:+ -            253   2.8e-55  187.3   0.0   1   1   1.9e-59   3.4e-55  187.0   0.0     1   228    12   230    12   246 0.88 ThiF family
+MoaC                 PF01967.21   136 BGC0000917.1_ORF4:gid:moaC:pid:AAD21204.1:loc:2246:2477:strand:+ -             77   5.4e-19   68.6   0.9   1   1   3.7e-23   6.6e-19   68.3   0.9     1    57     1    57     1    58 0.98 MoaC family
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000917.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000917.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000917.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:33:07 2019
+# [ok]

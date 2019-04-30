@@ -1,0 +1,19 @@
+#                                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MMPL                 PF03176.15   333 CS202_c00001_NODE_1_...cluster128_ORF2:gid::pid::loc:2531:4853:strand:- -            773   7.5e-30  104.0  32.7   1   2   5.7e-24   5.1e-20   71.7   9.4    60   312   128   394    58   422 0.76 MMPL family
+MMPL                 PF03176.15   333 CS202_c00001_NODE_1_...cluster128_ORF2:gid::pid::loc:2531:4853:strand:- -            773   7.5e-30  104.0  32.7   2   2     1e-13   9.2e-10   38.0  15.3   118   300   585   767   557   772 0.87 MMPL family
+Sterol-sensing       PF12349.8    153 CS202_c00001_NODE_1_...cluster128_ORF2:gid::pid::loc:2531:4853:strand:- -            773   3.6e-13   49.6   8.9   1   1   7.1e-15   6.4e-11   42.3   1.3    12   136   260   384   251   396 0.90 Sterol-sensing domain of SREBP cleavage-activation
+NHase_alpha          PF02979.16   184 CS202_c00001_NODE_1_...cluster128_ORF3:gid::pid::loc:5000:5255:strand:- -             84   9.3e-09   34.9   0.0   1   1   6.3e-13   1.1e-08   34.6   0.0   114   171    18    72    14    81 0.84 Nitrile hydratase, alpha chain
+ABC_tran             PF00005.27   137 CS202_c00001_NODE_1_...cluster128_ORF4:gid::pid::loc:6290:9218:strand:- -            975   4.2e-32  111.5   0.0   1   1   1.2e-35   1.1e-31  110.2   0.0     1   137   756   905   756   905 0.92 ABC transporter
+ABC_membrane         PF00664.23   274 CS202_c00001_NODE_1_...cluster128_ORF4:gid::pid::loc:6290:9218:strand:- -            975   4.2e-16   59.4   5.3   1   1   7.7e-20   6.9e-16   58.7   5.3     8   274   433   695   429   695 0.97 ABC transporter transmembrane region
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster128.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS202_c00001_NODE_1_...cluster128.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster128.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:48:01 2019
+# [ok]

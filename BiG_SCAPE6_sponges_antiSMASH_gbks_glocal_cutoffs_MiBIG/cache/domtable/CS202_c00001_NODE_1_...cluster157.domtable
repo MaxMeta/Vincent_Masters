@@ -1,0 +1,20 @@
+#                                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Peptidase_C39        PF03412.15   133 CS202_c00001_NODE_1_...cluster157_ORF1:gid::pid::loc:1562:3755:strand:- -            730     5e-35  120.2   0.0   1   1   2.1e-38   9.2e-35  119.3   0.0     2   132    17   145    16   146 0.98 Peptidase C39 family
+ABC_tran             PF00005.27   137 CS202_c00001_NODE_1_...cluster157_ORF1:gid::pid::loc:1562:3755:strand:- -            730   8.1e-32  110.6   0.0   1   1   2.9e-35   1.3e-31  109.9   0.0     2   137   513   661   512   661 0.84 ABC transporter
+ABC_membrane         PF00664.23   274 CS202_c00001_NODE_1_...cluster157_ORF1:gid::pid::loc:1562:3755:strand:- -            730   1.7e-24   86.9   7.3   1   1   4.8e-28   2.1e-24   86.6   7.3     5   274   175   440   171   440 0.98 ABC transporter transmembrane region
+NHase_alpha          PF02979.16   184 CS202_c00001_NODE_1_...cluster157_ORF3:gid::pid::loc:5000:5255:strand:+ -             84   1.2e-08   34.5   0.0   1   1   7.7e-13   1.4e-08   34.3   0.0   114   165    18    70    10    80 0.88 Nitrile hydratase, alpha chain
+MMPL                 PF03176.15   333 CS202_c00001_NODE_1_...cluster157_ORF4:gid::pid::loc:5423:7610:strand:+ -            729   2.7e-31  108.7  20.7   1   2   1.1e-24     1e-20   74.0  10.1    70   306   138   388    69   425 0.80 MMPL family
+MMPL                 PF03176.15   333 CS202_c00001_NODE_1_...cluster157_ORF4:gid::pid::loc:5423:7610:strand:+ -            729   2.7e-31  108.7  20.7   2   2   1.9e-14   1.7e-10   40.4   2.8    81   262   553   728   479   729 0.80 MMPL family
+Sterol-sensing       PF12349.8    153 CS202_c00001_NODE_1_...cluster157_ORF4:gid::pid::loc:5423:7610:strand:+ -            729   5.6e-12   45.7   1.1   1   1   5.8e-15   5.2e-11   42.6   0.2     8   140   257   388   251   397 0.85 Sterol-sensing domain of SREBP cleavage-activation
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster157.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS202_c00001_NODE_1_...cluster157.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster157.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:45:30 2019
+# [ok]

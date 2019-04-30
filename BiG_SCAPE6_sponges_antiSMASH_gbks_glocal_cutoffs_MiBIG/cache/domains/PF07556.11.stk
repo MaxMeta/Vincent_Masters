@@ -1,0 +1,24 @@
+# STOCKHOLM 1.0
+
+CS211_c00001_NODE_1_...cluster267_ORF4:gid::pid::loc:2419:3154:strand:+:22:243            i--LVIAFFQIVVLQQPFPNIADVLVGLVCVVLGLALFIHGLESGLFPLGEAIAHAFAEKS..............SVVALLAFSFCLGFGTTVAEPAFIAVAGEAAKVASeaGFIAdddqvrssyAFNLRIVVATSVGVAIVLGVFRIIKGWPIHYFIIGGYIFVSCLTAIAPDEFIGVAFDSGGVTTGTLTVPLITALG
+#=GR CS211_c00001_NODE_1_...cluster267_ORF4:gid::pid::loc:2419:3154:strand:+:22:243    PP 5..7899******************************************************..............*********************************88334455999999999999************************************************************************
+CS211_c00001_NODE_1_...cluster267_ORF5:gid::pid::loc:3153:3927:strand:+:22:243            .-VVILVVFQVVVLRRNIPHLKQIISGFVLVLVGLSLVLIGLEDALFPIGNTMAQQLTSVSmqgte...aggvwtDYFLVYTFAATIGFATTIAEPGLIAVALKAEQASG..GSIT.........SWRLRIAVAIGVAIGVSLGCFRIVTGTPLPWYIIAAYAIVIIQTFRSNRTIIPLAYDSGGVTTSTVTVPVVAALG
+#=GR CS211_c00001_NODE_1_...cluster267_ORF5:gid::pid::loc:3153:3927:strand:+:22:243    PP ..5899*****************************************************99999**...***9999**********************************..****.........***************************************************************************
+CS200_c00001_NODE_1_...cluster135_ORF24:gid::pid::loc:19320:20109:strand:-:22:246         v--GVLLLFQIAVLRRRLPNLRNMILGFVLVLLGLTLFLIGLEKALFPIGETMARQLTATEtigeasledgvdwhDYLLVYFFAAAIGFATTVAEPSLIAVALKAQQVSG..GATG.........AWGLRIAVAIGVAAGVALGCFRIVTGTPLPLYIIAAYLIVIVQTFRSNQTMVPLAYDSGGVTTSTVTVPVVAALG
+#=GR CS200_c00001_NODE_1_...cluster135_ORF24:gid::pid::loc:19320:20109:strand:-:22:246 PP 6..689********************************************************************99**********************************..****.........***************************************************************************
+CS200_c00001_NODE_1_...cluster135_ORF25:gid::pid::loc:20119:20854:strand:-:22:243         i--VVIAFFQIVVLRQPFPDFGSVAVGLVCVIAGLILFTEGLESGLFPLGEAIAQAFARKG..............SLTALLAFAFCLGFGTTVAEPALIAVAAEAAEVAAeaGAIAadaearaayAFELRMVVALSVGSALVLGVIRILKGWPLHRLIIGGYVLVSAMTAFAPAEIIGVAYDSGGVTTSTITVPLVTALG
+#=GR CS200_c00001_NODE_1_...cluster135_ORF25:gid::pid::loc:20119:20854:strand:-:22:243 PP 5..7999******************************************************..............*********************************9844555599****999999************************************************************************
+#=GC PP_cons                                                                              ..5789*******************************************************..............*********************************99..7788.........***************************************************************************
+#=GC RF                                                                                   .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..............xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxx.........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CS211_c00001_NODE_1_...cluster267_ORF4:gid::pid::loc:2419:3154:strand:+:22:243            VGLASSIKGRNPMVDGFGLIAFASLTPIIFVLIYGMV.
+#=GR CS211_c00001_NODE_1_...cluster267_ORF4:gid::pid::loc:2419:3154:strand:+:22:243    PP ***********************************85.
+CS211_c00001_NODE_1_...cluster267_ORF5:gid::pid::loc:3153:3927:strand:+:22:243            LGLAASIPGRSPLVDGFGLIAFASVFPIMSVLAYGMV.
+#=GR CS211_c00001_NODE_1_...cluster267_ORF5:gid::pid::loc:3153:3927:strand:+:22:243    PP ***********************************85.
+CS200_c00001_NODE_1_...cluster135_ORF24:gid::pid::loc:19320:20109:strand:-:22:246         LGLASSVPGRSPLIDGFGLIAFASVFPIMSVLAYAM-a
+#=GR CS200_c00001_NODE_1_...cluster135_ORF24:gid::pid::loc:19320:20109:strand:-:22:246 PP ********************************9987.7
+CS200_c00001_NODE_1_...cluster135_ORF25:gid::pid::loc:20119:20854:strand:-:22:243         VGLASSIRGRNPLIDGFGLIAFASLTPMIFVLAYGMV.
+#=GR CS200_c00001_NODE_1_...cluster135_ORF25:gid::pid::loc:20119:20854:strand:-:22:243 PP ***********************************85.
+#=GC PP_cons                                                                              **********************************985.
+#=GC RF                                                                                   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

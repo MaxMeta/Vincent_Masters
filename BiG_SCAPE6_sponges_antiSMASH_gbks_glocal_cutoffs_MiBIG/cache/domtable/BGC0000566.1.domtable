@@ -1,0 +1,23 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Nitroreductase       PF00881.24   170 BGC0000566.1_ORF2:gid:sagB:pid:AAK33685.1:loc:383:1334:strand:+ -            316   4.2e-32  111.6   0.0   1   1   6.1e-36   1.1e-31  110.2   0.0     1   169   125   311   125   312 0.97 Nitroreductase family
+YcaO                 PF02624.16   323 BGC0000566.1_ORF4:gid::pid:AAK33687.1:loc:2408:3767:strand:+ -            452   1.1e-53  182.6   0.0   1   1   7.2e-58   1.3e-53  182.4   0.0     2   322    69   421    68   422 0.86 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+CPBP                 PF02517.16    92 BGC0000566.1_ORF5:gid::pid:AAK33688.1:loc:3741:4413:strand:+ -            223   1.6e-09   38.0   9.6   1   1   9.1e-14   1.6e-09   38.0   9.6    11    91   123   206   103   207 0.91 CPBP intramembrane metalloprotease
+ABC_tran             PF00005.27   137 BGC0000566.1_ORF7:gid::pid:AAK33690.1:loc:5115:6039:strand:+ -            307   1.4e-33  116.3   0.0   1   1   2.6e-37   2.3e-33  115.6   0.0     2   136    21   162    20   163 0.90 ABC transporter
+AAA_21               PF13304.6    303 BGC0000566.1_ORF7:gid::pid:AAK33690.1:loc:5115:6039:strand:+ -            307   2.5e-14   53.8   1.2   1   1   3.9e-12   3.5e-08   33.6   0.0   235   298   133   193   127   198 0.93 AAA domain, putative AbiEii toxin, Type IV TA system
+ABC2_membrane_3      PF12698.7    345 BGC0000566.1_ORF8:gid:sagH:pid:AAK33691.1:loc:6047:7175:strand:+ -            375   1.5e-26   93.4  26.7   1   1     3e-30   1.8e-26   93.1  26.7     4   344    21   366    18   367 0.79 ABC-2 family transporter protein
+ABC2_membrane        PF01061.24   210 BGC0000566.1_ORF8:gid:sagH:pid:AAK33691.1:loc:6047:7175:strand:+ -            375   5.7e-16   58.6  27.6   1   1   1.7e-17     1e-13   51.2  14.2    53   210   183   340   150   340 0.90 ABC-2 type transporter
+ABC2_membrane_2      PF12679.7    288 BGC0000566.1_ORF8:gid:sagH:pid:AAK33691.1:loc:6047:7175:strand:+ -            375     5e-08   32.6  11.9   1   1   1.2e-11   7.1e-08   32.1  11.9     3   243     6   345     4   370 0.68 ABC-2 family transporter protein
+ABC2_membrane_3      PF12698.7    345 BGC0000566.1_ORF9:gid::pid:AAK33692.1:loc:7171:8290:strand:+ -            372   1.7e-40  139.2  25.2   1   1   2.2e-44     2e-40  139.0  25.2     3   342    18   362    16   365 0.84 ABC-2 family transporter protein
+ABC2_membrane        PF01061.24   210 BGC0000566.1_ORF9:gid::pid:AAK33692.1:loc:7171:8290:strand:+ -            372   7.9e-19   67.9  22.5   1   1   8.8e-23   7.9e-19   67.9  22.5    57   206   186   334   159   338 0.90 ABC-2 type transporter
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000566.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000566.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000566.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:38:13 2019
+# [ok]

@@ -1,0 +1,30 @@
+#                                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+PCMT                 PF01135.19   210 CS200_c00001_NODE_1_...cluster201_ORF1:gid::pid::loc:364:1006:strand:+ -            213   1.2e-63  214.7   0.0   1   1   1.5e-67   1.4e-63  214.5   0.0     3   208     7   208     5   210 0.97 Protein-L-isoaspartate(D-aspartate) O-methyltransferase (PCMT)
+RrnaAD               PF00398.20   265 CS200_c00001_NODE_1_...cluster201_ORF1:gid::pid::loc:364:1006:strand:+ -            213   1.1e-05   24.6   0.0   1   1   1.7e-09   1.6e-05   24.2   0.0    18    72    64   118    56   128 0.87 Ribosomal RNA adenine dimethylase
+Ald_Xan_dh_C2        PF02738.18   550 CS200_c00001_NODE_1_...cluster201_ORF2:gid::pid::loc:1126:3454:strand:+ -            775    4e-162  540.5   0.4   1   1  5.4e-166  4.8e-162  540.2   0.4     3   550   158   708   156   708 0.97 Molybdopterin-binding domain of aldehyde dehydrogenase
+Ald_Xan_dh_C         PF01315.22   110 CS200_c00001_NODE_1_...cluster201_ORF2:gid::pid::loc:1126:3454:strand:+ -            775   3.2e-26   91.8   0.0   1   1     1e-29   9.2e-26   90.4   0.0     2   110    21   140    20   140 0.91 Aldehyde oxidase and xanthine dehydrogenase, a/b hammerhead domain
+Peptidase_M23        PF01551.22    96 CS200_c00001_NODE_1_...cluster201_ORF3:gid::pid::loc:3730:4738:strand:+ -            335   7.3e-27   93.4   0.1   1   1   1.9e-30   1.7e-26   92.2   0.1     2    96   209   304   208   304 0.97 Peptidase family M23
+LysM                 PF01476.20    44 CS200_c00001_NODE_1_...cluster201_ORF3:gid::pid::loc:3730:4738:strand:+ -            335   2.7e-26   91.4   0.0   1   2   9.3e-16   8.4e-12   45.0   0.0     2    44    60   102    59   102 0.97 LysM domain
+LysM                 PF01476.20    44 CS200_c00001_NODE_1_...cluster201_ORF3:gid::pid::loc:3730:4738:strand:+ -            335   2.7e-26   91.4   0.0   2   2   1.6e-15   1.4e-11   44.2   0.0     1    44   107   150   107   150 0.99 LysM domain
+DUF815               PF05673.13   250 CS200_c00001_NODE_1_...cluster201_ORF4:gid::pid::loc:4669:5530:strand:- -            286  2.1e-103  344.8   0.0   1   1  1.4e-107  2.4e-103  344.6   0.0     2   249    32   279    31   280 0.98 Protein of unknown function (DUF815)
+YajC                 PF02699.15    80 CS200_c00001_NODE_1_...cluster201_ORF5:gid::pid::loc:5706:6114:strand:+ -            135   8.7e-26   89.6   2.1   1   1   6.4e-30   1.1e-25   89.2   2.1     3    77    21    94    19    97 0.91 Preprotein translocase subunit
+SecD_SecF            PF02355.16   189 CS200_c00001_NODE_1_...cluster201_ORF6:gid::pid::loc:6142:7756:strand:+ -            537   6.5e-22   77.8   7.8   1   1   1.7e-25     1e-21   77.2   7.8    14   185   357   525   351   530 0.92 Protein export membrane protein
+Sec_GG               PF07549.14    28 CS200_c00001_NODE_1_...cluster201_ORF6:gid::pid::loc:6142:7756:strand:+ -            537   7.9e-09   34.7   0.0   1   1   3.3e-12     2e-08   33.4   0.0     2    28    39    65    38    65 0.94 SecD/SecF GG Motif
+MMPL                 PF03176.15   333 CS200_c00001_NODE_1_...cluster201_ORF6:gid::pid::loc:6142:7756:strand:+ -            537   5.3e-07   28.9  17.8   1   1   8.9e-11   5.3e-07   28.9  17.8   171   295   396   519   367   532 0.84 MMPL family
+SecD_SecF            PF02355.16   189 CS200_c00001_NODE_1_...cluster201_ORF7:gid::pid::loc:7771:8728:strand:+ -            318     1e-71  240.2  11.2   1   1   8.7e-76   1.6e-71  239.7  11.2     4   187   114   297   110   299 0.96 Protein export membrane protein
+DUF498               PF04430.14   109 CS200_c00001_NODE_1_...cluster201_ORF8:gid::pid::loc:8730:9108:strand:+ -            125   5.9e-29  100.3   0.0   1   1   3.7e-33   6.6e-29  100.2   0.0     1   109    14   122    14   122 0.97 Protein of unknown function (DUF498/DUF598)
+Urate_ox_N           PF06181.11   297 CS200_c00001_NODE_1_...cluster201_ORF9:gid::pid::loc:9187:9694:strand:- -            168   1.5e-16   60.6  15.2   1   1   9.4e-14   1.7e-09   37.5   0.1   172   240    96   164    91   167 0.95 Urate oxidase N-terminal
+SQS_PSY              PF00494.19   263 CS200_c00001_NODE_1_...cluster201_ORF11:gid::pid::loc:10000:10849:strand:+ -            282   1.4e-53  182.1   4.6   1   1   9.7e-58   1.7e-53  181.8   4.6     1   253    14   261    14   274 0.94 Squalene/phytoene synthase
+GIDA                 PF01134.22   392 CS200_c00001_NODE_1_...cluster201_ORF12:gid::pid::loc:10928:12326:strand:- -            465  5.9e-101  338.4   0.0   1   1    4e-105  7.2e-101  338.1   0.0     2   391    22   392    21   393 0.98 Glucose inhibited division protein A
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS200_c00001_NODE_1_...cluster201.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS200_c00001_NODE_1_...cluster201.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS200_c00001_NODE_1_...cluster201.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:33:13 2019
+# [ok]

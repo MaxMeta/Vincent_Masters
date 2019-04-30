@@ -1,0 +1,19 @@
+#                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Na_H_Exchanger       PF00999.21   381 CS211_c00001_NODE_1_...cluster249_ORF1:gid::pid::loc:2:1598:strand:- -            532   7.2e-35  120.5  54.4   1   1   4.7e-39   8.5e-35  120.3  54.4     4   377    10   391     7   395 0.85 Sodium/hydrogen exchanger family
+Sod_Cu               PF00080.20   142 CS211_c00001_NODE_1_...cluster249_ORF2:gid::pid::loc:2200:2791:strand:- -            196   9.9e-33  113.3   2.2   1   1   7.1e-37   1.3e-32  112.9   2.2     6   142    53   193    49   193 0.87 Copper/zinc superoxide dismutase (SODC)
+ketoacyl-synt        PF00109.26   253 CS211_c00001_NODE_1_...cluster249_ORF4:gid::pid::loc:3360:5928:strand:- -            855   2.6e-80  269.6   5.8   1   1   1.2e-83   5.3e-80  268.6   0.6     2   253     4   247     3   247 0.94 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.22   118 CS211_c00001_NODE_1_...cluster249_ORF4:gid::pid::loc:3360:5928:strand:- -            855   3.2e-44  149.7   0.1   1   1   3.3e-46   1.5e-42  144.4   0.1     2   117   256   372   255   373 0.98 Beta-ketoacyl synthase, C-terminal domain
+Acyl_transf_1        PF00698.21   319 CS211_c00001_NODE_1_...cluster249_ORF4:gid::pid::loc:3360:5928:strand:- -            855   7.2e-29  101.3   0.2   1   1   5.8e-32   2.6e-28   99.5   0.2     2   114   564   678   563   683 0.97 Acyl transferase domain
+KAsynt_C_assoc       PF16197.5    112 CS211_c00001_NODE_1_...cluster249_ORF4:gid::pid::loc:3360:5928:strand:- -            855   1.1e-12   48.3   0.0   1   1   9.2e-16   4.1e-12   46.5   0.0     1    87   375   495   375   499 0.94 Ketoacyl-synthetase C-terminal extension
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster249.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS211_c00001_NODE_1_...cluster249.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster249.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:40:29 2019
+# [ok]

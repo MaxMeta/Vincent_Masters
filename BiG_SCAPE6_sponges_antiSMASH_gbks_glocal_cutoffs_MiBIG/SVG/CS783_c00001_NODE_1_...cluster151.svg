@@ -1,0 +1,68 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="233.6" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="223.6" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg8729_1)</title>
+			<polygon class=" (ctg8729_1)" points="17,10 25,40 17,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg8729_2)</title>
+			<polygon class=" (ctg8729_2)" points="25,10 52,40 25,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg8729_3)</title>
+			<polygon class=" (ctg8729_3)" points="91,25 86,25 86,10 56,40 86,70 86,55 91,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="60,40 72,28 88,28 88,52 72,52" stroke-linejoin="round" width="29" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8729_4)</title>
+			<polygon class=" (ctg8729_4)" points="124,25 120,25 120,10 90,40 120,70 120,55 124,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="94,40 106,28 122,28 122,52 106,52" stroke-linejoin="round" width="29" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8729_5)</title>
+			<polygon class=" (ctg8729_5)" points="132,40 140,10 140,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg8729_6)</title>
+			<polygon class=" (ctg8729_6)" points="176,25 172,25 172,10 142,40 172,70 172,55 176,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TrkA_C (PF02080)
+"TrkA-C domain"</title>
+				<polygon class="PF02080" points="146,40 149,37 149,43" stroke-linejoin="round" width="7" height="24" fill="rgb(76,186,211)" stroke="rgb(60,148,168)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TrkA_N (PF02254)
+"TrkA-N domain"</title>
+				<polygon class="PF02254" points="153,33 158,28 164,28 164,52 158,52 153,47" stroke-linejoin="round" width="11" height="24" fill="rgb(120,217,104)" stroke="rgb(96,173,83)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ion_trans_2 (PF07885)
+"Ion channel"</title>
+				<rect class="PF07885" x="166" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(72,141,189)" stroke="rgb(57,112,151)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8729_7)</title>
+			<polygon class=" (ctg8729_7)" points="190,25 192,25 192,10 222,40 192,70 192,55 190,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Phe_tRNA-synt_N (PF02912)
+"Aminoacyl tRNA synthetase class II, N-terminal domain"</title>
+				<rect class="PF02912" x="192" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(185,106,54)" stroke="rgb(148,84,43)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>tRNA-synt_2d (PF01409)
+"tRNA synthetases class II core domain (F)"</title>
+				<polygon class="PF01409" points="199,28 206,28 218,40 206,52 199,52" stroke-linejoin="round" width="23" height="24" fill="rgb(88,202,82)" stroke="rgb(70,161,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

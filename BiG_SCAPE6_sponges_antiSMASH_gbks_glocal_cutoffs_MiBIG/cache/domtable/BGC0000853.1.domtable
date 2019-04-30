@@ -1,0 +1,18 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Acetyltransf_1       PF00583.25   117 BGC0000853.1_ORF1:gid:thpA:pid:AAS02094.1:loc:8:539:strand:+ -            176   3.9e-13   49.7   0.0   1   1   5.8e-17   5.2e-13   49.2   0.0    26   113    49   137    27   140 0.82 Acetyltransferase (GNAT) family
+FR47                 PF08445.10    86 BGC0000853.1_ORF1:gid:thpA:pid:AAS02094.1:loc:8:539:strand:+ -            176   2.2e-05   24.3   0.0   1   1   3.8e-09   3.4e-05   23.7   0.0    23    74    85   138    64   146 0.77 FR47-like protein
+Aminotran_3          PF00202.21   406 BGC0000853.1_ORF2:gid:thpB:pid:AAS02095.1:loc:697:1960:strand:+ -            420   4.5e-75  252.8   0.0   1   1   3.3e-79   5.9e-75  252.4   0.0    11   405    27   415    20   416 0.85 Aminotransferase class-III
+Ectoine_synth        PF06339.12   127 BGC0000853.1_ORF3:gid:thpC:pid:AAS02096.1:loc:2046:2445:strand:+ -            132     4e-57  191.9   0.1   1   1   2.5e-61   4.5e-57  191.7   0.1     1   125     1   127     1   129 0.98 Ectoine synthase
+PhyH                 PF05721.13   211 BGC0000853.1_ORF4:gid:thpD:pid:AAS02097.1:loc:2451:3345:strand:+ -            297   3.5e-37  128.7   0.0   1   1   2.5e-41   4.5e-37  128.4   0.0     1   209    45   260    45   262 0.96 Phytanoyl-CoA dioxygenase (PhyH)
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000853.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000853.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000853.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:31:50 2019
+# [ok]

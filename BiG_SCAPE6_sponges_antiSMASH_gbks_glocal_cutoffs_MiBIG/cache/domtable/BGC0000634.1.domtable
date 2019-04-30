@@ -1,0 +1,27 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+FA_desaturase        PF00487.24   254 BGC0000634.1_ORF2:gid:crtW:pid:BAD99406.1:loc:1752:2487:strand:- -            244   2.3e-21   76.8  34.0   1   2   1.5e-15   2.7e-11   43.8   5.4     4   101    47   142    44   146 0.74 Fatty acid desaturase
+FA_desaturase        PF00487.24   254 BGC0000634.1_ORF2:gid:crtW:pid:BAD99406.1:loc:1752:2487:strand:- -            244   2.3e-21   76.8  34.0   2   2   1.7e-15   3.1e-11   43.6  16.8   136   232   143   239   138   241 0.83 Fatty acid desaturase
+Lycopene_cycl        PF05834.12   380 BGC0000634.1_ORF3:gid:crtY:pid:BAD99407.1:loc:2566:3745:strand:+ -            392   3.5e-96  322.6   0.0   1   1  2.2e-100   3.9e-96  322.4   0.0     1   376    12   380    12   384 0.98 Lycopene cyclase protein
+Amino_oxidase        PF01593.24   452 BGC0000634.1_ORF4:gid:crtI:pid:BAD99408.1:loc:3744:5226:strand:+ -            493     1e-45  156.9   0.0   1   1   2.9e-49   1.3e-45  156.6   0.0     2   451    11   485    10   486 0.84 Flavin containing amine oxidoreductase
+NAD_binding_8        PF13450.6     68 BGC0000634.1_ORF4:gid:crtI:pid:BAD99408.1:loc:3744:5226:strand:+ -            493   1.6e-13   50.7   0.1   1   1   9.1e-17   4.1e-13   49.4   0.1     1    65     5    66     5    69 0.92 NAD(P)-binding Rossmann-like domain
+SQS_PSY              PF00494.19   263 BGC0000634.1_ORF5:gid:crtB:pid:BAD99409.1:loc:5222:6155:strand:+ -            310     6e-69  232.5   6.4   1   1   4.2e-73   7.5e-69  232.2   6.4     3   259    15   272    13   275 0.94 Squalene/phytoene synthase
+ABC2_membrane        PF01061.24   210 BGC0000634.1_ORF6:gid::pid:BAD99410.1:loc:6161:7226:strand:- -            354   1.7e-17   63.6   5.6   1   1   1.1e-20   9.7e-17   61.1   4.0    53   208   160   316   145   318 0.90 ABC-2 type transporter
+ABC2_membrane_3      PF12698.7    345 BGC0000634.1_ORF6:gid::pid:BAD99410.1:loc:6161:7226:strand:- -            354   2.3e-17   63.2   0.0   1   1   3.3e-21   2.9e-17   62.8   0.0     4   343    18   344    15   346 0.82 ABC-2 family transporter protein
+ABC_tran             PF00005.27   137 BGC0000634.1_ORF7:gid::pid:BAD99411.1:loc:7225:8173:strand:- -            315   6.9e-24   84.9   0.0   1   1   5.5e-28   9.9e-24   84.4   0.0     1   136    34   171    34   172 0.88 ABC transporter
+polyprenyl_synt      PF00348.17   256 BGC0000634.1_ORF8:gid:crtE:pid:BAD99412.1:loc:8132:9029:strand:- -            298   9.8e-42  142.8   0.2   1   1   7.4e-46   1.3e-41  142.3   0.2    10   210    47   247    40   253 0.90 Polyprenyl synthetase
+FMN_dh               PF01070.18   348 BGC0000634.1_ORF9:gid:idi:pid:BAD99413.1:loc:9168:10221:strand:+ -            350   1.2e-18   67.3   8.9   1   2   3.1e-10   5.5e-06   25.6   0.0    27   100    29   103    18   114 0.85 FMN-dependent dehydrogenase
+FMN_dh               PF01070.18   348 BGC0000634.1_ORF9:gid:idi:pid:BAD99413.1:loc:9168:10221:strand:+ -            350   1.2e-18   67.3   8.9   2   2   5.4e-15   9.6e-11   41.3   7.2   207   344   183   342   138   346 0.93 FMN-dependent dehydrogenase
+FA_hydroxylase       PF04116.13   133 BGC0000634.1_ORF10:gid:crtZ:pid:BAD99414.1:loc:10187:10673:strand:- -            161   5.9e-11   42.8  14.0   1   1   4.3e-15   7.6e-11   42.5  14.0     1   121    10   136    10   141 0.68 Fatty acid hydroxylase superfamily
+FA_hydroxylase       PF04116.13   133 BGC0000634.1_ORF11:gid:crtG:pid:BAD99415.1:loc:10747:11521:strand:+ -            257   3.7e-27   95.3  14.7   1   1   2.1e-31   3.7e-27   95.3  14.7     2   133   100   234    99   234 0.88 Fatty acid hydroxylase superfamily
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000634.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000634.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000634.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:44:21 2019
+# [ok]

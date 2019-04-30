@@ -1,0 +1,213 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="673.1666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="663.1666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>ald (BSU31930)
+L-alanine dehydrogenase</title>
+			<polygon class="ald (BSU31930)
+L-alanine dehydrogenase" points="10,25 17,25 17,10 47,40 17,70 17,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AlaDh_PNT_N (PF05222)
+"Alanine dehydrogenase/PNT, N-terminal domain"</title>
+				<rect class="PF05222" x="10" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(60,217,133)" stroke="rgb(47,173,106)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AlaDh_PNT_C (PF01262)
+"Alanine dehydrogenase/PNT, C-terminal domain"</title>
+				<polygon class="PF01262" points="23,28 31,28 43,40 31,52 23,52" stroke-linejoin="round" width="21" height="24" fill="rgb(96,211,180)" stroke="rgb(76,168,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>yukJ (BSU31945)
+conserved hypothetical protein</title>
+			<polygon class="yukJ (BSU31945)
+conserved hypothetical protein" points="51,10 73,40 51,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2278 (PF10042)
+"Uncharacterized conserved protein (DUF2278)"</title>
+				<polygon class="PF10042" points="51,28 61,28 69,40 61,52 51,52" stroke-linejoin="round" width="21" height="24" fill="rgb(102,216,88)" stroke="rgb(81,172,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ybdZ (BSU31959)
+conserved hypothetical protein</title>
+			<polygon class="ybdZ (BSU31959)
+conserved hypothetical protein" points="75,40 82,10 82,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MbtH (PF03621)
+"MbtH-like protein"</title>
+				<polygon class="PF03621" points="78,40 81,28 81,28 81,52 81,52" stroke-linejoin="round" width="5" height="24" fill="rgb(212,165,97)" stroke="rgb(169,132,77)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>dhbF (BSU31960)
+siderophore 2,3-dihydroxybenzoate-glycine-threonine trimeric ester bacillibactin synthetase</title>
+			<polygon class="dhbF (BSU31960)
+siderophore 2,3-dihydroxybenzoate-glycine-threonine trimeric ester bacillibactin synthetase" points="320,25 113,25 113,10 83,40 113,70 113,55 320,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Thioesterase (PF00975)
+"Thioesterase domain"</title>
+				<polygon class="PF00975" points="87,40 99,28 107,28 107,52 99,52" stroke-linejoin="round" width="23" height="24" fill="rgb(207,80,138)" stroke="rgb(165,63,110)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="110" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<rect class="PF13193" x="119" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="127" y="28" stroke-linejoin="round" width="41" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="170" y="28" stroke-linejoin="round" width="45" height="24" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="217" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<rect class="PF13193" x="226" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="234" y="28" stroke-linejoin="round" width="39" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="276" y="28" stroke-linejoin="round" width="44" height="24" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>dhbB (BSU31970)
+isochorismatase</title>
+			<polygon class="dhbB (BSU31970)
+isochorismatase" points="352,25 351,25 351,10 321,40 351,70 351,55 352,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="325,40 328,37 328,43" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Isochorismatase (PF00857)
+"Isochorismatase family"</title>
+				<polygon class="PF00857" points="331,34 337,28 348,28 348,52 337,52 331,46" stroke-linejoin="round" width="17" height="24" fill="rgb(144,224,70)" stroke="rgb(115,179,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>dhbE (BSU31980)
+2,3-dihydroxybenzoate-AMP ligase</title>
+			<polygon class="dhbE (BSU31980)
+2,3-dihydroxybenzoate-AMP ligase" points="407,25 383,25 383,10 353,40 383,70 383,55 407,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<polygon class="PF13193" points="357,40 362,35 362,45" stroke-linejoin="round" width="7" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<polygon class="PF00501" points="363,34 369,28 403,28 403,52 369,52 363,46" stroke-linejoin="round" width="40" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>dhbC (BSU31990)
+isochorismate synthase</title>
+			<polygon class="dhbC (BSU31990)
+isochorismate synthase" points="447,25 438,25 438,10 408,40 438,70 438,55 447,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Chorismate_bind (PF00425)
+"chorismate binding enzyme"</title>
+				<polygon class="PF00425" points="412,40 424,28 435,28 435,52 424,52" stroke-linejoin="round" width="26" height="24" fill="rgb(188,116,88)" stroke="rgb(150,92,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>dhbA (BSU32000)
+2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase</title>
+			<polygon class="dhbA (BSU32000)
+2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase" points="449,40 475,10 475,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short (PF00106)
+"short chain dehydrogenase"</title>
+				<polygon class="PF00106" points="454,39 463,28 473,28 473,52 463,52 454,41" stroke-linejoin="round" width="19" height="24" fill="rgb(182,219,73)" stroke="rgb(145,175,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>besA (BSU32010)
+bacillibactin trilactone hydrolase</title>
+			<polygon class="besA (BSU32010)
+bacillibactin trilactone hydrolase" points="482,40 511,10 511,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Esterase (PF00756)
+"Putative esterase"</title>
+				<polygon class="PF00756" points="486,40 498,28 507,28 507,52 498,52" stroke-linejoin="round" width="23" height="24" fill="rgb(217,132,77)" stroke="rgb(173,105,61)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>yuiH (BSU32020)
+putative enzymes similar to sulfite oxidase</title>
+			<polygon class="yuiH (BSU32020)
+putative enzymes similar to sulfite oxidase" points="518,40 537,10 537,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Oxidored_molyb (PF00174)
+"Oxidoreductase molybdopterin binding domain"</title>
+				<polygon class="PF00174" points="522,40 530,28 534,28 534,52 530,52" stroke-linejoin="round" width="14" height="24" fill="rgb(152,193,93)" stroke="rgb(121,154,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>bioYB (BSU32030)
+putative biotin transporter</title>
+			<polygon class="bioYB (BSU32030)
+putative biotin transporter" points="541,10 561,40 541,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BioY (PF02632)
+"BioY family"</title>
+				<polygon class="PF02632" points="544,28 549,28 557,40 549,52 544,52" stroke-linejoin="round" width="14" height="24" fill="rgb(209,203,81)" stroke="rgb(167,162,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>yuiF (BSU32040)
+amino acid transporter</title>
+			<polygon class="yuiF (BSU32040)
+amino acid transporter" points="607,25 593,25 593,10 563,40 593,70 593,55 607,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Na_H_antiporter (PF03553)
+"Na+/H+ antiporter family"</title>
+				<polygon class="PF03553" points="567,40 579,28 591,28 591,52 579,52" stroke-linejoin="round" width="28" height="24" fill="rgb(115,72,216)" stroke="rgb(91,57,172)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Na_H_antiport_2 (PF13726)
+"Na+-H+ antiporter family"</title>
+				<rect class="PF13726" x="598" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(136,93,202)" stroke="rgb(108,74,161)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>pepA (BSU32050)
+leucyl aminopeptidase</title>
+			<polygon class="pepA (BSU32050)
+leucyl aminopeptidase" points="663,25 643,25 643,10 613,40 643,70 643,55 663,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_M17 (PF00883)
+"Cytosol aminopeptidase family, catalytic domain"</title>
+				<polygon class="PF00883" points="617,40 629,28 644,28 644,52 629,52" stroke-linejoin="round" width="30" height="24" fill="rgb(81,178,163)" stroke="rgb(64,142,130)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Peptidase_M17_N (PF02789)
+"Cytosol aminopeptidase family, N-terminal domain"</title>
+				<rect class="PF02789" x="648" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(216,155,96)" stroke="rgb(172,124,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

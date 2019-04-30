@@ -1,0 +1,189 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="630.1333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="620.1333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg3317_1)</title>
+			<polygon class=" (ctg3317_1)" points="10,40 22,10 22,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3317_2)</title>
+			<polygon class=" (ctg3317_2)" points="33,25 40,25 40,10 70,40 40,70 40,55 33,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DAO (PF01266)
+"FAD dependent oxidoreductase"</title>
+				<polygon class="PF01266" points="33,28 54,28 66,40 54,52 33,52" stroke-linejoin="round" width="34" height="24" fill="rgb(123,179,59)" stroke="rgb(98,143,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3317_3)</title>
+			<polygon class=" (ctg3317_3)" points="78,25 85,25 85,10 115,40 85,70 85,55 78,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Iso_dh (PF00180)
+"Isocitrate/isopropylmalate dehydrogenase"</title>
+				<polygon class="PF00180" points="78,28 99,28 111,40 99,52 78,52" stroke-linejoin="round" width="36" height="24" fill="rgb(109,54,206)" stroke="rgb(87,43,164)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3317_4)</title>
+			<polygon class=" (ctg3317_4)" points="208,25 148,25 148,10 118,40 148,70 148,55 208,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acyltransferase (PF01553)
+"Acyltransferase"</title>
+				<polygon class="PF01553" points="124,38 134,28 138,28 138,52 134,52 124,42" stroke-linejoin="round" width="14" height="24" fill="rgb(87,176,216)" stroke="rgb(69,140,172)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="147" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="165" y="28" stroke-linejoin="round" width="41" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3317_5)</title>
+			<polygon class=" (ctg3317_5)" points="210,40 236,10 236,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Hydrolase_like (PF13242)
+"HAD-hyrolase-like"</title>
+				<polygon class="PF13242" points="214,40 217,37 217,43" stroke-linejoin="round" width="7" height="24" fill="rgb(202,89,70)" stroke="rgb(161,71,56)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Hydrolase_6 (PF13344)
+"Haloacid dehalogenase-like hydrolase"</title>
+				<rect class="PF13344" x="225" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(78,107,184)" stroke="rgb(62,85,147)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3317_6)</title>
+			<polygon class=" (ctg3317_6)" points="247,10 261,40 247,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3317_7)</title>
+			<polygon class=" (ctg3317_7)" points="262,40 287,10 287,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Metallophos_2 (PF12850)
+"Calcineurin-like phosphoesterase superfamily domain"</title>
+				<polygon class="PF12850" points="266,40 276,28 286,28 286,52 276,52" stroke-linejoin="round" width="21" height="24" fill="rgb(143,76,212)" stroke="rgb(114,60,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3317_8)</title>
+			<polygon class=" (ctg3317_8)" points="289,40 309,10 309,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HAD_2 (PF13419)
+"Haloacid dehalogenase-like hydrolase"</title>
+				<polygon class="PF13419" points="293,40 299,31 299,49" stroke-linejoin="round" width="9" height="24" fill="rgb(60,223,188)" stroke="rgb(48,178,150)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3317_9)</title>
+			<polygon class=" (ctg3317_9)" points="341,25 340,25 340,10 310,40 340,70 340,55 341,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>UxuA (PF03786)
+"D-mannonate dehydratase (UxuA)"</title>
+				<polygon class="PF03786" points="314,40 326,28 327,28 327,52 326,52" stroke-linejoin="round" width="17" height="24" fill="rgb(193,50,168)" stroke="rgb(154,39,134)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>UxuA (PF03786)
+"D-mannonate dehydratase (UxuA)"</title>
+				<rect class="PF03786" x="327" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(193,50,168)" stroke="rgb(154,39,134)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3317_10)</title>
+			<polygon class=" (ctg3317_10)" points="352,25 376,25 376,10 406,40 376,70 376,55 352,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SSF (PF00474)
+"Sodium:solute symporter family"</title>
+				<polygon class="PF00474" points="356,28 389,28 397,36 397,44 389,52 356,52" stroke-linejoin="round" width="41" height="24" fill="rgb(49,186,178)" stroke="rgb(39,148,142)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3317_11)</title>
+			<polygon class=" (ctg3317_11)" points="421,40 438,10 438,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pur_DNA_glyco (PF02245)
+"Methylpurine-DNA glycosylase (MPG)"</title>
+				<polygon class="PF02245" points="424,40 431,28 438,28 438,52 431,52" stroke-linejoin="round" width="17" height="24" fill="rgb(224,94,125)" stroke="rgb(179,75,100)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3317_12)</title>
+			<polygon class=" (ctg3317_12)" points="476,25 472,25 472,10 442,40 472,70 472,55 476,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PD40 (PF07676)
+"WD40-like Beta Propeller Repeat"</title>
+				<polygon class="PF07676" points="446,40 446,40 446,40" stroke-linejoin="round" width="4" height="24" fill="rgb(49,78,191)" stroke="rgb(39,62,152)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PD40 (PF07676)
+"WD40-like Beta Propeller Repeat"</title>
+				<polygon class="PF07676" points="447,39 451,35 451,45 447,41" stroke-linejoin="round" width="4" height="24" fill="rgb(49,78,191)" stroke="rgb(39,62,152)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PD40 (PF07676)
+"WD40-like Beta Propeller Repeat"</title>
+				<polygon class="PF07676" points="454,32 457,29 457,51 454,48" stroke-linejoin="round" width="3" height="24" fill="rgb(49,78,191)" stroke="rgb(39,62,152)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PD40 (PF07676)
+"WD40-like Beta Propeller Repeat"</title>
+				<polygon class="PF07676" points="458,28 458,28 461,28 461,52 458,52 458,52" stroke-linejoin="round" width="3" height="24" fill="rgb(49,78,191)" stroke="rgb(39,62,152)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PD40 (PF07676)
+"WD40-like Beta Propeller Repeat"</title>
+				<rect class="PF07676" x="465" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(49,78,191)" stroke="rgb(39,62,152)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PD40 (PF07676)
+"WD40-like Beta Propeller Repeat"</title>
+				<rect class="PF07676" x="469" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(49,78,191)" stroke="rgb(39,62,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3317_13)</title>
+			<polygon class=" (ctg3317_13)" points="523,25 508,25 508,10 478,40 508,70 508,55 523,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_3 (PF00202)
+"Aminotransferase class-III"</title>
+				<polygon class="PF00202" points="482,40 494,28 520,28 520,52 494,52" stroke-linejoin="round" width="42" height="24" fill="rgb(49,163,189)" stroke="rgb(39,130,151)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3317_14)</title>
+			<polygon class=" (ctg3317_14)" points="529,40 555,10 555,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_11 (PF08241)
+"Methyltransferase domain"</title>
+				<polygon class="PF08241" points="541,31 543,28 550,28 550,52 543,52 541,49" stroke-linejoin="round" width="9" height="24" fill="rgb(106,219,159)" stroke="rgb(84,175,127)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3317_15)</title>
+			<polygon class=" (ctg3317_15)" points="568,40 587,10 587,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1080 (PF06439)
+"Domain of Unknown Function (DUF1080)"</title>
+				<polygon class="PF06439" points="572,40 580,28 586,28 586,52 580,52" stroke-linejoin="round" width="18" height="24" fill="rgb(136,84,203)" stroke="rgb(108,67,162)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3317_16)</title>
+			<polygon class=" (ctg3317_16)" points="591,40 620,10 620,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Hexapep (PF00132)
+"Bacterial transferase hexapeptide (six repeats)"</title>
+				<polygon class="PF00132" points="595,40 598,37 598,43 595,40" stroke-linejoin="round" width="3" height="24" fill="rgb(89,131,202)" stroke="rgb(71,104,161)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SATase_N (PF06426)
+"Serine acetyltransferase, N-terminal"</title>
+				<polygon class="PF06426" points="606,29 607,28 616,28 616,52 607,52 606,51" stroke-linejoin="round" width="10" height="24" fill="rgb(66,167,178)" stroke="rgb(52,133,142)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

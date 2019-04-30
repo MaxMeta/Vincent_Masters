@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+BGC0001370.1_ORF36:gid::pid:ALV82373.1:loc:71943:72084:strand:-:1:32          .....-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------AVDL
+#=GR BGC0001370.1_ORF36:gid::pid:ALV82373.1:loc:71943:72084:strand:-:1:32  PP ....................................................................................................................................................................................................589*
+BGC0001522.1_ORF7:gid::pid:AWR88385.1:loc:7591:10519:strand:+:743:958         pdprg-------RPLTHDEARALLGRYGIDVRPTLPAPDPEAAVAAAARLGYPVALKTTAPHLRHRADLGGVRLDVADEEALRRAYGELTDLLGK--PA-ELL-PVVQAMAP-RGVDTVVRASIDAAAGAILSFGLAGAPSELLGDTAHRLVPATDRDAAELIRSIRAAPVLFGWRGSAPVDTAALEELLLRLSRLVDDH
+#=GR BGC0001522.1_ORF7:gid::pid:AWR88385.1:loc:7591:10519:strand:+:743:958 PP *8865.......5699*****************************************************************************88..44.444.459*****.9**************************************************************************************
+BGC0000721.1_ORF1:gid::pid:CAH18532.1:loc:0:559:strand:+:8:170                ppaws-----------------------------------------------------------TRARGGGVVLGVRGDAEVRAAVTRLRYRFGE-----DLTGVLVQPMVE-PGRELLVGVHNDGVFGPLVVLGLGGVDTDLVADRTCRLVPLTDRDAAEMLGQLRCAPALLAEQMARRFDAPAVLDVLLRVGRLADLL
+#=GR BGC0000721.1_ORF1:gid::pid:CAH18532.1:loc:0:559:strand:+:8:170        PP 97765...........................................................67788***********************966.....8*********99.9************************************************************999989********************
+#=GC PP_cons                                                                  ............5699************************************************88999***********************977..44.677*78****99.9************************************************************999999****************89**
+#=GC RF                                                                       .....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BGC0001370.1_ORF36:gid::pid:ALV82373.1:loc:71943:72084:strand:-:1:32          PQLAEADFNPVLATPGGITVLDARIRL
+#=GR BGC0001370.1_ORF36:gid::pid:ALV82373.1:loc:71943:72084:strand:-:1:32  PP *************************97
+BGC0001522.1_ORF7:gid::pid:AWR88385.1:loc:7591:10519:strand:+:743:958         PEVVSVTLEPVVVAPQGLTVLGASVRL
+#=GR BGC0001522.1_ORF7:gid::pid:AWR88385.1:loc:7591:10519:strand:+:743:958 PP *************************97
+BGC0000721.1_ORF1:gid::pid:CAH18532.1:loc:0:559:strand:+:8:170                PEVAELDLNPLVVHGTGAVVVDARVRL
+#=GR BGC0000721.1_ORF1:gid::pid:CAH18532.1:loc:0:559:strand:+:8:170        PP *************************97
+#=GC PP_cons                                                                  *************************97
+#=GC RF                                                                       xxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

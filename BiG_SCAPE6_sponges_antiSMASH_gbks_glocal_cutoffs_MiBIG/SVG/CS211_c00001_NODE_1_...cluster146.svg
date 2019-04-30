@@ -1,0 +1,63 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="323.6666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="313.6666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg4387_1)</title>
+			<polygon class=" (ctg4387_1)" points="46,25 40,25 40,10 10,40 40,70 40,55 46,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MacB_PCD (PF12704)
+"MacB-like periplasmic core domain"</title>
+				<polygon class="PF12704" points="22,32 26,28 43,28 43,52 26,52 22,48" stroke-linejoin="round" width="21" height="24" fill="rgb(79,76,190)" stroke="rgb(63,60,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4387_2)</title>
+			<polygon class=" (ctg4387_2)" points="79,25 76,25 76,10 46,40 76,70 76,55 79,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg4387_3)</title>
+			<polygon class=" (ctg4387_3)" points="126,25 110,25 110,10 80,40 110,70 110,55 126,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cytokin-bind (PF09265)
+"Cytokinin dehydrogenase 1, FAD and cytokinin binding"</title>
+				<polygon class="PF09265" points="84,40 94,30 94,50" stroke-linejoin="round" width="14" height="24" fill="rgb(67,184,162)" stroke="rgb(53,147,129)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FAD_binding_4 (PF01565)
+"FAD binding domain"</title>
+				<rect class="PF01565" x="108" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(226,88,136)" stroke="rgb(180,70,108)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4387_4)</title>
+			<polygon class=" (ctg4387_4)" points="138,10 147,40 138,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NHase_alpha (PF02979)
+"Nitrile hydratase, alpha chain"</title>
+				<polygon class="PF02979" points="139,28 139,28 143,40 139,52 139,52" stroke-linejoin="round" width="6" height="24" fill="rgb(204,148,70)" stroke="rgb(163,118,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4387_5)</title>
+			<polygon class=" (ctg4387_5)" points="152,25 155,25 155,10 185,40 155,70 155,55 152,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg4387_6)</title>
+			<polygon class=" (ctg4387_6)" points="187,25 196,25 196,10 226,40 196,70 196,55 187,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CoA_transf_3 (PF02515)
+"CoA-transferase family III"</title>
+				<polygon class="PF02515" points="187,28 210,28 222,40 210,52 187,52" stroke-linejoin="round" width="36" height="24" fill="rgb(226,102,90)" stroke="rgb(180,81,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4387_7)</title>
+			<polygon class=" (ctg4387_7)" points="227,25 237,25 237,10 267,40 237,70 237,55 227,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CoA_transf_3 (PF02515)
+"CoA-transferase family III"</title>
+				<polygon class="PF02515" points="227,28 251,28 263,40 251,52 227,52" stroke-linejoin="round" width="37" height="24" fill="rgb(226,102,90)" stroke="rgb(180,81,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

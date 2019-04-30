@@ -1,0 +1,24 @@
+# STOCKHOLM 1.0
+
+CS202_c00001_NODE_1_...cluster070_ORF29:gid::pid::loc:31263:32049:strand:+:17:249         ..........grde---------------------GILFGERDREVTGIQVCWMASLDAIAHAAEAGDNLIIAHEDLYFPSWRPPGSAtpvdflswRANQRRMGLLSQHGIAVIRSHGSLDRNC--IFDAFADKLGLG--APVVN--------EGPYLKAYDLPQNTTYGSLVERVKSALVMEAVRATPhDPAAPVRRAG
+#=GR CS202_c00001_NODE_1_...cluster070_ORF29:gid::pid::loc:31263:32049:strand:+:17:249 PP ..........*986.....................9999***************************************977766555555588888899**********************997..9**********9..45554........44688899***************************88**********
+CS783_c00001_NODE_1_...cluster016_ORF21:gid::pid::loc:32271:33096:strand:+:24:262         ....dscgppggde---------------------GILFGNREQEITGIQVCWMASLDAIEHAGKSGDNLIIAHEDLYFPSWRPPGSAtpvdylswRVNQRRLGLLAQHGIAVIRSHGSLDRYC--IFDAFAEKLSLG--APVVD--------EGPYLKAYDLPPDTTYGGLVERVKSALGMEAVRATPhDPSALVHRAG
+#=GR CS783_c00001_NODE_1_...cluster016_ORF21:gid::pid::loc:32271:33096:strand:+:24:262 PP ....****999875.....................999****************************************966665555555577777899**********************987..9********998..35544........44688899***************************88**********
+CS203_c00001_NODE_1_...cluster009_ORF21:gid::pid::loc:33130:33916:strand:+:12:249         .....scgppggde---------------------GILFGNREQEVTGIQVCWMASLDAIEHAGKSGDNLIIAHEDLYFPSWRPPGSAtpvdylswRVNQRRLGLLAQYGIAVIRSHGSLDRYC--IFDAFAEKLSLG--APVVN--------DGPYLKAYDLPPDTTYGALVERVKSALGMAAVRATPhDPSALVHRAG
+#=GR CS203_c00001_NODE_1_...cluster009_ORF21:gid::pid::loc:33130:33916:strand:+:12:249 PP .....****99875.....................999****************************************966665555555577777899**********************987..9********998..45554........34578899***************************88**********
+CS200_c00001_NODE_1_...cluster037_ORF21:gid::pid::loc:29951:30776:strand:+:20:262         qaiidscgppggde---------------------GILFGNREQEVTGIQVCWMASLDAIEHAGKSGDNLIIAHEDLYFPSWRPPGSAtpveylswRVNQRRLGLLAQHGIAVIRSHGSLDRYC--IFDAFAKKLSLG--APIVN--------DGPYLKAFDLPPDTTYGALVARVKSALGMAAVRATPhDPSAPVHRAG
+#=GR CS200_c00001_NODE_1_...cluster037_ORF21:gid::pid::loc:29951:30776:strand:+:20:262 PP ******99998875.....................999****************************************977666555555578888899**********************987..9********998..57776........3468899****************************88**********
+#=GC PP_cons                                                                              ...................................999****************************************9766665555........899**********************987..9********998..45554........34688899***************************8.**********
+#=GC RF                                                                                   ..............xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxx
+
+CS202_c00001_NODE_1_...cluster070_ORF29:gid::pid::loc:31263:32049:strand:+:17:249         LPWGGLGlfvnvGYMQSILKYDCDVFIAGESDNYGMHFARDSGVPLIETSHEVSENPGLAQFAEELQAKLPD-ipv
+#=GR CS202_c00001_NODE_1_...cluster070_ORF29:gid::pid::loc:31263:32049:strand:+:17:249 PP 9776666477777888****************************************************9986.699
+CS783_c00001_NODE_1_...cluster016_ORF21:gid::pid::loc:32271:33096:strand:+:24:262         LPWGGLGlfvnvGYMQSILKYGCDVFIAGESDNYGMHFALDSGVPMIETSHEVSENPGLAQYTKELQTTLPE-vpv
+#=GR CS783_c00001_NODE_1_...cluster016_ORF21:gid::pid::loc:32271:33096:strand:+:24:262 PP 9776666477777888**************************************************998875.799
+CS203_c00001_NODE_1_...cluster009_ORF21:gid::pid::loc:33130:33916:strand:+:12:249         LPWGGLGlfvnvGYMQSILKYGCDVFIAGESDNYGMHFALDAGVPMIETSHEVSENPGLAQYAKELQTTLPE-vpv
+#=GR CS203_c00001_NODE_1_...cluster009_ORF21:gid::pid::loc:33130:33916:strand:+:12:249 PP 9776666477777888***************************************************99875.699
+CS200_c00001_NODE_1_...cluster037_ORF21:gid::pid::loc:29951:30776:strand:+:20:262         LPWGGLGlfvnvGYMQSILKYGCDVFIAGESDNYGMHFALDSGVPMIETSHEVSENPGLAQYAKELQTTLPE-vpv
+#=GR CS200_c00001_NODE_1_...cluster037_ORF21:gid::pid::loc:29951:30776:strand:+:20:262 PP 9776666477777888***************************************************99875.699
+#=GC PP_cons                                                                              9776666.....7888***************************************************99875....
+#=GC RF                                                                                   xxxxxxx.....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...
+//

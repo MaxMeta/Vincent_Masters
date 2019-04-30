@@ -1,0 +1,243 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="936.9" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="926.9" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg1755_2)</title>
+			<polygon class=" (ctg1755_2)" points="71,40 87,10 87,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ALS_ss_C (PF10369)
+"Small subunit of acetolactate synthase"</title>
+				<polygon class="PF10369" points="74,40 78,33 78,47" stroke-linejoin="round" width="7" height="24" fill="rgb(93,227,61)" stroke="rgb(74,181,48)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ACT_5 (PF13710)
+"ACT domain"</title>
+				<polygon class="PF13710" points="80,29 81,28 86,28 86,52 81,52 80,51" stroke-linejoin="round" width="6" height="24" fill="rgb(52,188,189)" stroke="rgb(41,150,151)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1755_3)</title>
+			<polygon class=" (ctg1755_3)" points="92,25 123,25 123,10 153,40 123,70 123,55 92,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TPP_enzyme_N (PF02776)
+"Thiamine pyrophosphate enzyme, N-terminal TPP binding domain"</title>
+				<rect class="PF02776" x="94" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(55,81,185)" stroke="rgb(44,64,148)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TPP_enzyme_M (PF00205)
+"Thiamine pyrophosphate enzyme, central domain"</title>
+				<rect class="PF00205" x="114" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(149,194,69)" stroke="rgb(119,155,55)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TPP_enzyme_C (PF02775)
+"Thiamine pyrophosphate enzyme, C-terminal TPP binding domain"</title>
+				<polygon class="PF02775" points="134,28 137,28 149,40 149,40 137,52 134,52" stroke-linejoin="round" width="15" height="24" fill="rgb(156,179,45)" stroke="rgb(124,143,36)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1755_4)</title>
+			<polygon class=" (ctg1755_4)" points="154,25 180,25 180,10 210,40 180,70 180,55 154,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amidase (PF01425)
+"Amidase"</title>
+				<rect class="PF01425" x="158" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(195,142,64)" stroke="rgb(156,113,51)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Amidase (PF01425)
+"Amidase"</title>
+				<polygon class="PF01425" points="188,28 193,28 205,40 193,52 188,52" stroke-linejoin="round" width="19" height="24" fill="rgb(195,142,64)" stroke="rgb(156,113,51)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1755_5)</title>
+			<polygon class=" (ctg1755_5)" points="212,40 228,10 228,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1755_6)</title>
+			<polygon class=" (ctg1755_6)" points="230,25 256,25 256,10 286,40 256,70 256,55 230,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Trypsin_2 (PF13365)
+"Trypsin-like peptidase domain"</title>
+				<rect class="PF13365" x="241" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(126,86,188)" stroke="rgb(100,68,150)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FHA (PF00498)
+"FHA domain"</title>
+				<polygon class="PF00498" points="277,35 282,40 277,45" stroke-linejoin="round" width="6" height="24" fill="rgb(57,178,90)" stroke="rgb(45,142,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1755_7)</title>
+			<polygon class=" (ctg1755_7)" points="287,10 297,40 287,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FHA (PF00498)
+"FHA domain"</title>
+				<polygon class="PF00498" points="287,28 289,28 293,36 293,44 289,52 287,52" stroke-linejoin="round" width="6" height="24" fill="rgb(57,178,90)" stroke="rgb(45,142,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1755_8)</title>
+			<polygon class=" (ctg1755_8)" points="298,40 322,10 322,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="306,35 312,28 320,28 320,52 312,52 306,45" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1755_9)</title>
+			<polygon class=" (ctg1755_9)" points="323,40 351,10 351,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BPD_transp_1 (PF00528)
+"Binding-protein-dependent transport system inner membrane component"</title>
+				<polygon class="PF00528" points="327,40 338,28 343,28 343,52 338,52" stroke-linejoin="round" width="18" height="24" fill="rgb(77,208,225)" stroke="rgb(61,166,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1755_10)</title>
+			<polygon class=" (ctg1755_10)" points="351,40 377,10 377,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SBP_bac_11 (PF13531)
+"Bacterial extracellular solute-binding protein"</title>
+				<polygon class="PF13531" points="355,40 365,28 373,28 373,52 365,52" stroke-linejoin="round" width="22" height="24" fill="rgb(202,228,104)" stroke="rgb(161,182,83)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1755_11)</title>
+			<polygon class=" (ctg1755_11)" points="378,40 405,10 405,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PBP_like (PF12727)
+"PBP superfamily domain"</title>
+				<polygon class="PF12727" points="382,40 393,28 399,28 399,52 393,52" stroke-linejoin="round" width="18" height="24" fill="rgb(153,200,50)" stroke="rgb(122,160,40)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1755_12)</title>
+			<polygon class=" (ctg1755_12)" points="409,10 419,40 409,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1755_13)</title>
+			<polygon class=" (ctg1755_13)" points="425,40 443,10 443,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1755_14)</title>
+			<polygon class=" (ctg1755_14)" points="505,25 490,25 490,10 460,40 490,70 490,55 505,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1755_15)</title>
+			<polygon class=" (ctg1755_15)" points="511,40 526,10 526,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1755_16)</title>
+			<polygon class=" (ctg1755_16)" points="530,10 535,40 530,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1755_17)</title>
+			<polygon class=" (ctg1755_17)" points="540,25 547,25 547,10 577,40 547,70 547,55 540,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1755_18)</title>
+			<polygon class=" (ctg1755_18)" points="578,10 598,40 578,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1755_19)</title>
+			<polygon class=" (ctg1755_19)" points="602,25 610,25 610,10 640,40 610,70 610,55 602,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DAO (PF01266)
+"FAD dependent oxidoreductase"</title>
+				<polygon class="PF01266" points="612,28 624,28 636,40 624,52 612,52" stroke-linejoin="round" width="27" height="24" fill="rgb(123,179,59)" stroke="rgb(98,143,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1755_20)</title>
+			<polygon class=" (ctg1755_20)" points="644,25 646,25 646,10 676,40 646,70 646,55 644,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Beta-lactamase2 (PF13354)
+"Beta-lactamase enzyme family"</title>
+				<polygon class="PF13354" points="650,28 660,28 670,38 670,42 660,52 650,52" stroke-linejoin="round" width="20" height="24" fill="rgb(72,61,190)" stroke="rgb(57,48,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1755_21)</title>
+			<polygon class=" (ctg1755_21)" points="676,25 681,25 681,10 711,40 681,70 681,55 676,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Chal_sti_synt_N (PF00195)
+"Chalcone and stilbene synthases, N-terminal domain"</title>
+				<polygon class="PF00195" points="682,28 694,28 696,30 696,50 694,52 682,52" stroke-linejoin="round" width="14" height="24" fill="rgb(60,181,161)" stroke="rgb(47,144,128)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Chal_sti_synt_C (PF02797)
+"Chalcone and stilbene synthases, C-terminal domain"</title>
+				<polygon class="PF02797" points="698,32 706,40 698,48" stroke-linejoin="round" width="13" height="24" fill="rgb(139,212,63)" stroke="rgb(111,169,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1755_22)</title>
+			<polygon class=" (ctg1755_22)" points="711,10 727,40 711,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ICMT (PF04140)
+"Isoprenylcysteine carboxyl methyltransferase (ICMT) family"</title>
+				<polygon class="PF04140" points="717,28 717,28 724,40 717,52 717,52" stroke-linejoin="round" width="9" height="24" fill="rgb(100,223,104)" stroke="rgb(80,178,83)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1755_23)</title>
+			<polygon class=" (ctg1755_23)" points="761,25 758,25 758,10 728,40 758,70 758,55 761,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Metallophos (PF00149)
+"Calcineurin-like phosphoesterase"</title>
+				<polygon class="PF00149" points="734,38 744,28 755,28 755,52 744,52 734,42" stroke-linejoin="round" width="21" height="24" fill="rgb(181,197,58)" stroke="rgb(144,157,46)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1755_24)</title>
+			<polygon class=" (ctg1755_24)" points="762,40 789,10 789,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>5_nucleotid_C (PF02872)
+"5'-nucleotidase, C-terminal domain"</title>
+				<polygon class="PF02872" points="766,40 777,28 780,28 780,52 777,52 766,40" stroke-linejoin="round" width="14" height="24" fill="rgb(215,156,101)" stroke="rgb(172,124,80)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1755_25)</title>
+			<polygon class=" (ctg1755_25)" points="793,10 810,40 793,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>His_Phos_1 (PF00300)
+"Histidine phosphatase superfamily (branch 1)"</title>
+				<polygon class="PF00300" points="797,28 800,28 804,35 804,45 800,52 797,52" stroke-linejoin="round" width="7" height="24" fill="rgb(135,184,63)" stroke="rgb(107,147,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1755_26)</title>
+			<polygon class=" (ctg1755_26)" points="811,25 820,25 820,10 850,40 820,70 820,55 811,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GCV_T (PF01571)
+"Aminomethyltransferase folate-binding domain"</title>
+				<polygon class="PF01571" points="812,28 834,28 837,31 837,49 834,52 812,52" stroke-linejoin="round" width="25" height="24" fill="rgb(112,228,161)" stroke="rgb(89,182,128)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GCV_T_C (PF08669)
+"Glycine cleavage T-protein C-terminal barrel domain"</title>
+				<polygon class="PF08669" points="841,35 846,40 841,45" stroke-linejoin="round" width="8" height="24" fill="rgb(184,178,54)" stroke="rgb(147,142,43)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1755_27)</title>
+			<polygon class=" (ctg1755_27)" points="851,25 874,25 874,10 904,40 874,70 874,55 851,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amino_oxidase (PF01593)
+"Flavin containing amine oxidoreductase"</title>
+				<polygon class="PF01593" points="852,28 888,28 900,40 888,52 852,52" stroke-linejoin="round" width="50" height="24" fill="rgb(184,74,52)" stroke="rgb(147,59,41)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1755_28)</title>
+			<polygon class=" (ctg1755_28)" points="904,10 926,40 904,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NAD_binding_8 (PF13450)
+"NAD(P)-binding Rossmann-like domain"</title>
+				<rect class="PF13450" x="907" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(91,180,227)" stroke="rgb(72,144,181)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

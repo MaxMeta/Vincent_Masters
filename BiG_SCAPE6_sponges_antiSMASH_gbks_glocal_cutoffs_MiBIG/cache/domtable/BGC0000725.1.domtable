@@ -1,0 +1,20 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Alginate_exp         PF13372.6    399 BGC0000725.1_ORF1:gid:algE:pid:AAN63148.1:loc:0:186:strand:+ -             61   3.6e-08   32.5   0.0   1   1     2e-12   3.6e-08   32.5   0.0   362   399    18    56     1    56 0.83 Alginate export
+Beta_helix           PF13229.6    158 BGC0000725.1_ORF2:gid:algG:pid:AAN63149.1:loc:208:1768:strand:+ -            519     4e-17   62.5  23.5   1   1   2.3e-18     2e-14   53.7  18.1     1   143   274   419   274   424 0.94 Right handed beta helix region
+NosD                 PF05048.13   241 BGC0000725.1_ORF2:gid:algG:pid:AAN63149.1:loc:208:1768:strand:+ -            519     3e-14   52.9  11.4   1   1   7.9e-18   7.1e-14   51.6  10.8    51   178   264   396   259   409 0.89 Periplasmic copper-binding protein (NosD)
+ALGX                 PF16822.5    268 BGC0000725.1_ORF3:gid:algX:pid:AAN63150.1:loc:1781:3221:strand:+ -            479   3.4e-81  272.9   0.0   1   1   5.1e-85   4.5e-81  272.4   0.0     2   267    62   327    61   328 0.97 SGNH hydrolase-like domain, acetyltransferase AlgX
+CBM_26               PF16824.5    130 BGC0000725.1_ORF3:gid:algX:pid:AAN63150.1:loc:1781:3221:strand:+ -            479   7.8e-60  200.7   0.0   1   1   1.4e-63   1.3e-59  200.0   0.0     1   129   348   475   348   476 0.98 C-terminal carbohydrate-binding module
+Alginate_lyase       PF05426.12   272 BGC0000725.1_ORF4:gid:algL:pid:AAN63147.1:loc:3235:4333:strand:+ -            365   7.3e-61  206.1   7.5   1   1     5e-65     9e-61  205.8   7.5     1   272    58   299    58   299 0.97 Alginate lyase
+MBOAT                PF03062.19   348 BGC0000725.1_ORF5:gid:algI:pid:AAN63151.1:loc:4531:5316:strand:+ -            261   1.2e-09   38.0   0.3   1   1   1.6e-13   2.8e-09   36.8   0.3    38   214    25   260     1   261 0.81 MBOAT, membrane-bound O-acyltransferase family
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000725.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000725.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000725.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:28:42 2019
+# [ok]

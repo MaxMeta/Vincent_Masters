@@ -1,0 +1,19 @@
+#                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Acyl_transf_1        PF00698.21   319 CS211_c00001_NODE_1_...cluster238_ORF1:gid::pid::loc:1:5230:strand:- -           1743   6.6e-66  223.0   0.0   1   1   3.9e-69   1.2e-65  222.2   0.0     3   316   544   859   542   861 0.92 Acyl transferase domain
+ketoacyl-synt        PF00109.26   253 CS211_c00001_NODE_1_...cluster238_ORF1:gid::pid::loc:1:5230:strand:- -           1743   3.7e-59  200.3   0.4   1   1   3.6e-62   1.1e-58  198.9   0.1     2   252    10   257     9   258 0.93 Beta-ketoacyl synthase, N-terminal domain
+PS-DH                PF14765.6    298 CS211_c00001_NODE_1_...cluster238_ORF1:gid::pid::loc:1:5230:strand:- -           1743   5.6e-32  111.2   0.0   1   1   3.9e-35   1.2e-31  110.1   0.0     2   286   908  1198   907  1202 0.81 Polyketide synthase dehydratase
+Ketoacyl-synt_C      PF02801.22   118 CS211_c00001_NODE_1_...cluster238_ORF1:gid::pid::loc:1:5230:strand:- -           1743     2e-28   98.8   0.1   1   1   1.7e-31     5e-28   97.5   0.1    16   114   290   388   272   391 0.93 Beta-ketoacyl synthase, C-terminal domain
+KAsynt_C_assoc       PF16197.5    112 CS211_c00001_NODE_1_...cluster238_ORF1:gid::pid::loc:1:5230:strand:- -           1743   1.1e-17   64.5   0.0   1   1     7e-21   2.1e-17   63.6   0.0     1   108   395   506   395   511 0.87 Ketoacyl-synthetase C-terminal extension
+DUF4070              PF13282.6    140 CS211_c00001_NODE_1_...cluster238_ORF2:gid::pid::loc:5226:6387:strand:- -            386   2.5e-21   76.2   0.0   1   1   2.6e-25   4.6e-21   75.4   0.0     1   134   152   285   152   288 0.89 Domain of unknown function (DUF4070)
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster238.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS211_c00001_NODE_1_...cluster238.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster238.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:30:29 2019
+# [ok]

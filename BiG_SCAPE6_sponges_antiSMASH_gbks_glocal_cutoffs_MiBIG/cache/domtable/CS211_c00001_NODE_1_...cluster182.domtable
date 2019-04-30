@@ -1,0 +1,32 @@
+#                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SQHop_cyclase_C      PF13243.6    319 CS211_c00001_NODE_1_...cluster182_ORF1:gid::pid::loc:0:3339:strand:+ -           1112   8.4e-62  209.1   1.2   1   1   6.4e-61   1.4e-57  195.2   1.3     2   318   780  1104   779  1105 0.91 Squalene-hopene cyclase C-terminal domain
+SQHop_cyclase_N      PF13249.6    291 CS211_c00001_NODE_1_...cluster182_ORF1:gid::pid::loc:0:3339:strand:+ -           1112   2.3e-52  177.9   8.7   1   1   1.3e-48     3e-45  154.5   0.1     2   290   476   769   475   770 0.89 Squalene-hopene cyclase N-terminal domain
+SE                   PF08491.10   276 CS211_c00001_NODE_1_...cluster182_ORF1:gid::pid::loc:0:3339:strand:+ -           1112     2e-23   82.8   0.0   1   1   6.7e-26   1.5e-22   80.0   0.0     5   251   148   377   144   389 0.87 Squalene epoxidase
+FAD_binding_3        PF01494.19   349 CS211_c00001_NODE_1_...cluster182_ORF1:gid::pid::loc:0:3339:strand:+ -           1112   2.1e-18   66.7   0.0   1   1     2e-21   4.6e-18   65.6   0.0     2   315     3   301     2   303 0.82 FAD binding domain
+Prenyltrans          PF00432.21    44 CS211_c00001_NODE_1_...cluster182_ORF1:gid::pid::loc:0:3339:strand:+ -           1112   1.4e-17   63.1  13.4   1   5    0.0038       8.4    6.2   0.3    10    22   482   494   482   495 0.91 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.21    44 CS211_c00001_NODE_1_...cluster182_ORF1:gid::pid::loc:0:3339:strand:+ -           1112   1.4e-17   63.1  13.4   2   5    0.0025       5.6    6.8   0.2     5    43   873   932   870   933 0.86 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.21    44 CS211_c00001_NODE_1_...cluster182_ORF1:gid::pid::loc:0:3339:strand:+ -           1112   1.4e-17   63.1  13.4   3   5   0.00016      0.37   10.6   0.1    10    40   955   984   955   986 0.84 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.21    44 CS211_c00001_NODE_1_...cluster182_ORF1:gid::pid::loc:0:3339:strand:+ -           1112   1.4e-17   63.1  13.4   4   5   3.6e-11   8.1e-08   31.9   0.3     4    40   997  1043   994  1043 0.92 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.21    44 CS211_c00001_NODE_1_...cluster182_ORF1:gid::pid::loc:0:3339:strand:+ -           1112   1.4e-17   63.1  13.4   5   5    0.0012       2.8    7.8   0.0     6    20  1057  1071  1053  1073 0.90 Prenyltransferase and squalene oxidase repeat
+NAD_binding_8        PF13450.6     68 CS211_c00001_NODE_1_...cluster182_ORF1:gid::pid::loc:0:3339:strand:+ -           1112   5.3e-06   26.6   0.0   1   1   7.7e-09   1.7e-05   24.9   0.0     1    32     7    38     7    52 0.92 NAD(P)-binding Rossmann-like domain
+HI0933_like          PF03486.14   409 CS211_c00001_NODE_1_...cluster182_ORF1:gid::pid::loc:0:3339:strand:+ -           1112   1.1e-05   24.4   0.1   1   1   9.7e-09   2.2e-05   23.4   0.1     1    39     3    41     3    43 0.94 HI0933-like protein
+Abhydrolase_1        PF00561.20   257 CS211_c00001_NODE_1_...cluster182_ORF2:gid::pid::loc:3397:4210:strand:- -            270   1.5e-27   96.9   0.1   1   2   9.2e-23   4.1e-19   69.2   0.1     1   136    20   153    20   162 0.86 alpha/beta hydrolase fold
+Abhydrolase_1        PF00561.20   257 CS211_c00001_NODE_1_...cluster182_ORF2:gid::pid::loc:3397:4210:strand:- -            270   1.5e-27   96.9   0.1   2   2   1.1e-09     5e-06   26.4   0.0   206   257   190   253   140   253 0.81 alpha/beta hydrolase fold
+Abhydrolase_6        PF12697.7    220 CS211_c00001_NODE_1_...cluster182_ORF2:gid::pid::loc:3397:4210:strand:- -            270   1.3e-22   81.5   1.0   1   1   3.4e-26   1.5e-22   81.3   1.0     1   219    22   258    22   259 0.60 Alpha/beta hydrolase family
+Hydrolase_4          PF12146.8    239 CS211_c00001_NODE_1_...cluster182_ORF2:gid::pid::loc:3397:4210:strand:- -            270   6.4e-14   51.8   0.0   1   1   5.3e-12   2.4e-08   33.6   0.0     6   114    21   123    17   164 0.78 Serine aminopeptidase, S33
+Abhydrolase_4        PF08386.10   103 CS211_c00001_NODE_1_...cluster182_ORF2:gid::pid::loc:3397:4210:strand:- -            270    0.0001   22.3   0.0   1   1   3.9e-08   0.00017   21.6   0.0    28    93   202   266   180   269 0.87 TAP-like protein
+Resolvase            PF00239.21   146 CS211_c00001_NODE_1_...cluster182_ORF3:gid::pid::loc:4263:5937:strand:- -            557   1.2e-32  113.1   1.9   1   1     2e-36   1.2e-32  113.1   1.9     1   144    10   156    10   157 0.94 Resolvase, N terminal domain
+Recombinase          PF07508.13   104 CS211_c00001_NODE_1_...cluster182_ORF3:gid::pid::loc:4263:5937:strand:- -            557   2.2e-21   76.2   0.0   1   1     1e-24   6.1e-21   74.8   0.0     1   104   186   282   186   282 0.93 Recombinase
+Zn_ribbon_recom      PF13408.6     58 CS211_c00001_NODE_1_...cluster182_ORF3:gid::pid::loc:4263:5937:strand:- -            557   8.1e-14   51.9   1.9   1   1   2.9e-17   1.8e-13   50.8   1.9     1    58   297   356   297   356 0.92 Recombinase zinc beta ribbon domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster182.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS211_c00001_NODE_1_...cluster182.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster182.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:38:03 2019
+# [ok]

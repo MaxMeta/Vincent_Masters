@@ -1,0 +1,33 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MDMPI_N              PF11716.8    141 BGC0001561.1_ORF1:gid::pid:KUM69037.1:loc:0:789:strand:- -            262   3.8e-24   86.0  15.8   1   1   6.4e-28   3.8e-24   86.0  15.8     6   140    19   143    11   144 0.89 Mycothiol maleylpyruvate isomerase N-terminal domain
+MDMPI_C              PF07398.11    91 BGC0001561.1_ORF1:gid::pid:KUM69037.1:loc:0:789:strand:- -            262   1.9e-18   67.1   7.6   1   1   3.1e-22   1.9e-18   67.1   7.6     2    90   157   253   156   254 0.98 MDMPI C-terminal domain
+DUF664               PF04978.12   150 BGC0001561.1_ORF1:gid::pid:KUM69037.1:loc:0:789:strand:- -            262   0.00028   21.3   0.9   1   1   4.7e-08   0.00028   21.3   0.9     9   138    17   140     9   146 0.68 Protein of unknown function (DUF664)
+Thioesterase         PF00975.20   231 BGC0001561.1_ORF3:gid::pid:KUM69039.1:loc:1853:2633:strand:- -            259   1.7e-47  162.5   0.1   1   1   2.4e-51   2.1e-47  162.2   0.1     2   224    29   243    28   250 0.91 Thioesterase domain
+Abhydrolase_6        PF12697.7    220 BGC0001561.1_ORF3:gid::pid:KUM69039.1:loc:1853:2633:strand:- -            259     1e-08   36.1   8.4   1   1   1.6e-12   1.4e-08   35.6   8.4     6   217    37   242    30   245 0.66 Alpha/beta hydrolase family
+MFS_1                PF07690.16   353 BGC0001561.1_ORF4:gid::pid:KUM69040.1:loc:2638:3817:strand:- -            392   4.1e-27   95.0  46.6   1   2   6.3e-21   5.7e-17   61.7  16.5    16   226     1   207     1   215 0.81 Major Facilitator Superfamily
+MFS_1                PF07690.16   353 BGC0001561.1_ORF4:gid::pid:KUM69040.1:loc:2638:3817:strand:- -            392   4.1e-27   95.0  46.6   2   2   7.3e-14   6.5e-10   38.5  27.9     3   167   195   359   193   388 0.84 Major Facilitator Superfamily
+MFS_3                PF05977.13   522 BGC0001561.1_ORF4:gid::pid:KUM69040.1:loc:2638:3817:strand:- -            392   1.8e-23   82.8  34.7   1   1   2.5e-27   2.2e-23   82.5  34.7    52   400    23   370     3   388 0.78 Transmembrane secretion effector
+Response_reg         PF00072.24   112 BGC0001561.1_ORF7:gid::pid:KUM69043.1:loc:5193:5865:strand:- -            223   1.3e-15   57.5   0.0   1   1   2.6e-19   2.3e-15   56.7   0.0     1   101     3   108     3   121 0.92 Response regulator receiver domain
+GerE                 PF00196.19    57 BGC0001561.1_ORF7:gid::pid:KUM69043.1:loc:5193:5865:strand:- -            223   1.8e-13   49.8   0.0   1   1   3.7e-17   3.3e-13   49.0   0.0     3    47   151   195   149   203 0.96 Bacterial regulatory proteins, luxR family
+Sensor               PF13796.6    162 BGC0001561.1_ORF8:gid::pid:KUM69047.1:loc:5852:7064:strand:- -            403   5.1e-15   55.9  15.4   1   1   4.2e-18   3.7e-14   53.1  15.4     1   135    17   166    17   182 0.75 Putative sensor
+HisKA_3              PF07730.13    68 BGC0001561.1_ORF8:gid::pid:KUM69047.1:loc:5852:7064:strand:- -            403   1.9e-14   53.9   3.3   1   1   4.8e-18   4.3e-14   52.8   2.2     1    68   210   277   210   277 0.97 Histidine kinase
+ABC_tran             PF00005.27   137 BGC0001561.1_ORF9:gid::pid:KUM69048.1:loc:7287:8100:strand:+ -            270   1.2e-31  110.0   0.0   1   1   1.9e-35   1.7e-31  109.6   0.0     1   136    48   198    48   199 0.91 ABC transporter
+FtsX                 PF02687.21    96 BGC0001561.1_ORF10:gid::pid:KUM69044.1:loc:8096:10850:strand:+ -            917   3.9e-09   36.9   7.0   1   1   4.6e-11   8.3e-07   29.4   0.7     1    93   821   907   821   910 0.84 FtsX-like permease family
+Beta-lactamase       PF00144.24   330 BGC0001561.1_ORF12:gid::pid:KUM69046.1:loc:11674:12955:strand:+ -            426   1.7e-50  172.1   9.0   1   1   9.5e-55   1.7e-50  172.1   9.0    20   315     2   310     1   324 0.89 Beta-lactamase
+AMP-binding          PF00501.28   423 BGC0001561.1_ORF13:gid::pid::loc:13039:17578:strand:+ -           1513  5.1e-193  641.4   0.1   1   2  4.8e-100   2.1e-96  323.1   0.0     1   423    24   415    24   415 0.89 AMP-binding enzyme
+AMP-binding          PF00501.28   423 BGC0001561.1_ORF13:gid::pid::loc:13039:17578:strand:+ -           1513  5.1e-193  641.4   0.1   2   2   5.2e-98   2.3e-94  316.4   0.1     1   423  1088  1485  1088  1485 0.88 AMP-binding enzyme
+Condensation         PF00668.20   457 BGC0001561.1_ORF13:gid::pid::loc:13039:17578:strand:+ -           1513   1.1e-91  307.9   0.0   1   1   3.8e-95   1.7e-91  307.2   0.0     4   455   613  1067   611  1069 0.92 Condensation domain
+AMP-binding_C        PF13193.6     76 BGC0001561.1_ORF13:gid::pid::loc:13039:17578:strand:+ -           1513   4.4e-17   62.8   2.9   1   1   2.9e-16   1.3e-12   48.5   0.0     1    76   423   498   423   498 0.91 AMP-binding enzyme C-terminal domain
+PP-binding           PF00550.25    67 BGC0001561.1_ORF13:gid::pid::loc:13039:17578:strand:+ -           1513     1e-14   54.6   0.0   1   1     8e-18   3.6e-14   52.9   0.0     2    66   528   590   527   591 0.95 Phosphopantetheine attachment site
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001561.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001561.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001561.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:41:30 2019
+# [ok]

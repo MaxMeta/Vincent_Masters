@@ -1,0 +1,109 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="490.5" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="480.5" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg3667_1)</title>
+			<polygon class=" (ctg3667_1)" points="10,25 17,25 17,10 47,40 17,70 17,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SDF (PF00375)
+"Sodium:dicarboxylate symporter family"</title>
+				<polygon class="PF00375" points="20,28 31,28 43,40 31,52 20,52" stroke-linejoin="round" width="25" height="24" fill="rgb(141,207,101)" stroke="rgb(112,165,80)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3667_2)</title>
+			<polygon class=" (ctg3667_2)" points="47,25 50,25 50,10 80,40 50,70 50,55 47,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3667_3)</title>
+			<polygon class=" (ctg3667_3)" points="80,25 82,25 82,10 112,40 82,70 82,55 80,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_M29 (PF02073)
+"Thermophilic metalloprotease (M29)"</title>
+				<polygon class="PF02073" points="90,28 95,28 107,40 95,52 90,52" stroke-linejoin="round" width="19" height="24" fill="rgb(181,81,92)" stroke="rgb(144,64,73)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3667_4)</title>
+			<polygon class=" (ctg3667_4)" points="144,25 143,25 143,10 113,40 143,70 143,55 144,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aldo_ket_red (PF00248)
+"Aldo/keto reductase family"</title>
+				<polygon class="PF00248" points="117,40 129,28 136,28 136,52 129,52" stroke-linejoin="round" width="23" height="24" fill="rgb(225,205,58)" stroke="rgb(180,164,46)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3667_5)</title>
+			<polygon class=" (ctg3667_5)" points="157,25 161,25 161,10 191,40 161,70 161,55 157,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_11 (PF08241)
+"Methyltransferase domain"</title>
+				<polygon class="PF08241" points="167,28 175,28 176,29 176,51 175,52 167,52" stroke-linejoin="round" width="9" height="24" fill="rgb(106,219,159)" stroke="rgb(84,175,127)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Sterol_MT_C (PF08498)
+"Sterol methyltransferase C-terminal"</title>
+				<polygon class="PF08498" points="184,37 187,40 184,43" stroke-linejoin="round" width="6" height="24" fill="rgb(65,219,176)" stroke="rgb(52,175,140)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3667_6)</title>
+			<polygon class=" (ctg3667_6)" points="229,25 222,25 222,10 192,40 222,70 222,55 229,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TauD (PF02668)
+"Taurine catabolism dioxygenase TauD, TfdA family"</title>
+				<polygon class="PF02668" points="196,40 208,28 219,28 219,52 208,52" stroke-linejoin="round" width="25" height="24" fill="rgb(180,79,217)" stroke="rgb(144,63,173)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DUF971 (PF06155)
+"Protein of unknown function (DUF971)"</title>
+				<rect class="PF06155" x="220" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(85,102,181)" stroke="rgb(67,81,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3667_7)</title>
+			<polygon class=" (ctg3667_7)" points="234,10 255,40 234,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3667_8)</title>
+			<polygon class=" (ctg3667_8)" points="368,25 286,25 286,10 256,40 286,70 286,55 368,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQHop_cyclase_C (PF13243)
+"Squalene-hopene cyclase C-terminal domain"</title>
+				<polygon class="PF13243" points="260,40 272,28 290,28 290,52 272,52" stroke-linejoin="round" width="32" height="24" fill="rgb(191,58,201)" stroke="rgb(152,46,160)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SQHop_cyclase_N (PF13249)
+"Squalene-hopene cyclase N-terminal domain"</title>
+				<rect class="PF13249" x="291" y="28" stroke-linejoin="round" width="29" height="24" fill="rgb(88,190,89)" stroke="rgb(70,152,71)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SE (PF08491)
+"Squalene epoxidase"</title>
+				<rect class="PF08491" x="328" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(93,72,221)" stroke="rgb(74,57,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3667_9)</title>
+			<polygon class=" (ctg3667_9)" points="413,25 398,25 398,10 368,40 398,70 398,55 413,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="372,40 384,28 412,28 412,52 384,52" stroke-linejoin="round" width="43" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3667_10)</title>
+			<polygon class=" (ctg3667_10)" points="450,25 444,25 444,10 414,40 444,70 444,55 450,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ERG4_ERG24 (PF01222)
+"Ergosterol biosynthesis ERG4/ERG24 family"</title>
+				<polygon class="PF01222" points="418,40 430,28 449,28 449,52 430,52" stroke-linejoin="round" width="35" height="24" fill="rgb(99,195,207)" stroke="rgb(79,155,165)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3667_11)</title>
+			<polygon class=" (ctg3667_11)" points="451,40 477,10 477,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

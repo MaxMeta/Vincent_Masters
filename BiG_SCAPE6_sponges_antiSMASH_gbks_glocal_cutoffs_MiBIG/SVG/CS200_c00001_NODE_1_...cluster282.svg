@@ -1,0 +1,60 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="195.46666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="185.46666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg15817_1)</title>
+			<polygon class=" (ctg15817_1)" points="43,25 40,25 40,10 10,40 40,70 40,55 43,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PAS_8 (PF13188)
+"PAS domain"</title>
+				<polygon class="PF13188" points="17,37 24,30 24,50 17,43" stroke-linejoin="round" width="7" height="24" fill="rgb(206,218,73)" stroke="rgb(164,174,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GAF_2 (PF13185)
+"GAF domain"</title>
+				<polygon class="PF13185" points="26,28 26,28 40,28 40,52 26,52 26,52" stroke-linejoin="round" width="14" height="24" fill="rgb(158,189,90)" stroke="rgb(126,151,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg15817_2)</title>
+			<polygon class=" (ctg15817_2)" points="54,25 80,25 80,10 110,40 80,70 80,55 54,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Trp_halogenase (PF04820)
+"Tryptophan halogenase"</title>
+				<rect class="PF04820" x="63" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(179,74,194)" stroke="rgb(143,59,155)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg15817_3)</title>
+			<polygon class=" (ctg15817_3)" points="110,25 116,25 116,10 146,40 116,70 116,55 110,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Chal_sti_synt_N (PF00195)
+"Chalcone and stilbene synthases, N-terminal domain"</title>
+				<polygon class="PF00195" points="110,28 129,28 130,29 130,51 129,52 110,52" stroke-linejoin="round" width="20" height="24" fill="rgb(60,181,161)" stroke="rgb(47,144,128)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Chal_sti_synt_C (PF02797)
+"Chalcone and stilbene synthases, C-terminal domain"</title>
+				<polygon class="PF02797" points="131,30 141,40 131,50" stroke-linejoin="round" width="14" height="24" fill="rgb(139,212,63)" stroke="rgb(111,169,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg15817_4)</title>
+			<polygon class=" (ctg15817_4)" points="146,10 164,40 146,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ICMT (PF04140)
+"Isoprenylcysteine carboxyl methyltransferase (ICMT) family"</title>
+				<polygon class="PF04140" points="153,28 153,28 160,40 153,52 153,52" stroke-linejoin="round" width="9" height="24" fill="rgb(100,223,104)" stroke="rgb(80,178,83)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg15817_5)</title>
+			<polygon class=" (ctg15817_5)" points="164,10 184,40 164,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GPP34 (PF05719)
+"Golgi phosphoprotein 3 (GPP34)"</title>
+				<polygon class="PF05719" points="164,28 172,28 180,40 172,52 164,52" stroke-linejoin="round" width="20" height="24" fill="rgb(221,100,205)" stroke="rgb(176,80,163)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

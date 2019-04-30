@@ -1,0 +1,19 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Aminotran_1_2        PF00155.21   363 BGC0001239.1_ORF1:gid:biF:pid:ACR44942.1:loc:107:1462:strand:- -            412     5e-36  124.6   0.0   1   1   3.2e-40   5.7e-36  124.4   0.0     4   363    36   398    33   398 0.86 Aminotransferase class I and II
+Aminotran_3          PF00202.21   406 BGC0001239.1_ORF2:gid:biDA:pid:ACR44943.1:loc:2170:4764:strand:+ -            787     8e-38  130.1   0.0   1   2   9.3e-20   8.4e-16   57.6   0.0    30   149   317   440   309   467 0.89 Aminotransferase class-III
+Aminotran_3          PF00202.21   406 BGC0001239.1_ORF2:gid:biDA:pid:ACR44943.1:loc:2170:4764:strand:+ -            787     8e-38  130.1   0.0   2   2   3.5e-18   3.1e-14   52.4   0.0   229   311   579   668   574   786 0.84 Aminotransferase class-III
+AAA_26               PF13500.6    198 BGC0001239.1_ORF2:gid:biDA:pid:ACR44943.1:loc:2170:4764:strand:+ -            787   4.4e-18   65.8   0.0   1   1   8.9e-22     8e-18   65.0   0.0     5   176    17   194    14   210 0.82 AAA domain
+BATS                 PF06968.13    86 BGC0001239.1_ORF3:gid:biB:pid:ACR44944.1:loc:5677:6956:strand:+ -            393   6.2e-22   77.5   0.2   1   1   2.9e-25   2.6e-21   75.6   0.0     1    85   265   355   265   356 0.99 Biotin and Thiamin Synthesis associated domain
+Radical_SAM          PF04055.21   167 BGC0001239.1_ORF3:gid:biB:pid:ACR44944.1:loc:5677:6956:strand:+ -            393   2.5e-15   57.3   0.0   1   1   1.8e-18   1.6e-14   54.6   0.0     4   162    93   249    90   254 0.84 Radical SAM superfamily
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001239.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001239.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001239.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:28:47 2019
+# [ok]

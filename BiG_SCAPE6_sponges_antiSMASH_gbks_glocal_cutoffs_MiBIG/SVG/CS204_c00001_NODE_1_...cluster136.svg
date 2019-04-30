@@ -1,0 +1,73 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="275.83333333333337" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="265.83333333333337" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg5727_1)</title>
+			<polygon class=" (ctg5727_1)" points="10,40 35,10 35,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AAA_15 (PF13175)
+"AAA ATPase domain"</title>
+				<polygon class="PF13175" points="19,34 24,28 35,28 35,52 24,52 19,46" stroke-linejoin="round" width="16" height="24" fill="rgb(98,206,213)" stroke="rgb(78,164,170)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5727_2)</title>
+			<polygon class=" (ctg5727_2)" points="43,40 58,10 58,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DDE_Tnp_1_4 (PF13701)
+"Transposase DDE domain group 1"</title>
+				<polygon class="PF13701" points="46,40 52,28 57,28 57,52 52,52" stroke-linejoin="round" width="14" height="24" fill="rgb(187,172,89)" stroke="rgb(149,137,71)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5727_3)</title>
+			<polygon class=" (ctg5727_3)" points="71,40 98,10 98,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ectoine_synth (PF06339)
+"Ectoine synthase"</title>
+				<polygon class="PF06339" points="75,40 84,30 84,50" stroke-linejoin="round" width="12" height="24" fill="rgb(225,176,81)" stroke="rgb(180,140,64)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ectoine_synth (PF06339)
+"Ectoine synthase"</title>
+				<polygon class="PF06339" points="85,29 86,28 97,28 97,52 86,52 85,51" stroke-linejoin="round" width="12" height="24" fill="rgb(225,176,81)" stroke="rgb(180,140,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5727_4)</title>
+			<polygon class=" (ctg5727_4)" points="153,25 136,25 136,10 106,40 136,70 136,55 153,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amidase (PF01425)
+"Amidase"</title>
+				<polygon class="PF01425" points="110,40 122,28 150,28 150,52 122,52" stroke-linejoin="round" width="42" height="24" fill="rgb(195,142,64)" stroke="rgb(156,113,51)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5727_5)</title>
+			<polygon class=" (ctg5727_5)" points="188,25 185,25 185,10 155,40 185,70 185,55 188,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BPD_transp_2 (PF02653)
+"Branched-chain amino acid transport system / permease component"</title>
+				<polygon class="PF02653" points="159,40 171,28 184,28 184,52 171,52" stroke-linejoin="round" width="26" height="24" fill="rgb(69,130,196)" stroke="rgb(55,104,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5727_6)</title>
+			<polygon class=" (ctg5727_6)" points="189,40 218,10 218,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BPD_transp_2 (PF02653)
+"Branched-chain amino acid transport system / permease component"</title>
+				<polygon class="PF02653" points="193,40 205,28 217,28 217,52 205,52" stroke-linejoin="round" width="27" height="24" fill="rgb(69,130,196)" stroke="rgb(55,104,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5727_7)</title>
+			<polygon class=" (ctg5727_7)" points="218,40 242,10 242,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="225,36 232,28 239,28 239,52 232,52 225,44" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,15 @@
+#                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Tyrosinase           PF00264.20   222 BGC0000911.1_ORF1:gid:melC2-1:pid:BAG17356.1:loc:0:864:strand:- -            287   6.6e-39  134.5   0.5   1   1   5.2e-43   9.2e-39  134.0   0.5     3   221    30   237    28   238 0.71 Common central domain of tyrosinase
+MelC1                PF06236.11   117 BGC0000911.1_ORF2:gid:melC1-1:pid:BAG17357.1:loc:883:1288:strand:- -            134   1.9e-23   82.8   1.2   1   1   1.4e-27   2.4e-23   82.4   1.2    10   114    18   126     3   128 0.80 Tyrosinase co-factor MelC1
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000911.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000911.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000911.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:53:41 2019
+# [ok]

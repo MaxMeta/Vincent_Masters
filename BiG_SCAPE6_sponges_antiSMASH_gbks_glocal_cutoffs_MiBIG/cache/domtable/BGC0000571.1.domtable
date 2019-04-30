@@ -1,0 +1,17 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ABC_tran             PF00005.27   137 BGC0000571.1_ORF1:gid::pid:CBW74823.1:loc:0:1800:strand:- -            599   8.7e-36  123.5   0.0   1   1   1.5e-39   1.4e-35  122.8   0.0     1   137   360   509   360   509 0.97 ABC transporter
+ABC_membrane         PF00664.23   274 BGC0000571.1_ORF1:gid::pid:CBW74823.1:loc:0:1800:strand:- -            599   1.3e-25   90.6   5.6   1   1     2e-29   1.8e-25   90.1   5.6     2   270    28   296    27   300 0.93 ABC transporter transmembrane region
+Asn_synthase         PF00733.21   355 BGC0000571.1_ORF2:gid::pid:CBW74824.1:loc:1817:3560:strand:- -            580   2.1e-15   57.3   0.2   1   1   1.8e-18   3.2e-14   53.4   0.2    22   352   231   574   219   580 0.73 Asparagine synthase
+Transglut_core3      PF13471.6    117 BGC0000571.1_ORF3:gid::pid:CBW74825.1:loc:3556:4387:strand:- -            276   8.4e-19   67.6   2.7   1   1     7e-23   1.3e-18   67.0   1.6     6   116   155   265   149   266 0.80 Transglutaminase-like superfamily
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000571.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000571.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000571.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:30:31 2019
+# [ok]

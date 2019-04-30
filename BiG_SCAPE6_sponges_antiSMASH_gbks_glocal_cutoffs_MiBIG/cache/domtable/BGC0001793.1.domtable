@@ -1,0 +1,36 @@
+#                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Aminotran_1_2        PF00155.21   363 BGC0001793.1_ORF1:gid:swnA:pid:AQV04223.1:loc:538:2059:strand:- -            506     4e-21   75.6   0.0   1   1     3e-25   5.4e-21   75.2   0.0    29   361   117   492   110   494 0.83 Aminotransferase class I and II
+PhyH                 PF05721.13   211 BGC0001793.1_ORF2:gid:swnH1:pid:AQV04219.1:loc:3004:4002:strand:- -            306     2e-22   80.5   0.0   1   1   1.9e-26   3.4e-22   79.7   0.0     2   205    35   233    34   239 0.83 Phytanoyl-CoA dioxygenase (PhyH)
+AA_permease_2        PF13520.6    425 BGC0001793.1_ORF3:gid:swnT:pid::loc:6141:7446:strand:+ -            377   1.9e-26   92.9  31.4   1   2   1.4e-12   2.5e-08   33.2   6.3    29   131     5   114     2   120 0.80 Amino acid permease
+AA_permease_2        PF13520.6    425 BGC0001793.1_ORF3:gid:swnT:pid::loc:6141:7446:strand:+ -            377   1.9e-26   92.9  31.4   2   2     2e-22   3.5e-18   65.6  17.1   201   423   126   355   124   358 0.86 Amino acid permease
+PhyH                 PF05721.13   211 BGC0001793.1_ORF4:gid:swnH2:pid:AQV04220.1:loc:7609:8634:strand:- -            319   1.3e-19   71.4   0.0   1   1   1.1e-23     2e-19   70.7   0.0     2   206    46   246    45   252 0.80 Phytanoyl-CoA dioxygenase (PhyH)
+AMP-binding          PF00501.28   423 BGC0001793.1_ORF5:gid:swnK:pid:AQV04224.1:loc:10623:18126:strand:+ -           2500   5.2e-92  308.6   0.0   1   1   8.6e-95   1.2e-91  307.5   0.0     1   423    39   428    39   428 0.89 AMP-binding enzyme
+ketoacyl-synt        PF00109.26   253 BGC0001793.1_ORF5:gid:swnK:pid:AQV04224.1:loc:10623:18126:strand:+ -           2500   6.9e-87  291.2   0.1   1   1   1.1e-89   1.6e-86  290.0   0.1     2   253   624   870   623   870 0.96 Beta-ketoacyl synthase, N-terminal domain
+Acyl_transf_1        PF00698.21   319 BGC0001793.1_ORF5:gid:swnK:pid:AQV04224.1:loc:10623:18126:strand:+ -           2500   6.9e-64  216.4   0.1   1   1   9.1e-67   1.3e-63  215.5   0.1     3   315  1156  1476  1155  1479 0.95 Acyl transferase domain
+KR                   PF08659.10   180 BGC0001793.1_ORF5:gid:swnK:pid:AQV04224.1:loc:10623:18126:strand:+ -           2500   5.4e-55  186.1   0.6   1   1   4.9e-56   6.7e-53  179.3   0.4     1   179  1730  1908  1730  1909 0.97 KR domain
+NAD_binding_4        PF07993.12   257 BGC0001793.1_ORF5:gid:swnK:pid:AQV04224.1:loc:10623:18126:strand:+ -           2500   5.6e-48  163.4   0.0   1   1   1.3e-48   1.8e-45  155.1   0.0     1   257  2148  2377  2148  2377 0.94 Male sterility protein
+Ketoacyl-synt_C      PF02801.22   118 BGC0001793.1_ORF5:gid:swnK:pid:AQV04224.1:loc:10623:18126:strand:+ -           2500   4.1e-39  133.2   0.9   1   1   6.7e-42   9.2e-39  132.1   0.9     1   117   878   995   878   996 0.98 Beta-ketoacyl synthase, C-terminal domain
+PP-binding           PF00550.25    67 BGC0001793.1_ORF5:gid:swnK:pid:AQV04224.1:loc:10623:18126:strand:+ -           2500   1.5e-21   76.5   0.0   1   2   1.3e-14   1.7e-11   44.3   0.0     1    67   536   600   536   600 0.96 Phosphopantetheine attachment site
+PP-binding           PF00550.25    67 BGC0001793.1_ORF5:gid:swnK:pid:AQV04224.1:loc:10623:18126:strand:+ -           2500   1.5e-21   76.5   0.0   2   2   6.5e-10   8.9e-07   29.2   0.0     3    67  2015  2080  2013  2080 0.92 Phosphopantetheine attachment site
+KAsynt_C_assoc       PF16197.5    112 BGC0001793.1_ORF5:gid:swnK:pid:AQV04224.1:loc:10623:18126:strand:+ -           2500   7.3e-13   49.0   0.0   1   1   2.9e-15     4e-12   46.6   0.0     1   110   998  1118   998  1120 0.86 Ketoacyl-synthetase C-terminal extension
+Epimerase            PF01370.21   241 BGC0001793.1_ORF5:gid:swnK:pid:AQV04224.1:loc:10623:18126:strand:+ -           2500   8.7e-13   48.3   0.1   1   1   3.2e-11   4.4e-08   32.9   0.0     1   159  2146  2315  2146  2349 0.77 NAD dependent epimerase/dehydratase family
+AMP-binding_C        PF13193.6     76 BGC0001793.1_ORF5:gid:swnK:pid:AQV04224.1:loc:10623:18126:strand:+ -           2500     2e-10   41.5   0.0   1   1   4.4e-13     6e-10   40.0   0.0     2    76   437   509   436   509 0.88 AMP-binding enzyme C-terminal domain
+adh_short            PF00106.25   195 BGC0001793.1_ORF5:gid:swnK:pid:AQV04224.1:loc:10623:18126:strand:+ -           2500   1.8e-09   37.3   0.0   1   1   4.5e-10   6.2e-07   29.1   0.1     2   159  1731  1888  1730  1905 0.86 short chain dehydrogenase
+NAD_binding_10       PF13460.6    184 BGC0001793.1_ORF6:gid:swnR:pid:AQV04222.1:loc:18446:19373:strand:- -            308   4.4e-09   36.5   0.0   1   1   7.8e-13     7e-09   35.8   0.0     4   149     9   144     7   163 0.82 NAD(P)H-binding
+NmrA                 PF05368.13   233 BGC0001793.1_ORF6:gid:swnR:pid:AQV04222.1:loc:18446:19373:strand:- -            308   2.3e-06   27.3   0.0   1   1   3.5e-10   3.2e-06   26.9   0.0     5   154     6   151     3   230 0.75 NmrA-like family
+NmrA                 PF05368.13   233 BGC0001793.1_ORF7:gid:swnN:pid:AQV04221.1:loc:20236:21374:strand:+ -            322   1.7e-14   54.0   0.0   1   1   5.6e-18   2.5e-14   53.4   0.0     1   231     4   241     4   243 0.81 NmrA-like family
+NAD_binding_10       PF13460.6    184 BGC0001793.1_ORF7:gid:swnN:pid:AQV04221.1:loc:20236:21374:strand:+ -            322   5.9e-12   45.8   0.9   1   1   2.7e-15   1.2e-11   44.8   0.9     1   148     8   149     8   162 0.80 NAD(P)H-binding
+Epimerase            PF01370.21   241 BGC0001793.1_ORF7:gid:swnN:pid:AQV04221.1:loc:20236:21374:strand:+ -            322   3.5e-06   26.7   0.3   1   1   4.7e-09   2.1e-05   24.1   0.3     2    71     5    73     4    87 0.84 NAD dependent epimerase/dehydratase family
+KR                   PF08659.10   180 BGC0001793.1_ORF7:gid:swnN:pid:AQV04221.1:loc:20236:21374:strand:+ -            322   1.5e-05   25.0   1.1   1   1   5.5e-09   2.5e-05   24.3   1.1     3    75     4    89     2    99 0.74 KR domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001793.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001793.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001793.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:46:55 2019
+# [ok]

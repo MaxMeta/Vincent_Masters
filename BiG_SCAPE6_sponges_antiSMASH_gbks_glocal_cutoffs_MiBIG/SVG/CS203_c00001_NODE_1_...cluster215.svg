@@ -1,0 +1,35 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="190.06666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="180.06666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg17338_1)</title>
+			<polygon class=" (ctg17338_1)" points="10,10 19,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_M23 (PF01551)
+"Peptidase family M23"</title>
+				<polygon class="PF01551" points="10,28 12,28 16,39 16,41 12,52 10,52" stroke-linejoin="round" width="6" height="24" fill="rgb(65,169,193)" stroke="rgb(51,135,154)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg17338_2)</title>
+			<polygon class=" (ctg17338_2)" points="19,25 28,25 28,10 58,40 28,70 28,55 19,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg17338_3)</title>
+			<polygon class=" (ctg17338_3)" points="116,25 89,25 89,10 59,40 89,70 89,55 116,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg17338_4)</title>
+			<polygon class=" (ctg17338_4)" points="123,40 132,10 132,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg17338_5)</title>
+			<polygon class=" (ctg17338_5)" points="159,40 179,10 179,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>OEP (PF02321)
+"Outer membrane efflux protein"</title>
+				<polygon class="PF02321" points="163,40 171,28 178,28 178,52 171,52" stroke-linejoin="round" width="16" height="24" fill="rgb(205,57,201)" stroke="rgb(164,45,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

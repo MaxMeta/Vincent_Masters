@@ -1,0 +1,19 @@
+#                                                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Toluene_X            PF03349.16   434 CS204_c00001_NODE_1_...cluster112_ORF2:gid::pid::loc:600:2127:strand:- -            508   2.4e-15   56.1   2.1   1   1   9.9e-12   1.8e-07   30.1   0.0     3   172    18   232    16   240 0.85 Outer membrane protein transport protein (OMPP1/FadL/TodX)
+DUF692               PF05114.13   263 CS204_c00001_NODE_1_...cluster112_ORF5:gid::pid::loc:3328:4180:strand:+ -            283  3.3e-103  344.5   0.1   1   1  2.1e-107  3.8e-103  344.3   0.1     1   261    13   273    13   275 0.99 Protein of unknown function (DUF692)
+DUF2063              PF09836.9     85 CS204_c00001_NODE_1_...cluster112_ORF6:gid::pid::loc:4211:5015:strand:+ -            267   1.9e-17   63.2   0.0   1   1   2.5e-21   4.4e-17   62.1   0.0     9    85    32   105    16   105 0.89 Putative DNA-binding domain
+DUF4156              PF13698.6     91 CS204_c00001_NODE_1_...cluster112_ORF8:gid::pid::loc:6107:6437:strand:- -            109   1.6e-09   38.0   0.0   1   1   1.1e-13     2e-09   37.7   0.0     2    91    25   107    24   107 0.93 Domain of unknown function (DUF4156)
+SDH_sah              PF01972.16   286 CS204_c00001_NODE_1_...cluster112_ORF11:gid::pid::loc:8007:8715:strand:+ -            235   9.9e-19   67.4   0.1   1   1   1.8e-22   1.6e-18   66.7   0.1    94   178    13   100     8   110 0.87 Serine dehydrogenase proteinase
+CLP_protease         PF00574.23   182 CS204_c00001_NODE_1_...cluster112_ORF11:gid::pid::loc:8007:8715:strand:+ -            235   8.1e-05   22.6   0.0   1   1   1.4e-08   0.00013   21.9   0.0    44    98     8    62     4    82 0.92 Clp protease
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS204_c00001_NODE_1_...cluster112.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS204_c00001_NODE_1_...cluster112.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS204_c00001_NODE_1_...cluster112.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:30:39 2019
+# [ok]

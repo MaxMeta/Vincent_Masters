@@ -1,0 +1,18 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Methyltransf_25      PF13649.6     97 BGC0001174.1_ORF2:gid::pid:AGE37168.1:loc:846:1554:strand:+ -            235   5.5e-09   36.6   0.0   1   1   1.8e-12   1.1e-08   35.7   0.0     1    86    64   142    64   152 0.86 Methyltransferase domain
+Methyltransf_11      PF08241.12    96 BGC0001174.1_ORF2:gid::pid:AGE37168.1:loc:846:1554:strand:+ -            235   7.5e-08   32.9   0.0   1   1   2.3e-11   1.4e-07   32.1   0.0     1    95    65   155    65   156 0.92 Methyltransferase domain
+Methyltransf_23      PF13489.6    165 BGC0001174.1_ORF2:gid::pid:AGE37168.1:loc:846:1554:strand:+ -            235   6.9e-07   29.2   0.0   1   1   1.7e-10     1e-06   28.7   0.0     7   158    47   198    37   199 0.80 Methyltransferase domain
+YcaO                 PF02624.16   323 BGC0001174.1_ORF5:gid::pid:AGE37171.1:loc:3237:4632:strand:+ -            464   1.4e-70  238.1   0.1   1   1   9.4e-75   1.7e-70  237.9   0.1     5   322    84   420    79   421 0.87 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+Nitroreductase       PF00881.24   170 BGC0001174.1_ORF6:gid::pid:AGE37172.1:loc:4643:5477:strand:+ -            277   6.9e-15   55.5   0.0   1   1   5.7e-19     1e-14   55.0   0.0     1   155    92   258    92   275 0.84 Nitroreductase family
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001174.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001174.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001174.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:44:57 2019
+# [ok]

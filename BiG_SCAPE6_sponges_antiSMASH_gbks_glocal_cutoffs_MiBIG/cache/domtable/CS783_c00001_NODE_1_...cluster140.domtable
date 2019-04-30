@@ -1,0 +1,26 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SQS_PSY              PF00494.19   263 CS783_c00001_NODE_1_...cluster140_ORF1:gid::pid::loc:2:473:strand:+ -            156   6.5e-20   71.7   0.7   1   1   3.6e-24   6.5e-20   71.7   0.7   153   260     1   111     1   114 0.92 Squalene/phytoene synthase
+Amino_oxidase        PF01593.24   452 CS783_c00001_NODE_1_...cluster140_ORF2:gid::pid::loc:469:2866:strand:+ -            798   1.1e-31  110.7   0.5   1   1     1e-34   1.4e-31  110.3   0.5     1   452   330   774   330   774 0.77 Flavin containing amine oxidoreductase
+Ubie_methyltran      PF01209.18   233 CS783_c00001_NODE_1_...cluster140_ORF2:gid::pid::loc:469:2866:strand:+ -            798   2.1e-19   69.8   0.0   1   1   1.9e-22   2.6e-19   69.5   0.0    12   223    11   218     1   231 0.86 ubiE/COQ5 methyltransferase family
+Methyltransf_25      PF13649.6     97 CS783_c00001_NODE_1_...cluster140_ORF2:gid::pid::loc:469:2866:strand:+ -            798   1.5e-12   48.1   0.1   1   1   1.1e-15   1.5e-12   48.1   0.1     1    93    48   138    48   141 0.83 Methyltransferase domain
+NAD_binding_8        PF13450.6     68 CS783_c00001_NODE_1_...cluster140_ORF2:gid::pid::loc:469:2866:strand:+ -            798   4.2e-11   42.9   0.5   1   1   1.3e-13   1.8e-10   40.9   0.5     1    67   325   394   325   395 0.92 NAD(P)-binding Rossmann-like domain
+DAO                  PF01266.24   352 CS783_c00001_NODE_1_...cluster140_ORF2:gid::pid::loc:469:2866:strand:+ -            798   1.3e-10   41.4  15.3   1   1   1.8e-13   2.5e-10   40.5  10.8     2   331   323   746   322   770 0.58 FAD dependent oxidoreductase
+Methyltransf_31      PF13847.6    152 CS783_c00001_NODE_1_...cluster140_ORF2:gid::pid::loc:469:2866:strand:+ -            798   2.7e-10   40.2   0.0   1   1   3.1e-13   4.2e-10   39.6   0.0     3   113    44   150    42   177 0.88 Methyltransferase domain
+Methyltransf_11      PF08241.12    96 CS783_c00001_NODE_1_...cluster140_ORF2:gid::pid::loc:469:2866:strand:+ -            798   7.7e-09   36.1   0.1   1   1   1.8e-11   2.5e-08   34.5   0.1     1    89    49   139    49   146 0.90 Methyltransferase domain
+FAD_oxidored         PF12831.7    433 CS783_c00001_NODE_1_...cluster140_ORF2:gid::pid::loc:469:2866:strand:+ -            798   8.9e-07   28.6   1.4   1   1   6.5e-10   8.9e-07   28.6   1.4     3    50   324   371   322   397 0.80 FAD dependent oxidoreductase
+Methyltransf_23      PF13489.6    165 CS783_c00001_NODE_1_...cluster140_ORF2:gid::pid::loc:469:2866:strand:+ -            798   1.3e-06   28.4   0.0   1   1   1.7e-09   2.3e-06   27.5   0.0    15   163    34   211    26   213 0.75 Methyltransferase domain
+MTS                  PF05175.14   169 CS783_c00001_NODE_1_...cluster140_ORF2:gid::pid::loc:469:2866:strand:+ -            798   6.5e-05   22.5   0.0   1   1     1e-07   0.00014   21.5   0.0    27   103    40   117    34   143 0.79 Methyltransferase small domain
+Rieske               PF00355.26    89 CS783_c00001_NODE_1_...cluster140_ORF3:gid::pid::loc:2862:3804:strand:+ -            313   2.3e-09   37.1   0.0   1   1   1.3e-13   2.3e-09   37.1   0.0     5    76    54   119    48   129 0.82 Rieske [2Fe-2S] domain
+DUF3500              PF12006.8    296 CS783_c00001_NODE_1_...cluster140_ORF4:gid::pid::loc:3831:4815:strand:- -            327   1.8e-90  303.4   0.0   1   1   1.2e-94   2.1e-90  303.2   0.0     4   295     9   313     6   314 0.95 Protein of unknown function (DUF3500)
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS783_c00001_NODE_1_...cluster140.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS783_c00001_NODE_1_...cluster140.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS783_c00001_NODE_1_...cluster140.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:47:48 2019
+# [ok]

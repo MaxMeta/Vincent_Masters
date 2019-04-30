@@ -1,0 +1,152 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="734.5666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="724.5666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg1664_6)</title>
+			<polygon class=" (ctg1664_6)" points="11,25 128,25 128,10 158,40 128,70 128,55 11,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CobN-Mg_chel (PF02514)
+"CobN/Magnesium Chelatase"</title>
+				<polygon class="PF02514" points="38,28 142,28 154,40 154,40 142,52 38,52" stroke-linejoin="round" width="116" height="24" fill="rgb(138,196,88)" stroke="rgb(110,156,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1664_7)</title>
+			<polygon class=" (ctg1664_7)" points="159,25 197,25 197,10 227,40 197,70 197,55 159,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Mg_chelatase (PF01078)
+"Magnesium chelatase, subunit ChlI"</title>
+				<rect class="PF01078" x="170" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(199,220,103)" stroke="rgb(159,176,82)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AAA_lid_2 (PF17863)
+"AAA lid domain"</title>
+				<rect class="PF17863" x="185" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(52,164,197)" stroke="rgb(41,131,157)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>VWA_2 (PF13519)
+"von Willebrand factor type A domain"</title>
+				<polygon class="PF13519" points="208,28 210,28 218,36 218,44 210,52 208,52" stroke-linejoin="round" width="10" height="24" fill="rgb(58,213,93)" stroke="rgb(46,170,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1664_8)</title>
+			<polygon class=" (ctg1664_8)" points="227,10 232,40 227,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1664_9)</title>
+			<polygon class=" (ctg1664_9)" points="232,25 243,25 243,10 273,40 243,70 243,55 232,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peripla_BP_2 (PF01497)
+"Periplasmic binding protein"</title>
+				<polygon class="PF01497" points="246,28 256,28 268,40 256,52 246,52" stroke-linejoin="round" width="23" height="24" fill="rgb(183,226,104)" stroke="rgb(146,180,83)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1664_10)</title>
+			<polygon class=" (ctg1664_10)" points="273,10 282,40 273,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1664_11)</title>
+			<polygon class=" (ctg1664_11)" points="282,40 298,10 298,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1664_12)</title>
+			<polygon class=" (ctg1664_12)" points="313,40 329,10 329,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1664_13)</title>
+			<polygon class=" (ctg1664_13)" points="335,40 339,10 339,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1664_14)</title>
+			<polygon class=" (ctg1664_14)" points="343,25 360,25 360,10 390,40 360,70 360,55 343,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQHop_cyclase_N (PF13249)
+"Squalene-hopene cyclase N-terminal domain"</title>
+				<rect class="PF13249" x="343" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(88,190,89)" stroke="rgb(70,152,71)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SQHop_cyclase_C (PF13243)
+"Squalene-hopene cyclase C-terminal domain"</title>
+				<polygon class="PF13243" points="357,28 374,28 386,40 374,52 357,52" stroke-linejoin="round" width="32" height="24" fill="rgb(191,58,201)" stroke="rgb(152,46,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1664_15)</title>
+			<polygon class=" (ctg1664_15)" points="430,25 422,25 422,10 392,40 422,70 422,55 430,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Sterol_MT_C (PF08498)
+"Sterol methyltransferase C-terminal"</title>
+				<polygon class="PF08498" points="396,40 398,38 398,42" stroke-linejoin="round" width="6" height="24" fill="rgb(65,219,176)" stroke="rgb(52,175,140)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Methyltransf_11 (PF08241)
+"Methyltransferase domain"</title>
+				<polygon class="PF08241" points="406,30 408,28 415,28 415,52 408,52 406,50" stroke-linejoin="round" width="9" height="24" fill="rgb(106,219,159)" stroke="rgb(84,175,127)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1664_16)</title>
+			<polygon class=" (ctg1664_16)" points="436,10 448,40 436,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABM (PF03992)
+"Antibiotic biosynthesis monooxygenase"</title>
+				<polygon class="PF03992" points="438,28 440,28 445,40 445,40 440,52 438,52" stroke-linejoin="round" width="7" height="24" fill="rgb(193,84,127)" stroke="rgb(154,67,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1664_17)</title>
+			<polygon class=" (ctg1664_17)" points="454,10 478,40 454,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DLH (PF01738)
+"Dienelactone hydrolase family"</title>
+				<polygon class="PF01738" points="455,28 464,28 474,40 464,52 455,52" stroke-linejoin="round" width="22" height="24" fill="rgb(188,185,48)" stroke="rgb(150,147,38)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1664_18)</title>
+			<polygon class=" (ctg1664_18)" points="526,25 511,25 511,10 481,40 511,70 511,55 526,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amino_oxidase (PF01593)
+"Flavin containing amine oxidoreductase"</title>
+				<polygon class="PF01593" points="485,40 497,28 524,28 524,52 497,52" stroke-linejoin="round" width="43" height="24" fill="rgb(184,74,52)" stroke="rgb(147,59,41)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1664_19)</title>
+			<polygon class=" (ctg1664_19)" points="571,25 562,25 562,10 532,40 562,70 562,55 571,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>sCache_2 (PF17200)
+"Single Cache domain 2"</title>
+				<polygon class="PF17200" points="546,30 548,28 556,28 556,52 548,52 546,50" stroke-linejoin="round" width="10" height="24" fill="rgb(192,78,228)" stroke="rgb(153,62,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>sCache_2 (PF17200)
+"Single Cache domain 2"</title>
+				<rect class="PF17200" x="559" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(192,78,228)" stroke="rgb(153,62,182)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1664_20)</title>
+			<polygon class=" (ctg1664_20)" points="572,10 577,40 572,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1664_21)</title>
+			<polygon class=" (ctg1664_21)" points="582,10 593,40 582,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1664_22)</title>
+			<polygon class=" (ctg1664_22)" points="593,10 600,40 593,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1664_23)</title>
+			<polygon class=" (ctg1664_23)" points="599,25 626,25 626,10 656,40 626,70 626,55 599,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Xan_ur_permease (PF00860)
+"Permease family"</title>
+				<rect class="PF00860" x="601" y="28" stroke-linejoin="round" width="38" height="24" fill="rgb(216,88,217)" stroke="rgb(172,70,173)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

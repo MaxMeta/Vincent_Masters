@@ -1,0 +1,20 @@
+#                                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Fic                  PF02661.18    97 CS204_c00001_NODE_1_...cluster158_ORF2:gid::pid::loc:1262:2435:strand:- -            390   2.6e-19   69.9   0.0   1   1   4.1e-23   7.3e-19   68.5   0.0     3    97   112   222   110   222 0.91 Fic/DOC family
+IMS                  PF00817.20   150 CS204_c00001_NODE_1_...cluster158_ORF3:gid::pid::loc:2566:3859:strand:- -            430   1.3e-37  129.1   0.0   1   1   2.3e-41     2e-37  128.5   0.0     1   149    19   165    19   166 0.97 impB/mucB/samB family
+IMS_C                PF11799.8    118 CS204_c00001_NODE_1_...cluster158_ORF3:gid::pid::loc:2566:3859:strand:- -            430     3e-09   37.6   0.0   1   1   6.4e-13   5.7e-09   36.7   0.0     7   113   252   358   246   361 0.81 impB/mucB/samB family C-terminal domain
+HTH_3                PF01381.22    55 CS204_c00001_NODE_1_...cluster158_ORF4:gid::pid::loc:4292:4592:strand:+ -             99   1.6e-09   37.7   0.0   1   1   1.2e-13   2.2e-09   37.2   0.0     5    49    18    62    14    68 0.93 Helix-turn-helix
+DUF2282              PF10048.9     53 CS204_c00001_NODE_1_...cluster158_ORF5:gid::pid::loc:4697:4985:strand:+ -             95   3.3e-21   75.0   4.4   1   1   2.7e-25   4.8e-21   74.5   4.4     1    49    37    85    37    88 0.96 Predicted integral membrane protein (DUF2282)
+DUF692               PF05114.13   263 CS204_c00001_NODE_1_...cluster158_ORF6:gid::pid::loc:5000:5846:strand:+ -            282   8.1e-42  143.2   0.1   1   1   1.2e-45   1.1e-41  142.8   0.1     2   128    17   143    16   150 0.97 Protein of unknown function (DUF692)
+HTH_1                PF00126.27    60 CS204_c00001_NODE_1_...cluster158_ORF6:gid::pid::loc:5000:5846:strand:+ -            282   8.7e-22   76.8   2.4   1   1   2.1e-25   1.9e-21   75.8   2.4     2    60   143   201   142   201 0.97 Bacterial regulatory helix-turn-helix protein, lysR family
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS204_c00001_NODE_1_...cluster158.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS204_c00001_NODE_1_...cluster158.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS204_c00001_NODE_1_...cluster158.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:39:21 2019
+# [ok]

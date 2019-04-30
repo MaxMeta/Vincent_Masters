@@ -1,0 +1,54 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="188.1" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="178.1" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg12130_1)</title>
+			<polygon class=" (ctg12130_1)" points="10,40 22,10 22,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg12130_2)</title>
+			<polygon class=" (ctg12130_2)" points="26,40 52,10 52,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cu-oxidase_4 (PF02578)
+"Multi-copper polyphenol oxidoreductase laccase"</title>
+				<polygon class="PF02578" points="30,40 40,28 49,28 49,52 40,52" stroke-linejoin="round" width="23" height="24" fill="rgb(184,50,122)" stroke="rgb(147,40,97)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg12130_3)</title>
+			<polygon class=" (ctg12130_3)" points="88,25 82,25 82,10 52,40 82,70 82,55 88,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_28 (PF02636)
+"Putative S-adenosyl-L-methionine-dependent methyltransferase"</title>
+				<polygon class="PF02636" points="59,37 68,28 82,28 82,52 68,52 59,43" stroke-linejoin="round" width="23" height="24" fill="rgb(200,62,145)" stroke="rgb(160,49,115)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg12130_4)</title>
+			<polygon class=" (ctg12130_4)" points="88,40 115,10 115,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LGT (PF01790)
+"Prolipoprotein diacylglyceryl transferase"</title>
+				<polygon class="PF01790" points="92,40 103,28 113,28 113,52 103,52" stroke-linejoin="round" width="24" height="24" fill="rgb(140,56,206)" stroke="rgb(112,44,164)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg12130_5)</title>
+			<polygon class=" (ctg12130_5)" points="147,25 145,25 145,10 115,40 145,70 145,55 147,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Epimerase (PF01370)
+"NAD dependent epimerase/dehydratase family"</title>
+				<polygon class="PF01370" points="123,36 131,28 147,28 147,52 131,52 123,44" stroke-linejoin="round" width="24" height="24" fill="rgb(98,102,214)" stroke="rgb(78,81,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg12130_6)</title>
+			<polygon class=" (ctg12130_6)" points="151,40 177,10 177,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="155,40 165,28 176,28 176,52 165,52" stroke-linejoin="round" width="24" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

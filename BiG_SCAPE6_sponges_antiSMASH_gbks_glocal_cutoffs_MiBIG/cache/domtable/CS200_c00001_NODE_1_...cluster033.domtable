@@ -1,0 +1,24 @@
+#                                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+LpxC                 PF03331.13   270 CS200_c00001_NODE_1_...cluster033_ORF1:gid::pid::loc:314:1163:strand:- -            282   1.1e-83  280.9   0.0   1   1   6.8e-88   1.2e-83  280.7   0.0    21   269     1   251     1   252 0.99 UDP-3-O-acyl N-acetylglycosamine deacetylase
+Dus                  PF01207.17   310 CS200_c00001_NODE_1_...cluster033_ORF2:gid::pid::loc:1397:2495:strand:+ -            365   9.1e-68  228.6   0.1   1   1   1.7e-69   3.1e-65  220.3   0.1     2   292    25   335    24   352 0.92 Dihydrouridine synthase (Dus)
+STAS_2               PF13466.6     80 CS200_c00001_NODE_1_...cluster033_ORF3:gid::pid::loc:2513:2999:strand:- -            161   2.6e-07   30.9   0.9   1   1   2.9e-11   2.6e-07   30.9   0.9     1    80    17    99    17    99 0.93 STAS domain
+STAS                 PF01740.21   117 CS200_c00001_NODE_1_...cluster033_ORF3:gid::pid::loc:2513:2999:strand:- -            161   5.8e-07   29.2   0.0   1   1   8.6e-11   7.7e-07   28.8   0.0    26   106    30   103     9   114 0.80 STAS domain
+SpoIIE               PF07228.12   193 CS200_c00001_NODE_1_...cluster033_ORF4:gid::pid::loc:3000:4098:strand:- -            365   4.5e-30  105.0   0.1   1   1   3.7e-34   6.7e-30  104.5   0.1     2   192   177   363   176   364 0.89 Stage II sporulation protein E (SpoIIE)
+DUF2063              PF09836.9     85 CS200_c00001_NODE_1_...cluster033_ORF5:gid::pid::loc:4196:4967:strand:- -            256   2.1e-21   75.9   0.0   1   1   2.2e-25   3.9e-21   75.1   0.0     2    85    10    95     9    95 0.96 Putative DNA-binding domain
+DUF692               PF05114.13   263 CS200_c00001_NODE_1_...cluster033_ORF6:gid::pid::loc:5000:5789:strand:- -            262   7.2e-94  313.9   0.0   1   1   4.4e-98   7.9e-94  313.7   0.0    17   262     9   254     1   255 0.96 Protein of unknown function (DUF692)
+DUF3418              PF11898.8    583 CS200_c00001_NODE_1_...cluster033_ORF8:gid::pid::loc:6374:10388:strand:- -           1337    1e-144  483.5   5.7   1   1  2.8e-148  1.3e-144  483.1   5.7     1   581   729  1313   729  1315 0.96 Domain of unknown function (DUF3418)
+HA2                  PF04408.23   108 CS200_c00001_NODE_1_...cluster033_ORF8:gid::pid::loc:6374:10388:strand:- -           1337   2.4e-17   63.1   0.1   1   1   1.6e-20   7.1e-17   61.7   0.1     1   104   456   549   456   572 0.82 Helicase associated domain (HA2)
+Helicase_C           PF00271.31   111 CS200_c00001_NODE_1_...cluster033_ORF8:gid::pid::loc:6374:10388:strand:- -           1337   6.3e-11   42.6   0.4   1   1     3e-14   1.3e-10   41.6   0.0    13   110   278   394   265   395 0.84 Helicase conserved C-terminal domain
+DEAD                 PF00270.29   176 CS200_c00001_NODE_1_...cluster033_ORF8:gid::pid::loc:6374:10388:strand:- -           1337   1.5e-07   31.4   0.1   1   1   8.2e-11   3.7e-07   30.1   0.1     7   170    38   185    33   191 0.76 DEAD/DEAH box helicase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS200_c00001_NODE_1_...cluster033.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS200_c00001_NODE_1_...cluster033.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS200_c00001_NODE_1_...cluster033.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:51:56 2019
+# [ok]

@@ -1,0 +1,21 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Cupin_2              PF07883.11    71 BGC0000902.1_ORF1:gid::pid:CAM00566.1:loc:0:540:strand:- -            179   1.8e-14   53.2   0.1   1   1   3.8e-10   2.2e-06   27.3   0.1     2    32    37    67    36    75 0.92 Cupin domain
+Cupin_1              PF00190.22   151 BGC0000902.1_ORF1:gid::pid:CAM00566.1:loc:0:540:strand:- -            179   1.2e-13   51.0   0.0   1   1   2.5e-17   1.5e-13   50.6   0.0    30   121    30   132    12   144 0.82 Cupin
+p450                 PF00067.22   463 BGC0000902.1_ORF2:gid:cyp25:pid:CAM00567.1:loc:575:1781:strand:- -            401   1.1e-26   93.6   0.0   1   1   1.9e-27   3.5e-23   82.1   0.0    37   432    36   370    23   382 0.82 Cytochrome P450
+Chal_sti_synt_C      PF02797.15   151 BGC0000902.1_ORF3:gid:rppA:pid:CAM00568.1:loc:1777:2881:strand:- -            367     3e-17   63.0   0.0   1   1     1e-20   4.7e-17   62.4   0.0     4   145   209   342   206   348 0.84 Chalcone and stilbene synthases, C-terminal domain
+Chal_sti_synt_N      PF00195.19   225 BGC0000902.1_ORF3:gid:rppA:pid:CAM00568.1:loc:1777:2881:strand:- -            367   2.8e-16   59.7   0.0   1   1   1.5e-19   6.8e-16   58.4   0.0    20   221     8   197     1   201 0.81 Chalcone and stilbene synthases, N-terminal domain
+FAE1_CUT1_RppA       PF08392.12   290 BGC0000902.1_ORF3:gid:rppA:pid:CAM00568.1:loc:1777:2881:strand:- -            367   3.9e-15   55.9   0.0   1   1   1.2e-18   5.4e-15   55.5   0.0    25   202    16   196     9   206 0.79 FAE1/Type III polyketide synthase-like protein
+ACP_syn_III_C        PF08541.10    90 BGC0000902.1_ORF3:gid:rppA:pid:CAM00568.1:loc:1777:2881:strand:- -            367   4.1e-13   49.3   0.0   1   1   2.2e-15     1e-11   44.9   0.0     3    85   256   341   254   346 0.90 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal
+HxlR                 PF01638.17    91 BGC0000902.1_ORF4:gid::pid:CAM00569.1:loc:3234:3903:strand:- -            222   1.2e-24   86.0   0.0   1   1   9.2e-29   1.7e-24   85.5   0.0     1    87    18   104    18   108 0.97 HxlR-like helix-turn-helix
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000902.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000902.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000902.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:47:04 2019
+# [ok]

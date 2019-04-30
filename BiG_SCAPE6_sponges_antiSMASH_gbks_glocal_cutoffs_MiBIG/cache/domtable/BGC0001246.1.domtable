@@ -1,0 +1,35 @@
+#                                                                                                                         --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                        accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                              -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Zn_clus              PF00172.18    40 BGC0001246.1_ORF1:gid:resR1:pid:AHV78249.1:loc:1296:4206:strand:+ -            933   1.9e-05   24.7   8.5   1   1   3.3e-09   5.9e-05   23.1   8.5     1    34     6    63     6    67 0.93 Fungal Zn(2)-Cys(6) binuclear cluster domain
+MFS_1                PF07690.16   353 BGC0001246.1_ORF3:gid:resE:pid:AHV78251.1:loc:8298:10135:strand:+ -            565   5.5e-43  147.2  41.2   1   1   3.9e-46     7e-42  143.6  42.7     1   350    65   465    65   468 0.86 Major Facilitator Superfamily
+ketoacyl-synt        PF00109.26   253 BGC0001246.1_ORF4:gid:resS1:pid:AHV78252.1:loc:10375:17645:strand:- -           2400   3.7e-74  249.5   0.1   1   1   6.2e-77   9.3e-74  248.2   0.1     3   253    14   264    12   264 0.94 Beta-ketoacyl synthase, N-terminal domain
+KR                   PF08659.10   180 BGC0001246.1_ORF4:gid:resS1:pid:AHV78252.1:loc:10375:17645:strand:- -           2400   2.8e-60  203.3   0.0   1   1     4e-63   5.9e-60  202.2   0.0     2   178  2021  2198  2020  2200 0.98 KR domain
+Acyl_transf_1        PF00698.21   319 BGC0001246.1_ORF4:gid:resS1:pid:AHV78252.1:loc:10375:17645:strand:- -           2400   7.7e-55  186.6   0.1   1   1   9.1e-58   1.4e-54  185.8   0.1     2   316   555   890   554   892 0.86 Acyl transferase domain
+PS-DH                PF14765.6    298 BGC0001246.1_ORF4:gid:resS1:pid:AHV78252.1:loc:10375:17645:strand:- -           2400   5.7e-48  163.7   0.0   1   1   7.4e-51   1.1e-47  162.7   0.0     2   292   940  1257   939  1261 0.90 Polyketide synthase dehydratase
+Ketoacyl-synt_C      PF02801.22   118 BGC0001246.1_ORF4:gid:resS1:pid:AHV78252.1:loc:10375:17645:strand:- -           2400   1.5e-36  125.0   0.1   1   1   3.4e-39     5e-36  123.3   0.1     2   117   273   393   272   394 0.98 Beta-ketoacyl synthase, C-terminal domain
+ADH_zinc_N_2         PF13602.6    133 BGC0001246.1_ORF4:gid:resS1:pid:AHV78252.1:loc:10375:17645:strand:- -           2400     1e-16   62.2   0.0   1   1   1.8e-19   2.7e-16   60.9   0.0     5   133  1859  1995  1857  1995 0.78 Zinc-binding dehydrogenase
+KAsynt_C_assoc       PF16197.5    112 BGC0001246.1_ORF4:gid:resS1:pid:AHV78252.1:loc:10375:17645:strand:- -           2400   5.1e-16   59.1   0.0   1   1   9.7e-19   1.5e-15   57.7   0.0     1    91   396   495   396   517 0.87 Ketoacyl-synthetase C-terminal extension
+ADH_zinc_N           PF00107.26   130 BGC0001246.1_ORF4:gid:resS1:pid:AHV78252.1:loc:10375:17645:strand:- -           2400     3e-15   56.4   0.0   1   1   7.2e-18   1.1e-14   54.6   0.0     1   103  1820  1926  1820  1959 0.87 Zinc-binding dehydrogenase
+adh_short            PF00106.25   195 BGC0001246.1_ORF4:gid:resS1:pid:AHV78252.1:loc:10375:17645:strand:- -           2400   8.2e-13   48.3   0.0   1   1   3.6e-15   5.4e-12   45.6   0.0     3   153  2022  2173  2020  2204 0.84 short chain dehydrogenase
+PP-binding           PF00550.25    67 BGC0001246.1_ORF4:gid:resS1:pid:AHV78252.1:loc:10375:17645:strand:- -           2400   3.2e-08   33.8   0.0   1   1   7.1e-11   1.1e-07   32.1   0.0     1    64  2324  2387  2324  2390 0.89 Phosphopantetheine attachment site
+adh_short_C2         PF13561.6    234 BGC0001246.1_ORF4:gid:resS1:pid:AHV78252.1:loc:10375:17645:strand:- -           2400     4e-07   29.8   0.0   1   1     6e-10     9e-07   28.7   0.0     4   143  2029  2171  2026  2220 0.83 Enoyl-(Acyl carrier protein) reductase
+Thiolase_N           PF00108.23   260 BGC0001246.1_ORF4:gid:resS1:pid:AHV78252.1:loc:10375:17645:strand:- -           2400   5.9e-07   29.1   0.1   1   1     1e-09   1.5e-06   27.8   0.1    59   120   162   222   157   238 0.85 Thiolase, N-terminal domain
+ketoacyl-synt        PF00109.26   253 BGC0001246.1_ORF5:gid:resS2:pid:AHV78253.1:loc:19089:25725:strand:+ -           2211   4.5e-68  229.6   0.0   1   1   3.4e-71   8.8e-68  228.6   0.0     3   253   402   655   400   655 0.92 Beta-ketoacyl synthase, N-terminal domain
+SAT                  PF16073.5    240 BGC0001246.1_ORF5:gid:resS2:pid:AHV78253.1:loc:19089:25725:strand:+ -           2211   2.9e-53  181.1   0.4   1   1   6.7e-55   1.7e-51  175.3   0.0     1   240    15   258    15   258 0.95 Starter unit:ACP transacylase in aflatoxin biosynthesis
+Acyl_transf_1        PF00698.21   319 BGC0001246.1_ORF5:gid:resS2:pid:AHV78253.1:loc:19089:25725:strand:+ -           2211     2e-39  136.0   0.1   1   1   1.5e-42   3.9e-39  135.0   0.1     2   297   955  1270   954  1292 0.83 Acyl transferase domain
+Ketoacyl-synt_C      PF02801.22   118 BGC0001246.1_ORF5:gid:resS2:pid:AHV78253.1:loc:19089:25725:strand:+ -           2211   3.1e-37  127.2   0.2   1   1   3.6e-40   9.3e-37  125.6   0.2     1   115   663   787   663   789 0.97 Beta-ketoacyl synthase, C-terminal domain
+Thioesterase         PF00975.20   231 BGC0001246.1_ORF5:gid:resS2:pid:AHV78253.1:loc:19089:25725:strand:+ -           2211     4e-12   46.7   0.0   1   1   4.8e-15   1.2e-11   45.2   0.0     9   107  1943  2043  1936  2053 0.87 Thioesterase domain
+PP-binding           PF00550.25    67 BGC0001246.1_ORF5:gid:resS2:pid:AHV78253.1:loc:19089:25725:strand:+ -           2211   1.6e-10   41.2   0.5   1   1   1.8e-13   4.5e-10   39.7   0.5     2    63  1740  1801  1739  1805 0.96 Phosphopantetheine attachment site
+PS-DH                PF14765.6    298 BGC0001246.1_ORF5:gid:resS2:pid:AHV78253.1:loc:19089:25725:strand:+ -           2211   7.7e-09   35.2   0.0   1   1   5.9e-12   1.5e-08   34.2   0.0    12   294  1363  1670  1355  1674 0.80 Polyketide synthase dehydratase
+Aldose_epim          PF01263.20   301 BGC0001246.1_ORF6:gid::pid:AHV78254.1:loc:27396:28428:strand:+ -            343   7.1e-56  189.7   0.0   1   1   5.3e-60   9.6e-56  189.3   0.0    14   301     7   339     4   339 0.94 Aldose 1-epimerase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001246.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001246.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001246.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:46:38 2019
+# [ok]

@@ -1,0 +1,23 @@
+#                                                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ketoacyl-synt        PF00109.26   253 CS202_c00001_NODE_1_...cluster178_ORF1:gid::pid::loc:43:2695:strand:+ -            883   5.6e-75  252.2   3.8   1   1   3.4e-78   1.5e-74  250.8   2.2     3   253    25   267    23   267 0.92 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.22   118 CS202_c00001_NODE_1_...cluster178_ORF1:gid::pid::loc:43:2695:strand:+ -            883   1.8e-43  147.3   0.2   1   1   2.2e-46   9.7e-43  144.9   0.1     2   118   276   393   275   393 0.99 Beta-ketoacyl synthase, C-terminal domain
+Acyl_transf_1        PF00698.21   319 CS202_c00001_NODE_1_...cluster178_ORF1:gid::pid::loc:43:2695:strand:+ -            883   1.1e-37  130.3   0.2   1   1   4.8e-33   2.2e-29  103.0   0.6     2   114   582   705   581   712 0.98 Acyl transferase domain
+KAsynt_C_assoc       PF16197.5    112 CS202_c00001_NODE_1_...cluster178_ORF1:gid::pid::loc:43:2695:strand:+ -            883   1.6e-12   47.9   0.0   1   1   1.8e-15   8.3e-12   45.6   0.0     1    91   395   518   395   529 0.88 Ketoacyl-synthetase C-terminal extension
+PP-binding           PF00550.25    67 CS202_c00001_NODE_1_...cluster178_ORF2:gid::pid::loc:2876:3101:strand:+ -             74   3.2e-11   43.4   0.0   1   1     2e-15   3.6e-11   43.3   0.0     1    67     6    69     6    69 0.95 Phosphopantetheine attachment site
+Abhydrolase_6        PF12697.7    220 CS202_c00001_NODE_1_...cluster178_ORF3:gid::pid::loc:3117:4014:strand:+ -            298   1.2e-11   45.7   4.7   1   1   7.8e-16   1.4e-11   45.4   4.7     1   219    34   284    34   285 0.54 Alpha/beta hydrolase family
+CLP_protease         PF00574.23   182 CS202_c00001_NODE_1_...cluster178_ORF4:gid::pid::loc:4025:4628:strand:+ -            200   1.5e-77  259.6   0.0   1   1   9.5e-82   1.7e-77  259.4   0.0     2   181    18   197    17   198 0.99 Clp protease
+DAO                  PF01266.24   352 CS202_c00001_NODE_1_...cluster178_ORF5:gid::pid::loc:4641:5751:strand:- -            369   4.7e-60  204.0   4.0   1   1   8.9e-64   5.3e-60  203.9   4.0     2   352     8   353     7   353 0.87 FAD dependent oxidoreductase
+NAD_binding_8        PF13450.6     68 CS202_c00001_NODE_1_...cluster178_ORF5:gid::pid::loc:4641:5751:strand:- -            369   1.5e-05   25.1   0.7   1   1   1.4e-08   8.4e-05   22.7   0.5     1    39    10    49    10    66 0.89 NAD(P)-binding Rossmann-like domain
+Beta_elim_lyase      PF01212.21   293 CS202_c00001_NODE_1_...cluster178_ORF6:gid::pid::loc:5949:6336:strand:- -            128     1e-08   34.8   0.1   1   1   7.9e-13   1.4e-08   34.4   0.1   219   273     1    53     1    76 0.92 Beta-eliminating lyase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster178.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS202_c00001_NODE_1_...cluster178.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster178.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:48:53 2019
+# [ok]

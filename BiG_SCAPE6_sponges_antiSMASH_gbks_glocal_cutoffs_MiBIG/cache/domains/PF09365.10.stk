@@ -1,0 +1,24 @@
+# STOCKHOLM 1.0
+
+CS202_c00001_NODE_1_...cluster030_ORF21:gid::pid::loc:34494:34788:strand:+:1:88         .----------------.-----------.----------------------------.----------------------------.------------------------------.-------IRQAI.TDD..PDAWAQARDDTGFRAAF.-ELSGDSLKRAPRGIDPDHPMIEDLKRKDFIGVTSLGNDAIISDS
+#=GR CS202_c00001_NODE_1_...cluster030_ORF21:gid::pid::loc:34494:34788:strand:+:1:88 PP ..............................................................................................................................7****.***..*****************..67******************************************
+CS211_c00001_NODE_1_...cluster248_ORF4:gid::pid::loc:2427:3108:strand:+:6:217           l--FTFFRELADNNDRA.WFAENRPRYEQyVKSPLLEFIRAFAIPLHSLSTHYSAVPRvGGSLFRIYRDIRFSKDKNPFKTAAGIHFrHNAGKDAHAPGFYLHLEPDEVFAAIGIWGP.QGPALRSIRRFI.VDH..ADEWKQIISDPAFTEVYhRNLATDSLKRAPKGFDPNHPLIEDLKRKHFVAAAPLTEAAVCSAD
+#=GR CS211_c00001_NODE_1_...cluster248_ORF4:gid::pid::loc:2427:3108:strand:+:6:217   PP 7..79************.*************************************777699**************************9999***************************.************.***..*****************666*******************************************
+BGC0001368.1_ORF21:gid::pid:WP_051700119.1:loc:30548:31238:strand:-:9:210               a--LRLYEDLAADNSKEaWRLRHRERYERdVRAPMDELAAELGTFFEEWAG-----PG.AVQVLGPVRDTRMSHDKSPYKTYQGAYL.DLL----PCLGLWVHLDRDG-LYASGRWYPyAGAEVARYRAAV.EEEdgGTELAAITGRLA-EQGF.-VLGGDRLKSRPRGVPADHPRLDLLRHRKIDAGRRHGPAAGLHTP
+#=GR BGC0001368.1_ORF21:gid::pid:WP_051700119.1:loc:30548:31238:strand:-:9:210       PP 6..67889*******976999*********************999997763.....33.567999*********************9.422....559********66.5666666551578*********.65544899999996655.4445..4899*******************************999999988
+BGC0000376.1_ORF9:gid:fmoF:pid:BAP16690.1:loc:13560:14217:strand:+:9:201                .-AFDFYKELAEDNSTS.FWHRNRDRYEQaVREPMADLVAELSPEFGEIR--------.---MLRPQRDTRASNDKSPYKTYQGALV.DLE----PGLGYWLHLDADGLRATGRYYSR.APQEMAALRAVVaEEK..GGELQSLVDGLEGLGHT.--VGGVALQTRPRGVPADHPRVRLLRHRTLDIGRSCDRTMAGRPS
+#=GR BGC0000376.1_ORF9:gid:fmoF:pid:BAP16690.1:loc:13560:14217:strand:+:9:201        PP ..689************.*****************************554............89**********************8.433....569********************.************7778..9*******666666655...89999*******************************9999999
+#=GC PP_cons                                                                            ..67899*********9.***********.*****************7777****755.77899**********************9.655****779********88*889999988.899****9****.888..9*******888887777.6589************************************99999
+#=GC RF                                                                                 .xxxxxxxxxxxxxxxx.xxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxx.xxx..xxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CS202_c00001_NODE_1_...cluster030_ORF21:gid::pid::loc:34494:34788:strand:+:1:88         .FLDDFAALCRSASPFQRW
+#=GR CS202_c00001_NODE_1_...cluster030_ORF21:gid::pid::loc:34494:34788:strand:+:1:88 PP .***************987
+CS211_c00001_NODE_1_...cluster248_ORF4:gid::pid::loc:2427:3108:strand:+:6:217           .FLGDLHAVWKRGTGFMSY
+#=GR CS211_c00001_NODE_1_...cluster248_ORF4:gid::pid::loc:2427:3108:strand:+:6:217   PP .***********9999986
+BGC0001368.1_ORF21:gid::pid:WP_051700119.1:loc:30548:31238:strand:-:9:210               rAGEFVRETWLLVRPLLDW
+#=GR BGC0001368.1_ORF21:gid::pid:WP_051700119.1:loc:30548:31238:strand:-:9:210       PP 8***************987
+BGC0000376.1_ORF9:gid:fmoF:pid:BAP16690.1:loc:13560:14217:strand:+:9:201                .AAGWVAGTWRELRPTLDW
+#=GR BGC0000376.1_ORF9:gid:fmoF:pid:BAP16690.1:loc:13560:14217:strand:+:9:201        PP .**************9987
+#=GC PP_cons                                                                            .**************9987
+#=GC RF                                                                                 .xxxxxxxxxxxxxxxxxx
+//

@@ -1,0 +1,20 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.28   423 BGC0001399.1_ORF1:gid::pid:CBF76038.1:loc:831:5441:strand:+ -           1480   2.3e-72  243.9   0.0   1   1   7.5e-76   3.3e-72  243.4   0.0     2   423   479   871   478   871 0.87 AMP-binding enzyme
+Condensation         PF00668.20   457 BGC0001399.1_ORF1:gid::pid:CBF76038.1:loc:831:5441:strand:+ -           1480   5.1e-48  163.9   0.0   1   1   2.4e-51   1.1e-47  162.8   0.0     1   455    44   458    44   459 0.84 Condensation domain
+NAD_binding_4        PF07993.12   257 BGC0001399.1_ORF1:gid::pid:CBF76038.1:loc:831:5441:strand:+ -           1480   3.1e-41  141.3   0.0   1   1   1.5e-44   6.7e-41  140.2   0.0     1   253  1120  1357  1120  1361 0.86 Male sterility protein
+Epimerase            PF01370.21   241 BGC0001399.1_ORF1:gid::pid:CBF76038.1:loc:831:5441:strand:+ -           1480     2e-05   24.2   0.0   1   1   2.2e-08   9.9e-05   21.9   0.0     1   177  1118  1318  1118  1337 0.71 NAD dependent epimerase/dehydratase family
+FSH1                 PF03959.13   212 BGC0001399.1_ORF2:gid::pid:CBF76040.1:loc:5673:6987:strand:- -            437   1.1e-40  139.6   0.0   1   1   8.6e-45   1.5e-40  139.1   0.0     6   211     2   237     1   238 0.91 Serine hydrolase (FSH1)
+Proteasome           PF00227.26   190 BGC0001399.1_ORF3:gid::pid:CBF76042.1:loc:8293:9002:strand:- -            215   5.6e-31  107.5   0.0   1   1   3.6e-35   6.4e-31  107.3   0.0     2   189    12   199    11   200 0.93 Proteasome subunit
+MFS_1                PF07690.16   353 BGC0001399.1_ORF5:gid::pid:CBF76046.1:loc:10855:12622:strand:- -            517   2.1e-28   99.3  50.9   1   1   9.5e-32   1.7e-27   96.3  50.9    27   352    53   430    31   431 0.84 Major Facilitator Superfamily
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001399.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001399.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001399.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:38:13 2019
+# [ok]

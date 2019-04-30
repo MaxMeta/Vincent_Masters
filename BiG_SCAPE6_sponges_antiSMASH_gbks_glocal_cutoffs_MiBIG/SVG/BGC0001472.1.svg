@@ -1,0 +1,175 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="669.5333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="659.5333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>S12
+S12 ribosomal protein</title>
+			<polygon class="S12
+S12 ribosomal protein" points="18,10 32,40 18,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ribosom_S12_S23 (PF00164)
+"Ribosomal protein S12/S23"</title>
+				<polygon class="PF00164" points="20,28 22,28 28,40 22,52 20,52" stroke-linejoin="round" width="11" height="24" fill="rgb(171,52,184)" stroke="rgb(136,41,147)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>S7
+S7 ribosomal protein</title>
+			<polygon class="S7
+S7 ribosomal protein" points="32,10 47,40 32,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ribosomal_S7 (PF00177)
+"Ribosomal protein S7p/S5e"</title>
+				<polygon class="PF00177" points="32,28 37,28 44,40 37,52 32,52" stroke-linejoin="round" width="14" height="24" fill="rgb(205,95,228)" stroke="rgb(164,76,182)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>EF-G
+elongation factor G</title>
+			<polygon class="EF-G
+elongation factor G" points="49,25 90,25 90,10 120,40 90,70 90,55 49,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GTP_EFTU (PF00009)
+"Elongation factor Tu GTP binding domain"</title>
+				<rect class="PF00009" x="49" y="28" stroke-linejoin="round" width="28" height="24" fill="rgb(196,118,83)" stroke="rgb(156,94,66)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GTP_EFTU_D2 (PF03144)
+"Elongation factor Tu domain 2"</title>
+				<rect class="PF03144" x="82" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(69,184,189)" stroke="rgb(55,147,151)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>EFG_II (PF14492)
+"Elongation Factor G, domain II"</title>
+				<rect class="PF14492" x="90" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(217,213,86)" stroke="rgb(173,170,68)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>EFG_IV (PF03764)
+"Elongation factor G, domain IV"</title>
+				<polygon class="PF03764" points="98,28 103,28 110,35 110,45 103,52 98,52" stroke-linejoin="round" width="12" height="24" fill="rgb(175,56,200)" stroke="rgb(140,44,160)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>EFG_C (PF00679)
+"Elongation factor G C-terminus"</title>
+				<polygon class="PF00679" points="110,35 115,40 110,45" stroke-linejoin="round" width="8" height="24" fill="rgb(136,208,97)" stroke="rgb(108,166,77)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>EF-Tu
+elongation factor Tu</title>
+			<polygon class="EF-Tu
+elongation factor Tu" points="125,25 134,25 134,10 164,40 134,70 134,55 125,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GTP_EFTU (PF00009)
+"Elongation factor Tu GTP binding domain"</title>
+				<rect class="PF00009" x="126" y="28" stroke-linejoin="round" width="19" height="24" fill="rgb(196,118,83)" stroke="rgb(156,94,66)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GTP_EFTU_D2 (PF03144)
+"Elongation factor Tu domain 2"</title>
+				<polygon class="PF03144" points="147,28 148,28 154,34 154,46 148,52 147,52" stroke-linejoin="round" width="7" height="24" fill="rgb(69,184,189)" stroke="rgb(55,147,151)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GTP_EFTU_D3 (PF03143)
+"Elongation factor Tu C-terminal domain"</title>
+				<polygon class="PF03143" points="155,35 160,40 155,45" stroke-linejoin="round" width="9" height="24" fill="rgb(213,153,104)" stroke="rgb(170,122,83)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>berE1
+BerE1</title>
+			<polygon class="berE1
+BerE1" points="172,40 195,10 195,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>berE2
+BerE2</title>
+			<polygon class="berE2
+BerE2" points="249,25 225,25 225,10 195,40 225,70 225,55 249,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>berG1
+BerG1</title>
+			<polygon class="berG1
+BerG1" points="250,40 270,10 270,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>berG2
+BerG2</title>
+			<polygon class="berG2
+BerG2" points="315,25 301,25 301,10 271,40 301,70 301,55 315,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YcaO (PF02624)
+"YcaO cyclodehydratase, ATP-ad Mg2+-binding"</title>
+				<polygon class="PF02624" points="275,40 287,28 308,28 308,52 287,52 275,40" stroke-linejoin="round" width="33" height="24" fill="rgb(76,84,185)" stroke="rgb(60,67,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>berD
+BerD</title>
+			<polygon class="berD
+BerD" points="355,25 347,25 347,10 317,40 347,70 347,55 355,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>berA
+BerA</title>
+			<polygon class="berA
+BerA" points="360,10 364,40 360,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>berB
+BerB</title>
+			<polygon class="berB
+BerB" points="375,25 433,25 433,10 463,40 433,70 433,55 375,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lant_dehydr_N (PF04738)
+"Lantibiotic dehydratase, N terminus"</title>
+				<polygon class="PF04738" points="389,28 447,28 458,39 458,41 447,52 389,52" stroke-linejoin="round" width="69" height="24" fill="rgb(219,60,229)" stroke="rgb(175,47,183)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>berC
+BerC</title>
+			<polygon class="berC
+BerC" points="470,10 495,40 470,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lant_dehydr_C (PF14028)
+"Lantibiotic biosynthesis dehydratase C-term"</title>
+				<polygon class="PF14028" points="470,28 481,28 491,40 481,52 470,52" stroke-linejoin="round" width="24" height="24" fill="rgb(107,223,113)" stroke="rgb(85,178,90)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>berI
+BerI</title>
+			<polygon class="berI
+BerI" points="546,10 561,40 546,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>berJ
+BerJ</title>
+			<polygon class="berJ
+BerJ" points="574,10 600,40 574,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TSNR_N (PF04705)
+"Thiostrepton-resistance methylase, N terminus"</title>
+				<rect class="PF04705" x="574" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(81,164,187)" stroke="rgb(64,131,149)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SpoU_methylase (PF00588)
+"SpoU rRNA Methylase family"</title>
+				<polygon class="PF00588" points="585,28 585,28 596,40 585,52 585,52" stroke-linejoin="round" width="14" height="24" fill="rgb(84,205,178)" stroke="rgb(67,164,142)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+LmbE family protein</title>
+			<polygon class="
+LmbE family protein" points="658,25 633,25 633,10 603,40 633,70 633,55 658,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PIG-L (PF02585)
+"GlcNAc-PI de-N-acetylase"</title>
+				<rect class="PF02585" x="644" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(97,215,95)" stroke="rgb(77,172,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

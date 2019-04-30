@@ -1,0 +1,23 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ABC2_membrane_4      PF12730.7    179 BGC0000528.1_ORF1:gid:clvE:pid:CAN02018.1:loc:0:747:strand:- -            248   1.6e-16   60.8   9.3   1   1   8.8e-21   1.6e-16   60.8   9.3     2   179     2   177     1   177 0.79 ABC-2 family transporter protein
+ABC2_membrane_4      PF12730.7    179 BGC0000528.1_ORF2:gid:clvG:pid:CAN02019.1:loc:752:1505:strand:- -            250   2.4e-09   37.4   0.5   1   1   1.3e-13   2.4e-09   37.4   0.5     2   177     5   183     4   187 0.80 ABC-2 family transporter protein
+ABC_tran             PF00005.27   137 BGC0000528.1_ORF3:gid:clvF:pid:CAN02020.1:loc:1501:2401:strand:- -            299     9e-28   97.5   0.0   1   1   1.5e-31   1.3e-27   96.9   0.0     2   137    21   161    20   161 0.98 ABC transporter
+AAA_21               PF13304.6    303 BGC0000528.1_ORF3:gid:clvF:pid:CAN02020.1:loc:1501:2401:strand:- -            299   4.1e-13   49.8   0.4   1   1   5.3e-12   4.8e-08   33.2   0.0   237   297   133   190   102   195 0.91 AAA domain, putative AbiEii toxin, Type IV TA system
+Response_reg         PF00072.24   112 BGC0000528.1_ORF4:gid:clvR:pid:CAN02021.1:loc:2554:3229:strand:- -            224   1.7e-25   89.3   0.1   1   1   5.5e-29   3.3e-25   88.4   0.1     1   112    10   124    10   124 0.97 Response regulator receiver domain
+GerE                 PF00196.19    57 BGC0000528.1_ORF4:gid:clvR:pid:CAN02021.1:loc:2554:3229:strand:- -            224   1.3e-17   63.0   0.0   1   1   3.6e-21   2.2e-17   62.4   0.0     1    57   161   217   161   217 0.98 Bacterial regulatory proteins, luxR family
+Sigma70_r4_2         PF08281.12    54 BGC0000528.1_ORF4:gid:clvR:pid:CAN02021.1:loc:2554:3229:strand:- -            224   2.5e-06   27.0   0.0   1   1   8.1e-10   4.8e-06   26.1   0.0     6    54   158   205   157   205 0.94 Sigma-70, region 4
+HisKA_3              PF07730.13    68 BGC0000528.1_ORF5:gid:clvK:pid:CAN02022.1:loc:3225:4362:strand:- -            378   1.9e-13   50.7   0.6   1   1   1.1e-17   1.9e-13   50.7   0.6     1    60   178   235   178   239 0.93 Histidine kinase
+DUF4135              PF13575.6    375 BGC0000528.1_ORF7:gid:clvM:pid:CAN02024.1:loc:5021:8183:strand:+ -           1053   2.2e-86  290.5   0.0   1   1   3.1e-90   2.8e-86  290.2   0.0     2   375   196   571   195   571 0.92 Domain of unknown function (DUF4135)
+LANC_like            PF05147.13   352 BGC0000528.1_ORF7:gid:clvM:pid:CAN02024.1:loc:5021:8183:strand:+ -           1053   2.8e-41  141.3   0.0   1   1   4.2e-45   3.8e-41  140.8   0.0     3   344   701  1043   699  1048 0.84 Lanthionine synthetase C-like protein
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000528.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000528.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000528.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:47:38 2019
+# [ok]

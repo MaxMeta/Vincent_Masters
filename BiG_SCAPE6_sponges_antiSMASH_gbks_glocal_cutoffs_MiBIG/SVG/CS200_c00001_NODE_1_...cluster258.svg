@@ -1,0 +1,65 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="255.73333333333332" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="245.73333333333332" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg11502_1)</title>
+			<polygon class=" (ctg11502_1)" points="10,25 23,25 23,10 53,40 23,70 23,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>RelA_SpoT (PF04607)
+"Region found in RelA / SpoT proteins"</title>
+				<rect class="PF04607" x="10" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(227,74,90)" stroke="rgb(181,59,71)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TGS (PF02824)
+"TGS domain"</title>
+				<rect class="PF02824" x="20" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(201,81,163)" stroke="rgb(160,64,130)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ACT_4 (PF13291)
+"ACT domain"</title>
+				<polygon class="PF13291" points="44,35 49,40 44,45" stroke-linejoin="round" width="7" height="24" fill="rgb(190,120,83)" stroke="rgb(152,96,66)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11502_2)</title>
+			<polygon class=" (ctg11502_2)" points="92,25 90,25 90,10 60,40 90,70 90,55 92,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NMO (PF03060)
+"Nitronate monooxygenase"</title>
+				<polygon class="PF03060" points="64,40 76,28 91,28 91,52 76,52" stroke-linejoin="round" width="30" height="24" fill="rgb(100,193,226)" stroke="rgb(80,154,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11502_3)</title>
+			<polygon class=" (ctg11502_3)" points="104,40 121,10 121,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CYTH (PF01928)
+"CYTH domain"</title>
+				<polygon class="PF01928" points="107,40 114,28 120,28 120,52 114,52" stroke-linejoin="round" width="15" height="24" fill="rgb(184,209,78)" stroke="rgb(147,167,62)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11502_4)</title>
+			<polygon class=" (ctg11502_4)" points="135,25 161,25 161,10 191,40 161,70 161,55 135,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cadherin (PF00028)
+"Cadherin domain"</title>
+				<rect class="PF00028" x="140" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(169,219,78)" stroke="rgb(135,175,62)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11502_5)</title>
+			<polygon class=" (ctg11502_5)" points="244,25 227,25 227,10 197,40 227,70 227,55 244,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQHop_cyclase_C (PF13243)
+"Squalene-hopene cyclase C-terminal domain"</title>
+				<polygon class="PF13243" points="202,39 213,28 232,28 232,52 213,52 202,41" stroke-linejoin="round" width="30" height="24" fill="rgb(191,58,201)" stroke="rgb(152,46,160)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SQHop_cyclase_N (PF13249)
+"Squalene-hopene cyclase N-terminal domain"</title>
+				<rect class="PF13249" x="233" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(88,190,89)" stroke="rgb(70,152,71)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

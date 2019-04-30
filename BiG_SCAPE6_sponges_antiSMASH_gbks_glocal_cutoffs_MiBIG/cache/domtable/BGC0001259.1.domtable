@@ -1,0 +1,27 @@
+#                                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                       accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                             -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ketoacyl-synt        PF00109.26   253 BGC0001259.1_ORF1:gid:PKS1:pid:ABU63483.1:loc:1100:7731:strand:+ -           2192     8e-78  261.5   0.0   1   1   7.4e-81   1.9e-77  260.3   0.0     2   253   375   624   374   624 0.97 Beta-ketoacyl synthase, N-terminal domain
+SAT                  PF16073.5    240 BGC0001259.1_ORF1:gid:PKS1:pid:ABU63483.1:loc:1100:7731:strand:+ -           2192   3.7e-77  259.3   0.3   1   1   1.5e-80   3.7e-77  259.3   0.3     1   240     5   243     5   243 0.99 Starter unit:ACP transacylase in aflatoxin biosynthesis
+Acyl_transf_1        PF00698.21   319 BGC0001259.1_ORF1:gid:PKS1:pid:ABU63483.1:loc:1100:7731:strand:+ -           2192   9.7e-41  140.3   0.0   1   1   7.1e-44   1.8e-40  139.4   0.0     2   315   905  1218   904  1221 0.90 Acyl transferase domain
+Ketoacyl-synt_C      PF02801.22   118 BGC0001259.1_ORF1:gid:PKS1:pid:ABU63483.1:loc:1100:7731:strand:+ -           2192   2.2e-32  111.5   0.7   1   1   2.2e-35   5.7e-32  110.2   0.7     2   117   633   752   632   753 0.97 Beta-ketoacyl synthase, C-terminal domain
+PP-binding           PF00550.25    67 BGC0001259.1_ORF1:gid:PKS1:pid:ABU63483.1:loc:1100:7731:strand:+ -           2192   2.3e-27   95.1   5.0   1   2   6.9e-14   1.8e-10   41.0   0.5     2    64  1678  1740  1677  1743 0.94 Phosphopantetheine attachment site
+PP-binding           PF00550.25    67 BGC0001259.1_ORF1:gid:PKS1:pid:ABU63483.1:loc:1100:7731:strand:+ -           2192   2.3e-27   95.1   5.0   2   2   1.1e-17   2.9e-14   53.2   0.6     4    66  1808  1870  1807  1871 0.96 Phosphopantetheine attachment site
+Thioesterase         PF00975.20   231 BGC0001259.1_ORF1:gid:PKS1:pid:ABU63483.1:loc:1100:7731:strand:+ -           2192   1.5e-16   61.2   0.0   1   1   4.6e-19   1.2e-15   58.3   0.0     2   106  1933  2035  1932  2159 0.89 Thioesterase domain
+PS-DH                PF14765.6    298 BGC0001259.1_ORF1:gid:PKS1:pid:ABU63483.1:loc:1100:7731:strand:+ -           2192   1.8e-11   43.9   0.0   1   1   1.2e-14   3.1e-11   43.1   0.0    33   296  1327  1604  1321  1606 0.89 Polyketide synthase dehydratase
+MFS_1                PF07690.16   353 BGC0001259.1_ORF6:gid:ECT1:pid:ABZ82008.1:loc:143443:145006:strand:+ -            505   5.5e-12   45.3   1.8   1   1   3.1e-16   5.5e-12   45.3   1.8   150   352   197   465   178   466 0.75 Major Facilitator Superfamily
+Prefoldin            PF02996.17   120 BGC0001259.1_ORF7:gid:PRF1:pid:ABZ01833.1:loc:289128:289833:strand:+ -            197   1.7e-31  108.6   0.1   1   1   1.7e-35   3.1e-31  107.8   0.0     1   120    59   181    59   181 0.99 Prefoldin subunit
+Zn_clus              PF00172.18    40 BGC0001259.1_ORF9:gid:TSF1:pid:ABZ01831.1:loc:1159139:1162214:strand:+ -            959   3.4e-08   33.5  11.7   1   1   1.9e-12   3.4e-08   33.5  11.7     2    33    78   107    77   111 0.94 Fungal Zn(2)-Cys(6) binuclear cluster domain
+adh_short_C2         PF13561.6    234 BGC0001259.1_ORF10:gid:RDT1:pid:ABZ01830.1:loc:2321222:2322073:strand:+ -            267   2.8e-57  193.9   1.0   1   1   6.9e-61   4.1e-57  193.4   1.0     3   231    23   263    19   264 0.91 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.25   195 BGC0001259.1_ORF10:gid:RDT1:pid:ABZ01830.1:loc:2321222:2322073:strand:+ -            267   1.5e-48  164.9   2.8   1   1   3.2e-52   1.9e-48  164.5   2.8     1   190    15   204    15   208 0.97 short chain dehydrogenase
+KR                   PF08659.10   180 BGC0001259.1_ORF10:gid:RDT1:pid:ABZ01830.1:loc:2321222:2322073:strand:+ -            267   9.1e-13   48.5   0.9   1   1     2e-16   1.2e-12   48.1   0.9     3   161    17   175    15   189 0.89 KR domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001259.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001259.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001259.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:56:59 2019
+# [ok]

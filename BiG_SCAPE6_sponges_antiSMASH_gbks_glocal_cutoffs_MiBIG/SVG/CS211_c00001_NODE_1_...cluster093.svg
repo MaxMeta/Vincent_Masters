@@ -1,0 +1,52 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="361.8333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="351.8333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg2131_15)</title>
+			<polygon class=" (ctg2131_15)" points="46,25 112,25 112,10 142,40 112,70 112,55 46,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="87" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="120,28 126,28 134,36 134,44 126,52 120,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2131_16)</title>
+			<polygon class=" (ctg2131_16)" points="142,25 143,25 143,10 173,40 143,70 143,55 142,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2131_17)</title>
+			<polygon class=" (ctg2131_17)" points="176,10 184,40 176,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2131_18)</title>
+			<polygon class=" (ctg2131_18)" points="219,25 215,25 215,10 185,40 215,70 215,55 219,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2131_19)</title>
+			<polygon class=" (ctg2131_19)" points="253,25 249,25 249,10 219,40 249,70 249,55 253,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2131_20)</title>
+			<polygon class=" (ctg2131_20)" points="300,25 283,25 283,10 253,40 283,70 283,55 300,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Trp_halogenase (PF04820)
+"Tryptophan halogenase"</title>
+				<polygon class="PF04820" points="257,40 269,28 299,28 299,52 269,52" stroke-linejoin="round" width="43" height="24" fill="rgb(179,74,194)" stroke="rgb(143,59,155)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2131_21)</title>
+			<polygon class=" (ctg2131_21)" points="306,40 313,10 313,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2131_22)</title>
+			<polygon class=" (ctg2131_22)" points="317,25 319,25 319,10 349,40 319,70 319,55 317,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

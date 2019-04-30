@@ -1,0 +1,28 @@
+# STOCKHOLM 1.0
+
+BGC0001281.1_ORF7:gid::pid:XP_011392759.1:loc:20886:25412:strand:-:800:991                 -LITGPNMSGKSTLLRQIALITVMAGIGCFVPASRATLPIPDALLSLLTHEDDPTQNLSTFAAEMRTAAFILSLSSPKSLVILDEMGRGTSPEEGCAIATAVIENLTDAKG.STVFYATHFGELVEG..LGWKEGIVCQHLNVSmv..qkREQVDLVFHHKVHLGPgLDTHYSLQVAKMMGCfADGFLQRASQV-----a
+#=GR BGC0001281.1_ORF7:gid::pid:XP_011392759.1:loc:20886:25412:strand:-:800:991         PP .79************************************************************************************************************.**************9..99999988777766655..44677899******999835799*******9985155677777665.....6
+CS202_c00001_NODE_1_...cluster152_ORF4:gid::pid::loc:3263:5804:strand:-:596:783            -LVTGPNMGGKSTYMRQTALIVLMACIGSHVPAKRARIGPIDRIFTRIGASDDLTSGRSTFMVEMTEAANILHHASEYSLVLMDEIGRGTSTFDGMALALGCAEYLATRNR.AFTLFSTHYFELTQL..AEIHPGIINLHLDAA......MHGQKIVFLHAVKEGP.ASQSYGLQVARLAGI.PAPVLERARAYLLELE.
+#=GR CS202_c00001_NODE_1_...cluster152_ORF4:gid::pid::loc:3263:5804:strand:-:596:783    PP .79************************************************************************************************************.***************..***************......****************.***************.*********9998886.
+CS211_c00001_NODE_1_...cluster012_ORF46:gid::pid::loc:37135:39763:strand:+:618:805         -LLTGPNMGGKSTYLRQTALIVLMAHAGCFVPAKNAEIGVVDRIFTRVGASDDLARGESTFMVEMVETANILRHATPDSLVVLDEVGRGTSTYDGLSLAWAIIERLHEHNG.SLALFATHYHELTGL..PSTLSRVRNSRMAVK......EWQDQILFLHRVAEGR.ADKSYGLHVARLAGV.PREVVERAAAVLSNIE.
+#=GR CS211_c00001_NODE_1_...cluster012_ORF46:gid::pid::loc:37135:39763:strand:+:618:805 PP .69************************************************************************************************************.***************..***************......****************.***************.**********999875.
+BGC0000761.1_ORF24:gid:ORF23:pid:BAC55150.1:loc:25034:27626:strand:+:616:803               -LITGPNMGGKSTYMRQTALIVLLAHCGCFVPAKAARIGQVDRIFTRIGASDDLAGGRSTFMVEMTETANILHNATEHSLVLLDEIGRGTSTFDGLSLAWAVARQLLERNR.SYTLFATHYFELTRL..VEDFKQAANVHLDAV......EHGNGIVFLHAVQEGP.ASQSYGLQVAQLAGI.PRSVVNAAKRKLVQLE.
+#=GR BGC0000761.1_ORF24:gid:ORF23:pid:BAC55150.1:loc:25034:27626:strand:+:616:803       PP .79************************************************************************************************************.***************..***************......****************.***************.***********99986.
+BGC0001122.1_ORF4:gid::pid:EAU38965.1:loc:6207:9519:strand:-:572:767                       -LLTGPNYSGKSVYMKQVALITYLAQLGSFVPADNAEIGITDKILVKSNSEDSVSQIQSTFMNDLQQISFDLKQATSRSLLIIDEFGKGTNESDGVGLACGIFNYLLQCEEpPKVIASTHLHEILENgfLELGPRLQLGHMEVKisedsqNAEDQITYLYNFRLGP.STKSFGTICAAMNGI.DQRIVARADELA----s
+#=GR BGC0001122.1_ORF4:gid::pid:EAU38965.1:loc:6207:9519:strand:-:572:767               PP .69*******************************************************************************************************997662577888*****98752145567788777777776877667799***********.***************.********9876....6
+#=GC PP_cons                                                                               .79*********************************************************************************************************999.999**********99..999999999999998......9999************.99************9.9999999999889886.
+#=GC RF                                                                                    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxx..xxxxxxxxxxxxxxx......xxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxx.
+
+BGC0001281.1_ORF7:gid::pid:XP_011392759.1:loc:20886:25412:strand:-:800:991                 vt
+#=GR BGC0001281.1_ORF7:gid::pid:XP_011392759.1:loc:20886:25412:strand:-:800:991         PP 89
+CS202_c00001_NODE_1_...cluster152_ORF4:gid::pid::loc:3263:5804:strand:-:596:783            ..
+#=GR CS202_c00001_NODE_1_...cluster152_ORF4:gid::pid::loc:3263:5804:strand:-:596:783    PP ..
+CS211_c00001_NODE_1_...cluster012_ORF46:gid::pid::loc:37135:39763:strand:+:618:805         ..
+#=GR CS211_c00001_NODE_1_...cluster012_ORF46:gid::pid::loc:37135:39763:strand:+:618:805 PP ..
+BGC0000761.1_ORF24:gid:ORF23:pid:BAC55150.1:loc:25034:27626:strand:+:616:803               ..
+#=GR BGC0000761.1_ORF24:gid:ORF23:pid:BAC55150.1:loc:25034:27626:strand:+:616:803       PP ..
+BGC0001122.1_ORF4:gid::pid:EAU38965.1:loc:6207:9519:strand:-:572:767                       la
+#=GR BGC0001122.1_ORF4:gid::pid:EAU38965.1:loc:6207:9519:strand:-:572:767               PP 89
+#=GC PP_cons                                                                               ..
+#=GC RF                                                                                    ..
+//

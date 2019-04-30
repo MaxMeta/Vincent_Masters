@@ -1,0 +1,17 @@
+#                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Amidase              PF01425.21   451 CS202_c00001_NODE_1_...cluster185_ORF1:gid::pid::loc:2:1193:strand:- -            397   2.6e-86  290.4   0.0   1   1   1.8e-90   3.3e-86  290.0   0.0     2   391    28   391    27   396 0.92 Amidase
+UvrA_inter           PF17760.1    109 CS202_c00001_NODE_1_...cluster185_ORF2:gid::pid::loc:1312:4348:strand:+ -           1011   1.2e-37  128.3   0.1   1   1   1.1e-40   3.3e-37  126.9   0.1     1   108   166   273   166   274 0.99 UvrA interaction domain
+UvrA_DNA-bind        PF17755.1    110 CS202_c00001_NODE_1_...cluster185_ORF2:gid::pid::loc:1312:4348:strand:+ -           1011   5.8e-37  126.4   0.0   1   1   1.3e-38   3.9e-35  120.5   0.0     1   108   324   431   324   433 0.99 UvrA DNA-binding domain
+SQS_PSY              PF00494.19   263 CS202_c00001_NODE_1_...cluster185_ORF3:gid::pid::loc:4494:5421:strand:+ -            308   3.5e-51  174.2   4.6   1   1   2.3e-55   4.2e-51  174.0   4.6     3   261     9   259     7   261 0.92 Squalene/phytoene synthase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster185.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS202_c00001_NODE_1_...cluster185.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster185.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:43:28 2019
+# [ok]

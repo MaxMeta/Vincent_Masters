@@ -1,0 +1,26 @@
+#                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+tRNA_synthFbeta      PF17759.1    214 CS783_c00001_NODE_1_...cluster129_ORF1:gid::pid::loc:1:1543:strand:+ -            513   1.3e-70  237.2   0.0   1   1   4.5e-74     2e-70  236.6   0.0     1   214   187   402   187   402 0.98 Phenylalanyl tRNA synthetase beta chain CLM domain
+B3_4                 PF03483.17   174 CS783_c00001_NODE_1_...cluster129_ORF1:gid::pid::loc:1:1543:strand:+ -            513   1.6e-34  119.1   0.0   1   1   5.8e-38   2.6e-34  118.4   0.0    73   174     1   102     1   102 0.99 B3/4 domain
+FDX-ACB              PF03147.14    94 CS783_c00001_NODE_1_...cluster129_ORF1:gid::pid::loc:1:1543:strand:+ -            513   3.1e-28   98.0   0.0   1   1   3.6e-31   1.6e-27   95.7   0.0     2    94   420   512   419   512 0.99 Ferredoxin-fold anticodon binding domain
+B5                   PF03484.15    67 CS783_c00001_NODE_1_...cluster129_ORF1:gid::pid::loc:1:1543:strand:+ -            513   1.7e-18   66.7   0.0   1   1   9.7e-22   4.3e-18   65.4   0.0     1    67   122   184   122   184 0.97 tRNA synthetase B5 domain
+HAD                  PF12710.7    188 CS783_c00001_NODE_1_...cluster129_ORF4:gid::pid::loc:3126:3816:strand:- -            229   1.2e-31  110.6   0.1   1   1   1.6e-35   1.4e-31  110.4   0.1     1   188    10   196    10   196 0.90 haloacid dehalogenase-like hydrolase
+Hydrolase_3          PF08282.12   255 CS783_c00001_NODE_1_...cluster129_ORF4:gid::pid::loc:3126:3816:strand:- -            229   9.7e-09   35.3   0.0   1   1   4.2e-11   3.7e-07   30.1   0.0   185   229   161   205   158   214 0.94 haloacid dehalogenase-like hydrolase
+AMP-binding          PF00501.28   423 CS783_c00001_NODE_1_...cluster129_ORF5:gid::pid::loc:3854:7970:strand:- -           1371   2.6e-90  303.0   0.0   1   1   1.2e-93   3.6e-90  302.6   0.0     2   422   478   906   477   907 0.81 AMP-binding enzyme
+NAD_binding_4        PF07993.12   257 CS783_c00001_NODE_1_...cluster129_ORF5:gid::pid::loc:3854:7970:strand:- -           1371   1.7e-36  125.7   0.0   1   1   1.1e-39   3.2e-36  124.8   0.0    84   257     1   248     1   248 0.99 Male sterility protein
+Acyltransferase      PF01553.21   135 CS783_c00001_NODE_1_...cluster129_ORF5:gid::pid::loc:3854:7970:strand:- -           1371   4.8e-22   78.0   0.0   1   1   5.2e-25   1.6e-21   76.4   0.0     2   134  1170  1297  1169  1298 0.93 Acyltransferase
+Sterile              PF03015.19    93 CS783_c00001_NODE_1_...cluster129_ORF5:gid::pid::loc:3854:7970:strand:- -           1371   7.1e-14   51.8   0.1   1   1   4.9e-17   1.5e-13   50.8   0.1    25    92   351   419   319   420 0.81 Male sterility protein
+AMP-binding_C        PF13193.6     76 CS783_c00001_NODE_1_...cluster129_ORF5:gid::pid::loc:3854:7970:strand:- -           1371   5.1e-09   37.0   0.0   1   1   6.9e-12   2.1e-08   35.0   0.0     1    73   916   996   916   998 0.86 AMP-binding enzyme C-terminal domain
+PP-binding           PF00550.25    67 CS783_c00001_NODE_1_...cluster129_ORF5:gid::pid::loc:3854:7970:strand:- -           1371   1.3e-08   35.1   1.8   1   1   1.2e-11   3.5e-08   33.7   0.8     3    66  1055  1119  1053  1120 0.94 Phosphopantetheine attachment site
+NAD_binding_4        PF07993.12   257 CS783_c00001_NODE_1_...cluster129_ORF6:gid::pid::loc:7941:8400:strand:- -            152   7.2e-24   84.3   0.1   1   1   4.8e-28   8.7e-24   84.1   0.1     1    98    15   126    15   150 0.84 Male sterility protein
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS783_c00001_NODE_1_...cluster129.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS783_c00001_NODE_1_...cluster129.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS783_c00001_NODE_1_...cluster129.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:53:19 2019
+# [ok]

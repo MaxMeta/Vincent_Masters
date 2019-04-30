@@ -1,0 +1,24 @@
+#                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Methyltransf_25      PF13649.6     97 CS203_c00001_NODE_1_...cluster192_ORF1:gid::pid::loc:82:805:strand:+ -            240   5.3e-12   46.3   0.0   1   1   2.4e-15   1.1e-11   45.3   0.0     2    97    62   152    62   152 0.91 Methyltransferase domain
+Methyltransf_11      PF08241.12    96 CS203_c00001_NODE_1_...cluster192_ORF1:gid::pid::loc:82:805:strand:+ -            240   2.6e-08   34.4   0.0   1   1   9.5e-12   4.3e-08   33.7   0.0     1    95    62   155    62   156 0.88 Methyltransferase domain
+Methyltransf_23      PF13489.6    165 CS203_c00001_NODE_1_...cluster192_ORF1:gid::pid::loc:82:805:strand:+ -            240   1.1e-07   31.8   0.0   1   1   3.5e-11   1.6e-07   31.3   0.0    10   159    45   196    38   197 0.79 Methyltransferase domain
+Methyltransf_31      PF13847.6    152 CS203_c00001_NODE_1_...cluster192_ORF1:gid::pid::loc:82:805:strand:+ -            240   1.2e-06   28.5   0.0   1   1   3.3e-10   1.5e-06   28.1   0.0     6   113    60   160    55   191 0.81 Methyltransferase domain
+NHase_alpha          PF02979.16   184 CS203_c00001_NODE_1_...cluster192_ORF2:gid::pid::loc:869:1142:strand:- -             90   4.9e-07   29.2   0.0   1   1   3.4e-11     6e-07   28.9   0.0   115   165    19    70    10    75 0.92 Nitrile hydratase, alpha chain
+DUF4143              PF13635.6    122 CS203_c00001_NODE_1_...cluster192_ORF3:gid::pid::loc:1577:2840:strand:+ -            420     5e-21   75.1   0.0   1   1   7.9e-25   7.1e-21   74.6   0.0    18   122   235   364   136   364 0.85 Domain of unknown function (DUF4143)
+AAA_14               PF13173.6    131 CS203_c00001_NODE_1_...cluster192_ORF3:gid::pid::loc:1577:2840:strand:+ -            420   1.8e-11   44.2   0.0   1   1   8.6e-15   7.8e-11   42.1   0.0     4   129    28   138    26   140 0.84 AAA domain
+N6_Mtase             PF02384.16   312 CS203_c00001_NODE_1_...cluster192_ORF5:gid::pid::loc:4146:5865:strand:- -            572     3e-14   53.0   0.0   1   1   9.9e-18   4.4e-14   52.4   0.0    19   227    23   242    15   254 0.75 N-6 DNA Methylase
+TaqI_C               PF12950.7    120 CS203_c00001_NODE_1_...cluster192_ORF5:gid::pid::loc:4146:5865:strand:- -            572   2.9e-09   37.0   0.0   1   1   9.8e-13   4.4e-09   36.4   0.0    19   120   419   534   400   534 0.86 TaqI-like C-terminal specificity domain
+Methyltransf_31      PF13847.6    152 CS203_c00001_NODE_1_...cluster192_ORF5:gid::pid::loc:4146:5865:strand:- -            572   5.4e-09   36.0   0.0   1   1     2e-12     9e-09   35.3   0.0     5   107    56   194    53   222 0.74 Methyltransferase domain
+Eco57I               PF07669.11   106 CS203_c00001_NODE_1_...cluster192_ORF5:gid::pid::loc:4146:5865:strand:- -            572   4.9e-07   30.2   0.0   1   1   2.1e-10   9.2e-07   29.3   0.0     3    91   141   236   139   245 0.85 Eco57I restriction-modification methylase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS203_c00001_NODE_1_...cluster192.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS203_c00001_NODE_1_...cluster192.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS203_c00001_NODE_1_...cluster192.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:47:42 2019
+# [ok]

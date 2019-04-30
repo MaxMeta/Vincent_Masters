@@ -1,0 +1,25 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+FtsX                 PF02687.21    96 CS211_c00001_NODE_1_...cluster102_ORF3:gid::pid::loc:674:1373:strand:- -            232   3.8e-07   30.5   0.6   1   1   2.1e-11   3.8e-07   30.5   0.6     6    96   142   225   141   225 0.87 FtsX-like permease family
+PmbA_TldD            PF01523.16   279 CS211_c00001_NODE_1_...cluster102_ORF4:gid::pid::loc:1353:2994:strand:- -            546   2.6e-20   73.4   0.1   1   1   2.1e-24   3.8e-20   72.9   0.1    53   278    82   335     9   335 0.67 Putative modulator of DNA gyrase
+PmbA_TldD            PF01523.16   279 CS211_c00001_NODE_1_...cluster102_ORF5:gid::pid::loc:3209:5009:strand:- -            599   3.1e-36  125.7   0.6   1   1   1.1e-38     2e-34  119.8   0.4    75   279   197   423   160   423 0.72 Putative modulator of DNA gyrase
+LYTB                 PF02401.18   264 CS211_c00001_NODE_1_...cluster102_ORF11:gid::pid::loc:6783:7500:strand:- -            238   2.9e-61  207.0   0.0   1   1   1.9e-65   3.4e-61  206.8   0.0    73   263     2   200     1   201 0.97 LytB protein
+SQS_PSY              PF00494.19   263 CS211_c00001_NODE_1_...cluster102_ORF13:gid::pid::loc:7763:8939:strand:- -            391   4.1e-56  190.4   0.9   1   1   2.3e-60   4.1e-56  190.4   0.9     3   262    22   311    20   312 0.89 Squalene/phytoene synthase
+MMPL                 PF03176.15   333 CS211_c00001_NODE_1_...cluster102_ORF14:gid::pid::loc:8935:11233:strand:- -            765   2.3e-31  108.9  36.9   1   2   1.7e-22     1e-18   67.4  13.7    72   329   150   402   124   406 0.89 MMPL family
+MMPL                 PF03176.15   333 CS211_c00001_NODE_1_...cluster102_ORF14:gid::pid::loc:8935:11233:strand:- -            765   2.3e-31  108.9  36.9   2   2     2e-16   1.2e-12   47.4  14.3   114   305   577   762   548   765 0.87 MMPL family
+Sterol-sensing       PF12349.8    153 CS211_c00001_NODE_1_...cluster102_ORF14:gid::pid::loc:8935:11233:strand:- -            765   5.6e-09   36.0   2.0   1   1   9.5e-13   5.6e-09   36.0   2.0    10   137   251   378   245   388 0.87 Sterol-sensing domain of SREBP cleavage-activation
+Patched              PF02460.18   811 CS211_c00001_NODE_1_...cluster102_ORF14:gid::pid::loc:8935:11233:strand:- -            765   0.00018   19.7   6.2   1   1   3.1e-08   0.00018   19.7   6.2   257   382   251   376   231   388 0.88 Patched family
+LolA_like            PF17131.4    183 CS211_c00001_NODE_1_...cluster102_ORF16:gid::pid::loc:12514:13360:strand:- -            281   3.4e-55  186.6   0.1   1   1   4.9e-59   4.4e-55  186.3   0.1     2   183    96   279    95   279 0.98 Outer membrane lipoprotein-sorting protein
+DUF1329              PF07044.11   364 CS211_c00001_NODE_1_...cluster102_ORF16:gid::pid::loc:12514:13360:strand:- -            281   1.2e-10   41.2   3.9   1   1   3.5e-10   3.1e-06   26.7   0.1   143   202    99   153    67   160 0.83 Protein of unknown function (DUF1329)
+DUF2236              PF09995.9    227 CS211_c00001_NODE_1_...cluster102_ORF17:gid::pid::loc:13463:14636:strand:- -            390   2.2e-20   73.8   1.2   1   1     2e-24   3.5e-20   73.2   1.2    10   220   110   346   103   353 0.82 Uncharacterized protein conserved in bacteria (DUF2236)
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster102.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS211_c00001_NODE_1_...cluster102.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster102.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:50:29 2019
+# [ok]

@@ -1,0 +1,29 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+TetR_C_32            PF09209.11   125 BGC0000281.1_ORF1:gid:phlH:pid:AAY86545.1:loc:0:678:strand:- -            225   4.5e-19   68.7   0.0   1   1   7.4e-23   6.6e-19   68.1   0.0     1   125    95   213    95   213 0.97 Tetracyclin repressor-like, C-terminal domain
+TetR_N               PF00440.23    47 BGC0000281.1_ORF1:gid:phlH:pid:AAY86545.1:loc:0:678:strand:- -            225   4.5e-12   45.6   0.0   1   1   8.9e-16     8e-12   44.8   0.0     1    47    25    71    25    71 0.98 Bacterial regulatory proteins, tetR family
+DAPG_hydrolase       PF18089.1    225 BGC0000281.1_ORF2:gid:phlG:pid:AAY86546.1:loc:786:1707:strand:+ -            306   5.1e-74  248.6   0.0   1   1   3.4e-78   6.1e-74  248.4   0.0     2   225    75   300    74   300 0.99 DAPG hydrolase PhiG domain
+TetR_C_11            PF16859.5    113 BGC0000281.1_ORF3:gid:phlF:pid:AAY86547.1:loc:1726:2353:strand:- -            208     9e-21   74.3   0.0   1   1   1.7e-24   1.5e-20   73.6   0.0     2   104    80   182    79   187 0.98 Tetracyclin repressor-like, C-terminal domain
+TetR_N               PF00440.23    47 BGC0000281.1_ORF3:gid:phlF:pid:AAY86547.1:loc:1726:2353:strand:- -            208   6.7e-12   45.0   0.0   1   1   1.2e-15   1.1e-11   44.3   0.0     2    47    23    68    22    68 0.94 Bacterial regulatory proteins, tetR family
+ACP_syn_III          PF08545.10    80 BGC0000281.1_ORF4:gid:phlA:pid:AAY86548.1:loc:2770:3853:strand:+ -            360   8.5e-06   25.5   3.1   1   1   4.7e-10   8.5e-06   25.5   3.1     2    64   108   169   107   184 0.85 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III
+Thiolase_N           PF00108.23   260 BGC0000281.1_ORF5:gid:phlC:pid:AAY86549.1:loc:3883:5080:strand:+ -            398   1.7e-10   40.7   0.0   1   1   3.5e-14   3.1e-10   39.9   0.0     1   152     6   154     6   175 0.84 Thiolase, N-terminal domain
+ketoacyl-synt        PF00109.26   253 BGC0000281.1_ORF5:gid:phlC:pid:AAY86549.1:loc:3883:5080:strand:+ -            398   5.9e-07   29.3   0.4   1   1   4.3e-10   3.9e-06   26.6   0.2   158   212    70   125    32   130 0.88 Beta-ketoacyl synthase, N-terminal domain
+DUF35_N              PF12172.8     37 BGC0000281.1_ORF6:gid:phlB:pid:AAY86550.1:loc:5090:5531:strand:+ -            146   2.8e-08   33.5   3.6   1   1   1.4e-11   1.3e-07   31.4   1.0     1    37    21    57    21    57 0.89 Rubredoxin-like zinc ribbon domain (DUF35_N)
+OB_aCoA_assoc        PF01796.17    65 BGC0000281.1_ORF6:gid:phlB:pid:AAY86550.1:loc:5090:5531:strand:+ -            146   1.7e-06   27.9   0.6   1   1   2.6e-10   2.3e-06   27.5   0.6    21    65    81   126    61   126 0.86 DUF35 OB-fold domain, acyl-CoA-associated
+Chal_sti_synt_N      PF00195.19   225 BGC0000281.1_ORF7:gid:phlD:pid:AAY86551.1:loc:5649:6738:strand:+ -            362   3.3e-20   72.5   0.0   1   1   1.3e-23   5.6e-20   71.7   0.0    25   224    26   213    12   214 0.85 Chalcone and stilbene synthases, N-terminal domain
+Chal_sti_synt_C      PF02797.15   151 BGC0000281.1_ORF7:gid:phlD:pid:AAY86551.1:loc:5649:6738:strand:+ -            362   8.1e-16   58.4   0.0   1   1   3.1e-19   1.4e-15   57.6   0.0     7   146   226   357   220   362 0.83 Chalcone and stilbene synthases, C-terminal domain
+FAE1_CUT1_RppA       PF08392.12   290 BGC0000281.1_ORF7:gid:phlD:pid:AAY86551.1:loc:5649:6738:strand:+ -            362   1.7e-12   47.2   0.1   1   1   5.9e-16   2.7e-12   46.6   0.1    22   204    26   211    21   224 0.80 FAE1/Type III polyketide synthase-like protein
+MFS_1                PF07690.16   353 BGC0000281.1_ORF8:gid:phlE:pid:AAY86552.1:loc:6865:8137:strand:+ -            423   2.5e-38  131.9  43.8   1   1   5.6e-42   2.5e-38  131.9  43.8     2   347    23   358    22   362 0.86 Major Facilitator Superfamily
+MFS_4                PF06779.14   363 BGC0000281.1_ORF8:gid:phlE:pid:AAY86552.1:loc:6865:8137:strand:+ -            423   9.6e-07   28.4  29.2   1   1   2.9e-10   1.3e-06   28.0  29.2     5   355    29   388    24   396 0.71 Uncharacterised MFS-type transporter YbfB
+MFS_3                PF05977.13   522 BGC0000281.1_ORF8:gid:phlE:pid:AAY86552.1:loc:6865:8137:strand:+ -            423   1.9e-05   23.3  12.4   1   1   4.2e-09   1.9e-05   23.3  12.4   154   316   157   319   152   400 0.82 Transmembrane secretion effector
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000281.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000281.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000281.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:33:39 2019
+# [ok]

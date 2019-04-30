@@ -1,0 +1,24 @@
+#                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+PIN                  PF01850.21   122 CS783_c00001_NODE_1_...cluster147_ORF1:gid::pid::loc:15:414:strand:- -            132   5.1e-09   36.7   2.3   1   1   3.3e-13   5.9e-09   36.5   2.3     1   120     2   123     2   125 0.89 PIN domain
+Ala_racemase_N       PF01168.20   219 CS783_c00001_NODE_1_...cluster147_ORF3:gid::pid::loc:801:2040:strand:+ -            412   4.5e-26   91.9   0.0   1   1   6.5e-30   5.9e-26   91.5   0.0     1   217    59   286    59   288 0.85 Alanine racemase, N-terminal domain
+D-ser_dehydrat       PF14031.6     96 CS783_c00001_NODE_1_...cluster147_ORF3:gid::pid::loc:801:2040:strand:+ -            412   5.9e-18   65.3   0.0   1   1   2.5e-21   2.2e-17   63.5   0.0     1    96   307   394   307   394 0.92 Putative serine dehydratase domain
+PP-binding           PF00550.25    67 CS783_c00001_NODE_1_...cluster147_ORF4:gid::pid::loc:2130:2361:strand:+ -             76   1.4e-08   35.0   0.0   1   1   8.4e-13   1.5e-08   34.8   0.0     1    67     6    71     6    71 0.94 Phosphopantetheine attachment site
+Abhydrolase_6        PF12697.7    220 CS783_c00001_NODE_1_...cluster147_ORF5:gid::pid::loc:2440:3346:strand:+ -            301   1.6e-13   51.8   6.1   1   1   1.1e-17     2e-13   51.5   6.1     1   220    39   290    39   290 0.62 Alpha/beta hydrolase family
+ketoacyl-synt        PF00109.26   253 CS783_c00001_NODE_1_...cluster147_ORF6:gid::pid::loc:3353:6551:strand:- -           1065   3.8e-72  242.9   2.6   1   1   2.2e-75   6.6e-72  242.1   2.6     3   253   314   556   312   556 0.93 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.22   118 CS783_c00001_NODE_1_...cluster147_ORF6:gid::pid::loc:3353:6551:strand:- -           1065   2.5e-40  137.2   0.8   1   1   8.3e-44   2.5e-40  137.2   0.8     2   118   565   682   564   682 0.99 Beta-ketoacyl synthase, C-terminal domain
+KR                   PF08659.10   180 CS783_c00001_NODE_1_...cluster147_ORF6:gid::pid::loc:3353:6551:strand:- -           1065   9.2e-33  113.7   0.1   1   1     1e-35     3e-32  112.0   0.2    85   180     1    96     1    96 0.99 KR domain
+Acyl_transf_1        PF00698.21   319 CS783_c00001_NODE_1_...cluster147_ORF6:gid::pid::loc:3353:6551:strand:- -           1065   9.9e-17   61.4   0.1   1   1   5.3e-20   1.6e-16   60.8   0.1     2   114   867   979   866   981 0.97 Acyl transferase domain
+PP-binding           PF00550.25    67 CS783_c00001_NODE_1_...cluster147_ORF6:gid::pid::loc:3353:6551:strand:- -           1065   4.3e-12   46.2   0.0   1   1   2.9e-15   8.7e-12   45.2   0.0     3    67   201   266   199   266 0.92 Phosphopantetheine attachment site
+KAsynt_C_assoc       PF16197.5    112 CS783_c00001_NODE_1_...cluster147_ORF6:gid::pid::loc:3353:6551:strand:- -           1065   2.8e-10   40.6   0.0   1   1   1.8e-13   5.3e-10   39.8   0.0     1    89   684   798   684   812 0.91 Ketoacyl-synthetase C-terminal extension
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS783_c00001_NODE_1_...cluster147.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS783_c00001_NODE_1_...cluster147.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS783_c00001_NODE_1_...cluster147.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:47:37 2019
+# [ok]

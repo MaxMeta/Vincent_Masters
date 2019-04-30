@@ -1,0 +1,72 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="380.6666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="370.6666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg33_161)</title>
+			<polygon class=" (ctg33_161)" points="18,40 27,10 27,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg33_162)</title>
+			<polygon class=" (ctg33_162)" points="55,40 60,10 60,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg33_163)</title>
+			<polygon class=" (ctg33_163)" points="71,40 83,10 83,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ribonuc_L-PSP (PF01042)
+"Endoribonuclease L-PSP"</title>
+				<polygon class="PF01042" points="74,40 79,28 83,28 83,52 79,52" stroke-linejoin="round" width="11" height="24" fill="rgb(93,120,208)" stroke="rgb(74,96,166)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg33_164)</title>
+			<polygon class=" (ctg33_164)" points="84,25 144,25 144,10 174,40 144,70 144,55 84,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GlnE (PF03710)
+"Glutamate-ammonia ligase adenylyltransferase"</title>
+				<rect class="PF03710" x="88" y="28" stroke-linejoin="round" width="21" height="24" fill="rgb(81,188,126)" stroke="rgb(64,150,100)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GlnD_UR_UTase (PF08335)
+"GlnD PII-uridylyltransferase"</title>
+				<rect class="PF08335" x="111" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(77,186,66)" stroke="rgb(61,148,52)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GlnE (PF03710)
+"Glutamate-ammonia ligase adenylyltransferase"</title>
+				<rect class="PF03710" x="134" y="28" stroke-linejoin="round" width="22" height="24" fill="rgb(81,188,126)" stroke="rgb(64,150,100)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GlnD_UR_UTase (PF08335)
+"GlnD PII-uridylyltransferase"</title>
+				<polygon class="PF08335" points="159,30 169,40 159,50" stroke-linejoin="round" width="14" height="24" fill="rgb(77,186,66)" stroke="rgb(61,148,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg33_165)</title>
+			<polygon class=" (ctg33_165)" points="176,40 185,10 185,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg33_166)</title>
+			<polygon class=" (ctg33_166)" points="195,40 203,10 203,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg33_167)</title>
+			<polygon class=" (ctg33_167)" points="209,25 214,25 214,10 244,40 214,70 214,55 209,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg33_168)</title>
+			<polygon class=" (ctg33_168)" points="342,25 277,25 277,10 247,40 277,70 277,55 342,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="254,37 263,28 268,28 268,52 263,52 254,43" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="275" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

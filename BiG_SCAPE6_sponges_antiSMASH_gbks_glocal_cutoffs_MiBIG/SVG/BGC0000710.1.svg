@@ -1,0 +1,370 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1424.9666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="1414.9666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="10,25 23,25 23,10 53,40 23,70 23,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="59,40 83,10 83,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PIG-L (PF02585)
+"GlcNAc-PI de-N-acetylase"</title>
+				<polygon class="PF02585" points="70,31 73,28 83,28 83,52 73,52 70,49" stroke-linejoin="round" width="13" height="24" fill="rgb(97,215,95)" stroke="rgb(77,172,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="90,25 98,25 98,10 128,40 98,70 98,55 90,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="132,40 155,10 155,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>His_Phos_1 (PF00300)
+"Histidine phosphatase superfamily (branch 1)"</title>
+				<polygon class="PF00300" points="136,40 145,28 147,28 147,52 145,52" stroke-linejoin="round" width="15" height="24" fill="rgb(135,184,63)" stroke="rgb(107,147,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="185,25 185,25 185,10 155,40 185,70 185,55 185,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<polygon class="PF04055" points="168,31 171,28 182,28 182,52 171,52 168,49" stroke-linejoin="round" width="14" height="24" fill="rgb(149,56,222)" stroke="rgb(119,44,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>nemG
+putative sugar-alcohol dehydrogenase</title>
+			<polygon class="nemG
+putative sugar-alcohol dehydrogenase" points="245,25 221,25 221,10 191,40 221,70 221,55 245,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GMC_oxred_C (PF05199)
+"GMC oxidoreductase"</title>
+				<polygon class="PF05199" points="195,40 204,31 204,49" stroke-linejoin="round" width="12" height="24" fill="rgb(186,52,106)" stroke="rgb(148,41,84)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GMC_oxred_N (PF00732)
+"GMC oxidoreductase"</title>
+				<rect class="PF00732" x="212" y="28" stroke-linejoin="round" width="29" height="24" fill="rgb(180,89,214)" stroke="rgb(143,71,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>nemF
+ABC transport protein</title>
+			<polygon class="nemF
+ABC transport protein" points="311,25 282,25 282,10 252,40 282,70 282,55 311,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="259,37 268,28 273,28 273,52 268,52 259,43" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="281" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>nemE
+ABC transport protein</title>
+			<polygon class="nemE
+ABC transport protein" points="377,25 341,25 341,10 311,40 341,70 341,55 377,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="322,33 327,28 341,28 341,52 327,52 322,47" stroke-linejoin="round" width="19" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="348" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>nemD
+putative glycosyltransferase</title>
+			<polygon class="nemD
+putative glycosyltransferase" points="420,25 408,25 408,10 378,40 408,70 408,55 420,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_1 (PF00534)
+"Glycosyl transferases group 1"</title>
+				<polygon class="PF00534" points="382,40 394,28 398,28 398,52 394,52" stroke-linejoin="round" width="17" height="24" fill="rgb(228,92,150)" stroke="rgb(182,73,119)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Glyco_trans_4_4 (PF13579)
+"Glycosyl transferase 4-like domain"</title>
+				<rect class="PF13579" x="399" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(143,60,202)" stroke="rgb(114,47,161)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>nemA
+2-deoxy-scyllo-inosose synthase</title>
+			<polygon class="nemA
+2-deoxy-scyllo-inosose synthase" points="468,25 455,25 455,10 425,40 455,70 455,55 468,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DHQ_synthase (PF01761)
+"3-dehydroquinate synthase"</title>
+				<polygon class="PF01761" points="435,34 441,28 460,28 460,52 441,52 435,46" stroke-linejoin="round" width="25" height="24" fill="rgb(150,62,180)" stroke="rgb(120,49,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>nemB
+putative 2-deoxy-scyllo-inosose aminotransferase</title>
+			<polygon class="nemB
+putative 2-deoxy-scyllo-inosose aminotransferase" points="515,25 503,25 503,10 473,40 503,70 503,55 515,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DegT_DnrJ_EryC1 (PF01041)
+"DegT/DnrJ/EryC1/StrS aminotransferase family"</title>
+				<polygon class="PF01041" points="477,40 489,28 512,28 512,52 489,52" stroke-linejoin="round" width="38" height="24" fill="rgb(59,139,191)" stroke="rgb(47,111,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>nemC
+putative dehydrogenase</title>
+			<polygon class="nemC
+putative dehydrogenase" points="552,25 548,25 548,10 518,40 548,70 548,55 552,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ADH_zinc_N (PF00107)
+"Zinc-binding dehydrogenase"</title>
+				<polygon class="PF00107" points="522,40 534,28 534,28 534,52 534,52 522,40" stroke-linejoin="round" width="12" height="24" fill="rgb(81,108,215)" stroke="rgb(64,86,172)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ADH_N (PF08240)
+"Alcohol dehydrogenase GroES-like domain"</title>
+				<rect class="PF08240" x="539" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(211,65,138)" stroke="rgb(168,51,110)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+Cinorf12 like protein</title>
+			<polygon class="
+Cinorf12 like protein" points="560,10 577,40 560,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="579,10 593,40 579,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+Cinorf13 like protein</title>
+			<polygon class="
+Cinorf13 like protein" points="606,10 623,40 606,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="634,25 636,25 636,10 666,40 636,70 636,55 634,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>aph
+aminoglycoside phosphotransferase</title>
+			<polygon class="aph
+aminoglycoside phosphotransferase" points="666,10 692,40 666,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>APH (PF01636)
+"Phosphotransferase enzyme family"</title>
+				<polygon class="PF01636" points="667,28 677,28 688,40 677,52 667,52" stroke-linejoin="round" width="24" height="24" fill="rgb(106,220,228)" stroke="rgb(84,176,182)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="696,10 705,40 696,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="706,10 720,40 706,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="722,10 731,40 722,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>nemH
+putative regulatory protein</title>
+			<polygon class="nemH
+putative regulatory protein" points="913,25 764,25 764,10 734,40 764,70 764,55 913,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NaeI (PF09126)
+"Restriction endonuclease NaeI"</title>
+				<polygon class="PF09126" points="738,40 750,28 762,28 762,52 750,52" stroke-linejoin="round" width="27" height="24" fill="rgb(125,182,79)" stroke="rgb(100,145,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="945,25 944,25 944,10 914,40 944,70 944,55 945,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AAA_5 (PF07728)
+"AAA domain (dynein-related subfamily)"</title>
+				<polygon class="PF07728" points="922,36 930,28 938,28 938,52 930,52 922,44" stroke-linejoin="round" width="16" height="24" fill="rgb(216,227,88)" stroke="rgb(172,181,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="1013,25 975,25 975,10 945,40 975,70 975,55 1013,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="1051,25 1044,25 1044,10 1014,40 1044,70 1044,55 1051,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="1091,25 1087,25 1087,10 1057,40 1087,70 1087,55 1091,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ApbA_C (PF08546)
+"Ketopantoate reductase PanE/ApbA C terminal"</title>
+				<polygon class="PF08546" points="1061,40 1073,28 1073,28 1073,52 1073,52" stroke-linejoin="round" width="14" height="24" fill="rgb(188,163,68)" stroke="rgb(150,130,54)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ApbA (PF02558)
+"Ketopantoate reductase PanE/ApbA"</title>
+				<rect class="PF02558" x="1075" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(91,128,221)" stroke="rgb(72,102,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+putative Fe-S oxidoreductase protein</title>
+			<polygon class="
+putative Fe-S oxidoreductase protein" points="1143,25 1123,25 1123,10 1093,40 1123,70 1123,55 1143,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<polygon class="PF04055" points="1108,29 1109,28 1124,28 1124,52 1109,52 1108,51" stroke-linejoin="round" width="16" height="24" fill="rgb(149,56,222)" stroke="rgb(119,44,177)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>B12-binding (PF02310)
+"B12 binding domain"</title>
+				<rect class="PF02310" x="1130" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(145,190,60)" stroke="rgb(115,152,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="1145,10 1157,40 1145,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="1177,40 1190,10 1190,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="1195,10 1203,40 1195,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CAP (PF00188)
+"Cysteine-rich secretory protein family"</title>
+				<polygon class="PF00188" points="1195,28 1196,28 1200,40 1196,52 1195,52" stroke-linejoin="round" width="8" height="24" fill="rgb(189,95,74)" stroke="rgb(151,76,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="1263,25 1234,25 1234,10 1204,40 1234,70 1234,55 1263,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CAP (PF00188)
+"Cysteine-rich secretory protein family"</title>
+				<polygon class="PF00188" points="1208,40 1215,33 1215,47" stroke-linejoin="round" width="11" height="24" fill="rgb(189,95,74)" stroke="rgb(151,76,59)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Sigma70_r2 (PF04542)
+"Sigma-70 region 2"</title>
+				<rect class="PF04542" x="1254" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(184,59,197)" stroke="rgb(147,47,157)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="1270,10 1293,40 1270,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lipase_GDSL_2 (PF13472)
+"GDSL-like Lipase/Acylhydrolase family"</title>
+				<polygon class="PF13472" points="1271,28 1280,28 1289,40 1280,52 1271,52" stroke-linejoin="round" width="20" height="24" fill="rgb(116,68,184)" stroke="rgb(92,54,147)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="1292,40 1317,10 1317,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amidase_2 (PF01510)
+"N-acetylmuramoyl-L-alanine amidase"</title>
+				<polygon class="PF01510" points="1296,40 1306,28 1309,28 1309,52 1306,52" stroke-linejoin="round" width="15" height="24" fill="rgb(122,192,71)" stroke="rgb(97,153,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="1329,25 1347,25 1347,10 1377,40 1347,70 1347,55 1329,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>WGR (PF05406)
+"WGR domain"</title>
+				<rect class="PF05406" x="1329" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(69,124,182)" stroke="rgb(55,99,145)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PQQ_3 (PF13570)
+"PQQ-like domain"</title>
+				<polygon class="PF13570" points="1362,29 1365,32 1365,48 1362,51" stroke-linejoin="round" width="3" height="24" fill="rgb(154,89,181)" stroke="rgb(123,71,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="1377,10 1392,40 1377,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="1399,40 1414,10 1414,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF350 (PF03994)
+"Domain of Unknown Function (DUF350)"</title>
+				<polygon class="PF03994" points="1402,40 1404,36 1404,44" stroke-linejoin="round" width="5" height="24" fill="rgb(206,93,72)" stroke="rgb(164,74,57)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DUF350 (PF03994)
+"Domain of Unknown Function (DUF350)"</title>
+				<polygon class="PF03994" points="1406,32 1408,28 1411,28 1411,52 1408,52 1406,48" stroke-linejoin="round" width="5" height="24" fill="rgb(206,93,72)" stroke="rgb(164,74,57)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

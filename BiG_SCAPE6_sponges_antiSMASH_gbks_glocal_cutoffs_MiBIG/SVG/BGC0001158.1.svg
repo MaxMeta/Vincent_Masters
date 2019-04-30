@@ -1,0 +1,61 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="222.0" height="480">
+	<g>
+		<line x1="10" y1="40.0" x2="62.3" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>bik2
+putative FAD-dependent monooxygenase</title>
+			<polygon class="bik2
+putative FAD-dependent monooxygenase" points="10,25 32,25 32,10 62,40 32,70 32,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FAD_binding_3 (PF01494)
+"FAD binding domain"</title>
+				<rect class="PF01494" x="10" y="28" stroke-linejoin="round" width="36" height="24" fill="rgb(182,175,59)" stroke="rgb(145,140,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="120.0" x2="58.63333333333333" y2="120.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>bik3
+putative O-methyltransferase</title>
+			<polygon class="bik3
+putative O-methyltransferase" points="10,105 28,105 28,90 58,120 28,150 28,135 10,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="200.0" x2="42.7" y2="200.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>bik4
+putative NmrA-like protein</title>
+			<polygon class="bik4
+putative NmrA-like protein" points="10,185 12,185 12,170 42,200 12,230 12,215 10,215" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="280.0" x2="70.63333333333333" y2="280.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>bik6
+putative MFS-type transporter</title>
+			<polygon class="bik6
+putative MFS-type transporter" points="10,265 40,265 40,250 70,280 40,310 40,295 10,295" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="360.0" x2="84.46666666666667" y2="360.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>bik5
+putative Zn(II)2Cys6 transcription factor</title>
+			<polygon class="bik5
+putative Zn(II)2Cys6 transcription factor" points="10,345 54,345 54,330 84,360 54,390 54,375 10,375" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="440.0" x2="212.0" y2="440.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>bik1
+putative polyketide synthase</title>
+			<polygon class="bik1
+putative polyketide synthase" points="10,425 182,425 182,410 212,440 182,470 182,455 10,455" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

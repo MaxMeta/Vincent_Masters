@@ -1,0 +1,54 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="358.06666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="348.06666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg3238_1)</title>
+			<polygon class=" (ctg3238_1)" points="10,10 18,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3238_2)</title>
+			<polygon class=" (ctg3238_2)" points="23,25 35,25 35,10 65,40 35,70 35,55 23,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Trp_halogenase (PF04820)
+"Tryptophan halogenase"</title>
+				<rect class="PF04820" x="24" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(179,74,194)" stroke="rgb(143,59,155)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Trp_halogenase (PF04820)
+"Tryptophan halogenase"</title>
+				<polygon class="PF04820" points="33,28 49,28 60,39 60,41 49,52 33,52" stroke-linejoin="round" width="27" height="24" fill="rgb(179,74,194)" stroke="rgb(143,59,155)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3238_3)</title>
+			<polygon class=" (ctg3238_3)" points="103,25 96,25 96,10 66,40 96,70 96,55 103,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3238_4)</title>
+			<polygon class=" (ctg3238_4)" points="181,25 134,25 134,10 104,40 134,70 134,55 181,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YcaO (PF02624)
+"YcaO cyclodehydratase, ATP-ad Mg2+-binding"</title>
+				<polygon class="PF02624" points="108,40 120,28 140,28 140,52 120,52" stroke-linejoin="round" width="33" height="24" fill="rgb(76,84,185)" stroke="rgb(60,67,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3238_5)</title>
+			<polygon class=" (ctg3238_5)" points="261,25 212,25 212,10 182,40 212,70 212,55 261,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GlnE (PF03710)
+"Glutamate-ammonia ligase adenylyltransferase"</title>
+				<rect class="PF03710" x="202" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(81,188,126)" stroke="rgb(64,150,100)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FA_desaturase (PF00487)
+"Fatty acid desaturase"</title>
+				<rect class="PF00487" x="227" y="28" stroke-linejoin="round" width="22" height="24" fill="rgb(104,51,205)" stroke="rgb(83,40,164)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3238_6)</title>
+			<polygon class=" (ctg3238_6)" points="306,25 294,25 294,10 264,40 294,70 294,55 306,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,35 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ketoacyl-synt        PF00109.26   253 BGC0001305.1_ORF1:gid::pid:CCT72377.1:loc:0:7646:strand:- -           2492   1.5e-68  231.1   0.0   1   1   3.4e-70     4e-67  226.4   0.0     2   253    13   280    12   280 0.88 Beta-ketoacyl synthase, N-terminal domain
+KR                   PF08659.10   180 BGC0001305.1_ORF1:gid::pid:CCT72377.1:loc:0:7646:strand:- -           2492   6.7e-48  163.0   0.1   1   1   1.5e-50   1.8e-47  161.5   0.1     2   178  2118  2293  2117  2295 0.95 KR domain
+PS-DH                PF14765.6    298 BGC0001305.1_ORF1:gid::pid:CCT72377.1:loc:0:7646:strand:- -           2492   3.2e-45  154.7   0.6   1   1   4.1e-48   4.9e-45  154.0   0.6     1   294   967  1270   967  1273 0.90 Polyketide synthase dehydratase
+Acyl_transf_1        PF00698.21   319 BGC0001305.1_ORF1:gid::pid:CCT72377.1:loc:0:7646:strand:- -           2492   3.2e-40  138.6   0.1   1   1     5e-43     6e-40  137.7   0.1     3   272   571   866   570   899 0.84 Acyl transferase domain
+Ketoacyl-synt_C      PF02801.22   118 BGC0001305.1_ORF1:gid::pid:CCT72377.1:loc:0:7646:strand:- -           2492   1.7e-31  108.7   0.0   1   1   4.1e-34   4.9e-31  107.2   0.0     2   117   289   411   288   412 0.93 Beta-ketoacyl synthase, C-terminal domain
+Methyltransf_12      PF08242.12    99 BGC0001305.1_ORF1:gid::pid:CCT72377.1:loc:0:7646:strand:- -           2492   5.1e-18   65.7   0.0   1   1   1.1e-20   1.3e-17   64.3   0.0     1    99  1448  1549  1448  1549 0.91 Methyltransferase domain
+KAsynt_C_assoc       PF16197.5    112 BGC0001305.1_ORF1:gid::pid:CCT72377.1:loc:0:7646:strand:- -           2492   3.9e-15   56.3   0.0   1   1   9.1e-18   1.1e-14   54.8   0.0     2   109   415   530   415   532 0.83 Ketoacyl-synthetase C-terminal extension
+Methyltransf_25      PF13649.6     97 BGC0001305.1_ORF1:gid::pid:CCT72377.1:loc:0:7646:strand:- -           2492     1e-13   51.8   0.0   1   1   3.8e-16   4.5e-13   49.7   0.0     1    97  1447  1547  1447  1547 0.92 Methyltransferase domain
+Methyltransf_11      PF08241.12    96 BGC0001305.1_ORF1:gid::pid:CCT72377.1:loc:0:7646:strand:- -           2492   5.6e-12   46.2   0.0   1   1   1.3e-14   1.6e-11   44.7   0.0     2    96  1449  1551  1448  1551 0.88 Methyltransferase domain
+Methyltransf_23      PF13489.6    165 BGC0001305.1_ORF1:gid::pid:CCT72377.1:loc:0:7646:strand:- -           2492   8.6e-10   38.7   0.0   1   1   1.6e-12   1.9e-09   37.5   0.0    18   163  1439  1602  1426  1604 0.73 Methyltransferase domain
+adh_short            PF00106.25   195 BGC0001305.1_ORF1:gid::pid:CCT72377.1:loc:0:7646:strand:- -           2492   1.3e-09   37.8   0.0   1   1   3.1e-12   3.7e-09   36.3   0.0     5   163  2121  2278  2117  2296 0.92 short chain dehydrogenase
+Methyltransf_31      PF13847.6    152 BGC0001305.1_ORF1:gid::pid:CCT72377.1:loc:0:7646:strand:- -           2492   3.9e-09   36.5   0.0   1   1   7.6e-12     9e-09   35.3   0.0     3   113  1443  1555  1441  1598 0.85 Methyltransferase domain
+adh_short_C2         PF13561.6    234 BGC0001305.1_ORF1:gid::pid:CCT72377.1:loc:0:7646:strand:- -           2492   1.1e-07   31.7   0.0   1   1   2.4e-10   2.8e-07   30.3   0.0     6   153  2128  2276  2123  2278 0.91 Enoyl-(Acyl carrier protein) reductase
+PP-binding           PF00550.25    67 BGC0001305.1_ORF1:gid::pid:CCT72377.1:loc:0:7646:strand:- -           2492   2.7e-06   27.6   0.0   1   1   5.6e-09   6.7e-06   26.4   0.0     4    65  2411  2473  2408  2475 0.91 Phosphopantetheine attachment site
+Ubie_methyltran      PF01209.18   233 BGC0001305.1_ORF1:gid::pid:CCT72377.1:loc:0:7646:strand:- -           2492   2.3e-06   27.1   0.0   1   1   3.9e-09   4.7e-06   26.1   0.0    45   160  1441  1560  1432  1573 0.82 ubiE/COQ5 methyltransferase family
+ADH_zinc_N           PF00107.26   130 BGC0001305.1_ORF2:gid::pid:CCT72378.1:loc:8284:9379:strand:+ -            346   5.6e-10   39.3   0.0   1   1   1.2e-13   1.1e-09   38.3   0.0     2    83   160   239   159   273 0.87 Zinc-binding dehydrogenase
+ADH_N                PF08240.12   109 BGC0001305.1_ORF2:gid::pid:CCT72378.1:loc:8284:9379:strand:+ -            346   1.2e-05   25.1   0.3   1   1   1.4e-09   1.2e-05   25.1   0.3     2    64    26    84    25   160 0.68 Alcohol dehydrogenase GroES-like domain
+Abhydrolase_6        PF12697.7    220 BGC0001305.1_ORF3:gid::pid:CCT72379.1:loc:10274:11368:strand:+ -            320   1.2e-06   29.3   0.5   1   1     4e-10   1.8e-06   28.7   0.5    26   208    59   298    46   304 0.49 Alpha/beta hydrolase family
+DLH                  PF01738.18   217 BGC0001305.1_ORF3:gid::pid:CCT72379.1:loc:10274:11368:strand:+ -            320   0.00014   21.5   0.0   1   1   5.2e-08   0.00023   20.8   0.0    79   120    87   128    74   135 0.85 Dienelactone hydrolase family
+MFS_1                PF07690.16   353 BGC0001305.1_ORF4:gid::pid:CCT72380.1:loc:12857:14466:strand:- -            465   4.6e-29  101.5  48.8   1   1   3.2e-30   5.8e-26   91.2  29.9    28   306   101   372    70   374 0.83 Major Facilitator Superfamily
+Zn_clus              PF00172.18    40 BGC0001305.1_ORF5:gid::pid:CCT72381.1:loc:15419:16774:strand:+ -            413   1.8e-06   27.9  10.0   1   1   1.8e-10   3.2e-06   27.2  10.0     1    38     5    54     5    56 0.86 Fungal Zn(2)-Cys(6) binuclear cluster domain
+p450                 PF00067.22   463 BGC0001305.1_ORF6:gid::pid:CCT72382.1:loc:22521:24253:strand:+ -            558   1.3e-55  189.0   0.0   1   1   8.7e-60   1.6e-55  188.7   0.0     1   460    40   521    40   524 0.84 Cytochrome P450
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001305.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001305.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001305.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:49:05 2019
+# [ok]

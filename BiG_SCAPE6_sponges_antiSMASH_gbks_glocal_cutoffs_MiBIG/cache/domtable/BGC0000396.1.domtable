@@ -1,0 +1,32 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.28   423 BGC0000396.1_ORF2:gid:ndaA:pid:AEO14743.1:loc:1367:9317:strand:+ -           2649  1.7e-188  626.5   0.0   1   2  1.7e-114    3e-111  372.0   0.0     1   423   256   670   256   670 0.90 AMP-binding enzyme
+AMP-binding          PF00501.28   423 BGC0000396.1_ORF2:gid:ndaA:pid:AEO14743.1:loc:1367:9317:strand:+ -           2649  1.7e-188  626.5   0.0   2   2   3.4e-78   6.1e-75  252.4   0.0     3   422  2049  2472  2047  2473 0.88 AMP-binding enzyme
+Condensation         PF00668.20   457 BGC0000396.1_ORF2:gid:ndaA:pid:AEO14743.1:loc:1367:9317:strand:+ -           2649  1.7e-124  416.0   3.6   1   2   1.6e-69   2.8e-66  224.1   0.0     2   447  1292  1734  1291  1744 0.92 Condensation domain
+Condensation         PF00668.20   457 BGC0000396.1_ORF2:gid:ndaA:pid:AEO14743.1:loc:1367:9317:strand:+ -           2649  1.7e-124  416.0   3.6   2   2   1.3e-50   2.3e-47  161.7   0.3   178   456  1761  2028  1743  2029 0.93 Condensation domain
+PP-binding           PF00550.25    67 BGC0000396.1_ORF2:gid:ndaA:pid:AEO14743.1:loc:1367:9317:strand:+ -           2649   4.4e-26   91.0   1.0   1   2   1.2e-12   2.2e-09   37.5   0.1     2    65  1198  1258  1197  1260 0.93 Phosphopantetheine attachment site
+PP-binding           PF00550.25    67 BGC0000396.1_ORF2:gid:ndaA:pid:AEO14743.1:loc:1367:9317:strand:+ -           2649   4.4e-26   91.0   1.0   2   2   4.7e-17   8.5e-14   51.7   0.1     3    67  2583  2645  2581  2645 0.96 Phosphopantetheine attachment site
+AMP-binding_C        PF13193.6     76 BGC0000396.1_ORF2:gid:ndaA:pid:AEO14743.1:loc:1367:9317:strand:+ -           2649   2.9e-19   69.8   0.4   1   1   1.1e-09   1.9e-06   28.7   0.0     1    39   678   716   678   736 0.79 AMP-binding enzyme C-terminal domain
+Methyltransf_12      PF08242.12    99 BGC0000396.1_ORF2:gid:ndaA:pid:AEO14743.1:loc:1367:9317:strand:+ -           2649   1.1e-15   58.1   0.1   1   1   1.7e-17     3e-14   53.6   0.0     1    99   789   889   789   889 0.94 Methyltransferase domain
+Methyltransf_23      PF13489.6    165 BGC0000396.1_ORF2:gid:ndaA:pid:AEO14743.1:loc:1367:9317:strand:+ -           2649     4e-12   46.3   0.0   1   1   7.2e-15   1.3e-11   44.6   0.0     3   133   767   906   765   944 0.77 Methyltransferase domain
+Methyltransf_11      PF08241.12    96 BGC0000396.1_ORF2:gid:ndaA:pid:AEO14743.1:loc:1367:9317:strand:+ -           2649     6e-12   46.1   0.0   1   1   1.5e-14   2.8e-11   43.9   0.0     1    96   789   891   789   891 0.96 Methyltransferase domain
+Methyltransf_25      PF13649.6     97 BGC0000396.1_ORF2:gid:ndaA:pid:AEO14743.1:loc:1367:9317:strand:+ -           2649   4.6e-11   43.3   0.0   1   1   1.4e-13   2.5e-10   40.9   0.0     1    97   788   887   788   887 0.91 Methyltransferase domain
+Methyltransf_31      PF13847.6    152 BGC0000396.1_ORF2:gid:ndaA:pid:AEO14743.1:loc:1367:9317:strand:+ -           2649   1.6e-09   37.7   0.0   1   1   3.1e-12   5.6e-09   36.0   0.0     5   125   786   932   783   963 0.78 Methyltransferase domain
+NodS                 PF05401.11   201 BGC0000396.1_ORF2:gid:ndaA:pid:AEO14743.1:loc:1367:9317:strand:+ -           2649   5.6e-06   26.1   0.0   1   1   6.5e-09   1.2e-05   25.1   0.0    46   148   787   895   776   900 0.87 Nodulation protein S (NodS)
+Condensation         PF00668.20   457 BGC0000396.1_ORF3:gid:ndaB:pid:AEO14744.1:loc:9319:13162:strand:+ -           1280  6.5e-113  377.8   4.1   1   1    3e-116  8.9e-113  377.4   4.1     1   457     7   456     7   456 0.95 Condensation domain
+AMP-binding          PF00501.28   423 BGC0000396.1_ORF3:gid:ndaB:pid:AEO14744.1:loc:9319:13162:strand:+ -           1280  1.9e-112  376.0   0.0   1   1    9e-116  2.7e-112  375.5   0.0     1   423   476   872   476   872 0.91 AMP-binding enzyme
+PP-binding           PF00550.25    67 BGC0000396.1_ORF3:gid:ndaB:pid:AEO14744.1:loc:9319:13162:strand:+ -           1280   1.2e-16   60.8   0.1   1   1   2.2e-19   6.5e-16   58.5   0.0     3    67   980  1042   978  1042 0.95 Phosphopantetheine attachment site
+Thioesterase         PF00975.20   231 BGC0000396.1_ORF3:gid:ndaB:pid:AEO14744.1:loc:9319:13162:strand:+ -           1280   2.4e-14   54.0   0.0   1   1   1.9e-17   5.7e-14   52.8   0.0     3   116  1068  1168  1066  1275 0.84 Thioesterase domain
+AMP-binding_C        PF13193.6     76 BGC0000396.1_ORF3:gid:ndaB:pid:AEO14744.1:loc:9319:13162:strand:+ -           1280   1.1e-11   45.5   0.0   1   1   8.4e-15   2.5e-11   44.4   0.0     1    76   880   950   880   950 0.95 AMP-binding enzyme C-terminal domain
+Amidinotransf        PF02274.17   340 BGC0000396.1_ORF4:gid::pid:AEO14745.1:loc:13253:14288:strand:+ -            345   2.9e-07   29.9   0.0   1   1   5.2e-10   9.3e-06   25.0   0.0   229   340   226   337   206   337 0.89 Amidinotransferase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000396.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000396.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000396.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:54:36 2019
+# [ok]

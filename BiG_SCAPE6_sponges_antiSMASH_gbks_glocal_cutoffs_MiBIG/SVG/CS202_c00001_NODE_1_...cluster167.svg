@@ -1,0 +1,75 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="256.3666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="246.36666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg8035_1)</title>
+			<polygon class=" (ctg8035_1)" points="88,25 42,25 42,10 12,40 42,70 42,55 88,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acyl_transf_1 (PF00698)
+"Acyl transferase domain"</title>
+				<polygon class="PF00698" points="16,40 28,28 33,28 33,52 28,52" stroke-linejoin="round" width="21" height="24" fill="rgb(59,176,209)" stroke="rgb(47,140,167)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KAsynt_C_assoc (PF16197)
+"Ketoacyl-synthetase C-terminal extension"</title>
+				<rect class="PF16197" x="36" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(240,150,172)" stroke="rgb(192,120,137)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<rect class="PF02801" x="51" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="63" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8035_2)</title>
+			<polygon class=" (ctg8035_2)" points="102,25 102,25 102,10 132,40 102,70 102,55 102,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Creatininase (PF02633)
+"Creatinine amidohydrolase"</title>
+				<polygon class="PF02633" points="108,28 116,28 128,40 116,52 108,52" stroke-linejoin="round" width="22" height="24" fill="rgb(216,60,128)" stroke="rgb(172,47,102)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8035_3)</title>
+			<polygon class=" (ctg8035_3)" points="136,25 141,25 141,10 171,40 141,70 141,55 136,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LPG_synthase_TM (PF03706)
+"Lysylphosphatidylglycerol synthase TM region"</title>
+				<polygon class="PF03706" points="137,28 155,28 167,40 155,52 137,52" stroke-linejoin="round" width="31" height="24" fill="rgb(98,201,219)" stroke="rgb(78,160,175)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8035_4)</title>
+			<polygon class=" (ctg8035_4)" points="172,25 182,25 182,10 212,40 182,70 182,55 172,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PLDc_2 (PF13091)
+"PLD-like domain"</title>
+				<rect class="PF13091" x="175" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(197,187,91)" stroke="rgb(157,149,72)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PLDc_2 (PF13091)
+"PLD-like domain"</title>
+				<polygon class="PF13091" points="194,28 196,28 206,38 206,42 196,52 194,52" stroke-linejoin="round" width="12" height="24" fill="rgb(197,187,91)" stroke="rgb(157,149,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8035_5)</title>
+			<polygon class=" (ctg8035_5)" points="217,10 245,40 217,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AAA_14 (PF13173)
+"AAA domain"</title>
+				<rect class="PF13173" x="218" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(77,222,177)" stroke="rgb(61,177,141)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DUF4143 (PF13635)
+"Domain of unknown function (DUF4143)"</title>
+				<polygon class="PF13635" points="234,32 241,40 234,48" stroke-linejoin="round" width="10" height="24" fill="rgb(119,89,210)" stroke="rgb(95,71,168)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

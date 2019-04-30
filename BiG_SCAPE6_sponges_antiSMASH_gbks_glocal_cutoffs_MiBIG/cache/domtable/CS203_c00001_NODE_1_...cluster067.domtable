@@ -1,0 +1,26 @@
+#                                                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Methyltransf_11      PF08241.12    96 CS203_c00001_NODE_1_...cluster067_ORF1:gid::pid::loc:57:1146:strand:- -            362   1.9e-19   70.1   0.0   1   1   1.7e-22   3.9e-19   69.1   0.0     1    93   150   245   150   247 0.97 Methyltransferase domain
+Methyltransf_25      PF13649.6     97 CS203_c00001_NODE_1_...cluster067_ORF1:gid::pid::loc:57:1146:strand:- -            362   7.2e-19   68.3   0.0   1   1   5.7e-22   1.3e-18   67.5   0.0     1    97   149   244   149   244 0.95 Methyltransferase domain
+Methyltransf_31      PF13847.6    152 CS203_c00001_NODE_1_...cluster067_ORF1:gid::pid::loc:57:1146:strand:- -            362   3.6e-16   59.3   0.0   1   1   2.2e-19   4.9e-16   58.9   0.0     4   108   146   247   143   290 0.91 Methyltransferase domain
+Ubie_methyltran      PF01209.18   233 CS203_c00001_NODE_1_...cluster067_ORF1:gid::pid::loc:57:1146:strand:- -            362   2.2e-10   40.3   0.0   1   1   1.9e-13   4.3e-10   39.3   0.0    47   151   145   248   129   259 0.90 ubiE/COQ5 methyltransferase family
+CMAS                 PF02353.20   273 CS203_c00001_NODE_1_...cluster067_ORF1:gid::pid::loc:57:1146:strand:- -            362   7.8e-10   38.5   0.0   1   1   5.1e-13   1.1e-09   38.0   0.0    52   161   135   245   121   270 0.82 Mycolic acid cyclopropane synthetase
+Methyltransf_12      PF08242.12    99 CS203_c00001_NODE_1_...cluster067_ORF1:gid::pid::loc:57:1146:strand:- -            362   1.9e-07   31.8   0.0   1   1   1.8e-10   3.9e-07   30.7   0.0     1    98   150   245   150   246 0.81 Methyltransferase domain
+Methyltransf_23      PF13489.6    165 CS203_c00001_NODE_1_...cluster067_ORF1:gid::pid::loc:57:1146:strand:- -            362   1.3e-07   31.6   0.0   1   1     1e-10   2.3e-07   30.8   0.0    20   115   143   246   124   296 0.73 Methyltransferase domain
+FAD_binding_4        PF01565.23   139 CS203_c00001_NODE_1_...cluster067_ORF2:gid::pid::loc:1224:2454:strand:+ -            409   2.6e-30  105.0   6.1   1   1   4.4e-34     4e-30  104.4   6.1     1   139     2   137     2   137 0.95 FAD binding domain
+MMPL                 PF03176.15   333 CS203_c00001_NODE_1_...cluster067_ORF3:gid::pid::loc:2472:4788:strand:- -            771   1.2e-32  113.2  29.2   1   2   5.2e-24   4.6e-20   71.8   7.2    62   316   104   390    48   415 0.75 MMPL family
+MMPL                 PF03176.15   333 CS203_c00001_NODE_1_...cluster067_ORF3:gid::pid::loc:2472:4788:strand:- -            771   1.2e-32  113.2  29.2   2   2   1.6e-16   1.4e-12   47.2  14.0    87   301   551   760   547   770 0.84 MMPL family
+Sterol-sensing       PF12349.8    153 CS203_c00001_NODE_1_...cluster067_ORF3:gid::pid::loc:2472:4788:strand:- -            771   4.9e-13   49.2  13.5   1   1   6.9e-16   6.2e-12   45.6   0.7     7   146   248   387   242   394 0.87 Sterol-sensing domain of SREBP cleavage-activation
+ABC_tran             PF00005.27   137 CS203_c00001_NODE_1_...cluster067_ORF5:gid::pid::loc:5559:8475:strand:- -            971   5.2e-30  104.7   0.0   1   1   1.2e-33   1.1e-29  103.7   0.0     1   137   752   901   752   901 0.86 ABC transporter
+ABC_membrane         PF00664.23   274 CS203_c00001_NODE_1_...cluster067_ORF5:gid::pid::loc:5559:8475:strand:- -            971   4.7e-12   46.1   2.1   1   1   7.8e-16     7e-12   45.6   2.1     6   274   427   691   423   691 0.96 ABC transporter transmembrane region
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS203_c00001_NODE_1_...cluster067.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS203_c00001_NODE_1_...cluster067.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS203_c00001_NODE_1_...cluster067.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:44:19 2019
+# [ok]

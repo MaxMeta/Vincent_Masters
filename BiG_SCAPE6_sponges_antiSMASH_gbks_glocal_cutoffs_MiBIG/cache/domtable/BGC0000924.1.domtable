@@ -1,0 +1,19 @@
+#                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Trp_halogenase       PF04820.14   454 BGC0000924.1_ORF1:gid:prnA:pid:ABW69174.1:loc:136:1753:strand:+ -            538    9e-180  598.4   0.0   1   1  2.3e-183    1e-179  598.2   0.0     1   453     7   482     7   483 0.99 Tryptophan halogenase
+DUF1864              PF08933.11   387 BGC0000924.1_ORF2:gid:prnB:pid:ABW69175.1:loc:1752:2835:strand:+ -            360  2.6e-111  372.1   0.0   1   1  1.8e-115  3.2e-111  371.8   0.0     1   374    14   354    14   359 0.98 Domain of unknown function (DUF1864)
+Trp_halogenase       PF04820.14   454 BGC0000924.1_ORF3:gid:prnC:pid:ABW69176.1:loc:2878:4582:strand:+ -            567   3.6e-18   65.7   0.3   1   2   7.1e-09   6.4e-05   22.0   0.0     1    56    16    68    16   122 0.80 Tryptophan halogenase
+Trp_halogenase       PF04820.14   454 BGC0000924.1_ORF3:gid:prnC:pid:ABW69176.1:loc:2878:4582:strand:+ -            567   3.6e-18   65.7   0.3   2   2   2.9e-14   2.6e-10   39.8   0.3   153   421   134   434   129   439 0.69 Tryptophan halogenase
+FAD_binding_3        PF01494.19   349 BGC0000924.1_ORF3:gid:prnC:pid:ABW69176.1:loc:2878:4582:strand:+ -            567   6.3e-08   32.2   0.0   1   1   5.2e-11   4.6e-07   29.4   0.0     2   225    15   261    14   367 0.72 FAD binding domain
+Rieske               PF00355.26    89 BGC0000924.1_ORF4:gid:prnD:pid:ABW69177.1:loc:4606:5698:strand:+ -            363   1.9e-18   66.2   0.2   1   1   2.2e-22   3.9e-18   65.2   0.2     1    84    28   109    28   126 0.94 Rieske [2Fe-2S] domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000924.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000924.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000924.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:36:48 2019
+# [ok]

@@ -1,0 +1,17 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ILVD_EDD             PF00920.21   517 BGC0001475.1_ORF1:gid::pid:XP_001213593.1:loc:5:1879:strand:+ -            598  4.7e-209  695.3   0.0   1   1    3e-213  5.4e-209  695.1   0.0     1   517    71   592    71   592 0.98 Dehydratase family
+TRI5                 PF06330.11   362 BGC0001475.1_ORF2:gid::pid:XP_001213594.1:loc:3156:4386:strand:- -            409  6.8e-206  683.2   0.6   1   1  4.4e-210  7.8e-206  683.0   0.6     1   362     5   377     5   377 1.00 Trichodiene synthase (TRI5)
+p450                 PF00067.22   463 BGC0001475.1_ORF3:gid::pid:XP_001213595.1:loc:5486:7246:strand:+ -            512   5.6e-55  186.9   0.0   1   1   3.7e-59   6.7e-55  186.7   0.0    22   455    64   496    40   501 0.84 Cytochrome P450
+p450                 PF00067.22   463 BGC0001475.1_ORF4:gid::pid:XP_001213596.1:loc:7902:9618:strand:+ -            538     1e-28  100.4   0.0   1   1   7.2e-33   1.3e-28  100.0   0.0   112   461   151   532   143   534 0.82 Cytochrome P450
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001475.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001475.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001475.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:36:21 2019
+# [ok]

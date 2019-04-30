@@ -1,0 +1,50 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="204.83333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="194.83333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg6944_6)</title>
+			<polygon class=" (ctg6944_6)" points="91,25 91,25 91,10 61,40 91,70 91,55 91,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LpxC (PF03331)
+"UDP-3-O-acyl N-acetylglycosamine deacetylase"</title>
+				<polygon class="PF03331" points="65,40 77,28 90,28 90,52 77,52" stroke-linejoin="round" width="27" height="24" fill="rgb(189,181,50)" stroke="rgb(151,144,40)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6944_7)</title>
+			<polygon class=" (ctg6944_7)" points="96,10 111,40 96,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TerB (PF05099)
+"Tellurite resistance protein TerB"</title>
+				<polygon class="PF05099" points="96,28 101,28 107,40 101,52 96,52" stroke-linejoin="round" width="14" height="24" fill="rgb(81,192,110)" stroke="rgb(64,153,88)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6944_8)</title>
+			<polygon class=" (ctg6944_8)" points="114,25 120,25 120,10 150,40 120,70 120,55 114,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Epimerase (PF01370)
+"NAD dependent epimerase/dehydratase family"</title>
+				<polygon class="PF01370" points="115,28 133,28 141,36 141,44 133,52 115,52" stroke-linejoin="round" width="26" height="24" fill="rgb(98,102,214)" stroke="rgb(78,81,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6944_9)</title>
+			<polygon class=" (ctg6944_9)" points="151,40 177,10 177,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2063 (PF09836)
+"Putative DNA-binding domain"</title>
+				<polygon class="PF09836" points="166,28 166,28 174,28 174,52 166,52 166,52" stroke-linejoin="round" width="8" height="24" fill="rgb(88,194,190)" stroke="rgb(70,155,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6944_10)</title>
+			<polygon class=" (ctg6944_10)" points="176,40 194,10 194,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF692 (PF05114)
+"Protein of unknown function (DUF692)"</title>
+				<polygon class="PF05114" points="180,40 187,28 193,28 193,52 187,52" stroke-linejoin="round" width="16" height="24" fill="rgb(63,196,127)" stroke="rgb(50,156,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

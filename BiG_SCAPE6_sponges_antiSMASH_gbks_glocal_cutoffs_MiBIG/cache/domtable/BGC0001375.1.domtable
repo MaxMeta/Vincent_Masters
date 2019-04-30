@@ -1,0 +1,18 @@
+#                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+FAD_binding_4        PF01565.23   139 BGC0001375.1_ORF1:gid:ptmO:pid:BAU61564.1:loc:649:2174:strand:- -            450   2.8e-28   98.4   0.0   1   1   2.3e-32   4.2e-28   97.8   0.0     1   139    36   171    36   171 0.98 FAD binding domain
+p450                 PF00067.22   463 BGC0001375.1_ORF2:gid:ptmJ:pid:BAU61565.1:loc:2769:4607:strand:+ -            515   2.1e-27   96.0   0.0   1   1   1.5e-31   2.7e-27   95.6   0.0    46   436    94   473    45   483 0.83 Cytochrome P450
+p450                 PF00067.22   463 BGC0001375.1_ORF3:gid:ptmK:pid:BAU61566.1:loc:5475:7115:strand:- -            510   1.3e-63  215.3   0.0   1   1   9.5e-68   1.7e-63  215.0   0.0    43   438    80   482    43   502 0.92 Cytochrome P450
+Trp_DMAT             PF11991.8    364 BGC0001375.1_ORF4:gid:ptmE:pid:BAU61567.1:loc:7514:8841:strand:+ -            425   1.7e-85  287.6   0.1   1   1   1.1e-89     2e-85  287.4   0.1     1   363    26   378    26   379 0.91 Tryptophan dimethylallyltransferase
+p450                 PF00067.22   463 BGC0001375.1_ORF5:gid:ptmL:pid:BAU61568.1:loc:8941:10840:strand:- -            540     5e-39  134.3   0.0   1   1   4.5e-43     8e-39  133.7   0.0    38   437   100   499    89   507 0.76 Cytochrome P450
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001375.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001375.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001375.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:34:28 2019
+# [ok]

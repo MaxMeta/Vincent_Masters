@@ -1,0 +1,26 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+LPG_synthase_TM      PF03706.13   301 CS200_c00001_NODE_1_...cluster256_ORF2:gid::pid::loc:315:3498:strand:- -           1060   3.9e-36  125.1  43.6   1   1   1.3e-39   3.9e-36  125.1  43.6     2   295    39   316    32   322 0.90 Lysylphosphatidylglycerol synthase TM region
+Glycos_transf_2      PF00535.26   170 CS200_c00001_NODE_1_...cluster256_ORF2:gid::pid::loc:315:3498:strand:- -           1060   2.8e-28   98.9   0.0   1   1   1.9e-31   5.8e-28   97.8   0.0     2   167   840   999   839  1001 0.91 Glycosyl transferase family 2
+Phosphodiest         PF01663.22   357 CS200_c00001_NODE_1_...cluster256_ORF2:gid::pid::loc:315:3498:strand:- -           1060   1.4e-23   84.1   1.1   1   2   9.6e-15   2.9e-11   43.6   0.1     2    66   570   632   569   645 0.95 Type I phosphodiesterase / nucleotide pyrophosphatase
+Phosphodiest         PF01663.22   357 CS200_c00001_NODE_1_...cluster256_ORF2:gid::pid::loc:315:3498:strand:- -           1060   1.4e-23   84.1   1.1   2   2   2.1e-13   6.1e-10   39.2   0.1   155   235   677   763   650   780 0.85 Type I phosphodiesterase / nucleotide pyrophosphatase
+Sulfatase            PF00884.23   309 CS200_c00001_NODE_1_...cluster256_ORF2:gid::pid::loc:315:3498:strand:- -           1060   8.7e-20   71.3   0.0   1   1   2.5e-22   7.3e-19   68.3   0.0    24   308   585   812   567   813 0.85 Sulfatase
+Glyco_tranf_2_3      PF13641.6    230 CS200_c00001_NODE_1_...cluster256_ORF2:gid::pid::loc:315:3498:strand:- -           1060   9.7e-09   35.4   0.0   1   1   7.4e-12   2.2e-08   34.3   0.0     4   141   838   971   836   985 0.84 Glycosyltransferase like family 2
+Metalloenzyme        PF01676.18   248 CS200_c00001_NODE_1_...cluster256_ORF2:gid::pid::loc:315:3498:strand:- -           1060   1.5e-07   31.0   0.1   1   1   9.5e-11   2.8e-07   30.1   0.1   117   246   686   813   659   815 0.82 Metalloenzyme superfamily
+UDPG_MGDP_dh_N       PF03721.14   187 CS200_c00001_NODE_1_...cluster256_ORF3:gid::pid::loc:3714:5076:strand:+ -            453   1.5e-39  135.5   0.0   1   1   3.7e-43   2.2e-39  135.0   0.0     2   181     2   174     1   181 0.93 UDP-glucose/GDP-mannose dehydrogenase family, NAD binding domain
+UDPG_MGDP_dh         PF00984.19    94 CS200_c00001_NODE_1_...cluster256_ORF3:gid::pid::loc:3714:5076:strand:+ -            453   1.4e-31  108.5   0.1   1   1   4.9e-35   2.9e-31  107.5   0.1     2    93   197   287   196   288 0.96 UDP-glucose/GDP-mannose dehydrogenase family, central domain
+UDPG_MGDP_dh_C       PF03720.15   105 CS200_c00001_NODE_1_...cluster256_ORF3:gid::pid::loc:3714:5076:strand:+ -            453     3e-28   98.3   0.0   1   1   9.8e-32   5.9e-28   97.4   0.0     2   104   312   413   311   414 0.97 UDP-glucose/GDP-mannose dehydrogenase family, UDP binding domain
+Acyl_transf_1        PF00698.21   319 CS200_c00001_NODE_1_...cluster256_ORF4:gid::pid::loc:5667:7194:strand:- -            508   1.9e-17   63.8   0.1   1   1   4.7e-21   2.8e-17   63.2   0.1     2   115   224   339   223   353 0.94 Acyl transferase domain
+KAsynt_C_assoc       PF16197.5    112 CS200_c00001_NODE_1_...cluster256_ORF4:gid::pid::loc:5667:7194:strand:- -            508   2.5e-12   47.3   0.0   1   1   1.7e-15   9.9e-12   45.3   0.0     2   108    39   186    39   189 0.81 Ketoacyl-synthetase C-terminal extension
+Ketoacyl-synt_C      PF02801.22   118 CS200_c00001_NODE_1_...cluster256_ORF4:gid::pid::loc:5667:7194:strand:- -            508   4.3e-06   26.7   0.0   1   1   1.3e-09     8e-06   25.9   0.0    83   114     1    32     1    36 0.93 Beta-ketoacyl synthase, C-terminal domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS200_c00001_NODE_1_...cluster256.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS200_c00001_NODE_1_...cluster256.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS200_c00001_NODE_1_...cluster256.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:32:30 2019
+# [ok]

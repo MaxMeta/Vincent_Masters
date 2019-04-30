@@ -1,0 +1,104 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="381.93333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="371.93333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg490_7)</title>
+			<polygon class=" (ctg490_7)" points="46,10 69,40 46,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg490_8)</title>
+			<polygon class=" (ctg490_8)" points="70,10 82,40 70,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg490_9)</title>
+			<polygon class=" (ctg490_9)" points="85,10 100,40 85,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2384 (PF09722)
+"Protein of unknown function (DUF2384)"</title>
+				<polygon class="PF09722" points="95,37 97,40 95,43" stroke-linejoin="round" width="5" height="24" fill="rgb(49,172,185)" stroke="rgb(39,137,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg490_10)</title>
+			<polygon class=" (ctg490_10)" points="100,10 115,40 100,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>RES (PF08808)
+"RES domain"</title>
+				<polygon class="PF08808" points="100,28 105,28 111,40 105,52 100,52" stroke-linejoin="round" width="14" height="24" fill="rgb(73,184,112)" stroke="rgb(58,147,89)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg490_11)</title>
+			<polygon class=" (ctg490_11)" points="118,25 131,25 131,10 161,40 131,70 131,55 118,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ArsP_1 (PF03773)
+"Predicted permease"</title>
+				<polygon class="PF03773" points="118,28 144,28 155,39 155,41 144,52 118,52" stroke-linejoin="round" width="37" height="24" fill="rgb(103,196,76)" stroke="rgb(82,156,60)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg490_12)</title>
+			<polygon class=" (ctg490_12)" points="167,10 175,40 167,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg490_13)</title>
+			<polygon class=" (ctg490_13)" points="176,10 204,40 176,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF692 (PF05114)
+"Protein of unknown function (DUF692)"</title>
+				<polygon class="PF05114" points="176,28 188,28 200,40 188,52 176,52" stroke-linejoin="round" width="26" height="24" fill="rgb(63,196,127)" stroke="rgb(50,156,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg490_14)</title>
+			<polygon class=" (ctg490_14)" points="205,10 230,40 205,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2063 (PF09836)
+"Putative DNA-binding domain"</title>
+				<rect class="PF09836" x="205" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(88,194,190)" stroke="rgb(70,155,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg490_15)</title>
+			<polygon class=" (ctg490_15)" points="231,25 232,25 232,10 262,40 232,70 232,55 231,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lactamase_B (PF00753)
+"Metallo-beta-lactamase superfamily"</title>
+				<polygon class="PF00753" points="236,28 246,28 253,35 253,45 246,52 236,52" stroke-linejoin="round" width="17" height="24" fill="rgb(206,198,96)" stroke="rgb(164,158,76)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>BLACT_WH (PF17778)
+"Beta-lactamase associated winged helix domain"</title>
+				<polygon class="PF17778" points="257,39 258,40 257,41" stroke-linejoin="round" width="4" height="24" fill="rgb(178,57,86)" stroke="rgb(142,45,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg490_16)</title>
+			<polygon class=" (ctg490_16)" points="335,25 293,25 293,10 263,40 293,70 293,55 335,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HATPase_c (PF02518)
+"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"</title>
+				<polygon class="PF02518" points="267,40 275,32 275,48" stroke-linejoin="round" width="11" height="24" fill="rgb(80,94,225)" stroke="rgb(64,75,180)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HisKA (PF00512)
+"His Kinase A (phospho-acceptor) domain"</title>
+				<rect class="PF00512" x="280" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(193,125,62)" stroke="rgb(154,100,49)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg490_17)</title>
+			<polygon class=" (ctg490_17)" points="338,40 361,10 361,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Trans_reg_C (PF00486)
+"Transcriptional regulatory protein, C terminal"</title>
+				<polygon class="PF00486" points="342,40 345,36 345,44" stroke-linejoin="round" width="7" height="24" fill="rgb(204,153,57)" stroke="rgb(163,122,45)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<polygon class="PF00072" points="349,31 351,28 360,28 360,52 351,52 349,49" stroke-linejoin="round" width="11" height="24" fill="rgb(100,107,203)" stroke="rgb(80,85,162)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

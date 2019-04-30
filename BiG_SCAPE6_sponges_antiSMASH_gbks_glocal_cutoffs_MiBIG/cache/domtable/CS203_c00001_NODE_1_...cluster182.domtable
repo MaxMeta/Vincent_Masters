@@ -1,0 +1,23 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+LYTB                 PF02401.18   264 CS203_c00001_NODE_1_...cluster182_ORF2:gid::pid::loc:225:1164:strand:- -            312   2.7e-92  308.8   0.0   1   1   1.7e-96   3.1e-92  308.6   0.0     1   263     3   279     3   280 0.96 LytB protein
+SQS_PSY              PF00494.19   263 CS203_c00001_NODE_1_...cluster182_ORF3:gid::pid::loc:1179:2304:strand:- -            374   2.9e-51  174.5   0.4   1   1     2e-55   3.6e-51  174.2   0.4     2   262    22   312    21   313 0.86 Squalene/phytoene synthase
+MFS_1                PF07690.16   353 CS203_c00001_NODE_1_...cluster182_ORF4:gid::pid::loc:2300:3608:strand:- -            435   1.3e-29  103.2  49.2   1   1   7.4e-34   1.3e-29  103.2  49.2     1   353    10   370     9   370 0.85 Major Facilitator Superfamily
+sCache_3_2           PF17203.4    140 CS203_c00001_NODE_1_...cluster182_ORF5:gid::pid::loc:3623:4355:strand:- -            243   4.7e-11   43.0   0.0   1   1   4.2e-15   7.5e-11   42.3   0.0     3   137    34   157    32   159 0.88 Single cache domain 3
+Peripla_BP_6         PF13458.6    342 CS203_c00001_NODE_1_...cluster182_ORF6:gid::pid::loc:4354:5695:strand:- -            446   4.1e-60  204.2   0.0   1   1   8.1e-64   4.9e-60  204.0   0.0     2   341    64   433    63   434 0.88 Periplasmic binding protein
+ANF_receptor         PF01094.28   354 CS203_c00001_NODE_1_...cluster182_ORF6:gid::pid::loc:4354:5695:strand:- -            446   4.4e-09   35.9   0.0   1   1   8.7e-13   5.2e-09   35.7   0.0     7   251    88   340    82   387 0.80 Receptor family ligand binding region
+Peripla_BP_5         PF13433.6    364 CS203_c00001_NODE_1_...cluster182_ORF6:gid::pid::loc:4354:5695:strand:- -            446   1.7e-05   24.0   0.0   1   1   3.8e-09   2.3e-05   23.6   0.0    10   194    73   266    64   300 0.79 Periplasmic binding protein domain
+YtxH                 PF12732.7     75 CS203_c00001_NODE_1_...cluster182_ORF8:gid::pid::loc:7005:7200:strand:- -             64   3.9e-10   40.1   0.2   1   1   2.2e-14     4e-10   40.1   0.2     2    51     6    55     5    64 0.91 YtxH-like protein
+PhyH                 PF05721.13   211 CS203_c00001_NODE_1_...cluster182_ORF9:gid::pid::loc:7328:8105:strand:- -            258   3.2e-23   83.1   0.0   1   1   2.3e-27   4.1e-23   82.7   0.0     2   211    27   212    26   212 0.83 Phytanoyl-CoA dioxygenase (PhyH)
+NicO                 PF03824.16   283 CS203_c00001_NODE_1_...cluster182_ORF10:gid::pid::loc:8154:9048:strand:+ -            298   1.3e-19   70.7  15.6   1   1   6.1e-21   1.1e-16   61.0  15.6     4   266    60   288    56   298 0.74 High-affinity nickel-transport protein
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS203_c00001_NODE_1_...cluster182.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS203_c00001_NODE_1_...cluster182.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS203_c00001_NODE_1_...cluster182.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:47:44 2019
+# [ok]

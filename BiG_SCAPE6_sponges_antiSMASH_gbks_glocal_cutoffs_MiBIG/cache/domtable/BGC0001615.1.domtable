@@ -1,0 +1,27 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DHQ_synthase         PF01761.20   262 BGC0001615.1_ORF2:gid:mysA:pid:ANY58986.1:loc:1377:2607:strand:+ -            409     4e-58  196.7   0.0   1   1   5.8e-62   5.2e-58  196.3   0.0     4   245    83   332    80   347 0.94 3-dehydroquinate synthase
+Fe-ADH_2             PF13685.6    250 BGC0001615.1_ORF2:gid:mysA:pid:ANY58986.1:loc:1377:2607:strand:+ -            409   2.6e-11   43.7   0.0   1   1   4.2e-15   3.7e-11   43.2   0.0    17   164    46   201    32   254 0.79 Iron-containing alcohol dehydrogenase
+Methyltransf_3       PF01596.17   212 BGC0001615.1_ORF3:gid:mysB:pid:ANY58987.1:loc:2763:3654:strand:+ -            296   1.9e-49  167.7   0.0   1   1   4.6e-53   2.7e-49  167.2   0.0    20   211   108   294   101   295 0.92 O-methyltransferase
+Methyltransf_24      PF13578.6    106 BGC0001615.1_ORF3:gid:mysB:pid:ANY58987.1:loc:2763:3654:strand:+ -            296   9.2e-13   49.1   0.1   1   1   3.6e-16   2.1e-12   48.0   0.0     1   106   139   245   139   245 0.87 Methyltransferase domain
+ATP-grasp_3          PF02655.14   161 BGC0001615.1_ORF4:gid:mysC:pid:ANY58985.1:loc:3654:5046:strand:+ -            463   3.9e-06   27.0   0.1   1   1   6.7e-10   1.2e-05   25.4   0.1     3   158   184   347   182   350 0.73 ATP-grasp domain
+AMP-binding          PF00501.28   423 BGC0001615.1_ORF5:gid:mysE:pid:ANY58984.1:loc:5232:9219:strand:+ -           1328  1.2e-113  379.9   0.0   1   1  5.1e-117  1.8e-113  379.3   0.0     1   423   473   872   473   872 0.91 AMP-binding enzyme
+Condensation         PF00668.20   457 BGC0001615.1_ORF5:gid:mysE:pid:ANY58984.1:loc:5232:9219:strand:+ -           1328   3.1e-83  280.0   4.7   1   1   1.1e-86     4e-83  279.6   4.7     2   457    14   453    13   453 0.95 Condensation domain
+Thioesterase         PF00975.20   231 BGC0001615.1_ORF5:gid:mysE:pid:ANY58984.1:loc:5232:9219:strand:+ -           1328   1.3e-31  110.5   0.0   1   1   6.6e-35   2.4e-31  109.7   0.0     2   129  1070  1193  1069  1324 0.74 Thioesterase domain
+AMP-binding_C        PF13193.6     76 BGC0001615.1_ORF5:gid:mysE:pid:ANY58984.1:loc:5232:9219:strand:+ -           1328   1.5e-16   61.1   0.0   1   1   8.7e-20   3.1e-16   60.1   0.0     1    76   880   954   880   954 0.95 AMP-binding enzyme C-terminal domain
+PP-binding           PF00550.25    67 BGC0001615.1_ORF5:gid:mysE:pid:ANY58984.1:loc:5232:9219:strand:+ -           1328     5e-15   55.6   0.1   1   1   4.7e-18   1.7e-14   53.9   0.1     2    65   984  1045   983  1047 0.95 Phosphopantetheine attachment site
+adh_short_C2         PF13561.6    234 BGC0001615.1_ORF6:gid::pid:ANY58988.1:loc:9285:10167:strand:- -            293   3.3e-56  190.5   0.5   1   1   6.4e-60   3.8e-56  190.3   0.5     1   234    16   253    16   253 0.95 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.25   195 BGC0001615.1_ORF6:gid::pid:ANY58988.1:loc:9285:10167:strand:- -            293     4e-49  166.7   0.3   1   1   8.8e-53   5.3e-49  166.3   0.3     1   190    10   199    10   203 0.98 short chain dehydrogenase
+KR                   PF08659.10   180 BGC0001615.1_ORF6:gid::pid:ANY58988.1:loc:9285:10167:strand:- -            293   1.1e-05   25.4   0.2   1   1   2.7e-09   1.6e-05   24.9   0.2     4   160    13   169    11   186 0.88 KR domain
+Carot_N              PF09150.10   151 BGC0001615.1_ORF7:gid::pid:ANY58989.1:loc:10422:10914:strand:+ -            163   1.3e-61  206.9   0.0   1   1   8.2e-66   1.5e-61  206.7   0.0     7   150    10   155     4   156 0.97 Orange carotenoid protein, N-terminal
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001615.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001615.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001615.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:30:56 2019
+# [ok]

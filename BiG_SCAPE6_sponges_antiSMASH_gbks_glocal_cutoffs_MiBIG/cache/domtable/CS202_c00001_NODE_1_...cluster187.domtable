@@ -1,0 +1,18 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+LolA_like            PF17131.4    183 CS202_c00001_NODE_1_...cluster187_ORF1:gid::pid::loc:1:337:strand:+ -            111   8.8e-26   90.8   0.1   1   1   5.3e-30   9.5e-26   90.7   0.1    76   183     2   109     1   109 0.96 Outer membrane lipoprotein-sorting protein
+SQS_PSY              PF00494.19   263 CS202_c00001_NODE_1_...cluster187_ORF3:gid::pid::loc:1621:2749:strand:- -            375   2.2e-50  171.6   0.1   1   1   1.6e-54   2.8e-50  171.3   0.1     2   262    22   313    21   314 0.86 Squalene/phytoene synthase
+MFS_1                PF07690.16   353 CS202_c00001_NODE_1_...cluster187_ORF4:gid::pid::loc:2745:4053:strand:- -            435   1.2e-29  103.4  49.4   1   1   6.6e-34   1.2e-29  103.4  49.4     1   353    10   370     9   370 0.85 Major Facilitator Superfamily
+sCache_3_2           PF17203.4    140 CS202_c00001_NODE_1_...cluster187_ORF5:gid::pid::loc:4068:4800:strand:- -            243   5.4e-12   46.0   0.0   1   1     5e-16   8.9e-12   45.3   0.0     3   137    34   157    32   159 0.88 Single cache domain 3
+Peripla_BP_6         PF13458.6    342 CS202_c00001_NODE_1_...cluster187_ORF6:gid::pid::loc:4799:5669:strand:- -            289   2.5e-34  119.5   0.0   1   1   3.1e-38   2.8e-34  119.3   0.0    97   341     5   276     1   277 0.84 Periplasmic binding protein
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster187.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS202_c00001_NODE_1_...cluster187.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster187.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:33:46 2019
+# [ok]

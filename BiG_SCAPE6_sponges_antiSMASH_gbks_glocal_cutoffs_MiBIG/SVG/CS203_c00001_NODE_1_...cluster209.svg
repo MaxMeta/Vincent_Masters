@@ -1,0 +1,44 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="203.53333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="193.53333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg15553_1)</title>
+			<polygon class=" (ctg15553_1)" points="10,40 32,10 32,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg15553_2)</title>
+			<polygon class=" (ctg15553_2)" points="108,25 63,25 63,10 33,40 63,70 63,55 108,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YcaO (PF02624)
+"YcaO cyclodehydratase, ATP-ad Mg2+-binding"</title>
+				<polygon class="PF02624" points="37,40 49,28 69,28 69,52 49,52" stroke-linejoin="round" width="33" height="24" fill="rgb(76,84,185)" stroke="rgb(60,67,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg15553_3)</title>
+			<polygon class=" (ctg15553_3)" points="111,40 121,10 121,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NHase_alpha (PF02979)
+"Nitrile hydratase, alpha chain"</title>
+				<polygon class="PF02979" points="114,40 118,28 119,28 119,52 118,52" stroke-linejoin="round" width="6" height="24" fill="rgb(204,148,70)" stroke="rgb(163,118,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg15553_4)</title>
+			<polygon class=" (ctg15553_4)" points="127,10 135,40 127,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg15553_5)</title>
+			<polygon class=" (ctg15553_5)" points="136,25 154,25 154,10 184,40 154,70 154,55 136,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cupin_4 (PF08007)
+"Cupin superfamily protein"</title>
+				<polygon class="PF08007" points="145,28 168,28 175,35 175,45 168,52 145,52" stroke-linejoin="round" width="30" height="24" fill="rgb(100,90,217)" stroke="rgb(80,72,173)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg15553_6)</title>
+			<polygon class=" (ctg15553_6)" points="189,10 192,40 189,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

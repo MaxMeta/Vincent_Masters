@@ -1,0 +1,88 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="224.16666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="214.16666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (SSEG_05172)
+hypothetical protein</title>
+			<polygon class=" (SSEG_05172)
+hypothetical protein" points="10,10 15,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (SSEG_09672)
+predicted protein</title>
+			<polygon class=" (SSEG_09672)
+predicted protein" points="37,25 51,25 51,10 81,40 51,70 51,55 37,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Asn_synthase (PF00733)
+"Asparagine synthase"</title>
+				<polygon class="PF00733" points="40,28 64,28 76,40 64,52 40,52" stroke-linejoin="round" width="38" height="24" fill="rgb(97,201,176)" stroke="rgb(77,160,140)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SSEG_09673)
+hypothetical protein</title>
+			<polygon class=" (SSEG_09673)
+hypothetical protein" points="81,10 89,40 81,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PqqD (PF05402)
+"Coenzyme PQQ synthesis protein D (PqqD)"</title>
+				<polygon class="PF05402" points="82,28 82,28 86,40 82,52 82,52" stroke-linejoin="round" width="6" height="24" fill="rgb(124,62,188)" stroke="rgb(99,49,150)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SSEG_09674)
+hypothetical protein</title>
+			<polygon class=" (SSEG_09674)
+hypothetical protein" points="90,10 106,40 90,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Transglut_core3 (PF13471)
+"Transglutaminase-like superfamily"</title>
+				<polygon class="PF13471" points="92,28 96,28 103,40 103,40 96,52 92,52" stroke-linejoin="round" width="11" height="24" fill="rgb(63,111,179)" stroke="rgb(50,88,143)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SSEG_09675)
+ABC transporter ATP-binding protein</title>
+			<polygon class=" (SSEG_09675)
+ABC transporter ATP-binding protein" points="107,25 109,25 109,10 139,40 109,70 109,55 107,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<rect class="PF00005" x="109" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SSEG_05178)
+ABC transporter</title>
+			<polygon class=" (SSEG_05178)
+ABC transporter" points="139,10 168,40 139,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC2_membrane (PF01061)
+"ABC-2 type transporter"</title>
+				<polygon class="PF01061" points="142,28 152,28 163,39 163,41 152,52 142,52" stroke-linejoin="round" width="21" height="24" fill="rgb(139,217,106)" stroke="rgb(111,173,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SSEG_05179)
+DoxX family protein</title>
+			<polygon class=" (SSEG_05179)
+DoxX family protein" points="170,10 186,40 170,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MauE (PF07291)
+"Methylamine utilisation protein MauE"</title>
+				<polygon class="PF07291" points="170,28 176,28 182,40 176,52 170,52" stroke-linejoin="round" width="15" height="24" fill="rgb(177,83,181)" stroke="rgb(141,66,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (SSEG_05180)
+serine/threonine-protein kinase</title>
+			<polygon class=" (SSEG_05180)
+serine/threonine-protein kinase" points="186,10 213,40 186,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Thioredoxin_4 (PF13462)
+"Thioredoxin"</title>
+				<polygon class="PF13462" points="194,28 197,28 209,40 197,52 194,52" stroke-linejoin="round" width="18" height="24" fill="rgb(46,180,48)" stroke="rgb(36,144,38)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

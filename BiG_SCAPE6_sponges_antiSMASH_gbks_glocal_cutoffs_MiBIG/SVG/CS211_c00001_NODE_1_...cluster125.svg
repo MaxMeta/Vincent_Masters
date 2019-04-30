@@ -1,0 +1,115 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="458.3333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="448.3333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg3157_9)</title>
+			<polygon class=" (ctg3157_9)" points="80,40 107,10 107,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Hydrolase_3 (PF08282)
+"haloacid dehalogenase-like hydrolase"</title>
+				<polygon class="PF08282" points="84,40 95,28 106,28 106,52 95,52" stroke-linejoin="round" width="25" height="24" fill="rgb(195,74,128)" stroke="rgb(156,59,102)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3157_10)</title>
+			<polygon class=" (ctg3157_10)" points="112,25 126,25 126,10 156,40 126,70 126,55 112,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>UPF0052 (PF01933)
+"Uncharacterised protein family UPF0052"</title>
+				<polygon class="PF01933" points="123,28 139,28 151,40 151,40 139,52 123,52" stroke-linejoin="round" width="28" height="24" fill="rgb(163,205,51)" stroke="rgb(130,164,40)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3157_11)</title>
+			<polygon class=" (ctg3157_11)" points="190,25 187,25 187,10 157,40 187,70 187,55 190,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>polyprenyl_synt (PF00348)
+"Polyprenyl synthetase"</title>
+				<polygon class="PF00348" points="162,39 173,28 186,28 186,52 173,52 162,41" stroke-linejoin="round" width="24" height="24" fill="rgb(61,206,65)" stroke="rgb(48,164,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3157_12)</title>
+			<polygon class=" (ctg3157_12)" points="253,25 223,25 223,10 193,40 223,70 223,55 253,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Transketolase_C (PF02780)
+"Transketolase, C-terminal domain"</title>
+				<polygon class="PF02780" points="197,40 207,30 207,50" stroke-linejoin="round" width="12" height="24" fill="rgb(76,206,101)" stroke="rgb(60,164,80)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Transket_pyr (PF02779)
+"Transketolase, pyrimidine binding domain"</title>
+				<polygon class="PF02779" points="209,28 209,28 225,28 225,52 209,52 209,52" stroke-linejoin="round" width="16" height="24" fill="rgb(189,186,84)" stroke="rgb(151,148,67)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DXP_synthase_N (PF13292)
+"1-deoxy-D-xylulose-5-phosphate synthase"</title>
+				<rect class="PF13292" x="228" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(46,179,173)" stroke="rgb(36,143,138)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3157_13)</title>
+			<polygon class=" (ctg3157_13)" points="259,10 284,40 259,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short (PF00106)
+"short chain dehydrogenase"</title>
+				<polygon class="PF00106" points="259,28 270,28 277,37 277,43 270,52 259,52" stroke-linejoin="round" width="18" height="24" fill="rgb(182,219,73)" stroke="rgb(145,175,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3157_14)</title>
+			<polygon class=" (ctg3157_14)" points="317,25 314,25 314,10 284,40 314,70 314,55 317,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF3463 (PF11946)
+"Domain of unknown function (DUF3463)"</title>
+				<polygon class="PF11946" points="288,40 297,31 297,49" stroke-linejoin="round" width="13" height="24" fill="rgb(193,51,57)" stroke="rgb(154,40,45)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<polygon class="PF04055" points="299,29 300,28 314,28 314,52 300,52 299,51" stroke-linejoin="round" width="15" height="24" fill="rgb(149,56,222)" stroke="rgb(119,44,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3157_15)</title>
+			<polygon class=" (ctg3157_15)" points="320,40 328,10 328,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PemK_toxin (PF02452)
+"PemK-like, MazF-like toxin of type II toxin-antitoxin system"</title>
+				<polygon class="PF02452" points="323,40 327,28 328,28 328,52 327,52" stroke-linejoin="round" width="8" height="24" fill="rgb(81,193,221)" stroke="rgb(64,154,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3157_16)</title>
+			<polygon class=" (ctg3157_16)" points="331,40 338,10 338,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>RHH_1 (PF01402)
+"Ribbon-helix-helix protein, copG family"</title>
+				<polygon class="PF01402" points="334,40 337,28 337,28 337,52 337,52 334,40" stroke-linejoin="round" width="3" height="24" fill="rgb(104,197,67)" stroke="rgb(83,157,53)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3157_17)</title>
+			<polygon class=" (ctg3157_17)" points="406,25 373,25 373,10 343,40 373,70 373,55 406,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQHop_cyclase_C (PF13243)
+"Squalene-hopene cyclase C-terminal domain"</title>
+				<polygon class="PF13243" points="347,40 359,28 375,28 375,52 359,52" stroke-linejoin="round" width="31" height="24" fill="rgb(191,58,201)" stroke="rgb(152,46,160)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SQHop_cyclase_N (PF13249)
+"Squalene-hopene cyclase N-terminal domain"</title>
+				<rect class="PF13249" x="376" y="28" stroke-linejoin="round" width="28" height="24" fill="rgb(88,190,89)" stroke="rgb(70,152,71)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3157_18)</title>
+			<polygon class=" (ctg3157_18)" points="447,25 436,25 436,10 406,40 436,70 436,55 447,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amino_oxidase (PF01593)
+"Flavin containing amine oxidoreductase"</title>
+				<polygon class="PF01593" points="410,40 422,28 447,28 447,52 422,52" stroke-linejoin="round" width="40" height="24" fill="rgb(184,74,52)" stroke="rgb(147,59,41)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

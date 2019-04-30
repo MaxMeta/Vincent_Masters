@@ -1,0 +1,90 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="406.6333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="396.6333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg3614_4)</title>
+			<polygon class=" (ctg3614_4)" points="10,10 34,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TauE (PF01925)
+"Sulfite exporter TauE/SafE"</title>
+				<polygon class="PF01925" points="10,28 21,28 30,40 21,52 10,52" stroke-linejoin="round" width="23" height="24" fill="rgb(105,203,95)" stroke="rgb(84,162,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3614_5)</title>
+			<polygon class=" (ctg3614_5)" points="43,10 66,40 43,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CoA_trans (PF01144)
+"Coenzyme A transferase"</title>
+				<polygon class="PF01144" points="43,28 53,28 62,40 53,52 43,52" stroke-linejoin="round" width="21" height="24" fill="rgb(106,96,228)" stroke="rgb(84,76,182)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3614_6)</title>
+			<polygon class=" (ctg3614_6)" points="67,10 89,40 67,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CoA_trans (PF01144)
+"Coenzyme A transferase"</title>
+				<polygon class="PF01144" points="67,28 77,28 85,40 77,52 67,52" stroke-linejoin="round" width="19" height="24" fill="rgb(106,96,228)" stroke="rgb(84,76,182)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3614_7)</title>
+			<polygon class=" (ctg3614_7)" points="95,25 146,25 146,10 176,40 146,70 146,55 95,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FA_desaturase (PF00487)
+"Fatty acid desaturase"</title>
+				<rect class="PF00487" x="106" y="28" stroke-linejoin="round" width="23" height="24" fill="rgb(104,51,205)" stroke="rgb(83,40,164)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GlnE (PF03710)
+"Glutamate-ammonia ligase adenylyltransferase"</title>
+				<rect class="PF03710" x="140" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(81,188,126)" stroke="rgb(64,150,100)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3614_8)</title>
+			<polygon class=" (ctg3614_8)" points="176,25 223,25 223,10 253,40 223,70 223,55 176,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YcaO (PF02624)
+"YcaO cyclodehydratase, ATP-ad Mg2+-binding"</title>
+				<polygon class="PF02624" points="215,28 237,28 248,39 248,41 237,52 215,52" stroke-linejoin="round" width="33" height="24" fill="rgb(76,84,185)" stroke="rgb(60,67,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3614_9)</title>
+			<polygon class=" (ctg3614_9)" points="253,40 260,10 260,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3614_10)</title>
+			<polygon class=" (ctg3614_10)" points="265,40 290,10 290,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short_C2 (PF13561)
+"Enoyl-(Acyl carrier protein) reductase"</title>
+				<polygon class="PF13561" points="269,40 279,28 288,28 288,52 279,52" stroke-linejoin="round" width="23" height="24" fill="rgb(73,205,127)" stroke="rgb(58,164,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3614_11)</title>
+			<polygon class=" (ctg3614_11)" points="294,40 323,10 323,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pantoate_transf (PF02548)
+"Ketopantoate hydroxymethyltransferase"</title>
+				<polygon class="PF02548" points="298,40 310,28 316,28 316,52 310,52" stroke-linejoin="round" width="20" height="24" fill="rgb(103,209,182)" stroke="rgb(82,167,145)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3614_12)</title>
+			<polygon class=" (ctg3614_12)" points="340,10 350,40 340,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF393 (PF04134)
+"Protein of unknown function, DUF393"</title>
+				<polygon class="PF04134" points="340,28 342,28 347,40 342,52 340,52" stroke-linejoin="round" width="8" height="24" fill="rgb(151,216,64)" stroke="rgb(120,172,51)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3614_13)</title>
+			<polygon class=" (ctg3614_13)" points="358,25 365,25 365,10 395,40 365,70 365,55 358,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

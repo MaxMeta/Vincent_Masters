@@ -1,0 +1,73 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="272.6333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="262.6333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg11494_1)</title>
+			<polygon class=" (ctg11494_1)" points="86,25 40,25 40,10 10,40 40,70 40,55 86,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<polygon class="PF00501" points="14,40 26,28 30,28 30,52 26,52" stroke-linejoin="round" width="20" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Sterile (PF03015)
+"Male sterility protein"</title>
+				<rect class="PF03015" x="33" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(157,58,225)" stroke="rgb(125,46,180)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>NAD_binding_4 (PF07993)
+"Male sterility protein"</title>
+				<rect class="PF07993" x="51" y="28" stroke-linejoin="round" width="34" height="24" fill="rgb(100,212,204)" stroke="rgb(80,169,163)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11494_2)</title>
+			<polygon class=" (ctg11494_2)" points="89,40 93,10 93,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg11494_3)</title>
+			<polygon class=" (ctg11494_3)" points="96,25 96,25 96,10 126,40 96,70 96,55 96,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DAGK_cat (PF00781)
+"Diacylglycerol kinase catalytic domain"</title>
+				<rect class="PF00781" x="96" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(92,98,205)" stroke="rgb(73,78,164)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11494_4)</title>
+			<polygon class=" (ctg11494_4)" points="128,25 130,25 130,10 160,40 130,70 130,55 128,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MlaD (PF02470)
+"MlaD protein"</title>
+				<rect class="PF02470" x="131" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(219,201,73)" stroke="rgb(175,160,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11494_5)</title>
+			<polygon class=" (ctg11494_5)" points="160,10 185,40 160,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_trans_aux (PF03886)
+"ABC-type transport auxiliary lipoprotein component"</title>
+				<polygon class="PF03886" points="164,28 171,28 180,39 180,41 171,52 164,52" stroke-linejoin="round" width="16" height="24" fill="rgb(99,207,73)" stroke="rgb(79,165,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11494_6)</title>
+			<polygon class=" (ctg11494_6)" points="186,25 206,25 206,10 236,40 206,70 206,55 186,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF3078 (PF11276)
+"Protein of unknown function (DUF3078)"</title>
+				<rect class="PF11276" x="210" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(213,147,99)" stroke="rgb(170,117,79)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11494_7)</title>
+			<polygon class=" (ctg11494_7)" points="236,10 262,40 236,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MlaE (PF02405)
+"Permease MlaE"</title>
+				<polygon class="PF02405" points="250,31 258,40 250,49" stroke-linejoin="round" width="11" height="24" fill="rgb(56,97,187)" stroke="rgb(44,77,149)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

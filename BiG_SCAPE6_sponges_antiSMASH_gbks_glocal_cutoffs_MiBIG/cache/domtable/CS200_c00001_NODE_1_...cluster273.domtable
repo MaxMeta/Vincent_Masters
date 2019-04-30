@@ -1,0 +1,20 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Peripla_BP_6         PF13458.6    342 CS200_c00001_NODE_1_...cluster273_ORF1:gid::pid::loc:1:916:strand:+ -            304   1.1e-35  123.9   0.0   1   1   7.6e-40   1.4e-35  123.6   0.0    85   341     8   291     2   292 0.85 Periplasmic binding protein
+sCache_3_2           PF17203.4    140 CS200_c00001_NODE_1_...cluster273_ORF2:gid::pid::loc:915:1647:strand:+ -            243   5.6e-12   46.0   0.0   1   1     5e-16   8.9e-12   45.3   0.0     3   137    34   157    32   159 0.88 Single cache domain 3
+MFS_1                PF07690.16   353 CS200_c00001_NODE_1_...cluster273_ORF3:gid::pid::loc:1662:2970:strand:+ -            435   2.4e-30  105.7  50.3   1   1   1.3e-34   2.4e-30  105.7  50.3     1   353    10   370    10   370 0.86 Major Facilitator Superfamily
+SQS_PSY              PF00494.19   263 CS200_c00001_NODE_1_...cluster273_ORF4:gid::pid::loc:2966:4088:strand:+ -            373   7.9e-51  173.1   0.3   1   1   5.6e-55     1e-50  172.7   0.3     2   262    22   312    21   313 0.86 Squalene/phytoene synthase
+LYTB                 PF02401.18   264 CS200_c00001_NODE_1_...cluster273_ORF5:gid::pid::loc:4103:5042:strand:+ -            312   6.4e-92  307.5   0.0   1   1   4.1e-96   7.3e-92  307.4   0.0     1   263     3   279     3   280 0.96 LytB protein
+AAA_23               PF13476.6    200 CS200_c00001_NODE_1_...cluster273_ORF6:gid::pid::loc:5125:5806:strand:+ -            227     3e-08   34.4   0.0   1   1   3.4e-12     3e-08   34.4   0.0     2    41    16    55    15   157 0.91 AAA domain
+AAA_21               PF13304.6    303 CS200_c00001_NODE_1_...cluster273_ORF6:gid::pid::loc:5125:5806:strand:+ -            227   7.4e-07   29.3   0.0   1   1   1.2e-10   1.1e-06   28.8   0.0     1    26    35    68    35   114 0.74 AAA domain, putative AbiEii toxin, Type IV TA system
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS200_c00001_NODE_1_...cluster273.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS200_c00001_NODE_1_...cluster273.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS200_c00001_NODE_1_...cluster273.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:31:20 2019
+# [ok]

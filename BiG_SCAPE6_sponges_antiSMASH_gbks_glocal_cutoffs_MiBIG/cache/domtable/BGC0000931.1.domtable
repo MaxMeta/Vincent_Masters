@@ -1,0 +1,18 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+LIP                  PF03583.14   286 BGC0000931.1_ORF1:gid:Tri8:pid:AAK53582.1:loc:7:1345:strand:- -            445   5.3e-61  206.5   0.1   1   1   3.9e-65     7e-61  206.1   0.1     7   284   129   410   125   412 0.89 Secretory lipase
+Tri3                 PF07428.11   408 BGC0000931.1_ORF2:gid:Tri3:pid:AAK53583.1:loc:4282:6050:strand:+ -            511  4.9e-161  536.2   0.0   1   1  3.2e-165  5.8e-161  536.0   0.0     1   408     8   415     8   415 0.97 15-O-acetyltransferase Tri3
+p450                 PF00067.22   463 BGC0000931.1_ORF3:gid:Tri4:pid:AAK53584.1:loc:6996:8738:strand:- -            520   1.2e-54  185.9   0.0   1   1   9.1e-59   1.6e-54  185.4   0.0    18   450    66   492    47   502 0.77 Cytochrome P450
+TRI5                 PF06330.11   362 BGC0000931.1_ORF5:gid:Tri5:pid:AAK53586.1:loc:13449:14636:strand:+ -            375  3.4e-205  680.9   6.2   1   1  2.3e-209  4.1e-205  680.6   6.2     1   354     3   358     3   364 0.99 Trichodiene synthase (TRI5)
+p450                 PF00067.22   463 BGC0000931.1_ORF6:gid:Tri11:pid:AAK53587.1:loc:18545:20286:strand:- -            492   5.5e-67  226.5   0.0   1   1   3.4e-71   6.2e-67  226.3   0.0    19   459    56   485    33   489 0.88 Cytochrome P450
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000931.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000931.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000931.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:55:17 2019
+# [ok]

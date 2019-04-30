@@ -1,0 +1,35 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="212.4" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="202.4" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg4020_1)</title>
+			<polygon class=" (ctg4020_1)" points="10,40 21,10 21,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg4020_2)</title>
+			<polygon class=" (ctg4020_2)" points="26,10 35,40 26,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg4020_3)</title>
+			<polygon class=" (ctg4020_3)" points="74,25 63,25 63,10 33,40 63,70 63,55 74,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg4020_4)</title>
+			<polygon class=" (ctg4020_4)" points="154,25 106,25 106,10 76,40 106,70 106,55 154,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YcaO (PF02624)
+"YcaO cyclodehydratase, ATP-ad Mg2+-binding"</title>
+				<polygon class="PF02624" points="80,40 92,28 113,28 113,52 92,52" stroke-linejoin="round" width="34" height="24" fill="rgb(76,84,185)" stroke="rgb(60,67,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4020_5)</title>
+			<polygon class=" (ctg4020_5)" points="199,25 185,25 185,10 155,40 185,70 185,55 199,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FAD_binding_4 (PF01565)
+"FAD binding domain"</title>
+				<rect class="PF01565" x="182" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(226,88,136)" stroke="rgb(180,70,108)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

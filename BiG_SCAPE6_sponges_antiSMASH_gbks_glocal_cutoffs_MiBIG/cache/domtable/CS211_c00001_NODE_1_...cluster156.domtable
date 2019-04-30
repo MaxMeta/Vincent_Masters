@@ -1,0 +1,28 @@
+#                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ketoacyl-synt        PF00109.26   253 CS211_c00001_NODE_1_...cluster156_ORF1:gid::pid::loc:1:2668:strand:- -            889   2.6e-77  259.8   2.1   1   1   1.7e-80     6e-77  258.6   0.1     2   253     3   255     2   255 0.91 Beta-ketoacyl synthase, N-terminal domain
+Acyl_transf_1        PF00698.21   319 CS211_c00001_NODE_1_...cluster156_ORF1:gid::pid::loc:1:2668:strand:- -            889   5.4e-58  197.0   0.0   1   1   2.3e-61   8.3e-58  196.4   0.0     2   271   572   851   571   874 0.93 Acyl transferase domain
+Ketoacyl-synt_C      PF02801.22   118 CS211_c00001_NODE_1_...cluster156_ORF1:gid::pid::loc:1:2668:strand:- -            889   4.2e-43  146.1   0.1   1   1     3e-46   1.1e-42  144.8   0.1     2   117   264   380   263   381 0.99 Beta-ketoacyl synthase, C-terminal domain
+KAsynt_C_assoc       PF16197.5    112 CS211_c00001_NODE_1_...cluster156_ORF1:gid::pid::loc:1:2668:strand:- -            889   3.6e-10   40.3   0.0   1   1   4.1e-13   1.5e-09   38.3   0.0     1    91   383   508   383   527 0.81 Ketoacyl-synthetase C-terminal extension
+Oxidored_FMN         PF00724.20   342 CS211_c00001_NODE_1_...cluster156_ORF2:gid::pid::loc:2863:4858:strand:- -            664   6.4e-58  196.6   0.0   1   1   1.1e-54   2.3e-51  175.1   0.0    67   341    85   355    78   356 0.83 NADH:flavin oxidoreductase / NADH oxidase family
+Pyr_redox_2          PF07992.14   294 CS211_c00001_NODE_1_...cluster156_ORF2:gid::pid::loc:2863:4858:strand:- -            664     5e-18   65.3   1.1   1   1   7.7e-21   1.5e-17   63.7   1.1     2   248   400   631   399   641 0.73 Pyridine nucleotide-disulphide oxidoreductase
+HI0933_like          PF03486.14   409 CS211_c00001_NODE_1_...cluster156_ORF2:gid::pid::loc:2863:4858:strand:- -            664   3.1e-07   29.4   0.2   1   1   1.4e-08   2.8e-05   23.0   0.4     2    40   400   438   399   440 0.92 HI0933-like protein
+FAD_oxidored         PF12831.7    433 CS211_c00001_NODE_1_...cluster156_ORF2:gid::pid::loc:2863:4858:strand:- -            664   7.5e-07   28.8   0.3   1   1   6.1e-10   1.2e-06   28.2   0.3     2    38   401   437   400   467 0.93 FAD dependent oxidoreductase
+FAD_binding_2        PF00890.24   417 CS211_c00001_NODE_1_...cluster156_ORF2:gid::pid::loc:2863:4858:strand:- -            664   5.8e-05   22.3   2.2   1   1   5.3e-08    0.0001   21.5   1.3     2    37   401   436   400   439 0.94 FAD binding domain
+YscW                 PF09619.10   107 CS211_c00001_NODE_1_...cluster156_ORF5:gid::pid::loc:6685:7840:strand:+ -            384   4.7e-32  110.5   0.0   1   1   5.8e-36     1e-31  109.4   0.0     2   106    43   147    42   148 0.96 Type III secretion system lipoprotein chaperone (YscW)
+GPP34                PF05719.11   203 CS211_c00001_NODE_1_...cluster156_ORF6:gid::pid::loc:7968:8622:strand:+ -            217   7.2e-40  137.2   1.1   1   1   4.6e-44   8.2e-40  137.0   1.1     3   202     6   202     4   203 0.94 Golgi phosphoprotein 3 (GPP34)
+SnoaL_4              PF13577.6    127 CS211_c00001_NODE_1_...cluster156_ORF8:gid::pid::loc:9296:9830:strand:+ -            177   2.5e-23   82.6   3.4   1   1   2.1e-27   3.9e-23   82.0   3.4     2   127    12   129    11   129 0.93 SnoaL-like domain
+DUF5343              PF17278.2    139 CS211_c00001_NODE_1_...cluster156_ORF9:gid::pid::loc:10180:10870:strand:+ -            229   9.1e-18   64.7   0.0   1   1   6.9e-22   1.2e-17   64.3   0.0     1   133     8   137     8   142 0.95 Family of unknown function (DUF5343)
+Bac_luciferase       PF00296.20   314 CS211_c00001_NODE_1_...cluster156_ORF10:gid::pid::loc:11070:12219:strand:- -            382     1e-49  169.7   2.2   1   1   7.2e-54   1.3e-49  169.4   2.2    16   313    21   341    11   342 0.87 Luciferase-like monooxygenase
+SnoaL_4              PF13577.6    127 CS211_c00001_NODE_1_...cluster156_ORF11:gid::pid::loc:12249:12738:strand:- -            162   7.1e-23   81.1   1.0   1   1   4.7e-27   8.4e-23   80.9   1.0     2   125    17   140    16   142 0.91 SnoaL-like domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster156.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS211_c00001_NODE_1_...cluster156.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster156.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:30:06 2019
+# [ok]

@@ -1,0 +1,172 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="579.0666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="569.0666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg1733_1)</title>
+			<polygon class=" (ctg1733_1)" points="10,40 14,10 14,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1733_2)</title>
+			<polygon class=" (ctg1733_2)" points="16,25 53,25 53,10 83,40 53,70 53,55 16,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AAA_15 (PF13175)
+"AAA ATPase domain"</title>
+				<rect class="PF13175" x="16" y="28" stroke-linejoin="round" width="39" height="24" fill="rgb(98,206,213)" stroke="rgb(78,164,170)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1733_3)</title>
+			<polygon class=" (ctg1733_3)" points="87,40 115,10 115,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1733_4)</title>
+			<polygon class=" (ctg1733_4)" points="117,10 121,40 117,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1733_5)</title>
+			<polygon class=" (ctg1733_5)" points="121,10 125,40 121,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1733_6)</title>
+			<polygon class=" (ctg1733_6)" points="174,25 159,25 159,10 129,40 159,70 159,55 174,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amino_oxidase (PF01593)
+"Flavin containing amine oxidoreductase"</title>
+				<polygon class="PF01593" points="133,40 145,28 173,28 173,52 145,52" stroke-linejoin="round" width="43" height="24" fill="rgb(184,74,52)" stroke="rgb(147,59,41)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1733_7)</title>
+			<polygon class=" (ctg1733_7)" points="175,40 204,10 204,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="179,40 191,28 202,28 202,52 191,52" stroke-linejoin="round" width="25" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1733_8)</title>
+			<polygon class=" (ctg1733_8)" points="235,25 235,25 235,10 205,40 235,70 235,55 235,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="209,40 221,28 231,28 231,52 221,52" stroke-linejoin="round" width="25" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1733_9)</title>
+			<polygon class=" (ctg1733_9)" points="240,25 248,25 248,10 278,40 248,70 248,55 240,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acyl-CoA_dh_N (PF02771)
+"Acyl-CoA dehydrogenase, N-terminal domain"</title>
+				<rect class="PF02771" x="241" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(105,135,218)" stroke="rgb(84,108,174)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl-CoA_dh_M (PF02770)
+"Acyl-CoA dehydrogenase, middle domain"</title>
+				<rect class="PF02770" x="252" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(225,186,97)" stroke="rgb(180,148,77)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl-CoA_dh_1 (PF00441)
+"Acyl-CoA dehydrogenase, C-terminal domain"</title>
+				<polygon class="PF00441" points="263,29 274,40 263,51" stroke-linejoin="round" width="14" height="24" fill="rgb(85,191,117)" stroke="rgb(68,152,93)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1733_10)</title>
+			<polygon class=" (ctg1733_10)" points="279,40 300,10 300,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FAA_hydrolase (PF01557)
+"Fumarylacetoacetate (FAA) hydrolase family"</title>
+				<polygon class="PF01557" points="283,40 292,28 298,28 298,52 292,52" stroke-linejoin="round" width="19" height="24" fill="rgb(71,203,125)" stroke="rgb(56,162,100)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1733_11)</title>
+			<polygon class=" (ctg1733_11)" points="302,10 308,40 302,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1733_12)</title>
+			<polygon class=" (ctg1733_12)" points="340,25 337,25 337,10 307,40 337,70 337,55 340,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GFO_IDH_MocA (PF01408)
+"Oxidoreductase family, NAD-binding Rossmann fold"</title>
+				<rect class="PF01408" x="328" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(76,117,190)" stroke="rgb(60,93,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1733_13)</title>
+			<polygon class=" (ctg1733_13)" points="341,40 359,10 359,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acetyltransf_1 (PF00583)
+"Acetyltransferase (GNAT) family"</title>
+				<polygon class="PF00583" points="344,40 351,28 354,28 354,52 351,52" stroke-linejoin="round" width="11" height="24" fill="rgb(121,183,50)" stroke="rgb(96,146,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1733_14)</title>
+			<polygon class=" (ctg1733_14)" points="359,40 362,10 362,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1733_15)</title>
+			<polygon class=" (ctg1733_15)" points="371,10 395,40 371,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Uma2 (PF05685)
+"Putative restriction endonuclease"</title>
+				<polygon class="PF05685" points="373,28 381,28 388,36 388,44 381,52 373,52" stroke-linejoin="round" width="15" height="24" fill="rgb(123,107,219)" stroke="rgb(98,85,175)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1733_16)</title>
+			<polygon class=" (ctg1733_16)" points="397,10 422,40 397,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LamB_YcsF (PF03746)
+"LamB/YcsF family"</title>
+				<polygon class="PF03746" points="397,28 408,28 418,40 408,52 397,52" stroke-linejoin="round" width="23" height="24" fill="rgb(225,96,106)" stroke="rgb(180,76,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1733_17)</title>
+			<polygon class=" (ctg1733_17)" points="422,40 434,10 434,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1733_18)</title>
+			<polygon class=" (ctg1733_18)" points="435,40 442,10 442,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1733_19)</title>
+			<polygon class=" (ctg1733_19)" points="446,40 465,10 465,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1733_20)</title>
+			<polygon class=" (ctg1733_20)" points="465,10 484,40 465,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CT_A_B (PF02626)
+"Carboxyltransferase domain, subdomain A and B"</title>
+				<polygon class="PF02626" points="465,28 473,28 475,32 475,48 473,52 465,52" stroke-linejoin="round" width="10" height="24" fill="rgb(209,84,216)" stroke="rgb(167,67,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1733_21)</title>
+			<polygon class=" (ctg1733_21)" points="487,10 500,40 487,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1733_22)</title>
+			<polygon class=" (ctg1733_22)" points="499,40 507,10 507,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1733_23)</title>
+			<polygon class=" (ctg1733_23)" points="513,25 518,25 518,10 548,40 518,70 518,55 513,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ApbA (PF02558)
+"Ketopantoate reductase PanE/ApbA"</title>
+				<rect class="PF02558" x="513" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(91,128,221)" stroke="rgb(72,102,176)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ApbA_C (PF08546)
+"Ketopantoate reductase PanE/ApbA C terminal"</title>
+				<polygon class="PF08546" points="531,28 531,28 543,40 531,52 531,52" stroke-linejoin="round" width="14" height="24" fill="rgb(188,163,68)" stroke="rgb(150,130,54)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,33 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Response_reg         PF00072.24   112 BGC0001674.1_ORF1:gid::pid:SFF02396.1:loc:0:675:strand:- -            224   1.8e-23   82.8   0.0   1   1   3.1e-27   2.8e-23   82.2   0.0     1   111     7   120     7   121 0.96 Response regulator receiver domain
+GerE                 PF00196.19    57 BGC0001674.1_ORF1:gid::pid:SFF02396.1:loc:0:675:strand:- -            224     1e-17   63.4   0.2   1   1   1.9e-21   1.7e-17   62.7   0.2     3    57   158   212   156   212 0.97 Bacterial regulatory proteins, luxR family
+PGA_cap              PF09587.10   257 BGC0001674.1_ORF2:gid::pid:SFF02417.1:loc:764:2087:strand:- -            440   8.3e-59  199.1   0.0   1   1   5.9e-63   1.1e-58  198.8   0.0     1   256     5   318     5   319 0.90 Bacterial capsule synthesis protein PGA_cap
+Thioredoxin_4        PF13462.6    166 BGC0001674.1_ORF3:gid::pid:SFF02446.1:loc:2083:2815:strand:- -            243   1.7e-19   70.5   0.0   1   1   2.7e-23   2.5e-19   70.1   0.0    15   152    78   224    73   238 0.86 Thioredoxin
+DSBA                 PF01323.20   193 BGC0001674.1_ORF3:gid::pid:SFF02446.1:loc:2083:2815:strand:- -            243   2.9e-11   43.5   0.0   1   1   5.1e-14   4.6e-10   39.6   0.0     1   187    79   233    79   238 0.91 DSBA-like thioredoxin domain
+MauE                 PF07291.11   184 BGC0001674.1_ORF4:gid::pid:SFF02470.1:loc:2817:3342:strand:- -            174   4.2e-15   56.0   9.8   1   1   1.3e-18   1.2e-14   54.5  10.2    11   111    27   126    22   157 0.90 Methylamine utilisation protein MauE
+DoxX                 PF07681.12    85 BGC0001674.1_ORF4:gid::pid:SFF02470.1:loc:2817:3342:strand:- -            174   1.7e-07   31.7  11.3   1   1   3.5e-11   3.1e-07   30.9  11.3     2    79    26   104    25   111 0.86 DoxX
+ABC2_membrane        PF01061.24   210 BGC0001674.1_ORF5:gid::pid:SFF02493.1:loc:3362:4232:strand:- -            289   3.4e-35  121.4  12.2   1   1   7.5e-39   4.5e-35  121.0  12.2     4   208    32   240    29   241 0.92 ABC-2 type transporter
+ABC2_membrane_3      PF12698.7    345 BGC0001674.1_ORF5:gid::pid:SFF02493.1:loc:3362:4232:strand:- -            289   4.2e-15   55.7   9.2   1   1   8.8e-19   5.2e-15   55.4   9.2   153   344    76   282    53   283 0.89 ABC-2 family transporter protein
+ABC_tran             PF00005.27   137 BGC0001674.1_ORF6:gid::pid:SFF02515.1:loc:4228:5194:strand:- -            321   6.5e-28   98.0   0.0   1   1   1.1e-31   9.7e-28   97.4   0.0     2   136    20   162    19   163 0.89 ABC transporter
+AAA_21               PF13304.6    303 BGC0001674.1_ORF6:gid::pid:SFF02515.1:loc:4228:5194:strand:- -            321   2.2e-11   44.1   2.6   1   1   1.8e-12   1.6e-08   34.7   0.2   197   298    92   194    72   197 0.86 AAA domain, putative AbiEii toxin, Type IV TA system
+Transglut_core3      PF13471.6    117 BGC0001674.1_ORF7:gid::pid:SFF02531.1:loc:5190:5682:strand:- -            163   4.3e-25   87.9   6.0   1   1   3.5e-29   6.3e-25   87.4   6.0     5   115    25   131    22   133 0.94 Transglutaminase-like superfamily
+PqqD                 PF05402.12    67 BGC0001674.1_ORF8:gid::pid:SFF02555.1:loc:5678:5942:strand:- -             87   1.6e-10   41.1   0.0   1   1   1.1e-14   1.9e-10   40.8   0.0     2    67    18    83    17    83 0.93 Coenzyme PQQ synthesis protein D (PqqD)
+Asn_synthase         PF00733.21   355 BGC0001674.1_ORF9:gid::pid:SFF02575.1:loc:5938:7780:strand:- -            613   1.9e-36  126.5   0.0   1   1   1.3e-40   2.3e-36  126.2   0.0     2   355   205   593   204   593 0.82 Asparagine synthase
+ABC2_membrane_4      PF12730.7    179 BGC0001674.1_ORF11:gid::pid:SFF02612.1:loc:8096:8849:strand:- -            250     2e-09   37.7   0.8   1   1   3.3e-13     3e-09   37.1   0.8     2   173     8   184     7   197 0.64 ABC-2 family transporter protein
+ABC2_membrane_2      PF12679.7    288 BGC0001674.1_ORF11:gid::pid:SFF02612.1:loc:8096:8849:strand:- -            250   2.7e-07   30.2  19.7   1   1   1.8e-10   1.6e-06   27.6  19.7    85   244    71   227    22   249 0.77 ABC-2 family transporter protein
+ABC_tran             PF00005.27   137 BGC0001674.1_ORF12:gid::pid:SFF02632.1:loc:8841:9789:strand:- -            315   1.3e-25   90.5   0.0   1   1   1.9e-29   1.7e-25   90.1   0.0     2   137    18   156    17   156 0.94 ABC transporter
+AAA_21               PF13304.6    303 BGC0001674.1_ORF12:gid::pid:SFF02632.1:loc:8841:9789:strand:- -            315   6.3e-12   45.9   0.1   1   1     1e-11   9.1e-08   32.3   0.0   237   297   128   185    91   191 0.91 AAA domain, putative AbiEii toxin, Type IV TA system
+HisKA_3              PF07730.13    68 BGC0001674.1_ORF13:gid::pid:SFF02653.1:loc:9935:11069:strand:- -            377   7.1e-17   61.7   4.1   1   1   3.9e-21   7.1e-17   61.7   4.1     1    65   176   240   176   243 0.97 Histidine kinase
+GerE                 PF00196.19    57 BGC0001674.1_ORF14:gid::pid:SFF02673.1:loc:11220:11913:strand:+ -            230   4.7e-20   70.9   0.2   1   1   4.1e-24   7.3e-20   70.3   0.2     2    56   158   212   157   213 0.96 Bacterial regulatory proteins, luxR family
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001674.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001674.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001674.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:40:48 2019
+# [ok]

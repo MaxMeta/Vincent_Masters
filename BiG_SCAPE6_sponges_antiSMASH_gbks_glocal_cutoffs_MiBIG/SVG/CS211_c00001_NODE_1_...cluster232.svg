@@ -1,0 +1,55 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="215.23333333333332" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="205.23333333333332" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg12997_2)</title>
+			<polygon class=" (ctg12997_2)" points="28,40 44,10 44,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SspB (PF04386)
+"Stringent starvation protein B"</title>
+				<polygon class="PF04386" points="31,40 38,28 42,28 42,52 38,52" stroke-linejoin="round" width="14" height="24" fill="rgb(94,217,197)" stroke="rgb(75,173,157)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg12997_3)</title>
+			<polygon class=" (ctg12997_3)" points="58,10 84,40 58,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1849 (PF08904)
+"Domain of unknown function (DUF1849)"</title>
+				<polygon class="PF08904" points="60,28 69,28 80,40 69,52 60,52" stroke-linejoin="round" width="24" height="24" fill="rgb(192,114,54)" stroke="rgb(153,91,43)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg12997_4)</title>
+			<polygon class=" (ctg12997_4)" points="92,25 140,25 140,10 170,40 140,70 140,55 92,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MMPL (PF03176)
+"MMPL family"</title>
+				<rect class="PF03176" x="97" y="28" stroke-linejoin="round" width="36" height="24" fill="rgb(228,109,193)" stroke="rgb(182,87,154)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MMPL (PF03176)
+"MMPL family"</title>
+				<polygon class="PF03176" points="147,28 154,28 166,40 154,52 147,52" stroke-linejoin="round" width="23" height="24" fill="rgb(228,109,193)" stroke="rgb(182,87,154)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg12997_5)</title>
+			<polygon class=" (ctg12997_5)" points="176,10 184,40 176,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NHase_alpha (PF02979)
+"Nitrile hydratase, alpha chain"</title>
+				<polygon class="PF02979" points="177,28 177,28 181,40 177,52 177,52" stroke-linejoin="round" width="6" height="24" fill="rgb(204,148,70)" stroke="rgb(163,118,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg12997_6)</title>
+			<polygon class=" (ctg12997_6)" points="190,40 204,10 204,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cys_Met_Meta_PP (PF01053)
+"Cys/Met metabolism PLP-dependent enzyme"</title>
+				<polygon class="PF01053" points="193,40 199,28 204,28 204,52 199,52" stroke-linejoin="round" width="13" height="24" fill="rgb(142,222,85)" stroke="rgb(113,177,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,32 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SnoaL                PF07366.12   126 BGC0001364.1_ORF1:gid::pid:WP_019631317.1:loc:3:417:strand:- -            137     5e-18   65.1   1.0   1   1   7.4e-22   6.6e-18   64.7   1.0     5   126    18   135    15   135 0.92 SnoaL-like polyketide cyclase
+SnoaL_2              PF12680.7    102 BGC0001364.1_ORF1:gid::pid:WP_019631317.1:loc:3:417:strand:- -            137   1.8e-17   63.8   4.2   1   1   2.5e-21   2.2e-17   63.6   4.2     2   102    18   122    17   122 0.96 SnoaL-like domain
+HTH_17               PF12728.7     51 BGC0001364.1_ORF5:gid::pid:WP_026341366.1:loc:3176:3605:strand:+ -            142   1.2e-17   63.9   0.9   1   1   1.6e-21   2.9e-17   62.6   0.4     1    47     5    51     5    53 0.97 Helix-turn-helix domain
+DUF4180              PF13788.6    112 BGC0001364.1_ORF6:gid::pid:WP_019631322.1:loc:3597:3969:strand:+ -            123   2.1e-39  133.9   0.0   1   1   1.3e-43   2.3e-39  133.8   0.0     2   112     9   118     8   118 0.98 Domain of unknown function (DUF4180)
+NAD_binding_10       PF13460.6    184 BGC0001364.1_ORF8:gid::pid:WP_019631324.1:loc:4533:5367:strand:- -            277   4.6e-24   85.3   1.0   1   1   8.2e-28   7.3e-24   84.7   1.0     1   182     7   175     7   177 0.84 NAD(P)H-binding
+NmrA                 PF05368.13   233 BGC0001364.1_ORF8:gid::pid:WP_019631324.1:loc:4533:5367:strand:- -            277   5.1e-12   45.9   0.0   1   1   8.6e-16   7.7e-12   45.3   0.0     1   230     3   210     3   213 0.81 NmrA-like family
+HTH_31               PF13560.6     64 BGC0001364.1_ORF9:gid::pid::loc:5460:6323:strand:+ -            136     3e-17   62.7   7.9   1   1   6.1e-21   5.5e-17   61.9   7.9     1    64     5    84     5    84 0.98 Helix-turn-helix domain
+HTH_3                PF01381.22    55 BGC0001364.1_ORF9:gid::pid::loc:5460:6323:strand:+ -            136   1.6e-05   24.9   0.0   1   1   2.5e-09   2.2e-05   24.4   0.0     9    54    34    80    29    81 0.93 Helix-turn-helix
+Glu_dehyd_C          PF16912.5    212 BGC0001364.1_ORF12:gid::pid:WP_019631328.1:loc:7967:9017:strand:- -            349   1.1e-55  188.4   0.0   1   1   1.6e-59   1.5e-55  188.0   0.0     2   212   146   347   145   347 0.96 Glucose dehydrogenase C-terminus
+ADH_N                PF08240.12   109 BGC0001364.1_ORF12:gid::pid:WP_019631328.1:loc:7967:9017:strand:- -            349   1.1e-11   44.5   0.0   1   1   1.9e-15   1.7e-11   43.9   0.0     2   107    27   138    26   140 0.84 Alcohol dehydrogenase GroES-like domain
+ABC_tran             PF00005.27   137 BGC0001364.1_ORF13:gid::pid::loc:10142:11099:strand:- -            319   3.5e-32  111.8   0.0   1   1   5.1e-36   4.5e-32  111.4   0.0     2   136    33   175    32   176 0.96 ABC transporter
+AAA_21               PF13304.6    303 BGC0001364.1_ORF13:gid::pid::loc:10142:11099:strand:- -            319   4.1e-10   40.0   0.8   1   1   8.7e-11   7.8e-07   29.2   0.0   234   297   145   206   114   209 0.87 AAA domain, putative AbiEii toxin, Type IV TA system
+Nif11                PF07862.11    48 BGC0001364.1_ORF14:gid::pid:WP_019631330.1:loc:11101:12010:strand:- -            302   4.2e-08   33.4   0.0   1   1   4.1e-12   7.3e-08   32.6   0.0     1    48     1    48     1    48 0.99 Nif11 domain
+DUF4135              PF13575.6    375 BGC0001364.1_ORF15:gid::pid:WP_019631331.1:loc:12026:15248:strand:- -           1073   7.1e-66  223.0   0.0   1   1   1.1e-69   9.7e-66  222.6   0.0     1   374   239   613   239   614 0.87 Domain of unknown function (DUF4135)
+LANC_like            PF05147.13   352 BGC0001364.1_ORF15:gid::pid:WP_019631331.1:loc:12026:15248:strand:- -           1073   2.1e-59  200.9   0.0   1   1   3.2e-63   2.9e-59  200.4   0.0     4   352   717  1064   715  1064 0.93 Lanthionine synthetase C-like protein
+Peripla_BP_3         PF13377.6    166 BGC0001364.1_ORF18:gid::pid:WP_019631334.1:loc:16576:17587:strand:- -            336   1.1e-38  133.2   2.9   1   1   2.6e-42   1.2e-38  133.1   1.0     1   165   178   335   178   336 0.90 Periplasmic binding protein-like domain
+Peripla_BP_1         PF00532.21   279 BGC0001364.1_ORF18:gid::pid:WP_019631334.1:loc:16576:17587:strand:- -            336     2e-28   99.6   0.0   1   1   5.6e-32   2.5e-28   99.3   0.0     2   269    66   325    65   334 0.86 Periplasmic binding proteins and sugar binding domain of LacI family
+Peripla_BP_4         PF13407.6    258 BGC0001364.1_ORF18:gid::pid:WP_019631334.1:loc:16576:17587:strand:- -            336   1.4e-19   70.7   0.0   1   1   5.5e-23   2.5e-19   69.9   0.0    45   257   115   317    79   318 0.85 Periplasmic binding protein domain
+LacI                 PF00356.21    46 BGC0001364.1_ORF18:gid::pid:WP_019631334.1:loc:16576:17587:strand:- -            336     6e-17   61.2   0.2   1   1   2.6e-20   1.2e-16   60.3   0.2     1    46     9    54     9    54 0.99 Bacterial regulatory proteins, lacI family
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001364.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001364.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001364.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:49:11 2019
+# [ok]

@@ -1,0 +1,250 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1657.6666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="1647.6666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>orf1
+hypothetical protein</title>
+			<polygon class="orf1
+hypothetical protein" points="75,25 41,25 41,10 11,40 41,70 41,55 75,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>orf2
+hypothetical protein</title>
+			<polygon class="orf2
+hypothetical protein" points="88,25 101,25 101,10 131,40 101,70 101,55 88,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>ptaA
+PtaA</title>
+			<polygon class="ptaA
+PtaA" points="333,25 176,25 176,10 146,40 176,70 176,55 333,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="159,31 162,28 165,28 165,52 162,52 159,49" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PS-DH (PF14765)
+"Polyketide synthase dehydratase"</title>
+				<rect class="PF14765" x="173" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(173,56,182)" stroke="rgb(138,44,145)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl_transf_1 (PF00698)
+"Acyl transferase domain"</title>
+				<rect class="PF00698" x="211" y="28" stroke-linejoin="round" width="32" height="24" fill="rgb(59,176,209)" stroke="rgb(47,140,167)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<rect class="PF02801" x="258" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="271" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SAT (PF16073)
+"Starter unit:ACP transacylase in aflatoxin biosynthesis"</title>
+				<rect class="PF16073" x="310" y="28" stroke-linejoin="round" width="18" height="24" fill="rgb(77,115,183)" stroke="rgb(61,91,146)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ptaB
+PtaB</title>
+			<polygon class="ptaB
+PtaB" points="352,25 355,25 355,10 385,40 355,70 355,55 352,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lactamase_B (PF00753)
+"Metallo-beta-lactamase superfamily"</title>
+				<polygon class="PF00753" points="357,28 369,28 373,32 373,48 369,52 357,52" stroke-linejoin="round" width="16" height="24" fill="rgb(206,198,96)" stroke="rgb(164,158,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ptaC
+PtaC</title>
+			<polygon class="ptaC
+PtaC" points="414,40 428,10 428,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1772 (PF08592)
+"Domain of unknown function (DUF1772)"</title>
+				<polygon class="PF08592" points="417,40 423,28 427,28 427,52 423,52" stroke-linejoin="round" width="13" height="24" fill="rgb(75,196,107)" stroke="rgb(60,156,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ptaD
+PtaD</title>
+			<polygon class="ptaD
+PtaD" points="449,10 469,40 449,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>EthD (PF07110)
+"EthD domain"</title>
+				<polygon class="PF07110" points="451,28 457,28 459,31 459,49 457,52 451,52" stroke-linejoin="round" width="8" height="24" fill="rgb(64,130,182)" stroke="rgb(51,104,145)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ptaE
+PtaE</title>
+			<polygon class="ptaE
+PtaE" points="488,25 534,25 534,10 564,40 534,70 534,55 488,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cu-oxidase_3 (PF07732)
+"Multicopper oxidase"</title>
+				<rect class="PF07732" x="495" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(80,81,179)" stroke="rgb(63,64,143)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Cu-oxidase (PF00394)
+"Multicopper oxidase"</title>
+				<rect class="PF00394" x="505" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(172,188,74)" stroke="rgb(137,150,59)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Cu-oxidase_2 (PF07731)
+"Multicopper oxidase"</title>
+				<rect class="PF07731" x="529" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(183,55,192)" stroke="rgb(146,44,153)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ptaF
+PtaF</title>
+			<polygon class="ptaF
+PtaF" points="569,40 595,10 595,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NAD_binding_10 (PF13460)
+"NAD(P)H-binding"</title>
+				<polygon class="PF13460" points="574,39 583,28 594,28 594,52 583,52 574,41" stroke-linejoin="round" width="20" height="24" fill="rgb(188,201,78)" stroke="rgb(150,160,62)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ptaG
+PtaG</title>
+			<polygon class="ptaG
+PtaG" points="610,40 626,10 626,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>ptaH
+PtaH</title>
+			<polygon class="ptaH
+PtaH" points="686,25 686,25 686,10 656,40 686,70 686,55 686,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_11 (PF08241)
+"Methyltransferase domain"</title>
+				<polygon class="PF08241" points="672,28 672,28 681,28 681,52 672,52 672,52" stroke-linejoin="round" width="9" height="24" fill="rgb(106,219,159)" stroke="rgb(84,175,127)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ptaR1
+PtaR1</title>
+			<polygon class="ptaR1
+PtaR1" points="729,25 750,25 750,10 780,40 750,70 750,55 729,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>ptaR2
+PtaR2</title>
+			<polygon class="ptaR2
+PtaR2" points="812,25 826,25 826,10 856,40 826,70 826,55 812,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AflR (PF08493)
+"Aflatoxin regulatory protein"</title>
+				<polygon class="PF08493" points="818,28 840,28 846,34 846,46 840,52 818,52" stroke-linejoin="round" width="28" height="24" fill="rgb(86,63,214)" stroke="rgb(68,50,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ptaI
+PtaI</title>
+			<polygon class="ptaI
+PtaI" points="896,25 892,25 892,10 862,40 892,70 892,55 896,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_25 (PF13649)
+"Methyltransferase domain"</title>
+				<rect class="PF13649" x="880" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(227,135,74)" stroke="rgb(181,108,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ptaJ
+PtaJ</title>
+			<polygon class="ptaJ
+PtaJ" points="915,25 929,25 929,10 959,40 929,70 929,55 915,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Questin_oxidase (PF14027)
+"Questin oxidase-like"</title>
+				<polygon class="PF14027" points="920,28 943,28 953,38 953,42 943,52 920,52" stroke-linejoin="round" width="33" height="24" fill="rgb(77,150,178)" stroke="rgb(61,119,142)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ptaK
+PtaK</title>
+			<polygon class="ptaK
+PtaK" points="1063,25 1014,25 1014,10 984,40 1014,70 1014,55 1063,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cu-oxidase_2 (PF07731)
+"Multicopper oxidase"</title>
+				<rect class="PF07731" x="1013" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(183,55,192)" stroke="rgb(146,44,153)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Cu-oxidase (PF00394)
+"Multicopper oxidase"</title>
+				<rect class="PF00394" x="1033" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(172,188,74)" stroke="rgb(137,150,59)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Cu-oxidase_3 (PF07732)
+"Multicopper oxidase"</title>
+				<rect class="PF07732" x="1050" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(80,81,179)" stroke="rgb(63,64,143)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ptaL
+PtaL</title>
+			<polygon class="ptaL
+PtaL" points="1160,25 1171,25 1171,10 1201,40 1171,70 1171,55 1160,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pyr_redox_2 (PF07992)
+"Pyridine nucleotide-disulphide oxidoreductase"</title>
+				<polygon class="PF07992" points="1160,28 1185,28 1189,32 1189,48 1185,52 1160,52" stroke-linejoin="round" width="29" height="24" fill="rgb(83,223,167)" stroke="rgb(66,178,133)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ptaR3
+PtaR3</title>
+			<polygon class="ptaR3
+PtaR3" points="1263,25 1238,25 1238,10 1208,40 1238,70 1238,55 1263,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Fungal_trans_2 (PF11951)
+"Fungal specific transcription factor domain"</title>
+				<polygon class="PF11951" points="1212,40 1224,28 1253,28 1253,52 1224,52 1212,40" stroke-linejoin="round" width="41" height="24" fill="rgb(102,165,217)" stroke="rgb(81,132,173)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ptaM
+PtaM</title>
+			<polygon class="ptaM
+PtaM" points="1354,25 1325,25 1325,10 1295,40 1325,70 1325,55 1354,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Trp_halogenase (PF04820)
+"Tryptophan halogenase"</title>
+				<rect class="PF04820" x="1319" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(179,74,194)" stroke="rgb(143,59,155)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Trp_halogenase (PF04820)
+"Tryptophan halogenase"</title>
+				<rect class="PF04820" x="1344" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(179,74,194)" stroke="rgb(143,59,155)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>orf1_
+hypothetical protein</title>
+			<polygon class="orf1_
+hypothetical protein" points="1470,25 1421,25 1421,10 1391,40 1421,70 1421,55 1470,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>orf2_
+hypothetical protein</title>
+			<polygon class="orf2_
+hypothetical protein" points="1505,25 1608,25 1608,10 1638,40 1608,70 1608,55 1505,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AAA (PF00004)
+"ATPase family associated with various cellular activities (AAA)"</title>
+				<rect class="PF00004" x="1560" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(57,194,204)" stroke="rgb(45,155,163)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

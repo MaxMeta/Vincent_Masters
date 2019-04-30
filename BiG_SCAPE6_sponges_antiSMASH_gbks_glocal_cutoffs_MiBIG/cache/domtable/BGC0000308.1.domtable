@@ -1,0 +1,28 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.28   423 BGC0000308.1_ORF1:gid:ausA:pid:ADL64235.1:loc:0:7194:strand:+ -           2397  1.3e-173  577.5   0.2   1   2   1.1e-92   2.1e-89  300.1   0.0     1   423   424   813   424   813 0.89 AMP-binding enzyme
+AMP-binding          PF00501.28   423 BGC0000308.1_ORF1:gid:ausA:pid:ADL64235.1:loc:0:7194:strand:+ -           2397  1.3e-173  577.5   0.2   2   2   2.8e-84   4.9e-81  272.5   0.0     1   422  1449  1840  1449  1841 0.84 AMP-binding enzyme
+Condensation         PF00668.20   457 BGC0000308.1_ORF1:gid:ausA:pid:ADL64235.1:loc:0:7194:strand:+ -           2397   5.7e-97  325.2  32.6   1   2   1.1e-11     2e-08   33.3   3.6    11   161    15   159    12   180 0.85 Condensation domain
+Condensation         PF00668.20   457 BGC0000308.1_ORF1:gid:ausA:pid:ADL64235.1:loc:0:7194:strand:+ -           2397   5.7e-97  325.2  32.6   2   2   9.7e-92   1.7e-88  297.3  17.0     2   439  1000  1410   999  1419 0.94 Condensation domain
+NAD_binding_4        PF07993.12   257 BGC0000308.1_ORF1:gid:ausA:pid:ADL64235.1:loc:0:7194:strand:+ -           2397   7.7e-31  107.2   0.1   1   1   2.3e-32     4e-29  101.6   0.0     1   248  2055  2281  2055  2290 0.82 Male sterility protein
+PP-binding           PF00550.25    67 BGC0000308.1_ORF1:gid:ausA:pid:ADL64235.1:loc:0:7194:strand:+ -           2397     2e-25   88.9   0.2   1   2     4e-14   7.1e-11   42.3   0.0     2    67   920   983   919   983 0.95 Phosphopantetheine attachment site
+PP-binding           PF00550.25    67 BGC0000308.1_ORF1:gid:ausA:pid:ADL64235.1:loc:0:7194:strand:+ -           2397     2e-25   88.9   0.2   2   2   2.2e-13   3.9e-10   39.9   0.0     4    66  1951  2010  1945  2011 0.89 Phosphopantetheine attachment site
+AMP-binding_C        PF13193.6     76 BGC0000308.1_ORF1:gid:ausA:pid:ADL64235.1:loc:0:7194:strand:+ -           2397     7e-17   62.2   0.0   1   2   7.5e-09   1.3e-05   26.0   0.0     1    76   821   893   821   893 0.90 AMP-binding enzyme C-terminal domain
+AMP-binding_C        PF13193.6     76 BGC0000308.1_ORF1:gid:ausA:pid:ADL64235.1:loc:0:7194:strand:+ -           2397     7e-17   62.2   0.0   2   2   6.8e-11   1.2e-07   32.6   0.0     1    76  1849  1920  1849  1920 0.94 AMP-binding enzyme C-terminal domain
+Epimerase            PF01370.21   241 BGC0000308.1_ORF1:gid:ausA:pid:ADL64235.1:loc:0:7194:strand:+ -           2397   5.6e-16   58.7   0.1   1   1   7.3e-19   1.3e-15   57.5   0.1     2   224  2054  2292  2053  2305 0.73 NAD dependent epimerase/dehydratase family
+3Beta_HSD            PF01073.19   280 BGC0000308.1_ORF1:gid:ausA:pid:ADL64235.1:loc:0:7194:strand:+ -           2397   4.3e-12   45.6   0.1   1   1   4.8e-15   8.6e-12   44.6   0.1     2   162  2055  2225  2054  2234 0.76 3-beta hydroxysteroid dehydrogenase/isomerase family
+GDP_Man_Dehyd        PF16363.5    332 BGC0000308.1_ORF1:gid:ausA:pid:ADL64235.1:loc:0:7194:strand:+ -           2397   2.3e-10   40.4   1.6   1   1   2.7e-13   4.9e-10   39.3   0.1     1   260  2054  2318  2054  2362 0.74 GDP-mannose 4,6 dehydratase
+RmlD_sub_bind        PF04321.17   287 BGC0000308.1_ORF1:gid:ausA:pid:ADL64235.1:loc:0:7194:strand:+ -           2397   2.4e-08   33.4   0.0   1   1     3e-11   5.5e-08   32.3   0.0     2   151  2052  2238  2051  2260 0.86 RmlD substrate binding domain
+Polysacc_synt_2      PF02719.15   294 BGC0000308.1_ORF1:gid:ausA:pid:ADL64235.1:loc:0:7194:strand:+ -           2397   5.1e-05   22.6   0.0   1   1   6.6e-08   0.00012   21.4   0.0     2   128  2054  2178  2053  2180 0.84 Polysaccharide biosynthesis protein
+ACPS                 PF01648.20   114 BGC0000308.1_ORF2:gid::pid:ADL64236.1:loc:7206:7851:strand:+ -            214   5.1e-08   33.0   0.0   1   1   5.5e-12   9.8e-08   32.1   0.0     1    81   106   172   106   195 0.79 4'-phosphopantetheinyl transferase superfamily
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000308.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000308.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000308.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:39:27 2019
+# [ok]

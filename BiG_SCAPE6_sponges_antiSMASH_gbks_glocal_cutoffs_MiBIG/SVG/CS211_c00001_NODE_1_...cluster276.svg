@@ -1,0 +1,72 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="187.83333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="177.83333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg20035_1)</title>
+			<polygon class=" (ctg20035_1)" points="10,10 13,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg20035_2)</title>
+			<polygon class=" (ctg20035_2)" points="16,10 33,40 16,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Macro (PF01661)
+"Macro domain"</title>
+				<polygon class="PF01661" points="18,28 23,28 29,38 29,42 23,52 18,52" stroke-linejoin="round" width="11" height="24" fill="rgb(65,211,62)" stroke="rgb(51,168,49)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg20035_3)</title>
+			<polygon class=" (ctg20035_3)" points="35,10 47,40 35,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg20035_4)</title>
+			<polygon class=" (ctg20035_4)" points="48,10 67,40 48,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cob_adeno_trans (PF01923)
+"Cobalamin adenosyltransferase"</title>
+				<polygon class="PF01923" points="48,28 55,28 63,40 55,52 48,52" stroke-linejoin="round" width="16" height="24" fill="rgb(53,94,194)" stroke="rgb(42,75,155)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg20035_5)</title>
+			<polygon class=" (ctg20035_5)" points="67,25 78,25 78,10 108,40 78,70 78,55 67,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PD40 (PF07676)
+"WD40-like Beta Propeller Repeat"</title>
+				<rect class="PF07676" x="70" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(49,78,191)" stroke="rgb(39,62,152)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PD40 (PF07676)
+"WD40-like Beta Propeller Repeat"</title>
+				<rect class="PF07676" x="85" y="28" stroke-linejoin="round" width="2" height="24" fill="rgb(49,78,191)" stroke="rgb(39,62,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg20035_6)</title>
+			<polygon class=" (ctg20035_6)" points="108,10 122,40 108,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FUR (PF01475)
+"Ferric uptake regulator family"</title>
+				<polygon class="PF01475" points="109,28 113,28 119,40 113,52 109,52" stroke-linejoin="round" width="11" height="24" fill="rgb(167,195,50)" stroke="rgb(133,156,40)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg20035_7)</title>
+			<polygon class=" (ctg20035_7)" points="122,25 127,25 127,10 157,40 127,70 127,55 122,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>polyprenyl_synt (PF00348)
+"Polyprenyl synthetase"</title>
+				<polygon class="PF00348" points="126,28 141,28 151,38 151,42 141,52 126,52" stroke-linejoin="round" width="25" height="24" fill="rgb(61,206,65)" stroke="rgb(48,164,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg20035_8)</title>
+			<polygon class=" (ctg20035_8)" points="158,10 177,40 158,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQHop_cyclase_N (PF13249)
+"Squalene-hopene cyclase N-terminal domain"</title>
+				<polygon class="PF13249" points="159,28 165,28 173,40 165,52 159,52" stroke-linejoin="round" width="17" height="24" fill="rgb(88,190,89)" stroke="rgb(70,152,71)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

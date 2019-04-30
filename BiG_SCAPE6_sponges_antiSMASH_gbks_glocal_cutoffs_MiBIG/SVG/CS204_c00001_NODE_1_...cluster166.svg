@@ -1,0 +1,64 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="287.7" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="277.7" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg8775_1)</title>
+			<polygon class=" (ctg8775_1)" points="98,25 43,25 43,10 13,40 43,70 43,55 98,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acyltransferase (PF01553)
+"Acyltransferase"</title>
+				<polygon class="PF01553" points="18,39 29,28 32,28 32,52 29,52 18,41" stroke-linejoin="round" width="14" height="24" fill="rgb(87,176,216)" stroke="rgb(69,140,172)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="39" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="56" y="28" stroke-linejoin="round" width="40" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8775_2)</title>
+			<polygon class=" (ctg8775_2)" points="106,10 122,40 106,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DinB (PF05163)
+"DinB family"</title>
+				<polygon class="PF05163" points="106,28 112,28 119,40 112,52 106,52" stroke-linejoin="round" width="16" height="24" fill="rgb(83,139,192)" stroke="rgb(66,111,153)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8775_3)</title>
+			<polygon class=" (ctg8775_3)" points="128,10 154,40 128,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Spond_N (PF06468)
+"Spondin_N"</title>
+				<polygon class="PF06468" points="133,28 139,28 146,35 146,45 139,52 133,52" stroke-linejoin="round" width="13" height="24" fill="rgb(214,72,163)" stroke="rgb(171,57,130)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8775_4)</title>
+			<polygon class=" (ctg8775_4)" points="208,25 187,25 187,10 157,40 187,70 187,55 208,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABG_transport (PF03806)
+"AbgT putative transporter family"</title>
+				<polygon class="PF03806" points="161,40 173,28 206,28 206,52 173,52" stroke-linejoin="round" width="49" height="24" fill="rgb(88,217,101)" stroke="rgb(70,173,80)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8775_5)</title>
+			<polygon class=" (ctg8775_5)" points="216,40 230,10 230,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg8775_6)</title>
+			<polygon class=" (ctg8775_6)" points="277,25 266,25 266,10 236,40 266,70 266,55 277,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Sulfatase (PF00884)
+"Sulfatase"</title>
+				<polygon class="PF00884" points="250,30 252,28 277,28 277,52 252,52 250,50" stroke-linejoin="round" width="27" height="24" fill="rgb(61,103,198)" stroke="rgb(48,82,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

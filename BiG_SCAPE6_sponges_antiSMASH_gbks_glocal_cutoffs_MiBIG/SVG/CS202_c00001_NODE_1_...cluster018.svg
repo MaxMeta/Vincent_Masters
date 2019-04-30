@@ -1,0 +1,267 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1005.6" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="995.6" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg77_121)</title>
+			<polygon class=" (ctg77_121)" points="129,25 105,25 105,10 75,40 105,70 105,55 129,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pyridoxal_deC (PF00282)
+"Pyridoxal-dependent decarboxylase conserved domain"</title>
+				<polygon class="PF00282" points="84,35 91,28 123,28 123,52 91,52 84,45" stroke-linejoin="round" width="39" height="24" fill="rgb(100,218,166)" stroke="rgb(80,174,132)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg77_122)</title>
+			<polygon class=" (ctg77_122)" points="133,40 150,10 150,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg77_123)</title>
+			<polygon class=" (ctg77_123)" points="152,40 161,10 161,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg77_124)</title>
+			<polygon class=" (ctg77_124)" points="163,40 183,10 183,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg77_125)</title>
+			<polygon class=" (ctg77_125)" points="184,25 198,25 198,10 228,40 198,70 198,55 184,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg77_126)</title>
+			<polygon class=" (ctg77_126)" points="230,25 251,25 251,10 281,40 251,70 251,55 230,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AAA_2 (PF07724)
+"AAA domain (Cdc48 subfamily)"</title>
+				<rect class="PF07724" x="240" y="28" stroke-linejoin="round" width="20" height="24" fill="rgb(132,215,72)" stroke="rgb(105,172,57)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ClpB_D2-small (PF10431)
+"C-terminal, D2-small domain, of ClpB protein"</title>
+				<polygon class="PF10431" points="261,28 264,28 268,32 268,48 264,52 261,52" stroke-linejoin="round" width="7" height="24" fill="rgb(190,198,67)" stroke="rgb(152,158,53)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg77_127)</title>
+			<polygon class=" (ctg77_127)" points="282,40 302,10 302,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg77_128)</title>
+			<polygon class=" (ctg77_128)" points="343,25 335,25 335,10 305,40 335,70 335,55 343,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="310,39 321,28 343,28 343,52 321,52 310,41" stroke-linejoin="round" width="33" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg77_129)</title>
+			<polygon class=" (ctg77_129)" points="347,25 351,25 351,10 381,40 351,70 351,55 347,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Queuosine_synth (PF02547)
+"Queuosine biosynthesis protein"</title>
+				<polygon class="PF02547" points="347,28 364,28 376,40 364,52 347,52" stroke-linejoin="round" width="33" height="24" fill="rgb(54,211,197)" stroke="rgb(43,168,157)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg77_130)</title>
+			<polygon class=" (ctg77_130)" points="415,25 413,25 413,10 383,40 413,70 413,55 415,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Sigma70_r4 (PF04545)
+"Sigma-70, region 4"</title>
+				<polygon class="PF04545" points="387,40 389,38 389,42" stroke-linejoin="round" width="5" height="24" fill="rgb(75,207,224)" stroke="rgb(60,165,179)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Sigma70_r2 (PF04542)
+"Sigma-70 region 2"</title>
+				<rect class="PF04542" x="400" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(184,59,197)" stroke="rgb(147,47,157)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Sigma70_r1_2 (PF00140)
+"Sigma-70 factor, region 1.2"</title>
+				<rect class="PF00140" x="407" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(210,210,74)" stroke="rgb(168,168,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg77_131)</title>
+			<polygon class=" (ctg77_131)" points="461,25 446,25 446,10 416,40 446,70 446,55 461,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PALP (PF00291)
+"Pyridoxal-phosphate dependent enzyme"</title>
+				<polygon class="PF00291" points="421,39 432,28 452,28 452,52 432,52 421,41" stroke-linejoin="round" width="31" height="24" fill="rgb(180,55,145)" stroke="rgb(144,44,116)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg77_132)</title>
+			<polygon class=" (ctg77_132)" points="461,40 478,10 478,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AhpC-TSA (PF00578)
+"AhpC/TSA family"</title>
+				<polygon class="PF00578" points="464,40 471,28 474,28 474,52 471,52" stroke-linejoin="round" width="11" height="24" fill="rgb(166,71,190)" stroke="rgb(132,56,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg77_133)</title>
+			<polygon class=" (ctg77_133)" points="484,10 508,40 484,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CCG (PF02754)
+"Cysteine-rich domain"</title>
+				<rect class="PF02754" x="484" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(80,212,217)" stroke="rgb(64,169,173)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>CCG (PF02754)
+"Cysteine-rich domain"</title>
+				<polygon class="PF02754" points="497,31 504,40 497,49" stroke-linejoin="round" width="8" height="24" fill="rgb(80,212,217)" stroke="rgb(64,169,173)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg77_134)</title>
+			<polygon class=" (ctg77_134)" points="508,25 525,25 525,10 555,40 525,70 525,55 508,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LUD_dom (PF02589)
+"LUD domain"</title>
+				<rect class="PF02589" x="514" y="28" stroke-linejoin="round" width="22" height="24" fill="rgb(102,213,153)" stroke="rgb(81,170,122)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Fer4_8 (PF13183)
+"4Fe-4S dicluster domain"</title>
+				<polygon class="PF13183" points="538,28 539,28 544,33 544,47 539,52 538,52" stroke-linejoin="round" width="6" height="24" fill="rgb(180,196,91)" stroke="rgb(144,156,72)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DUF3390 (PF11870)
+"Domain of unknown function (DUF3390)"</title>
+				<polygon class="PF11870" points="546,35 551,40 546,45" stroke-linejoin="round" width="8" height="24" fill="rgb(127,211,86)" stroke="rgb(101,168,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg77_135)</title>
+			<polygon class=" (ctg77_135)" points="556,10 579,40 556,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LUD_dom (PF02589)
+"LUD domain"</title>
+				<polygon class="PF02589" points="567,30 575,40 567,50" stroke-linejoin="round" width="11" height="24" fill="rgb(102,213,153)" stroke="rgb(81,170,122)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg77_136)</title>
+			<polygon class=" (ctg77_136)" points="579,10 593,40 579,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PTPS (PF01242)
+"6-pyruvoyl tetrahydropterin synthase"</title>
+				<polygon class="PF01242" points="580,28 584,28 590,40 584,52 580,52" stroke-linejoin="round" width="13" height="24" fill="rgb(179,224,60)" stroke="rgb(143,179,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg77_137)</title>
+			<polygon class=" (ctg77_137)" points="593,10 615,40 593,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>QueC (PF06508)
+"Queuosine biosynthesis protein QueC"</title>
+				<polygon class="PF06508" points="593,28 602,28 611,40 602,52 593,52" stroke-linejoin="round" width="20" height="24" fill="rgb(217,93,123)" stroke="rgb(173,74,98)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg77_138)</title>
+			<polygon class=" (ctg77_138)" points="617,40 643,10 643,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Metallophos_2 (PF12850)
+"Calcineurin-like phosphoesterase superfamily domain"</title>
+				<polygon class="PF12850" points="622,39 632,28 642,28 642,52 632,52 622,41" stroke-linejoin="round" width="20" height="24" fill="rgb(143,76,212)" stroke="rgb(114,60,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg77_139)</title>
+			<polygon class=" (ctg77_139)" points="645,40 674,10 674,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<polygon class="PF04055" points="657,32 661,28 671,28 671,52 661,52 657,48" stroke-linejoin="round" width="14" height="24" fill="rgb(149,56,222)" stroke="rgb(119,44,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg77_140)</title>
+			<polygon class=" (ctg77_140)" points="765,25 706,25 706,10 676,40 706,70 706,55 765,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acyltransferase (PF01553)
+"Acyltransferase"</title>
+				<polygon class="PF01553" points="681,39 692,28 693,28 693,52 692,52 681,41" stroke-linejoin="round" width="12" height="24" fill="rgb(87,176,216)" stroke="rgb(69,140,172)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="700" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="720" y="28" stroke-linejoin="round" width="43" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg77_141)</title>
+			<polygon class=" (ctg77_141)" points="769,40 779,10 779,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HicB (PF05534)
+"HicB family"</title>
+				<polygon class="PF05534" points="772,40 774,34 774,46" stroke-linejoin="round" width="5" height="24" fill="rgb(211,104,205)" stroke="rgb(168,83,164)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg77_142)</title>
+			<polygon class=" (ctg77_142)" points="825,40 837,10 837,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg77_143)</title>
+			<polygon class=" (ctg77_143)" points="843,10 869,40 843,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>COX2_TM (PF02790)
+"Cytochrome C oxidase subunit II, transmembrane domain"</title>
+				<rect class="PF02790" x="844" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(63,179,156)" stroke="rgb(50,143,124)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>COX2 (PF00116)
+"Cytochrome C oxidase subunit II, periplasmic domain"</title>
+				<polygon class="PF00116" points="854,28 855,28 865,40 855,52 854,52" stroke-linejoin="round" width="12" height="24" fill="rgb(140,56,199)" stroke="rgb(112,44,159)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg77_144)</title>
+			<polygon class=" (ctg77_144)" points="870,25 899,25 899,10 929,40 899,70 899,55 870,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>COX1 (PF00115)
+"Cytochrome C and Quinol oxidase polypeptide I"</title>
+				<polygon class="PF00115" points="873,28 913,28 921,36 921,44 913,52 873,52" stroke-linejoin="round" width="48" height="24" fill="rgb(64,128,197)" stroke="rgb(51,102,157)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg77_145)</title>
+			<polygon class=" (ctg77_145)" points="929,10 951,40 929,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>COX3 (PF00510)
+"Cytochrome c oxidase subunit III"</title>
+				<polygon class="PF00510" points="934,28 938,28 947,40 938,52 934,52" stroke-linejoin="round" width="17" height="24" fill="rgb(104,211,69)" stroke="rgb(83,168,55)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg77_146)</title>
+			<polygon class=" (ctg77_146)" points="952,10 972,40 952,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>COX3 (PF00510)
+"Cytochrome c oxidase subunit III"</title>
+				<polygon class="PF00510" points="952,28 960,28 969,40 960,52 952,52" stroke-linejoin="round" width="20" height="24" fill="rgb(104,211,69)" stroke="rgb(83,168,55)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg77_147)</title>
+			<polygon class=" (ctg77_147)" points="973,10 982,40 973,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>COX4_pro (PF03626)
+"Prokaryotic Cytochrome C oxidase subunit IV"</title>
+				<polygon class="PF03626" points="974,28 975,28 979,40 975,52 974,52" stroke-linejoin="round" width="7" height="24" fill="rgb(225,80,63)" stroke="rgb(180,64,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg77_148)</title>
+			<polygon class=" (ctg77_148)" points="983,10 990,40 983,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

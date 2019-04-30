@@ -1,0 +1,25 @@
+#                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.28   423 CS211_c00001_NODE_1_...cluster244_ORF2:gid::pid::loc:1599:4632:strand:- -           1010   4.9e-80  269.2   0.0   1   1   2.6e-83   7.9e-80  268.5   0.0     1   423    29   425    29   425 0.87 AMP-binding enzyme
+NAD_binding_4        PF07993.12   257 CS211_c00001_NODE_1_...cluster244_ORF2:gid::pid::loc:1599:4632:strand:- -           1010   7.2e-51  172.8   0.0   1   1   3.5e-54   1.1e-50  172.3   0.0     1   257   658   898   658   898 0.92 Male sterility protein
+PP-binding           PF00550.25    67 CS211_c00001_NODE_1_...cluster244_ORF2:gid::pid::loc:1599:4632:strand:- -           1010   2.6e-17   62.9   0.1   1   1   2.5e-20   7.6e-17   61.4   0.1     2    67   550   615   549   615 0.98 Phosphopantetheine attachment site
+Epimerase            PF01370.21   241 CS211_c00001_NODE_1_...cluster244_ORF2:gid::pid::loc:1599:4632:strand:- -           1010   2.5e-11   43.5   0.0   1   1   1.3e-14     4e-11   42.9   0.0     1   186   656   865   656   914 0.82 NAD dependent epimerase/dehydratase family
+AMP-binding_C        PF13193.6     76 CS211_c00001_NODE_1_...cluster244_ORF2:gid::pid::loc:1599:4632:strand:- -           1010   7.9e-07   30.0   0.0   1   1   6.8e-10     2e-06   28.7   0.0     2    73   434   512   433   516 0.83 AMP-binding enzyme C-terminal domain
+3Beta_HSD            PF01073.19   280 CS211_c00001_NODE_1_...cluster244_ORF2:gid::pid::loc:1599:4632:strand:- -           1010   2.7e-06   26.6   0.0   1   1   8.8e-09   2.6e-05   23.4   0.0     2   181   658   850   657   942 0.67 3-beta hydroxysteroid dehydrogenase/isomerase family
+Methyltransf_11      PF08241.12    96 CS211_c00001_NODE_1_...cluster244_ORF3:gid::pid::loc:4753:5443:strand:+ -            229   3.3e-14   53.3   0.0   1   1   1.5e-17   5.2e-14   52.7   0.0     1    94    56   152    56   154 0.89 Methyltransferase domain
+Methyltransf_25      PF13649.6     97 CS211_c00001_NODE_1_...cluster244_ORF3:gid::pid::loc:4753:5443:strand:+ -            229   2.2e-13   50.7   0.0   1   1   1.6e-16   5.7e-13   49.4   0.0     2    97    56   150    56   150 0.87 Methyltransferase domain
+Methyltransf_23      PF13489.6    165 CS211_c00001_NODE_1_...cluster244_ORF3:gid::pid::loc:4753:5443:strand:+ -            229   5.8e-11   42.5   0.0   1   1   2.8e-14     1e-10   41.7   0.0    15   164    45   200    34   201 0.79 Methyltransferase domain
+Methyltransf_12      PF08242.12    99 CS211_c00001_NODE_1_...cluster244_ORF3:gid::pid::loc:4753:5443:strand:+ -            229   6.5e-09   36.4   0.0   1   1   2.7e-12   9.8e-09   35.9   0.0     1    99    56   152    56   152 0.90 Methyltransferase domain
+Methyltransf_31      PF13847.6    152 CS211_c00001_NODE_1_...cluster244_ORF3:gid::pid::loc:4753:5443:strand:+ -            229   4.9e-08   32.9   0.0   1   1   1.8e-11   6.4e-08   32.5   0.0     3   107    51   152    49   192 0.86 Methyltransferase domain
+PfkB                 PF00294.24   302 CS211_c00001_NODE_1_...cluster244_ORF4:gid::pid::loc:5455:6325:strand:- -            289   4.3e-26   91.9   0.0   1   1     9e-30   1.6e-25   90.0   0.0    56   294    46   266     5   273 0.84 pfkB family carbohydrate kinase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster244.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS211_c00001_NODE_1_...cluster244.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster244.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:32:24 2019
+# [ok]

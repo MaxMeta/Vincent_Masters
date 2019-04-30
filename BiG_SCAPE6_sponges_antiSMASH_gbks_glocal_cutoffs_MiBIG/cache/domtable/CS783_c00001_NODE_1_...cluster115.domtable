@@ -1,0 +1,26 @@
+#                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SpoIIE               PF07228.12   193 CS783_c00001_NODE_1_...cluster115_ORF1:gid::pid::loc:0:1032:strand:+ -            343   6.7e-54  182.7   0.2   1   1   1.1e-57   9.4e-54  182.3   0.2     2   192   148   338   147   339 0.97 Stage II sporulation protein E (SpoIIE)
+Response_reg         PF00072.24   112 CS783_c00001_NODE_1_...cluster115_ORF1:gid::pid::loc:0:1032:strand:+ -            343   1.5e-18   67.0   0.3   1   1   2.9e-22   2.6e-18   66.2   0.3    40   111     5    76     1    77 0.94 Response regulator receiver domain
+HATPase_c_2          PF13581.6    125 CS783_c00001_NODE_1_...cluster115_ORF2:gid::pid::loc:1028:1448:strand:+ -            139   1.8e-24   86.0   0.0   1   1   1.2e-28   2.1e-24   85.9   0.0     2   125    10   135     9   135 0.93 Histidine kinase-like ATPase domain
+SQS_PSY              PF00494.19   263 CS783_c00001_NODE_1_...cluster115_ORF3:gid::pid::loc:1645:2512:strand:+ -            288   1.5e-47  162.3   6.8   1   1   9.7e-52   1.7e-47  162.1   6.8     3   261     9   259     7   261 0.91 Squalene/phytoene synthase
+SQS_PSY              PF00494.19   263 CS783_c00001_NODE_1_...cluster115_ORF4:gid::pid::loc:2608:3496:strand:+ -            295   9.2e-61  205.6   2.9   1   1   6.3e-65   1.1e-60  205.3   2.9     3   251    31   272    29   284 0.91 Squalene/phytoene synthase
+Amino_oxidase        PF01593.24   452 CS783_c00001_NODE_1_...cluster115_ORF5:gid::pid::loc:3508:4786:strand:+ -            425   4.7e-30  105.3   1.6   1   1   3.8e-32   1.7e-28  100.1   1.6     1   451    11   414    11   415 0.83 Flavin containing amine oxidoreductase
+NAD_binding_8        PF13450.6     68 CS783_c00001_NODE_1_...cluster115_ORF5:gid::pid::loc:3508:4786:strand:+ -            425   3.9e-14   52.6   1.7   1   1   1.9e-17   8.4e-14   51.6   1.7     1    66     6    71     6    73 0.91 NAD(P)-binding Rossmann-like domain
+DUF2236              PF09995.9    227 CS783_c00001_NODE_1_...cluster115_ORF6:gid::pid::loc:5081:6254:strand:+ -            390   5.6e-21   75.8   2.3   1   1   3.1e-25   5.6e-21   75.8   2.3     8   208   107   329    97   346 0.80 Uncharacterized protein conserved in bacteria (DUF2236)
+MMPL                 PF03176.15   333 CS783_c00001_NODE_1_...cluster115_ORF8:gid::pid::loc:6632:8555:strand:+ -            640   1.1e-33  116.5  19.0   1   2   3.2e-18   2.8e-14   52.8  12.3    68   311    13   263     3   280 0.84 MMPL family
+MMPL                 PF03176.15   333 CS783_c00001_NODE_1_...cluster115_ORF8:gid::pid::loc:6632:8555:strand:+ -            640   1.1e-33  116.5  19.0   2   2   9.2e-23   8.2e-19   67.7   0.5    27   302   331   635   317   639 0.79 MMPL family
+Sterol-sensing       PF12349.8    153 CS783_c00001_NODE_1_...cluster115_ORF8:gid::pid::loc:6632:8555:strand:+ -            640   7.2e-08   32.4  13.7   1   1   2.6e-10   2.4e-06   27.5   5.2     7   136   123   253   117   270 0.83 Sterol-sensing domain of SREBP cleavage-activation
+LolA_like            PF17131.4    183 CS783_c00001_NODE_1_...cluster115_ORF9:gid::pid::loc:8551:9376:strand:+ -            274   4.9e-60  202.4   3.0   1   1   6.9e-64   6.2e-60  202.1   3.0     2   183    89   272    88   272 0.98 Outer membrane lipoprotein-sorting protein
+DUF1329              PF07044.11   364 CS783_c00001_NODE_1_...cluster115_ORF9:gid::pid::loc:8551:9376:strand:+ -            274   6.2e-10   38.9   6.6   1   1   8.6e-12   7.8e-08   32.0   0.1   141   219    90   161    48   168 0.77 Protein of unknown function (DUF1329)
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS783_c00001_NODE_1_...cluster115.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS783_c00001_NODE_1_...cluster115.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS783_c00001_NODE_1_...cluster115.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:56:32 2019
+# [ok]

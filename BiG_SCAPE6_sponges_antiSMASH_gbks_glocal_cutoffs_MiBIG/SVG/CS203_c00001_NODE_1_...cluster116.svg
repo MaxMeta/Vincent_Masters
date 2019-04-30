@@ -1,0 +1,62 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="212.53333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="202.53333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg2780_22)</title>
+			<polygon class=" (ctg2780_22)" points="14,40 22,10 22,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2780_23)</title>
+			<polygon class=" (ctg2780_23)" points="22,25 44,25 44,10 74,40 44,70 44,55 22,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PGI (PF00342)
+"Phosphoglucose isomerase"</title>
+				<rect class="PF00342" x="27" y="28" stroke-linejoin="round" width="22" height="24" fill="rgb(160,69,196)" stroke="rgb(128,55,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2780_24)</title>
+			<polygon class=" (ctg2780_24)" points="75,25 95,25 95,10 125,40 95,70 95,55 75,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>G6PD_N (PF00479)
+"Glucose-6-phosphate dehydrogenase, NAD binding domain"</title>
+				<rect class="PF00479" x="76" y="28" stroke-linejoin="round" width="18" height="24" fill="rgb(176,80,200)" stroke="rgb(140,64,160)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>G6PD_C (PF02781)
+"Glucose-6-phosphate dehydrogenase, C-terminal domain"</title>
+				<polygon class="PF02781" points="95,28 109,28 121,40 109,52 95,52" stroke-linejoin="round" width="28" height="24" fill="rgb(161,208,98)" stroke="rgb(128,166,78)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2780_25)</title>
+			<polygon class=" (ctg2780_25)" points="145,40 164,10 164,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_25 (PF13649)
+"Methyltransferase domain"</title>
+				<polygon class="PF13649" points="153,34 157,28 161,28 161,52 157,52 153,46" stroke-linejoin="round" width="8" height="24" fill="rgb(227,135,74)" stroke="rgb(181,108,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2780_26)</title>
+			<polygon class=" (ctg2780_26)" points="164,40 171,10 171,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2780_27)</title>
+			<polygon class=" (ctg2780_27)" points="176,10 185,40 176,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NHase_alpha (PF02979)
+"Nitrile hydratase, alpha chain"</title>
+				<polygon class="PF02979" points="176,28 178,28 182,40 178,52 176,52" stroke-linejoin="round" width="7" height="24" fill="rgb(204,148,70)" stroke="rgb(163,118,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2780_28)</title>
+			<polygon class=" (ctg2780_28)" points="186,10 195,40 186,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2780_29)</title>
+			<polygon class=" (ctg2780_29)" points="199,40 201,10 201,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

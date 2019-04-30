@@ -1,0 +1,104 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="342.7" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="332.7" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg8221_1)</title>
+			<polygon class=" (ctg8221_1)" points="10,10 20,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg8221_2)</title>
+			<polygon class=" (ctg8221_2)" points="22,40 25,10 25,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg8221_3)</title>
+			<polygon class=" (ctg8221_3)" points="61,25 56,25 56,10 26,40 56,70 56,55 61,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="30,40 42,28 59,28 59,52 42,52 30,40" stroke-linejoin="round" width="29" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8221_4)</title>
+			<polygon class=" (ctg8221_4)" points="97,25 95,25 95,10 65,40 95,70 95,55 97,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ADH_zinc_N (PF00107)
+"Zinc-binding dehydrogenase"</title>
+				<polygon class="PF00107" points="69,40 81,28 82,28 82,52 81,52" stroke-linejoin="round" width="14" height="24" fill="rgb(81,108,215)" stroke="rgb(64,86,172)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ADH_N (PF08240)
+"Alcohol dehydrogenase GroES-like domain"</title>
+				<rect class="PF08240" x="84" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(211,65,138)" stroke="rgb(168,51,110)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8221_5)</title>
+			<polygon class=" (ctg8221_5)" points="103,10 120,40 103,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Hexapep (PF00132)
+"Bacterial transferase hexapeptide (six repeats)"</title>
+				<polygon class="PF00132" points="111,30 114,35 114,45 111,50" stroke-linejoin="round" width="3" height="24" fill="rgb(89,131,202)" stroke="rgb(71,104,161)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8221_6)</title>
+			<polygon class=" (ctg8221_6)" points="120,25 121,25 121,10 151,40 121,70 121,55 120,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Hist_deacetyl (PF00850)
+"Histone deacetylase domain"</title>
+				<polygon class="PF00850" points="122,28 135,28 147,40 135,52 122,52" stroke-linejoin="round" width="29" height="24" fill="rgb(184,51,130)" stroke="rgb(147,40,104)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8221_7)</title>
+			<polygon class=" (ctg8221_7)" points="161,25 170,25 170,10 200,40 170,70 170,55 161,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Na_H_Exchanger (PF00999)
+"Sodium/hydrogen exchanger family"</title>
+				<polygon class="PF00999" points="161,28 183,28 195,40 183,52 161,52" stroke-linejoin="round" width="36" height="24" fill="rgb(229,67,191)" stroke="rgb(183,53,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8221_8)</title>
+			<polygon class=" (ctg8221_8)" points="209,25 212,25 212,10 242,40 212,70 212,55 209,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AAA_3 (PF07726)
+"ATPase family associated with various cellular activities (AAA)"</title>
+				<polygon class="PF07726" points="213,28 225,28 226,29 226,51 225,52 213,52" stroke-linejoin="round" width="13" height="24" fill="rgb(225,222,92)" stroke="rgb(180,177,73)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AAA_lid_2 (PF17863)
+"AAA lid domain"</title>
+				<polygon class="PF17863" points="234,37 237,40 234,43" stroke-linejoin="round" width="7" height="24" fill="rgb(52,164,197)" stroke="rgb(41,131,157)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8221_9)</title>
+			<polygon class=" (ctg8221_9)" points="242,25 245,25 245,10 275,40 245,70 245,55 242,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF58 (PF01882)
+"Protein of unknown function DUF58"</title>
+				<rect class="PF01882" x="248" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(190,218,84)" stroke="rgb(152,174,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8221_10)</title>
+			<polygon class=" (ctg8221_10)" points="275,10 291,40 275,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4381 (PF14316)
+"Domain of unknown function (DUF4381)"</title>
+				<polygon class="PF14316" points="276,28 281,28 287,40 281,52 276,52" stroke-linejoin="round" width="14" height="24" fill="rgb(57,98,224)" stroke="rgb(45,78,179)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8221_11)</title>
+			<polygon class=" (ctg8221_11)" points="291,25 300,25 300,10 330,40 300,70 300,55 291,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BatD (PF13584)
+"Oxygen tolerance"</title>
+				<polygon class="PF13584" points="292,28 314,28 326,40 314,52 292,52" stroke-linejoin="round" width="37" height="24" fill="rgb(80,60,217)" stroke="rgb(64,47,173)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,15 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AfsA                 PF03756.13   133 BGC0000848.1_ORF1:gid:afsA:pid:BAG23718.1:loc:0:945:strand:+ -            314   2.1e-49  166.9   0.0   1   2   1.4e-35   2.5e-31  108.4   0.0     1   131    28   162    28   164 0.98 A-factor biosynthesis hotdog domain
+AfsA                 PF03756.13   133 BGC0000848.1_ORF1:gid:afsA:pid:BAG23718.1:loc:0:945:strand:+ -            314   2.1e-49  166.9   0.0   2   2   1.7e-19     3e-15   56.4   0.0     3   129   196   307   195   309 0.93 A-factor biosynthesis hotdog domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000848.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000848.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000848.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:45:20 2019
+# [ok]

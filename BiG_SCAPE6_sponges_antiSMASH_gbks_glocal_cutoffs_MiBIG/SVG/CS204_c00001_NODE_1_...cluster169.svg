@@ -1,0 +1,81 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="279.8" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="269.8" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg9213_1)</title>
+			<polygon class=" (ctg9213_1)" points="10,40 24,10 24,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg9213_2)</title>
+			<polygon class=" (ctg9213_2)" points="62,25 59,25 59,10 29,40 59,70 59,55 62,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>UxuA (PF03786)
+"D-mannonate dehydratase (UxuA)"</title>
+				<polygon class="PF03786" points="33,40 45,28 49,28 49,52 45,52" stroke-linejoin="round" width="19" height="24" fill="rgb(193,50,168)" stroke="rgb(154,39,134)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg9213_3)</title>
+			<polygon class=" (ctg9213_3)" points="64,40 90,10 90,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC2_membrane_6 (PF06182)
+"ABC-2 family transporter protein"</title>
+				<polygon class="PF06182" points="68,40 78,28 86,28 86,52 78,52" stroke-linejoin="round" width="22" height="24" fill="rgb(223,99,59)" stroke="rgb(178,79,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg9213_4)</title>
+			<polygon class=" (ctg9213_4)" points="90,40 116,10 116,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC2_membrane_6 (PF06182)
+"ABC-2 family transporter protein"</title>
+				<polygon class="PF06182" points="94,40 105,28 113,28 113,52 105,52" stroke-linejoin="round" width="23" height="24" fill="rgb(223,99,59)" stroke="rgb(178,79,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg9213_5)</title>
+			<polygon class=" (ctg9213_5)" points="149,25 147,25 147,10 117,40 147,70 147,55 149,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="130,31 133,28 144,28 144,52 133,52 130,49" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg9213_6)</title>
+			<polygon class=" (ctg9213_6)" points="151,40 172,10 172,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amidase_2 (PF01510)
+"N-acetylmuramoyl-L-alanine amidase"</title>
+				<polygon class="PF01510" points="155,40 163,28 168,28 168,52 163,52" stroke-linejoin="round" width="16" height="24" fill="rgb(122,192,71)" stroke="rgb(97,153,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg9213_7)</title>
+			<polygon class=" (ctg9213_7)" points="182,25 186,25 186,10 216,40 186,70 186,55 182,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="183,28 200,28 212,40 212,40 200,52 183,52" stroke-linejoin="round" width="29" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg9213_8)</title>
+			<polygon class=" (ctg9213_8)" points="221,25 231,25 231,10 261,40 231,70 231,55 221,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amidohydro_1 (PF01979)
+"Amidohydrolase family"</title>
+				<polygon class="PF01979" points="247,30 257,40 247,50" stroke-linejoin="round" width="11" height="24" fill="rgb(210,93,184)" stroke="rgb(168,74,147)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg9213_9)</title>
+			<polygon class=" (ctg9213_9)" points="261,10 268,40 261,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ubie_methyltran (PF01209)
+"ubiE/COQ5 methyltransferase family"</title>
+				<polygon class="PF01209" points="262,28 262,28 265,40 262,52 262,52" stroke-linejoin="round" width="5" height="24" fill="rgb(90,83,226)" stroke="rgb(72,66,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

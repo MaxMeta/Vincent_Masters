@@ -1,0 +1,20 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Thy1                 PF02511.15   188 CS202_c00001_NODE_1_...cluster193_ORF1:gid::pid::loc:1:619:strand:+ -            205   1.1e-13   51.5   2.9   1   1   8.6e-18   1.5e-13   50.9   2.9    44   184    20   153     7   155 0.88 Thymidylate synthase complementing protein
+Pep_deformylase      PF01327.21   159 CS202_c00001_NODE_1_...cluster193_ORF2:gid::pid::loc:591:1119:strand:- -            175   2.8e-49  166.8   0.0   1   1   1.8e-53   3.2e-49  166.6   0.0     2   157     4   157     3   159 0.95 Polypeptide deformylase
+NUDIX                PF00293.28   131 CS202_c00001_NODE_1_...cluster193_ORF3:gid::pid::loc:1247:1784:strand:+ -            178   7.2e-15   55.2   0.1   1   1     1e-18   9.2e-15   54.8   0.1     3   103    47   142    45   171 0.69 NUDIX domain
+Nudix_N_2            PF14803.6     34 CS202_c00001_NODE_1_...cluster193_ORF3:gid::pid::loc:1247:1784:strand:+ -            178   5.8e-07   29.3   3.0   1   1   1.2e-10     1e-06   28.5   3.0     1    31    11    41    11    43 0.95 Nudix N-terminal
+ThiI                 PF02568.14   197 CS202_c00001_NODE_1_...cluster193_ORF4:gid::pid::loc:1786:2968:strand:- -            393   1.8e-71  239.8   0.0   1   1     4e-75   2.4e-71  239.4   0.0     1   194   171   364   171   367 0.98 Thiamine biosynthesis protein (ThiI)
+THUMP                PF02926.17   144 CS202_c00001_NODE_1_...cluster193_ORF4:gid::pid::loc:1786:2968:strand:- -            393   1.3e-14   54.5   0.0   1   1   3.6e-18   2.2e-14   53.8   0.0    16   142    40   159    28   161 0.87 THUMP domain
+SQS_PSY              PF00494.19   263 CS202_c00001_NODE_1_...cluster193_ORF5:gid::pid::loc:3371:4436:strand:+ -            354   9.4e-56  189.2   0.0   1   1   6.1e-60   1.1e-55  189.0   0.0     1   262    16   307    16   308 0.90 Squalene/phytoene synthase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster193.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS202_c00001_NODE_1_...cluster193.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster193.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:34:15 2019
+# [ok]

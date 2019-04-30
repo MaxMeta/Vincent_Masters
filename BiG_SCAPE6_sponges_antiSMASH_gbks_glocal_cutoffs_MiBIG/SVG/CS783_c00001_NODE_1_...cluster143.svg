@@ -1,0 +1,59 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="255.66666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="245.66666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg7697_1)</title>
+			<polygon class=" (ctg7697_1)" points="10,40 24,10 24,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CoA_transf_3 (PF02515)
+"CoA-transferase family III"</title>
+				<polygon class="PF02515" points="13,40 19,28 23,28 23,52 19,52" stroke-linejoin="round" width="13" height="24" fill="rgb(226,102,90)" stroke="rgb(180,81,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7697_2)</title>
+			<polygon class=" (ctg7697_2)" points="32,25 39,25 39,10 69,40 39,70 39,55 32,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="32,28 53,28 64,39 64,41 53,52 32,52" stroke-linejoin="round" width="32" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7697_3)</title>
+			<polygon class=" (ctg7697_3)" points="85,10 92,40 85,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>RHH_1 (PF01402)
+"Ribbon-helix-helix protein, copG family"</title>
+				<polygon class="PF01402" points="85,28 86,28 88,34 88,46 86,52 85,52" stroke-linejoin="round" width="3" height="24" fill="rgb(104,197,67)" stroke="rgb(83,157,53)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7697_4)</title>
+			<polygon class=" (ctg7697_4)" points="110,40 124,10 124,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SufE (PF02657)
+"Fe-S metabolism associated domain"</title>
+				<polygon class="PF02657" points="113,40 119,28 122,28 122,52 119,52" stroke-linejoin="round" width="12" height="24" fill="rgb(195,163,75)" stroke="rgb(156,130,60)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7697_5)</title>
+			<polygon class=" (ctg7697_5)" points="132,10 140,40 132,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NHase_alpha (PF02979)
+"Nitrile hydratase, alpha chain"</title>
+				<polygon class="PF02979" points="133,28 133,28 137,40 133,52 133,52" stroke-linejoin="round" width="6" height="24" fill="rgb(204,148,70)" stroke="rgb(163,118,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7697_6)</title>
+			<polygon class=" (ctg7697_6)" points="171,25 214,25 214,10 244,40 214,70 214,55 171,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ACR_tran (PF00873)
+"AcrB/AcrD/AcrF family"</title>
+				<polygon class="PF00873" points="171,28 228,28 240,40 228,52 171,52" stroke-linejoin="round" width="73" height="24" fill="rgb(63,191,60)" stroke="rgb(50,152,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

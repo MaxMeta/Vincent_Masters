@@ -1,0 +1,263 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="5410.633333333333" height="160">
+	<g>
+		<line x1="10" y1="40.0" x2="301.1666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>
+thioesterase</title>
+			<polygon class="
+thioesterase" points="10,10 35,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Thioesterase (PF00975)
+"Thioesterase domain"</title>
+				<polygon class="PF00975" points="12,28 21,28 31,40 21,52 12,52" stroke-linejoin="round" width="22" height="24" fill="rgb(207,80,138)" stroke="rgb(165,63,110)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+transcriptional regulator</title>
+			<polygon class="
+transcriptional regulator" points="43,25 108,25 108,10 138,40 108,70 108,55 43,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AAA_16 (PF13191)
+"AAA ATPase domain"</title>
+				<rect class="PF13191" x="43" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(186,102,77)" stroke="rgb(148,81,61)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GerE (PF00196)
+"Bacterial regulatory proteins, luxR family"</title>
+				<polygon class="PF00196" points="132,38 134,40 132,42" stroke-linejoin="round" width="5" height="24" fill="rgb(219,94,82)" stroke="rgb(175,75,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+response regulator</title>
+			<polygon class="
+response regulator" points="142,40 162,10 162,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GerE (PF00196)
+"Bacterial regulatory proteins, luxR family"</title>
+				<polygon class="PF00196" points="146,40 147,39 147,41" stroke-linejoin="round" width="5" height="24" fill="rgb(219,94,82)" stroke="rgb(175,75,65)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<polygon class="PF00072" points="151,33 154,28 162,28 162,52 154,52 151,47" stroke-linejoin="round" width="11" height="24" fill="rgb(100,107,203)" stroke="rgb(80,85,162)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+sensor kinase</title>
+			<polygon class="
+sensor kinase" points="204,25 193,25 193,10 163,40 193,70 193,55 204,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HisKA_3 (PF07730)
+"Histidine kinase"</title>
+				<polygon class="PF07730" points="177,30 179,28 183,28 183,52 179,52 177,50" stroke-linejoin="round" width="6" height="24" fill="rgb(190,53,146)" stroke="rgb(152,42,116)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+putative membrane protein</title>
+			<polygon class="
+putative membrane protein" points="211,10 229,40 211,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+putative membrane protein</title>
+			<polygon class="
+putative membrane protein" points="232,10 248,40 232,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>bPH_2 (PF03703)
+"Bacterial PH domain"</title>
+				<polygon class="PF03703" points="239,30 244,40 239,50" stroke-linejoin="round" width="7" height="24" fill="rgb(228,219,97)" stroke="rgb(182,175,77)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+putative membrane protein</title>
+			<polygon class="
+putative membrane protein" points="248,25 269,25 269,10 299,40 269,70 269,55 248,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>bPH_2 (PF03703)
+"Bacterial PH domain"</title>
+				<rect class="PF03703" x="256" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(228,219,97)" stroke="rgb(182,175,77)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>bPH_2 (PF03703)
+"Bacterial PH domain"</title>
+				<polygon class="PF03703" points="290,35 295,40 290,45" stroke-linejoin="round" width="7" height="24" fill="rgb(228,219,97)" stroke="rgb(182,175,77)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="120.0" x2="5400.633333333333" y2="120.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>
+glycosyltransferase</title>
+			<polygon class="
+glycosyltransferase" points="46,105 40,105 40,90 10,120 40,150 40,135 46,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+polyketide synthase type I</title>
+			<polygon class="
+polyketide synthase type I" points="55,105 839,105 839,90 869,120 839,150 839,135 55,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+polyketide synthase type I</title>
+			<polygon class="
+polyketide synthase type I" points="873,105 1185,105 1185,90 1215,120 1185,150 1185,135 873,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+polyketide synthase type I</title>
+			<polygon class="
+polyketide synthase type I" points="1217,105 1862,105 1862,90 1892,120 1862,150 1862,135 1217,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+polyketide synthase type I</title>
+			<polygon class="
+polyketide synthase type I" points="1896,105 2031,105 2031,90 2061,120 2031,150 2031,135 1896,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+polyketide synthase type I</title>
+			<polygon class="
+polyketide synthase type I" points="2071,105 2561,105 2561,90 2591,120 2561,150 2561,135 2071,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+polyketide synthase type I</title>
+			<polygon class="
+polyketide synthase type I" points="2596,105 3109,105 3109,90 3139,120 3109,150 3109,135 2596,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+polyketide synthase type I</title>
+			<polygon class="
+polyketide synthase type I" points="3145,105 3437,105 3437,90 3467,120 3437,150 3437,135 3145,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+polyketide synthase type I</title>
+			<polygon class="
+polyketide synthase type I" points="3469,105 4190,105 4190,90 4220,120 4190,150 4190,135 3469,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+polyketide synthase type I</title>
+			<polygon class="
+polyketide synthase type I" points="4222,105 4579,105 4579,90 4609,120 4579,150 4579,135 4222,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+acyl transferase</title>
+			<polygon class="
+acyl transferase" points="4645,105 4642,105 4642,90 4612,120 4642,150 4642,135 4645,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+membrane protein</title>
+			<polygon class="
+membrane protein" points="4652,120 4680,90 4680,150" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+ABC transporter</title>
+			<polygon class="
+ABC transporter" points="4713,105 4710,105 4710,90 4680,120 4710,150 4710,135 4713,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+sugar dehydratase/epimerase</title>
+			<polygon class="
+sugar dehydratase/epimerase" points="4726,105 4727,105 4727,90 4757,120 4727,150 4727,135 4726,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+sugar epimerase</title>
+			<polygon class="
+sugar epimerase" points="4757,90 4777,120 4757,150" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+sugar nucleotidyltransferase</title>
+			<polygon class="
+sugar nucleotidyltransferase" points="4781,105 4783,105 4783,90 4813,120 4783,150 4783,135 4781,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+sugar dehydratase/epimerase</title>
+			<polygon class="
+sugar dehydratase/epimerase" points="4813,105 4815,105 4815,90 4845,120 4815,150 4815,135 4813,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+thioesterase</title>
+			<polygon class="
+thioesterase" points="4846,90 4867,120 4846,150" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+acyl CoA ligase</title>
+			<polygon class="
+acyl CoA ligase" points="4870,105 4887,105 4887,90 4917,120 4887,150 4887,135 4870,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+amine oxidase</title>
+			<polygon class="
+amine oxidase" points="4975,105 4950,105 4950,90 4920,120 4950,150 4950,135 4975,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+phosphopantetheinyl transferase</title>
+			<polygon class="
+phosphopantetheinyl transferase" points="4982,120 5005,90 5005,150" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+unknown</title>
+			<polygon class="
+unknown" points="5035,105 5035,105 5035,90 5005,120 5035,150 5035,135 5035,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+transcriptional regulator</title>
+			<polygon class="
+transcriptional regulator" points="5134,105 5065,105 5065,90 5035,120 5065,150 5065,135 5134,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+carboxylase/carboxyltransferase</title>
+			<polygon class="
+carboxylase/carboxyltransferase" points="5159,105 5180,105 5180,90 5210,120 5180,150 5180,135 5159,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+amidinohydrolase</title>
+			<polygon class="
+amidinohydrolase" points="5212,105 5215,105 5215,90 5245,120 5215,150 5215,135 5212,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+amide synthetase</title>
+			<polygon class="
+amide synthetase" points="5253,105 5275,105 5275,90 5305,120 5275,150 5275,135 5253,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+5-aminolevulinate synthase</title>
+			<polygon class="
+5-aminolevulinate synthase" points="5308,105 5319,105 5319,90 5349,120 5319,150 5319,135 5308,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>
+acyl CoA ligase</title>
+			<polygon class="
+acyl CoA ligase" points="5349,105 5369,105 5369,90 5399,120 5369,150 5369,135 5349,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

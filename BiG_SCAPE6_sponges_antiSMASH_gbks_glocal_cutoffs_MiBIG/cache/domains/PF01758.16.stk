@@ -1,0 +1,28 @@
+# STOCKHOLM 1.0
+
+BGC0001119.1_ORF2:gid:divB:pid:CCP20038.1:loc:1490:2507:strand:-:71:251         y--LLGVVMFCMGVTMTPEDFRGVARRPWAVALGLVAHYVIMPGLGWAIAH----LL.......DLPPQLAAGVILVGCAPSGTASNVVTYLARGDVALSVSVATVSTLVAPLVT.PPLTLLLAGEY......----LPVDAGSMVTDILKTVLLPVLAGVVVRLVAGR------YVQRALPGLPWLSAVTIAVIVAVVV
+#=GR BGC0001119.1_ORF2:gid:divB:pid:CCP20038.1:loc:1490:2507:strand:-:71:251 PP 8..799*********************************************....88.......89*************************************************.***********..........********************************......*************************
+BGC0001291.1_ORF1:gid::pid:BAT21389.1:loc:0:711:strand:+:1:134                  .--------------------------------------------------------.......------------IGIARCIAMVIVWSELAQGDSEYTAGLVAFNSIFQIVFY.SLFTYIFVTVLptwlglETHSVNITMGEIAKSVFIYLGIPFIAGISSRFLLLKFKGKTWFETKFIPKISPITLIALLLTIVIMF
+#=GR BGC0001291.1_ORF1:gid::pid:BAT21389.1:loc:0:711:strand:+:1:134          PP ............................................................................79*************************************.****************9999****************************************************************
+BGC0001291.1_ORF2:gid::pid:BAT21390.1:loc:720:1803:strand:+:55:253              .-ILIWLMIYPMMLKIDFTSIARAAKKPKGLIITCVTNWLIKPFTMYAISAFFFYVVfknlipvDLAKEYVAGAVILGAAPCTAMVFVWSYLTKGDAGYTLVQVAINDLIILFLFaPIVAFLLGVDN......----VAVPMGTLLLSTLLFVVVPLLLGFFTRVIIIKNKGLAYFENVFLKKFDSVTIMGLLLTLIIIF
+#=GR BGC0001291.1_ORF2:gid::pid:BAT21390.1:loc:720:1803:strand:+:55:253      PP ..6789*******************************************998866668*******************************************************99899999999999..........***************************************************************
+BGC0001796.1_ORF3:gid::pid:ATO51556.1:loc:1277:2336:strand:-:54:251             .-IGLILMMYPPLAKVRYEEMGRIFKDTKVLILSLVQNWIIGPLLMFGLAILFLSDK.......---PEYMIGLIMIGLARCIAMVIVWNDLAKGDTEYAAGLVAFNSVFQMLFF.SVYAYLFVTVIpewlgiEGAVVSITMVEVAKSVMVYLGIPFLAGMLTRFTLVKVKGRHWYEKEFIPKISPITLIALLFTIIVMF
+#=GR BGC0001796.1_ORF3:gid::pid:ATO51556.1:loc:1277:2336:strand:-:54:251     PP ..79*************************************************9999..........************************************************.************************************************************************************
+BGC0001575.1_ORF4:gid::pid:WP_008704363.1:loc:3755:4739:strand:+:45:225         v--FLGVIMFGMGLTIRLEDFRAIFSRPKEVIIGAVAQYTIMPVVAWVLCK----VM.......NLPADLALGVILVGCCPGGTASNVITYIAGGDVALSVGMTIVSTLAAPVMT.PFLVYILAGAW......----VEVSFWAMVLSVVKVILVPVLLGILLRTLAGD------HVDKVSDVMPLISVVAIVMIIGGIV
+#=GR BGC0001575.1_ORF4:gid::pid:WP_008704363.1:loc:3755:4739:strand:+:45:225 PP 5..799*********************************************....99.......***************************************************.***********..........******************************99......5779999999999999999999999
+#=GC PP_cons                                                                    ..7799*********************************************998888.......99**********9**************************************.***********......9*****************************************999**********************
+#=GC RF                                                                         .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxx......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BGC0001119.1_ORF2:gid:divB:pid:CCP20038.1:loc:1490:2507:strand:-:71:251         AGSADAIK--sa
+#=GR BGC0001119.1_ORF2:gid:divB:pid:CCP20038.1:loc:1490:2507:strand:-:71:251 PP ***99986..58
+BGC0001291.1_ORF1:gid::pid:BAT21389.1:loc:0:711:strand:+:1:134                  SVKGEKVIE-l.
+#=GR BGC0001291.1_ORF1:gid::pid:BAT21389.1:loc:0:711:strand:+:1:134          PP ****99876.7.
+BGC0001291.1_ORF2:gid::pid:BAT21390.1:loc:720:1803:strand:+:55:253              SFQGEKILA-n.
+#=GR BGC0001291.1_ORF2:gid::pid:BAT21390.1:loc:720:1803:strand:+:55:253      PP *****9986.6.
+BGC0001796.1_ORF3:gid::pid:ATO51556.1:loc:1277:2336:strand:-:54:251             SLKGDAIIS-l.
+#=GR BGC0001796.1_ORF3:gid::pid:ATO51556.1:loc:1277:2336:strand:-:54:251     PP *****9986.8.
+BGC0001575.1_ORF4:gid::pid:WP_008704363.1:loc:3755:4739:strand:+:45:225         AINAEKIL--sc
+#=GR BGC0001575.1_ORF4:gid::pid:WP_008704363.1:loc:3755:4739:strand:+:45:225 PP 99999886..59
+#=GC PP_cons                                                                    ****99876...
+#=GC RF                                                                         xxxxxxxxxx..
+//

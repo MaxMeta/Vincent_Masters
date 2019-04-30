@@ -1,0 +1,129 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1143.8333333333333" height="160">
+	<g>
+		<line x1="10" y1="40.0" x2="373.0" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>arnT (H045_10940)
+4-amino-4-deoxy-L-arabinose transferase</title>
+			<polygon class="arnT (H045_10940)
+4-amino-4-deoxy-L-arabinose transferase" points="10,25 35,25 35,10 65,40 35,70 35,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PMT (PF02366)
+"Dolichyl-phosphate-mannose-protein mannosyltransferase"</title>
+				<rect class="PF02366" x="10" y="28" stroke-linejoin="round" width="23" height="24" fill="rgb(192,92,197)" stroke="rgb(153,73,157)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (H045_10945)
+putative 4-amino-4-deoxy-l-arabinose lipid A transferase</title>
+			<polygon class=" (H045_10945)
+putative 4-amino-4-deoxy-l-arabinose lipid A transferase" points="65,25 85,25 85,10 115,40 85,70 85,55 65,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PMT_2 (PF13231)
+"Dolichyl-phosphate-mannose-protein mannosyltransferase"</title>
+				<rect class="PF13231" x="71" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(149,96,194)" stroke="rgb(119,76,155)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (H045_10950)
+putative non-ribosomal peptide synthetase</title>
+			<polygon class=" (H045_10950)
+putative non-ribosomal peptide synthetase" points="330,25 151,25 151,10 121,40 151,70 151,55 330,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="125,40 129,36 129,44" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<polygon class="PF13193" points="132,33 137,28 138,28 138,52 137,52 132,47" stroke-linejoin="round" width="6" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="140" y="28" stroke-linejoin="round" width="39" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="186" y="28" stroke-linejoin="round" width="37" height="24" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="228" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<rect class="PF13193" x="237" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="245" y="28" stroke-linejoin="round" width="38" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="285" y="28" stroke-linejoin="round" width="43" height="24" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (H045_10955)
+LuxR family transcriptional regulator</title>
+			<polygon class=" (H045_10955)
+LuxR family transcriptional regulator" points="346,10 372,40 346,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GerE (PF00196)
+"Bacterial regulatory proteins, luxR family"</title>
+				<polygon class="PF00196" points="366,38 368,40 366,42" stroke-linejoin="round" width="5" height="24" fill="rgb(219,94,82)" stroke="rgb(175,75,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="120.0" x2="1133.8333333333333" y2="120.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (H045_07025)
+magnesium chelatase</title>
+			<polygon class=" (H045_07025)
+magnesium chelatase" points="10,105 13,105 13,90 43,120 13,150 13,135 10,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (H045_07030)
+magnesium chelatase subunit ChlD</title>
+			<polygon class=" (H045_07030)
+magnesium chelatase subunit ChlD" points="47,90 64,120 47,150" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (H045_07035)
+putative non-ribosomal peptide synthetase</title>
+			<polygon class=" (H045_07035)
+putative non-ribosomal peptide synthetase" points="80,105 480,105 480,90 510,120 480,150 480,135 80,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (H045_07040)
+amino acid adenylation protein</title>
+			<polygon class=" (H045_07040)
+amino acid adenylation protein" points="511,105 963,105 963,90 993,120 963,150 963,135 511,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (H045_07045)
+putative drug-efflux protein</title>
+			<polygon class=" (H045_07045)
+putative drug-efflux protein" points="1006,105 1014,105 1014,90 1044,120 1014,150 1014,135 1006,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (H045_07050)
+macrolide-specific ABC-type efflux carrier</title>
+			<polygon class=" (H045_07050)
+macrolide-specific ABC-type efflux carrier" points="1044,105 1079,105 1079,90 1109,120 1079,150 1079,135 1044,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (H045_07055)
+putative LuxR family regulatory protein</title>
+			<polygon class=" (H045_07055)
+putative LuxR family regulatory protein" points="1111,120 1133,90 1133,150" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

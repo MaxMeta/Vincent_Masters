@@ -1,0 +1,21 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Pentapeptide_4       PF13599.6     77 BGC0000568.1_ORF1:gid:mcbG:pid:CAT00693.1:loc:0:564:strand:- -            187   8.6e-19   67.5  21.9   1   2   1.9e-11   1.1e-07   31.9   8.5     3    68    18    83     7    90 0.73 Pentapeptide repeats (9 copies)
+Pentapeptide_4       PF13599.6     77 BGC0000568.1_ORF1:gid:mcbG:pid:CAT00693.1:loc:0:564:strand:- -            187   8.6e-19   67.5  21.9   2   2     4e-14   2.4e-10   40.4   6.4     7    71    88   153    85   158 0.92 Pentapeptide repeats (9 copies)
+Pentapeptide         PF00805.22    40 BGC0000568.1_ORF1:gid:mcbG:pid:CAT00693.1:loc:0:564:strand:- -            187   1.6e-15   56.4  15.4   1   2   1.3e-06    0.0077   15.9   0.4     2    39    17    54    16    55 0.82 Pentapeptide repeats (8 copies)
+Pentapeptide         PF00805.22    40 BGC0000568.1_ORF1:gid:mcbG:pid:CAT00693.1:loc:0:564:strand:- -            187   1.6e-15   56.4  15.4   2   2   6.9e-13   4.1e-09   35.9   1.8     1    39   112   150   112   150 0.97 Pentapeptide repeats (8 copies)
+ABC_tran             PF00005.27   137 BGC0000568.1_ORF2:gid:mcbF:pid:CAT00694.1:loc:567:1299:strand:- -            243   9.4e-22   78.0   0.0   1   1   1.5e-25   1.3e-21   77.5   0.0     2   136    24   162    23   163 0.93 ABC transporter
+AAA_21               PF13304.6    303 BGC0000568.1_ORF2:gid:mcbF:pid:CAT00694.1:loc:567:1299:strand:- -            243   3.2e-13   50.1   0.5   1   1   1.7e-12   1.5e-08   34.8   0.0   235   297   131   192   102   197 0.92 AAA domain, putative AbiEii toxin, Type IV TA system
+YcaO                 PF02624.16   323 BGC0000568.1_ORF4:gid:mcbD:pid:CAT00696.1:loc:2030:3221:strand:- -            396   9.5e-15   54.7   0.0   1   1   8.4e-19   1.5e-14   54.0   0.0    13   229    53   272    46   335 0.78 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+Nitroreductase       PF00881.24   170 BGC0000568.1_ORF5:gid:mcbC:pid:CAT00697.1:loc:3201:4020:strand:- -            272   1.3e-07   31.9   0.0   1   1   1.1e-11   1.9e-07   31.3   0.0    11   162    91   253    87   262 0.83 Nitroreductase family
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000568.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000568.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000568.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:47:10 2019
+# [ok]

@@ -1,0 +1,20 @@
+#                                                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Ribonuc_L-PSP        PF01042.21   121 CS204_c00001_NODE_1_...cluster004_ORF3:gid::pid::loc:1849:2221:strand:- -            123   2.2e-33  114.8   0.0   1   1   1.4e-37   2.4e-33  114.7   0.0     7   120     4   113     1   114 0.97 Endoribonuclease L-PSP
+GlnE                 PF03710.15   251 CS204_c00001_NODE_1_...cluster004_ORF4:gid::pid::loc:2234:4940:strand:+ -            901   2.3e-90  302.4  11.1   1   2   3.4e-48   3.1e-44  151.3   0.2     6   248    46   250    42   253 0.91 Glutamate-ammonia ligase adenylyltransferase
+GlnE                 PF03710.15   251 CS204_c00001_NODE_1_...cluster004_ORF4:gid::pid::loc:2234:4940:strand:+ -            901   2.3e-90  302.4  11.1   2   2   1.8e-47   1.6e-43  148.9   5.7     3   250   511   736   509   737 0.94 Glutamate-ammonia ligase adenylyltransferase
+GlnD_UR_UTase        PF08335.11   146 CS204_c00001_NODE_1_...cluster004_ORF4:gid::pid::loc:2234:4940:strand:+ -            901   3.2e-57  192.7   4.7   1   2   1.9e-38   1.7e-34  119.0   1.7     4   146   275   410   272   410 0.92 GlnD PII-uridylyltransferase
+GlnD_UR_UTase        PF08335.11   146 CS204_c00001_NODE_1_...cluster004_ORF4:gid::pid::loc:2234:4940:strand:+ -            901   3.2e-57  192.7   4.7   2   2   1.2e-24   1.1e-20   74.2   0.1     1   145   756   895   756   896 0.95 GlnD PII-uridylyltransferase
+ABC_tran             PF00005.27   137 CS204_c00001_NODE_1_...cluster004_ORF8:gid::pid::loc:7130:9995:strand:- -            954   2.3e-29  102.6   0.0   1   1   4.4e-33   3.9e-29  101.9   0.0     1   137   735   884   735   884 0.90 ABC transporter
+ABC_membrane         PF00664.23   274 CS204_c00001_NODE_1_...cluster004_ORF8:gid::pid::loc:7130:9995:strand:- -            954     1e-11   45.0   9.7   1   1   1.5e-15   1.3e-11   44.7   9.7     6   270   410   670   405   674 0.95 ABC transporter transmembrane region
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS204_c00001_NODE_1_...cluster004.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS204_c00001_NODE_1_...cluster004.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS204_c00001_NODE_1_...cluster004.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:46:17 2019
+# [ok]

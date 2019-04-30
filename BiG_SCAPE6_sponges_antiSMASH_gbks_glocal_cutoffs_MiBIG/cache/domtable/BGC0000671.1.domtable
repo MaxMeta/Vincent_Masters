@@ -1,0 +1,24 @@
+#                                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Terpene_synth        PF01397.21   192 BGC0000671.1_ORF1:gid:Os04g0178300:pid:BAF14085.1:loc:95:7967:strand:+ -            767   1.1e-46  158.9   0.0   1   1   1.6e-50   2.9e-46  157.6   0.0     1   191   260   467   260   468 0.87 Terpene synthase, N-terminal domain
+p450                 PF00067.22   463 BGC0000671.1_ORF2:gid:Os04g0178400:pid:BAF14086.1:loc:14487:16329:strand:- -            502   2.8e-93  313.2   0.0   1   1   1.9e-97   3.4e-93  312.9   0.0     1   450    36   476    36   489 0.90 Cytochrome P450
+adh_short_C2         PF13561.6    234 BGC0000671.1_ORF3:gid:Os04g0179100:pid:BAF14087.1:loc:62230:63421:strand:- -            274   1.9e-65  220.7   4.5   1   1   3.8e-69   2.3e-65  220.4   4.5     1   234    23   263    23   263 0.92 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.25   195 BGC0000671.1_ORF3:gid:Os04g0179100:pid:BAF14087.1:loc:62230:63421:strand:- -            274   1.4e-50  171.5   1.3   1   1   3.1e-54   1.8e-50  171.1   1.3     1   189    17   205    17   211 0.95 short chain dehydrogenase
+KR                   PF08659.10   180 BGC0000671.1_ORF3:gid:Os04g0179100:pid:BAF14087.1:loc:62230:63421:strand:- -            274   4.9e-09   36.3   1.1   1   1   1.9e-12   1.1e-08   35.2   0.6     4   157    20   173    18   194 0.82 KR domain
+adh_short_C2         PF13561.6    234 BGC0000671.1_ORF4:gid:Os04g0179200:pid:BAF14088.1:loc:67997:69052:strand:- -            274     1e-65  221.6   5.2   1   1     2e-69   1.2e-65  221.3   5.2     1   234    24   263    24   263 0.92 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.25   195 BGC0000671.1_ORF4:gid:Os04g0179200:pid:BAF14088.1:loc:67997:69052:strand:- -            274   8.3e-53  178.8   0.7   1   1   1.8e-56   1.1e-52  178.4   0.7     1   189    18   206    18   211 0.96 short chain dehydrogenase
+KR                   PF08659.10   180 BGC0000671.1_ORF4:gid:Os04g0179200:pid:BAF14088.1:loc:67997:69052:strand:- -            274   8.4e-10   38.8   0.7   1   1   2.9e-13   1.7e-09   37.8   0.7     4   160    21   177    19   195 0.83 KR domain
+Terpene_synth_C      PF03936.16   267 BGC0000671.1_ORF5:gid:Os04g0179700:pid:BAF14089.1:loc:110435:115887:strand:- -            842     1e-67  228.3   7.1   1   1   1.8e-71   1.6e-67  227.7   7.1     1   266   517   781   517   782 0.95 Terpene synthase family, metal binding domain
+Terpene_synth        PF01397.21   192 BGC0000671.1_ORF5:gid:Os04g0179700:pid:BAF14089.1:loc:110435:115887:strand:- -            842   4.1e-46  157.1   0.0   1   1   1.2e-49   1.1e-45  155.7   0.0     1   192   278   475   278   475 0.88 Terpene synthase, N-terminal domain
+p450                 PF00067.22   463 BGC0000671.1_ORF7:gid:Os04g0180400:pid:BAF14091.1:loc:166850:168464:strand:+ -            507   5.1e-90  302.4   0.0   1   1   3.4e-94   6.2e-90  302.2   0.0     1   454    35   483    35   494 0.89 Cytochrome P450
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000671.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000671.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000671.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:32:46 2019
+# [ok]

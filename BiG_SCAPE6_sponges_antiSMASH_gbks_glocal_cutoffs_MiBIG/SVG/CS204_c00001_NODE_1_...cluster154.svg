@@ -1,0 +1,107 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="311.1" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="301.1" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg7805_1)</title>
+			<polygon class=" (ctg7805_1)" points="10,10 28,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Gp_dh_C (PF02800)
+"Glyceraldehyde 3-phosphate dehydrogenase, C-terminal domain"</title>
+				<polygon class="PF02800" points="10,28 17,28 25,40 25,40 17,52 10,52" stroke-linejoin="round" width="15" height="24" fill="rgb(160,186,82)" stroke="rgb(128,148,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7805_2)</title>
+			<polygon class=" (ctg7805_2)" points="44,25 59,25 59,10 89,40 59,70 59,55 44,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SRP54_N (PF02881)
+"SRP54-type protein, helical bundle domain"</title>
+				<rect class="PF02881" x="44" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(179,66,186)" stroke="rgb(143,52,148)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SRP54 (PF00448)
+"SRP54-type protein, GTPase domain"</title>
+				<polygon class="PF00448" points="54,28 72,28 73,29 73,51 72,52 54,52" stroke-linejoin="round" width="19" height="24" fill="rgb(107,219,168)" stroke="rgb(85,175,134)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SRP_SPB (PF02978)
+"Signal peptide binding domain"</title>
+				<polygon class="PF02978" points="76,32 84,40 76,48" stroke-linejoin="round" width="10" height="24" fill="rgb(109,179,74)" stroke="rgb(87,143,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7805_3)</title>
+			<polygon class=" (ctg7805_3)" points="92,10 102,40 92,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ribosomal_S16 (PF00886)
+"Ribosomal protein S16"</title>
+				<polygon class="PF00886" points="92,28 94,28 97,34 97,46 94,52 92,52" stroke-linejoin="round" width="5" height="24" fill="rgb(180,71,61)" stroke="rgb(144,56,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7805_4)</title>
+			<polygon class=" (ctg7805_4)" points="103,10 110,40 103,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>KH_4 (PF13083)
+"KH domain"</title>
+				<polygon class="PF13083" points="103,28 104,28 107,40 104,52 103,52" stroke-linejoin="round" width="7" height="24" fill="rgb(210,54,170)" stroke="rgb(168,43,136)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7805_5)</title>
+			<polygon class=" (ctg7805_5)" points="110,10 128,40 110,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>RimM (PF01782)
+"RimM N-terminal domain"</title>
+				<polygon class="PF01782" points="112,28 117,28 119,31 119,49 117,52 112,52" stroke-linejoin="round" width="7" height="24" fill="rgb(203,57,98)" stroke="rgb(162,45,78)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PRC (PF05239)
+"PRC-barrel domain"</title>
+				<polygon class="PF05239" points="120,32 125,40 120,48" stroke-linejoin="round" width="7" height="24" fill="rgb(89,112,204)" stroke="rgb(71,89,163)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7805_6)</title>
+			<polygon class=" (ctg7805_6)" points="138,25 142,25 142,10 172,40 142,70 142,55 138,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_11 (PF08241)
+"Methyltransferase domain"</title>
+				<polygon class="PF08241" points="148,28 156,28 157,29 157,51 156,52 148,52" stroke-linejoin="round" width="9" height="24" fill="rgb(106,219,159)" stroke="rgb(84,175,127)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Sterol_MT_C (PF08498)
+"Sterol methyltransferase C-terminal"</title>
+				<polygon class="PF08498" points="165,37 168,40 165,43" stroke-linejoin="round" width="6" height="24" fill="rgb(65,219,176)" stroke="rgb(52,175,140)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7805_7)</title>
+			<polygon class=" (ctg7805_7)" points="284,25 203,25 203,10 173,40 203,70 203,55 284,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQHop_cyclase_C (PF13243)
+"Squalene-hopene cyclase C-terminal domain"</title>
+				<polygon class="PF13243" points="177,40 189,28 205,28 205,52 189,52" stroke-linejoin="round" width="32" height="24" fill="rgb(191,58,201)" stroke="rgb(152,46,160)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SQHop_cyclase_N (PF13249)
+"Squalene-hopene cyclase N-terminal domain"</title>
+				<rect class="PF13249" x="207" y="28" stroke-linejoin="round" width="29" height="24" fill="rgb(88,190,89)" stroke="rgb(70,152,71)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SE (PF08491)
+"Squalene epoxidase"</title>
+				<rect class="PF08491" x="245" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(93,72,221)" stroke="rgb(74,57,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7805_8)</title>
+			<polygon class=" (ctg7805_8)" points="285,40 301,10 301,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="288,40 294,28 300,28 300,52 294,52" stroke-linejoin="round" width="14" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

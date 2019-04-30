@@ -1,0 +1,35 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+FAD_binding_4        PF01565.23   139 BGC0000405.1_ORF1:gid::pid:ABR12607.1:loc:0:1659:strand:- -            529     5e-22   78.1   1.8   1   1     1e-25   1.8e-21   76.3   1.7     1   135   125   265   125   269 0.94 FAD binding domain
+Methyltransf_32      PF13679.6    158 BGC0000405.1_ORF7:gid::pid:ABR12613.1:loc:16079:17960:strand:- -            626   2.3e-21   76.4   0.0   1   1     3e-25   5.4e-21   75.2   0.0     1   158   146   393   146   393 0.87 Methyltransferase domain
+Peptidase_S41        PF03572.18   166 BGC0000405.1_ORF8:gid::pid:ABR12614.1:loc:18584:20930:strand:- -            700   3.5e-09   36.5   0.0   1   1   4.7e-13   8.5e-09   35.2   0.0     2   117   368   568   367   602 0.82 Peptidase family S41
+Condensation         PF00668.20   457 BGC0000405.1_ORF9:gid:pcbAB:pid:ABR12615.1:loc:25676:37052:strand:- -           3791  2.2e-274  910.1   2.7   1   3  3.6e-102   1.3e-98  330.7   1.0     3   456   950  1404   948  1405 0.93 Condensation domain
+Condensation         PF00668.20   457 BGC0000405.1_ORF9:gid:pcbAB:pid:ABR12615.1:loc:25676:37052:strand:- -           3791  2.2e-274  910.1   2.7   2   3  3.7e-102   1.3e-98  330.6   0.2     3   444  2026  2466  2024  2481 0.92 Condensation domain
+Condensation         PF00668.20   457 BGC0000405.1_ORF9:gid:pcbAB:pid:ABR12615.1:loc:25676:37052:strand:- -           3791  2.2e-274  910.1   2.7   3   3   8.6e-71   3.1e-67  227.2   0.0     3   441  3116  3532  3114  3542 0.91 Condensation domain
+AMP-binding          PF00501.28   423 BGC0000405.1_ORF9:gid:pcbAB:pid:ABR12615.1:loc:25676:37052:strand:- -           3791  6.9e-245  812.3   0.0   1   3   2.7e-89   9.6e-86  288.0   0.0     2   423   329   741   328   741 0.88 AMP-binding enzyme
+AMP-binding          PF00501.28   423 BGC0000405.1_ORF9:gid:pcbAB:pid:ABR12615.1:loc:25676:37052:strand:- -           3791  6.9e-245  812.3   0.0   2   3     1e-87   3.7e-84  282.8   0.0     1   423  1423  1833  1423  1833 0.85 AMP-binding enzyme
+AMP-binding          PF00501.28   423 BGC0000405.1_ORF9:gid:pcbAB:pid:ABR12615.1:loc:25676:37052:strand:- -           3791  6.9e-245  812.3   0.0   3   3   4.1e-74   1.5e-70  238.0   0.0     5   423  2510  2915  2506  2915 0.84 AMP-binding enzyme
+PP-binding           PF00550.25    67 BGC0000405.1_ORF9:gid:pcbAB:pid:ABR12615.1:loc:25676:37052:strand:- -           3791   1.8e-40  137.1   0.1   1   3   1.6e-14   5.9e-11   42.6   0.0     3    67   857   923   856   923 0.92 Phosphopantetheine attachment site
+PP-binding           PF00550.25    67 BGC0000405.1_ORF9:gid:pcbAB:pid:ABR12615.1:loc:25676:37052:strand:- -           3791   1.8e-40  137.1   0.1   2   3   4.2e-14   1.5e-10   41.3   0.0     2    66  1942  2006  1941  2007 0.95 Phosphopantetheine attachment site
+PP-binding           PF00550.25    67 BGC0000405.1_ORF9:gid:pcbAB:pid:ABR12615.1:loc:25676:37052:strand:- -           3791   1.8e-40  137.1   0.1   3   3     2e-16   7.1e-13   48.7   0.0     2    67  3031  3094  3030  3094 0.94 Phosphopantetheine attachment site
+Thioesterase         PF00975.20   231 BGC0000405.1_ORF9:gid:pcbAB:pid:ABR12615.1:loc:25676:37052:strand:- -           3791   6.8e-28   98.3   0.0   1   1   4.8e-31   1.7e-27   97.0   0.0     2   160  3562  3711  3561  3758 0.76 Thioesterase domain
+AMP-binding_C        PF13193.6     76 BGC0000405.1_ORF9:gid:pcbAB:pid:ABR12615.1:loc:25676:37052:strand:- -           3791   1.1e-25   90.5   0.0   1   2   2.5e-11     9e-08   33.0   0.0     1    76  1841  1915  1841  1915 0.90 AMP-binding enzyme C-terminal domain
+AMP-binding_C        PF13193.6     76 BGC0000405.1_ORF9:gid:pcbAB:pid:ABR12615.1:loc:25676:37052:strand:- -           3791   1.1e-25   90.5   0.0   2   2   2.6e-11   9.2e-08   33.0   0.0     1    76  2923  3003  2923  3003 0.89 AMP-binding enzyme C-terminal domain
+DIOX_N               PF14226.6    118 BGC0000405.1_ORF10:gid:pcbC:pid:ABR12616.1:loc:38067:39063:strand:+ -            331   2.2e-16   60.7   0.1   1   1   3.6e-20   3.3e-16   60.1   0.1     1   118     9   132     9   132 0.91 non-haem dioxygenase in morphine synthesis N-terminal
+2OG-FeII_Oxy         PF03171.20   101 BGC0000405.1_ORF10:gid:pcbC:pid:ABR12616.1:loc:38067:39063:strand:+ -            331   1.4e-15   57.6   0.2   1   1   4.7e-19   4.2e-15   56.1   0.0     4    99   184   286   181   288 0.88 2OG-Fe(II) oxygenase superfamily
+AAT                  PF03417.16   226 BGC0000405.1_ORF11:gid:penDE:pid:ABR12617.1:loc:40560:41835:strand:+ -            357   5.9e-47  160.2   0.0   1   1     4e-51   7.2e-47  160.0   0.0     4   225   111   334   108   335 0.94 Acyl-coenzyme A:6-aminopenicillanic acid acyl-transferase
+DAO                  PF01266.24   352 BGC0000405.1_ORF12:gid::pid:ABR12618.1:loc:42848:43628:strand:- -            259   4.5e-11   42.9   0.0   1   1   3.2e-15   5.7e-11   42.6   0.0   169   350     4   218     2   220 0.75 FAD dependent oxidoreductase
+Sacchrp_dh_NADP      PF03435.18   130 BGC0000405.1_ORF13:gid::pid:ABR12619.1:loc:44941:46297:strand:+ -            451   6.9e-12   45.8   0.1   1   1   8.5e-16   1.5e-11   44.6   0.1     1   127    11   131    11   133 0.89 Saccharopine dehydrogenase NADP binding domain
+Zn_clus              PF00172.18    40 BGC0000405.1_ORF14:gid::pid:ABR12620.1:loc:49316:49781:strand:+ -            154   5.4e-06   26.4   6.2   1   1   7.7e-10   1.4e-05   25.1   6.2     1    40    27    76    27    76 0.87 Fungal Zn(2)-Cys(6) binuclear cluster domain
+FA_hydroxylase       PF04116.13   133 BGC0000405.1_ORF16:gid:erg25:pid:ABR12622.1:loc:56116:57262:strand:- -            322   7.3e-26   91.1  18.5   1   1   4.1e-30   7.3e-26   91.1  18.5     2   133   165   301   164   301 0.87 Fatty acid hydroxylase superfamily
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000405.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000405.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000405.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:55:33 2019
+# [ok]

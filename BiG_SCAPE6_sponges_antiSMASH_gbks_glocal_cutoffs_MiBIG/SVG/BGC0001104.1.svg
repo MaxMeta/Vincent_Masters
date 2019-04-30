@@ -1,0 +1,157 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="402.7" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="392.7" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (MXAN_3939)
+enoyl-CoA hydratase/isomerase family protein</title>
+			<polygon class=" (MXAN_3939)
+enoyl-CoA hydratase/isomerase family protein" points="10,40 34,10 34,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ECH_1 (PF00378)
+"Enoyl-CoA hydratase/isomerase"</title>
+				<polygon class="PF00378" points="14,40 24,28 33,28 33,52 24,52" stroke-linejoin="round" width="23" height="24" fill="rgb(218,72,181)" stroke="rgb(174,57,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (MXAN_3940)
+enoyl-CoA hydratase/isomerase family protein</title>
+			<polygon class=" (MXAN_3940)
+enoyl-CoA hydratase/isomerase family protein" points="35,40 61,10 61,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ECH_1 (PF00378)
+"Enoyl-CoA hydratase/isomerase"</title>
+				<polygon class="PF00378" points="39,40 50,28 59,28 59,52 50,52" stroke-linejoin="round" width="24" height="24" fill="rgb(218,72,181)" stroke="rgb(174,57,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (MXAN_3941)
+polyketide synthase</title>
+			<polygon class=" (MXAN_3941)
+polyketide synthase" points="102,25 91,25 91,10 61,40 91,70 91,55 102,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<polygon class="PF02801" points="65,40 76,29 76,51 65,40" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<polygon class="PF00109" points="77,28 77,28 101,28 101,52 77,52 77,52" stroke-linejoin="round" width="24" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>fabD (MXAN_3942)
+acyltranferase/malonyl CoA-acyl carrier protein transacylase</title>
+			<polygon class="fabD (MXAN_3942)
+acyltranferase/malonyl CoA-acyl carrier protein transacylase" points="170,25 135,25 135,10 105,40 135,70 135,55 170,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acyl_transf_1 (PF00698)
+"Acyl transferase domain"</title>
+				<polygon class="PF00698" points="109,40 121,28 133,28 133,52 121,52" stroke-linejoin="round" width="28" height="24" fill="rgb(59,176,209)" stroke="rgb(47,140,167)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl_transf_1 (PF00698)
+"Acyl transferase domain"</title>
+				<rect class="PF00698" x="139" y="28" stroke-linejoin="round" width="29" height="24" fill="rgb(59,176,209)" stroke="rgb(47,140,167)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (MXAN_3943)
+cytochrome P450 family protein</title>
+			<polygon class=" (MXAN_3943)
+cytochrome P450 family protein" points="220,25 202,25 202,10 172,40 202,70 202,55 220,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="176,40 188,28 216,28 216,52 188,52" stroke-linejoin="round" width="43" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>lspA (MXAN_3944)
+signal peptidase II</title>
+			<polygon class="lspA (MXAN_3944)
+signal peptidase II" points="221,40 238,10 238,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_A8 (PF01252)
+"Signal peptidase (SPase) II"</title>
+				<polygon class="PF01252" points="224,40 231,28 236,28 236,52 231,52" stroke-linejoin="round" width="14" height="24" fill="rgb(79,62,214)" stroke="rgb(63,49,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>taF (MXAN_3945)
+polyketide TA biosynthesis protein TaF</title>
+			<polygon class="taF (MXAN_3945)
+polyketide TA biosynthesis protein TaF" points="280,25 269,25 269,10 239,40 269,70 269,55 280,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HMG_CoA_synt_C (PF08540)
+"Hydroxymethylglutaryl-coenzyme A synthase C terminal"</title>
+				<polygon class="PF08540" points="243,40 253,30 253,50" stroke-linejoin="round" width="11" height="24" fill="rgb(49,194,86)" stroke="rgb(39,155,68)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HMG_CoA_synt_N (PF01154)
+"Hydroxymethylglutaryl-coenzyme A synthase N terminal"</title>
+				<rect class="PF01154" x="262" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(88,216,218)" stroke="rgb(70,172,174)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (MXAN_3946)
+putative acyl carier protein</title>
+			<polygon class=" (MXAN_3946)
+putative acyl carier protein" points="281,40 289,10 289,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="284,40 287,28 287,28 287,52 287,52" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (MXAN_3947)
+conserved hypothetical protein</title>
+			<polygon class=" (MXAN_3947)
+conserved hypothetical protein" points="321,25 319,25 319,10 289,40 319,70 319,55 321,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LnmK_N_HDF (PF18238)
+"LnmK N-terminal Hot Dog Fold domain"</title>
+				<polygon class="PF18238" points="302,31 305,28 319,28 319,52 305,52 302,49" stroke-linejoin="round" width="17" height="24" fill="rgb(63,186,183)" stroke="rgb(50,148,146)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>taC (MXAN_3948)
+polyketide TA biosynthesis protein TaC</title>
+			<polygon class="taC (MXAN_3948)
+polyketide TA biosynthesis protein TaC" points="364,25 352,25 352,10 322,40 352,70 352,55 364,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HMG_CoA_synt_C (PF08540)
+"Hydroxymethylglutaryl-coenzyme A synthase C terminal"</title>
+				<polygon class="PF08540" points="326,40 335,31 335,49" stroke-linejoin="round" width="10" height="24" fill="rgb(49,194,86)" stroke="rgb(39,155,68)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HMG_CoA_synt_N (PF01154)
+"Hydroxymethylglutaryl-coenzyme A synthase N terminal"</title>
+				<rect class="PF01154" x="346" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(88,216,218)" stroke="rgb(70,172,174)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (MXAN_3949)
+acyl carrier protein</title>
+			<polygon class=" (MXAN_3949)
+acyl carrier protein" points="365,40 373,10 373,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="368,40 371,28 371,28 371,52 371,52" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>taA (MXAN_3950)
+NusG-like protein</title>
+			<polygon class="taA (MXAN_3950)
+NusG-like protein" points="375,40 391,10 391,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NusG (PF02357)
+"Transcription termination factor nusG"</title>
+				<polygon class="PF02357" points="382,33 385,28 391,28 391,52 385,52 382,47" stroke-linejoin="round" width="9" height="24" fill="rgb(166,222,79)" stroke="rgb(132,177,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,30 @@
+#                                                                                                                          --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                         accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                               -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Aldedh               PF00171.22   462 CS211_c00001_NODE_1_...cluster169_ORF2:gid::pid::loc:135:1203:strand:+ -            355  1.7e-126  422.4   0.9   1   1  1.1e-130  1.9e-126  422.3   0.9   115   460     9   351     1   353 0.97 Aldehyde dehydrogenase family
+SQS_PSY              PF00494.19   263 CS211_c00001_NODE_1_...cluster169_ORF3:gid::pid::loc:1507:2452:strand:+ -            314   2.6e-59  200.9   0.3   1   1   1.8e-63   3.3e-59  200.5   0.3     2   257    40   287    39   292 0.95 Squalene/phytoene synthase
+SQS_PSY              PF00494.19   263 CS211_c00001_NODE_1_...cluster169_ORF4:gid::pid::loc:2448:3324:strand:+ -            291   2.3e-63  214.2   1.8   1   1   1.6e-67   2.8e-63  213.9   1.8     4   263    17   277    15   277 0.94 Squalene/phytoene synthase
+Amino_oxidase        PF01593.24   452 CS211_c00001_NODE_1_...cluster169_ORF5:gid::pid::loc:3320:4709:strand:+ -            462   4.2e-36  125.2   0.6   1   1   2.4e-39   5.3e-36  124.9   0.6     1   449    14   436    14   439 0.81 Flavin containing amine oxidoreductase
+DAO                  PF01266.24   352 CS211_c00001_NODE_1_...cluster169_ORF5:gid::pid::loc:3320:4709:strand:+ -            462   3.5e-12   46.6   9.5   1   1   9.9e-15   2.2e-11   43.9   9.5     1   339     6   420     6   425 0.63 FAD dependent oxidoreductase
+NAD_binding_8        PF13450.6     68 CS211_c00001_NODE_1_...cluster169_ORF5:gid::pid::loc:3320:4709:strand:+ -            462   4.2e-11   42.9   1.0   1   1   3.6e-14     8e-11   42.0   0.4     1    54     9    62     9    72 0.95 NAD(P)-binding Rossmann-like domain
+FAD_oxidored         PF12831.7    433 CS211_c00001_NODE_1_...cluster169_ORF5:gid::pid::loc:3320:4709:strand:+ -            462   1.7e-09   37.6   0.3   1   1   1.2e-12   2.6e-09   36.9   0.3     2    38     7    43     6    72 0.95 FAD dependent oxidoreductase
+FAD_binding_2        PF00890.24   417 CS211_c00001_NODE_1_...cluster169_ORF5:gid::pid::loc:3320:4709:strand:+ -            462   1.6e-07   30.8   2.1   1   1   9.1e-11     2e-07   30.4   0.9     2    38     7    43     6    46 0.94 FAD binding domain
+Pyr_redox            PF00070.27    81 CS211_c00001_NODE_1_...cluster169_ORF5:gid::pid::loc:3320:4709:strand:+ -            462   6.4e-06   26.6   0.4   1   1   7.8e-08   0.00018   22.0   0.2     1    35     6    40     6    48 0.94 Pyridine nucleotide-disulphide oxidoreductase
+polyprenyl_synt      PF00348.17   256 CS211_c00001_NODE_1_...cluster169_ORF6:gid::pid::loc:4705:5722:strand:+ -            338   4.6e-52  176.6   0.0   1   1   3.4e-56   6.1e-52  176.2   0.0    14   254    53   287    49   289 0.94 Polyprenyl synthetase
+ABC_tran             PF00005.27   137 CS211_c00001_NODE_1_...cluster169_ORF7:gid::pid::loc:5858:6878:strand:+ -            339   2.1e-33  115.7   0.0   1   1   4.9e-37   2.9e-33  115.3   0.0     1   136    19   160    19   161 0.95 ABC transporter
+TOBE_2               PF08402.10    76 CS211_c00001_NODE_1_...cluster169_ORF7:gid::pid::loc:5858:6878:strand:+ -            339   8.6e-09   35.5   2.9   1   1   3.1e-12   1.9e-08   34.4   0.2     1    68   267   325   267   333 0.91 TOBE domain
+LYTB                 PF02401.18   264 CS211_c00001_NODE_1_...cluster169_ORF8:gid::pid::loc:7137:8319:strand:+ -            393   7.3e-76  254.9   0.0   1   1   4.7e-80   8.4e-76  254.7   0.0     1   263    15   291    15   292 0.95 LytB protein
+DUF2236              PF09995.9    227 CS211_c00001_NODE_1_...cluster169_ORF9:gid::pid::loc:8229:9405:strand:- -            391   2.3e-22   80.3   0.4   1   1   2.3e-26   4.2e-22   79.5   0.4     9   214   109   340    97   350 0.82 Uncharacterized protein conserved in bacteria (DUF2236)
+MMPL                 PF03176.15   333 CS211_c00001_NODE_1_...cluster169_ORF10:gid::pid::loc:9401:11636:strand:- -            744   4.5e-85  285.5  35.0   1   2   1.2e-55   2.2e-51  174.8  18.1     8   331    50   377    45   379 0.89 MMPL family
+MMPL                 PF03176.15   333 CS211_c00001_NODE_1_...cluster169_ORF10:gid::pid::loc:9401:11636:strand:- -            744   4.5e-85  285.5  35.0   2   2   6.7e-38   1.2e-33  116.5   8.9    88   309   483   716   419   732 0.91 MMPL family
+PEPcase              PF00311.17   795 CS211_c00001_NODE_1_...cluster169_ORF11:gid::pid::loc:11888:12047:strand:- -             52   8.5e-16   57.2   0.1   1   1   5.1e-20   9.1e-16   57.1   0.1   737   795     2    52     1    52 0.94 Phosphoenolpyruvate carboxylase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster169.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS211_c00001_NODE_1_...cluster169.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster169.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:34:27 2019
+# [ok]

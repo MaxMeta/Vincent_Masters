@@ -1,0 +1,23 @@
+#                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Glycos_transf_2      PF00535.26   170 BGC0000756.1_ORF2:gid:ccbF1:pid:ACY25513.1:loc:2046:3591:strand:+ -            514   1.5e-27   96.5   0.2   1   1   3.5e-31   3.1e-27   95.4   0.2     1   120   263   381   263   414 0.95 Glycosyl transferase family 2
+Glyco_tranf_2_3      PF13641.6    230 BGC0000756.1_ORF2:gid:ccbF1:pid:ACY25513.1:loc:2046:3591:strand:+ -            514   8.4e-13   48.7   0.0   1   1   2.1e-16   1.9e-12   47.6   0.0     4   127   262   380   260   441 0.88 Glycosyltransferase like family 2
+DDE_Tnp_IS1595       PF12762.7    153 BGC0000756.1_ORF4:gid::pid:ACY25515.1:loc:4579:5230:strand:+ -            216   2.4e-37  128.3   0.4   1   1     2e-41   3.6e-37  127.7   0.1     2   153    59   196    58   196 0.98 ISXO2-like transposase domain
+UDPG_MGDP_dh_N       PF03721.14   187 BGC0000756.1_ORF5:gid:ccbC:pid:ACY25516.1:loc:5413:6586:strand:+ -            390   1.2e-35  122.8   0.4   1   1   4.6e-39   2.1e-35  122.0   0.4     2   181     3   169     2   175 0.91 UDP-glucose/GDP-mannose dehydrogenase family, NAD binding domain
+UDPG_MGDP_dh         PF00984.19    94 BGC0000756.1_ORF5:gid:ccbC:pid:ACY25516.1:loc:5413:6586:strand:+ -            390   1.7e-26   92.2   0.0   1   1   7.4e-30   3.3e-26   91.3   0.0     2    93   193   282   192   283 0.97 UDP-glucose/GDP-mannose dehydrogenase family, central domain
+UDPG_MGDP_dh_C       PF03720.15   105 BGC0000756.1_ORF5:gid:ccbC:pid:ACY25516.1:loc:5413:6586:strand:+ -            390   5.4e-11   42.8   0.9   1   1   6.7e-12     3e-08   34.0   0.1     2    74   302   368   301   383 0.89 UDP-glucose/GDP-mannose dehydrogenase family, UDP binding domain
+NAD_Gly3P_dh_N       PF01210.23   157 BGC0000756.1_ORF5:gid:ccbC:pid:ACY25516.1:loc:5413:6586:strand:+ -            390   1.9e-05   24.7   0.0   1   1   9.6e-09   4.3e-05   23.5   0.0     1    81     3    86     3    91 0.79 NAD-dependent glycerol-3-phosphate dehydrogenase N-terminus
+Glycos_transf_2      PF00535.26   170 BGC0000756.1_ORF6:gid:ccbB:pid:ACY25517.1:loc:7082:8012:strand:+ -            309   1.7e-29  102.8   0.1   1   1   1.2e-32     7e-29  100.8   0.0     1   126    42   164    42   212 0.87 Glycosyl transferase family 2
+Glyco_tranf_2_3      PF13641.6    230 BGC0000756.1_ORF6:gid:ccbB:pid:ACY25517.1:loc:7082:8012:strand:+ -            309   1.7e-09   37.9   0.0   1   1   5.9e-13   3.5e-09   36.9   0.0     4   126    41   158    39   207 0.87 Glycosyltransferase like family 2
+Glyco_tranf_2_2      PF10111.9    276 BGC0000756.1_ORF6:gid:ccbB:pid:ACY25517.1:loc:7082:8012:strand:+ -            309   6.5e-07   29.1   0.4   1   1   2.2e-10   1.3e-06   28.1   0.3     8   112    47   145    41   184 0.83 Glycosyltransferase like family 2
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000756.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000756.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000756.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:35:38 2019
+# [ok]

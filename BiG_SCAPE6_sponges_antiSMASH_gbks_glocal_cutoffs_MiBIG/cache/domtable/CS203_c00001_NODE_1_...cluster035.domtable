@@ -1,0 +1,22 @@
+#                                                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+adh_short_C2         PF13561.6    234 CS203_c00001_NODE_1_...cluster035_ORF2:gid::pid::loc:1035:1785:strand:- -            249   2.5e-62  210.5   6.8   1   1   9.2e-66   4.1e-62  209.8   6.8     1   234    13   242    13   242 0.93 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.25   195 CS203_c00001_NODE_1_...cluster035_ORF2:gid::pid::loc:1035:1785:strand:- -            249   3.2e-48  163.8   5.5   1   1   1.8e-51   8.1e-48  162.5   5.5     2   192     8   188     7   191 0.94 short chain dehydrogenase
+KR                   PF08659.10   180 CS203_c00001_NODE_1_...cluster035_ORF2:gid::pid::loc:1035:1785:strand:- -            249   6.5e-11   42.5   4.8   1   1   7.8e-13   3.5e-09   36.8   4.8     2   161     8   157     7   166 0.87 KR domain
+Epimerase            PF01370.21   241 CS203_c00001_NODE_1_...cluster035_ORF2:gid::pid::loc:1035:1785:strand:- -            249   7.3e-06   25.6   0.6   1   1   3.7e-09   1.7e-05   24.5   0.6     1   159     9   162     9   210 0.72 NAD dependent epimerase/dehydratase family
+Beta-lactamase       PF00144.24   330 CS203_c00001_NODE_1_...cluster035_ORF5:gid::pid::loc:2786:3926:strand:+ -            379   5.8e-63  213.1   3.9   1   1   4.1e-67   7.4e-63  212.8   3.9     1   323    18   369    17   376 0.88 Beta-lactamase
+Methyltransf_25      PF13649.6     97 CS203_c00001_NODE_1_...cluster035_ORF6:gid::pid::loc:4020:4620:strand:- -            199   1.3e-10   41.8   0.0   1   1   5.4e-14   3.2e-10   40.6   0.0     2    97    21   111    21   111 0.89 Methyltransferase domain
+Methyltransf_23      PF13489.6    165 CS203_c00001_NODE_1_...cluster035_ORF6:gid::pid::loc:4020:4620:strand:- -            199   8.3e-09   35.5   0.0   1   1   1.9e-12   1.1e-08   35.1   0.0     8   159     2   155     1   156 0.86 Methyltransferase domain
+Methyltransf_11      PF08241.12    96 CS203_c00001_NODE_1_...cluster035_ORF6:gid::pid::loc:4020:4620:strand:- -            199   1.7e-07   31.8   0.0   1   1   6.8e-11   4.1e-07   30.6   0.0     1    95    21   114    21   115 0.86 Methyltransferase domain
+ABC_tran             PF00005.27   137 CS203_c00001_NODE_1_...cluster035_ORF8:gid::pid::loc:5263:5908:strand:- -            214     3e-09   37.5   0.0   1   1   2.7e-13   4.9e-09   36.8   0.0     1    49   142   190   142   202 0.94 ABC transporter
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS203_c00001_NODE_1_...cluster035.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS203_c00001_NODE_1_...cluster035.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS203_c00001_NODE_1_...cluster035.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:51:20 2019
+# [ok]

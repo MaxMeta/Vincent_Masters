@@ -1,0 +1,22 @@
+#                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+polyprenyl_synt      PF00348.17   256 BGC0000637.1_ORF1:gid:crtE:pid:AAK64296.1:loc:540:1689:strand:+ -            382   1.5e-48  165.1   0.0   1   1   1.2e-52   2.2e-48  164.6   0.0     8   249    59   324    52   331 0.87 Polyprenyl synthetase
+MMPL                 PF03176.15   333 BGC0000637.1_ORF2:gid::pid:AAK64297.1:loc:1724:3917:strand:+ -            730  3.4e-112  374.7  25.3   1   2   3.4e-63     3e-59  200.6   7.5     7   332    61   380    54   381 0.89 MMPL family
+MMPL                 PF03176.15   333 BGC0000637.1_ORF2:gid::pid:AAK64297.1:loc:1724:3917:strand:+ -            730  3.4e-112  374.7  25.3   2   2   6.4e-57   5.7e-53  180.0   9.8    13   321   420   717   412   728 0.82 MMPL family
+ACR_tran             PF00873.19  1021 BGC0000637.1_ORF2:gid::pid:AAK64297.1:loc:1724:3917:strand:+ -            730   2.3e-07   28.9   8.5   1   1   2.5e-11   2.3e-07   28.9   8.5   824  1020   139   338    71   339 0.73 AcrB/AcrD/AcrF family
+SQS_PSY              PF00494.19   263 BGC0000637.1_ORF3:gid:crtB:pid:AAK64298.1:loc:3913:4828:strand:+ -            304   3.4e-30  105.5   0.3   1   1     6e-33   1.1e-28  100.5   0.3     3   177    31   212    29   281 0.81 Squalene/phytoene synthase
+Amino_oxidase        PF01593.24   452 BGC0000637.1_ORF4:gid:crtI:pid:AAK64299.1:loc:4824:6474:strand:+ -            549     2e-22   80.1   0.1   1   1   2.7e-25   1.2e-21   77.6   0.1     1   445    22   516    22   518 0.70 Flavin containing amine oxidoreductase
+NAD_binding_8        PF13450.6     68 BGC0000637.1_ORF4:gid:crtI:pid:AAK64299.1:loc:4824:6474:strand:+ -            549   2.3e-15   56.5   0.1   1   1   1.1e-18   4.9e-15   55.5   0.1     1    65    17    84    17    86 0.96 NAD(P)-binding Rossmann-like domain
+UbiA                 PF01040.18   252 BGC0000637.1_ORF7:gid:crtEb:pid:AAK64302.1:loc:7318:8182:strand:+ -            287     2e-35  122.3  21.0   1   1   1.5e-39   2.6e-35  121.9  21.0     4   251    23   269    20   270 0.81 UbiA prenyltransferase family
+Suc_Fer-like         PF06999.12   195 BGC0000637.1_ORF8:gid::pid:AAK64303.1:loc:8190:9054:strand:- -            287   9.4e-18   64.8   0.0   1   1   7.1e-22   1.3e-17   64.3   0.0     1   178    13   188    13   205 0.81 Sucrase/ferredoxin-like
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000637.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000637.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000637.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:50:11 2019
+# [ok]

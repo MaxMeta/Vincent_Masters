@@ -1,0 +1,24 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DUF1100              PF06500.11   411 BGC0000196.1_ORF1:gid::pid:CAE16558.1:loc:953:2108:strand:- -            384   6.2e-09   35.1   0.0   1   1   9.7e-13   8.7e-09   34.7   0.0    94   292    63   268    60   283 0.90 Alpha/beta hydrolase of unknown function (DUF1100)
+Peptidase_S9         PF00326.21   212 BGC0000196.1_ORF1:gid::pid:CAE16558.1:loc:953:2108:strand:- -            384   3.4e-06   26.7   0.0   1   1   8.6e-10   7.7e-06   25.5   0.0    53   207   226   374   221   377 0.77 Prolyl oligopeptidase family
+Polyketide_cyc       PF03364.20   130 BGC0000196.1_ORF2:gid::pid:CAE16559.1:loc:2127:3570:strand:- -            480   6.5e-36  123.4   0.0   1   3   4.4e-10   7.9e-06   26.1   0.0     2   106    12   115    11   125 0.85 Polyketide cyclase / dehydrase and lipid transport
+Polyketide_cyc       PF03364.20   130 BGC0000196.1_ORF2:gid::pid:CAE16559.1:loc:2127:3570:strand:- -            480   6.5e-36  123.4   0.0   2   3   8.7e-18   1.6e-13   51.0   0.0     2   129   175   297   174   298 0.89 Polyketide cyclase / dehydrase and lipid transport
+Polyketide_cyc       PF03364.20   130 BGC0000196.1_ORF2:gid::pid:CAE16559.1:loc:2127:3570:strand:- -            480   6.5e-36  123.4   0.0   3   3   2.9e-15   5.3e-11   42.8   0.0     1   125   334   453   334   458 0.88 Polyketide cyclase / dehydrase and lipid transport
+AMP-binding          PF00501.28   423 BGC0000196.1_ORF3:gid::pid:CAE16560.1:loc:3569:5117:strand:- -            515   6.1e-44  150.3   0.0   1   1   4.3e-48   7.7e-44  149.9   0.0    14   420    20   400     9   403 0.75 AMP-binding enzyme
+PP-binding           PF00550.25    67 BGC0000196.1_ORF4:gid::pid:CAE16561.1:loc:5140:5389:strand:- -             82   4.1e-10   39.9   0.1   1   1   2.5e-14   4.5e-10   39.7   0.1     2    66     8    73     7    74 0.92 Phosphopantetheine attachment site
+ketoacyl-synt        PF00109.26   253 BGC0000196.1_ORF5:gid::pid:CAE16562.1:loc:5423:6539:strand:- -            371   2.8e-19   69.7   0.4   1   1   2.5e-22   4.5e-18   65.7   0.4     2   253     3   233     2   233 0.82 Beta-ketoacyl synthase, N-terminal domain
+ketoacyl-synt        PF00109.26   253 BGC0000196.1_ORF6:gid::pid:CAE16563.1:loc:6531:7818:strand:- -            428   8.1e-41  140.3   0.7   1   1   1.6e-44   1.4e-40  139.5   0.3     2   253    12   260    11   260 0.90 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.22   118 BGC0000196.1_ORF6:gid::pid:CAE16563.1:loc:6531:7818:strand:- -            428   9.4e-31  106.3   1.6   1   1   1.5e-33   1.4e-29  102.5   0.8     1   117   268   382   268   383 0.98 Beta-ketoacyl synthase, C-terminal domain
+Cyclase              PF04199.13   136 BGC0000196.1_ORF7:gid::pid:CAE16564.1:loc:8469:9285:strand:- -            271   2.5e-34  118.5   0.1   1   1   1.8e-38   3.1e-34  118.1   0.1     1   136     5   200     5   200 0.85 Putative cyclase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000196.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000196.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000196.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:47:57 2019
+# [ok]

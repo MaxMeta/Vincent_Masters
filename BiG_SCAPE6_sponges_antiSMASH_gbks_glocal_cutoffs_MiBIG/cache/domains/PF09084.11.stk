@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+BGC0000213.1_ORF8:gid::pid:AIL50159.1:loc:10257:11232:strand:+:49:267                     d---VAPLYLGQKKGFFSSRGIELEMESAQGGAAIIPGVVSGQFQFGFSNTTSLMVAQTRGVPVKSVVNGATttgnttTDVTGVAVRKDSPIRSAKDLAGRTVAVNTlKNIGDTTVRESVRKDGGDPSKVKFVELPFDQMPAALDGGRVDAAWMGEPA-QTIA-KSQGARVVTSPFAETDP-RLTLATYFTTTRLTKENP
+#=GR BGC0000213.1_ORF8:gid::pid:AIL50159.1:loc:10257:11232:strand:+:49:267             PP 6...69*************************************************************8765411111155789**********************998999************************99999889**********55444.6665.9***************6.******************
+CS200_c00001_NODE_1_...cluster200_ORF5:gid::pid::loc:3693:4689:strand:+:46:258            .-TNHTGLYVARENGYFEDENLDFEIIEPAE-GGGPQVVGAGKVEFGIGFQEFMTPARLEGIPVVSIASIIQ......HNTSGFASHADRGITRPRDFEGKTYGGFG.SPLELAFLRTMMEADGADPESLKTVDAGAADFL-TIIQRDVDLYW-IFFAWQGVKAGLEGIEINTVFLRDWGVPDYYTPLLMTNESLIEKNP
+#=GR CS200_c00001_NODE_1_...cluster200_ORF5:gid::pid::loc:3693:4689:strand:+:46:258    PP ..79*************************99.999*************************************......*****************************.***************************998887.9**********.**********************************************
+CS202_c00001_NODE_1_...cluster084_ORF18:gid::pid::loc:20664:21768:strand:-:56:266         g---HAFEFVAQKQGW-KKRGLDVAIARGYGSGAACKTISAGKAMFGEASYGVMVNGVSKGLDVVAIGAKLQ......RSPIAISCRKDSGIKTAKDLEGKHLVQAA.ASGDTVMFPGFTRAAGIDKAKVKQTIVHPSKLISTVVNKQADCTG-TYYVSNAATLASKTPS-VHFLYADFGL-QTLDLGLITRSDMIKNDP
+#=GR CS202_c00001_NODE_1_...cluster084_ORF18:gid::pid::loc:20664:21768:strand:-:56:266 PP 7...9999*******9.9******************************************************......*****************************.******************************************996.88888****9888655.567889***9.999***************
+#=GC PP_cons                                                                              ..7989*************************************************************99988......8899*************************.***************************9999989**********95877798888*999888*89999****9*******************
+#=GC RF                                                                                   .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx......xxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BGC0000213.1_ORF8:gid::pid:AIL50159.1:loc:10257:11232:strand:+:49:267                     DLVKKFTEAMTESLEYASEHPEEA
+#=GR BGC0000213.1_ORF8:gid::pid:AIL50159.1:loc:10257:11232:strand:+:49:267             PP ***********************8
+CS200_c00001_NODE_1_...cluster200_ORF5:gid::pid::loc:3693:4689:strand:+:46:258            DVVTGAVAAIARGYEFAIEKPADA
+#=GR CS200_c00001_NODE_1_...cluster200_ORF5:gid::pid::loc:3693:4689:strand:+:46:258    PP *********************987
+CS202_c00001_NODE_1_...cluster084_ORF18:gid::pid::loc:20664:21768:strand:-:56:266         DLVQAMVDGAMEGLKLQILEPEKA
+#=GR CS202_c00001_NODE_1_...cluster084_ORF18:gid::pid::loc:20664:21768:strand:-:56:266 PP *********************997
+#=GC PP_cons                                                                              *********************997
+#=GC RF                                                                                   xxxxxxxxxxxxxxxxxxxxxxxx
+//

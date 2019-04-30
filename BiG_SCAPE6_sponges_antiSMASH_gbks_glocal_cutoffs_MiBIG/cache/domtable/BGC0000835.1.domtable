@@ -1,0 +1,33 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+adh_short            PF00106.25   195 BGC0000835.1_ORF1:gid:simK:pid:AAG34182.1:loc:99:810:strand:+ -            236     2e-31  109.0   1.1   1   1   2.8e-35   2.5e-31  108.7   1.1     2   190     4   191     3   196 0.91 short chain dehydrogenase
+adh_short_C2         PF13561.6    234 BGC0000835.1_ORF1:gid:simK:pid:AAG34182.1:loc:99:810:strand:+ -            236   1.1e-28  100.4   7.1   1   1   4.3e-32   3.8e-28   98.6   7.1     1   229     9   229     9   231 0.87 Enoyl-(Acyl carrier protein) reductase
+AMP-binding          PF00501.28   423 BGC0000835.1_ORF2:gid:simL:pid:AAG34183.1:loc:846:2406:strand:+ -            519   3.1e-59  200.7   0.3   1   1   4.3e-63   3.8e-59  200.4   0.3     9   422    19   415    13   416 0.88 AMP-binding enzyme
+AMP-binding_C        PF13193.6     76 BGC0000835.1_ORF2:gid:simL:pid:AAG34183.1:loc:846:2406:strand:+ -            519   2.4e-13   50.9   1.0   1   1   5.7e-17   5.1e-13   49.8   0.1     2    76   425   499   424   499 0.92 AMP-binding enzyme C-terminal domain
+AMP-binding          PF00501.28   423 BGC0000835.1_ORF3:gid:simH:pid:AAG34184.1:loc:2434:5428:strand:+ -            997     3e-94  316.0   0.0   1   1   9.5e-98   4.2e-94  315.5   0.0     1   423   413   808   413   808 0.89 AMP-binding enzyme
+Condensation         PF00668.20   457 BGC0000835.1_ORF3:gid:simH:pid:AAG34184.1:loc:2434:5428:strand:+ -            997   1.5e-20   73.4   0.0   1   1   5.9e-24   2.7e-20   72.5   0.0   123   456    81   393    71   394 0.85 Condensation domain
+AMP-binding_C        PF13193.6     76 BGC0000835.1_ORF3:gid:simH:pid:AAG34184.1:loc:2434:5428:strand:+ -            997   1.5e-14   54.7   0.3   1   1   4.4e-17     2e-13   51.1   0.0     1    76   816   891   816   891 0.95 AMP-binding enzyme C-terminal domain
+PP-binding           PF00550.25    67 BGC0000835.1_ORF3:gid:simH:pid:AAG34184.1:loc:2434:5428:strand:+ -            997   5.1e-12   46.0   0.0   1   1   3.1e-15   1.4e-11   44.6   0.0     3    65   919   978   918   979 0.94 Phosphopantetheine attachment site
+p450                 PF00067.22   463 BGC0000835.1_ORF4:gid:simI:pid:AAG34185.1:loc:5439:6690:strand:+ -            416     1e-24   87.2   0.0   1   1   1.8e-19   3.2e-15   55.8   0.0   325   426   281   372   280   378 0.92 Cytochrome P450
+MbtH                 PF03621.13    53 BGC0000835.1_ORF5:gid:simY:pid:AAG34186.1:loc:6726:6939:strand:+ -             70     5e-26   89.9   0.0   1   1   3.3e-30   5.9e-26   89.7   0.0     1    53     1    53     1    53 0.98 MbtH-like protein
+adh_short_C2         PF13561.6    234 BGC0000835.1_ORF6:gid:simJ1:pid:AAG34187.1:loc:6949:7771:strand:+ -            273   2.1e-69  233.6   8.1   1   1   5.5e-73   2.5e-69  233.4   8.1     1   232    34   271    34   273 0.94 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.25   195 BGC0000835.1_ORF6:gid:simJ1:pid:AAG34187.1:loc:6949:7771:strand:+ -            273   3.9e-57  192.9   7.2   1   1     1e-60   4.5e-57  192.7   7.2     2   191    29   217    28   221 0.98 short chain dehydrogenase
+KR                   PF08659.10   180 BGC0000835.1_ORF6:gid:simJ1:pid:AAG34187.1:loc:6949:7771:strand:+ -            273   8.4e-18   64.9   5.2   1   1   2.5e-21   1.1e-17   64.5   5.2     3   162    30   188    28   204 0.89 KR domain
+Epimerase            PF01370.21   241 BGC0000835.1_ORF6:gid:simJ1:pid:AAG34187.1:loc:6949:7771:strand:+ -            273   1.2e-06   28.1   1.3   1   1   4.2e-10   1.9e-06   27.5   1.3     2   124    31   172    30   202 0.78 NAD dependent epimerase/dehydratase family
+Trans_reg_C          PF00486.28    77 BGC0000835.1_ORF7:gid:sim1:pid:AAG34188.1:loc:7940:8696:strand:+ -            251   1.3e-23   82.8   0.0   1   1   2.8e-27   2.5e-23   81.9   0.0     1    77   167   239   167   239 0.98 Transcriptional regulatory protein, C terminal
+Response_reg         PF00072.24   112 BGC0000835.1_ORF7:gid:sim1:pid:AAG34188.1:loc:7940:8696:strand:+ -            251     4e-13   49.5   0.0   1   1   6.9e-17   6.2e-13   48.9   0.0    38   111    51   123    17   124 0.85 Response regulator receiver domain
+adh_short_C2         PF13561.6    234 BGC0000835.1_ORF8:gid:simJ2:pid:AAG34189.1:loc:9017:9758:strand:+ -            246   9.8e-63  211.8   3.6   1   1   2.4e-66   1.1e-62  211.7   3.6     3   234    15   245     7   245 0.96 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.25   195 BGC0000835.1_ORF8:gid:simJ2:pid:AAG34189.1:loc:9017:9758:strand:+ -            246   5.4e-57  192.4   0.6   1   1   1.4e-60   6.4e-57  192.2   0.6     2   192     8   199     7   202 0.96 short chain dehydrogenase
+KR                   PF08659.10   180 BGC0000835.1_ORF8:gid:simJ2:pid:AAG34189.1:loc:9017:9758:strand:+ -            246   1.7e-23   83.5   0.6   1   1   5.8e-27   2.6e-23   82.9   0.4     1   155     7   162     7   191 0.87 KR domain
+Epimerase            PF01370.21   241 BGC0000835.1_ORF8:gid:simJ2:pid:AAG34189.1:loc:9017:9758:strand:+ -            246   1.9e-06   27.5   0.1   1   1   6.5e-10   2.9e-06   26.9   0.1     1   117     9   145     9   193 0.76 NAD dependent epimerase/dehydratase family
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000835.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000835.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000835.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:49:47 2019
+# [ok]

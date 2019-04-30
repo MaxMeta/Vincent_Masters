@@ -1,0 +1,81 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="301.96666666666664" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="291.96666666666664" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg6096_1)</title>
+			<polygon class=" (ctg6096_1)" points="10,25 10,25 10,10 40,40 10,70 10,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg6096_2)</title>
+			<polygon class=" (ctg6096_2)" points="49,25 49,25 49,10 79,40 49,70 49,55 49,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Bac_luciferase (PF00296)
+"Luciferase-like monooxygenase"</title>
+				<polygon class="PF00296" points="49,28 63,28 73,38 73,42 63,52 49,52" stroke-linejoin="round" width="24" height="24" fill="rgb(180,112,78)" stroke="rgb(144,89,62)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6096_3)</title>
+			<polygon class=" (ctg6096_3)" points="80,25 85,25 85,10 115,40 85,70 85,55 80,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="82,28 99,28 111,40 99,52 82,52" stroke-linejoin="round" width="30" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6096_4)</title>
+			<polygon class=" (ctg6096_4)" points="119,25 125,25 125,10 155,40 125,70 125,55 119,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MR_MLE_N (PF02746)
+"Mandelate racemase / muconate lactonizing enzyme, N-terminal domain"</title>
+				<rect class="PF02746" x="119" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(63,73,226)" stroke="rgb(50,58,180)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MR_MLE_C (PF13378)
+"Enolase C-terminal domain-like"</title>
+				<polygon class="PF13378" points="133,28 139,28 151,40 139,52 133,52" stroke-linejoin="round" width="20" height="24" fill="rgb(191,184,94)" stroke="rgb(152,147,75)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6096_5)</title>
+			<polygon class=" (ctg6096_5)" points="157,25 161,25 161,10 191,40 161,70 161,55 157,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>RelA_SpoT (PF04607)
+"Region found in RelA / SpoT proteins"</title>
+				<rect class="PF04607" x="163" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(227,74,90)" stroke="rgb(181,59,71)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6096_6)</title>
+			<polygon class=" (ctg6096_6)" points="199,40 217,10 217,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FKBP_C (PF00254)
+"FKBP-type peptidyl-prolyl cis-trans isomerase"</title>
+				<polygon class="PF00254" points="203,40 210,28 216,28 216,52 210,52 203,40" stroke-linejoin="round" width="13" height="24" fill="rgb(137,65,200)" stroke="rgb(109,51,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6096_7)</title>
+			<polygon class=" (ctg6096_7)" points="250,25 249,25 249,10 219,40 249,70 249,55 250,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PEP_mutase (PF13714)
+"Phosphoenolpyruvate phosphomutase"</title>
+				<polygon class="PF13714" points="224,39 235,28 248,28 248,52 235,52 224,41" stroke-linejoin="round" width="24" height="24" fill="rgb(215,91,155)" stroke="rgb(172,72,123)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6096_8)</title>
+			<polygon class=" (ctg6096_8)" points="250,40 276,10 276,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Epimerase (PF01370)
+"NAD dependent epimerase/dehydratase family"</title>
+				<polygon class="PF01370" points="255,39 265,28 275,28 275,52 265,52 255,41" stroke-linejoin="round" width="20" height="24" fill="rgb(98,102,214)" stroke="rgb(78,81,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6096_9)</title>
+			<polygon class=" (ctg6096_9)" points="287,10 290,40 287,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

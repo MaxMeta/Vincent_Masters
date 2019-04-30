@@ -1,0 +1,184 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="776.5666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="766.5666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg583_1)</title>
+			<polygon class=" (ctg583_1)" points="10,25 69,25 69,10 99,40 69,70 69,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="14" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<rect class="PF02801" x="40" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KAsynt_C_assoc (PF16197)
+"Ketoacyl-synthetase C-terminal extension"</title>
+				<rect class="PF16197" x="52" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(240,150,172)" stroke="rgb(192,120,137)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl_transf_1 (PF00698)
+"Acyl transferase domain"</title>
+				<polygon class="PF00698" points="70,28 83,28 85,30 85,50 83,52 70,52" stroke-linejoin="round" width="15" height="24" fill="rgb(59,176,209)" stroke="rgb(47,140,167)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg583_2)</title>
+			<polygon class=" (ctg583_2)" points="117,10 144,40 117,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Metallophos (PF00149)
+"Calcineurin-like phosphoesterase"</title>
+				<polygon class="PF00149" points="117,28 129,28 140,40 140,40 129,52 117,52" stroke-linejoin="round" width="23" height="24" fill="rgb(181,197,58)" stroke="rgb(144,157,46)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg583_3)</title>
+			<polygon class=" (ctg583_3)" points="146,25 152,25 152,10 182,40 152,70 152,55 146,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GFO_IDH_MocA (PF01408)
+"Oxidoreductase family, NAD-binding Rossmann fold"</title>
+				<rect class="PF01408" x="146" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(76,117,190)" stroke="rgb(60,93,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg583_4)</title>
+			<polygon class=" (ctg583_4)" points="240,25 213,25 213,10 183,40 213,70 213,55 240,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PepX_C (PF08530)
+"X-Pro dipeptidyl-peptidase C-terminal non-catalytic domain"</title>
+				<polygon class="PF08530" points="187,40 199,28 207,28 207,52 199,52" stroke-linejoin="round" width="24" height="24" fill="rgb(210,70,92)" stroke="rgb(168,56,73)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Peptidase_S15 (PF02129)
+"X-Pro dipeptidyl-peptidase (S15 family)"</title>
+				<rect class="PF02129" x="211" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(210,171,79)" stroke="rgb(168,136,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg583_5)</title>
+			<polygon class=" (ctg583_5)" points="256,25 297,25 297,10 327,40 297,70 297,55 256,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CBM9_1 (PF06452)
+"Carbohydrate family 9 binding domain-like"</title>
+				<rect class="PF06452" x="261" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(73,155,206)" stroke="rgb(58,123,164)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg583_6)</title>
+			<polygon class=" (ctg583_6)" points="328,40 354,10 354,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pentapeptide_4 (PF13599)
+"Pentapeptide repeats (9 copies)"</title>
+				<polygon class="PF13599" points="332,40 337,34 337,46" stroke-linejoin="round" width="9" height="24" fill="rgb(228,182,106)" stroke="rgb(182,145,84)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Sigma70_r4_2 (PF08281)
+"Sigma-70, region 4"</title>
+				<polygon class="PF08281" points="341,30 343,28 346,28 346,52 343,52 341,50" stroke-linejoin="round" width="5" height="24" fill="rgb(222,103,144)" stroke="rgb(177,82,115)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Sigma70_r2 (PF04542)
+"Sigma-70 region 2"</title>
+				<rect class="PF04542" x="349" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(184,59,197)" stroke="rgb(147,47,157)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg583_7)</title>
+			<polygon class=" (ctg583_7)" points="362,25 395,25 395,10 425,40 395,70 395,55 362,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg583_8)</title>
+			<polygon class=" (ctg583_8)" points="476,25 456,25 456,10 426,40 456,70 456,55 476,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Na_Ala_symp (PF01235)
+"Sodium:alanine symporter family"</title>
+				<polygon class="PF01235" points="430,40 442,28 467,28 467,52 442,52" stroke-linejoin="round" width="41" height="24" fill="rgb(99,187,67)" stroke="rgb(79,149,53)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg583_9)</title>
+			<polygon class=" (ctg583_9)" points="478,40 507,10 507,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pantoate_transf (PF02548)
+"Ketopantoate hydroxymethyltransferase"</title>
+				<polygon class="PF02548" points="482,40 494,28 506,28 506,52 494,52" stroke-linejoin="round" width="26" height="24" fill="rgb(103,209,182)" stroke="rgb(82,167,145)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg583_10)</title>
+			<polygon class=" (ctg583_10)" points="510,25 520,25 520,10 550,40 520,70 520,55 510,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_1_2 (PF00155)
+"Aminotransferase class I and II"</title>
+				<polygon class="PF00155" points="515,28 533,28 545,40 533,52 515,52" stroke-linejoin="round" width="34" height="24" fill="rgb(89,113,198)" stroke="rgb(71,90,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg583_11)</title>
+			<polygon class=" (ctg583_11)" points="549,10 571,40 549,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Abhydrolase_4 (PF08386)
+"TAP-like protein"</title>
+				<polygon class="PF08386" points="562,33 567,40 562,47" stroke-linejoin="round" width="8" height="24" fill="rgb(224,194,107)" stroke="rgb(179,155,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg583_12)</title>
+			<polygon class=" (ctg583_12)" points="571,10 597,40 571,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_12 (PF08242)
+"Methyltransferase domain"</title>
+				<polygon class="PF08242" points="576,28 582,28 585,31 585,49 582,52 576,52" stroke-linejoin="round" width="9" height="24" fill="rgb(187,59,115)" stroke="rgb(149,47,92)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg583_13)</title>
+			<polygon class=" (ctg583_13)" points="598,10 618,40 598,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AAA_26 (PF13500)
+"AAA domain"</title>
+				<polygon class="PF13500" points="598,28 606,28 615,40 606,52 598,52" stroke-linejoin="round" width="18" height="24" fill="rgb(93,118,228)" stroke="rgb(74,94,182)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg583_14)</title>
+			<polygon class=" (ctg583_14)" points="618,25 630,25 630,10 660,40 630,70 630,55 618,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_3 (PF00202)
+"Aminotransferase class-III"</title>
+				<polygon class="PF00202" points="619,28 644,28 656,40 644,52 619,52" stroke-linejoin="round" width="41" height="24" fill="rgb(49,163,189)" stroke="rgb(39,130,151)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg583_15)</title>
+			<polygon class=" (ctg583_15)" points="693,25 690,25 690,10 660,40 690,70 690,55 693,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BATS (PF06968)
+"Biotin and Thiamin Synthesis associated domain"</title>
+				<polygon class="PF06968" points="664,40 671,33 671,47" stroke-linejoin="round" width="9" height="24" fill="rgb(91,179,207)" stroke="rgb(72,143,165)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<polygon class="PF04055" points="672,32 676,28 688,28 688,52 676,52 672,48" stroke-linejoin="round" width="16" height="24" fill="rgb(149,56,222)" stroke="rgb(119,44,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg583_16)</title>
+			<polygon class=" (ctg583_16)" points="703,25 717,25 717,10 747,40 717,70 717,55 703,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NQRA (PF05896)
+"Na(+)-translocating NADH-quinone reductase subunit A (NQRA)"</title>
+				<rect class="PF05896" x="703" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(111,52,191)" stroke="rgb(88,41,152)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>NQRA_SLBB (PF11973)
+"NQRA C-terminal domain"</title>
+				<polygon class="PF11973" points="729,28 731,28 734,31 734,49 731,52 729,52" stroke-linejoin="round" width="5" height="24" fill="rgb(93,186,221)" stroke="rgb(74,148,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

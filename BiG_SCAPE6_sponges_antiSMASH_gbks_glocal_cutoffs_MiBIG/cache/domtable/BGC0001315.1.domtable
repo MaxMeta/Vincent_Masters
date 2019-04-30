@@ -1,0 +1,19 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+p450                 PF00067.22   463 BGC0001315.1_ORF1:gid::pid:KGN46388.1:loc:0:1959:strand:- -            508   4.2e-96  322.5   0.0   1   1  2.9e-100   5.1e-96  322.2   0.0     1   456    37   490    37   495 0.89 Cytochrome P450
+p450                 PF00067.22   463 BGC0001315.1_ORF2:gid::pid:KGN46389.1:loc:3304:4867:strand:+ -            520   4.1e-84  283.0   0.0   1   1   2.7e-88   4.9e-84  282.7   0.0     1   454    35   509    35   517 0.89 Cytochrome P450
+p450                 PF00067.22   463 BGC0001315.1_ORF3:gid::pid:KGN46390.1:loc:7757:9421:strand:- -            507   1.5e-98  330.6   0.0   1   1    1e-102   1.8e-98  330.3   0.0     1   456    32   486    32   490 0.91 Cytochrome P450
+GUB_WAK_bind         PF13947.6    106 BGC0001315.1_ORF4:gid::pid:KGN46391.1:loc:11917:12691:strand:- -            257   5.9e-09   36.6   1.3   1   1   6.3e-13   1.1e-08   35.7   1.3     3   105    27   125    25   126 0.80 Wall-associated receptor kinase galacturonan-binding
+Transferase          PF02458.15   434 BGC0001315.1_ORF5:gid::pid:KGN46392.1:loc:29483:30785:strand:- -            433   9.1e-96  321.1   0.0   1   1  5.8e-100     1e-95  321.0   0.0     1   432     3   417     3   419 0.89 Transferase family
+p450                 PF00067.22   463 BGC0001315.1_ORF6:gid::pid:KGN46393.1:loc:32410:34908:strand:+ -            481   7.1e-54  183.3   0.0   1   1   5.2e-58   9.4e-54  182.9   0.0     1   446    40   464    40   473 0.85 Cytochrome P450
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001315.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001315.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001315.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:41:54 2019
+# [ok]

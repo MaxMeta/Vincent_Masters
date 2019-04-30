@@ -1,0 +1,246 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="743.1333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="733.1333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg167_28)</title>
+			<polygon class=" (ctg167_28)" points="42,10 71,40 42,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>THF_DHG_CYH (PF00763)
+"Tetrahydrofolate dehydrogenase/cyclohydrolase, catalytic domain"</title>
+				<rect class="PF00763" x="42" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(208,67,229)" stroke="rgb(166,53,183)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>THF_DHG_CYH_C (PF02882)
+"Tetrahydrofolate dehydrogenase/cyclohydrolase, NAD(P)-binding domain"</title>
+				<polygon class="PF02882" points="54,28 54,28 66,40 54,52 54,52" stroke-linejoin="round" width="16" height="24" fill="rgb(147,183,86)" stroke="rgb(117,146,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg167_29)</title>
+			<polygon class=" (ctg167_29)" points="73,25 82,25 82,10 112,40 82,70 82,55 73,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Rhodanese (PF00581)
+"Rhodanese-like domain"</title>
+				<rect class="PF00581" x="74" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(145,191,76)" stroke="rgb(116,152,60)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ThiF (PF00899)
+"ThiF family"</title>
+				<polygon class="PF00899" points="86,28 96,28 108,40 96,52 86,52" stroke-linejoin="round" width="24" height="24" fill="rgb(82,50,180)" stroke="rgb(65,39,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg167_30)</title>
+			<polygon class=" (ctg167_30)" points="113,10 127,40 113,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Prok-JAB (PF14464)
+"Prokaryotic homologs of the JAB domain"</title>
+				<polygon class="PF14464" points="114,28 118,28 123,40 118,52 114,52" stroke-linejoin="round" width="11" height="24" fill="rgb(187,62,157)" stroke="rgb(149,49,125)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg167_31)</title>
+			<polygon class=" (ctg167_31)" points="128,10 137,40 128,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ThiS (PF02597)
+"ThiS family"</title>
+				<polygon class="PF02597" points="128,28 130,28 134,40 130,52 128,52" stroke-linejoin="round" width="8" height="24" fill="rgb(73,117,196)" stroke="rgb(58,93,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg167_32)</title>
+			<polygon class=" (ctg167_32)" points="137,25 137,25 137,10 167,40 137,70 137,55 137,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PALP (PF00291)
+"Pyridoxal-phosphate dependent enzyme"</title>
+				<polygon class="PF00291" points="137,28 151,28 163,40 151,52 137,52" stroke-linejoin="round" width="27" height="24" fill="rgb(180,55,145)" stroke="rgb(144,44,116)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg167_33)</title>
+			<polygon class=" (ctg167_33)" points="183,25 185,25 185,10 215,40 185,70 185,55 183,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DNA_processg_A (PF02481)
+"DNA recombination-mediator protein A"</title>
+				<polygon class="PF02481" points="191,28 199,28 210,39 210,41 199,52 191,52" stroke-linejoin="round" width="19" height="24" fill="rgb(72,189,53)" stroke="rgb(57,151,42)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg167_34)</title>
+			<polygon class=" (ctg167_34)" points="260,25 247,25 247,10 217,40 247,70 247,55 260,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Chromate_transp (PF02417)
+"Chromate transporter"</title>
+				<polygon class="PF02417" points="221,40 233,28 233,28 233,52 233,52" stroke-linejoin="round" width="16" height="24" fill="rgb(216,70,196)" stroke="rgb(172,56,156)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Chromate_transp (PF02417)
+"Chromate transporter"</title>
+				<rect class="PF02417" x="239" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(216,70,196)" stroke="rgb(172,56,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg167_35)</title>
+			<polygon class=" (ctg167_35)" points="296,25 293,25 293,10 263,40 293,70 293,55 296,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>polyprenyl_synt (PF00348)
+"Polyprenyl synthetase"</title>
+				<polygon class="PF00348" points="268,39 279,28 291,28 291,52 279,52 268,41" stroke-linejoin="round" width="23" height="24" fill="rgb(61,206,65)" stroke="rgb(48,164,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg167_36)</title>
+			<polygon class=" (ctg167_36)" points="343,25 327,25 327,10 297,40 327,70 327,55 343,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amino_oxidase (PF01593)
+"Flavin containing amine oxidoreductase"</title>
+				<polygon class="PF01593" points="301,40 313,28 341,28 341,52 313,52" stroke-linejoin="round" width="42" height="24" fill="rgb(184,74,52)" stroke="rgb(147,59,41)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg167_37)</title>
+			<polygon class=" (ctg167_37)" points="343,40 372,10 372,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="347,40 359,28 370,28 370,52 359,52" stroke-linejoin="round" width="26" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg167_38)</title>
+			<polygon class=" (ctg167_38)" points="372,40 399,10 399,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="376,40 387,28 398,28 398,52 387,52" stroke-linejoin="round" width="25" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg167_39)</title>
+			<polygon class=" (ctg167_39)" points="407,10 429,40 407,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>tRNA_m1G_MT (PF01746)
+"tRNA (Guanine-1)-methyltransferase"</title>
+				<polygon class="PF01746" points="409,28 417,28 426,40 417,52 409,52" stroke-linejoin="round" width="19" height="24" fill="rgb(69,212,172)" stroke="rgb(55,169,137)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg167_40)</title>
+			<polygon class=" (ctg167_40)" points="431,10 442,40 431,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ribosomal_L19 (PF01245)
+"Ribosomal protein L19"</title>
+				<polygon class="PF01245" points="431,28 434,28 439,40 434,52 431,52" stroke-linejoin="round" width="11" height="24" fill="rgb(108,217,162)" stroke="rgb(86,173,129)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg167_41)</title>
+			<polygon class=" (ctg167_41)" points="447,10 465,40 447,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_S24 (PF00717)
+"Peptidase S24-like"</title>
+				<polygon class="PF00717" points="449,28 454,28 458,34 458,46 454,52 449,52" stroke-linejoin="round" width="9" height="24" fill="rgb(180,76,105)" stroke="rgb(144,60,83)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg167_42)</title>
+			<polygon class=" (ctg167_42)" points="469,10 481,40 469,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>UPF0102 (PF02021)
+"Uncharacterised protein family UPF0102"</title>
+				<polygon class="PF02021" points="470,28 472,28 477,40 472,52 470,52" stroke-linejoin="round" width="8" height="24" fill="rgb(81,199,67)" stroke="rgb(64,159,53)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg167_43)</title>
+			<polygon class=" (ctg167_43)" points="481,40 484,10 484,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg167_44)</title>
+			<polygon class=" (ctg167_44)" points="486,10 511,40 486,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ECH_1 (PF00378)
+"Enoyl-CoA hydratase/isomerase"</title>
+				<polygon class="PF00378" points="486,28 498,28 507,40 498,52 486,52" stroke-linejoin="round" width="25" height="24" fill="rgb(218,72,181)" stroke="rgb(174,57,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg167_45)</title>
+			<polygon class=" (ctg167_45)" points="515,25 534,25 534,10 564,40 534,70 534,55 515,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ChlI (PF13541)
+"Subunit ChlI of Mg-chelatase"</title>
+				<rect class="PF13541" x="517" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(192,77,61)" stroke="rgb(153,61,48)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Mg_chelatase (PF01078)
+"Magnesium chelatase, subunit ChlI"</title>
+				<polygon class="PF01078" points="534,28 548,28 554,34 554,46 548,52 534,52" stroke-linejoin="round" width="20" height="24" fill="rgb(199,220,103)" stroke="rgb(159,176,82)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Mg_chelatase_C (PF13335)
+"Magnesium chelatase, subunit ChlI C-terminal"</title>
+				<polygon class="PF13335" points="554,34 560,40 554,46" stroke-linejoin="round" width="9" height="24" fill="rgb(224,211,78)" stroke="rgb(179,168,62)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg167_46)</title>
+			<polygon class=" (ctg167_46)" points="564,25 570,25 570,10 600,40 570,70 570,55 564,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DNA_processg_A (PF02481)
+"DNA recombination-mediator protein A"</title>
+				<polygon class="PF02481" points="570,28 584,28 590,34 590,46 584,52 570,52" stroke-linejoin="round" width="20" height="24" fill="rgb(72,189,53)" stroke="rgb(57,151,42)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg167_47)</title>
+			<polygon class=" (ctg167_47)" points="605,10 634,40 605,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Phage_int_SAM_1 (PF02899)
+"Phage integrase, N-terminal SAM-like domain"</title>
+				<rect class="PF02899" x="606" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(112,78,223)" stroke="rgb(89,62,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Phage_integrase (PF00589)
+"Phage integrase family"</title>
+				<polygon class="PF00589" points="617,28 618,28 630,40 618,52 617,52" stroke-linejoin="round" width="16" height="24" fill="rgb(91,96,195)" stroke="rgb(72,76,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg167_48)</title>
+			<polygon class=" (ctg167_48)" points="642,10 667,40 642,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ribosomal_S2 (PF00318)
+"Ribosomal protein S2"</title>
+				<polygon class="PF00318" points="642,28 653,28 663,40 663,40 653,52 642,52" stroke-linejoin="round" width="21" height="24" fill="rgb(60,213,66)" stroke="rgb(48,170,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg167_49)</title>
+			<polygon class=" (ctg167_49)" points="667,10 687,40 667,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>EF_TS (PF00889)
+"Elongation factor TS"</title>
+				<polygon class="PF00889" points="671,28 675,28 684,40 675,52 671,52" stroke-linejoin="round" width="15" height="24" fill="rgb(69,212,85)" stroke="rgb(55,169,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg167_50)</title>
+			<polygon class=" (ctg167_50)" points="688,10 711,40 688,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AA_kinase (PF00696)
+"Amino acid kinase family"</title>
+				<polygon class="PF00696" points="688,28 698,28 707,40 698,52 688,52" stroke-linejoin="round" width="21" height="24" fill="rgb(148,78,224)" stroke="rgb(118,62,179)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg167_51)</title>
+			<polygon class=" (ctg167_51)" points="712,10 730,40 712,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>RRF (PF01765)
+"Ribosome recycling factor"</title>
+				<polygon class="PF01765" points="714,28 719,28 726,40 719,52 714,52" stroke-linejoin="round" width="16" height="24" fill="rgb(187,123,85)" stroke="rgb(149,98,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

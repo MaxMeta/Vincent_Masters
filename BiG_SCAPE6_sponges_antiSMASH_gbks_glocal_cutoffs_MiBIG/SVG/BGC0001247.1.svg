@@ -1,0 +1,150 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="239.7" height="960">
+	<g>
+		<line x1="10" y1="40.0" x2="229.7" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>
+polyketide synthase</title>
+			<polygon class="
+polyketide synthase" points="10,25 199,25 199,10 229,40 199,70 199,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SAT (PF16073)
+"Starter unit:ACP transacylase in aflatoxin biosynthesis"</title>
+				<rect class="PF16073" x="11" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(77,115,183)" stroke="rgb(61,91,146)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="48" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<rect class="PF02801" x="73" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl_transf_1 (PF00698)
+"Acyl transferase domain"</title>
+				<rect class="PF00698" x="101" y="28" stroke-linejoin="round" width="32" height="24" fill="rgb(59,176,209)" stroke="rgb(47,140,167)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PS-DH (PF14765)
+"Polyketide synthase dehydratase"</title>
+				<rect class="PF14765" x="140" y="28" stroke-linejoin="round" width="30" height="24" fill="rgb(173,56,182)" stroke="rgb(138,44,145)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="177" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="188" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Thioesterase (PF00975)
+"Thioesterase domain"</title>
+				<polygon class="PF00975" points="203,28 213,28 225,40 213,52 203,52" stroke-linejoin="round" width="25" height="24" fill="rgb(207,80,138)" stroke="rgb(165,63,110)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="120.0" x2="97.2" y2="120.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>CTB3
+cercosporin toxin biosynthesis protein</title>
+			<polygon class="CTB3
+cercosporin toxin biosynthesis protein" points="10,105 67,105 67,90 97,120 67,150 67,135 10,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="200.0" x2="89.9" y2="200.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>CTB2
+O-methyltransferase</title>
+			<polygon class="CTB2
+O-methyltransferase" points="28,185 45,185 45,170 75,200 45,230 45,215 28,215" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="280.0" x2="86.0" y2="280.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>CTB4
+MFS transporter</title>
+			<polygon class="CTB4
+MFS transporter" points="68,265 42,265 42,250 12,280 42,310 42,295 68,295" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="360.0" x2="90.0" y2="360.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>CTB5
+oxidoreductase</title>
+			<polygon class="CTB5
+oxidoreductase" points="32,345 48,345 48,330 78,360 48,390 48,375 32,375" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="440.0" x2="68.0" y2="440.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>CTB6
+reductase</title>
+			<polygon class="CTB6
+reductase" points="50,425 45,425 45,410 15,440 45,470 45,455 50,455" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="520.0" x2="107.9" y2="520.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>CTB7
+oxidoreductase</title>
+			<polygon class="CTB7
+oxidoreductase" points="56,505 72,505 72,490 102,520 72,550 72,535 56,535" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="600.0" x2="82.0" y2="600.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>CTB8
+zinc finger transcription factor</title>
+			<polygon class="CTB8
+zinc finger transcription factor" points="60,585 49,585 49,570 19,600 49,630 49,615 60,615" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="680.0" x2="70.0" y2="680.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="47,665 45,665 45,650 15,680 45,710 45,695 47,695" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="760.0" x2="82.0" y2="760.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="68,745 52,745 52,730 22,760 52,790 52,775 68,775" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="840.0" x2="68.96666666666667" y2="840.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="31,825 34,825 34,810 64,840 34,870 34,855 31,855" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="920.0" x2="76.0" y2="920.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>
+hypothetical protein</title>
+			<polygon class="
+hypothetical protein" points="57,905 55,905 55,890 25,920 55,950 55,935 57,935" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

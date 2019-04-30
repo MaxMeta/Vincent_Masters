@@ -1,0 +1,20 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ADH_zinc_N           PF00107.26   130 BGC0001633.1_ORF1:gid::pid:EMF00967.1:loc:0:942:strand:- -            313   3.9e-20   72.1   1.7   1   1   3.4e-23     3e-19   69.3   0.3     1   116   142   251   142   264 0.94 Zinc-binding dehydrogenase
+ADH_zinc_N_2         PF13602.6    133 BGC0001633.1_ORF1:gid::pid:EMF00967.1:loc:0:942:strand:- -            313   6.8e-19   69.2   1.2   1   1   4.7e-22   4.2e-18   66.7   0.4     1   133   175   306   175   306 0.85 Zinc-binding dehydrogenase
+PreAtp-grasp         PF18604.1    142 BGC0001633.1_ORF3:gid::pid:EMF00969.1:loc:2128:3439:strand:- -            436   1.1e-40  138.6   0.3   1   1   1.9e-44   1.7e-40  137.9   0.3     2   142     3   136     2   136 0.99 Pre ATP-grasp domain
+PGM1_C               PF18105.1     53 BGC0001633.1_ORF3:gid::pid:EMF00969.1:loc:2128:3439:strand:- -            436     5e-18   64.4   1.3   1   1   5.6e-22     5e-18   64.4   1.3     1    53   373   425   373   425 0.98 PGM1 C-terminal domain
+MaoC_dehydratas      PF01575.19   123 BGC0001633.1_ORF4:gid::pid:EMF00970.1:loc:3435:3984:strand:- -            182   1.8e-18   66.2   0.0   1   1   1.3e-22   2.4e-18   65.9   0.0     5   112    30   138    27   148 0.93 MaoC like domain
+Aminotran_1_2        PF00155.21   363 BGC0001633.1_ORF5:gid::pid:EMF00971.1:loc:3999:5241:strand:- -            413   3.1e-16   59.5   0.0   1   1   5.7e-19     1e-14   54.5   0.0   129   363   181   406   163   406 0.86 Aminotransferase class I and II
+HpcH_HpaI            PF03328.14   221 BGC0001633.1_ORF6:gid::pid:EMF00972.1:loc:5237:6215:strand:- -            325   1.6e-29  102.6   0.0   1   1   3.2e-33   5.8e-29  100.8   0.0    18   221    25   220     8   220 0.90 HpcH/HpaI aldolase/citrate lyase family
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001633.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001633.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001633.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:41:57 2019
+# [ok]

@@ -1,0 +1,26 @@
+#                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.28   423 CS783_c00001_NODE_1_...cluster108_ORF1:gid::pid::loc:1:2566:strand:- -            855   3.9e-82  276.1   0.0   1   1   8.4e-86     5e-82  275.7   0.0     1   422   125   564   125   565 0.87 AMP-binding enzyme
+Acyltransferase      PF01553.21   135 CS783_c00001_NODE_1_...cluster108_ORF1:gid::pid::loc:1:2566:strand:- -            855   6.3e-16   58.2   0.0   1   1     2e-19   1.2e-15   57.4   0.0     2   103   752   848   751   855 0.95 Acyltransferase
+PP-binding           PF00550.25    67 CS783_c00001_NODE_1_...cluster108_ORF1:gid::pid::loc:1:2566:strand:- -            855     5e-09   36.4   0.6   1   1   2.1e-12   1.2e-08   35.1   0.3    18    66    36    85    15    86 0.87 Phosphopantetheine attachment site
+Pro_isomerase        PF00160.21   158 CS783_c00001_NODE_1_...cluster108_ORF2:gid::pid::loc:2773:3376:strand:- -            200   1.6e-40  139.0   0.1   1   1     1e-44   1.8e-40  138.8   0.1     2   156    35   195    34   197 0.90 Cyclophilin type peptidyl-prolyl cis-trans isomerase/CLD
+Pro_isomerase        PF00160.21   158 CS783_c00001_NODE_1_...cluster108_ORF3:gid::pid::loc:3392:3920:strand:- -            175   1.5e-45  155.3   0.5   1   1     9e-50   1.6e-45  155.2   0.5     2   153    15   169    14   174 0.88 Cyclophilin type peptidyl-prolyl cis-trans isomerase/CLD
+DUF349               PF03993.12    75 CS783_c00001_NODE_1_...cluster108_ORF4:gid::pid::loc:4188:7143:strand:+ -            984   9.6e-65  214.9  58.7   1   4   4.3e-10   7.7e-06   26.1   0.1     4    75   522   598   519   598 0.85 Domain of Unknown Function (DUF349)
+DUF349               PF03993.12    75 CS783_c00001_NODE_1_...cluster108_ORF4:gid::pid::loc:4188:7143:strand:+ -            984   9.6e-65  214.9  58.7   2   4   6.6e-24   1.2e-19   70.4   3.6     1    74   602   674   602   675 0.97 Domain of Unknown Function (DUF349)
+DUF349               PF03993.12    75 CS783_c00001_NODE_1_...cluster108_ORF4:gid::pid::loc:4188:7143:strand:+ -            984   9.6e-65  214.9  58.7   3   4   1.8e-23   3.3e-19   69.0   4.2     2    74   680   751   679   752 0.97 Domain of Unknown Function (DUF349)
+DUF349               PF03993.12    75 CS783_c00001_NODE_1_...cluster108_ORF4:gid::pid::loc:4188:7143:strand:+ -            984   9.6e-65  214.9  58.7   4   4   1.3e-12   2.3e-08   34.2   0.0     1    73   756   845   756   847 0.84 Domain of Unknown Function (DUF349)
+DEAD_assoc           PF08494.11   191 CS783_c00001_NODE_1_...cluster108_ORF5:gid::pid::loc:7422:11406:strand:+ -           1328   7.6e-59  198.7   0.1   1   1   6.2e-62   2.8e-58  196.9   0.0     1   190   670   871   670   872 0.99 DEAD/H associated
+DEAD                 PF00270.29   176 CS783_c00001_NODE_1_...cluster108_ORF5:gid::pid::loc:7422:11406:strand:+ -           1328   1.3e-28  100.0   0.0   1   1   1.6e-31   7.4e-28   97.5   0.0     1   170    20   208    20   213 0.92 DEAD/DEAH box helicase
+Helicase_C           PF00271.31   111 CS783_c00001_NODE_1_...cluster108_ORF5:gid::pid::loc:7422:11406:strand:+ -           1328   7.7e-15   55.2   0.0   1   1   4.5e-18     2e-14   53.9   0.0    10   108   303   404   295   406 0.88 Helicase conserved C-terminal domain
+ResIII               PF04851.15   171 CS783_c00001_NODE_1_...cluster108_ORF5:gid::pid::loc:7422:11406:strand:+ -           1328   1.7e-05   24.9   0.0   1   1   1.2e-08   5.3e-05   23.3   0.0    26   170    35   208    12   209 0.72 Type III restriction enzyme, res subunit
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS783_c00001_NODE_1_...cluster108.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS783_c00001_NODE_1_...cluster108.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS783_c00001_NODE_1_...cluster108.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:56:51 2019
+# [ok]

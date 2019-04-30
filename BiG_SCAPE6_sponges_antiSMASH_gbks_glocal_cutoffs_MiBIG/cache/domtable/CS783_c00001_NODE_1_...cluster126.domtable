@@ -1,0 +1,24 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+OCD_Mu_crystall      PF02423.15   318 CS783_c00001_NODE_1_...cluster126_ORF1:gid::pid::loc:2:782:strand:+ -            259   1.9e-53  181.5   0.1   1   1   1.2e-57   2.1e-53  181.3   0.1    87   314     6   239     2   243 0.91 Ornithine cyclodeaminase/mu-crystallin family
+STAS                 PF01740.21   117 CS783_c00001_NODE_1_...cluster126_ORF2:gid::pid::loc:842:1190:strand:+ -            115   2.3e-13   49.8   0.0   1   1   1.5e-17   2.7e-13   49.6   0.0     7   116    10   107     5   108 0.96 STAS domain
+Acyl_transf_1        PF00698.21   319 CS783_c00001_NODE_1_...cluster126_ORF4:gid::pid::loc:1598:8642:strand:+ -           2347   8.3e-62  209.5   0.0   1   1   9.4e-65   1.7e-61  208.5   0.0     3   317   539   863   537   865 0.91 Acyl transferase domain
+ketoacyl-synt        PF00109.26   253 CS783_c00001_NODE_1_...cluster126_ORF4:gid::pid::loc:1598:8642:strand:+ -           2347   9.7e-56  189.1   0.0   1   1   1.1e-58     2e-55  188.1   0.0     3   253     6   253     4   253 0.90 Beta-ketoacyl synthase, N-terminal domain
+KR                   PF08659.10   180 CS783_c00001_NODE_1_...cluster126_ORF4:gid::pid::loc:1598:8642:strand:+ -           2347   2.7e-52  177.3   1.6   1   1   6.8e-55   1.2e-51  175.2   0.0     1   179  1952  2131  1952  2132 0.91 KR domain
+PS-DH                PF14765.6    298 CS783_c00001_NODE_1_...cluster126_ORF4:gid::pid::loc:1598:8642:strand:+ -           2347   6.3e-32  111.0   0.0   1   1   1.2e-34   2.1e-31  109.3   0.0     2   286   911  1202   910  1205 0.83 Polyketide synthase dehydratase
+Ketoacyl-synt_C      PF02801.22   118 CS783_c00001_NODE_1_...cluster126_ORF4:gid::pid::loc:1598:8642:strand:+ -           2347   1.6e-26   92.7   1.3   1   1   2.3e-29     4e-26   91.3   1.3    16   114   285   383   262   386 0.92 Beta-ketoacyl synthase, C-terminal domain
+ADH_zinc_N           PF00107.26   130 CS783_c00001_NODE_1_...cluster126_ORF4:gid::pid::loc:1598:8642:strand:+ -           2347   2.7e-20   72.7   0.1   1   1   1.8e-22   3.3e-19   69.2   0.0     1   106  1757  1862  1757  1878 0.90 Zinc-binding dehydrogenase
+KAsynt_C_assoc       PF16197.5    112 CS783_c00001_NODE_1_...cluster126_ORF4:gid::pid::loc:1598:8642:strand:+ -           2347   2.9e-15   56.7   0.0   1   1   3.5e-18   6.3e-15   55.6   0.0     1   108   390   501   390   506 0.82 Ketoacyl-synthetase C-terminal extension
+ADH_zinc_N_2         PF13602.6    133 CS783_c00001_NODE_1_...cluster126_ORF4:gid::pid::loc:1598:8642:strand:+ -           2347   7.4e-15   56.2   0.0   1   1   2.6e-17   4.6e-14   53.6   0.0     1   133  1789  1928  1789  1928 0.83 Zinc-binding dehydrogenase
+adh_short            PF00106.25   195 CS783_c00001_NODE_1_...cluster126_ORF4:gid::pid::loc:1598:8642:strand:+ -           2347   3.1e-08   33.3   0.0   1   1   3.8e-10   6.9e-07   28.9   0.0     3   161  1954  2113  1952  2121 0.85 short chain dehydrogenase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS783_c00001_NODE_1_...cluster126.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS783_c00001_NODE_1_...cluster126.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS783_c00001_NODE_1_...cluster126.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:56:00 2019
+# [ok]

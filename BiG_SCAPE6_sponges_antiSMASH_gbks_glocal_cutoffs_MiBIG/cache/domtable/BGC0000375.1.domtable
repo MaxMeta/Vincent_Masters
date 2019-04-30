@@ -1,0 +1,24 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MFS_1                PF07690.16   353 BGC0000375.1_ORF1:gid::pid:AFV27433.1:loc:0:1266:strand:+ -            421   5.4e-17   61.8  46.8   1   1   4.3e-20   7.7e-16   58.0  40.0    13   316    45   346    29   355 0.85 Major Facilitator Superfamily
+AMP-binding          PF00501.28   423 BGC0000375.1_ORF2:gid:indC:pid:AFV27434.1:loc:1629:5763:strand:+ -           1377  1.1e-102  343.8   0.0   1   1  5.5e-106  2.5e-102  342.6   0.0     2   423    21   427    20   427 0.90 AMP-binding enzyme
+Thioesterase         PF00975.20   231 BGC0000375.1_ORF2:gid:indC:pid:AFV27434.1:loc:1629:5763:strand:+ -           1377   1.5e-22   80.9   0.2   1   1   5.9e-26   2.6e-22   80.1   0.2     2   105  1030  1132  1029  1169 0.93 Thioesterase domain
+PP-binding           PF00550.25    67 BGC0000375.1_ORF2:gid:indC:pid:AFV27434.1:loc:1629:5763:strand:+ -           1377   2.5e-17   63.0   0.1   1   1   1.3e-20   5.9e-17   61.8   0.1     1    67   944  1008   944  1008 0.95 Phosphopantetheine attachment site
+Indigoidine_A        PF04227.12   291 BGC0000375.1_ORF3:gid:indA:pid:AFV27435.1:loc:5797:6751:strand:+ -            317  1.5e-107  359.3   1.5   1   1  9.5e-112  1.7e-107  359.1   1.5     1   290    18   306    18   307 0.99 Indigoidine synthase A like protein
+Questin_oxidase      PF14027.6    340 BGC0000375.1_ORF4:gid:indB:pid:AFV27436.1:loc:6834:8679:strand:+ -            614   1.4e-52  179.3   0.4   1   1   1.8e-55   6.4e-52  177.2   0.0     2   340   245   578   244   578 0.82 Questin oxidase-like
+HAD_2                PF13419.6    178 BGC0000375.1_ORF4:gid:indB:pid:AFV27436.1:loc:6834:8679:strand:+ -            614   2.8e-32  112.2   0.0   1   1   1.1e-35     4e-32  111.7   0.0     2   178     1   182     1   182 0.97 Haloacid dehalogenase-like hydrolase
+Hydrolase            PF00702.26   210 BGC0000375.1_ORF4:gid:indB:pid:AFV27436.1:loc:6834:8679:strand:+ -            614   1.3e-18   68.1   0.6   1   1   1.1e-20   3.9e-17   63.3   0.4     5   210     1   176     1   176 0.81 haloacid dehalogenase-like hydrolase
+Hydrolase_like       PF13242.6     75 BGC0000375.1_ORF4:gid:indB:pid:AFV27436.1:loc:6834:8679:strand:+ -            614   2.3e-15   56.4   0.2   1   1   1.4e-18   4.9e-15   55.3   0.2     4    75   139   207   136   207 0.95 HAD-hyrolase-like
+HAD                  PF12710.7    188 BGC0000375.1_ORF4:gid:indB:pid:AFV27436.1:loc:6834:8679:strand:+ -            614   1.9e-09   38.2   0.3   1   1   2.3e-12   8.2e-09   36.1   0.1     3   187     2   172     1   173 0.67 haloacid dehalogenase-like hydrolase
+UPRTase              PF14681.6    207 BGC0000375.1_ORF5:gid::pid:AFV27437.1:loc:8740:9457:strand:+ -            238   2.3e-76  255.9   0.0   1   1   1.6e-80   2.9e-76  255.5   0.0     2   207    33   236    32   236 0.99 Uracil phosphoribosyltransferase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000375.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000375.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000375.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:35:36 2019
+# [ok]

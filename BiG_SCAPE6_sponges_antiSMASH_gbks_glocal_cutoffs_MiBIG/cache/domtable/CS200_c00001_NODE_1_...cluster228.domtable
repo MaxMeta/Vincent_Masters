@@ -1,0 +1,19 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Transposase_20       PF02371.16    87 CS200_c00001_NODE_1_...cluster228_ORF1:gid::pid::loc:1:805:strand:+ -            267   1.7e-21   76.3   0.1   1   1   1.7e-25     3e-21   75.5   0.1     2    86   109   194   108   195 0.93 Transposase IS116/IS110/IS902 family
+NHase_alpha          PF02979.16   184 CS200_c00001_NODE_1_...cluster228_ORF2:gid::pid::loc:816:1206:strand:- -            129   5.8e-08   32.3   0.0   1   1   3.9e-12   6.9e-08   32.0   0.0   115   169    19    74    14    88 0.86 Nitrile hydratase, alpha chain
+MMPL                 PF03176.15   333 CS200_c00001_NODE_1_...cluster228_ORF3:gid::pid::loc:1432:3763:strand:- -            776   7.9e-35  120.4  33.1   1   2   7.8e-21   3.5e-17   62.4  12.8    70   315   123   389    57   417 0.81 MMPL family
+MMPL                 PF03176.15   333 CS200_c00001_NODE_1_...cluster228_ORF3:gid::pid::loc:1432:3763:strand:- -            776   7.9e-35  120.4  33.1   2   2   4.6e-21   2.1e-17   63.1  12.2    86   302   551   761   541   770 0.86 MMPL family
+Sterol-sensing       PF12349.8    153 CS200_c00001_NODE_1_...cluster228_ORF3:gid::pid::loc:1432:3763:strand:- -            776   3.6e-11   43.1   9.8   1   1   3.1e-14   1.4e-10   41.2   0.3    10   144   252   385   243   393 0.87 Sterol-sensing domain of SREBP cleavage-activation
+Patched              PF02460.18   811 CS200_c00001_NODE_1_...cluster228_ORF3:gid::pid::loc:1432:3763:strand:- -            776   1.3e-05   23.5   2.3   1   1   2.9e-09   1.3e-05   23.5   2.3   258   384   252   378   191   398 0.84 Patched family
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS200_c00001_NODE_1_...cluster228.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS200_c00001_NODE_1_...cluster228.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS200_c00001_NODE_1_...cluster228.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:42:51 2019
+# [ok]

@@ -1,0 +1,34 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+TonB_dep_Rec         PF00593.24   470 BGC0000451.1_ORF1:gid::pid:ACR11143.1:loc:0:1947:strand:+ -            648   4.4e-58  198.3  19.6   1   1   7.2e-62   6.4e-58  197.8  19.6    37   470   214   647   168   647 0.73 TonB dependent receptor
+Plug                 PF07715.15   108 BGC0000451.1_ORF1:gid::pid:ACR11143.1:loc:0:1947:strand:+ -            648   9.6e-24   84.0   0.7   1   1   2.8e-27   2.5e-23   82.7   0.7     3   108    48   155    46   155 0.98 TonB-dependent Receptor Plug Domain
+PepSY_TM             PF03929.16   288 BGC0000451.1_ORF4:gid::pid:ACR13425.1:loc:2710:4363:strand:+ -            550   1.5e-61  208.6   1.9   1   1   8.5e-66   1.5e-61  208.6   1.9     2   288    13   380    12   380 0.80 PepSY-associated TM region
+Chorismate_bind      PF00425.18   258 BGC0000451.1_ORF5:gid:dhbC:pid:ACR13729.1:loc:4787:5972:strand:+ -            394   4.7e-72  242.7   0.0   1   1   3.3e-76   5.9e-72  242.3   0.0     2   258   121   376   120   376 0.97 chorismate binding enzyme
+AMP-binding          PF00501.28   423 BGC0000451.1_ORF6:gid:entE:pid:ACR11042.1:loc:5968:7585:strand:+ -            538   2.8e-74  250.2   0.0   1   1   3.9e-78   3.5e-74  249.9   0.0     7   422    43   441    39   442 0.86 AMP-binding enzyme
+AMP-binding_C        PF13193.6     76 BGC0000451.1_ORF6:gid:entE:pid:ACR11042.1:loc:5968:7585:strand:+ -            538   9.9e-11   42.5   0.3   1   1   3.7e-14   3.3e-10   40.8   0.2     1    76   450   525   450   525 0.90 AMP-binding enzyme C-terminal domain
+Isochorismatase      PF00857.20   175 BGC0000451.1_ORF7:gid:dhbB:pid:ACR10711.1:loc:7610:8489:strand:+ -            292   1.1e-38  133.2   0.0   1   1   1.5e-42   1.4e-38  132.8   0.0     2   172    32   203    31   206 0.93 Isochorismatase family
+PP-binding           PF00550.25    67 BGC0000451.1_ORF7:gid:dhbB:pid:ACR10711.1:loc:7610:8489:strand:+ -            292   4.8e-08   33.2   0.1   1   1   9.1e-12   8.1e-08   32.5   0.1     5    63   225   282   221   286 0.85 Phosphopantetheine attachment site
+adh_short_C2         PF13561.6    234 BGC0000451.1_ORF8:gid:dhbA:pid:ACR12253.1:loc:8485:9253:strand:+ -            255   1.5e-55  188.3   0.0   1   1   4.9e-59   2.2e-55  187.8   0.0     1   234    19   252    19   252 0.93 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.25   195 BGC0000451.1_ORF8:gid:dhbA:pid:ACR12253.1:loc:8485:9253:strand:+ -            255   2.5e-49  167.4   0.1   1   1   1.4e-52   6.5e-49  166.0   0.1     1   191    13   193    13   197 0.94 short chain dehydrogenase
+KR                   PF08659.10   180 BGC0000451.1_ORF8:gid:dhbA:pid:ACR12253.1:loc:8485:9253:strand:+ -            255   3.9e-11   43.2   1.3   1   1   1.5e-13   6.9e-10   39.1   0.0    56   162    54   164    44   179 0.91 KR domain
+Epimerase            PF01370.21   241 BGC0000451.1_ORF8:gid:dhbA:pid:ACR12253.1:loc:8485:9253:strand:+ -            255   3.5e-06   26.7   0.0   1   1   2.5e-09   1.1e-05   25.0   0.0     2   228    16   235    15   247 0.78 NAD dependent epimerase/dehydratase family
+HlyD_D23             PF16576.5    214 BGC0000451.1_ORF9:gid::pid:ACR11867.1:loc:9265:10435:strand:+ -            389   4.3e-15   55.5   0.2   1   1   8.2e-17   4.9e-13   48.8   0.1    18   214    66   293    62   293 0.69 Barrel-sandwich domain of CusB or HlyD membrane-fusion
+Biotin_lipoyl_2      PF13533.6     50 BGC0000451.1_ORF9:gid::pid:ACR11867.1:loc:9265:10435:strand:+ -            389   5.3e-09   35.8   0.6   1   1   3.9e-10   2.3e-06   27.3   0.0     2    43    67   108    66   119 0.91 Biotin-lipoyl like
+ACR_tran             PF00873.19  1021 BGC0000451.1_ORF10:gid::pid:ACR11213.1:loc:10431:13575:strand:+ -           1047         0 1105.2   6.5   1   1         0         0 1105.0   6.5     1  1020     2  1023     2  1024 0.99 AcrB/AcrD/AcrF family
+MMPL                 PF03176.15   333 BGC0000451.1_ORF10:gid::pid:ACR11213.1:loc:10431:13575:strand:+ -           1047   4.4e-06   25.9  37.2   1   1   4.4e-09   3.9e-05   22.7  15.5   139   302   335   497   293   538 0.77 MMPL family
+DUF3327              PF11806.8    122 BGC0000451.1_ORF11:gid::pid:ACR10707.1:loc:13571:14909:strand:+ -            445   1.5e-21   77.3   1.0   1   1   2.7e-25   2.5e-21   76.7   0.0     1   104    37   139    37   154 0.91 Domain of unknown function (DUF3327)
+Esterase             PF00756.20   251 BGC0000451.1_ORF11:gid::pid:ACR10707.1:loc:13571:14909:strand:+ -            445   5.7e-21   75.3   0.1   1   1   2.2e-18     2e-14   53.9   0.1   114   249   311   425   299   426 0.90 Putative esterase
+MbtH                 PF03621.13    53 BGC0000451.1_ORF12:gid::pid:ACR12481.1:loc:14892:15150:strand:+ -             85   7.1e-23   79.8   0.2   1   1   5.6e-27     1e-22   79.3   0.2     3    52    10    59     8    60 0.98 MbtH-like protein
+MFS_3                PF05977.13   522 BGC0000451.1_ORF13:gid::pid:ACR13598.1:loc:22383:23637:strand:+ -            417   1.1e-28  100.0  23.2   1   1   1.6e-32   1.4e-28   99.6  23.2     9   396    14   401     8   412 0.92 Transmembrane secretion effector
+MFS_1                PF07690.16   353 BGC0000451.1_ORF13:gid::pid:ACR13598.1:loc:22383:23637:strand:+ -            417   4.1e-23   81.9  40.3   1   1   1.3e-20   1.2e-16   60.7  19.5     1   224    20   235    20   245 0.85 Major Facilitator Superfamily
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000451.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000451.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000451.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:44:45 2019
+# [ok]

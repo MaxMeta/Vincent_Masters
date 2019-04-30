@@ -1,0 +1,20 @@
+#                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Asn_synthase         PF00733.21   355 BGC0001655.1_ORF1:gid::pid:WP_017534152.1:loc:656:2501:strand:+ -            614   1.1e-32  114.1   0.2   1   1   7.7e-37   1.4e-32  113.8   0.2     2   327   208   571   207   597 0.81 Asparagine synthase
+PqqD                 PF05402.12    67 BGC0001655.1_ORF2:gid::pid:WP_014908438.1:loc:2503:2761:strand:+ -             85   8.7e-14   51.6   0.1   1   1   5.8e-18     1e-13   51.3   0.1     2    67    18    83    17    83 0.96 Coenzyme PQQ synthesis protein D (PqqD)
+Transglut_core3      PF13471.6    117 BGC0001655.1_ORF3:gid::pid:WP_017534153.1:loc:2847:3192:strand:+ -            114   1.6e-23   82.8   1.3   1   1   9.8e-28   1.8e-23   82.7   1.3    17   117     7   103     1   103 0.91 Transglutaminase-like superfamily
+ABC_tran             PF00005.27   137 BGC0001655.1_ORF5:gid::pid:WP_017534155.1:loc:3755:4697:strand:+ -            313     1e-31  110.3   0.0   1   1   1.8e-35   1.6e-31  109.6   0.0     1   137    24   168    24   168 0.98 ABC transporter
+AAA_21               PF13304.6    303 BGC0001655.1_ORF5:gid::pid:WP_017534155.1:loc:3755:4697:strand:+ -            313   1.2e-11   45.0   2.4   1   1   1.5e-11   1.4e-07   31.7   0.0   193   297   113   197    69   201 0.78 AAA domain, putative AbiEii toxin, Type IV TA system
+ABC2_membrane        PF01061.24   210 BGC0001655.1_ORF6:gid::pid:WP_017534156.1:loc:4693:5572:strand:+ -            292   2.9e-30  105.2  16.1   1   1   4.2e-34   3.8e-30  104.9  16.1     2   207    39   252    38   255 0.92 ABC-2 type transporter
+ABC2_membrane_3      PF12698.7    345 BGC0001655.1_ORF6:gid::pid:WP_017534156.1:loc:4693:5572:strand:+ -            292   7.8e-14   51.5  14.2   1   1   1.2e-17   1.1e-13   51.0  14.2   156   344    88   282    58   284 0.87 ABC-2 family transporter protein
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001655.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001655.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001655.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:46:24 2019
+# [ok]

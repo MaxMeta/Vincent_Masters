@@ -1,0 +1,63 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1003.3666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="993.3666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>gene_Bcin12g06370</title>
+			<polygon class="gene_Bcin12g06370" points="116,25 76,25 76,10 46,40 76,70 76,55 116,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<rect class="PF00067" x="64" y="28" stroke-linejoin="round" width="45" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>gene_Bcin12g06380</title>
+			<polygon class="gene_Bcin12g06380" points="229,25 201,25 201,10 171,40 201,70 201,55 229,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="178,37 187,28 223,28 223,52 187,52 178,43" stroke-linejoin="round" width="45" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>gene_Bcin12g06390</title>
+			<polygon class="gene_Bcin12g06390" points="245,25 272,25 272,10 302,40 272,70 272,55 245,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>gene_Bcin12g06400</title>
+			<polygon class="gene_Bcin12g06400" points="410,25 366,25 366,10 336,40 366,70 366,55 410,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<rect class="PF00067" x="357" y="28" stroke-linejoin="round" width="42" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>gene_Bcin12g06410</title>
+			<polygon class="gene_Bcin12g06410" points="446,25 473,25 473,10 503,40 473,70 473,55 446,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Transferase (PF02458)
+"Transferase family"</title>
+				<polygon class="PF02458" points="463,28 487,28 493,34 493,46 487,52 463,52" stroke-linejoin="round" width="30" height="24" fill="rgb(57,117,190)" stroke="rgb(45,93,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>gene_Bcin12g06420</title>
+			<polygon class="gene_Bcin12g06420" points="854,25 872,25 872,10 902,40 872,70 872,55 854,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Zn_clus (PF00172)
+"Fungal Zn(2)-Cys(6) binuclear cluster domain"</title>
+				<rect class="PF00172" x="857" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(121,178,76)" stroke="rgb(96,142,60)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>gene_Bcin12g06430</title>
+			<polygon class="gene_Bcin12g06430" points="931,25 938,25 938,10 968,40 938,70 938,55 931,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short (PF00106)
+"short chain dehydrogenase"</title>
+				<rect class="PF00106" x="932" y="28" stroke-linejoin="round" width="20" height="24" fill="rgb(182,219,73)" stroke="rgb(145,175,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

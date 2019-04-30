@@ -1,0 +1,20 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+CoA_transf_3         PF02515.17   368 CS783_c00001_NODE_1_...cluster143_ORF1:gid::pid::loc:0:432:strand:- -            144   5.9e-17   61.8   0.0   1   1   4.2e-21   7.6e-17   61.5   0.0     1   138    11   143    11   144 0.96 CoA-transferase family III
+MFS_1                PF07690.16   353 CS783_c00001_NODE_1_...cluster143_ORF2:gid::pid::loc:670:1804:strand:+ -            377   5.1e-41  140.8  88.4   1   2   8.3e-39   1.5e-34  119.5  51.6    30   351     2   319     1   321 0.81 Major Facilitator Superfamily
+MFS_1                PF07690.16   353 CS783_c00001_NODE_1_...cluster143_ORF2:gid::pid::loc:670:1804:strand:+ -            377   5.1e-41  140.8  88.4   2   2   4.2e-13   7.5e-09   35.0  28.7     2   179   177   363   176   374 0.79 Major Facilitator Superfamily
+RHH_1                PF01402.21    39 CS783_c00001_NODE_1_...cluster143_ORF3:gid::pid::loc:2253:2490:strand:+ -             78   8.4e-07   28.7   0.2   1   1   8.7e-11   1.6e-06   27.9   0.2     4    39     5    40     3    40 0.96 Ribbon-helix-helix protein, copG family
+SufE                 PF02657.15   122 CS783_c00001_NODE_1_...cluster143_ORF4:gid::pid::loc:3018:3447:strand:- -            142   1.1e-44  151.2   0.0   1   1   6.8e-49   1.2e-44  151.0   0.0     2   121    15   133    14   134 0.98 Fe-S metabolism associated domain
+NHase_alpha          PF02979.16   184 CS783_c00001_NODE_1_...cluster143_ORF5:gid::pid::loc:3683:3935:strand:+ -             83   2.9e-08   33.3   0.0   1   1   5.5e-11   9.8e-07   28.3   0.0   115   168    19    73    15    80 0.89 Nitrile hydratase, alpha chain
+ACR_tran             PF00873.19  1021 CS783_c00001_NODE_1_...cluster143_ORF6:gid::pid::loc:4851:7068:strand:+ -            739   1.6e-98  330.7   0.1   1   1  8.6e-102   1.5e-97  327.5   0.1     5   718     8   735     4   738 0.89 AcrB/AcrD/AcrF family
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS783_c00001_NODE_1_...cluster143.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS783_c00001_NODE_1_...cluster143.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS783_c00001_NODE_1_...cluster143.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:40:14 2019
+# [ok]

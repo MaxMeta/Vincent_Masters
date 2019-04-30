@@ -1,0 +1,24 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Peptidase_S8         PF00082.22   298 BGC0001030.1_ORF1:gid:asp:pid:AAT65816.2:loc:799:2140:strand:+ -            398   3.1e-30  105.5  19.2   1   1     6e-34   5.4e-30  104.7  19.2     1   265   148   360   148   386 0.83 Subtilase family
+Inhibitor_I9         PF05922.16    82 BGC0001030.1_ORF1:gid:asp:pid:AAT65816.2:loc:799:2140:strand:+ -            398   5.5e-14   52.6   0.0   1   1     1e-17   9.2e-14   51.9   0.0     1    80    35   113    35   115 0.96 Peptidase inhibitor I9
+NAD_binding_4        PF07993.12   257 BGC0001030.1_ORF2:gid:nps:pid:AAS98174.1:loc:3245:5384:strand:- -            712   6.5e-30  104.2   0.0   1   1   3.2e-33   1.4e-29  103.0   0.0     1   250   433   664   433   666 0.91 Male sterility protein
+AMP-binding          PF00501.28   423 BGC0001030.1_ORF2:gid:nps:pid:AAS98174.1:loc:3245:5384:strand:- -            712     3e-12   45.9   0.0   1   1   1.3e-14     6e-11   41.6   0.0   216   335     2   112     1   132 0.85 AMP-binding enzyme
+Epimerase            PF01370.21   241 BGC0001030.1_ORF2:gid:nps:pid:AAS98174.1:loc:3245:5384:strand:- -            712   1.5e-11   44.2   0.0   1   1   5.1e-15   2.3e-11   43.6   0.0     2   181   432   630   431   661 0.76 NAD dependent epimerase/dehydratase family
+PP-binding           PF00550.25    67 BGC0001030.1_ORF2:gid:nps:pid:AAS98174.1:loc:3245:5384:strand:- -            712   2.2e-08   34.3   0.1   1   1   1.2e-11   5.3e-08   33.1   0.1    17    65   335   383   326   385 0.87 Phosphopantetheine attachment site
+ketoacyl-synt        PF00109.26   253 BGC0001030.1_ORF3:gid::pid:AAP33839.2:loc:8031:10258:strand:+ -            742   1.2e-82  277.3   0.0   1   1   9.6e-86   3.4e-82  275.8   0.0     2   253     3   252     2   252 0.94 Beta-ketoacyl synthase, N-terminal domain
+Acyl_transf_1        PF00698.21   319 BGC0001030.1_ORF3:gid::pid:AAP33839.2:loc:8031:10258:strand:+ -            742   1.5e-41  143.0   0.0   1   1   7.4e-45   2.6e-41  142.2   0.0     1   205   535   737   535   741 0.94 Acyl transferase domain
+Ketoacyl-synt_C      PF02801.22   118 BGC0001030.1_ORF3:gid::pid:AAP33839.2:loc:8031:10258:strand:+ -            742     1e-40  138.4   1.9   1   1   4.3e-44   1.5e-40  137.8   1.0     1   117   260   377   260   378 0.98 Beta-ketoacyl synthase, C-terminal domain
+KAsynt_C_assoc       PF16197.5    112 BGC0001030.1_ORF3:gid::pid:AAP33839.2:loc:8031:10258:strand:+ -            742   1.1e-16   61.3   0.0   1   1   7.5e-20   2.7e-16   60.0   0.0     2   112   381   497   381   497 0.87 Ketoacyl-synthetase C-terminal extension
+Thiolase_N           PF00108.23   260 BGC0001030.1_ORF3:gid::pid:AAP33839.2:loc:8031:10258:strand:+ -            742     9e-08   31.8   0.9   1   1   1.4e-10   5.1e-07   29.3   0.3    75   121   164   210   153   236 0.86 Thiolase, N-terminal domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001030.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001030.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001030.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:54:36 2019
+# [ok]

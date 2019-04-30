@@ -1,0 +1,34 @@
+#                                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Peptidase_M50        PF02163.22   250 CS202_c00001_NODE_1_...cluster011_ORF1:gid::pid::loc:636:2001:strand:- -            454   7.6e-83  277.6   0.3   1   1     3e-86   1.1e-82  277.1   0.3     2   249    16   439    15   440 0.90 Peptidase family M50
+PDZ_6                PF17820.1     56 CS202_c00001_NODE_1_...cluster011_ORF1:gid::pid::loc:636:2001:strand:- -            454   1.5e-26   92.0   1.3   1   2   1.9e-17   6.9e-14   51.4   0.4     2    56   143   195   142   195 0.98 PDZ domain
+PDZ_6                PF17820.1     56 CS202_c00001_NODE_1_...cluster011_ORF1:gid::pid::loc:636:2001:strand:- -            454   1.5e-26   92.0   1.3   2   2   1.3e-13   4.7e-10   39.1   0.0     1    56   229   282   229   282 0.93 PDZ domain
+PDZ_2                PF13180.6     82 CS202_c00001_NODE_1_...cluster011_ORF1:gid::pid::loc:636:2001:strand:- -            454   1.5e-21   76.5   0.1   1   2   1.6e-12   5.9e-09   36.1   0.0    17    80   142   204   135   205 0.87 PDZ domain
+PDZ_2                PF13180.6     82 CS202_c00001_NODE_1_...cluster011_ORF1:gid::pid::loc:636:2001:strand:- -            454   1.5e-21   76.5   0.1   2   2   4.3e-13   1.5e-09   38.0   0.0    16    80   228   291   216   292 0.88 PDZ domain
+PDZ                  PF00595.24    82 CS202_c00001_NODE_1_...cluster011_ORF1:gid::pid::loc:636:2001:strand:- -            454   3.8e-15   56.0   0.2   1   1   6.2e-12   2.2e-08   34.3   0.1    28    71   228   271   212   281 0.80 PDZ domain
+DXP_reductoisom      PF02670.16   129 CS202_c00001_NODE_1_...cluster011_ORF2:gid::pid::loc:2031:3189:strand:- -            385   9.6e-41  139.5   0.0   1   1   2.4e-44   1.5e-40  138.9   0.0     1   129     4   130     4   130 0.99 1-deoxy-D-xylulose 5-phosphate reductoisomerase
+DXP_redisom_C        PF08436.12    84 CS202_c00001_NODE_1_...cluster011_ORF2:gid::pid::loc:2031:3189:strand:- -            385   5.4e-41  138.6   0.0   1   1   1.9e-44   1.2e-40  137.6   0.0     1    84   144   227   144   227 0.99 1-deoxy-D-xylulose 5-phosphate reductoisomerase C-terminal domain
+DXPR_C               PF13288.6    115 CS202_c00001_NODE_1_...cluster011_ORF2:gid::pid::loc:2031:3189:strand:- -            385   1.1e-40  138.5   0.0   1   1   2.9e-44   1.7e-40  137.8   0.0     1   113   259   374   259   376 0.96 DXP reductoisomerase C-terminal domain
+CTP_transf_1         PF01148.20   266 CS202_c00001_NODE_1_...cluster011_ORF3:gid::pid::loc:3248:4133:strand:- -            294   2.6e-59  201.2  10.6   1   1   1.6e-63   2.9e-59  201.0  10.6     2   265    33   292    32   293 0.87 Cytidylyltransferase family
+Prenyltransf         PF01255.19   224 CS202_c00001_NODE_1_...cluster011_ORF4:gid::pid::loc:4129:4927:strand:- -            265   6.2e-74  248.3   0.0   1   1   4.1e-78   7.4e-74  248.0   0.0     1   224    33   253    33   253 0.95 Putative undecaprenyl diphosphate synthase
+PmbA_TldD            PF01523.16   279 CS202_c00001_NODE_1_...cluster011_ORF5:gid::pid::loc:4995:6495:strand:+ -            499   4.1e-66  223.7   0.1   1   1   3.8e-70   6.9e-66  222.9   0.0     1   279    54   349    54   349 0.94 Putative modulator of DNA gyrase
+PmbA_TldD            PF01523.16   279 CS202_c00001_NODE_1_...cluster011_ORF6:gid::pid::loc:6655:8014:strand:+ -            452   2.7e-60  204.6   0.2   1   1   2.1e-64   3.8e-60  204.1   0.2     1   279    26   320    26   320 0.94 Putative modulator of DNA gyrase
+RHH_1                PF01402.21    39 CS202_c00001_NODE_1_...cluster011_ORF8:gid::pid::loc:8616:8865:strand:+ -             82   8.7e-06   25.5   0.0   1   1   1.3e-09   2.3e-05   24.2   0.0     1    34     2    35     2    39 0.91 Ribbon-helix-helix protein, copG family
+PIN                  PF01850.21   122 CS202_c00001_NODE_1_...cluster011_ORF9:gid::pid::loc:8861:9299:strand:+ -            145   1.2e-11   45.2   0.0   1   1   1.1e-15     2e-11   44.4   0.0     1   120     2   133     2   135 0.83 PIN domain
+UDG                  PF03167.19   155 CS202_c00001_NODE_1_...cluster011_ORF10:gid::pid::loc:9368:9980:strand:- -            203   6.7e-44  149.6   0.0   1   1   4.7e-48   8.4e-44  149.3   0.0     1   154    27   175    27   181 0.94 Uracil DNA glycosylase superfamily
+SQS_PSY              PF00494.19   263 CS202_c00001_NODE_1_...cluster011_ORF11:gid::pid::loc:10000:10885:strand:- -            294   8.1e-73  245.2   2.8   1   1   5.6e-77     1e-72  244.8   2.8     2   261    16   270    15   272 0.95 Squalene/phytoene synthase
+HicB                 PF05534.12    51 CS202_c00001_NODE_1_...cluster011_ORF14:gid::pid::loc:12812:13139:strand:- -            108   4.1e-14   52.2   0.0   1   1   3.5e-18   6.2e-14   51.6   0.0     5    51    61   107    58   107 0.90 HicB family
+P63C                 PF10546.9     93 CS202_c00001_NODE_1_...cluster011_ORF19:gid::pid::loc:15171:15636:strand:- -            154     5e-36  123.2   0.5   1   1     4e-40   7.1e-36  122.7   0.5     1    93    20   112    20   112 0.99 P63C domain
+DDE_Tnp_IS1595       PF12762.7    153 CS202_c00001_NODE_1_...cluster011_ORF20:gid::pid::loc:15872:16550:strand:- -            225   9.9e-33  113.3   4.1   1   1   7.2e-37   1.3e-32  112.9   4.1     1   153    66   205    66   205 0.97 ISXO2-like transposase domain
+rve_3                PF13683.6     67 CS202_c00001_NODE_1_...cluster011_ORF23:gid::pid::loc:17573:17699:strand:- -             41     3e-07   30.1   0.1   1   1   2.5e-11   4.5e-07   29.6   0.1    44    67     2    25     1    25 0.94 Integrase core domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster011.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS202_c00001_NODE_1_...cluster011.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster011.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:30:36 2019
+# [ok]

@@ -1,0 +1,97 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="302.6333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="292.6333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg6076_1)</title>
+			<polygon class=" (ctg6076_1)" points="10,25 37,25 37,10 67,40 37,70 37,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="11" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<rect class="PF13193" x="28" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="38" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyltransferase (PF01553)
+"Acyltransferase"</title>
+				<polygon class="PF01553" points="49,28 51,28 62,39 62,41 51,52 49,52" stroke-linejoin="round" width="13" height="24" fill="rgb(87,176,216)" stroke="rgb(69,140,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6076_2)</title>
+			<polygon class=" (ctg6076_2)" points="68,40 82,10 82,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Trans_reg_C (PF00486)
+"Transcriptional regulatory protein, C terminal"</title>
+				<polygon class="PF00486" points="71,40 76,30 76,50" stroke-linejoin="round" width="7" height="24" fill="rgb(204,153,57)" stroke="rgb(163,122,45)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6076_3)</title>
+			<polygon class=" (ctg6076_3)" points="84,40 97,10 97,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<polygon class="PF00072" points="87,40 91,31 91,49" stroke-linejoin="round" width="7" height="24" fill="rgb(100,107,203)" stroke="rgb(80,85,162)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6076_4)</title>
+			<polygon class=" (ctg6076_4)" points="97,40 115,10 115,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HATPase_c (PF02518)
+"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"</title>
+				<polygon class="PF02518" points="101,40 105,34 105,46" stroke-linejoin="round" width="8" height="24" fill="rgb(80,94,225)" stroke="rgb(64,75,180)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HisKA (PF00512)
+"His Kinase A (phospho-acceptor) domain"</title>
+				<rect class="PF00512" x="109" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(193,125,62)" stroke="rgb(154,100,49)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6076_5)</title>
+			<polygon class=" (ctg6076_5)" points="119,40 131,10 131,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg6076_6)</title>
+			<polygon class=" (ctg6076_6)" points="131,40 144,10 144,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg6076_7)</title>
+			<polygon class=" (ctg6076_7)" points="282,25 188,25 188,10 158,40 188,70 188,55 282,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pentapeptide_4 (PF13599)
+"Pentapeptide repeats (9 copies)"</title>
+				<polygon class="PF13599" points="162,40 168,34 168,46" stroke-linejoin="round" width="7" height="24" fill="rgb(228,182,106)" stroke="rgb(182,145,84)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Pentapeptide (PF00805)
+"Pentapeptide repeats (8 copies)"</title>
+				<rect class="PF00805" x="175" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(186,52,164)" stroke="rgb(148,41,131)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Pentapeptide (PF00805)
+"Pentapeptide repeats (8 copies)"</title>
+				<rect class="PF00805" x="182" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(186,52,164)" stroke="rgb(148,41,131)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Pentapeptide (PF00805)
+"Pentapeptide repeats (8 copies)"</title>
+				<rect class="PF00805" x="186" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(186,52,164)" stroke="rgb(148,41,131)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6076_8)</title>
+			<polygon class=" (ctg6076_8)" points="284,40 292,10 292,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,44 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="218.36666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="208.36666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>cnbA
+cyclic nucleotide-binding protein</title>
+			<polygon class="cnbA
+cyclic nucleotide-binding protein" points="31,25 47,25 47,10 77,40 47,70 47,55 31,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>cNMP_binding (PF00027)
+"Cyclic nucleotide-binding domain"</title>
+				<rect class="PF00027" x="42" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(138,95,204)" stroke="rgb(110,76,163)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mtf
+SAM-dependent methyltransferase</title>
+			<polygon class="mtf
+SAM-dependent methyltransferase" points="81,10 110,40 81,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_25 (PF13649)
+"Methyltransferase domain"</title>
+				<polygon class="PF13649" points="90,28 93,28 99,33 99,47 93,52 90,52" stroke-linejoin="round" width="9" height="24" fill="rgb(227,135,74)" stroke="rgb(181,108,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mic
+monoterpene cyclase</title>
+			<polygon class="mic
+monoterpene cyclase" points="113,25 122,25 122,10 152,40 122,70 122,55 113,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>cnbB
+cyclic nucleotide-binding protein</title>
+			<polygon class="cnbB
+cyclic nucleotide-binding protein" points="155,25 171,25 171,10 201,40 171,70 171,55 155,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>cNMP_binding (PF00027)
+"Cyclic nucleotide-binding domain"</title>
+				<rect class="PF00027" x="166" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(138,95,204)" stroke="rgb(110,76,163)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

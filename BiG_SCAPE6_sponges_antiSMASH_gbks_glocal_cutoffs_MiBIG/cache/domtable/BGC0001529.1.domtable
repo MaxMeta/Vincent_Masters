@@ -1,0 +1,37 @@
+#                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AurF                 PF11583.8    283 BGC0001529.1_ORF1:gid:bezJ:pid:BBC27531.1:loc:219:1173:strand:- -            317   1.9e-59  201.2   0.1   1   1   1.3e-63   2.3e-59  201.0   0.1     3   283    10   298     8   298 0.97 P-aminobenzoate N-oxygenase AurF
+Aminotran_4          PF01063.19   223 BGC0001529.1_ORF2:gid:bezI:pid:BBC27532.1:loc:1156:2155:strand:- -            332   3.8e-26   92.3   0.0   1   1   9.1e-30   1.6e-25   90.3   0.0     2   222    81   285    80   285 0.81 Amino-transferase class IV
+Chorismate_bind      PF00425.18   258 BGC0001529.1_ORF3:gid:bezH:pid:BBC27533.1:loc:2151:4341:strand:- -            729   1.6e-90  303.1   0.0   1   1   6.4e-94   2.9e-90  302.3   0.0     2   258   454   708   453   708 0.98 chorismate binding enzyme
+GATase               PF00117.28   190 BGC0001529.1_ORF3:gid:bezH:pid:BBC27533.1:loc:2151:4341:strand:- -            729   1.8e-38  132.2   0.0   1   1   5.8e-42   2.6e-38  131.7   0.0     2   186     5   186     4   189 0.88 Glutamine amidotransferase class-I
+Anth_synt_I_N        PF04715.13   142 BGC0001529.1_ORF3:gid:bezH:pid:BBC27533.1:loc:2151:4341:strand:- -            729   2.4e-20   73.2   0.0   1   1   4.9e-23   2.2e-19   70.1   0.0     6   142   264   401   260   401 0.84 Anthranilate synthase component I, N terminal region
+Peptidase_C26        PF07722.13   216 BGC0001529.1_ORF3:gid:bezH:pid:BBC27533.1:loc:2151:4341:strand:- -            729   2.4e-09   37.3   0.0   1   1   1.4e-12   6.3e-09   35.9   0.0   104   216    74   172    62   172 0.83 Peptidase C26
+Acetyltransf_2       PF00797.17   240 BGC0001529.1_ORF4:gid:bezG:pid:BBC27534.1:loc:4340:5189:strand:- -            282   2.4e-53  181.4   0.0   1   1   1.7e-57     3e-53  181.1   0.0     1   236    35   268    35   272 0.95 N-acetyltransferase
+UbiA                 PF01040.18   252 BGC0001529.1_ORF5:gid:bezF:pid:BBC27535.1:loc:5185:6082:strand:- -            298   2.2e-50  171.3  30.1   1   1   1.5e-54   2.7e-50  171.0  30.1     2   247    36   283    35   290 0.89 UbiA prenyltransferase family
+p450                 PF00067.22   463 BGC0001529.1_ORF6:gid:bezE:pid:BBC27536.1:loc:6092:7343:strand:- -            416   2.7e-22   79.2   0.0   1   1   3.2e-23   5.8e-19   68.2   0.0   326   433   287   386   283   405 0.92 Cytochrome P450
+polyprenyl_synt      PF00348.17   256 BGC0001529.1_ORF7:gid:bezD:pid:BBC27537.1:loc:7400:8525:strand:- -            374   9.5e-45  152.7   0.0   1   1   7.1e-49   1.3e-44  152.2   0.0    12   239    70   302    66   319 0.90 Polyprenyl synthetase
+p450                 PF00067.22   463 BGC0001529.1_ORF8:gid:bezC:pid:BBC27538.1:loc:8849:10193:strand:+ -            447   2.7e-14   52.8   0.0   1   1   3.8e-11   6.9e-07   28.4   0.1   327   427   289   378   286   384 0.89 Cytochrome P450
+Methyltransf_11      PF08241.12    96 BGC0001529.1_ORF9:gid:bezB:pid:BBC27539.1:loc:10351:11182:strand:- -            276   5.1e-23   81.5   0.0   1   1   5.2e-26   8.4e-23   80.8   0.0     1    96    69   167    69   167 0.98 Methyltransferase domain
+Methyltransf_25      PF13649.6     97 BGC0001529.1_ORF9:gid:bezB:pid:BBC27539.1:loc:10351:11182:strand:- -            276   2.9e-21   76.0   0.0   1   1   3.5e-24   5.8e-21   75.0   0.0     1    97    68   163    68   163 0.96 Methyltransferase domain
+CMAS                 PF02353.20   273 BGC0001529.1_ORF9:gid:bezB:pid:BBC27539.1:loc:10351:11182:strand:- -            276   1.2e-19   70.7   0.0   1   1   9.6e-23   1.6e-19   70.3   0.0     6   250     8   251     4   269 0.90 Mycolic acid cyclopropane synthetase
+Methyltransf_31      PF13847.6    152 BGC0001529.1_ORF9:gid:bezB:pid:BBC27539.1:loc:10351:11182:strand:- -            276   1.1e-16   61.0   0.0   1   1   9.8e-20   1.6e-16   60.5   0.0     4   113    65   171    62   222 0.89 Methyltransferase domain
+Methyltransf_23      PF13489.6    165 BGC0001529.1_ORF9:gid:bezB:pid:BBC27539.1:loc:10351:11182:strand:- -            276   2.5e-14   53.4   0.0   1   1   2.3e-17   3.7e-14   52.9   0.0    20   164    62   215    39   216 0.85 Methyltransferase domain
+Ubie_methyltran      PF01209.18   233 BGC0001529.1_ORF9:gid:bezB:pid:BBC27539.1:loc:10351:11182:strand:- -            276   1.1e-12   47.8   0.0   1   1   1.3e-15   2.1e-12   46.9   0.0    42   152    59   168    44   176 0.90 ubiE/COQ5 methyltransferase family
+Methyltransf_12      PF08242.12    99 BGC0001529.1_ORF9:gid:bezB:pid:BBC27539.1:loc:10351:11182:strand:- -            276   1.2e-10   42.0   0.0   1   1   1.4e-13   2.3e-10   41.1   0.0     1    99    69   165    69   165 0.87 Methyltransferase domain
+Methyltransf_29      PF03141.16   506 BGC0001529.1_ORF9:gid:bezB:pid:BBC27539.1:loc:10351:11182:strand:- -            276   7.1e-06   24.9   0.0   1   1   5.7e-09   9.4e-06   24.5   0.0   118   217    65   167    43   182 0.76 Putative S-adenosyl-L-methionine-dependent methyltransferase
+MetW                 PF07021.12   193 BGC0001529.1_ORF9:gid:bezB:pid:BBC27539.1:loc:10351:11182:strand:- -            276   7.2e-05   22.5   0.0   1   1   7.1e-08   0.00012   21.8   0.0    12   101    63   158    53   168 0.77 Methionine biosynthesis protein MetW
+Methyltransf_25      PF13649.6     97 BGC0001529.1_ORF10:gid:bezA:pid:BBC27540.1:loc:11337:12060:strand:- -            240   2.7e-12   47.2   0.0   1   1   1.3e-15     6e-12   46.1   0.0     1    97    35   129    35   129 0.95 Methyltransferase domain
+Methyltransf_11      PF08241.12    96 BGC0001529.1_ORF10:gid:bezA:pid:BBC27540.1:loc:11337:12060:strand:- -            240   1.8e-10   41.3   0.0   1   1   1.1e-13     5e-10   39.9   0.0     1    95    36   132    36   133 0.91 Methyltransferase domain
+CMAS                 PF02353.20   273 BGC0001529.1_ORF10:gid:bezA:pid:BBC27540.1:loc:11337:12060:strand:- -            240   1.4e-08   34.4   0.0   1   1     4e-12   1.8e-08   34.0   0.0    65   172    34   141    27   191 0.91 Mycolic acid cyclopropane synthetase
+Methyltransf_23      PF13489.6    165 BGC0001529.1_ORF10:gid:bezA:pid:BBC27540.1:loc:11337:12060:strand:- -            240   1.7e-06   28.0   0.0   1   1   7.2e-10   3.2e-06   27.1   0.0    13   163    17   173     4   175 0.75 Methyltransferase domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001529.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001529.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001529.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:47:20 2019
+# [ok]

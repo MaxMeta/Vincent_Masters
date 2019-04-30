@@ -1,0 +1,34 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.28   423 BGC0001504.1_ORF1:gid::pid:ATY12791.1:loc:0:1569:strand:- -            522   1.4e-95  320.4   0.0   1   1   1.9e-99   1.7e-95  320.1   0.0     4   422    16   419    13   420 0.88 AMP-binding enzyme
+AMP-binding_C        PF13193.6     76 BGC0001504.1_ORF1:gid::pid:ATY12791.1:loc:0:1569:strand:- -            522   9.6e-22   77.8   0.1   1   1   2.4e-25   2.1e-21   76.7   0.1     1    76   428   503   428   503 0.97 AMP-binding enzyme C-terminal domain
+ketoacyl-synt        PF00109.26   253 BGC0001504.1_ORF2:gid::pid:ATY12792.1:loc:1592:3122:strand:- -            509   1.6e-68  231.0   0.5   1   1   4.4e-72   2.6e-68  230.3   0.5     2   253    56   310    55   310 0.89 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.22   118 BGC0001504.1_ORF2:gid::pid:ATY12792.1:loc:1592:3122:strand:- -            509   2.9e-28   98.3   1.1   1   1   2.4e-31   1.4e-27   96.0   0.6     1   116   314   430   314   432 0.98 Beta-ketoacyl synthase, C-terminal domain
+KAsynt_C_assoc       PF16197.5    112 BGC0001504.1_ORF2:gid::pid:ATY12792.1:loc:1592:3122:strand:- -            509   4.7e-09   36.7   0.0   1   1   1.8e-12   1.1e-08   35.5   0.0     1    53   434   489   434   497 0.91 Ketoacyl-synthetase C-terminal extension
+ketoacyl-synt        PF00109.26   253 BGC0001504.1_ORF3:gid::pid:ATY12793.1:loc:3045:9405:strand:- -           2119   2.2e-86  289.6   0.0   1   1   2.5e-89   3.7e-86  288.8   0.0     2   253    22   272    21   272 0.97 Beta-ketoacyl synthase, N-terminal domain
+Acyl_transf_1        PF00698.21   319 BGC0001504.1_ORF3:gid::pid:ATY12793.1:loc:3045:9405:strand:- -           2119   1.9e-58  198.5   0.0   1   1   2.3e-61   3.5e-58  197.6   0.0     3   287   545   829   543   857 0.93 Acyl transferase domain
+KR                   PF08659.10   180 BGC0001504.1_ORF3:gid::pid:ATY12793.1:loc:3045:9405:strand:- -           2119   1.3e-55  188.1   0.8   1   1   1.8e-58   2.7e-55  187.1   0.1     2   180  1741  1919  1740  1919 0.95 KR domain
+PS-DH                PF14765.6    298 BGC0001504.1_ORF3:gid::pid:ATY12793.1:loc:3045:9405:strand:- -           2119     2e-45  155.3   0.3   1   1   2.1e-48   3.1e-45  154.7   0.3     1   295   904  1189   904  1192 0.87 Polyketide synthase dehydratase
+Ketoacyl-synt_C      PF02801.22   118 BGC0001504.1_ORF3:gid::pid:ATY12793.1:loc:3045:9405:strand:- -           2119   1.6e-39  134.6   0.3   1   1     3e-42   4.5e-39  133.1   0.3     1   117   280   397   280   398 0.98 Beta-ketoacyl synthase, C-terminal domain
+ADH_zinc_N           PF00107.26   130 BGC0001504.1_ORF3:gid::pid:ATY12793.1:loc:3045:9405:strand:- -           2119   2.6e-18   66.2   0.1   1   1   1.2e-20   1.8e-17   63.5   0.0     1    90  1551  1638  1551  1665 0.90 Zinc-binding dehydrogenase
+ADH_zinc_N_2         PF13602.6    133 BGC0001504.1_ORF3:gid::pid:ATY12793.1:loc:3045:9405:strand:- -           2119   1.4e-16   61.8   0.0   1   1   4.5e-19   6.7e-16   59.5   0.0     2   133  1583  1720  1582  1720 0.84 Zinc-binding dehydrogenase
+PP-binding           PF00550.25    67 BGC0001504.1_ORF3:gid::pid:ATY12793.1:loc:3045:9405:strand:- -           2119   7.2e-15   55.1   0.4   1   1   1.4e-17   2.2e-14   53.6   0.1     2    67  2017  2083  2016  2083 0.95 Phosphopantetheine attachment site
+adh_short            PF00106.25   195 BGC0001504.1_ORF3:gid::pid:ATY12793.1:loc:3045:9405:strand:- -           2119   4.3e-14   52.4   1.4   1   1   7.5e-17   1.1e-13   51.1   0.1     3   160  1742  1899  1740  1909 0.89 short chain dehydrogenase
+KAsynt_C_assoc       PF16197.5    112 BGC0001504.1_ORF3:gid::pid:ATY12793.1:loc:3045:9405:strand:- -           2119   5.4e-13   49.4   0.0   1   1   4.7e-15     7e-12   45.8   0.0     1   104   400   507   400   513 0.89 Ketoacyl-synthetase C-terminal extension
+adh_short_C2         PF13561.6    234 BGC0001504.1_ORF3:gid::pid:ATY12793.1:loc:3045:9405:strand:- -           2119     6e-13   48.9   0.2   1   1     4e-16     6e-13   48.9   0.2     6   150  1751  1897  1746  1909 0.86 Enoyl-(Acyl carrier protein) reductase
+PP-binding           PF00550.25    67 BGC0001504.1_ORF4:gid::pid:ATY16517.1:loc:9454:9730:strand:- -             91   1.2e-12   48.0   0.0   1   1     1e-16   1.8e-12   47.4   0.0    16    67     5    56     2    56 0.95 Phosphopantetheine attachment site
+FcoT                 PF10862.8    156 BGC0001504.1_ORF5:gid::pid:ATY16518.1:loc:9833:10391:strand:- -            185     8e-60  200.9   0.0   1   1   5.1e-64   9.2e-60  200.7   0.0     1   156    23   181    23   181 0.93 FcoT-like thioesterase domain
+p450                 PF00067.22   463 BGC0001504.1_ORF6:gid::pid:ATY12794.1:loc:10387:11590:strand:- -            400   3.7e-31  108.4   0.0   1   1   1.3e-27   2.3e-23   82.7   0.0   199   433   171   369   149   374 0.89 Cytochrome P450
+p450                 PF00067.22   463 BGC0001504.1_ORF7:gid::pid:ATY12795.1:loc:11607:12819:strand:- -            403   1.6e-30  106.3   0.0   1   1     9e-26   1.6e-21   76.6   0.0   197   433   171   371   152   374 0.90 Cytochrome P450
+TauD                 PF02668.16   268 BGC0001504.1_ORF8:gid::pid:ATY12796.1:loc:12852:13734:strand:- -            293   4.8e-35  121.7   0.1   1   1   3.4e-39     6e-35  121.3   0.1     9   256    11   270     4   282 0.88 Taurine catabolism dioxygenase TauD, TfdA family
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001504.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001504.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001504.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:36:27 2019
+# [ok]

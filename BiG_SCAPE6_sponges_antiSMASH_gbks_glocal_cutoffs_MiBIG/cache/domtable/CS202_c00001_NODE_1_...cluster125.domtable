@@ -1,0 +1,21 @@
+#                                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ABC_tran             PF00005.27   137 CS202_c00001_NODE_1_...cluster125_ORF1:gid::pid::loc:353:2294:strand:+ -            646   1.3e-28  100.2   0.0   1   1   2.2e-32     2e-28   99.6   0.0     1   137   427   576   427   576 0.87 ABC transporter
+ABC_membrane         PF00664.23   274 CS202_c00001_NODE_1_...cluster125_ORF1:gid::pid::loc:353:2294:strand:+ -            646   7.4e-11   42.2   0.1   1   1   1.3e-14   1.2e-10   41.6   0.1    11   273   107   365   100   366 0.93 ABC transporter transmembrane region
+MMPL                 PF03176.15   333 CS202_c00001_NODE_1_...cluster125_ORF2:gid::pid::loc:2375:4766:strand:+ -            796   8.4e-33  113.7  37.4   1   2   3.3e-21     2e-17   63.2   9.5    48   305   129   386   116   412 0.82 MMPL family
+MMPL                 PF03176.15   333 CS202_c00001_NODE_1_...cluster125_ORF2:gid::pid::loc:2375:4766:strand:+ -            796   8.4e-33  113.7  37.4   2   2   4.1e-20   2.4e-16   59.6  13.0    88   308   577   791   571   796 0.83 MMPL family
+Sterol-sensing       PF12349.8    153 CS202_c00001_NODE_1_...cluster125_ORF2:gid::pid::loc:2375:4766:strand:+ -            796   3.3e-12   46.5   0.8   1   1   5.5e-16   3.3e-12   46.5   0.8     7   139   255   386   248   398 0.85 Sterol-sensing domain of SREBP cleavage-activation
+Patched              PF02460.18   811 CS202_c00001_NODE_1_...cluster125_ORF2:gid::pid::loc:2375:4766:strand:+ -            796   0.00011   20.5   2.8   1   1   1.8e-08   0.00011   20.5   2.8   261   383   260   383   193   397 0.82 Patched family
+NHase_alpha          PF02979.16   184 CS202_c00001_NODE_1_...cluster125_ORF3:gid::pid::loc:5000:5252:strand:+ -             83   3.6e-07   29.7   0.0   1   1   2.5e-11   4.4e-07   29.4   0.0   115   168    19    73     5    80 0.92 Nitrile hydratase, alpha chain
+YcaO                 PF02624.16   323 CS202_c00001_NODE_1_...cluster125_ORF5:gid::pid::loc:6547:8866:strand:- -            772   1.6e-90  303.7   1.2   1   1   8.7e-95   1.6e-90  303.7   1.2     2   323   399   735   398   735 0.87 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster125.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS202_c00001_NODE_1_...cluster125.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster125.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:33:37 2019
+# [ok]

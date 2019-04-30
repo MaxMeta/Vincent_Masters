@@ -1,0 +1,72 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="225.03333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="215.03333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg13401_1)</title>
+			<polygon class=" (ctg13401_1)" points="10,10 27,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF3418 (PF11898)
+"Domain of unknown function (DUF3418)"</title>
+				<polygon class="PF11898" points="10,28 16,28 23,40 16,52 10,52" stroke-linejoin="round" width="16" height="24" fill="rgb(111,68,209)" stroke="rgb(88,54,167)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13401_2)</title>
+			<polygon class=" (ctg13401_2)" points="32,10 42,40 32,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg13401_3)</title>
+			<polygon class=" (ctg13401_3)" points="46,10 74,40 46,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF692 (PF05114)
+"Protein of unknown function (DUF692)"</title>
+				<polygon class="PF05114" points="46,28 58,28 70,40 58,52 46,52" stroke-linejoin="round" width="26" height="24" fill="rgb(63,196,127)" stroke="rgb(50,156,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13401_4)</title>
+			<polygon class=" (ctg13401_4)" points="75,10 99,40 75,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2063 (PF09836)
+"Putative DNA-binding domain"</title>
+				<rect class="PF09836" x="75" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(88,194,190)" stroke="rgb(70,155,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13401_5)</title>
+			<polygon class=" (ctg13401_5)" points="100,40 115,10 115,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TerB (PF05099)
+"Tellurite resistance protein TerB"</title>
+				<polygon class="PF05099" points="103,40 109,28 114,28 114,52 109,52" stroke-linejoin="round" width="14" height="24" fill="rgb(81,192,110)" stroke="rgb(64,153,88)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13401_6)</title>
+			<polygon class=" (ctg13401_6)" points="146,25 144,25 144,10 114,40 144,70 144,55 146,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Dus (PF01207)
+"Dihydrouridine synthase (Dus)"</title>
+				<polygon class="PF01207" points="118,40 130,28 145,28 145,52 130,52" stroke-linejoin="round" width="31" height="24" fill="rgb(178,84,152)" stroke="rgb(142,67,121)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13401_7)</title>
+			<polygon class=" (ctg13401_7)" points="157,10 184,40 157,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LpxC (PF03331)
+"UDP-3-O-acyl N-acetylglycosamine deacetylase"</title>
+				<polygon class="PF03331" points="157,28 169,28 180,40 169,52 157,52" stroke-linejoin="round" width="24" height="24" fill="rgb(189,181,50)" stroke="rgb(151,144,40)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13401_8)</title>
+			<polygon class=" (ctg13401_8)" points="197,10 214,40 197,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>tRNA-synt_1c (PF00749)
+"tRNA synthetases class I (E and Q), catalytic domain"</title>
+				<polygon class="PF00749" points="197,28 203,28 210,40 203,52 197,52" stroke-linejoin="round" width="17" height="24" fill="rgb(218,142,61)" stroke="rgb(174,113,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

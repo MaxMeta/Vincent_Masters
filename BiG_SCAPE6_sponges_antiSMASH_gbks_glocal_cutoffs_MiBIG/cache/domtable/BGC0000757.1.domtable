@@ -1,0 +1,22 @@
+#                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Glycos_transf_2      PF00535.26   170 BGC0000757.1_ORF2:gid:ccbF1:pid:ACY25519.1:loc:2045:3593:strand:+ -            515   1.2e-27   96.8   0.2   1   1   2.8e-31   2.6e-27   95.7   0.2     1   120   264   382   264   415 0.95 Glycosyl transferase family 2
+Glyco_tranf_2_3      PF13641.6    230 BGC0000757.1_ORF2:gid:ccbF1:pid:ACY25519.1:loc:2045:3593:strand:+ -            515   7.2e-13   49.0   0.0   1   1   1.7e-16   1.5e-12   47.9   0.0     4   127   263   381   261   442 0.88 Glycosyltransferase like family 2
+UDPG_MGDP_dh_N       PF03721.14   187 BGC0000757.1_ORF4:gid:ccbC:pid:ACY25521.1:loc:4693:5866:strand:+ -            390   1.1e-35  122.9   0.4   1   1   4.1e-39   1.9e-35  122.2   0.4     2   181     3   169     2   175 0.91 UDP-glucose/GDP-mannose dehydrogenase family, NAD binding domain
+UDPG_MGDP_dh         PF00984.19    94 BGC0000757.1_ORF4:gid:ccbC:pid:ACY25521.1:loc:4693:5866:strand:+ -            390   2.4e-26   91.8   0.0   1   1     1e-29   4.5e-26   90.9   0.0     2    93   193   282   192   283 0.97 UDP-glucose/GDP-mannose dehydrogenase family, central domain
+UDPG_MGDP_dh_C       PF03720.15   105 BGC0000757.1_ORF4:gid:ccbC:pid:ACY25521.1:loc:4693:5866:strand:+ -            390   6.2e-11   42.6   0.8   1   1     8e-12   3.6e-08   33.8   0.1     2    74   302   368   301   383 0.89 UDP-glucose/GDP-mannose dehydrogenase family, UDP binding domain
+NAD_Gly3P_dh_N       PF01210.23   157 BGC0000757.1_ORF4:gid:ccbC:pid:ACY25521.1:loc:4693:5866:strand:+ -            390   7.6e-06   26.0   0.0   1   1   3.6e-09   1.6e-05   24.9   0.0     1    81     3    86     3    90 0.79 NAD-dependent glycerol-3-phosphate dehydrogenase N-terminus
+Glycos_transf_2      PF00535.26   170 BGC0000757.1_ORF5:gid:ccbB:pid:ACY25522.1:loc:6362:7292:strand:+ -            309   3.6e-30  105.0   0.1   1   1   2.4e-33   1.5e-29  103.0   0.0     1   126    42   164    42   213 0.87 Glycosyl transferase family 2
+Glyco_tranf_2_3      PF13641.6    230 BGC0000757.1_ORF5:gid:ccbB:pid:ACY25522.1:loc:6362:7292:strand:+ -            309   7.5e-10   39.1   0.0   1   1   2.6e-13   1.5e-09   38.1   0.0     4   126    41   158    39   208 0.88 Glycosyltransferase like family 2
+Glyco_tranf_2_2      PF10111.9    276 BGC0000757.1_ORF5:gid:ccbB:pid:ACY25522.1:loc:6362:7292:strand:+ -            309     1e-07   31.7   0.4   1   1   4.3e-11   2.5e-07   30.4   0.3     8   104    47   142    41   176 0.83 Glycosyltransferase like family 2
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000757.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000757.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000757.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:52:30 2019
+# [ok]

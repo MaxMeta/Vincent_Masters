@@ -1,0 +1,25 @@
+#                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Peptidase_C39        PF03412.15   133 CS203_c00001_NODE_1_...cluster163_ORF2:gid::pid::loc:1484:3671:strand:- -            728   3.4e-34  117.5   0.0   1   1   1.3e-37   5.9e-34  116.7   0.0     2   132    22   150    21   151 0.98 Peptidase C39 family
+ABC_tran             PF00005.27   137 CS203_c00001_NODE_1_...cluster163_ORF2:gid::pid::loc:1484:3671:strand:- -            728   5.8e-29  101.4   0.0   1   1     2e-32   8.8e-29  100.8   0.0     2   137   512   660   511   660 0.86 ABC transporter
+ABC_membrane         PF00664.23   274 CS203_c00001_NODE_1_...cluster163_ORF2:gid::pid::loc:1484:3671:strand:- -            728     2e-22   80.2   6.6   1   1     6e-26   2.7e-22   79.7   6.6    16   274   191   446   177   446 0.96 ABC transporter transmembrane region
+Peptidase_C70        PF12385.8    145 CS203_c00001_NODE_1_...cluster163_ORF2:gid::pid::loc:1484:3671:strand:- -            728   2.1e-05   24.5   0.0   1   1   3.3e-08   0.00015   21.8   0.0     3   132    18   128    16   139 0.80 Papain-like cysteine protease AvrRpt2
+Biotin_lipoyl_2      PF13533.6     50 CS203_c00001_NODE_1_...cluster163_ORF3:gid::pid::loc:3673:4936:strand:- -            420   1.2e-12   47.4   2.7   1   1   1.2e-11   5.5e-08   32.5   0.5     3    46    72   115    70   129 0.95 Biotin-lipoyl like
+HlyD_3               PF13437.6    106 CS203_c00001_NODE_1_...cluster163_ORF3:gid::pid::loc:3673:4936:strand:- -            420   4.7e-11   43.3   2.8   1   1   2.2e-10     1e-06   29.4   0.0     2    82   251   337   250   370 0.84 HlyD family secretion protein
+HlyD_D23             PF16576.5    214 CS203_c00001_NODE_1_...cluster163_ORF3:gid::pid::loc:3673:4936:strand:- -            420   2.8e-09   36.5   7.5   1   1   4.2e-11   1.9e-07   30.5   7.5    20   186    72   333    66   349 0.78 Barrel-sandwich domain of CusB or HlyD membrane-fusion
+OEP                  PF02321.18   188 CS203_c00001_NODE_1_...cluster163_ORF4:gid::pid::loc:4932:6453:strand:- -            506   1.1e-19   71.0  27.3   1   2   1.3e-12   2.4e-08   34.0   1.0    78   188   144   254   133   254 0.96 Outer membrane efflux protein
+OEP                  PF02321.18   188 CS203_c00001_NODE_1_...cluster163_ORF4:gid::pid::loc:4932:6453:strand:- -            506   1.1e-19   71.0  27.3   2   2   6.6e-13   1.2e-08   35.0  16.9     3   187   288   478   286   479 0.81 Outer membrane efflux protein
+DUF4135              PF13575.6    375 CS203_c00001_NODE_1_...cluster163_ORF6:gid::pid::loc:7434:10650:strand:+ -           1071   1.9e-95  320.4   0.0   1   1   2.8e-99   2.5e-95  320.0   0.0     1   373   223   598   223   600 0.93 Domain of unknown function (DUF4135)
+LANC_like            PF05147.13   352 CS203_c00001_NODE_1_...cluster163_ORF6:gid::pid::loc:7434:10650:strand:+ -           1071   3.2e-39  134.5   0.0   1   1   4.4e-43     4e-39  134.2   0.0     2   352   716  1069   715  1069 0.88 Lanthionine synthetase C-like protein
+NUDIX                PF00293.28   131 CS203_c00001_NODE_1_...cluster163_ORF8:gid::pid::loc:11795:12335:strand:+ -            179   1.5e-20   73.6   0.0   1   1     1e-24   1.9e-20   73.3   0.0     2   129    31   158    30   160 0.82 NUDIX domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS203_c00001_NODE_1_...cluster163.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS203_c00001_NODE_1_...cluster163.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS203_c00001_NODE_1_...cluster163.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:46:03 2019
+# [ok]

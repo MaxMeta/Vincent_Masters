@@ -1,0 +1,285 @@
+BGC	Accesion ID	Description	Product Prediction	BiG-SCAPE class	Organism	Taxonomy
+BGC0000021.1	BGC0000021.1	Apoptolidin biosynthetic gene cluster	hglks-t1pks	PKSother	Nocardiopsis sp. FU40	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptosporangineae,Nocardiopsaceae,Nocardiopsis
+BGC0000083.1	BGC0000083.1	Lactimidomycin biosynthetic gene cluster	transatpks	PKSother	Streptomyces amphibiosporus	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000095.1	BGC0000095.1	Micromonolactam biosynthetic gene cluster	t1pks-hglks-t1pks	PKSother	Micromonospora sp. CMS I2-32	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Micromonosporineae,Micromonosporaceae,Micromonospora
+BGC0000163.1	BGC0000163.1	Tetronasin biosynthetic gene cluster	t1pks-transatpks	PKSother	Streptomyces longisporoflavus	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000164.1	BGC0000164.1	Tetronomycin biosynthetic gene cluster	t1pks-transatpks	PKSother	Streptomyces sp. NRRL 11266	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000171.1	BGC0000171.1	9-methylstreptimidone biosynthetic gene cluster	transatpks	PKSother	Streptomyces himastatinicus ATCC 53653	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000172.1	BGC0000172.1	Basiliskamides biosynthetic gene cluster	transatpks	PKSother	Brevibacillus laterosporus PE36	Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Brevibacillus
+BGC0000173.1	BGC0000173.1	Bongkrekic acid biosynthetic gene cluster	t2pks-transatpks	PKSother	Burkholderia gladioli	Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia
+BGC0000174.1	BGC0000174.1	Bryostatin biosynthetic gene cluster	transatpks	PKSother	Candidatus Endobugula sertula	Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadales genera incertae sedis,Candidatus Endobugula
+BGC0000175.1	BGC0000175.1	Cycloheximide / actiphenol biosynthetic gene cluster	lantipeptide-transatpks	Others	Streptomyces sp. YIM 56141	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000176.1	BGC0000176.1	Difficidin biosynthetic gene cluster	transatpks	PKSother	Bacillus amyloliquefaciens subsp. plantarum str. FZB42	Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus
+BGC0000177.1	BGC0000177.1	Dorrigocin / migrastatin biosynthetic gene cluster	transatpks	PKSother	Streptomyces platensis subsp. rosaceus	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000178.1	BGC0000178.1	Elansolid biosynthetic gene cluster	t2pks-transatpks	PKSother	Chitinophaga sancti	Bacteria,Bacteroidetes,Sphingobacteriia,Sphingobacteriales,Chitinophagaceae,Chitinophaga
+BGC0000179.1	BGC0000179.1	Etnangien biosynthetic gene cluster	transatpks	PKSother	Sorangium cellulosum So ce56	Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Sorangiineae,Polyangiaceae,Sorangium
+BGC0000180.1	BGC0000180.1	Legioliulin biosynthetic gene cluster	transatpks	PKSother	Legionella parisiensis	Bacteria,Proteobacteria,Gammaproteobacteria,Legionellales,Legionellaceae,Legionella
+BGC0000181.1	BGC0000181.1	Macrolactin biosynthetic gene cluster	transatpks	PKSother	Bacillus amyloliquefaciens subsp. plantarum str. FZB42	Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus
+BGC0000182.1	BGC0000182.1	Mupirocin biosynthetic gene cluster	transatpks-t2pks-hserlactone	Others	Pseudomonas fluorescens	Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+BGC0000184.1	BGC0000184.1	Sorangicin biosynthetic gene cluster	transatpks	PKSother	Sorangium cellulosum	Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Sorangiineae,Polyangiaceae,Sorangium
+BGC0000185.1	BGC0000185.1	Tartrolon biosynthetic gene cluster	transatpks	PKSother	Teredinibacter turnerae T7901	Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadales genera incertae sedis,Teredinibacter
+BGC0000186.1	BGC0000186.1	Thailandamide biosynthetic gene cluster	transatpks-t2pks-nrps	PKS-NRP_Hybrids	Burkholderia thailandensis E264	Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,pseudomallei group
+BGC0000190.1	BGC0000190.1	A-74528 biosynthetic gene cluster	t2pks	PKSother	Streptomyces sp. SANK 61196	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000191.1	BGC0000191.1	Aclacinomycin biosynthetic gene cluster	t2pks	PKSother	Streptomyces galilaeus	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000192.1	BGC0000192.1	Aclacinomycin biosynthetic gene cluster	t2pks	PKSother	Streptomyces galilaeus	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000194.1	BGC0000194.1	Actinorhodin biosynthetic gene cluster	t2pks	PKSother	Streptomyces coelicolor A3(2)	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces,Streptomyces albidoflavus group
+BGC0000195.1	BGC0000195.1	Alnumycin biosynthetic gene cluster	t2pks	PKSother	Streptomyces sp. CM020	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000196.1	BGC0000196.1	Anthraquinone biosynthetic gene cluster	t2pks	PKSother	Photorhabdus luminescens subsp. laumondii TTO1	Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Photorhabdus
+BGC0000197.1	BGC0000197.1	Aranciamycin biosynthetic gene cluster	t2pks	PKSother	Streptomyces echinatus	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000198.1	BGC0000198.1	Arenimycin B biosynthetic gene cluster	t2pks	PKSother	Salinispora arenicola CNB527	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Micromonosporineae,Micromonosporaceae,Salinispora
+BGC0000199.1	BGC0000199.1	Arimetamycin biosynthetic gene cluster	t2pks-oligosaccharide	Others	uncultured bacterium	Bacteria,environmental samples
+BGC0000200.1	BGC0000200.1	Arixanthomycin biosynthetic gene cluster	t2pks	PKSother	uncultured bacterium	Bacteria,environmental samples
+BGC0000201.1	BGC0000201.1	Auricin biosynthetic gene cluster	t2pks	PKSother	Streptomyces aureofaciens	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000202.1	BGC0000202.1	Azicemicin biosynthetic gene cluster	t2pks	PKSother	Kibdelosporangium sp. MJ126-NF4	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Pseudonocardineae,Pseudonocardiaceae,Kibdelosporangium
+BGC0000203.1	BGC0000203.1	BE-7585A biosynthetic gene cluster	t2pks	PKSother	Amycolatopsis orientalis subsp. vinearia	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Pseudonocardineae,Pseudonocardiaceae,Amycolatopsis
+BGC0000204.1	BGC0000204.1	Benastatin biosynthetic gene cluster	t2pks	PKSother	Streptomyces sp. A2991200	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000205.1	BGC0000205.1	Bryostatin biosynthetic gene cluster	t2pks	PKSother	Candidatus Endobugula sertula	Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadales genera incertae sedis,Candidatus Endobugula
+BGC0000206.1	BGC0000206.1	Chartreusin biosynthetic gene cluster	t2pks	PKSother	Streptomyces chartreusis	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000208.1	BGC0000208.1	Chelocardin biosynthetic gene cluster	t2pks	PKSother	Amycolatopsis sulphurea	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Pseudonocardineae,Pseudonocardiaceae,Amycolatopsis
+BGC0000209.1	BGC0000209.1	Chlortetracycline biosynthetic gene cluster	t2pks	PKSother	Streptomyces aureofaciens	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000210.1	BGC0000210.1	Chromomycin A3 biosynthetic gene cluster	t2pks-oligosaccharide	Others	Streptomyces griseus subsp. griseus	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000211.1	BGC0000211.1	Chrysomycin biosynthetic gene cluster	t2pks	PKSother	Streptomyces albaduncus	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000212.1	BGC0000212.1	Cinerubin B biosynthetic gene cluster	t2pks	PKSother	Streptomyces sp. SPB74	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000214.1	BGC0000214.1	Cosmomycin biosynthetic gene cluster	t2pks	PKSother	Streptomyces olindensis	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000215.1	BGC0000215.1	Curamycin biosynthetic gene cluster	t2pks	PKSother	Streptomyces cyaneus	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000216.1	BGC0000216.1	Dactylocycline biosynthetic gene cluster	t2pks	PKSother	Dactylosporangium sp. SC14051	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Micromonosporineae,Micromonosporaceae,Dactylosporangium
+BGC0000217.1	BGC0000217.1	Daunorubicin biosynthetic gene cluster	t2pks	PKSother	Streptomyces sp.	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000218.1	BGC0000218.1	Doxorubicin biosynthetic gene cluster	t2pks	PKSother	Streptomyces peucetius	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000219.1	BGC0000219.1	Elloramycin biosynthetic gene cluster	t2pks	PKSother	Streptomyces olivaceus	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000220.1	BGC0000220.1	Enterocin biosynthetic gene cluster	t2pks	PKSother	Streptomyces maritimus	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000221.1	BGC0000221.1	Erdacin biosynthetic gene cluster	t2pks	PKSother	uncultured soil bacterium V167	Bacteria,environmental samples
+BGC0000222.1	BGC0000222.1	FD-594 biosynthetic gene cluster	t2pks	PKSother	Streptomyces sp. TA-0256	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000223.1	BGC0000223.1	Fluostatin biosynthetic gene cluster	t2pks	PKSother	uncultured bacterium BAC AB649/1850	Bacteria,environmental samples
+BGC0000224.1	BGC0000224.1	Fredericamycin biosynthetic gene cluster	t2pks	PKSother	Streptomyces griseus	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000225.1	BGC0000225.1	Frenolicin biosynthetic gene cluster	t2pks	PKSother	Streptomyces roseofulvus	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000226.1	BGC0000226.1	Gilvocarcin biosynthetic gene cluster	t2pks	PKSother	Streptomyces griseoflavus	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000227.1	BGC0000227.1	Granaticin biosynthetic gene cluster	t2pks	PKSother	Streptomyces violaceoruber	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000228.1	BGC0000228.1	Granaticin biosynthetic gene cluster	t2pks	PKSother	Streptomyces violaceoruber	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000229.1	BGC0000229.1	Grincamycin biosynthetic gene cluster	t2pks-oligosaccharide	Others	Streptomyces lusitanus	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000230.1	BGC0000230.1	Griseorhodin biosynthetic gene cluster	t2pks	PKSother	Streptomyces sp. JP95	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000231.1	BGC0000231.1	Griseusin biosynthetic gene cluster	t2pks	PKSother	Streptomyces griseus	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000232.1	BGC0000232.1	Hatomarubigin biosynthetic gene cluster	t2pks	PKSother	Streptomyces sp. 2238-SVT4	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000233.1	BGC0000233.1	Hedamycin biosynthetic gene cluster	t1pks-t2pks	PKSother	Streptomyces griseoruber	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000234.1	BGC0000234.1	Jadomycin biosynthetic gene cluster	t2pks	PKSother	Streptomyces venezuelae ATCC 10712	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000235.1	BGC0000235.1	Kiamycin biosynthetic gene cluster	t2pks	PKSother	Streptomyces sp. W007	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000236.1	BGC0000236.1	Kinamycin biosynthetic gene cluster	t2pks	PKSother	Streptomyces murayamaensis	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000237.1	BGC0000237.1	Lactonamycin Z biosynthetic gene cluster	t2pks	PKSother	Streptomyces sanglieri	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000238.1	BGC0000238.1	Lactonamycin biosynthetic gene cluster	butyrolactone-t2pks	Others	Streptomyces rishiriensis	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000239.1	BGC0000239.1	Landomycin biosynthetic gene cluster	t2pks-oligosaccharide	Others	Streptomyces cyanogenus	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000240.1	BGC0000240.1	Lomaiviticin biosynthetic gene cluster	t2pks	PKSother	Salinispora pacifica	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Micromonosporineae,Micromonosporaceae,Salinispora
+BGC0000241.1	BGC0000241.1	Lomaiviticin biosynthetic gene cluster	t2pks	PKSother	Salinispora tropica CNB-440	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Micromonosporineae,Micromonosporaceae,Salinispora
+BGC0000242.1	BGC0000242.1	Lysolipin biosynthetic gene cluster	t2pks	PKSother	Streptomyces tendae	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000245.1	BGC0000245.1	Medermycin biosynthetic gene cluster	t2pks	PKSother	Streptomyces sp. AM-7161	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000246.1	BGC0000246.1	Mithramycin biosynthetic gene cluster	t2pks	PKSother	Streptomyces argillaceus	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000247.1	BGC0000247.1	Mithramycin biosynthetic gene cluster	t2pks-oligosaccharide	Others	Streptomyces argillaceus	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000248.1	BGC0000248.1	Naphtocyclinone biosynthetic gene cluster	t2pks	PKSother	Streptomyces arenae	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000250.1	BGC0000250.1	Nogalamycin biosynthetic gene cluster	t2pks	PKSother	Streptomyces nogalater	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000252.1	BGC0000252.1	Nonactin biosynthetic gene cluster	t2pks	PKSother	Streptomyces griseus subsp. griseus	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000253.1	BGC0000253.1	Oviedomycin biosynthetic gene cluster	t2pks	PKSother	Streptomyces antibioticus	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000254.1	BGC0000254.1	Oxytetracycline biosynthetic gene cluster	t2pks	PKSother	Streptomyces rimosus	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000255.1	BGC0000255.1	Pederin biosynthetic gene cluster	t2pks	PKSother	symbiont bacterium of Paederus fuscipes	Bacteria,Unknown
+BGC0000256.1	BGC0000256.1	Pradimicin biosynthetic gene cluster	t2pks	PKSother	Actinomadura hibisca	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptosporangineae,Thermomonosporaceae,Actinomadura
+BGC0000261.1	BGC0000261.1	R1128 biosynthetic gene cluster	t2pks	PKSother	Streptomyces sp. R1128	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000262.1	BGC0000262.1	Rabelomycin biosynthetic gene cluster	butyrolactone-t2pks-oligosaccharide	Others	Streptomyces sp. PGA64	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000263.1	BGC0000263.1	Ravidomycin biosynthetic gene cluster	t2pks	PKSother	Streptomyces ravidus	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000264.1	BGC0000264.1	Resistomycin biosynthetic gene cluster	t2pks	PKSother	Streptomyces resistomycificus	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000266.1	BGC0000266.1	Rubromycin biosynthetic gene cluster	t2pks	PKSother	Streptomyces collinus	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000267.1	BGC0000267.1	Saquayamycin Z / galtamycin B biosynthetic gene cluster	t2pks-oligosaccharide	Others	Micromonospora sp. Tu 6368	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Micromonosporineae,Micromonosporaceae,Micromonospora
+BGC0000268.1	BGC0000268.1	Sch47554 / Sch47555 biosynthetic gene cluster	oligosaccharide-t2pks	Others	Streptomyces sp. SCC 2136	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000269.1	BGC0000269.1	SF2575 biosynthetic gene cluster	t2pks	PKSother	Streptomyces sp. SF2575	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000270.1	BGC0000270.1	Simocyclinone biosynthetic gene cluster	t2pks-aminocoumarin	Others	Streptomyces antibioticus	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000271.1	BGC0000271.1	Spore pigment biosynthetic gene cluster	t2pks	PKSother	Streptomyces avermitilis	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000272.1	BGC0000272.1	Spore pigment biosynthetic gene cluster	t2pks	PKSother	Streptomyces collinus	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000273.1	BGC0000273.1	Steffimycin biosynthetic gene cluster	t2pks	PKSother	Streptomyces steffisburgensis	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000274.1	BGC0000274.1	Tetarimycin biosynthetic gene cluster	phenazine-t2pks	Others	uncultured bacterium	Bacteria,environmental samples
+BGC0000275.1	BGC0000275.1	Tetracenomycin biosynthetic gene cluster	t2pks	PKSother	Streptomyces glaucescens	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000276.1	BGC0000276.1	Urdamycin biosynthetic gene cluster	oligosaccharide-t2pks	Others	Streptomyces fradiae	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000279.1	BGC0000279.1	Xantholipin biosynthetic gene cluster	t2pks	PKSother	Streptomyces flavogriseus	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000280.1	BGC0000280.1	2,4-Diacetylphloroglucinol biosynthetic gene cluster	t3pks	PKSother	Pseudomonas fluorescens	Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+BGC0000281.1	BGC0000281.1	2,4-Diacetylphloroglucinol biosynthetic gene cluster	t3pks	PKSother	Pseudomonas fluorescens	Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+BGC0000282.1	BGC0000282.1	Alkylresorcinol biosynthetic gene cluster	t3pks	PKSother	Streptomyces griseus subsp. griseus NBRC 13350	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000284.1	BGC0000284.1	Phenolic lipids biosynthetic gene cluster	t3pks-hglks	PKSother	Azotobacter vinelandii DJ	Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Azotobacter
+BGC0000285.1	BGC0000285.1	Red pigment biosynthetic gene cluster	t3pks	PKSother	Saccharopolyspora erythraea	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Pseudonocardineae,Pseudonocardiaceae,Saccharopolyspora
+BGC0000289.1	BGC0000289.1	A40926 biosynthetic gene cluster	nrps-t3pks	PKS-NRP_Hybrids	Nonomuraea sp. ATCC 39727	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptosporangineae,Streptosporangiaceae,Nonomuraea
+BGC0000290.1	BGC0000290.1	A47934 biosynthetic gene cluster	nrps-t3pks	PKS-NRP_Hybrids	Streptomyces toyocaensis	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000311.1	BGC0000311.1	Balhimycin biosynthetic gene cluster	nrps-t3pks	PKS-NRP_Hybrids	Amycolatopsis balhimycina DSM 5908	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Pseudonocardineae,Pseudonocardiaceae,Amycolatopsis
+BGC0000322.1	BGC0000322.1	Chloroeremomycin biosynthetic gene cluster	t3pks-nrps	PKS-NRP_Hybrids	Amycolatopsis orientalis	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Pseudonocardineae,Pseudonocardiaceae,Amycolatopsis
+BGC0000385.1	BGC0000385.1	Lysobactin biosynthetic gene cluster	lantipeptide-nrps-transatpks	Others	Lysobacter sp. ATCC 53042	Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Lysobacter
+BGC0000402.1	BGC0000402.1	Paenilarvins biosynthetic gene cluster	nrps-transatpks	PKS-NRP_Hybrids	Paenibacillus larvae subsp. larvae DSM 25430	Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus
+BGC0000418.1	BGC0000418.1	Ristocetin biosynthetic gene cluster	nrps-t3pks	PKS-NRP_Hybrids	Amycolatopsis lurida	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Pseudonocardineae,Pseudonocardiaceae,Amycolatopsis
+BGC0000419.1	BGC0000419.1	Ristomycin A biosynthetic gene cluster	t3pks-nrps	PKS-NRP_Hybrids	Amycolatopsis japonica	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Pseudonocardineae,Pseudonocardiaceae,Amycolatopsis
+BGC0000440.1	BGC0000440.1	Teicoplanin biosynthetic gene cluster	nrps-t3pks	PKS-NRP_Hybrids	Actinoplanes teichomyceticus	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Micromonosporineae,Micromonosporaceae,Actinoplanes
+BGC0000441.1	BGC0000441.1	Teicoplanin biosynthetic gene cluster	nrps-t3pks	PKS-NRP_Hybrids	Actinoplanes teichomyceticus	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Micromonosporineae,Micromonosporaceae,Actinoplanes
+BGC0000455.1	BGC0000455.1	Vancomycin biosynthetic gene cluster	nrps-t3pks	PKS-NRP_Hybrids	Amycolatopsis orientalis HCCB10007	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Pseudonocardineae,Pseudonocardiaceae,Amycolatopsis
+BGC0000652.1	BGC0000652.1	Napyradiomycin biosynthetic gene cluster	t3pks-terpene	Others	Streptomyces sp. CNQ525	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000861.1	BGC0000861.1	Eicosapentaenoic acid biosynthetic gene cluster	hglks	PKSother	Shewanella sp. BR-2	Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella
+BGC0000862.1	BGC0000862.1	Eicosapentaenoic acid biosynthetic gene cluster	hglks	PKSother	Shewanella sp. SCRC-2738	Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella
+BGC0000863.1	BGC0000863.1	Eicosapentaenoic acid biosynthetic gene cluster	hglks	PKSother	Pseudoalteromonas sp. DS-12	Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas
+BGC0000864.1	BGC0000864.1	Eicosapentaenoic acid-like compound biosynthetic gene cluster	hglks-t1pks	PKSother	Moritella marina ATCC 15381	Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Moritellaceae,Moritella
+BGC0000865.1	BGC0000865.1	Eicoseicosapentaenoic acid biosynthetic gene cluster	hglks	PKSother	Photobacterium profundum SS9	Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Photobacterium
+BGC0000869.1	BGC0000869.1	Heterocyst glycolipids biosynthetic gene cluster	hglks-t1pks	PKSother	Nostoc sp. 'Peltigera membranacea cyanobiont'	Bacteria,Cyanobacteria,Nostocales,Nostocaceae,Nostoc
+BGC0000872.1	BGC0000872.1	A-90289 biosynthetic gene cluster	t3pks-nucleoside	Others	Streptomyces sp. SANK 60405	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000902.1	BGC0000902.1	Flaviolin biosynthetic gene cluster	t3pks	PKSother	Saccharopolyspora erythraea NRRL 2338	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Pseudonocardineae,Pseudonocardiaceae,Saccharopolyspora
+BGC0000952.1	BGC0000952.1	Pristinamycin biosynthetic gene cluster	ectoine-oligosaccharide-t2pks-nrps-nrps	Others	Streptomyces pristinaespiralis	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0000967.1	BGC0000967.1	Calyculin biosynthetic gene cluster	t2pks-nrps-transatpks	PKS-NRP_Hybrids	uncultured Candidatus Entotheonella sp.	Bacteria,Proteobacteria,Deltaproteobacteria,Candidatus Entotheonella,environmental samples
+BGC0000995.1	BGC0000995.1	FR901464 biosynthetic gene cluster	nrps-transatpks-t2pks	PKS-NRP_Hybrids	Pseudomonas sp. 2663	Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+BGC0001005.1	BGC0001005.1	Locillomycin biosynthetic gene cluster	nrps-transatpks	PKS-NRP_Hybrids	Bacillus subtilis	Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus
+BGC0001025.1	BGC0001025.1	Myxovirescin biosynthetic gene cluster	transatpks-nrps-t2pks	PKS-NRP_Hybrids	Myxococcus xanthus DK 1622	Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Cystobacterineae,Myxococcaceae,Myxococcus
+BGC0001031.1	BGC0001031.1	Oocydin A biosynthetic gene cluster	t2pks-transatpks	PKSother	Serratia marcescens	Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Serratia
+BGC0001032.1	BGC0001032.1	Oocydin A biosynthetic gene cluster	t2pks-transatpks	PKSother	Serratia plymuthica	Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Serratia
+BGC0001061.1	BGC0001061.1	Polyketomycin biosynthetic gene cluster	t1pks-t2pks	PKSother	Streptomyces diastatochromogenes	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0001062.1	BGC0001062.1	TLN-05220 biosynthetic gene cluster	t2pks-t1pks	PKSother	Micromonospora echinospora subsp. challisensis	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Micromonosporineae,Micromonosporaceae,Micromonospora
+BGC0001064.1	BGC0001064.1	Cylindrocyclophane biosynthetic gene cluster	t1pks-t2pks-t3pks	PKSother	Cylindrospermum licheniforme UTEX B 2014	Bacteria,Cyanobacteria,Nostocales,Nostocaceae,Cylindrospermum
+BGC0001065.1	BGC0001065.1	Herboxidiene biosynthetic gene cluster	t1pks-t3pks-nucleoside	Others	Streptomyces chromofuscus	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0001066.1	BGC0001066.1	Kendomycin biosynthetic gene cluster	t3pks-t1pks	PKSother	Streptomyces violaceoruber	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0001072.1	BGC0001072.1	Simocyclinone biosynthetic gene cluster	t1pks-t2pks-aminocoumarin	Others	Streptomyces antibioticus	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0001073.1	BGC0001073.1	Kosinostatin biosynthetic gene cluster	ectoine-t2pks	Others	Micromonospora sp. TP-A0468	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Micromonosporineae,Micromonosporaceae,Micromonospora
+BGC0001074.1	BGC0001074.1	Cosmomycin D biosynthetic gene cluster	oligosaccharide-t2pks	Others	Streptomyces olindensis	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0001076.1	BGC0001076.1	Liposidomycin biosynthetic gene cluster	t3pks-nucleoside	Others	Streptomyces sp. SN-1061M	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0001077.1	BGC0001077.1	Alkyl-O-Dihydrogeranyl-Methoxyhydroquinones biosynthetic gene cluster	t3pks	PKSother	Actinoplanes missouriensis 431	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Micromonosporineae,Micromonosporaceae,Actinoplanes
+BGC0001078.1	BGC0001078.1	Furaquinocin A biosynthetic gene cluster	t3pks-terpene	Others	Streptomyces sp. KO-3988	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0001079.1	BGC0001079.1	Napyradiomycin biosynthetic gene cluster	t3pks-terpene	Others	Streptomyces aculeolatus	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0001083.1	BGC0001083.1	Merochlorin biosynthetic gene cluster	terpene-t3pks-nrps-butyrolactone	Others	Streptomyces sp. CNH189	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0001088.1	BGC0001088.1	Albicidin biosynthetic gene cluster	nrps-transatpks	PKS-NRP_Hybrids	Xanthomonas albilineans	Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xanthomonas
+BGC0001089.1	BGC0001089.1	Bacillaene biosynthetic gene cluster	nrps-transatpks	PKS-NRP_Hybrids	Bacillus amyloliquefaciens subsp. plantarum str. FZB42	Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus
+BGC0001090.1	BGC0001090.1	Bacillomycin biosynthetic gene cluster	nrps-transatpks	PKS-NRP_Hybrids	Bacillus amyloliquefaciens subsp. plantarum str. FZB42	Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus
+BGC0001091.1	BGC0001091.1	Corallopyronin biosynthetic gene cluster	transatpks-t2pks	PKSother	Corallococcus coralloides	Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Cystobacterineae,Myxococcaceae,Corallococcus
+BGC0001092.1	BGC0001092.1	Diaphorin biosynthetic gene cluster	nrps-transatpks-t2pks-transatpks	PKS-NRP_Hybrids	Candidatus Profftella armatura	Bacteria,Proteobacteria,Betaproteobacteria,Candidatus Profftella
+BGC0001093.1	BGC0001093.1	Disorazole biosynthetic gene cluster	transatpks-nrps	PKS-NRP_Hybrids	Sorangium cellulosum	Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Sorangiineae,Polyangiaceae,Sorangium
+BGC0001094.1	BGC0001094.1	Enacyloxin biosynthetic gene cluster	transatpks-t1pks	PKSother	Burkholderia ambifaria AMMD	Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia cepacia complex
+BGC0001096.1	BGC0001096.1	FR901464 biosynthetic gene cluster	nrps-transatpks-t2pks	PKS-NRP_Hybrids	Pseudomonas sp. 2663	Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+BGC0001098.1	BGC0001098.1	Iturin biosynthetic gene cluster	nrps-transatpks	PKS-NRP_Hybrids	Bacillus subtilis	Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus
+BGC0001099.1	BGC0001099.1	Kalimantacin / batumin biosynthetic gene cluster	transatpks-nrps-t2pks	PKS-NRP_Hybrids	Pseudomonas fluorescens	Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+BGC0001101.1	BGC0001101.1	Leinamycin biosynthetic gene cluster	nrps-transatpks	PKS-NRP_Hybrids	Streptomyces atroolivaceus	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0001103.1	BGC0001103.1	Mycosubtilin biosynthetic gene cluster	nrps-transatpks	PKS-NRP_Hybrids	Bacillus subtilis subsp. spizizenii ATCC 6633	Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus
+BGC0001104.1	BGC0001104.1	Myxovirescin biosynthetic gene cluster	t2pks	PKSother	Myxococcus xanthus DK 1622	Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Cystobacterineae,Myxococcaceae,Myxococcus
+BGC0001105.1	BGC0001105.1	Onnamide biosynthetic gene cluster	transatpks-nrps	PKS-NRP_Hybrids	Candidatus Entotheonella sp. TSY1	Bacteria,Proteobacteria,Deltaproteobacteria,Candidatus Entotheonella
+BGC0001106.1	BGC0001106.1	Oxazolomycin biosynthetic gene cluster	nrps-transatpks	PKS-NRP_Hybrids	Streptomyces albus	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0001107.1	BGC0001107.1	Patellazole biosynthetic gene cluster	hglks-transatpks	PKSother	Candidatus Endolissoclinum faulkneri L5	Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,Candidatus Endolissoclinum
+BGC0001108.1	BGC0001108.1	Pederin biosynthetic gene cluster	nrps-transatpks	PKS-NRP_Hybrids	symbiont bacterium of Paederus fuscipes	Bacteria,Unknown
+BGC0001109.1	BGC0001109.1	Pederin biosynthetic gene cluster	nrps-transatpks	PKS-NRP_Hybrids	unidentified	Bacteria,Unknown
+BGC0001110.1	BGC0001110.1	Psymberin biosynthetic gene cluster	transatpks-nrps-t2pks	PKS-NRP_Hybrids	uncultured bacterium psy1	Bacteria,environmental samples
+BGC0001111.1	BGC0001111.1	Rhizopodins biosynthetic gene cluster	nrps-transatpks	PKS-NRP_Hybrids	Stigmatella aurantiaca Sg a15	Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Cystobacterineae,Cystobacteraceae,Stigmatella
+BGC0001112.1	BGC0001112.1	Rhizoxins biosynthetic gene cluster	nrps-transatpks	PKS-NRP_Hybrids	Burkholderia rhizoxinica	Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia
+BGC0001113.1	BGC0001113.1	Spliceostatin / FR901464 biosynthetic gene cluster	nrps-transatpks-t2pks	PKS-NRP_Hybrids	Burkholderia sp. FERM BP-3421	Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia
+BGC0001114.1	BGC0001114.1	Thailanstatin biosynthetic gene cluster	nrps-transatpks-t2pks	PKS-NRP_Hybrids	Burkholderia thailandensis	Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,pseudomallei group
+BGC0001115.1	BGC0001115.1	Thiomarinol biosynthetic gene cluster	transatpks-t2pks-nrps	PKS-NRP_Hybrids	Pseudoalteromonas sp. SANK 73390	Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas
+BGC0001116.1	BGC0001116.1	Virginiamycin biosynthetic gene cluster	nrps-transatpks-t2pks	PKS-NRP_Hybrids	Streptomyces virginiae	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0001148.1	BGC0001148.1	Pheganomycin biosynthetic gene cluster	bacteriocin-t3pks-nrps	Others	Streptomyces cirratus	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0001150.1	BGC0001150.1	Pamamycin biosynthetic gene cluster	t2pks	PKSother	Streptomyces alboniger DSM 40043	Bacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces
+BGC0001177.1	BGC0001177.1	Mensacaricin biosynthetic gene cluster	t2pks	PKSother	Streptomyces bottropensis	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0001178.1	BGC0001178.1	UK-68,597 biosynthetic gene cluster	nrps-t3pks	PKS-NRP_Hybrids	Actinoplanes sp. ATCC 53533	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Micromonosporineae,Micromonosporaceae,Actinoplanes
+BGC0001179.1	BGC0001179.1	Rishirilide B biosynthetic gene cluster	t2pks	PKSother	Streptomyces bottropensis	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0001183.1	BGC0001183.1	Lobophorin biosynthetic gene cluster	t1pks-oligosaccharide-nrps-t3pks	Others	Streptomyces sp. FXJ7.023	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0001186.1	BGC0001186.1	Misakinolide biosynthetic gene cluster	transatpks-t3pks	PKSother	Candidatus Entotheonella sp. (ex. Theonella swinhoei)	Bacteria,Proteobacteria,Deltaproteobacteria,Candidatus Entotheonella
+BGC0001197.1	BGC0001197.1	Frankiamicin biosynthetic gene cluster	t2pks	PKSother	Frankia sp. EAN1pec	Bacteria,Actinobacteria,Frankiales,Frankiaceae,Frankia
+BGC0001213.1	BGC0001213.1	Nataxazole biosynthetic gene cluster	t1pks-hglks	PKSother	Streptomyces sp. Tu 6176	Bacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces
+BGC0001233.1	BGC0001233.1	Feglymycin biosynthetic gene cluster	t3pks-nrps	PKS-NRP_Hybrids	Streptomyces sp. DSM 11171	Bacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces
+BGC0001292.1	BGC0001292.1	A33853 biosynthetic gene cluster	hglks	PKSother	Streptomyces sp. NRRL 12068	Bacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces
+BGC0001293.1	BGC0001293.1	Cyclizidine biosynthetic gene cluster	t1pks-hglks	PKSother	Streptomyces sp. NCIB 11649	Bacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces
+BGC0001299.1	BGC0001299.1	Chlorotonil biosynthetic gene cluster	transatpks	PKSother	Sorangium cellulosum	Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Sorangiineae,Polyangiaceae,Sorangium
+BGC0001300.1	BGC0001300.1	Anthracimycin biosynthetic gene cluster	transatpks	PKSother	Streptomyces sp. CNH365	Bacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces
+BGC0001301.1	BGC0001301.1	Anthracimycin biosynthetic gene cluster	transatpks	PKSother	Streptomyces sp. T676	Bacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces
+BGC0001308.1	BGC0001308.1	Simocyclinone D9 / simocyclinone D10 / simocyclinone D11 biosynthetic gene cluster	t2pks-aminocoumarin-nrps	Others	Streptomyces sp. NRRL B-24484	Bacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces
+BGC0001310.1	BGC0001310.1	Naringenin biosynthetic gene cluster	t3pks	PKSother	Streptomyces clavuligerus ATCC 27064	Bacteria,Actinobacteria,Actinobacteridae,Actinomycetales,Streptomycineae,Streptomycetaceae,Streptomyces
+BGC0001350.1	BGC0001350.1	Phormidolide biosynthetic gene cluster	t2pks-transatpks	PKSother	Leptolyngbya sp. ISBN3-Nov-94-8	Bacteria,Cyanobacteria,Oscillatoriophycideae,Oscillatoriales,Leptolyngbya
+BGC0001357.1	BGC0001357.1	Carbamidocyclophane biosynthetic gene cluster	t1pks-t2pks-t3pks	PKSother	Nostoc sp. CAVN2	Bacteria,Cyanobacteria,Nostocales,Nostocaceae,Nostoc
+BGC0001366.1	BGC0001366.1	BE-24566B / zunyimycin A biosynthetic gene cluster	t2pks	PKSother	Streptomyces sp. FJS31-2	Bacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces
+BGC0001376.1	BGC0001376.1	Hexaricin biosynthetic gene cluster	t2pks	PKSother	Streptosporangium sp. FXJ7.131	Bacteria,Actinobacteria,Streptosporangiales,Streptosporangiaceae,Streptosporangium
+BGC0001383.1	BGC0001383.1	Macrolactin biosynthetic gene cluster	transatpks	PKSother	Jeotgalibacillus marinus	Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Jeotgalibacillus
+BGC0001384.1	BGC0001384.1	Saprolmycin biosynthetic gene cluster	t2pks-oligosaccharide	Others	Streptomyces sp. TK08046	Bacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces
+BGC0001386.1	BGC0001386.1	Isofuranonaphthoquinone biosynthetic gene cluster	t2pks	PKSother	Streptomyces sp. RI-77	Bacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces
+BGC0001409.1	BGC0001409.1	Dutomycin biosynthetic gene cluster	t2pks-t1pks	PKSother	Streptomyces minoensis	Bacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces
+BGC0001438.1	BGC0001438.1	Warkmycin biosynthetic gene cluster	oligosaccharide-t2pks	Others	Streptomyces sp. CS057	Bacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces
+BGC0001439.1	BGC0001439.1	Cervimycin biosynthetic gene cluster	t2pks-oligosaccharide	Others	Streptomyces sp. CS113	Bacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces
+BGC0001459.1	BGC0001459.1	Decaplanin biosynthetic gene cluster	nrps-t3pks	PKS-NRP_Hybrids	Amycolatopsis regifaucium	Bacteria,Actinobacteria,Pseudonocardiales,Pseudonocardiaceae,Amycolatopsis
+BGC0001460.1	BGC0001460.1	Decaplanin biosynthetic gene cluster	t3pks-nrps	PKS-NRP_Hybrids	Amycolatopsis decaplanina DSM 44594	Bacteria,Actinobacteria,Pseudonocardiales,Pseudonocardiaceae,Amycolatopsis
+BGC0001461.1	BGC0001461.1	Nogabecin biosynthetic gene cluster	nrps-t3pks	PKS-NRP_Hybrids	Amycolatopsis keratiniphila subsp. nogabecina	Bacteria,Actinobacteria,Pseudonocardiales,Pseudonocardiaceae,Amycolatopsis
+BGC0001462.1	BGC0001462.1	Avoparcin biosynthetic gene cluster	t3pks-nrps	PKS-NRP_Hybrids	Amycolatopsis coloradensis	Bacteria,Actinobacteria,Pseudonocardiales,Pseudonocardiaceae,Amycolatopsis
+BGC0001470.1	BGC0001470.1	Macrobrevin biosynthetic gene cluster	transatpks-t2pks	PKSother	Brevibacillus sp. Leaf182	Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Brevibacillus
+BGC0001500.1	BGC0001500.1	Allocyclinone biosynthetic gene cluster	t2pks	PKSother	Actinoallomurus sp. ID145698	Bacteria,Actinobacteria,Streptosporangiales,Thermomonosporaceae,Actinoallomurus
+BGC0001512.1	BGC0001512.1	Anthrabenzoxocinone biosynthetic gene cluster	t2pks	PKSother	Streptomyces sp.	Bacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces
+BGC0001513.1	BGC0001513.1	Anthrabenzoxocinone biosynthetic gene cluster	t2pks	PKSother	Actinobacteria bacterium	Bacteria,Actinobacteria
+BGC0001520.1	BGC0001520.1	Aurantinins B-D biosynthetic gene cluster	transatpks-t2pks	PKSother	Bacillus subtilis	Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus
+BGC0001543.1	BGC0001543.1	Chejuenolide A / chejuenolide B biosynthetic gene cluster	transatpks	PKSother	Hahella chejuensis	Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Hahellaceae,Hahella
+BGC0001558.1	BGC0001558.1	Cosmomycin C / cosmomycin D biosynthetic gene cluster	oligosaccharide-t2pks	Others	Streptomyces sp. CNT302	Bacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces
+BGC0001564.1	BGC0001564.1	Cusperin biosynthetic gene cluster	transatpks-nrps-t2pks	PKS-NRP_Hybrids	Cuspidothrix issatschenkoi CHARLIE-1	Bacteria,Cyanobacteria,Nostocales,Aphanizomenonaceae,Cuspidothrix
+BGC0001566.1	BGC0001566.1	Cylindrocyclophane biosynthetic gene cluster	t1pks-t2pks-t3pks	PKSother	Cylindrospermum licheniforme UTEX B 2014	Bacteria,Cyanobacteria,Nostocales,Nostocaceae,Cylindrospermum
+BGC0001568.1	BGC0001568.1	Cytorhodin biosynthetic gene cluster	t2pks-oligosaccharide	Others	Streptomyces sp. SCSIO 1666	Bacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces
+BGC0001590.1	BGC0001590.1	Formicamycins A-M biosynthetic gene cluster	t2pks	PKSother	Streptomyces sp. KY5	Bacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces
+BGC0001596.1	BGC0001596.1	Fluostatins M-Q biosynthetic gene cluster	t2pks	PKSother	Streptomyces albus	Bacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces
+BGC0001611.1	BGC0001611.1	Guangnanmycin biosynthetic gene cluster	lantipeptide-nrps-transatpks	Others	Streptomyces sp. CB01883	Bacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces
+BGC0001622.1	BGC0001622.1	Isatropolone A / isotropolone B / isotropolone C biosynthetic gene cluster	t2pks	PKSother	Streptomyces sp.	Bacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces
+BGC0001625.1	BGC0001625.1	Isofuranonaphthoquinone biosynthetic gene cluster	t2pks	PKSother	Streptomyces sp. CB01883	Bacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces
+BGC0001635.1	BGC0001635.1	Kistamicin A biosynthetic gene cluster	nrps-t3pks	PKS-NRP_Hybrids	Nonomuraea sp. ATCC 55076	Bacteria,Actinobacteria,Streptosporangiales,Streptosporangiaceae,Nonomuraea
+BGC0001644.1	BGC0001644.1	Lacunalides biosynthetic gene cluster	transatpks	PKSother	Gynuella sunshinyii YC6258	Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Saccharospirillaceae,Gynuella
+BGC0001646.1	BGC0001646.1	Lagriamide biosynthetic gene cluster	nrps-transatpks-terpene	Others	Burkholderia gladioli	Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia
+BGC0001647.1	BGC0001647.1	Lagunapyrone A / lagunapyrone B / lagunapyrone C biosynthetic gene cluster	t3pks-t1pks	PKSother	Streptomyces sp. MP131-18	Bacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces
+BGC0001656.1	BGC0001656.1	Luminaolide biosynthetic gene cluster	transatpks	PKSother	Planktothrix paucivesiculata PCC 9631	Bacteria,Cyanobacteria,Oscillatoriophycideae,Oscillatoriales,Microcoleaceae,Planktothrix
+BGC0001661.1	BGC0001661.1	Mayamycin B biosynthetic gene cluster	t2pks	PKSother	Streptomyces sp.	Bacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces
+BGC0001663.1	BGC0001663.1	Merocyclophane C / merocyclophane D biosynthetic gene cluster	t1pks-t3pks	PKSother	Nostoc sp. UIC 10110	Bacteria,Cyanobacteria,Nostocales,Nostocaceae,Nostoc
+BGC0001665.1	BGC0001665.1	Methylated alkyl-resorcinol / methylated acyl-phloroglucinol biosynthetic gene cluster	t3pks-t1pks	PKSother	Mycobacterium marinum M	Bacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium
+BGC0001675.1	BGC0001675.1	Murayaquinone biosynthetic gene cluster	t2pks	PKSother	Streptomyces griseoruber	Bacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces
+BGC0001689.1	BGC0001689.1	Naphthgeranine A biosynthetic gene cluster	t3pks	PKSother	Streptomyces sp.	Bacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces
+BGC0001693.1	BGC0001693.1	Nenestatin biosynthetic gene cluster	t2pks	PKSother	Micromonospora echinospora	Bacteria,Actinobacteria,Micromonosporales,Micromonosporaceae,Micromonospora
+BGC0001719.1	BGC0001719.1	Olimycin A / olimycin B biosynthetic gene cluster	t2pks	PKSother	Streptomyces olivaceus	Bacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces
+BGC0001723.1	BGC0001723.1	Oviedomycin biosynthetic gene cluster	t2pks	PKSother	Streptomyces antibioticus	Bacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces
+BGC0001728.1	BGC0001728.1	Paenilipoheptin biosynthetic gene cluster	nrps-transatpks	PKS-NRP_Hybrids	Paenibacillus polymyxa E681	Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus
+BGC0001730.1	BGC0001730.1	Paramagnetoquinone 1 / paramagnetoquinone 2 biosynthetic gene cluster	t2pks	PKSother	Actinoallomurus sp.	Bacteria,Actinobacteria,Streptosporangiales,Thermomonosporaceae,Actinoallomurus
+BGC0001740.1	BGC0001740.1	Phthoxazolin biosynthetic gene cluster	nrps-transatpks	PKS-NRP_Hybrids	Streptomyces avermitilis	Bacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces
+BGC0001751.1	BGC0001751.1	Pyxipyrrolone A / pyxipyrrolone B biosynthetic gene cluster	transatpks-nrps-t2pks	PKS-NRP_Hybrids	Pyxidicoccus sp. MCy9557	Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Cystobacterineae,Myxococcaceae,Pyxidicoccus
+BGC0001761.1	BGC0001761.1	Ripostatin A / ripostatin B / ripostatin C biosynthetic gene cluster	transatpks-t1pks-t2pks	PKSother	Sorangium cellulosum	Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Sorangiineae,Polyangiaceae,Sorangium
+BGC0001762.1	BGC0001762.1	Rubrolone A / rubrolone B biosynthetic gene cluster	t2pks	PKSother	Streptomyces sp. KIB-H033	Bacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces
+BGC0001769.1	BGC0001769.1	Saquayamycin biosynthetic gene cluster	t2pks-oligosaccharide	Others	Streptomyces sp.	Bacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces
+BGC0001772.1	BGC0001772.1	Scytophycin biosynthetic gene cluster	transatpks-t1pks	PKSother	Anabaena sp. UHCC 0451	Bacteria,Cyanobacteria,Nostocales,Nostocaceae,Anabaena
+BGC0001780.1	BGC0001780.1	Siphonazole biosynthetic gene cluster	nrps-transatpks	PKS-NRP_Hybrids	Herpetosiphon sp. B060	Bacteria,Chloroflexi,Chloroflexia,Herpetosiphonales,Herpetosiphonaceae,Herpetosiphon
+BGC0001795.1	BGC0001795.1	Swinholide A biosynthetic gene cluster	transatpks	PKSother	Nostoc sp. UHCC 0450	Bacteria,Cyanobacteria,Nostocales,Nostocaceae,Nostoc
+BGC0001819.1	BGC0001819.1	Venemycin biosynthetic gene cluster	t1pks-t3pks	PKSother	Streptomyces venezuelae	Bacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces
+CS200_c00001_NODE_1_...cluster041	c00150_NODE_15..	NODE_150_length_146619_cov_10.753714	t2pks	PKSother		
+CS200_c00001_NODE_1_...cluster093	c00909_NODE_90..	NODE_909_length_53371_cov_21.406187	t3pks	PKSother		
+CS200_c00001_NODE_1_...cluster107	c01169_NODE_11..	NODE_1169_length_45071_cov_3.551086	t2pks	PKSother		
+CS200_c00001_NODE_1_...cluster122	c01894_NODE_18..	NODE_1894_length_32258_cov_3.184090	t3pks	PKSother		
+CS200_c00001_NODE_1_...cluster171	c04114_NODE_41..	NODE_4114_length_17714_cov_2.310457	t3pks	PKSother		
+CS200_c00001_NODE_1_...cluster178	c04431_NODE_44..	NODE_4431_length_16593_cov_9.206000	t3pks	PKSother		
+CS200_c00001_NODE_1_...cluster198	c05711_NODE_57..	NODE_5711_length_13321_cov_5.834243	t3pks	PKSother		
+CS200_c00001_NODE_1_...cluster245	c10293_NODE_10..	NODE_10293_length_7859_cov_7.745344	t3pks	PKSother		
+CS200_c00001_NODE_1_...cluster266	c13261_NODE_13..	NODE_13261_length_6207_cov_1.079770	t2pks	PKSother		
+CS200_c00001_NODE_1_...cluster282	c15817_NODE_15..	NODE_15817_length_5264_cov_3.026085	t3pks	PKSother		
+CS202_c00001_NODE_1_...cluster044	c00405_NODE_40..	NODE_405_length_73023_cov_8.796409	t3pks	PKSother		
+CS202_c00001_NODE_1_...cluster046	c00426_NODE_42..	NODE_426_length_71186_cov_4.118535	t3pks	PKSother		
+CS202_c00001_NODE_1_...cluster069	c00904_NODE_90..	NODE_904_length_46061_cov_7.760003	t3pks	PKSother		
+CS202_c00001_NODE_1_...cluster099	c01999_NODE_19..	NODE_1999_length_24668_cov_3.240781	t2pks	PKSother		
+CS202_c00001_NODE_1_...cluster109	c02296_NODE_22..	NODE_2296_length_21673_cov_15.489789	t3pks	PKSother		
+CS202_c00001_NODE_1_...cluster114	c02523_NODE_25..	NODE_2523_length_19822_cov_4.955725	t3pks	PKSother		
+CS202_c00001_NODE_1_...cluster183	c10042_NODE_10..	NODE_10042_length_6012_cov_1.346474	t2pks	PKSother		
+CS203_c00001_NODE_1_...cluster045	c00354_NODE_35..	NODE_354_length_91528_cov_4.256781	t2pks	PKSother		
+CS203_c00001_NODE_1_...cluster050	c00397_NODE_39..	NODE_397_length_86984_cov_10.056369	t3pks	PKSother		
+CS203_c00001_NODE_1_...cluster055	c00489_NODE_48..	NODE_489_length_78009_cov_11.074831	t3pks	PKSother		
+CS203_c00001_NODE_1_...cluster073	c00827_NODE_82..	NODE_827_length_56237_cov_5.818018	t2pks	PKSother		
+CS203_c00001_NODE_1_...cluster115	c02709_NODE_27..	NODE_2709_length_22951_cov_11.020242	t3pks	PKSother		
+CS203_c00001_NODE_1_...cluster126	c03493_NODE_34..	NODE_3493_length_18567_cov_2.056291	t3pks	PKSother		
+CS203_c00001_NODE_1_...cluster198	c12279_NODE_12..	NODE_12279_length_6591_cov_2.254641	transatpks	PKSother		
+CS203_c00001_NODE_1_...cluster202	c13688_NODE_13..	NODE_13688_length_6065_cov_1.165207	t3pks	PKSother		
+CS203_c00001_NODE_1_...cluster213	c16986_NODE_16..	NODE_16986_length_5172_cov_18.359762	t3pks	PKSother		
+CS204_c00001_NODE_1_...cluster009	c00075_NODE_75..	NODE_75_length_173917_cov_11.667564	t2pks	PKSother		
+CS204_c00001_NODE_1_...cluster028	c00264_NODE_26..	NODE_264_length_87127_cov_4.996862	t3pks	PKSother		
+CS204_c00001_NODE_1_...cluster061	c00839_NODE_83..	NODE_839_length_43616_cov_3.279266	t3pks	PKSother		
+CS204_c00001_NODE_1_...cluster090	c02172_NODE_21..	NODE_2172_length_22327_cov_5.695495	t3pks	PKSother		
+CS204_c00001_NODE_1_...cluster195	c14752_NODE_14..	NODE_14752_length_5638_cov_4.331882	t3pks	PKSother		
+CS204_c00001_NODE_1_...cluster197	c14871_NODE_14..	NODE_14871_length_5614_cov_2.648989	t3pks	PKSother		
+CS211_c00001_NODE_1_...cluster001	c00006_NODE_6_..	NODE_6_length_285906_cov_3.832748	transatpks-t1pks	PKSother		
+CS211_c00001_NODE_1_...cluster003	c00011_NODE_11..	NODE_11_length_229323_cov_4.080935	t3pks	PKSother		
+CS211_c00001_NODE_1_...cluster009	c00038_NODE_38..	NODE_38_length_159194_cov_24.119497	t2pks	PKSother		
+CS211_c00001_NODE_1_...cluster058	c00826_NODE_82..	NODE_826_length_43432_cov_2.735504	t3pks	PKSother		
+CS211_c00001_NODE_1_...cluster068	c01084_NODE_10..	NODE_1084_length_37242_cov_21.036158	t3pks	PKSother		
+CS211_c00001_NODE_1_...cluster069	c01174_NODE_11..	NODE_1174_length_35478_cov_3.671240	t3pks	PKSother		
+CS211_c00001_NODE_1_...cluster087	c01755_NODE_17..	NODE_1755_length_27745_cov_14.447317	t3pks	PKSother		
+CS211_c00001_NODE_1_...cluster137	c03945_NODE_39..	NODE_3945_length_16342_cov_8.208017	t3pks	PKSother		
+CS211_c00001_NODE_1_...cluster211	c10721_NODE_10..	NODE_10721_length_7975_cov_6.290265	t3pks	PKSother		
+CS211_c00001_NODE_1_...cluster270	c19057_NODE_19..	NODE_19057_length_5225_cov_3.850137	t3pks	PKSother		
+CS783_c00001_NODE_1_...cluster011	c00008_NODE_8_..	NODE_8_length_588794_cov_3.631355	t2pks	PKSother		
+CS783_c00001_NODE_1_...cluster029	c00168_NODE_16..	NODE_168_length_127822_cov_6.384714	t3pks	PKSother		
+CS783_c00001_NODE_1_...cluster054	c00815_NODE_81..	NODE_815_length_40902_cov_2.100527	t3pks	PKSother		
+CS783_c00001_NODE_1_...cluster061	c01052_NODE_10..	NODE_1052_length_34302_cov_5.326730	t3pks	PKSother		
+CS783_c00001_NODE_1_...cluster123	c05580_NODE_55..	NODE_5580_length_9118_cov_1.922033	t3pks	PKSother		
+CS783_c00001_NODE_1_...cluster137	c06951_NODE_69..	NODE_6951_length_7643_cov_2.408994	t3pks	PKSother		

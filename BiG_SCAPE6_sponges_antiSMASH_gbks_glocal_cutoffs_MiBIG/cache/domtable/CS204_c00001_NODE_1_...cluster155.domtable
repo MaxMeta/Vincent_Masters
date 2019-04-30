@@ -1,0 +1,25 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Acyl_transf_1        PF00698.21   319 CS204_c00001_NODE_1_...cluster155_ORF2:gid::pid::loc:712:7813:strand:+ -           2366   8.7e-59  199.6   0.0   1   1   1.3e-61   2.1e-58  198.3   0.0     3   317   555   883   553   885 0.92 Acyl transferase domain
+ketoacyl-synt        PF00109.26   253 CS204_c00001_NODE_1_...cluster155_ORF2:gid::pid::loc:712:7813:strand:+ -           2366   4.9e-55  186.9   0.1   1   1   9.6e-58   1.6e-54  185.2   0.0     3   250    22   266    20   269 0.90 Beta-ketoacyl synthase, N-terminal domain
+KR                   PF08659.10   180 CS204_c00001_NODE_1_...cluster155_ORF2:gid::pid::loc:712:7813:strand:+ -           2366   4.5e-50  170.0   0.0   1   1   7.7e-53   1.3e-49  168.6   0.0     1   179  1972  2151  1972  2152 0.92 KR domain
+PS-DH                PF14765.6    298 CS204_c00001_NODE_1_...cluster155_ORF2:gid::pid::loc:712:7813:strand:+ -           2366   1.3e-32  113.3   0.1   1   1   1.7e-35   2.8e-32  112.1   0.1     2   286   931  1222   930  1228 0.84 Polyketide synthase dehydratase
+Ketoacyl-synt_C      PF02801.22   118 CS204_c00001_NODE_1_...cluster155_ORF2:gid::pid::loc:712:7813:strand:+ -           2366   1.2e-28   99.4   1.1   1   1   2.2e-31   3.6e-28   98.0   1.1    16   115   301   400   278   402 0.91 Beta-ketoacyl synthase, C-terminal domain
+ADH_zinc_N           PF00107.26   130 CS204_c00001_NODE_1_...cluster155_ORF2:gid::pid::loc:712:7813:strand:+ -           2366   1.9e-18   66.7   0.3   1   1     4e-21   6.5e-18   65.0   0.1     1    98  1777  1875  1777  1898 0.89 Zinc-binding dehydrogenase
+ADH_zinc_N_2         PF13602.6    133 CS204_c00001_NODE_1_...cluster155_ORF2:gid::pid::loc:712:7813:strand:+ -           2366   6.8e-16   59.5   0.0   1   1   1.8e-18   2.9e-15   57.5   0.0     1   133  1809  1948  1809  1948 0.80 Zinc-binding dehydrogenase
+KAsynt_C_assoc       PF16197.5    112 CS204_c00001_NODE_1_...cluster155_ORF2:gid::pid::loc:712:7813:strand:+ -           2366     5e-16   59.1   0.0   1   1   6.5e-19   1.1e-15   58.1   0.0     1    89   406   497   406   522 0.82 Ketoacyl-synthetase C-terminal extension
+adh_short            PF00106.25   195 CS204_c00001_NODE_1_...cluster155_ORF2:gid::pid::loc:712:7813:strand:+ -           2366   1.5e-08   34.3   0.0   1   1   8.7e-11   1.4e-07   31.2   0.0     3   164  1974  2136  1972  2142 0.85 short chain dehydrogenase
+PP-binding           PF00550.25    67 CS204_c00001_NODE_1_...cluster155_ORF2:gid::pid::loc:712:7813:strand:+ -           2366   9.8e-06   25.8   0.0   1   1     2e-08   3.3e-05   24.1   0.0     2    65  2242  2303  2241  2305 0.89 Phosphopantetheine attachment site
+B12-binding          PF02310.19   121 CS204_c00001_NODE_1_...cluster155_ORF3:gid::pid::loc:7838:8705:strand:+ -            289   1.3e-12   47.8   0.0   1   1   1.4e-15   1.2e-11   44.7   0.0    10   120    29   128    24   129 0.92 B12 binding domain
+Radical_SAM          PF04055.21   167 CS204_c00001_NODE_1_...cluster155_ORF3:gid::pid::loc:7838:8705:strand:+ -            289   2.2e-12   47.7   0.0   1   1   6.1e-16   5.4e-12   46.4   0.0     2   115   171   287   170   289 0.91 Radical SAM superfamily
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS204_c00001_NODE_1_...cluster155.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS204_c00001_NODE_1_...cluster155.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS204_c00001_NODE_1_...cluster155.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:38:54 2019
+# [ok]

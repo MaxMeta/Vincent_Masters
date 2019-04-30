@@ -1,0 +1,38 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Aldo_ket_red         PF00248.21   294 BGC0001556.1_ORF2:gid::pid:AWO77086.1:loc:1423:2302:strand:- -            292   5.6e-64  216.2   0.0   1   1   3.8e-66   6.8e-62  209.3   0.0     1   290    26   287    26   290 0.97 Aldo/keto reductase family
+FA_hydroxylase       PF04116.13   133 BGC0001556.1_ORF3:gid:cbmE:pid:AWO77087.1:loc:2823:3657:strand:+ -            277   3.9e-26   92.0   4.6   1   1   2.2e-30   3.9e-26   92.0   4.6     2   133   106   238   105   238 0.93 Fatty acid hydroxylase superfamily
+Condensation         PF00668.20   457 BGC0001556.1_ORF4:gid:cbmA:pid:AWO77084.1:loc:3774:13779:strand:+ -           3334   5.8e-99  331.8   0.0   1   1  4.6e-102   7.4e-99  331.5   0.0     3   457  1989  2437  1987  2437 0.96 Condensation domain
+AMP-binding          PF00501.28   423 BGC0001556.1_ORF4:gid:cbmA:pid:AWO77084.1:loc:3774:13779:strand:+ -           3334   3.7e-88  296.0   0.1   1   1     5e-91   8.1e-88  294.8   0.1     2   422  2459  2914  2458  2915 0.83 AMP-binding enzyme
+ketoacyl-synt        PF00109.26   253 BGC0001556.1_ORF4:gid:cbmA:pid:AWO77084.1:loc:3774:13779:strand:+ -           3334   3.4e-81  272.6   0.1   1   1   2.1e-84   3.4e-81  272.6   0.1     2   253    11   262    10   262 0.96 Beta-ketoacyl synthase, N-terminal domain
+Acyl_transf_1        PF00698.21   319 BGC0001556.1_ORF4:gid:cbmA:pid:AWO77084.1:loc:3774:13779:strand:+ -           3334   2.4e-76  257.3   0.0   1   1   2.7e-79   4.4e-76  256.4   0.0     1   318   610   933   610   934 0.96 Acyl transferase domain
+PS-DH                PF14765.6    298 BGC0001556.1_ORF4:gid:cbmA:pid:AWO77084.1:loc:3774:13779:strand:+ -           3334   4.6e-58  196.8  15.6   1   2   1.2e-23     2e-20   73.3   0.2     1    80   975  1050   975  1053 0.97 Polyketide synthase dehydratase
+PS-DH                PF14765.6    298 BGC0001556.1_ORF4:gid:cbmA:pid:AWO77084.1:loc:3774:13779:strand:+ -           3334   4.6e-58  196.8  15.6   2   2   3.5e-42   5.7e-39  134.1   1.6    80   294  1071  1277  1065  1280 0.88 Polyketide synthase dehydratase
+KR                   PF08659.10   180 BGC0001556.1_ORF4:gid:cbmA:pid:AWO77084.1:loc:3774:13779:strand:+ -           3334   1.4e-57  194.5   0.0   1   1   7.3e-60   1.2e-56  191.5   0.0     1   179  1601  1793  1601  1794 0.96 KR domain
+Ketoacyl-synt_C      PF02801.22   118 BGC0001556.1_ORF4:gid:cbmA:pid:AWO77084.1:loc:3774:13779:strand:+ -           3334   3.3e-40  136.8   0.5   1   1   4.9e-43     8e-40  135.5   0.5     1   117   270   387   270   388 0.98 Beta-ketoacyl synthase, C-terminal domain
+Thioesterase         PF00975.20   231 BGC0001556.1_ORF4:gid:cbmA:pid:AWO77084.1:loc:3774:13779:strand:+ -           3334   5.2e-24   85.6   0.1   1   1   7.1e-27   1.2e-23   84.5   0.1     3   132  3114  3232  3112  3303 0.83 Thioesterase domain
+PP-binding           PF00550.25    67 BGC0001556.1_ORF4:gid:cbmA:pid:AWO77084.1:loc:3774:13779:strand:+ -           3334   2.5e-23   82.2   1.6   1   2   1.7e-12   2.8e-09   37.2   0.4     2    66  1896  1960  1895  1961 0.94 Phosphopantetheine attachment site
+PP-binding           PF00550.25    67 BGC0001556.1_ORF4:gid:cbmA:pid:AWO77084.1:loc:3774:13779:strand:+ -           3334   2.5e-23   82.2   1.6   2   2   1.8e-14     3e-11   43.5   0.0     4    66  3028  3088  3025  3089 0.92 Phosphopantetheine attachment site
+KAsynt_C_assoc       PF16197.5    112 BGC0001556.1_ORF4:gid:cbmA:pid:AWO77084.1:loc:3774:13779:strand:+ -           3334   1.3e-11   44.9   0.0   1   1   1.8e-14   2.9e-11   43.8   0.0     2    58   391   450   391   483 0.84 Ketoacyl-synthetase C-terminal extension
+AMP-binding_C        PF13193.6     76 BGC0001556.1_ORF4:gid:cbmA:pid:AWO77084.1:loc:3774:13779:strand:+ -           3334   3.6e-10   40.7   0.1   1   1   2.5e-12   4.1e-09   37.3   0.0     1    76  2923  2998  2923  2998 0.91 AMP-binding enzyme C-terminal domain
+Amino_oxidase        PF01593.24   452 BGC0001556.1_ORF5:gid:cbmB:pid:AWO77088.1:loc:13768:15433:strand:+ -            554   4.2e-19   69.2   0.0   1   1   1.2e-22   7.5e-19   68.3   0.0     1   353    29   406    29   423 0.76 Flavin containing amine oxidoreductase
+NAD_binding_8        PF13450.6     68 BGC0001556.1_ORF5:gid:cbmB:pid:AWO77088.1:loc:13768:15433:strand:+ -            554   5.6e-12   45.7   0.4   1   1     3e-15   1.8e-11   44.1   0.2     1    68    24    91    24    91 0.97 NAD(P)-binding Rossmann-like domain
+Amino_oxidase        PF01593.24   452 BGC0001556.1_ORF6:gid:cbmC:pid:AWO77089.1:loc:15444:17178:strand:+ -            577   2.9e-14   53.2   0.0   1   1   2.8e-17   1.7e-13   50.7   0.0     2   346    19   388    18   406 0.70 Flavin containing amine oxidoreductase
+NAD_binding_8        PF13450.6     68 BGC0001556.1_ORF6:gid:cbmC:pid:AWO77089.1:loc:15444:17178:strand:+ -            577   3.7e-12   46.3   0.1   1   1   1.4e-15   8.6e-12   45.1   0.1     1    64    13    76    13    80 0.93 NAD(P)-binding Rossmann-like domain
+p450                 PF00067.22   463 BGC0001556.1_ORF7:gid:cbmD:pid:AWO77090.1:loc:17131:18328:strand:+ -            398   8.8e-27   94.0   0.0   1   2   4.2e-10   7.5e-06   24.9   0.0   216   301   186   262    28   264 0.85 Cytochrome P450
+p450                 PF00067.22   463 BGC0001556.1_ORF7:gid:cbmD:pid:AWO77090.1:loc:17131:18328:strand:+ -            398   8.8e-27   94.0   0.0   2   2   9.7e-21   1.7e-16   60.0   0.0   327   432   270   367   267   393 0.91 Cytochrome P450
+FCD                  PF07729.12   125 BGC0001556.1_ORF8:gid::pid:AWO77092.1:loc:18983:19667:strand:+ -            227   3.7e-26   92.0  16.0   1   1   1.1e-29   6.8e-26   91.1  16.0     1   124    92   213    92   214 0.96 FCD domain
+GntR                 PF00392.21    64 BGC0001556.1_ORF8:gid::pid:AWO77092.1:loc:18983:19667:strand:+ -            227   3.9e-19   68.0   0.4   1   1   6.6e-23   3.9e-19   68.0   0.4     2    64    21    82    20    82 0.98 Bacterial regulatory proteins, gntR family
+MFS_1                PF07690.16   353 BGC0001556.1_ORF9:gid::pid:AWO77091.1:loc:19868:21149:strand:- -            426     9e-49  166.3  49.1   1   2   9.5e-34   1.7e-29  102.9  18.3     4   295     8   309     4   313 0.84 Major Facilitator Superfamily
+MFS_1                PF07690.16   353 BGC0001556.1_ORF9:gid::pid:AWO77091.1:loc:19868:21149:strand:- -            426     9e-49  166.3  49.1   2   2   5.8e-26     1e-21   77.3  22.8     2   183   230   412   230   422 0.91 Major Facilitator Superfamily
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001556.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001556.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001556.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:32:14 2019
+# [ok]

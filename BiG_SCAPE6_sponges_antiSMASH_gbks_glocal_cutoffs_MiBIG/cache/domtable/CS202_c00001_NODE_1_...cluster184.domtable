@@ -1,0 +1,21 @@
+#                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+YcaO                 PF02624.16   323 CS202_c00001_NODE_1_...cluster184_ORF1:gid::pid::loc:0:1506:strand:- -            502   2.8e-23   82.7   0.0   1   1   2.6e-27   4.6e-23   82.0   0.0     2   100   390   499   389   502 0.95 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+CMAS                 PF02353.20   273 CS202_c00001_NODE_1_...cluster184_ORF2:gid::pid::loc:1526:2603:strand:- -            358   7.1e-71  238.7   0.0   1   1   2.5e-74   8.8e-71  238.4   0.0     5   273    88   345    85   345 0.96 Mycolic acid cyclopropane synthetase
+Methyltransf_25      PF13649.6     97 CS202_c00001_NODE_1_...cluster184_ORF2:gid::pid::loc:1526:2603:strand:- -            358   2.4e-13   50.6   0.0   1   1   1.4e-16     5e-13   49.6   0.0     1    97   148   238   148   238 0.95 Methyltransferase domain
+Methyltransf_11      PF08241.12    96 CS202_c00001_NODE_1_...cluster184_ORF2:gid::pid::loc:1526:2603:strand:- -            358   3.1e-11   43.8   0.0   1   1   1.6e-14   5.7e-11   42.9   0.0     1    95   149   241   149   242 0.93 Methyltransferase domain
+Methyltransf_23      PF13489.6    165 CS202_c00001_NODE_1_...cluster184_ORF2:gid::pid::loc:1526:2603:strand:- -            358   3.4e-11   43.2   0.0   1   1   1.4e-14   4.9e-11   42.7   0.0    11   128   131   256   118   313 0.76 Methyltransferase domain
+FA_desaturase        PF00487.24   254 CS202_c00001_NODE_1_...cluster184_ORF3:gid::pid::loc:2799:5205:strand:- -            801   1.9e-23   83.6  24.2   1   1   2.1e-27   1.9e-23   83.6  24.2     6   250   120   344   114   347 0.80 Fatty acid desaturase
+GlnD_UR_UTase        PF08335.11   146 CS202_c00001_NODE_1_...cluster184_ORF3:gid::pid::loc:2799:5205:strand:- -            801   3.3e-06   27.2   0.0   1   1   7.7e-10   6.9e-06   26.2   0.0    34   137   688   790   677   800 0.89 GlnD PII-uridylyltransferase
+Amino_oxidase        PF01593.24   452 CS202_c00001_NODE_1_...cluster184_ORF4:gid::pid::loc:5352:5955:strand:- -            200   5.8e-18   65.4   0.1   1   1   3.6e-22   6.4e-18   65.3   0.1   252   452     2   191     1   191 0.89 Flavin containing amine oxidoreductase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster184.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS202_c00001_NODE_1_...cluster184.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster184.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:42:17 2019
+# [ok]

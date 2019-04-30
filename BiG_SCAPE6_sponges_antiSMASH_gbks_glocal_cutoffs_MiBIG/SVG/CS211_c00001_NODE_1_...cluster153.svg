@@ -1,0 +1,89 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="469.56666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="459.56666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg5197_1)</title>
+			<polygon class=" (ctg5197_1)" points="10,40 19,10 19,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg5197_2)</title>
+			<polygon class=" (ctg5197_2)" points="52,25 51,25 51,10 21,40 51,70 51,55 52,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HEAT_2 (PF13646)
+"HEAT repeats"</title>
+				<polygon class="PF13646" points="29,36 37,28 37,28 37,52 37,52 29,44" stroke-linejoin="round" width="8" height="24" fill="rgb(161,180,58)" stroke="rgb(128,144,46)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5197_3)</title>
+			<polygon class=" (ctg5197_3)" points="153,25 85,25 85,10 55,40 85,70 85,55 153,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="62,37 71,28 76,28 76,52 71,52 62,43" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="86" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5197_4)</title>
+			<polygon class=" (ctg5197_4)" points="228,25 184,25 184,10 154,40 184,70 184,55 228,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="160,38 170,28 174,28 174,52 170,52 160,42" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="182" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Peptidase_C39 (PF03412)
+"Peptidase C39 family"</title>
+				<rect class="PF03412" x="212" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(214,226,77)" stroke="rgb(171,180,61)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5197_5)</title>
+			<polygon class=" (ctg5197_5)" points="270,25 258,25 258,10 228,40 258,70 258,55 270,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HlyD_3 (PF13437)
+"HlyD family secretion protein"</title>
+				<polygon class="PF13437" points="232,40 244,28 244,28 244,52 244,52 232,40" stroke-linejoin="round" width="12" height="24" fill="rgb(82,200,102)" stroke="rgb(65,160,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5197_6)</title>
+			<polygon class=" (ctg5197_6)" points="282,10 294,40 282,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg5197_7)</title>
+			<polygon class=" (ctg5197_7)" points="297,25 306,25 306,10 336,40 306,70 306,55 297,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg5197_8)</title>
+			<polygon class=" (ctg5197_8)" points="394,25 368,25 368,10 338,40 368,70 368,55 394,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg5197_9)</title>
+			<polygon class=" (ctg5197_9)" points="396,40 408,10 408,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Nif11 (PF07862)
+"Nif11 domain"</title>
+				<polygon class="PF07862" points="403,30 404,28 407,28 407,52 404,52 403,50" stroke-linejoin="round" width="4" height="24" fill="rgb(82,202,204)" stroke="rgb(65,161,163)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5197_10)</title>
+			<polygon class=" (ctg5197_10)" points="453,25 448,25 448,10 418,40 448,70 448,55 453,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg5197_11)</title>
+			<polygon class=" (ctg5197_11)" points="454,10 458,40 454,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

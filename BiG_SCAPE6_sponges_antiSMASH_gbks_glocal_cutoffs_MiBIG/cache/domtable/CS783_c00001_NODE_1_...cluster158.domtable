@@ -1,0 +1,24 @@
+#                                                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Oxidored_q4          PF00507.19    99 CS783_c00001_NODE_1_...cluster158_ORF1:gid::pid::loc:145:541:strand:- -            131   4.8e-30  103.6   6.1   1   1   2.7e-34   4.8e-30  103.6   6.1    11    99    38   130    23   130 0.87 NADH-ubiquinone/plastoquinone oxidoreductase, chain 3
+polyprenyl_synt      PF00348.17   256 CS783_c00001_NODE_1_...cluster158_ORF2:gid::pid::loc:1077:2028:strand:+ -            316     2e-58  197.5   0.0   1   1   1.4e-62   2.6e-58  197.1   0.0    15   253    26   264    20   267 0.95 Polyprenyl synthetase
+DUF3463              PF11946.8    134 CS783_c00001_NODE_1_...cluster158_ORF3:gid::pid::loc:2046:3117:strand:+ -            356   2.6e-47  160.0   0.0   1   1   4.9e-51   4.4e-47  159.2   0.0     2   132   211   340   210   342 0.97 Domain of unknown function (DUF3463)
+Radical_SAM          PF04055.21   167 CS783_c00001_NODE_1_...cluster158_ORF3:gid::pid::loc:2046:3117:strand:+ -            356   1.5e-16   61.2   0.8   1   1   3.3e-20     3e-16   60.3   0.8     2   166    48   201    47   202 0.95 Radical SAM superfamily
+PNP_UDP_1            PF01048.20   234 CS783_c00001_NODE_1_...cluster158_ORF4:gid::pid::loc:3160:3982:strand:+ -            273   2.1e-17   63.2   1.2   1   1   1.4e-21   2.5e-17   62.9   1.2     2   204     2   203     1   224 0.81 Phosphorylase superfamily
+SQHop_cyclase_N      PF13249.6    291 CS783_c00001_NODE_1_...cluster158_ORF5:gid::pid::loc:4159:5452:strand:+ -            431    1e-116  389.1   0.0   1   1  2.4e-115  1.5e-111  372.2   0.0     3   291     7   304     5   304 0.95 Squalene-hopene cyclase N-terminal domain
+SQHop_cyclase_C      PF13243.6    319 CS783_c00001_NODE_1_...cluster158_ORF5:gid::pid::loc:4159:5452:strand:+ -            431   1.3e-54  185.5   3.9   1   1     4e-49   2.4e-45  155.0   0.1     1   119   312   430   312   431 0.99 Squalene-hopene cyclase C-terminal domain
+Prenyltrans          PF00432.21    44 CS783_c00001_NODE_1_...cluster158_ORF5:gid::pid::loc:4159:5452:strand:+ -            431     5e-18   64.5   5.0   1   4   8.3e-05      0.49   10.2   0.0     5    18     7    20     3    32 0.86 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.21    44 CS783_c00001_NODE_1_...cluster158_ORF5:gid::pid::loc:4159:5452:strand:+ -            431     5e-18   64.5   5.0   2   4   7.2e-09   4.3e-05   23.2   0.1     3    44    57    98    56    98 0.96 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.21    44 CS783_c00001_NODE_1_...cluster158_ORF5:gid::pid::loc:4159:5452:strand:+ -            431     5e-18   64.5   5.0   3   4   8.5e-07    0.0051   16.5   0.0     3    22   245   264   244   265 0.94 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.21    44 CS783_c00001_NODE_1_...cluster158_ORF5:gid::pid::loc:4159:5452:strand:+ -            431     5e-18   64.5   5.0   4   4   2.8e-05      0.17   11.7   0.1     4    22   405   423   402   427 0.88 Prenyltransferase and squalene oxidase repeat
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS783_c00001_NODE_1_...cluster158.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS783_c00001_NODE_1_...cluster158.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS783_c00001_NODE_1_...cluster158.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:44:45 2019
+# [ok]

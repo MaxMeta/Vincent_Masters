@@ -1,0 +1,25 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Acyl_transf_3        PF01757.22   340 CS783_c00001_NODE_1_...cluster123_ORF1:gid::pid::loc:1:709:strand:+ -            235     1e-17   64.3  28.3   1   1   6.8e-22   1.2e-17   64.0  28.3   134   338     1   203     1   208 0.78 Acyltransferase family
+GH3                  PF03321.13   527 CS783_c00001_NODE_1_...cluster123_ORF2:gid::pid::loc:941:2483:strand:+ -            513   2.6e-42  145.4   0.0   1   1   8.3e-46   1.5e-41  142.9   0.0     2   490    20   478    19   487 0.81 GH3 auxin-responsive promoter
+Chal_sti_synt_N      PF00195.19   225 CS783_c00001_NODE_1_...cluster123_ORF3:gid::pid::loc:2774:3863:strand:- -            362   5.9e-22   78.2   0.1   1   1     3e-25   1.4e-21   77.0   0.0    14   224    13   212     3   213 0.86 Chalcone and stilbene synthases, N-terminal domain
+Chal_sti_synt_C      PF02797.15   151 CS783_c00001_NODE_1_...cluster123_ORF3:gid::pid::loc:2774:3863:strand:- -            362   3.6e-17   62.7   0.0   1   1   1.3e-20   5.9e-17   62.1   0.0    11   115   228   332   222   361 0.85 Chalcone and stilbene synthases, C-terminal domain
+ACP_syn_III_C        PF08541.10    90 CS783_c00001_NODE_1_...cluster123_ORF3:gid::pid::loc:2774:3863:strand:- -            362     4e-12   46.2   0.1   1   1   8.8e-15   3.9e-11   43.0   0.0     1    89   267   357   267   358 0.89 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal
+FAE1_CUT1_RppA       PF08392.12   290 CS783_c00001_NODE_1_...cluster123_ORF3:gid::pid::loc:2774:3863:strand:- -            362   5.9e-09   35.6   0.0   1   1   1.9e-12   8.4e-09   35.1   0.0    48   206    50   212    16   216 0.80 FAE1/Type III polyketide synthase-like protein
+DUF4070              PF13282.6    140 CS783_c00001_NODE_1_...cluster123_ORF4:gid::pid::loc:4362:6234:strand:+ -            623   1.9e-22   79.9   0.0   1   1   5.9e-26   3.5e-22   79.0   0.0     1   133   405   539   405   544 0.88 Domain of unknown function (DUF4070)
+Radical_SAM          PF04055.21   167 CS783_c00001_NODE_1_...cluster123_ORF4:gid::pid::loc:4362:6234:strand:+ -            623   1.2e-14   55.0   0.0   1   1   1.3e-17     8e-14   52.4   0.0     2   158   214   376   213   386 0.89 Radical SAM superfamily
+B12-binding          PF02310.19   121 CS783_c00001_NODE_1_...cluster123_ORF4:gid::pid::loc:4362:6234:strand:+ -            623   1.1e-08   35.1   0.0   1   1   4.4e-12   2.6e-08   33.9   0.0    12   120    74   171    71   172 0.92 B12 binding domain
+p450                 PF00067.22   463 CS783_c00001_NODE_1_...cluster123_ORF5:gid::pid::loc:6470:8450:strand:+ -            659   8.7e-50  169.8   0.0   1   1   1.9e-53   1.7e-49  168.8   0.0     6   440   228   631   223   651 0.81 Cytochrome P450
+GPP34                PF05719.11   203 CS783_c00001_NODE_1_...cluster123_ORF5:gid::pid::loc:6470:8450:strand:+ -            659   5.1e-25   88.7   2.2   1   1   9.7e-29   8.7e-25   88.0   0.3     1   200     4   205     4   208 0.89 Golgi phosphoprotein 3 (GPP34)
+Sigma70_r2           PF04542.14    71 CS783_c00001_NODE_1_...cluster123_ORF6:gid::pid::loc:8841:9117:strand:+ -             92   1.8e-11   43.6   0.4   1   1   1.3e-15   2.4e-11   43.3   0.4     2    64    32    92    31    92 0.95 Sigma-70 region 2
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS783_c00001_NODE_1_...cluster123.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS783_c00001_NODE_1_...cluster123.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS783_c00001_NODE_1_...cluster123.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:39:37 2019
+# [ok]

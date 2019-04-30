@@ -1,0 +1,72 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="312.53333333333336" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="302.53333333333336" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg56_1)</title>
+			<polygon class=" (ctg56_1)" points="10,25 57,25 57,10 87,40 57,70 57,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>OB_NTP_bind (PF07717)
+"Oligonucleotide/oligosaccharide-binding (OB)-fold"</title>
+				<rect class="PF07717" x="17" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(144,74,228)" stroke="rgb(115,59,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DUF3418 (PF11898)
+"Domain of unknown function (DUF3418)"</title>
+				<polygon class="PF11898" points="28,28 71,28 83,40 71,52 28,52" stroke-linejoin="round" width="58" height="24" fill="rgb(111,68,209)" stroke="rgb(88,54,167)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg56_2)</title>
+			<polygon class=" (ctg56_2)" points="92,10 102,40 92,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg56_3)</title>
+			<polygon class=" (ctg56_3)" points="107,10 135,40 107,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF692 (PF05114)
+"Protein of unknown function (DUF692)"</title>
+				<polygon class="PF05114" points="107,28 119,28 130,40 119,52 107,52" stroke-linejoin="round" width="26" height="24" fill="rgb(63,196,127)" stroke="rgb(50,156,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg56_4)</title>
+			<polygon class=" (ctg56_4)" points="136,10 162,40 136,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2063 (PF09836)
+"Putative DNA-binding domain"</title>
+				<rect class="PF09836" x="137" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(88,194,190)" stroke="rgb(70,155,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg56_5)</title>
+			<polygon class=" (ctg56_5)" points="162,10 165,40 162,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg56_6)</title>
+			<polygon class=" (ctg56_6)" points="166,25 172,25 172,10 202,40 172,70 172,55 166,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SpoIIE (PF07228)
+"Stage II sporulation protein E (SpoIIE)"</title>
+				<polygon class="PF07228" points="183,28 186,28 198,40 186,52 183,52" stroke-linejoin="round" width="19" height="24" fill="rgb(85,195,217)" stroke="rgb(68,155,173)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg56_7)</title>
+			<polygon class=" (ctg56_7)" points="203,10 219,40 203,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>STAS_2 (PF13466)
+"STAS domain"</title>
+				<polygon class="PF13466" points="204,28 209,28 212,33 212,47 209,52 204,52" stroke-linejoin="round" width="8" height="24" fill="rgb(206,83,63)" stroke="rgb(164,66,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg56_8)</title>
+			<polygon class=" (ctg56_8)" points="231,10 258,40 231,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LpxC (PF03331)
+"UDP-3-O-acyl N-acetylglycosamine deacetylase"</title>
+				<polygon class="PF03331" points="231,28 242,28 254,40 242,52 231,52" stroke-linejoin="round" width="24" height="24" fill="rgb(189,181,50)" stroke="rgb(151,144,40)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

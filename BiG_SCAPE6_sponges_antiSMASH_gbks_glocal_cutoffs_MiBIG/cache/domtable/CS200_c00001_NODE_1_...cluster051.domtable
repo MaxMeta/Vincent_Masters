@@ -1,0 +1,23 @@
+#                                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+FA_desaturase        PF00487.24   254 CS200_c00001_NODE_1_...cluster051_ORF2:gid::pid::loc:2896:4939:strand:+ -            680     4e-24   85.8  22.5   1   1   4.5e-28     4e-24   85.8  22.5     6   236   124   334   119   349 0.72 Fatty acid desaturase
+YcaO                 PF02624.16   323 CS200_c00001_NODE_1_...cluster051_ORF3:gid::pid::loc:5000:7277:strand:+ -            758     4e-92  309.0   1.6   1   1   3.1e-96   5.6e-92  308.5   1.6     2   323   385   721   384   721 0.88 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+LolA_like            PF17131.4    183 CS200_c00001_NODE_1_...cluster051_ORF6:gid::pid::loc:8894:9704:strand:+ -            269   7.7e-57  192.0   0.4   1   1   1.2e-60   1.1e-56  191.5   0.4     2   183    84   267    83   267 0.98 Outer membrane lipoprotein-sorting protein
+DUF1329              PF07044.11   364 CS200_c00001_NODE_1_...cluster051_ORF6:gid::pid::loc:8894:9704:strand:+ -            269   2.9e-11   43.3   2.8   1   1   4.5e-11     4e-07   29.6   0.1   142   208    86   147    55   162 0.85 Protein of unknown function (DUF1329)
+UbiA                 PF01040.18   252 CS200_c00001_NODE_1_...cluster051_ORF8:gid::pid::loc:10932:11811:strand:+ -            292   1.8e-57  194.5  21.6   1   1   1.3e-61   2.3e-57  194.2  21.6     1   246    28   269    28   281 0.95 UbiA prenyltransferase family
+NHase_alpha          PF02979.16   184 CS200_c00001_NODE_1_...cluster051_ORF9:gid::pid::loc:11928:12183:strand:+ -             84   1.4e-06   27.7   0.0   1   1   9.1e-11   1.6e-06   27.5   0.0   115   162    19    67    11    79 0.87 Nitrile hydratase, alpha chain
+DUF2236              PF09995.9    227 CS200_c00001_NODE_1_...cluster051_ORF11:gid::pid::loc:12953:14153:strand:+ -            399   6.5e-19   69.0   0.4   1   1     6e-23   1.1e-18   68.3   0.4     7   211   116   342   110   356 0.84 Uncharacterized protein conserved in bacteria (DUF2236)
+MMPL                 PF03176.15   333 CS200_c00001_NODE_1_...cluster051_ORF12:gid::pid::loc:14220:16515:strand:+ -            764   7.7e-37  127.0  27.8   1   2   4.1e-25   3.7e-21   75.4   9.2    75   327   150   400    54   406 0.80 MMPL family
+MMPL                 PF03176.15   333 CS200_c00001_NODE_1_...cluster051_ORF12:gid::pid::loc:14220:16515:strand:+ -            764   7.7e-37  127.0  27.8   2   2   1.3e-19   1.1e-15   57.4  10.5    87   302   552   759   548   764 0.91 MMPL family
+Sterol-sensing       PF12349.8    153 CS200_c00001_NODE_1_...cluster051_ORF12:gid::pid::loc:14220:16515:strand:+ -            764   3.4e-08   33.5  18.3   1   1   8.9e-12     8e-08   32.3   6.2     9   135   250   376   246   389 0.91 Sterol-sensing domain of SREBP cleavage-activation
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS200_c00001_NODE_1_...cluster051.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS200_c00001_NODE_1_...cluster051.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS200_c00001_NODE_1_...cluster051.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:37:22 2019
+# [ok]

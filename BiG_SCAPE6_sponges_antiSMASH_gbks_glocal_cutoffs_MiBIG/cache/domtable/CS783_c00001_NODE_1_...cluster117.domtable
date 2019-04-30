@@ -1,0 +1,24 @@
+#                                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+LpxC                 PF03331.13   270 CS783_c00001_NODE_1_...cluster117_ORF1:gid::pid::loc:249:1167:strand:- -            305   1.2e-90  303.6   0.0   1   1   7.9e-95   1.4e-90  303.5   0.0     1   269     4   274     4   275 0.99 UDP-3-O-acyl N-acetylglycosamine deacetylase
+Dus                  PF01207.17   310 CS783_c00001_NODE_1_...cluster117_ORF2:gid::pid::loc:1350:2529:strand:+ -            392   3.2e-64  217.0   0.0   1   2   3.2e-46   5.8e-42  143.9   0.0     2   138    19   153    18   161 0.96 Dihydrouridine synthase (Dus)
+Dus                  PF01207.17   310 CS783_c00001_NODE_1_...cluster117_ORF2:gid::pid::loc:1350:2529:strand:+ -            392   3.2e-64  217.0   0.0   2   2   4.5e-24   8.1e-20   71.1   0.0   142   295   210   365   202   378 0.91 Dihydrouridine synthase (Dus)
+STAS                 PF01740.21   117 CS783_c00001_NODE_1_...cluster117_ORF3:gid::pid::loc:2547:3033:strand:- -            161   1.8e-07   30.8   0.0   1   1   2.6e-11   2.3e-07   30.4   0.0    26   106    30   103     9   114 0.80 STAS domain
+STAS_2               PF13466.6     80 CS783_c00001_NODE_1_...cluster117_ORF3:gid::pid::loc:2547:3033:strand:- -            161   4.1e-07   30.2   1.0   1   1   4.6e-11   4.1e-07   30.2   1.0     1    80    17    99    17    99 0.93 STAS domain
+SpoIIE               PF07228.12   193 CS783_c00001_NODE_1_...cluster117_ORF4:gid::pid::loc:3034:4135:strand:- -            366   1.5e-30  106.6   0.1   1   1   1.3e-34   2.3e-30  106.0   0.1     3   192   178   364   176   365 0.91 Stage II sporulation protein E (SpoIIE)
+DUF2063              PF09836.9     85 CS783_c00001_NODE_1_...cluster117_ORF5:gid::pid::loc:4207:4906:strand:- -            232   4.6e-14   52.4   0.1   1   1   5.5e-18   9.9e-14   51.3   0.1    25    85     1    61     1    61 0.99 Putative DNA-binding domain
+DUF692               PF05114.13   263 CS783_c00001_NODE_1_...cluster117_ORF6:gid::pid::loc:5000:5894:strand:- -            297   1.4e-97  326.0   0.0   1   1  8.8e-102   1.6e-97  325.9   0.0     1   262    12   275    12   276 0.97 Protein of unknown function (DUF692)
+DUF3418              PF11898.8    583 CS783_c00001_NODE_1_...cluster117_ORF8:gid::pid::loc:6433:9742:strand:- -           1102  4.7e-145  484.6   7.1   1   1    1e-148    6e-145  484.2   7.1     1   581   493  1077   493  1079 0.97 Domain of unknown function (DUF3418)
+HA2                  PF04408.23   108 CS783_c00001_NODE_1_...cluster117_ORF8:gid::pid::loc:6433:9742:strand:- -           1102   5.1e-18   65.3   0.1   1   1   1.9e-21   1.2e-17   64.2   0.1     1   104   219   312   219   338 0.80 Helicase associated domain (HA2)
+Helicase_C           PF00271.31   111 CS783_c00001_NODE_1_...cluster117_ORF8:gid::pid::loc:6433:9742:strand:- -           1102   5.1e-11   42.9   0.6   1   1   1.5e-14   9.1e-11   42.1   0.0    14   110    42   157    28   158 0.85 Helicase conserved C-terminal domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS783_c00001_NODE_1_...cluster117.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS783_c00001_NODE_1_...cluster117.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS783_c00001_NODE_1_...cluster117.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:38:49 2019
+# [ok]

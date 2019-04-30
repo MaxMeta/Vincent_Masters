@@ -1,0 +1,152 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="744.2666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="734.2666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg360_21)</title>
+			<polygon class=" (ctg360_21)" points="79,25 47,25 47,10 17,40 47,70 47,55 79,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg360_22)</title>
+			<polygon class=" (ctg360_22)" points="95,25 116,25 116,10 146,40 116,70 116,55 95,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FGGY_N (PF00370)
+"FGGY family of carbohydrate kinases, N-terminal domain"</title>
+				<rect class="PF00370" x="95" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(83,186,105)" stroke="rgb(66,148,83)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FGGY_C (PF02782)
+"FGGY family of carbohydrate kinases, C-terminal domain"</title>
+				<polygon class="PF02782" points="121,28 130,28 140,38 140,42 130,52 121,52" stroke-linejoin="round" width="19" height="24" fill="rgb(204,103,85)" stroke="rgb(163,82,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg360_23)</title>
+			<polygon class=" (ctg360_23)" points="146,25 167,25 167,10 197,40 167,70 167,55 146,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HisKA (PF00512)
+"His Kinase A (phospho-acceptor) domain"</title>
+				<rect class="PF00512" x="174" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(193,125,62)" stroke="rgb(154,100,49)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HATPase_c (PF02518)
+"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"</title>
+				<polygon class="PF02518" points="186,33 193,40 186,47" stroke-linejoin="round" width="11" height="24" fill="rgb(80,94,225)" stroke="rgb(64,75,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg360_24)</title>
+			<polygon class=" (ctg360_24)" points="199,25 215,25 215,10 245,40 215,70 215,55 199,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<rect class="PF00072" x="199" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(100,107,203)" stroke="rgb(80,85,162)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Sigma54_activat (PF00158)
+"Sigma-54 interaction domain"</title>
+				<rect class="PF00158" x="213" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(101,145,216)" stroke="rgb(80,115,172)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HTH_8 (PF02954)
+"Bacterial regulatory protein, Fis family"</title>
+				<polygon class="PF02954" points="240,39 241,40 240,41" stroke-linejoin="round" width="4" height="24" fill="rgb(168,63,200)" stroke="rgb(134,50,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg360_25)</title>
+			<polygon class=" (ctg360_25)" points="246,40 260,10 260,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Rhodanese (PF00581)
+"Rhodanese-like domain"</title>
+				<polygon class="PF00581" points="249,40 255,28 255,28 255,52 255,52" stroke-linejoin="round" width="9" height="24" fill="rgb(145,191,76)" stroke="rgb(116,152,60)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg360_26)</title>
+			<polygon class=" (ctg360_26)" points="334,25 297,25 297,10 267,40 297,70 297,55 334,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Plug (PF07715)
+"TonB-dependent Receptor Plug Domain"</title>
+				<rect class="PF07715" x="319" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(99,133,214)" stroke="rgb(79,106,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg360_27)</title>
+			<polygon class=" (ctg360_27)" points="343,25 370,25 370,10 400,40 370,70 370,55 343,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Prenyltrans (PF00432)
+"Prenyltransferase and squalene oxidase repeat"</title>
+				<rect class="PF00432" x="348" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(218,215,79)" stroke="rgb(174,172,63)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SQHop_cyclase_C (PF13243)
+"Squalene-hopene cyclase C-terminal domain"</title>
+				<polygon class="PF13243" points="370,28 384,28 396,40 384,52 370,52" stroke-linejoin="round" width="29" height="24" fill="rgb(191,58,201)" stroke="rgb(152,46,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg360_28)</title>
+			<polygon class=" (ctg360_28)" points="401,10 423,40 401,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_2 (PF00535)
+"Glycosyl transferase family 2"</title>
+				<polygon class="PF00535" points="401,28 411,28 416,35 416,45 411,52 401,52" stroke-linejoin="round" width="15" height="24" fill="rgb(224,122,96)" stroke="rgb(179,97,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg360_29)</title>
+			<polygon class=" (ctg360_29)" points="427,40 456,10 456,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg360_30)</title>
+			<polygon class=" (ctg360_30)" points="465,40 489,10 489,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg360_31)</title>
+			<polygon class=" (ctg360_31)" points="589,25 522,25 522,10 492,40 522,70 522,55 589,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Secretin (PF00263)
+"Bacterial type II and III secretion system protein"</title>
+				<polygon class="PF00263" points="496,40 508,28 512,28 512,52 508,52" stroke-linejoin="round" width="17" height="24" fill="rgb(59,184,59)" stroke="rgb(47,147,47)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Secretin_N (PF03958)
+"Bacterial type II/III secretion system short domain"</title>
+				<rect class="PF03958" x="519" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(112,201,90)" stroke="rgb(89,160,72)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Secretin_N (PF03958)
+"Bacterial type II/III secretion system short domain"</title>
+				<rect class="PF03958" x="529" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(112,201,90)" stroke="rgb(89,160,72)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Secretin_N (PF03958)
+"Bacterial type II/III secretion system short domain"</title>
+				<rect class="PF03958" x="538" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(112,201,90)" stroke="rgb(89,160,72)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Secretin_N (PF03958)
+"Bacterial type II/III secretion system short domain"</title>
+				<rect class="PF03958" x="548" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(112,201,90)" stroke="rgb(89,160,72)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Secretin_N (PF03958)
+"Bacterial type II/III secretion system short domain"</title>
+				<rect class="PF03958" x="558" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(112,201,90)" stroke="rgb(89,160,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg360_32)</title>
+			<polygon class=" (ctg360_32)" points="637,25 624,25 624,10 594,40 624,70 624,55 637,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg360_33)</title>
+			<polygon class=" (ctg360_33)" points="702,25 673,25 673,10 643,40 673,70 673,55 702,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PilM_2 (PF11104)
+"Type IV pilus assembly protein PilM;"</title>
+				<rect class="PF11104" x="667" y="28" stroke-linejoin="round" width="34" height="24" fill="rgb(116,209,94)" stroke="rgb(92,167,75)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,167 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="418.76666666666665" height="160">
+	<g>
+		<line x1="10" y1="40.0" x2="408.76666666666665" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (VC0771)
+vibriobactin-specific isochorismatase</title>
+			<polygon class=" (VC0771)
+vibriobactin-specific isochorismatase" points="10,10 39,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Isochorismatase (PF00857)
+"Isochorismatase family"</title>
+				<polygon class="PF00857" points="12,28 23,28 29,34 29,46 23,52 12,52" stroke-linejoin="round" width="17" height="24" fill="rgb(144,224,70)" stroke="rgb(115,179,56)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="31,36 35,40 31,44" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (VC0772)
+vibriobactin-specific 2,3-dihydroxybenzoate-AMP ligase</title>
+			<polygon class=" (VC0772)
+vibriobactin-specific 2,3-dihydroxybenzoate-AMP ligase" points="96,25 72,25 72,10 42,40 72,70 72,55 96,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<polygon class="PF13193" points="46,40 51,35 51,45" stroke-linejoin="round" width="7" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<polygon class="PF00501" points="52,34 58,28 92,28 92,52 58,52 52,46" stroke-linejoin="round" width="40" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (VC0773)
+vibriobactin-specific isochorismate synthase</title>
+			<polygon class=" (VC0773)
+vibriobactin-specific isochorismate synthase" points="136,25 127,25 127,10 97,40 127,70 127,55 136,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Chorismate_bind (PF00425)
+"chorismate binding enzyme"</title>
+				<polygon class="PF00425" points="101,40 113,28 123,28 123,52 113,52" stroke-linejoin="round" width="25" height="24" fill="rgb(188,116,88)" stroke="rgb(150,92,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (VC0774)
+2,3-dihydroxybenzoate-2,3-dehydrogenase</title>
+			<polygon class=" (VC0774)
+2,3-dihydroxybenzoate-2,3-dehydrogenase" points="142,10 168,40 142,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short_C2 (PF13561)
+"Enoyl-(Acyl carrier protein) reductase"</title>
+				<polygon class="PF13561" points="143,28 154,28 164,40 154,52 143,52" stroke-linejoin="round" width="24" height="24" fill="rgb(73,205,127)" stroke="rgb(58,164,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (VC0775)
+vibriobactin synthesis protein</title>
+			<polygon class=" (VC0775)
+vibriobactin synthesis protein" points="212,25 199,25 199,10 169,40 199,70 199,55 212,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<polygon class="PF00668" points="173,40 185,28 212,28 212,52 185,52" stroke-linejoin="round" width="42" height="24" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (VC0776)
+iron-enterobactin transporter substrate-binding protein</title>
+			<polygon class=" (VC0776)
+iron-enterobactin transporter substrate-binding protein" points="219,25 221,25 221,10 251,40 221,70 221,55 219,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peripla_BP_2 (PF01497)
+"Periplasmic binding protein"</title>
+				<polygon class="PF01497" points="224,28 235,28 247,40 235,52 224,52" stroke-linejoin="round" width="24" height="24" fill="rgb(183,226,104)" stroke="rgb(146,180,83)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (VC0777)
+ferric vibriobactin ABC transporter permease</title>
+			<polygon class=" (VC0777)
+ferric vibriobactin ABC transporter permease" points="251,25 256,25 256,10 286,40 256,70 256,55 251,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FecCD (PF01032)
+"FecCD transport family"</title>
+				<polygon class="PF01032" points="254,28 269,28 281,40 269,52 254,52" stroke-linejoin="round" width="31" height="24" fill="rgb(210,177,70)" stroke="rgb(168,141,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (VC0778)
+ferric vibriobactin ABC transporter permease</title>
+			<polygon class=" (VC0778)
+ferric vibriobactin ABC transporter permease" points="285,25 290,25 290,10 320,40 290,70 290,55 285,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FecCD (PF01032)
+"FecCD transport family"</title>
+				<polygon class="PF01032" points="289,28 304,28 316,40 304,52 289,52" stroke-linejoin="round" width="31" height="24" fill="rgb(210,177,70)" stroke="rgb(168,141,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (VC0779)
+ferric vibriobactin ABC transporter ATP-binding protein</title>
+			<polygon class=" (VC0779)
+ferric vibriobactin ABC transporter ATP-binding protein" points="325,10 353,40 325,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="328,28 337,28 342,33 342,47 337,52 328,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (VC0780)
+vibriobactin synthase component D</title>
+			<polygon class=" (VC0780)
+vibriobactin synthase component D" points="351,10 377,40 351,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>4PPT_N (PF17837)
+"4'-phosphopantetheinyl transferase N-terminal domain"</title>
+				<rect class="PF17837" x="357" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(214,90,169)" stroke="rgb(171,72,135)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ACPS (PF01648)
+"4'-phosphopantetheinyl transferase superfamily"</title>
+				<polygon class="PF01648" points="364,30 373,40 364,50" stroke-linejoin="round" width="10" height="24" fill="rgb(85,184,135)" stroke="rgb(68,147,108)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (VC0781)
+LysR family transcriptional regulator</title>
+			<polygon class=" (VC0781)
+LysR family transcriptional regulator" points="377,25 377,25 377,10 407,40 377,70 377,55 377,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_1 (PF00126)
+"Bacterial regulatory helix-turn-helix protein, lysR family"</title>
+				<rect class="PF00126" x="377" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(125,227,79)" stroke="rgb(99,181,63)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>LysR_substrate (PF03466)
+"LysR substrate binding domain"</title>
+				<polygon class="PF03466" points="386,28 391,28 403,40 391,52 386,52" stroke-linejoin="round" width="20" height="24" fill="rgb(55,136,195)" stroke="rgb(44,108,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="120.0" x2="366.03333333333336" y2="120.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>vibF (VC2209)
+nonribosomal peptide synthetase VibF</title>
+			<polygon class="vibF (VC2209)
+nonribosomal peptide synthetase VibF" points="251,105 40,105 40,90 10,120 40,150 40,135 251,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (VC2210)
+vibriobactin utilization protein ViuB</title>
+			<polygon class=" (VC2210)
+vibriobactin utilization protein ViuB" points="259,120 286,90 286,150" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (VC2211)
+ferric vibriobactin receptor</title>
+			<polygon class=" (VC2211)
+ferric vibriobactin receptor" points="365,105 327,105 327,90 297,120 327,150 327,135 365,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,21 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SQHop_cyclase_N      PF13249.6    291 CS203_c00001_NODE_1_...cluster212_ORF1:gid::pid::loc:1:769:strand:- -            256   2.3e-15   56.5   1.3   1   1   2.8e-17     5e-13   48.8   0.0     2   117    35   157    34   176 0.82 Squalene-hopene cyclase N-terminal domain
+Prenyltrans          PF00432.21    44 CS203_c00001_NODE_1_...cluster212_ORF2:gid::pid::loc:765:1626:strand:- -            286   1.2e-20   72.9   7.8   1   3   9.2e-12   1.6e-07   30.9   0.0     7    43    20    55    15    56 0.93 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.21    44 CS203_c00001_NODE_1_...cluster212_ORF2:gid::pid::loc:765:1626:strand:- -            286   1.2e-20   72.9   7.8   2   3   4.5e-07     0.008   15.9   0.0     6    43   197   235   195   236 0.95 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.21    44 CS203_c00001_NODE_1_...cluster212_ORF2:gid::pid::loc:765:1626:strand:- -            286   1.2e-20   72.9   7.8   3   3   1.3e-07    0.0024   17.6   0.6     4    40   244   281   241   281 0.86 Prenyltransferase and squalene oxidase repeat
+polyprenyl_synt      PF00348.17   256 CS203_c00001_NODE_1_...cluster212_ORF3:gid::pid::loc:1585:3331:strand:- -            581   2.7e-38  131.5   0.0   1   1   4.4e-42   3.9e-38  131.0   0.0    13   254   267   508   257   510 0.88 Polyprenyl synthetase
+DUF116               PF01976.17   155 CS203_c00001_NODE_1_...cluster212_ORF3:gid::pid::loc:1585:3331:strand:- -            581   1.8e-34  118.5   0.0   1   1     3e-38   2.7e-34  117.9   0.0     6   154    67   216    63   217 0.96 Protein of unknown function DUF116
+Radical_SAM          PF04055.21   167 CS203_c00001_NODE_1_...cluster212_ORF4:gid::pid::loc:3358:4552:strand:- -            397   5.9e-13   49.5   0.0   1   1   1.7e-16   1.5e-12   48.2   0.0     1   150    52   188    52   202 0.86 Radical SAM superfamily
+Fer4_12              PF13353.6    139 CS203_c00001_NODE_1_...cluster212_ORF4:gid::pid::loc:3358:4552:strand:- -            397   7.1e-06   26.3   0.0   1   1   1.2e-09   1.1e-05   25.7   0.0    11   102    51   136    41   171 0.74 4Fe-4S single cluster domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS203_c00001_NODE_1_...cluster212.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS203_c00001_NODE_1_...cluster212.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS203_c00001_NODE_1_...cluster212.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:33:46 2019
+# [ok]

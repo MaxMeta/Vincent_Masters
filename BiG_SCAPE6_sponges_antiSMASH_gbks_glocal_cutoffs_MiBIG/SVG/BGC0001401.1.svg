@@ -1,0 +1,57 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="89.66666666666667" height="400">
+	<g>
+		<line x1="10" y1="40.0" x2="78.5" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>armH1
+putative halogenase</title>
+			<polygon class="armH1
+putative halogenase" points="10,25 48,25 48,10 78,40 48,70 48,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Trp_halogenase (PF04820)
+"Tryptophan halogenase"</title>
+				<rect class="PF04820" x="11" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(179,74,194)" stroke="rgb(143,59,155)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Trp_halogenase (PF04820)
+"Tryptophan halogenase"</title>
+				<rect class="PF04820" x="19" y="28" stroke-linejoin="round" width="32" height="24" fill="rgb(179,74,194)" stroke="rgb(143,59,155)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="120.0" x2="79.66666666666667" y2="120.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>armH2
+putative halogenase</title>
+			<polygon class="armH2
+putative halogenase" points="10,105 48,105 48,90 78,120 48,150 48,135 10,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="200.0" x2="60.5" y2="200.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>armH3
+ArmH3</title>
+			<polygon class="armH3
+ArmH3" points="10,185 30,185 30,170 60,200 30,230 30,215 10,215" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="280.0" x2="63.4" y2="280.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>armH4
+ArmH4</title>
+			<polygon class="armH4
+ArmH4" points="10,265 33,265 33,250 63,280 33,310 33,295 10,295" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="360.0" x2="62.4" y2="360.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>armH5
+ArmH5</title>
+			<polygon class="armH5
+ArmH5" points="10,345 32,345 32,330 62,360 32,390 32,375 10,375" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

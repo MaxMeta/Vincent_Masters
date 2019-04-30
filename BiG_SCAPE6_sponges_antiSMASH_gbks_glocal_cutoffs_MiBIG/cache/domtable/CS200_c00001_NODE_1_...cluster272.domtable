@@ -1,0 +1,27 @@
+#                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ketoacyl-synt        PF00109.26   253 CS200_c00001_NODE_1_...cluster272_ORF1:gid::pid::loc:1:5845:strand:- -           1948   5.4e-81  271.9   3.2   1   1   4.9e-84   6.3e-81  271.7   1.6     2   253   341   588   340   588 0.95 Beta-ketoacyl synthase, N-terminal domain
+PS-DH                PF14765.6    298 CS200_c00001_NODE_1_...cluster272_ORF1:gid::pid::loc:1:5845:strand:- -           1948   1.7e-56  191.6   0.2   1   1     3e-59   3.8e-56  190.5   0.2     1   296  1094  1365  1094  1366 0.93 Polyketide synthase dehydratase
+KR                   PF08659.10   180 CS200_c00001_NODE_1_...cluster272_ORF1:gid::pid::loc:1:5845:strand:- -           1948   3.8e-54  183.3   0.0   1   1   5.8e-54   7.5e-51  172.6   0.0    29   180     1   151     1   151 0.98 KR domain
+Ketoacyl-synt_C      PF02801.22   118 CS200_c00001_NODE_1_...cluster272_ORF1:gid::pid::loc:1:5845:strand:- -           1948     6e-44  148.8   0.3   1   1   1.8e-46   2.3e-43  147.0   0.1     1   118   596   714   596   714 0.98 Beta-ketoacyl synthase, C-terminal domain
+KAsynt_C_assoc       PF16197.5    112 CS200_c00001_NODE_1_...cluster272_ORF1:gid::pid::loc:1:5845:strand:- -           1948   3.9e-19   69.2   0.0   1   1   6.7e-22   8.6e-19   68.1   0.0     1   109   716   837   716   840 0.90 Ketoacyl-synthetase C-terminal extension
+Acyl_transf_1        PF00698.21   319 CS200_c00001_NODE_1_...cluster272_ORF1:gid::pid::loc:1:5845:strand:- -           1948   2.7e-18   66.5   0.0   1   1   4.1e-21   5.3e-18   65.6   0.0     2   119   869   985   868   998 0.90 Acyl transferase domain
+Methyltransf_12      PF08242.12    99 CS200_c00001_NODE_1_...cluster272_ORF1:gid::pid::loc:1:5845:strand:- -           1948   1.1e-15   58.2   0.0   1   1   1.7e-18   2.2e-15   57.2   0.0     1    99  1593  1694  1593  1694 0.92 Methyltransferase domain
+PP-binding           PF00550.25    67 CS200_c00001_NODE_1_...cluster272_ORF1:gid::pid::loc:1:5845:strand:- -           1948   1.8e-12   47.4   0.1   1   1   3.4e-15   4.3e-12   46.2   0.1     3    67   253   318   251   318 0.87 Phosphopantetheine attachment site
+Methyltransf_25      PF13649.6     97 CS200_c00001_NODE_1_...cluster272_ORF1:gid::pid::loc:1:5845:strand:- -           1948   5.1e-10   39.9   0.1   1   1   1.2e-12   1.5e-09   38.4   0.1     1    97  1592  1692  1592  1692 0.91 Methyltransferase domain
+Methyltransf_11      PF08241.12    96 CS200_c00001_NODE_1_...cluster272_ORF1:gid::pid::loc:1:5845:strand:- -           1948   1.5e-08   35.1   0.0   1   1   3.2e-11   4.1e-08   33.7   0.0     1    96  1593  1696  1593  1696 0.89 Methyltransferase domain
+Methyltransf_23      PF13489.6    165 CS200_c00001_NODE_1_...cluster272_ORF1:gid::pid::loc:1:5845:strand:- -           1948   1.6e-08   34.5   0.0   1   1   2.5e-11   3.2e-08   33.6   0.0     8   159  1564  1743  1557  1747 0.64 Methyltransferase domain
+adh_short_C2         PF13561.6    234 CS200_c00001_NODE_1_...cluster272_ORF1:gid::pid::loc:1:5845:strand:- -           1948   4.2e-08   33.0   0.0   1   1   8.4e-11   1.1e-07   31.7   0.0    32   153    14   132     5   136 0.89 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.25   195 CS200_c00001_NODE_1_...cluster272_ORF1:gid::pid::loc:1:5845:strand:- -           1948   3.9e-08   33.0   0.0   1   1   6.2e-11   7.9e-08   32.0   0.0    37   162    12   133     1   138 0.92 short chain dehydrogenase
+Thiolase_N           PF00108.23   260 CS200_c00001_NODE_1_...cluster272_ORF1:gid::pid::loc:1:5845:strand:- -           1948   9.1e-08   31.8   1.8   1   1   2.6e-10   3.3e-07   29.9   0.7    66   120   493   545   471   558 0.84 Thiolase, N-terminal domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS200_c00001_NODE_1_...cluster272.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS200_c00001_NODE_1_...cluster272.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS200_c00001_NODE_1_...cluster272.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:50:34 2019
+# [ok]

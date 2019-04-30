@@ -1,0 +1,48 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="215.2" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="205.2" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg3171_1)</title>
+			<polygon class=" (ctg3171_1)" points="10,10 13,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3171_2)</title>
+			<polygon class=" (ctg3171_2)" points="17,10 21,40 17,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3171_3)</title>
+			<polygon class=" (ctg3171_3)" points="30,10 37,40 30,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NHase_alpha (PF02979)
+"Nitrile hydratase, alpha chain"</title>
+				<polygon class="PF02979" points="30,28 31,28 34,40 31,52 30,52" stroke-linejoin="round" width="6" height="24" fill="rgb(204,148,70)" stroke="rgb(163,118,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3171_4)</title>
+			<polygon class=" (ctg3171_4)" points="74,25 73,25 73,10 43,40 73,70 73,55 74,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_4 (PF01063)
+"Amino-transferase class IV"</title>
+				<polygon class="PF01063" points="47,40 59,28 70,28 70,52 59,52 47,40" stroke-linejoin="round" width="23" height="24" fill="rgb(52,144,188)" stroke="rgb(41,115,150)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3171_5)</title>
+			<polygon class=" (ctg3171_5)" points="76,40 92,10 92,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3171_6)</title>
+			<polygon class=" (ctg3171_6)" points="114,40 140,10 140,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3171_7)</title>
+			<polygon class=" (ctg3171_7)" points="197,25 179,25 179,10 149,40 179,70 179,55 197,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1501 (PF07394)
+"Protein of unknown function (DUF1501)"</title>
+				<polygon class="PF07394" points="153,40 165,28 190,28 190,52 165,52" stroke-linejoin="round" width="41" height="24" fill="rgb(199,225,81)" stroke="rgb(159,180,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

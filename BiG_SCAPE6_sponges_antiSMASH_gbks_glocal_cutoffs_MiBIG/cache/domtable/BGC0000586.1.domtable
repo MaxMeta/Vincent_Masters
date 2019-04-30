@@ -1,0 +1,27 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DUF1205              PF06722.12    95 BGC0000586.1_ORF3:gid:mceC:pid:AAL08396.1:loc:1305:2418:strand:+ -            370   5.6e-30  103.3   0.1   1   1   1.3e-33   1.1e-29  102.3   0.1     1    95   162   257   162   257 0.99 Protein of unknown function (DUF1205)
+UDPGT                PF00201.18   499 BGC0000586.1_ORF3:gid:mceC:pid:AAL08396.1:loc:1305:2418:strand:+ -            370     1e-06   27.9   0.0   1   1   1.8e-10   1.6e-06   27.2   0.0   319   395   251   325   208   333 0.89 UDP-glucoronosyl and UDP-glucosyl transferase
+Esterase             PF00756.20   251 BGC0000586.1_ORF4:gid:mceD:pid:AAL08397.1:loc:2596:3841:strand:- -            414   5.8e-30  104.7   0.0   1   1   1.3e-33   7.7e-30  104.4   0.0     5   249   192   412   188   414 0.92 Putative esterase
+DUF3327              PF11806.8    122 BGC0000586.1_ORF4:gid:mceD:pid:AAL08397.1:loc:2596:3841:strand:- -            414   2.9e-25   89.3   0.0   1   1   8.6e-29   5.2e-25   88.5   0.0     1   122    59   172    59   172 0.88 Domain of unknown function (DUF3327)
+HlyC                 PF02794.16   127 BGC0000586.1_ORF12:gid:mceI:pid:AAL08402.1:loc:7768:8260:strand:+ -            163   5.2e-10   39.3   0.0   1   1   3.7e-14   6.6e-10   39.0   0.0     2   113    23   137    22   149 0.80 RTX toxin acyltransferase family
+HlyD_3               PF13437.6    106 BGC0000586.1_ORF13:gid:mceH:pid:AAL08401.1:loc:8418:9660:strand:+ -            413   7.7e-17   61.9   1.3   1   1   1.1e-17   3.8e-14   53.3   0.1     2    94   249   345   248   365 0.89 HlyD family secretion protein
+HlyD                 PF00529.20    80 BGC0000586.1_ORF13:gid:mceH:pid:AAL08401.1:loc:8418:9660:strand:+ -            413     1e-13   51.0   0.0   1   1   3.5e-17   1.3e-13   50.7   0.0    12    79    31   386    21   387 0.82 HlyD membrane-fusion protein of T1SS
+Biotin_lipoyl_2      PF13533.6     50 BGC0000586.1_ORF13:gid:mceH:pid:AAL08401.1:loc:8418:9660:strand:+ -            413   1.4e-13   50.4   2.5   1   1     2e-09   7.2e-06   25.7   0.1     3    36    55    88    43    91 0.91 Biotin-lipoyl like
+HlyD_D23             PF16576.5    214 BGC0000586.1_ORF13:gid:mceH:pid:AAL08401.1:loc:8418:9660:strand:+ -            413   1.6e-13   50.4   1.9   1   1   1.9e-12   6.7e-09   35.3   0.2    59   184   187   327   172   334 0.81 Barrel-sandwich domain of CusB or HlyD membrane-fusion
+ABC_membrane         PF00664.23   274 BGC0000586.1_ORF14:gid:mceG:pid:AAL08400.1:loc:9652:11749:strand:+ -            698   1.6e-48  165.7  15.4   1   1   4.9e-52   2.2e-48  165.3  15.4     4   272   179   444   176   446 0.98 ABC transporter transmembrane region
+Peptidase_C39        PF03412.15   133 BGC0000586.1_ORF14:gid:mceG:pid:AAL08400.1:loc:9652:11749:strand:+ -            698     4e-39  133.5   0.0   1   1   1.7e-42   7.6e-39  132.6   0.0     2   132    21   149    20   150 0.98 Peptidase C39 family
+ABC_tran             PF00005.27   137 BGC0000586.1_ORF14:gid:mceG:pid:AAL08400.1:loc:9652:11749:strand:+ -            698   2.7e-31  108.9   0.0   1   1   1.1e-34     5e-31  108.0   0.0     4   137   512   658   509   658 0.93 ABC transporter
+Peptidase_C70        PF12385.8    145 BGC0000586.1_ORF14:gid:mceG:pid:AAL08400.1:loc:9652:11749:strand:+ -            698   6.6e-06   26.2   0.0   1   1   3.7e-09   1.7e-05   24.9   0.0     5   140    19   134    15   139 0.78 Papain-like cysteine protease AvrRpt2
+CPBP                 PF02517.16    92 BGC0000586.1_ORF16:gid:mceF:pid:AAL08399.2:loc:12399:13092:strand:- -            230   5.8e-12   45.8  22.9   1   1   6.6e-15   1.2e-10   41.6  22.9     4    91   123   214    19   215 0.89 CPBP intramembrane metalloprotease
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000586.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000586.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000586.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:31:31 2019
+# [ok]

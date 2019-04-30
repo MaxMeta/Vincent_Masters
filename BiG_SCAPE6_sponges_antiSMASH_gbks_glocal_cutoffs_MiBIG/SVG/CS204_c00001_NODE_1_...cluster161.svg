@@ -1,0 +1,70 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="302.8666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="292.8666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg8113_1)</title>
+			<polygon class=" (ctg8113_1)" points="185,25 40,25 40,10 10,40 40,70 40,55 185,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ADH_N (PF08240)
+"Alcohol dehydrogenase GroES-like domain"</title>
+				<polygon class="PF08240" points="14,40 20,34 20,46" stroke-linejoin="round" width="7" height="24" fill="rgb(211,65,138)" stroke="rgb(168,51,110)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PS-DH (PF14765)
+"Polyketide synthase dehydratase"</title>
+				<rect class="PF14765" x="64" y="28" stroke-linejoin="round" width="29" height="24" fill="rgb(173,56,182)" stroke="rgb(138,44,145)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl_transf_1 (PF00698)
+"Acyl transferase domain"</title>
+				<rect class="PF00698" x="98" y="28" stroke-linejoin="round" width="32" height="24" fill="rgb(59,176,209)" stroke="rgb(47,140,167)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KAsynt_C_assoc (PF16197)
+"Ketoacyl-synthetase C-terminal extension"</title>
+				<rect class="PF16197" x="134" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(240,150,172)" stroke="rgb(192,120,137)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<rect class="PF02801" x="146" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="160" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8113_2)</title>
+			<polygon class=" (ctg8113_2)" points="188,40 197,10 197,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg8113_3)</title>
+			<polygon class=" (ctg8113_3)" points="208,25 228,25 228,10 258,40 228,70 228,55 208,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2891 (PF11199)
+"Protein of unknown function (DUF2891)"</title>
+				<polygon class="PF11199" points="217,28 241,28 243,30 243,50 241,52 217,52" stroke-linejoin="round" width="26" height="24" fill="rgb(102,195,74)" stroke="rgb(81,156,59)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DUF2891 (PF11199)
+"Protein of unknown function (DUF2891)"</title>
+				<polygon class="PF11199" points="249,36 253,40 249,44" stroke-linejoin="round" width="7" height="24" fill="rgb(102,195,74)" stroke="rgb(81,156,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8113_4)</title>
+			<polygon class=" (ctg8113_4)" points="259,10 279,40 259,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Beta-lactamase (PF00144)
+"Beta-lactamase"</title>
+				<polygon class="PF00144" points="263,28 267,28 275,40 267,52 263,52" stroke-linejoin="round" width="15" height="24" fill="rgb(92,159,200)" stroke="rgb(73,127,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8113_5)</title>
+			<polygon class=" (ctg8113_5)" points="281,10 292,40 281,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,24 @@
+# STOCKHOLM 1.0
+
+CS202_c00001_NODE_1_...cluster025_ORF28:gid::pid::loc:44477:46502:strand:+:311:575         p--SWIRPGKAAWHWWNGTSAK---GVGFEPGMNTATMKHYLDFAADQGLEYLQI---DAGWHQ--GSEEQGDITRSRPELDLPHLIGYGRKRGVGILLWLHWKR------ARAQMEEAFRLYEDWGIAGVKIDFMDRDDQEMVGFYHQVARRAAGHRLLVNFHGAYKPDGLRRTWPNIITREAVLGLEWNRLG--TRCN
+#=GR CS202_c00001_NODE_1_...cluster025_ORF28:gid::pid::loc:44477:46502:strand:+:311:575 PP 8..9*****************8...******************************...****95..556899********************************8......99********************************************************************************9..7888
+CS203_c00001_NODE_1_...cluster069_ORF16:gid::pid::loc:30511:32536:strand:+:311:575         .-TSWIRPGKAAWHWWNGTSAK---GVAFEPGMNTATMKHYLDFAADRGLEYLQI---DAGWHQ--GAEEEGDITRSRPEIDLPHLIGYGRKRGVGILLWLHWKR------ARAQMEEAFKLYEDWGVAGVKIDFMDRDDQEMVGFYHQVARHAANHRLLVNFHGAYKPDGLRRTWPNIITREAVLGLEWNRLG--TRCS
+#=GR CS203_c00001_NODE_1_...cluster069_ORF16:gid::pid::loc:30511:32536:strand:+:311:575 PP ..7******************8...9*****************************...****95..667899********************************8......99********************************************************************************9..8889
+CS211_c00001_NODE_1_...cluster080_ORF6:gid::pid::loc:3897:5415:strand:-:142:406            p--SWIRPGKAAWHWWNGTSAK---GVGFEPGMNTATMKHYLDFAADQGLEYLQI---DAGWHQ--GSEEQGDITRSRPELDLPHLIGYGRKRGVGILLWLHWKR------ARAQMEEAFRLYEDWGIAGVKIDFMDRDDQEMVGFYHQVARRAAGHRLLVNFHGAYKPDGLRRTWPNIITREAVLGLEWNRLG--TRCN
+#=GR CS211_c00001_NODE_1_...cluster080_ORF6:gid::pid::loc:3897:5415:strand:-:142:406    PP 8..9*****************8...******************************...****95..556899********************************8......99********************************************************************************9..7888
+CS204_c00001_NODE_1_...cluster042_ORF3:gid::pid::loc:4312:6337:strand:-:311:575            .-TSWIRPGKAAWHWWNGTSAK---GVAFEPGMNTATMKHYLDFAADRGLEYLQI---DAGWHQ--GAEEEGDITRSRPEIDLPHLIGYGRKRGVGILLWLHWKR------ARAQMEEAFKLYEDWGVAGVKIDFMDRDDQEMVGFYHQVARHAANHRLLVNFHGAYKPDGLRRTWPNIITREAVLGLEWNRLG--TRCS
+#=GR CS204_c00001_NODE_1_...cluster042_ORF3:gid::pid::loc:4312:6337:strand:-:311:575    PP ..7******************8...9*****************************...****95..667899********************************8......99********************************************************************************9..8889
+#=GC PP_cons                                                                               ..79*****************8...9*****************************...****95..667899********************************8......99********************************************************************************9..8889
+#=GC RF                                                                                    .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CS202_c00001_NODE_1_...cluster025_ORF28:gid::pid::loc:44477:46502:strand:+:311:575         PTHDLTLPFTRMLAGPMDYTPGAFRTVLRkDFEPRAREPLAQGTRGHQLAMYVVYESPLQMLVDYPAAYR-KQPGIEFLGGVP
+#=GR CS202_c00001_NODE_1_...cluster025_ORF28:gid::pid::loc:44477:46502:strand:+:311:575 PP ****************************999**************************************5.567999998887
+CS203_c00001_NODE_1_...cluster069_ORF16:gid::pid::loc:30511:32536:strand:+:311:575         PAHDLTLPFTRMLAGPMDYTPGAFRTVLRkDFQPRAQEPLAQGTRCHQLAMYVVYESPLQMLVDYPAAY-RGQPGIEFLGRVP
+#=GR CS203_c00001_NODE_1_...cluster069_ORF16:gid::pid::loc:30511:32536:strand:+:311:575 PP ****************************999**************************************.566899**99997
+CS211_c00001_NODE_1_...cluster080_ORF6:gid::pid::loc:3897:5415:strand:-:142:406            PTHDLTLPFTRMLAGPMDYTPGAFRTVLRkDFEPRAREPLAQGTRGHQLAMYVVYESPLQMLVDYPAAYR-KQPGIEFLGGVP
+#=GR CS211_c00001_NODE_1_...cluster080_ORF6:gid::pid::loc:3897:5415:strand:-:142:406    PP ****************************999**************************************5.567999998887
+CS204_c00001_NODE_1_...cluster042_ORF3:gid::pid::loc:4312:6337:strand:-:311:575            PAHDLTLPFTRMLAGPMDYTPGAFRTVLRkDFQPRAQEPLAQGTRCHQLAMYVVYESPLQMLVDYPAAY-RGQPGIEFLGRVP
+#=GR CS204_c00001_NODE_1_...cluster042_ORF3:gid::pid::loc:4312:6337:strand:-:311:575    PP ****************************999**************************************.566899**99997
+#=GC PP_cons                                                                               ****************************9.9**************************************5566899**99887
+#=GC RF                                                                                    xxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

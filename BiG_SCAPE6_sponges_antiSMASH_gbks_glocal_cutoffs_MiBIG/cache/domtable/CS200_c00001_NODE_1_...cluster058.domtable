@@ -1,0 +1,31 @@
+#                                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Polbeta              PF18765.1     93 CS200_c00001_NODE_1_...cluster058_ORF1:gid::pid::loc:554:1478:strand:- -            307   1.6e-07   31.3   0.0   1   1   2.4e-11   4.3e-07   29.9   0.0     4    92    20   112    17   113 0.79 Polymerase beta, Nucleotidyltransferase
+DUF1499              PF07386.11   117 CS200_c00001_NODE_1_...cluster058_ORF2:gid::pid::loc:1592:2303:strand:- -            236   6.9e-29  100.8   0.5   1   1     5e-33     9e-29  100.4   0.1     1   117   100   233   100   233 0.85 Protein of unknown function (DUF1499)
+NUDIX                PF00293.28   131 CS200_c00001_NODE_1_...cluster058_ORF3:gid::pid::loc:2563:3133:strand:+ -            189   1.5e-17   63.9   0.1   1   1     1e-21   1.8e-17   63.6   0.1     2   131    42   171    41   171 0.84 NUDIX domain
+DUF2236              PF09995.9    227 CS200_c00001_NODE_1_...cluster058_ORF4:gid::pid::loc:3213:4380:strand:+ -            388   2.6e-20   73.6   6.1   1   1   2.2e-24     4e-20   73.0   6.1     8   219   105   338    99   348 0.77 Uncharacterized protein conserved in bacteria (DUF2236)
+MMPL                 PF03176.15   333 CS200_c00001_NODE_1_...cluster058_ORF5:gid::pid::loc:4397:6632:strand:+ -            744   2.1e-20   72.9  14.3   1   1   3.5e-24   2.1e-20   72.9  14.3    59   305   149   393    53   414 0.81 MMPL family
+Sterol-sensing       PF12349.8    153 CS200_c00001_NODE_1_...cluster058_ORF5:gid::pid::loc:4397:6632:strand:+ -            744   3.8e-11   43.0   3.2   1   1   6.4e-15   3.8e-11   43.0   3.2     9   139   263   393   256   407 0.87 Sterol-sensing domain of SREBP cleavage-activation
+Patched              PF02460.18   811 CS200_c00001_NODE_1_...cluster058_ORF5:gid::pid::loc:4397:6632:strand:+ -            744   3.3e-10   38.7   5.9   1   1   8.3e-14   4.9e-10   38.2   5.9   252   383   257   390   205   403 0.89 Patched family
+LolA_like            PF17131.4    183 CS200_c00001_NODE_1_...cluster058_ORF6:gid::pid::loc:6628:7438:strand:+ -            269   4.1e-54  183.1   0.0   1   1   5.8e-58   5.2e-54  182.8   0.0     2   183    84   267    83   267 0.98 Outer membrane lipoprotein-sorting protein
+DUF1329              PF07044.11   364 CS200_c00001_NODE_1_...cluster058_ORF6:gid::pid::loc:6628:7438:strand:+ -            269   2.8e-08   33.5   0.6   1   1   1.3e-09   1.1e-05   24.9   0.0   142   202    86   141    46   152 0.79 Protein of unknown function (DUF1329)
+SQS_PSY              PF00494.19   263 CS200_c00001_NODE_1_...cluster058_ORF9:gid::pid::loc:10000:11047:strand:- -            348   2.7e-45  154.9   0.0   1   1   1.8e-49   3.2e-45  154.7   0.0     3   261    20   310    18   312 0.84 Squalene/phytoene synthase
+GRDB                 PF07355.12   347 CS200_c00001_NODE_1_...cluster058_ORF11:gid::pid::loc:11551:12046:strand:- -            164   2.5e-08   33.6   0.0   1   1   1.8e-12   3.2e-08   33.2   0.0   264   345    80   162    35   163 0.79 Glycine/sarcosine/betaine reductase selenoprotein B (GRDB)
+Pterin_4a            PF01329.19    91 CS200_c00001_NODE_1_...cluster058_ORF12:gid::pid::loc:12042:12396:strand:- -            117   3.6e-27   94.4   0.1   1   1   2.4e-31   4.3e-27   94.1   0.1     2    89    22   112    21   114 0.91 Pterin 4 alpha carbinolamine dehydratase
+SSF                  PF00474.17   406 CS200_c00001_NODE_1_...cluster058_ORF13:gid::pid::loc:12392:14132:strand:- -            579   1.9e-48  165.4  34.6   1   2   6.6e-38   1.2e-33  116.6  23.0     1   254    33   296    33   308 0.87 Sodium:solute symporter family
+SSF                  PF00474.17   406 CS200_c00001_NODE_1_...cluster058_ORF13:gid::pid::loc:12392:14132:strand:- -            579   1.9e-48  165.4  34.6   2   2   4.5e-19   8.2e-15   54.6   3.8   289   406   391   506   377   506 0.96 Sodium:solute symporter family
+DUF4212              PF13937.6     79 CS200_c00001_NODE_1_...cluster058_ORF14:gid::pid::loc:14128:14425:strand:- -             98   8.3e-31  106.2   3.7   1   1   5.2e-35   9.4e-31  106.0   3.7     2    78     4    79     3    80 0.97 Domain of unknown function (DUF4212)
+TonB_dep_Rec         PF00593.24   470 CS200_c00001_NODE_1_...cluster058_ORF15:gid::pid::loc:14635:17629:strand:+ -            997   8.8e-28   98.4  28.3   1   1     2e-30   1.7e-26   94.1  28.4    50   469   445   995   148   996 0.78 TonB dependent receptor
+Plug                 PF07715.15   108 CS200_c00001_NODE_1_...cluster058_ORF15:gid::pid::loc:14635:17629:strand:+ -            997   3.5e-23   82.2   2.4   1   1   1.3e-26   1.1e-22   80.6   2.4     6   108    54   163    50   163 0.95 TonB-dependent Receptor Plug Domain
+DUF839               PF05787.13   524 CS200_c00001_NODE_1_...cluster058_ORF16:gid::pid::loc:17742:19536:strand:+ -            597   1.6e-11   44.1   0.0   1   1   4.2e-13   7.6e-09   35.3   0.0   244   524   255   522   249   522 0.65 Bacterial protein of unknown function (DUF839)
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS200_c00001_NODE_1_...cluster058.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS200_c00001_NODE_1_...cluster058.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS200_c00001_NODE_1_...cluster058.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:52:25 2019
+# [ok]

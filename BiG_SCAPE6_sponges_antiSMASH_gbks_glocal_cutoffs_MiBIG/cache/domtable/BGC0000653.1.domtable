@@ -1,0 +1,38 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Trypsin_2            PF13365.6    150 BGC0000653.1_ORF1:gid::pid:ADO85568.1:loc:0:2707:strand:- -            902   2.2e-18   67.6   0.4   1   1   1.2e-22   2.2e-18   67.6   0.4     1   150    34   194    34   194 0.77 Trypsin-like peptidase domain
+MarR                 PF01047.22    59 BGC0000653.1_ORF2:gid:pntR:pid:ADO85569.1:loc:2887:3349:strand:- -            153   2.5e-11   43.3   0.1   1   1   1.2e-14   5.2e-11   42.3   0.1     3    59    40    96    38    96 0.95 MarR family
+MarR_2               PF12802.7     62 BGC0000653.1_ORF2:gid:pntR:pid:ADO85569.1:loc:2887:3349:strand:- -            153   3.9e-10   39.4   0.7   1   1   8.8e-14   3.9e-10   39.4   0.7     3    62    38    95    36    95 0.95 MarR family
+HTH_27               PF13463.6     68 BGC0000653.1_ORF2:gid:pntR:pid:ADO85569.1:loc:2887:3349:strand:- -            153   6.8e-09   36.1   0.3   1   1   4.3e-12   1.9e-08   34.6   0.1     7    68    44   104    38   104 0.93 Winged helix DNA-binding domain
+HxlR                 PF01638.17    91 BGC0000653.1_ORF2:gid:pntR:pid:ADO85569.1:loc:2887:3349:strand:- -            153   2.2e-06   27.4   0.0   1   1   1.8e-09   8.3e-06   25.6   0.0    15    72    51   107    42   137 0.92 HxlR-like helix-turn-helix
+Gp_dh_C              PF02800.20   158 BGC0000653.1_ORF3:gid:gapR:pid:ADO85570.1:loc:3489:4494:strand:+ -            334   2.5e-60  202.6   0.0   1   1   3.8e-64   3.4e-60  202.2   0.0     4   158   161   313   158   313 0.98 Glyceraldehyde 3-phosphate dehydrogenase, C-terminal domain
+Gp_dh_N              PF00044.24   101 BGC0000653.1_ORF3:gid:gapR:pid:ADO85570.1:loc:3489:4494:strand:+ -            334   1.5e-37  128.0   0.0   1   1   3.2e-41   2.9e-37  127.1   0.0     1   100     3   103     3   104 0.97 Glyceraldehyde 3-phosphate dehydrogenase, NAD binding domain
+p450                 PF00067.22   463 BGC0000653.1_ORF4:gid:pntM:pid:ADO85571.1:loc:4672:5869:strand:+ -            398   5.2e-23   81.5   0.0   1   1     8e-19   1.4e-14   53.7   0.0   325   432   266   367   263   379 0.91 Cytochrome P450
+PhyH                 PF05721.13   211 BGC0000653.1_ORF5:gid:pntH:pid:ADO85572.1:loc:6008:6860:strand:+ -            283   2.1e-17   64.1   0.0   1   1   1.5e-21   2.7e-17   63.8   0.0     1   207    25   233    25   239 0.87 Phytanoyl-CoA dioxygenase (PhyH)
+MFS_1                PF07690.16   353 BGC0000653.1_ORF6:gid:pntG:pid:ADO85573.1:loc:6917:8372:strand:+ -            484   7.1e-37  127.1  76.3   1   1   5.2e-37   9.3e-33  113.6  46.9     2   282    39   365    38   371 0.84 Major Facilitator Superfamily
+adh_short            PF00106.25   195 BGC0000653.1_ORF7:gid:pntF:pid:ADO85574.1:loc:8472:9321:strand:+ -            282   4.4e-42  143.8   0.0   1   1   8.7e-46   5.2e-42  143.5   0.0     2   191     7   203     6   207 0.95 short chain dehydrogenase
+adh_short_C2         PF13561.6    234 BGC0000653.1_ORF7:gid:pntF:pid:ADO85574.1:loc:8472:9321:strand:+ -            282   5.6e-36  124.3   0.6   1   1   1.1e-39   6.8e-36  124.0   0.6     1   184    12   204    12   223 0.93 Enoyl-(Acyl carrier protein) reductase
+KR                   PF08659.10   180 BGC0000653.1_ORF7:gid:pntF:pid:ADO85574.1:loc:8472:9321:strand:+ -            282   6.6e-12   45.7   0.3   1   1   1.6e-15   9.6e-12   45.2   0.3     4   162     9   170     7   187 0.86 KR domain
+FMO-like             PF00743.19   532 BGC0000653.1_ORF8:gid:pntE:pid:ADO85575.1:loc:9323:11093:strand:+ -            589   1.4e-10   40.2   0.0   1   1   4.9e-11   2.9e-07   29.3   0.0     4   217    53   262    50   270 0.75 Flavin-binding monooxygenase-like
+NAD_binding_8        PF13450.6     68 BGC0000653.1_ORF8:gid:pntE:pid:ADO85575.1:loc:9323:11093:strand:+ -            589   5.7e-09   36.1   0.1   1   1     3e-12   1.8e-08   34.5   0.1     1    50    55   106    55   114 0.92 NAD(P)-binding Rossmann-like domain
+TauD                 PF02668.16   268 BGC0000653.1_ORF9:gid:pntD:pid:ADO85576.1:loc:11129:12029:strand:+ -            299   1.5e-49  169.2   0.2   1   1   9.4e-54   1.7e-49  169.0   0.2    20   266    22   281     2   283 0.87 Taurine catabolism dioxygenase TauD, TfdA family
+polyprenyl_synt      PF00348.17   256 BGC0000653.1_ORF10:gid:pntB:pid:ADO85577.1:loc:12025:13039:strand:+ -            337   1.5e-53  181.5   0.0   1   1   1.1e-57     2e-53  181.1   0.0    14   252    51   284    40   288 0.91 Polyprenyl synthetase
+Terpene_synth_C      PF03936.16   267 BGC0000653.1_ORF11:gid:pntA:pid:ADO85578.1:loc:13163:14177:strand:+ -            337   5.1e-07   29.3   0.0   1   1   4.4e-11   7.9e-07   28.7   0.0    72   261    76   259    70   264 0.84 Terpene synthase family, metal binding domain
+p450                 PF00067.22   463 BGC0000653.1_ORF12:gid:pntI:pid:ADO85579.1:loc:14291:15665:strand:+ -            457     4e-78  263.2   0.0   1   1   2.8e-82   5.1e-78  262.9   0.0     4   447    13   429    11   442 0.92 Cytochrome P450
+OCD_Mu_crystall      PF02423.15   318 BGC0000653.1_ORF13:gid::pid:ADO85580.1:loc:15803:16871:strand:- -            355   4.4e-32  111.3   0.0   1   1   3.6e-36   6.4e-32  110.8   0.0    26   315    41   336    18   339 0.82 Ornithine cyclodeaminase/mu-crystallin family
+Condensation         PF00668.20   457 BGC0000653.1_ORF14:gid::pid:ADO85581.1:loc:17046:18513:strand:- -            488   4.7e-50  170.6   0.0   1   1   3.1e-54   5.5e-50  170.4   0.0     6   344    54   382    51   464 0.93 Condensation domain
+Thioesterase         PF00975.20   231 BGC0000653.1_ORF15:gid::pid:ADO85582.1:loc:18516:19272:strand:- -            251   3.7e-26   92.7   0.0   1   1   2.5e-30   4.5e-26   92.4   0.0     2   227    21   237    20   240 0.87 Thioesterase domain
+Condensation         PF00668.20   457 BGC0000653.1_ORF16:gid::pid:ADO85583.1:loc:19268:20930:strand:- -            553   2.5e-85  286.9   0.0   1   1   3.8e-89   3.4e-85  286.4   0.0     5   444     9   434     7   439 0.95 Condensation domain
+PP-binding           PF00550.25    67 BGC0000653.1_ORF16:gid::pid:ADO85583.1:loc:19268:20930:strand:- -            553   4.2e-15   55.8   0.7   1   1   1.1e-18     1e-14   54.6   0.1     2    67   467   530   466   530 0.93 Phosphopantetheine attachment site
+PP-binding           PF00550.25    67 BGC0000653.1_ORF17:gid::pid:ADO85584.1:loc:20922:21694:strand:- -            256   9.2e-17   61.2   0.0   1   1   8.1e-21   1.5e-16   60.5   0.0     1    67   148   212   148   212 0.96 Phosphopantetheine attachment site
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000653.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000653.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000653.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:56:53 2019
+# [ok]

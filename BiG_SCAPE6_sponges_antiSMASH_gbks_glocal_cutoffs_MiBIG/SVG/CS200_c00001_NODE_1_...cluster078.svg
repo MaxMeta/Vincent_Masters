@@ -1,0 +1,219 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="989.1333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="979.1333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg568_40)</title>
+			<polygon class=" (ctg568_40)" points="14,25 15,25 15,10 45,40 15,70 15,55 14,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg568_41)</title>
+			<polygon class=" (ctg568_41)" points="48,10 55,40 48,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>RHH_1 (PF01402)
+"Ribbon-helix-helix protein, copG family"</title>
+				<polygon class="PF01402" points="49,27 52,40 52,40 49,53" stroke-linejoin="round" width="3" height="24" fill="rgb(104,197,67)" stroke="rgb(83,157,53)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg568_42)</title>
+			<polygon class=" (ctg568_42)" points="58,25 68,25 68,10 98,40 68,70 68,55 58,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>RmuC (PF02646)
+"RmuC family"</title>
+				<polygon class="PF02646" points="66,28 81,28 93,40 81,52 66,52" stroke-linejoin="round" width="28" height="24" fill="rgb(227,98,163)" stroke="rgb(181,78,130)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg568_43)</title>
+			<polygon class=" (ctg568_43)" points="113,10 141,40 113,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1028 (PF06267)
+"Family of unknown function (DUF1028)"</title>
+				<polygon class="PF06267" points="115,28 125,28 133,36 133,44 125,52 115,52" stroke-linejoin="round" width="18" height="24" fill="rgb(136,84,207)" stroke="rgb(108,67,165)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg568_44)</title>
+			<polygon class=" (ctg568_44)" points="142,25 160,25 160,10 190,40 160,70 160,55 142,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PQQ_2 (PF13360)
+"PQQ-like domain"</title>
+				<rect class="PF13360" x="153" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(98,210,146)" stroke="rgb(78,168,116)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg568_45)</title>
+			<polygon class=" (ctg568_45)" points="193,10 222,40 193,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_M23 (PF01551)
+"Peptidase family M23"</title>
+				<polygon class="PF01551" points="198,28 206,28 209,31 209,49 206,52 198,52" stroke-linejoin="round" width="11" height="24" fill="rgb(65,169,193)" stroke="rgb(51,135,154)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg568_46)</title>
+			<polygon class=" (ctg568_46)" points="226,40 236,10 236,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_Tnp_1 (PF01527)
+"Transposase"</title>
+				<polygon class="PF01527" points="229,40 233,28 235,28 235,52 233,52" stroke-linejoin="round" width="8" height="24" fill="rgb(85,212,107)" stroke="rgb(68,169,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg568_47)</title>
+			<polygon class=" (ctg568_47)" points="256,10 269,40 256,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_21 (PF13276)
+"HTH-like domain"</title>
+				<polygon class="PF13276" points="262,31 266,40 262,49" stroke-linejoin="round" width="5" height="24" fill="rgb(114,195,68)" stroke="rgb(91,156,54)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg568_48)</title>
+			<polygon class=" (ctg568_48)" points="356,25 300,25 300,10 270,40 300,70 300,55 356,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GATase1_like (PF07090)
+"Putative glutamine amidotransferase"</title>
+				<rect class="PF07090" x="288" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(219,96,171)" stroke="rgb(175,76,136)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>VWA (PF00092)
+"von Willebrand factor type A domain"</title>
+				<rect class="PF00092" x="298" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(199,215,59)" stroke="rgb(159,172,47)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>VWA_3 (PF13768)
+"von Willebrand factor type A domain"</title>
+				<rect class="PF13768" x="337" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(69,203,208)" stroke="rgb(55,162,166)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg568_49)</title>
+			<polygon class=" (ctg568_49)" points="361,25 401,25 401,10 431,40 401,70 401,55 361,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg568_50)</title>
+			<polygon class=" (ctg568_50)" points="431,10 438,40 431,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg568_51)</title>
+			<polygon class=" (ctg568_51)" points="439,25 441,25 441,10 471,40 441,70 441,55 439,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Fer4_7 (PF12838)
+"4Fe-4S dicluster domain"</title>
+				<polygon class="PF12838" points="463,36 467,40 463,44" stroke-linejoin="round" width="5" height="24" fill="rgb(138,229,96)" stroke="rgb(110,183,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg568_52)</title>
+			<polygon class=" (ctg568_52)" points="472,25 495,25 495,10 525,40 495,70 495,55 472,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1485 (PF07364)
+"Metallopeptidase family M81"</title>
+				<rect class="PF07364" x="476" y="28" stroke-linejoin="round" width="29" height="24" fill="rgb(101,127,217)" stroke="rgb(80,101,173)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MlrC_C (PF07171)
+"MlrC C-terminus"</title>
+				<polygon class="PF07171" points="506,28 508,28 520,40 520,40 508,52 506,52" stroke-linejoin="round" width="14" height="24" fill="rgb(192,174,73)" stroke="rgb(153,139,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg568_53)</title>
+			<polygon class=" (ctg568_53)" points="565,25 555,25 555,10 525,40 555,70 555,55 565,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_S58 (PF03576)
+"Peptidase family S58"</title>
+				<polygon class="PF03576" points="529,40 541,28 560,28 560,52 541,52" stroke-linejoin="round" width="33" height="24" fill="rgb(222,70,152)" stroke="rgb(177,56,121)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg568_54)</title>
+			<polygon class=" (ctg568_54)" points="603,25 596,25 596,10 566,40 596,70 596,55 603,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<polygon class="PF04055" points="577,33 582,28 595,28 595,52 582,52 577,47" stroke-linejoin="round" width="18" height="24" fill="rgb(149,56,222)" stroke="rgb(119,44,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg568_55)</title>
+			<polygon class=" (ctg568_55)" points="603,40 632,10 632,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>VWA_2 (PF13519)
+"von Willebrand factor type A domain"</title>
+				<polygon class="PF13519" points="614,33 619,28 623,28 623,52 619,52 614,47" stroke-linejoin="round" width="9" height="24" fill="rgb(58,213,93)" stroke="rgb(46,170,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg568_56)</title>
+			<polygon class=" (ctg568_56)" points="665,25 662,25 662,10 632,40 662,70 662,55 665,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TPR_19 (PF14559)
+"Tetratricopeptide repeat"</title>
+				<polygon class="PF14559" points="641,35 647,29 647,51 641,45" stroke-linejoin="round" width="6" height="24" fill="rgb(182,60,145)" stroke="rgb(145,48,115)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg568_57)</title>
+			<polygon class=" (ctg568_57)" points="676,25 686,25 686,10 716,40 686,70 686,55 676,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="678" y="28" stroke-linejoin="round" width="21" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<polygon class="PF02801" points="700,28 700,28 711,39 711,41 700,52 700,52" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg568_58)</title>
+			<polygon class=" (ctg568_58)" points="720,10 733,40 720,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>OsmC (PF02566)
+"OsmC-like protein"</title>
+				<polygon class="PF02566" points="722,28 724,28 730,40 724,52 722,52" stroke-linejoin="round" width="10" height="24" fill="rgb(161,56,212)" stroke="rgb(128,44,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg568_59)</title>
+			<polygon class=" (ctg568_59)" points="733,40 753,10 753,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg568_60)</title>
+			<polygon class=" (ctg568_60)" points="810,25 801,25 801,10 771,40 801,70 801,55 810,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AAA_5 (PF07728)
+"AAA domain (dynein-related subfamily)"</title>
+				<polygon class="PF07728" points="782,33 787,28 797,28 797,52 787,52 782,47" stroke-linejoin="round" width="15" height="24" fill="rgb(216,227,88)" stroke="rgb(172,181,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg568_61)</title>
+			<polygon class=" (ctg568_61)" points="855,25 854,25 854,10 824,40 854,70 854,55 855,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg568_62)</title>
+			<polygon class=" (ctg568_62)" points="891,25 885,25 885,10 855,40 885,70 885,55 891,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg568_63)</title>
+			<polygon class=" (ctg568_63)" points="902,25 916,25 916,10 946,40 916,70 916,55 902,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_M20 (PF01546)
+"Peptidase family M20/M25/M40"</title>
+				<polygon class="PF01546" points="913,28 929,28 941,40 929,52 913,52" stroke-linejoin="round" width="32" height="24" fill="rgb(88,213,108)" stroke="rgb(70,170,86)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg568_64)</title>
+			<polygon class=" (ctg568_64)" points="946,40 973,10 973,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg568_65)</title>
+			<polygon class=" (ctg568_65)" points="973,40 978,10 978,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

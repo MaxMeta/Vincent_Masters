@@ -1,0 +1,31 @@
+#                                                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.28   423 CS203_c00001_NODE_1_...cluster161_ORF2:gid::pid::loc:1384:1696:strand:+ -            103   2.8e-11   42.7   0.0   1   1   1.8e-15   3.3e-11   42.4   0.0     4    73    12    85     9    88 0.94 AMP-binding enzyme
+AMP-binding          PF00501.28   423 CS203_c00001_NODE_1_...cluster161_ORF6:gid::pid::loc:2799:7662:strand:+ -           1620   3.2e-62  210.5   0.4   1   1   2.3e-64   8.2e-61  205.9   0.0   126   422    43   343    10   344 0.84 AMP-binding enzyme
+ketoacyl-synt        PF00109.26   253 CS203_c00001_NODE_1_...cluster161_ORF6:gid::pid::loc:2799:7662:strand:+ -           1620   7.8e-57  192.7   0.3   1   1   3.7e-60   1.3e-56  192.0   0.3     2   253   572   798   571   798 0.88 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.22   118 CS203_c00001_NODE_1_...cluster161_ORF6:gid::pid::loc:2799:7662:strand:+ -           1620   4.7e-29  100.8   0.5   1   1   2.7e-32   9.7e-29   99.8   0.5     1   117   806   922   806   923 0.97 Beta-ketoacyl synthase, C-terminal domain
+Nucleoporin2         PF04096.14   149 CS203_c00001_NODE_1_...cluster161_ORF6:gid::pid::loc:2799:7662:strand:+ -           1620   2.6e-28   99.0   0.0   1   1   1.6e-31   5.7e-28   97.9   0.0     1   144  1488  1620  1488  1620 0.89 Nucleoporin autopeptidase
+PP-binding           PF00550.25    67 CS203_c00001_NODE_1_...cluster161_ORF6:gid::pid::loc:2799:7662:strand:+ -           1620   2.3e-08   34.3   0.0   1   1   4.3e-09   1.5e-05   25.2   0.0     3    67   489   550   487   550 0.93 Phosphopantetheine attachment site
+Kelch_1              PF01344.25    46 CS203_c00001_NODE_1_...cluster161_ORF12:gid::pid::loc:10892:12689:strand:- -            598     1e-66  220.2   4.5   1   5   9.4e-13   2.1e-09   36.8   0.0     2    46   337   381   337   381 0.97 Kelch motif
+Kelch_1              PF01344.25    46 CS203_c00001_NODE_1_...cluster161_ORF12:gid::pid::loc:10892:12689:strand:- -            598     1e-66  220.2   4.5   2   5   5.7e-14   1.3e-10   40.7   0.1     1    45   383   427   383   428 0.96 Kelch motif
+Kelch_1              PF01344.25    46 CS203_c00001_NODE_1_...cluster161_ORF12:gid::pid::loc:10892:12689:strand:- -            598     1e-66  220.2   4.5   3   5   2.9e-14   6.6e-11   41.6   0.0     1    45   430   474   430   475 0.96 Kelch motif
+Kelch_1              PF01344.25    46 CS203_c00001_NODE_1_...cluster161_ORF12:gid::pid::loc:10892:12689:strand:- -            598     1e-66  220.2   4.5   4   5     6e-13   1.3e-09   37.4   0.0     1    41   477   519   477   520 0.97 Kelch motif
+Kelch_1              PF01344.25    46 CS203_c00001_NODE_1_...cluster161_ORF12:gid::pid::loc:10892:12689:strand:- -            598     1e-66  220.2   4.5   5   5   6.9e-18   1.6e-14   53.2   0.0     1    44   527   570   527   572 0.93 Kelch motif
+Kelch_6              PF13964.6     50 CS203_c00001_NODE_1_...cluster161_ORF12:gid::pid::loc:10892:12689:strand:- -            598   3.2e-43  144.6   0.5   1   2   1.6e-11   3.5e-08   33.4   0.0     2    50   337   384   336   385 0.95 Kelch motif
+Kelch_6              PF13964.6     50 CS203_c00001_NODE_1_...cluster161_ORF12:gid::pid::loc:10892:12689:strand:- -            598   3.2e-43  144.6   0.5   2   2   6.3e-11   1.4e-07   31.5   0.1     1    42   527   567   527   575 0.90 Kelch motif
+BTB                  PF00651.31   111 CS203_c00001_NODE_1_...cluster161_ORF12:gid::pid::loc:10892:12689:strand:- -            598   1.4e-26   92.9   0.1   1   1   1.2e-29   2.8e-26   91.9   0.1     1   110    42   147    42   148 0.95 BTB/POZ domain
+Kelch_2              PF07646.15    49 CS203_c00001_NODE_1_...cluster161_ORF12:gid::pid::loc:10892:12689:strand:- -            598     1e-26   91.8   1.5   1   1   5.6e-10   1.3e-06   28.2   0.0     1    44   527   567   527   571 0.93 Kelch motif
+BACK                 PF07707.15   103 CS203_c00001_NODE_1_...cluster161_ORF12:gid::pid::loc:10892:12689:strand:- -            598   2.1e-25   88.8   0.6   1   1     2e-28   4.5e-25   87.7   0.1     1   101   153   253   153   255 0.98 BTB And C-terminal Kelch
+Kelch_4              PF13418.6     49 CS203_c00001_NODE_1_...cluster161_ORF12:gid::pid::loc:10892:12689:strand:- -            598   3.9e-25   87.6   0.1   1   1   8.9e-08    0.0002   21.3   0.0     1    44   430   471   430   475 0.94 Galactose oxidase, central domain
+Kelch_3              PF13415.6     49 CS203_c00001_NODE_1_...cluster161_ORF12:gid::pid::loc:10892:12689:strand:- -            598   1.6e-24   85.6   0.3   1   1   5.3e-08   0.00012   22.3   0.0     2    46   488   533   487   535 0.93 Galactose oxidase, central domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS203_c00001_NODE_1_...cluster161.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS203_c00001_NODE_1_...cluster161.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS203_c00001_NODE_1_...cluster161.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:38:49 2019
+# [ok]

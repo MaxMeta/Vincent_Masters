@@ -1,0 +1,19 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+adh_short            PF00106.25   195 BGC0000667.1_ORF1:gid::pid:CDM31314.1:loc:565:1637:strand:- -            340     6e-25   87.8   0.0   1   1   7.3e-28   4.3e-24   85.0   0.0     1   191    49   252    49   256 0.88 short chain dehydrogenase
+adh_short_C2         PF13561.6    234 BGC0000667.1_ORF1:gid::pid:CDM31314.1:loc:565:1637:strand:- -            340   3.2e-18   66.1   0.0   1   1   1.3e-21     8e-18   64.8   0.0     3   210    57   277    55   284 0.87 Enoyl-(Acyl carrier protein) reductase
+KR                   PF08659.10   180 BGC0000667.1_ORF1:gid::pid:CDM31314.1:loc:565:1637:strand:- -            340   1.4e-05   25.1   0.0   1   1     3e-09   1.8e-05   24.7   0.0     2   124    50   165    49   220 0.82 KR domain
+FAD_binding_4        PF01565.23   139 BGC0000667.1_ORF3:gid::pid:CDM31316.1:loc:4714:6430:strand:+ -            512   9.6e-20   70.7   2.3   1   1   8.4e-24   1.5e-19   70.1   2.3     1   136    67   201    67   204 0.94 FAD binding domain
+adh_short            PF00106.25   195 BGC0000667.1_ORF4:gid::pid:CDM31317.1:loc:6949:7939:strand:- -            329   1.2e-34  119.5   0.1   1   1     2e-38   1.8e-34  118.9   0.1     1   186    49   231    49   235 0.88 short chain dehydrogenase
+adh_short_C2         PF13561.6    234 BGC0000667.1_ORF4:gid::pid:CDM31317.1:loc:6949:7939:strand:- -            329   9.3e-26   90.8   0.1   1   1   1.5e-29   1.3e-25   90.3   0.1     1   178    55   231    55   243 0.85 Enoyl-(Acyl carrier protein) reductase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000667.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000667.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000667.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:33:13 2019
+# [ok]

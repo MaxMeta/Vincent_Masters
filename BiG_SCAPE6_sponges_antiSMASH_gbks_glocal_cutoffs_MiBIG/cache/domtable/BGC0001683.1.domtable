@@ -1,0 +1,19 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+G3P_acyltransf       PF02660.15   163 BGC0001683.1_ORF1:gid::pid:EFV76278.1:loc:0:579:strand:+ -            192   6.1e-34  117.4  17.6   1   1   4.3e-38   7.7e-34  117.1  17.6     1   158    14   184    14   188 0.91 Glycerol-3-phosphate acyltransferase
+Aminotran_5          PF00266.19   371 BGC0001683.1_ORF2:gid::pid:EFV76279.1:loc:582:2193:strand:+ -            536   4.3e-13   49.0   0.0   1   1   1.6e-16   7.3e-13   48.2   0.0    32   221   209   392   198   490 0.77 Aminotransferase class-V
+Acetyltransf_10      PF13673.7    127 BGC0001683.1_ORF2:gid::pid:EFV76279.1:loc:582:2193:strand:+ -            536     2e-09   37.4   0.0   1   1   1.7e-12   7.8e-09   35.5   0.0    14   125    32   163    15   165 0.88 Acetyltransferase (GNAT) domain
+Acetyltransf_1       PF00583.25   117 BGC0001683.1_ORF2:gid::pid:EFV76279.1:loc:582:2193:strand:+ -            536   3.6e-06   27.2   0.1   1   1   1.8e-09   7.9e-06   26.1   0.1    13   117    30   144    14   144 0.81 Acetyltransferase (GNAT) family
+Acetyltransf_5       PF13444.6    101 BGC0001683.1_ORF2:gid::pid:EFV76279.1:loc:582:2193:strand:+ -            536   1.1e-05   26.0   0.0   1   1     5e-09   2.2e-05   25.1   0.0     1    99    20   111    20   113 0.87 Acetyltransferase (GNAT) domain
+Sulfatase            PF00884.23   309 BGC0001683.1_ORF3:gid::pid:EFV76280.1:loc:2179:4009:strand:+ -            609     1e-35  123.7   0.6   1   1   7.2e-40   1.3e-35  123.3   0.6     2   309   241   528   240   528 0.89 Sulfatase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001683.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001683.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001683.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:32:49 2019
+# [ok]

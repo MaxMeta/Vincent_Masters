@@ -1,0 +1,25 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+CbiX                 PF01903.17   107 BGC0001554.1_ORF1:gid::pid:WP_011305381.1:loc:0:393:strand:+ -            130   4.7e-28   97.6   0.0   1   1     6e-32   5.4e-28   97.4   0.0     1   106    12   123    12   124 0.98 CbiX
+CbiK                 PF06180.11   262 BGC0001554.1_ORF1:gid::pid:WP_011305381.1:loc:0:393:strand:+ -            130   5.1e-07   29.3   0.0   1   1   6.8e-11   6.1e-07   29.0   0.0   144   260     7   129     2   130 0.80 Cobalt chelatase (CbiK)
+Mur_ligase_M         PF08245.12   192 BGC0001554.1_ORF2:gid::pid:WP_011305382.1:loc:419:2006:strand:+ -            528   1.4e-06   28.4   0.3   1   1   3.3e-10   5.9e-06   26.4   0.3     1   139   117   262   117   293 0.81 Mur ligase middle domain
+Oxidored_nitro       PF00148.19   399 BGC0001554.1_ORF3:gid::pid:WP_011305383.1:loc:2441:3554:strand:+ -            370   3.7e-19   68.7   0.1   1   1   2.7e-23   4.9e-19   68.3   0.1    17   138    30   145    15   277 0.83 Nitrogenase component 1 type Oxidoreductase
+Fer4_NifH            PF00142.18   271 BGC0001554.1_ORF4:gid::pid:WP_011305384.1:loc:3591:4389:strand:+ -            265   2.9e-90  302.4   1.8   1   1   1.1e-93   3.4e-90  302.2   1.8     2   265     6   264     5   265 0.97 4Fe-4S iron sulfur cluster binding proteins, NifH/frxC family
+CbiA                 PF01656.23   128 BGC0001554.1_ORF4:gid::pid:WP_011305384.1:loc:3591:4389:strand:+ -            265   8.5e-11   42.0   0.0   1   1   4.8e-14   1.4e-10   41.3   0.0     1   125     6   220     6   223 0.92 CobQ/CobB/MinD/ParA nucleotide binding domain
+ParA                 PF10609.9    246 BGC0001554.1_ORF4:gid::pid:WP_011305384.1:loc:3591:4389:strand:+ -            265     6e-10   39.0   0.8   1   1   1.3e-12     4e-09   36.3   0.8     4   245     4   243     2   244 0.82 NUBPL iron-transfer P-loop NTPase
+AAA_31               PF13614.6    177 BGC0001554.1_ORF4:gid::pid:WP_011305384.1:loc:3591:4389:strand:+ -            265   9.9e-10   38.6   0.4   1   1     8e-13   2.4e-09   37.4   0.1     2    63     5    63     4    83 0.79 AAA domain
+ArsA_ATPase          PF02374.15   305 BGC0001554.1_ORF4:gid::pid:WP_011305384.1:loc:3591:4389:strand:+ -            265   9.3e-09   34.9   1.1   1   1   7.4e-11   2.2e-07   30.4   0.6     2    40     5    43     4    48 0.94 Anion-transporting ATPase
+GATase_3             PF07685.14   196 BGC0001554.1_ORF5:gid::pid:WP_011305385.1:loc:4490:5975:strand:+ -            494     3e-44  151.0   0.1   1   1   8.2e-48   4.9e-44  150.3   0.1     1   190   270   469   270   474 0.89 CobB/CobQ-like glutamine amidotransferase domain
+AAA_26               PF13500.6    198 BGC0001554.1_ORF5:gid::pid:WP_011305385.1:loc:4490:5975:strand:+ -            494   1.4e-19   70.7   0.0   1   1   2.5e-21   1.5e-17   64.1   0.1     3   193    14   195    12   198 0.82 AAA domain
+CbiA                 PF01656.23   128 BGC0001554.1_ORF5:gid::pid:WP_011305385.1:loc:4490:5975:strand:+ -            494   2.9e-17   62.9   0.0   1   1   9.5e-21   5.7e-17   62.0   0.0     1   122    14   199    14   205 0.88 CobQ/CobB/MinD/ParA nucleotide binding domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001554.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001554.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001554.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:53:55 2019
+# [ok]

@@ -1,0 +1,23 @@
+#                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DIT1_PvcA            PF05141.12   277 BGC0000923.1_ORF1:gid:pvcA:pid:AAC21671.1:loc:943:1927:strand:+ -            327   5.4e-77  259.0   0.0   1   1   3.7e-81   6.7e-77  258.7   0.0     1   272    48   300    48   305 0.95 Pyoverdine/dityrosine biosynthesis protein
+TauD                 PF02668.16   268 BGC0000923.1_ORF2:gid:pvcB:pid:AAC21672.1:loc:1944:2820:strand:+ -            291   1.8e-39  136.2   2.5   1   1   1.2e-43   2.2e-39  135.9   2.5    27   267    43   275    30   276 0.91 Taurine catabolism dioxygenase TauD, TfdA family
+HpaB_N               PF11794.8    272 BGC0000923.1_ORF3:gid:pvcC:pid:AAC21673.1:loc:2871:4374:strand:+ -            500     1e-88  297.6   0.0   1   1   1.4e-92   1.3e-88  297.2   0.0     1   272    11   273    11   273 0.97 4-hydroxyphenylacetate 3-hydroxylase N terminal
+HpaB                 PF03241.13   202 BGC0000923.1_ORF3:gid:pvcC:pid:AAC21673.1:loc:2871:4374:strand:+ -            500   7.1e-55  185.2   0.1   1   1   1.3e-58   1.2e-54  184.5   0.1     2   201   281   480   280   481 0.97 4-hydroxyphenylacetate 3-hydroxylase C terminal
+Cytochrome_CBB3      PF13442.6     67 BGC0000923.1_ORF4:gid:pvcD:pid:AAC21674.1:loc:4366:5014:strand:+ -            215   2.7e-15   56.4   0.3   1   2   3.4e-11   3.1e-07   30.6   0.0     1    66    31   108    31   109 0.74 Cytochrome C oxidase, cbb3-type, subunit III
+Cytochrome_CBB3      PF13442.6     67 BGC0000923.1_ORF4:gid:pvcD:pid:AAC21674.1:loc:4366:5014:strand:+ -            215   2.7e-15   56.4   0.3   2   2   3.6e-09   3.3e-05   24.1   0.0    14    67   146   210   127   210 0.83 Cytochrome C oxidase, cbb3-type, subunit III
+Cytochrom_C          PF00034.21    92 BGC0000923.1_ORF4:gid:pvcD:pid:AAC21674.1:loc:4366:5014:strand:+ -            215   2.4e-14   54.2   0.7   1   2   9.2e-09   8.3e-05   23.7   0.1     2    53    34    87    33   113 0.80 Cytochrome c
+Cytochrom_C          PF00034.21    92 BGC0000923.1_ORF4:gid:pvcD:pid:AAC21674.1:loc:4366:5014:strand:+ -            215   2.4e-14   54.2   0.7   2   2   6.7e-10     6e-06   27.3   0.0     2    90   128   212   127   214 0.81 Cytochrome c
+LysR_substrate       PF03466.20   209 BGC0000923.1_ORF5:gid::pid:AAC21675.1:loc:5121:6060:strand:- -            312   3.5e-49  167.0   4.0   1   1   3.9e-53   3.5e-49  167.0   4.0     2   208    97   301    96   302 0.97 LysR substrate binding domain
+HTH_1                PF00126.27    60 BGC0000923.1_ORF5:gid::pid:AAC21675.1:loc:5121:6060:strand:- -            312     5e-21   74.4   2.3   1   1   5.6e-25     5e-21   74.4   2.3     1    60    13    72    13    72 0.98 Bacterial regulatory helix-turn-helix protein, lysR family
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000923.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000923.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000923.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:35:47 2019
+# [ok]

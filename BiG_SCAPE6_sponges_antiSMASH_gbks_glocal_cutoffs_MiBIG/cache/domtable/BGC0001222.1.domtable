@@ -1,0 +1,18 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+BacteriocIIc_cy      PF12173.8     91 BGC0001222.1_ORF3:gid:aciA:pid:AJP07153.1:loc:988:1264:strand:+ -             91   6.6e-50  167.3  11.8   1   1   4.1e-54   7.3e-50  167.2  11.8     1    91     1    91     1    91 0.99 Bacteriocin class IIc cyclic gassericin A-like
+SpoIIM               PF01944.17   156 BGC0001222.1_ORF4:gid:aciD:pid:AJP07154.1:loc:1347:1836:strand:+ -            162   8.6e-08   32.4  23.9   1   1   1.6e-11   2.9e-07   30.7  23.9     4   156    14   155     9   155 0.71 Stage II sporulation protein M
+ABC_tran             PF00005.27   137 BGC0001222.1_ORF6:gid:aciT:pid:AJP07151.1:loc:2041:2722:strand:+ -            226   4.5e-22   79.0   0.0   1   1   1.7e-25     1e-21   77.9   0.0     1   137    21   149    21   149 0.88 ABC transporter
+AAA_23               PF13476.6    200 BGC0001222.1_ORF6:gid:aciT:pid:AJP07151.1:loc:2041:2722:strand:+ -            226   3.6e-06   27.6   1.8   1   1   8.7e-10   5.2e-06   27.1   0.8     9    43    20    55    12    74 0.86 AAA domain
+ABC2_membrane_5      PF13346.6    206 BGC0001222.1_ORF7:gid:aciE:pid:AJP07152.1:loc:2724:3363:strand:+ -            212   5.6e-17   62.0  42.4   1   1   3.7e-21   6.6e-17   61.8  42.4     1   205     3   208     3   209 0.80 ABC-2 family transporter protein
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001222.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001222.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001222.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:42:46 2019
+# [ok]

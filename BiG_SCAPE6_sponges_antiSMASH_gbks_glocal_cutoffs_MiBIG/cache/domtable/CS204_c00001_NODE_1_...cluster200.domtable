@@ -1,0 +1,27 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+polyprenyl_synt      PF00348.17   256 CS204_c00001_NODE_1_...cluster200_ORF1:gid::pid::loc:2:575:strand:+ -            190   1.8e-29  102.6   0.0   1   1   1.3e-33   2.3e-29  102.2   0.0   119   243     1   122     1   130 0.95 Polyprenyl synthetase
+SQHop_cyclase_C      PF13243.6    319 CS204_c00001_NODE_1_...cluster200_ORF2:gid::pid::loc:584:2519:strand:+ -            644  5.2e-151  502.2   5.4   1   1  4.7e-146  2.1e-142  473.9   0.1     2   318   321   638   320   639 0.99 Squalene-hopene cyclase C-terminal domain
+SQHop_cyclase_N      PF13249.6    291 CS204_c00001_NODE_1_...cluster200_ORF2:gid::pid::loc:584:2519:strand:+ -            644  2.6e-126  420.6   0.7   1   1  2.5e-117  1.1e-113  379.2   0.3     1   289    18   306    18   308 0.99 Squalene-hopene cyclase N-terminal domain
+Prenyltrans          PF00432.21    44 CS204_c00001_NODE_1_...cluster200_ORF2:gid::pid::loc:584:2519:strand:+ -            644   5.3e-22   77.3  22.1   1   5   4.8e-05      0.22   11.3   0.0     6    44    67   105    66   105 0.97 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.21    44 CS204_c00001_NODE_1_...cluster200_ORF2:gid::pid::loc:584:2519:strand:+ -            644   5.3e-22   77.3  22.1   2   5    0.0014       6.2    6.6   0.6     8    22   254   268   253   269 0.94 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.21    44 CS204_c00001_NODE_1_...cluster200_ORF2:gid::pid::loc:584:2519:strand:+ -            644   5.3e-22   77.3  22.1   3   5   1.3e-05     0.059   13.1   0.4     7    26   485   504   482   518 0.88 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.21    44 CS204_c00001_NODE_1_...cluster200_ORF2:gid::pid::loc:584:2519:strand:+ -            644   5.3e-22   77.3  22.1   4   5   1.3e-14   5.9e-11   41.9   0.1     3    44   529   580   528   580 0.97 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.21    44 CS204_c00001_NODE_1_...cluster200_ORF2:gid::pid::loc:584:2519:strand:+ -            644   5.3e-22   77.3  22.1   5   5   0.00046       2.1    8.2   0.0     3    20   587   604   585   606 0.89 Prenyltransferase and squalene oxidase repeat
+Acetyltransf_1       PF00583.25   117 CS204_c00001_NODE_1_...cluster200_ORF3:gid::pid::loc:2637:3333:strand:+ -            231   4.1e-10   39.9   0.1   1   1   9.6e-14   5.7e-10   39.4   0.1    26   117    71   165    46   165 0.79 Acetyltransferase (GNAT) family
+Acetyltransf_10      PF13673.7    127 CS204_c00001_NODE_1_...cluster200_ORF3:gid::pid::loc:2637:3333:strand:+ -            231   2.3e-08   34.0   0.0   1   1     6e-12   3.6e-08   33.4   0.0    25   109    72   168    52   176 0.79 Acetyltransferase (GNAT) domain
+Acetyltransf_7       PF13508.7     76 CS204_c00001_NODE_1_...cluster200_ORF3:gid::pid::loc:2637:3333:strand:+ -            231   5.2e-07   30.0   0.1   1   1   1.5e-10   9.2e-07   29.2   0.1     5    76    83   167    79   167 0.70 Acetyltransferase (GNAT) domain
+Dodecin              PF07311.12    64 CS204_c00001_NODE_1_...cluster200_ORF4:gid::pid::loc:3359:3599:strand:+ -             79     2e-26   92.0   0.0   1   1   1.3e-30   2.3e-26   91.8   0.0     1    63     8    70     8    71 0.98 Dodecin
+SQS_PSY              PF00494.19   263 CS204_c00001_NODE_1_...cluster200_ORF5:gid::pid::loc:3629:4544:strand:+ -            304   6.6e-65  219.2   3.9   1   1   4.4e-69   7.9e-65  219.0   3.9     1   261    23   287    23   289 0.94 Squalene/phytoene synthase
+SQS_PSY              PF00494.19   263 CS204_c00001_NODE_1_...cluster200_ORF6:gid::pid::loc:4551:5439:strand:+ -            296   8.6e-71  238.5   6.6   1   1   5.6e-75     1e-70  238.3   6.6     2   261    21   278    20   280 0.94 Squalene/phytoene synthase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS204_c00001_NODE_1_...cluster200.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS204_c00001_NODE_1_...cluster200.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS204_c00001_NODE_1_...cluster200.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:44:33 2019
+# [ok]

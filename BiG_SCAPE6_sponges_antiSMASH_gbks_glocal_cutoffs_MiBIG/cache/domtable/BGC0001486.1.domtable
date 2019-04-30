@@ -1,0 +1,27 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Pyridoxal_deC        PF00282.19   375 BGC0001486.1_ORF1:gid::pid:EGH61603.1:loc:0:1407:strand:+ -            468   2.3e-46  158.2   0.0   1   1   3.3e-50     3e-46  157.9   0.0    32   374    68   402    41   403 0.86 Pyridoxal-dependent decarboxylase conserved domain
+SepSecS              PF05889.13   389 BGC0001486.1_ORF1:gid::pid:EGH61603.1:loc:0:1407:strand:+ -            468   9.6e-05   21.2   0.0   1   1     2e-08   0.00018   20.3   0.0   105   196   178   269   171   314 0.83 O-phosphoseryl-tRNA(Sec) selenium transferase, SepSecS
+MFS_1                PF07690.16   353 BGC0001486.1_ORF2:gid::pid:EGH61604.1:loc:1444:2656:strand:+ -            403   5.1e-25   88.1  57.7   1   1   2.8e-29   5.1e-25   88.1  57.7     9   351    27   356    15   358 0.76 Major Facilitator Superfamily
+Methyltransf_25      PF13649.6     97 BGC0001486.1_ORF3:gid::pid:EGH61605.1:loc:2775:3483:strand:+ -            235   5.4e-13   49.5   0.0   1   1     3e-16   1.1e-12   48.5   0.0     3    97    57   151    56   151 0.91 Methyltransferase domain
+Methyltransf_31      PF13847.6    152 BGC0001486.1_ORF3:gid::pid:EGH61605.1:loc:2775:3483:strand:+ -            235   2.5e-11   43.6   0.0   1   1   8.8e-15   3.2e-11   43.3   0.0     4   110    52   156    49   202 0.89 Methyltransferase domain
+Methyltransf_11      PF08241.12    96 BGC0001486.1_ORF3:gid::pid:EGH61605.1:loc:2775:3483:strand:+ -            235   2.9e-10   40.7   0.0   1   1   1.3e-13   4.7e-10   40.0   0.0     2    95    57   154    56   155 0.92 Methyltransferase domain
+Ubie_methyltran      PF01209.18   233 BGC0001486.1_ORF3:gid::pid:EGH61605.1:loc:2775:3483:strand:+ -            235   3.5e-06   26.5   0.0   1   1   1.4e-09   4.9e-06   26.1   0.0    53   172    57   177    46   226 0.73 ubiE/COQ5 methyltransferase family
+Methyltransf_23      PF13489.6    165 BGC0001486.1_ORF4:gid::pid:EGH61606.1:loc:3496:4414:strand:+ -            305   3.4e-13   49.7   0.0   1   1   1.4e-16   6.2e-13   48.9   0.0    13   161   107   246    97   250 0.83 Methyltransferase domain
+Methyltransf_12      PF08242.12    99 BGC0001486.1_ORF4:gid::pid:EGH61606.1:loc:3496:4414:strand:+ -            305   1.6e-07   32.0   0.0   1   1   7.3e-11   3.3e-07   31.0   0.0     1    99   121   207   121   207 0.87 Methyltransferase domain
+Methyltransf_25      PF13649.6     97 BGC0001486.1_ORF4:gid::pid:EGH61606.1:loc:3496:4414:strand:+ -            305   7.7e-07   29.7   0.0   1   1   3.1e-10   1.4e-06   28.9   0.0     2    96   121   204   120   205 0.83 Methyltransferase domain
+Methyltransf_11      PF08241.12    96 BGC0001486.1_ORF4:gid::pid:EGH61606.1:loc:3496:4414:strand:+ -            305   9.9e-07   29.3   0.0   1   1     4e-10   1.8e-06   28.5   0.0     1    96   121   209   121   209 0.87 Methyltransferase domain
+DUF692               PF05114.13   263 BGC0001486.1_ORF7:gid::pid:EGH61609.1:loc:5791:6706:strand:+ -            304   1.8e-45  155.2   0.0   1   1   1.2e-49   2.1e-45  155.0   0.0     1   249    11   267    11   281 0.90 Protein of unknown function (DUF692)
+Lant_dehydr_N        PF04738.13   653 BGC0001486.1_ORF9:gid::pid:EGH61611.1:loc:7508:9956:strand:+ -            815     4e-26   91.3   9.6   1   1   1.3e-27   2.3e-23   82.2   3.4     2   437   127   573   126   577 0.84 Lantibiotic dehydratase, N terminus
+MFS_1                PF07690.16   353 BGC0001486.1_ORF10:gid::pid:EGH61612.1:loc:9948:11214:strand:+ -            421   1.4e-32  113.1  47.7   1   1   7.6e-37   1.4e-32  113.1  47.7     2   346    30   363    29   371 0.86 Major Facilitator Superfamily
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001486.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001486.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001486.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:56:47 2019
+# [ok]

@@ -1,0 +1,170 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="807.9333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="797.9333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg222_60)</title>
+			<polygon class=" (ctg222_60)" points="69,25 56,25 56,10 26,40 56,70 56,55 69,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="32,38 42,28 68,28 68,52 42,52 32,42" stroke-linejoin="round" width="36" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg222_61)</title>
+			<polygon class=" (ctg222_61)" points="70,40 94,10 94,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>sCache_3_2 (PF17203)
+"Single cache domain 3"</title>
+				<polygon class="PF17203" points="78,35 84,28 90,28 90,52 84,52 78,45" stroke-linejoin="round" width="12" height="24" fill="rgb(209,153,67)" stroke="rgb(167,122,53)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg222_62)</title>
+			<polygon class=" (ctg222_62)" points="133,25 125,25 125,10 95,40 125,70 125,55 133,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peripla_BP_6 (PF13458)
+"Periplasmic binding protein"</title>
+				<polygon class="PF13458" points="99,40 111,28 132,28 132,52 111,52" stroke-linejoin="round" width="36" height="24" fill="rgb(94,183,81)" stroke="rgb(75,146,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg222_63)</title>
+			<polygon class=" (ctg222_63)" points="176,25 172,25 172,10 142,40 172,70 172,55 176,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ADH_zinc_N (PF00107)
+"Zinc-binding dehydrogenase"</title>
+				<polygon class="PF00107" points="146,40 158,28 159,28 159,52 158,52 146,40" stroke-linejoin="round" width="13" height="24" fill="rgb(81,108,215)" stroke="rgb(64,86,172)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ADH_N (PF08240)
+"Alcohol dehydrogenase GroES-like domain"</title>
+				<rect class="PF08240" x="163" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(211,65,138)" stroke="rgb(168,51,110)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg222_64)</title>
+			<polygon class=" (ctg222_64)" points="226,25 208,25 208,10 178,40 208,70 208,55 226,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1501 (PF07394)
+"Protein of unknown function (DUF1501)"</title>
+				<polygon class="PF07394" points="182,40 194,28 220,28 220,52 194,52" stroke-linejoin="round" width="42" height="24" fill="rgb(199,225,81)" stroke="rgb(159,180,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg222_65)</title>
+			<polygon class=" (ctg222_65)" points="311,25 256,25 256,10 226,40 256,70 256,55 311,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PSD1 (PF07587)
+"Protein of unknown function (DUF1553)"</title>
+				<polygon class="PF07587" points="231,39 242,28 256,28 256,52 242,52 231,41" stroke-linejoin="round" width="25" height="24" fill="rgb(55,214,194)" stroke="rgb(44,171,155)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PSCyt2 (PF07583)
+"Protein of unknown function (DUF1549)"</title>
+				<rect class="PF07583" x="273" y="28" stroke-linejoin="round" width="20" height="24" fill="rgb(224,195,67)" stroke="rgb(179,156,53)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PSCyt1 (PF07635)
+"Planctomycete cytochrome C"</title>
+				<rect class="PF07635" x="299" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(198,62,63)" stroke="rgb(158,49,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg222_66)</title>
+			<polygon class=" (ctg222_66)" points="353,25 344,25 344,10 314,40 344,70 344,55 353,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CMAS (PF02353)
+"Mycolic acid cyclopropane synthetase"</title>
+				<polygon class="PF02353" points="318,40 330,28 340,28 340,52 330,52" stroke-linejoin="round" width="26" height="24" fill="rgb(56,174,188)" stroke="rgb(44,139,150)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg222_67)</title>
+			<polygon class=" (ctg222_67)" points="385,25 405,25 405,10 435,40 405,70 405,55 385,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg222_68)</title>
+			<polygon class=" (ctg222_68)" points="442,25 494,25 494,10 524,40 494,70 494,55 442,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PSCyt1 (PF07635)
+"Planctomycete cytochrome C"</title>
+				<rect class="PF07635" x="442" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(198,62,63)" stroke="rgb(158,49,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PSCyt2 (PF07583)
+"Protein of unknown function (DUF1549)"</title>
+				<rect class="PF07583" x="454" y="28" stroke-linejoin="round" width="20" height="24" fill="rgb(224,195,67)" stroke="rgb(179,156,53)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PSD1 (PF07587)
+"Protein of unknown function (DUF1553)"</title>
+				<polygon class="PF07587" points="494,28 508,28 519,39 519,41 508,52 494,52" stroke-linejoin="round" width="25" height="24" fill="rgb(55,214,194)" stroke="rgb(44,171,155)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg222_69)</title>
+			<polygon class=" (ctg222_69)" points="525,25 543,25 543,10 573,40 543,70 543,55 525,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1501 (PF07394)
+"Protein of unknown function (DUF1501)"</title>
+				<polygon class="PF07394" points="531,28 557,28 569,40 557,52 531,52" stroke-linejoin="round" width="41" height="24" fill="rgb(199,225,81)" stroke="rgb(159,180,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg222_70)</title>
+			<polygon class=" (ctg222_70)" points="575,10 589,40 575,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>OsmC (PF02566)
+"OsmC-like protein"</title>
+				<polygon class="PF02566" points="578,28 580,28 586,40 580,52 578,52" stroke-linejoin="round" width="10" height="24" fill="rgb(161,56,212)" stroke="rgb(128,44,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg222_71)</title>
+			<polygon class=" (ctg222_71)" points="623,40 637,10 637,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg222_72)</title>
+			<polygon class=" (ctg222_72)" points="643,40 656,10 656,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PIN (PF01850)
+"PIN domain"</title>
+				<polygon class="PF01850" points="646,40 651,28 655,28 655,52 651,52" stroke-linejoin="round" width="12" height="24" fill="rgb(91,217,126)" stroke="rgb(72,173,100)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg222_73)</title>
+			<polygon class=" (ctg222_73)" points="657,40 665,10 665,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg222_74)</title>
+			<polygon class=" (ctg222_74)" points="676,25 767,25 767,10 797,40 767,70 767,55 676,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="676" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<rect class="PF02801" x="702" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KAsynt_C_assoc (PF16197)
+"Ketoacyl-synthetase C-terminal extension"</title>
+				<rect class="PF16197" x="715" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(240,150,172)" stroke="rgb(192,120,137)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl_transf_1 (PF00698)
+"Acyl transferase domain"</title>
+				<rect class="PF00698" x="729" y="28" stroke-linejoin="round" width="32" height="24" fill="rgb(59,176,209)" stroke="rgb(47,140,167)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PS-DH (PF14765)
+"Polyketide synthase dehydratase"</title>
+				<polygon class="PF14765" points="767,28 780,28 792,40 780,52 767,52" stroke-linejoin="round" width="29" height="24" fill="rgb(173,56,182)" stroke="rgb(138,44,145)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

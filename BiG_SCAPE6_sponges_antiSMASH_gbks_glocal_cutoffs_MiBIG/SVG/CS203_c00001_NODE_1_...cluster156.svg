@@ -1,0 +1,111 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="481.93333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="471.93333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg4941_1)</title>
+			<polygon class=" (ctg4941_1)" points="10,40 35,10 35,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg4941_2)</title>
+			<polygon class=" (ctg4941_2)" points="72,25 66,25 66,10 36,40 66,70 66,55 72,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TonB_C (PF03544)
+"Gram-negative bacterial TonB protein C-terminal"</title>
+				<polygon class="PF03544" points="40,40 43,37 43,43" stroke-linejoin="round" width="7" height="24" fill="rgb(196,207,101)" stroke="rgb(156,165,80)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4941_3)</title>
+			<polygon class=" (ctg4941_3)" points="88,10 116,40 88,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_24 (PF13578)
+"Methyltransferase domain"</title>
+				<polygon class="PF13578" points="98,28 100,28 110,38 110,42 100,52 98,52" stroke-linejoin="round" width="12" height="24" fill="rgb(106,221,159)" stroke="rgb(84,176,127)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4941_4)</title>
+			<polygon class=" (ctg4941_4)" points="128,25 128,25 128,10 158,40 128,70 128,55 128,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyco_trans_1_4 (PF13692)
+"Glycosyl transferases group 1"</title>
+				<polygon class="PF13692" points="137,28 142,28 150,36 150,44 142,52 137,52" stroke-linejoin="round" width="13" height="24" fill="rgb(85,182,142)" stroke="rgb(68,145,113)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4941_5)</title>
+			<polygon class=" (ctg4941_5)" points="159,25 160,25 160,10 190,40 160,70 160,55 159,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Epimerase (PF01370)
+"NAD dependent epimerase/dehydratase family"</title>
+				<polygon class="PF01370" points="159,28 174,28 182,36 182,44 174,52 159,52" stroke-linejoin="round" width="23" height="24" fill="rgb(98,102,214)" stroke="rgb(78,81,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4941_6)</title>
+			<polygon class=" (ctg4941_6)" points="258,25 224,25 224,10 194,40 224,70 224,55 258,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Asn_synthase (PF00733)
+"Asparagine synthase"</title>
+				<polygon class="PF00733" points="198,40 210,28 233,28 233,52 210,52" stroke-linejoin="round" width="39" height="24" fill="rgb(97,201,176)" stroke="rgb(77,160,140)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GATase_7 (PF13537)
+"Glutamine amidotransferase domain"</title>
+				<rect class="PF13537" x="241" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(200,63,57)" stroke="rgb(160,50,45)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4941_7)</title>
+			<polygon class=" (ctg4941_7)" points="312,25 288,25 288,10 258,40 288,70 288,55 312,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>UDPG_MGDP_dh_C (PF03720)
+"UDP-glucose/GDP-mannose dehydrogenase family, UDP binding domain"</title>
+				<polygon class="PF03720" points="264,38 274,28 275,28 275,52 274,52 264,42" stroke-linejoin="round" width="11" height="24" fill="rgb(221,130,74)" stroke="rgb(176,103,59)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>UDPG_MGDP_dh (PF00984)
+"UDP-glucose/GDP-mannose dehydrogenase family, central domain"</title>
+				<rect class="PF00984" x="277" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(69,189,184)" stroke="rgb(55,151,147)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>UDPG_MGDP_dh_N (PF03721)
+"UDP-glucose/GDP-mannose dehydrogenase family, NAD binding domain"</title>
+				<rect class="PF03721" x="288" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(156,194,58)" stroke="rgb(124,155,46)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4941_8)</title>
+			<polygon class=" (ctg4941_8)" points="409,25 363,25 363,10 333,40 363,70 363,55 409,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GSDH (PF07995)
+"Glucose / Sorbosone dehydrogenase"</title>
+				<polygon class="PF07995" points="337,40 349,28 366,28 366,52 349,52" stroke-linejoin="round" width="33" height="24" fill="rgb(199,57,124)" stroke="rgb(159,45,99)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>LRR_1 (PF00560)
+"Leucine Rich Repeat"</title>
+				<rect class="PF00560" x="387" y="28" stroke-linejoin="round" width="2" height="24" fill="rgb(169,107,227)" stroke="rgb(135,85,181)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>LRR_8 (PF13855)
+"Leucine rich repeat"</title>
+				<rect class="PF13855" x="393" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(206,99,148)" stroke="rgb(164,79,118)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4941_9)</title>
+			<polygon class=" (ctg4941_9)" points="471,25 450,25 450,10 420,40 450,70 450,55 471,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PDDEXK_9 (PF08011)
+"PD-(D/E)XK nuclease superfamily"</title>
+				<polygon class="PF08011" points="424,40 429,35 429,45" stroke-linejoin="round" width="9" height="24" fill="rgb(209,74,152)" stroke="rgb(167,59,121)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AAA-ATPase_like (PF09820)
+"Predicted AAA-ATPase"</title>
+				<rect class="PF09820" x="444" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(60,130,212)" stroke="rgb(47,103,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

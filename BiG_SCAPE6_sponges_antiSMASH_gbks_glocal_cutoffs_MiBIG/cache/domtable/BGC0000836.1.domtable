@@ -1,0 +1,35 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ketoacyl-synt        PF00109.26   253 BGC0000836.1_ORF1:gid::pid:AAN79648.1:loc:0:1230:strand:- -            409   3.1e-42  144.9   0.2   1   1   4.9e-46   4.4e-42  144.4   0.2     2   253     3   247     2   247 0.86 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.22   118 BGC0000836.1_ORF1:gid::pid:AAN79648.1:loc:0:1230:strand:- -            409   9.3e-29   99.8   0.0   1   1   1.9e-32   1.7e-28   99.0   0.0     1   117   255   364   255   365 0.95 Beta-ketoacyl synthase, C-terminal domain
+adh_short_C2         PF13561.6    234 BGC0000836.1_ORF2:gid::pid:AAN79649.1:loc:1226:1958:strand:- -            243   5.2e-56  189.8   4.7   1   1   9.9e-60   5.9e-56  189.6   4.7     1   233     9   242     9   243 0.95 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.25   195 BGC0000836.1_ORF2:gid::pid:AAN79649.1:loc:1226:1958:strand:- -            243   1.9e-49  167.8   1.0   1   1     4e-53   2.4e-49  167.5   1.0     2   190     4   194     3   199 0.97 short chain dehydrogenase
+KR                   PF08659.10   180 BGC0000836.1_ORF2:gid::pid:AAN79649.1:loc:1226:1958:strand:- -            243   6.6e-19   68.5   0.4   1   1   1.7e-22     1e-18   67.9   0.4     3   154     5   158     4   187 0.91 KR domain
+FabA                 PF07977.13   138 BGC0000836.1_ORF3:gid::pid:AAN79650.1:loc:1957:2422:strand:- -            154   1.2e-06   28.1   0.0   1   1   2.4e-10   4.3e-06   26.4   0.0     1   117    11   116    11   132 0.80 FabA-like domain
+Ketoacyl-synt_C      PF02801.22   118 BGC0000836.1_ORF4:gid::pid:AAN79651.1:loc:2418:3597:strand:- -            392   3.2e-27   94.9   0.1   1   1   9.3e-31   5.6e-27   94.1   0.1     5   110   239   339   237   347 0.93 Beta-ketoacyl synthase, C-terminal domain
+ketoacyl-synt        PF00109.26   253 BGC0000836.1_ORF4:gid::pid:AAN79651.1:loc:2418:3597:strand:- -            392   1.7e-21   76.9   0.2   1   1   3.1e-24   1.8e-20   73.6   0.1   112   250    95   232     2   234 0.78 Beta-ketoacyl synthase, N-terminal domain
+DUF3261              PF11659.8    138 BGC0000836.1_ORF5:gid::pid:AAN79652.1:loc:3589:4174:strand:- -            194   5.1e-37  126.8   0.2   1   1   3.8e-41   6.9e-37  126.4   0.2     2   136    55   191    54   193 0.95 Protein of unknown function (DUF3261)
+MMPL                 PF03176.15   333 BGC0000836.1_ORF6:gid::pid:AAN79653.1:loc:4170:6489:strand:- -            772   2.7e-09   36.4   8.0   1   1   1.5e-13   2.7e-09   36.4   8.0   139   297   252   400   207   431 0.85 MMPL family
+LolA                 PF03548.15   165 BGC0000836.1_ORF7:gid::pid:AAN79654.1:loc:6457:7063:strand:- -            201   3.2e-12   46.5   1.8   1   1   2.4e-16   4.3e-12   46.0   1.8     6   155    33   187    11   197 0.82 Outer membrane lipoprotein carrier protein LolA
+4HBT_2               PF13279.6    123 BGC0000836.1_ORF8:gid::pid:AAN79655.1:loc:7059:7482:strand:- -            140   5.1e-13   49.6   0.3   1   1     7e-17   6.3e-13   49.3   0.3     3   116    17   128    15   134 0.91 Thioesterase-like superfamily
+4HBT                 PF03061.22    79 BGC0000836.1_ORF8:gid::pid:AAN79655.1:loc:7059:7482:strand:- -            140   2.6e-09   37.3   0.1   1   1   5.1e-13   4.6e-09   36.5   0.1     1    62    23    91    23   107 0.89 Thioesterase superfamily
+Glycos_transf_2      PF00535.26   170 BGC0000836.1_ORF9:gid::pid:AAN79656.1:loc:7485:9108:strand:- -            540   5.7e-17   62.0   0.0   1   1     6e-21   1.1e-16   61.1   0.0    28   121    13   109     2   138 0.91 Glycosyl transferase family 2
+PP-binding           PF00550.25    67 BGC0000836.1_ORF14:gid::pid:AAN79661.1:loc:11433:11685:strand:- -             83   2.6e-13   50.1   0.1   1   1   1.7e-17     3e-13   49.9   0.1     2    67    10    76     9    76 0.96 Phosphopantetheine attachment site
+Acyltransferase      PF01553.21   135 BGC0000836.1_ORF16:gid::pid:AAN79663.1:loc:11928:12768:strand:- -            279   3.3e-18   65.6   0.0   1   1   2.8e-22     5e-18   65.0   0.0     3   135    83   204    81   204 0.96 Acyltransferase
+Ketoacyl-synt_2      PF13723.6    226 BGC0000836.1_ORF17:gid::pid:AAN79664.1:loc:12746:13493:strand:- -            248     1e-64  218.3   1.3   1   1     7e-69   1.3e-64  218.0   1.3     1   226    31   246    31   246 0.94 Beta-ketoacyl synthase, N-terminal domain
+Methyltransf_2       PF00891.18   210 BGC0000836.1_ORF18:gid::pid:AAN79665.1:loc:13509:14568:strand:- -            352   9.2e-18   64.3   0.0   1   1   4.3e-21   1.5e-17   63.6   0.0    64   210   179   332   166   332 0.93 O-methyltransferase domain
+Methyltransf_31      PF13847.6    152 BGC0000836.1_ORF18:gid::pid:AAN79665.1:loc:13509:14568:strand:- -            352   3.5e-08   33.4   0.0   1   1   1.4e-11   5.2e-08   32.8   0.0     5   119   179   291   175   330 0.71 Methyltransferase domain
+Methyltransf_25      PF13649.6     97 BGC0000836.1_ORF18:gid::pid:AAN79665.1:loc:13509:14568:strand:- -            352   1.6e-07   31.9   0.0   1   1   8.7e-11   3.1e-07   31.0   0.0     3    96   183   277   181   277 0.89 Methyltransferase domain
+Methyltransf_12      PF08242.12    99 BGC0000836.1_ORF18:gid::pid:AAN79665.1:loc:13509:14568:strand:- -            352   2.5e-07   31.3   0.0   1   1   1.2e-10   4.3e-07   30.6   0.0     2    99   183   280   182   280 0.93 Methyltransferase domain
+Methyltransf_11      PF08241.12    96 BGC0000836.1_ORF18:gid::pid:AAN79665.1:loc:13509:14568:strand:- -            352   0.00013   22.6   0.0   1   1   6.1e-08   0.00022   21.8   0.0     2    96   183   282   182   282 0.89 Methyltransferase domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000836.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000836.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000836.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:45:08 2019
+# [ok]

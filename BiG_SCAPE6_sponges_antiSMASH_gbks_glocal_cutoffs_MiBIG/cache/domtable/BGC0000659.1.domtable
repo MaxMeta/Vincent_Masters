@@ -1,0 +1,17 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Methyltransf_25      PF13649.6     97 BGC0000659.1_ORF1:gid::pid:CAM02993.1:loc:0:858:strand:- -            285   1.4e-12   48.1   0.1   1   1   9.8e-16   4.4e-12   46.5   0.1     1    97    94   188    94   188 0.96 Methyltransferase domain
+Methyltransf_11      PF08241.12    96 BGC0000659.1_ORF1:gid::pid:CAM02993.1:loc:0:858:strand:- -            285   1.1e-11   45.2   0.1   1   1   1.3e-14   5.7e-11   42.9   0.1     2    95    96   191    95   192 0.94 Methyltransferase domain
+CMAS                 PF02353.20   273 BGC0000659.1_ORF1:gid::pid:CAM02993.1:loc:0:858:strand:- -            285   1.5e-08   34.3   0.0   1   1   4.1e-12   1.8e-08   34.0   0.0    36   164    63   192    41   221 0.82 Mycolic acid cyclopropane synthetase
+Methyltransf_31      PF13847.6    152 BGC0000659.1_ORF1:gid::pid:CAM02993.1:loc:0:858:strand:- -            285     2e-06   27.7   0.0   1   1     7e-10   3.1e-06   27.0   0.0     5   113    92   196    89   223 0.79 Methyltransferase domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000659.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000659.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000659.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:27:45 2019
+# [ok]

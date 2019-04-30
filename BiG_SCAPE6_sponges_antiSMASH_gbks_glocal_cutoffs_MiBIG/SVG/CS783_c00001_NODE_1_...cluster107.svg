@@ -1,0 +1,145 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="410.0" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="400.0" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg4139_1)</title>
+			<polygon class=" (ctg4139_1)" points="10,40 19,10 19,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg4139_2)</title>
+			<polygon class=" (ctg4139_2)" points="19,40 44,10 44,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ribosomal_S2 (PF00318)
+"Ribosomal protein S2"</title>
+				<polygon class="PF00318" points="23,40 33,28 42,28 42,52 33,52" stroke-linejoin="round" width="21" height="24" fill="rgb(60,213,66)" stroke="rgb(48,170,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4139_3)</title>
+			<polygon class=" (ctg4139_3)" points="51,40 79,10 79,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Phage_integrase (PF00589)
+"Phage integrase family"</title>
+				<polygon class="PF00589" points="55,40 66,28 68,28 68,52 66,52" stroke-linejoin="round" width="16" height="24" fill="rgb(91,96,195)" stroke="rgb(72,76,156)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Phage_int_SAM_1 (PF02899)
+"Phage integrase, N-terminal SAM-like domain"</title>
+				<rect class="PF02899" x="71" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(112,78,223)" stroke="rgb(89,62,178)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4139_4)</title>
+			<polygon class=" (ctg4139_4)" points="121,25 115,25 115,10 85,40 115,70 115,55 121,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DNA_processg_A (PF02481)
+"DNA recombination-mediator protein A"</title>
+				<polygon class="PF02481" points="93,36 101,28 113,28 113,52 101,52 93,44" stroke-linejoin="round" width="20" height="24" fill="rgb(72,189,53)" stroke="rgb(57,151,42)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4139_5)</title>
+			<polygon class=" (ctg4139_5)" points="170,25 151,25 151,10 121,40 151,70 151,55 170,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Mg_chelatase_C (PF13335)
+"Magnesium chelatase, subunit ChlI C-terminal"</title>
+				<polygon class="PF13335" points="125,40 130,35 130,45" stroke-linejoin="round" width="9" height="24" fill="rgb(224,211,78)" stroke="rgb(179,168,62)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Mg_chelatase (PF01078)
+"Magnesium chelatase, subunit ChlI"</title>
+				<polygon class="PF01078" points="130,35 137,28 150,28 150,52 137,52 130,45" stroke-linejoin="round" width="20" height="24" fill="rgb(199,220,103)" stroke="rgb(159,176,82)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ChlI (PF13541)
+"Subunit ChlI of Mg-chelatase"</title>
+				<rect class="PF13541" x="155" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(192,77,61)" stroke="rgb(153,61,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4139_6)</title>
+			<polygon class=" (ctg4139_6)" points="174,40 199,10 199,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ECH_1 (PF00378)
+"Enoyl-CoA hydratase/isomerase"</title>
+				<polygon class="PF00378" points="178,40 188,28 199,28 199,52 188,52" stroke-linejoin="round" width="25" height="24" fill="rgb(218,72,181)" stroke="rgb(174,57,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4139_7)</title>
+			<polygon class=" (ctg4139_7)" points="201,10 204,40 201,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg4139_8)</title>
+			<polygon class=" (ctg4139_8)" points="205,40 217,10 217,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>UPF0102 (PF02021)
+"Uncharacterised protein family UPF0102"</title>
+				<polygon class="PF02021" points="208,40 213,28 214,28 214,52 213,52" stroke-linejoin="round" width="8" height="24" fill="rgb(81,199,67)" stroke="rgb(64,159,53)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4139_9)</title>
+			<polygon class=" (ctg4139_9)" points="220,40 238,10 238,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_S24 (PF00717)
+"Peptidase S24-like"</title>
+				<polygon class="PF00717" points="226,37 231,28 235,28 235,52 231,52 226,43" stroke-linejoin="round" width="9" height="24" fill="rgb(180,76,105)" stroke="rgb(144,60,83)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4139_10)</title>
+			<polygon class=" (ctg4139_10)" points="243,40 254,10 254,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ribosomal_L19 (PF01245)
+"Ribosomal protein L19"</title>
+				<polygon class="PF01245" points="246,40 251,28 254,28 254,52 251,52" stroke-linejoin="round" width="11" height="24" fill="rgb(108,217,162)" stroke="rgb(86,173,129)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4139_11)</title>
+			<polygon class=" (ctg4139_11)" points="256,40 278,10 278,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>tRNA_m1G_MT (PF01746)
+"tRNA (Guanine-1)-methyltransferase"</title>
+				<polygon class="PF01746" points="260,40 269,28 276,28 276,52 269,52" stroke-linejoin="round" width="19" height="24" fill="rgb(69,212,172)" stroke="rgb(55,169,137)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4139_12)</title>
+			<polygon class=" (ctg4139_12)" points="286,10 313,40 286,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="286,28 297,28 309,40 297,52 286,52" stroke-linejoin="round" width="25" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4139_13)</title>
+			<polygon class=" (ctg4139_13)" points="314,10 343,40 314,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="315,28 326,28 338,40 326,52 315,52" stroke-linejoin="round" width="26" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4139_14)</title>
+			<polygon class=" (ctg4139_14)" points="343,25 359,25 359,10 389,40 359,70 359,55 343,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amino_oxidase (PF01593)
+"Flavin containing amine oxidoreductase"</title>
+				<polygon class="PF01593" points="344,28 373,28 385,40 373,52 344,52" stroke-linejoin="round" width="42" height="24" fill="rgb(184,74,52)" stroke="rgb(147,59,41)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4139_15)</title>
+			<polygon class=" (ctg4139_15)" points="389,10 399,40 389,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>polyprenyl_synt (PF00348)
+"Polyprenyl synthetase"</title>
+				<polygon class="PF00348" points="394,34 396,40 394,46" stroke-linejoin="round" width="5" height="24" fill="rgb(61,206,65)" stroke="rgb(48,164,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

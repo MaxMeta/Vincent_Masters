@@ -1,0 +1,85 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="400.26666666666665" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="390.26666666666665" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg4258_1)</title>
+			<polygon class=" (ctg4258_1)" points="95,25 40,25 40,10 10,40 40,70 40,55 95,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acyltransferase (PF01553)
+"Acyltransferase"</title>
+				<polygon class="PF01553" points="14,40 20,34 20,46" stroke-linejoin="round" width="10" height="24" fill="rgb(87,176,216)" stroke="rgb(69,140,172)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="39" y="28" stroke-linejoin="round" width="44" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="86" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4258_2)</title>
+			<polygon class=" (ctg4258_2)" points="102,40 122,10 122,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pro_isomerase (PF00160)
+"Cyclophilin type peptidyl-prolyl cis-trans isomerase/CLD"</title>
+				<polygon class="PF00160" points="106,40 114,28 118,28 118,52 114,52" stroke-linejoin="round" width="16" height="24" fill="rgb(130,221,72)" stroke="rgb(103,176,57)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4258_3)</title>
+			<polygon class=" (ctg4258_3)" points="123,40 140,10 140,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pro_isomerase (PF00160)
+"Cyclophilin type peptidyl-prolyl cis-trans isomerase/CLD"</title>
+				<polygon class="PF00160" points="126,40 133,28 139,28 139,52 133,52" stroke-linejoin="round" width="16" height="24" fill="rgb(130,221,72)" stroke="rgb(103,176,57)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4258_4)</title>
+			<polygon class=" (ctg4258_4)" points="149,25 217,25 217,10 247,40 217,70 217,55 149,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF349 (PF03993)
+"Domain of Unknown Function (DUF349)"</title>
+				<rect class="PF03993" x="200" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(202,60,186)" stroke="rgb(161,47,148)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DUF349 (PF03993)
+"Domain of Unknown Function (DUF349)"</title>
+				<rect class="PF03993" x="209" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(202,60,186)" stroke="rgb(161,47,148)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DUF349 (PF03993)
+"Domain of Unknown Function (DUF349)"</title>
+				<rect class="PF03993" x="216" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(202,60,186)" stroke="rgb(161,47,148)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DUF349 (PF03993)
+"Domain of Unknown Function (DUF349)"</title>
+				<polygon class="PF03993" points="224,28 231,28 233,30 233,50 231,52 224,52" stroke-linejoin="round" width="9" height="24" fill="rgb(202,60,186)" stroke="rgb(161,47,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4258_5)</title>
+			<polygon class=" (ctg4258_5)" points="257,25 359,25 359,10 389,40 359,70 359,55 257,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DEAD (PF00270)
+"DEAD/DEAH box helicase"</title>
+				<rect class="PF00270" x="259" y="28" stroke-linejoin="round" width="19" height="24" fill="rgb(195,100,62)" stroke="rgb(156,80,49)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Helicase_C (PF00271)
+"Helicase conserved C-terminal domain"</title>
+				<rect class="PF00271" x="286" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(104,224,158)" stroke="rgb(83,179,126)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DEAD_assoc (PF08494)
+"DEAD/H associated"</title>
+				<rect class="PF08494" x="324" y="28" stroke-linejoin="round" width="20" height="24" fill="rgb(106,184,217)" stroke="rgb(84,147,173)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

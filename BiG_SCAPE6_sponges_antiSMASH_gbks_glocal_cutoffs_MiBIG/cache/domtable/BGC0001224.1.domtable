@@ -1,0 +1,24 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Methyltransf_2       PF00891.18   210 BGC0001224.1_ORF1:gid:redM:pid:AKG47110.1:loc:0:1035:strand:+ -            344   5.6e-31  107.5   0.0   1   1   1.2e-34   6.9e-31  107.2   0.0     1   210   116   326   116   326 0.95 O-methyltransferase domain
+Dimerisation2        PF16864.5     90 BGC0001224.1_ORF1:gid:redM:pid:AKG47110.1:loc:0:1035:strand:+ -            344   2.9e-16   59.2   0.2   1   1   1.3e-19   7.6e-16   57.9   0.1     2    87    17    96    16    99 0.94 Dimerisation domain
+Methyltransf_25      PF13649.6     97 BGC0001224.1_ORF1:gid:redM:pid:AKG47110.1:loc:0:1035:strand:+ -            344     1e-06   29.3   0.0   1   1   3.5e-10   2.1e-06   28.4   0.0     1    97   180   275   180   275 0.86 Methyltransferase domain
+NAD_binding_2        PF03446.15   158 BGC0001224.1_ORF2:gid:redE:pid:AKG47111.1:loc:1209:2097:strand:- -            295   4.3e-19   69.2   0.2   1   1   1.1e-22     1e-18   68.0   0.2     1   151     4   153     4   164 0.96 NAD binding domain of 6-phosphogluconate dehydrogenase
+F420_oxidored        PF03807.17    97 BGC0001224.1_ORF2:gid:redE:pid:AKG47111.1:loc:1209:2097:strand:- -            295     7e-10   39.4   0.1   1   1   1.2e-13   1.1e-09   38.8   0.1     1    96     4    93     4    94 0.86 NADP oxidoreductase coenzyme F420-dependent
+Amino_oxidase        PF01593.24   452 BGC0001224.1_ORF3:gid:redO:pid:AKG47112.1:loc:2383:3913:strand:+ -            509   1.9e-50  172.5   0.2   1   1   4.5e-54   2.7e-50  172.0   0.2     1   451    30   487    30   488 0.82 Flavin containing amine oxidoreductase
+NAD_binding_8        PF13450.6     68 BGC0001224.1_ORF3:gid:redO:pid:AKG47112.1:loc:2383:3913:strand:+ -            509   5.1e-13   49.1   0.5   1   1   2.2e-16   1.3e-12   47.7   0.5     1    52    25    80    25    92 0.89 NAD(P)-binding Rossmann-like domain
+FAD_binding_2        PF00890.24   417 BGC0001224.1_ORF3:gid:redO:pid:AKG47112.1:loc:2383:3913:strand:+ -            509   2.1e-06   27.1   0.2   1   1     6e-10   3.6e-06   26.3   0.2     2    36    23    57    22    72 0.92 FAD binding domain
+Ferritin-like        PF12902.7    222 BGC0001224.1_ORF4:gid:redD:pid:AKG47113.1:loc:3912:7188:strand:+ -           1091   4.2e-35  121.6   0.0   1   1   3.3e-39   5.9e-35  121.1   0.0     1   220   675   918   675   920 0.86 Ferritin-like
+p450                 PF00067.22   463 BGC0001224.1_ORF5:gid:redP:pid:AKG47114.1:loc:7260:8427:strand:+ -            388   6.2e-27   94.5   0.0   1   1   1.7e-20     3e-16   59.2   0.0   325   432   256   352   251   364 0.93 Cytochrome P450
+Peripla_BP_6         PF13458.6    342 BGC0001224.1_ORF6:gid:redT:pid:AKG47115.1:loc:8634:9834:strand:+ -            399   2.6e-32  112.8   1.9   1   1   1.8e-36   3.2e-32  112.5   1.9     2   324     7   353     6   370 0.86 Periplasmic binding protein
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001224.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001224.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001224.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:51:00 2019
+# [ok]

@@ -1,0 +1,20 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Cu-oxidase_4         PF02578.15   231 CS783_c00001_NODE_1_...cluster161_ORF2:gid::pid::loc:500:1280:strand:- -            259   3.4e-66  223.2   0.0   1   1   2.1e-70   3.8e-66  223.0   0.0     2   230    23   255    22   256 0.92 Multi-copper polyphenol oxidoreductase laccase
+Methyltransf_28      PF02636.17   262 CS783_c00001_NODE_1_...cluster161_ORF3:gid::pid::loc:1276:2362:strand:- -            361     3e-66  223.7   0.0   1   1   2.1e-70   3.8e-66  223.4   0.0     1   262    61   292    61   292 0.94 Putative S-adenosyl-L-methionine-dependent methyltransferase
+LGT                  PF01790.18   242 CS783_c00001_NODE_1_...cluster161_ORF4:gid::pid::loc:2358:3174:strand:- -            271   4.8e-79  265.0   6.5   1   1     3e-83   5.4e-79  264.8   6.5     1   241    11   257    11   258 0.94 Prolipoprotein diacylglyceryl transferase
+Epimerase            PF01370.21   241 CS783_c00001_NODE_1_...cluster161_ORF5:gid::pid::loc:3173:4160:strand:- -            328   2.4e-33  115.6   0.0   1   1   6.8e-37     3e-33  115.3   0.0     1   241     2   249     2   249 0.85 NAD dependent epimerase/dehydratase family
+GDP_Man_Dehyd        PF16363.5    332 CS783_c00001_NODE_1_...cluster161_ORF5:gid::pid::loc:3173:4160:strand:- -            328   6.4e-12   45.5   0.0   1   1   5.1e-15   2.3e-11   43.7   0.0     1   278     3   279     3   303 0.75 GDP-mannose 4,6 dehydratase
+RmlD_sub_bind        PF04321.17   287 CS783_c00001_NODE_1_...cluster161_ORF5:gid::pid::loc:3173:4160:strand:- -            328   4.6e-07   29.2   0.0   1   1   2.3e-10     1e-06   28.1   0.0     3   139     2   157     1   164 0.83 RmlD substrate binding domain
+SQS_PSY              PF00494.19   263 CS783_c00001_NODE_1_...cluster161_ORF6:gid::pid::loc:4259:5042:strand:- -            260   4.9e-70  236.0   0.2   1   1   3.2e-74   5.7e-70  235.8   0.2    12   260     3   244     1   247 0.92 Squalene/phytoene synthase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS783_c00001_NODE_1_...cluster161.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS783_c00001_NODE_1_...cluster161.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS783_c00001_NODE_1_...cluster161.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:40:33 2019
+# [ok]

@@ -1,0 +1,21 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Cupin_2              PF07883.11    71 BGC0000888.1_ORF2:gid:bacB:pid:ACX35427.1:loc:490:1201:strand:+ -            236   3.6e-22   77.9   0.3   1   2   6.2e-15   5.5e-11   42.0   0.1     4    70    40   106    37   107 0.91 Cupin domain
+Cupin_2              PF07883.11    71 BGC0000888.1_ORF2:gid:bacB:pid:ACX35427.1:loc:490:1201:strand:+ -            236   3.6e-22   77.9   0.3   2   2   1.9e-12   1.7e-08   34.0   0.0     4    68   151   215   148   218 0.90 Cupin domain
+adh_short_C2         PF13561.6    234 BGC0000888.1_ORF3:gid:bacC:pid:ACX35428.1:loc:1197:1959:strand:+ -            253   2.4e-71  240.0   0.1   1   1   6.3e-75   2.8e-71  239.8   0.1     1   234    12   251    12   251 0.90 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.25   195 BGC0000888.1_ORF3:gid:bacC:pid:ACX35428.1:loc:1197:1959:strand:+ -            253   9.4e-64  214.5   0.1   1   1   2.6e-67   1.2e-63  214.2   0.1     1   191     6   194     6   198 0.97 short chain dehydrogenase
+KR                   PF08659.10   180 BGC0000888.1_ORF3:gid:bacC:pid:ACX35428.1:loc:1197:1959:strand:+ -            253   2.3e-09   37.4   0.1   1   1   7.7e-13   3.4e-09   36.9   0.1     2   125     7   124     6   159 0.82 KR domain
+Epimerase            PF01370.21   241 BGC0000888.1_ORF3:gid:bacC:pid:ACX35428.1:loc:1197:1959:strand:+ -            253   9.7e-05   21.9   0.1   1   1   3.4e-08   0.00015   21.3   0.1     1    72     8    88     8   130 0.77 NAD dependent epimerase/dehydratase family
+ATP-grasp_4          PF13535.6    160 BGC0000888.1_ORF4:gid:bacD:pid:ACX35429.1:loc:1976:3395:strand:+ -            472   3.2e-17   62.6   1.0   1   1   2.5e-20   2.2e-16   59.8   0.1     2   157   172   333   171   335 0.88 ATP-grasp domain
+MFS_1                PF07690.16   353 BGC0000888.1_ORF5:gid:bacE:pid:ACX35430.1:loc:3391:4342:strand:+ -            317   1.3e-15   57.2  34.7   1   1     9e-20   1.6e-15   56.9  34.7     1   312    11   309    11   314 0.73 Major Facilitator Superfamily
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000888.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000888.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000888.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:31:22 2019
+# [ok]

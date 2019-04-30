@@ -1,0 +1,20 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.28   423 CS204_c00001_NODE_1_...cluster181_ORF2:gid::pid::loc:286:1867:strand:- -            526   2.6e-87  293.2   0.0   1   1   3.6e-91   3.3e-87  292.8   0.0     4   422    18   427    17   428 0.86 AMP-binding enzyme
+AMP-binding_C        PF13193.6     76 CS204_c00001_NODE_1_...cluster181_ORF2:gid::pid::loc:286:1867:strand:- -            526   1.2e-15   58.2   0.3   1   1   3.5e-19   3.2e-15   56.9   0.3     1    76   436   511   436   511 0.94 AMP-binding enzyme C-terminal domain
+Ectoine_synth        PF06339.12   127 CS204_c00001_NODE_1_...cluster181_ORF3:gid::pid::loc:2216:3050:strand:+ -            277   4.6e-71  237.0   0.0   1   2   2.8e-38   2.5e-34  118.2   0.0     1   125     1   129     1   131 0.94 Ectoine synthase
+Ectoine_synth        PF06339.12   127 CS204_c00001_NODE_1_...cluster181_ORF3:gid::pid::loc:2216:3050:strand:+ -            277   4.6e-71  237.0   0.0   2   2     6e-38   5.4e-34  117.1   0.0     1   125   140   266   140   268 0.95 Ectoine synthase
+MethyltransfD12      PF02086.15   260 CS204_c00001_NODE_1_...cluster181_ORF4:gid::pid::loc:3697:4654:strand:+ -            318   1.8e-61  208.1   0.0   1   1   1.1e-65   2.1e-61  207.9   0.0     1   259    55   299    55   300 0.92 D12 class N6 adenine-specific DNA methyltransferase
+DpnII                PF04556.12   280 CS204_c00001_NODE_1_...cluster181_ORF5:gid::pid::loc:4622:5102:strand:+ -            159   0.00011   21.6   0.0   1   1   7.4e-09   0.00013   21.4   0.0   138   247    11   121     8   136 0.67 DpnII restriction endonuclease
+Resolvase            PF00239.21   146 CS204_c00001_NODE_1_...cluster181_ORF6:gid::pid::loc:5809:6415:strand:+ -            201   1.2e-38  132.5   2.3   1   1   8.2e-43   1.5e-38  132.2   2.3     1   146     5   148     5   148 0.98 Resolvase, N terminal domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS204_c00001_NODE_1_...cluster181.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS204_c00001_NODE_1_...cluster181.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS204_c00001_NODE_1_...cluster181.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:43:34 2019
+# [ok]

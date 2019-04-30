@@ -1,0 +1,31 @@
+#                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ABC_tran             PF00005.27   137 BGC0001701.1_ORF1:gid:nsoF:pid:ASY03206.1:loc:774:1479:strand:+ -            234     1e-32  113.5   0.0   1   1   1.6e-36   1.4e-32  113.1   0.0     2   137    21   157    20   157 0.98 ABC transporter
+AAA_21               PF13304.6    303 BGC0001701.1_ORF1:gid:nsoF:pid:ASY03206.1:loc:774:1479:strand:+ -            234   4.9e-14   52.8   1.2   1   1   4.8e-13   4.3e-09   36.6   0.0   228   298   120   187    60   192 0.76 AAA domain, putative AbiEii toxin, Type IV TA system
+Spa1_C               PF18218.1     99 BGC0001701.1_ORF4:gid:nsoI:pid:ASY03209.1:loc:2945:3782:strand:+ -            278   1.5e-53  179.3   8.0   1   2   5.3e-33   9.4e-29   99.7   1.7     1    99    43   145    43   145 0.98 Lantibiotic immunity protein Spa1 C-terminal domain
+Spa1_C               PF18218.1     99 BGC0001701.1_ORF4:gid:nsoI:pid:ASY03209.1:loc:2945:3782:strand:+ -            278   1.5e-53  179.3   8.0   2   2   6.2e-28   1.1e-23   83.5   0.5     1    95   176   270   176   274 0.97 Lantibiotic immunity protein Spa1 C-terminal domain
+Response_reg         PF00072.24   112 BGC0001701.1_ORF5:gid:nsoR1:pid:ASY03210.1:loc:3846:4509:strand:+ -            220   2.9e-23   82.2   0.2   1   1   4.4e-27   3.9e-23   81.7   0.2     1   112     3   111     3   111 0.96 Response regulator receiver domain
+Trans_reg_C          PF00486.28    77 BGC0001701.1_ORF5:gid:nsoR1:pid:ASY03210.1:loc:3846:4509:strand:+ -            220   4.7e-20   71.4   0.0   1   1   1.2e-23   1.1e-19   70.3   0.0     2    76   146   218   145   219 0.96 Transcriptional regulatory protein, C terminal
+HATPase_c            PF02518.26   112 BGC0001701.1_ORF6:gid:nsoK1:pid:ASY03211.1:loc:4499:5858:strand:+ -            452   3.8e-15   56.4   0.1   1   1     1e-18     9e-15   55.2   0.1     6   104   352   448   347   452 0.84 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+HisKA                PF00512.25    67 BGC0001701.1_ORF6:gid:nsoK1:pid:ASY03211.1:loc:4499:5858:strand:+ -            452   2.6e-12   46.6   0.3   1   1   6.2e-16   5.6e-12   45.5   0.3     2    65   238   300   237   302 0.91 His Kinase A (phospho-acceptor) domain
+Gallidermin          PF02052.15    52 BGC0001701.1_ORF7:gid:nsoA1:pid:ASY03212.1:loc:6364:6535:strand:+ -             56   4.1e-07   30.2   0.1   1   1   2.3e-11   4.1e-07   30.2   0.1     9    42     5    35     2    39 0.84 Gallidermin
+Gallidermin          PF02052.15    52 BGC0001701.1_ORF8:gid:nsoA2:pid:ASY03213.1:loc:6557:6728:strand:+ -             56   3.8e-07   30.3   0.1   1   1   2.1e-11   3.8e-07   30.3   0.1     9    42     5    35     2    39 0.84 Gallidermin
+Gallidermin          PF02052.15    52 BGC0001701.1_ORF9:gid:nsoA3:pid:ASY03214.1:loc:6751:6922:strand:+ -             56   3.8e-07   30.3   0.1   1   1   2.1e-11   3.8e-07   30.3   0.1     9    42     5    35     2    39 0.84 Gallidermin
+Response_reg         PF00072.24   112 BGC0001701.1_ORF11:gid:nsoR2:pid:ASY03216.1:loc:7258:7924:strand:+ -            221     4e-25   88.2   0.1   1   1   6.3e-29   5.7e-25   87.7   0.1     1   112     4   112     4   112 0.98 Response regulator receiver domain
+Trans_reg_C          PF00486.28    77 BGC0001701.1_ORF11:gid:nsoR2:pid:ASY03216.1:loc:7258:7924:strand:+ -            221   4.4e-17   61.9   0.1   1   1   1.2e-20     1e-16   60.7   0.0     3    76   146   217   144   218 0.96 Transcriptional regulatory protein, C terminal
+HATPase_c            PF02518.26   112 BGC0001701.1_ORF12:gid:nsoK2:pid:ASY03217.1:loc:7908:9267:strand:+ -            452   2.5e-08   34.4   0.0   1   1   2.9e-12   5.2e-08   33.4   0.0     2   110   344   451   343   452 0.92 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+Lant_dehydr_N        PF04738.13   653 BGC0001701.1_ORF13:gid:nsoB:pid:ASY03218.1:loc:9638:12698:strand:+ -           1019  1.9e-125  419.5   0.0   1   1  2.5e-129  2.2e-125  419.3   0.0     2   652    36   675    35   676 0.95 Lantibiotic dehydratase, N terminus
+Lant_dehydr_C        PF14028.6    312 BGC0001701.1_ORF13:gid:nsoB:pid:ASY03218.1:loc:9638:12698:strand:+ -           1019     2e-30  106.4   0.0   1   1   5.2e-33   4.7e-29  101.9   0.0     1   306   746  1000   746  1004 0.80 Lantibiotic biosynthesis dehydratase C-term
+ABC_tran             PF00005.27   137 BGC0001701.1_ORF14:gid:nsoT:pid:ASY03219.1:loc:12681:14493:strand:+ -            603   1.2e-32  113.3   0.0   1   1   2.3e-36   2.1e-32  112.5   0.0     1   136   371   525   371   526 0.91 ABC transporter
+LANC_like            PF05147.13   352 BGC0001701.1_ORF15:gid:nsoC:pid:ASY03220.1:loc:14473:15820:strand:+ -            448   7.7e-67  225.4   2.9   1   1   5.2e-71   9.4e-67  225.1   2.9     3   352    52   446    50   446 0.91 Lanthionine synthetase C-like protein
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001701.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001701.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001701.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:54:46 2019
+# [ok]

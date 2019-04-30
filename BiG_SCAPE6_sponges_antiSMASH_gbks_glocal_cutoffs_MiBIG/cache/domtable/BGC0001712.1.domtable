@@ -1,0 +1,36 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+adh_short            PF00106.25   195 BGC0001712.1_ORF1:gid::pid:PLB46269.1:loc:230:1175:strand:+ -            314   4.8e-16   58.8   0.0   1   1   1.5e-19   9.3e-16   57.9   0.0     1   124    16   143    16   164 0.90 short chain dehydrogenase
+adh_short_C2         PF13561.6    234 BGC0001712.1_ORF1:gid::pid:PLB46269.1:loc:230:1175:strand:+ -            314   6.6e-10   38.9   0.0   1   1     2e-13   1.2e-09   38.1   0.0     1   132    22   164    22   184 0.82 Enoyl-(Acyl carrier protein) reductase
+KR                   PF08659.10   180 BGC0001712.1_ORF1:gid::pid:PLB46269.1:loc:230:1175:strand:+ -            314   1.5e-06   28.2   0.1   1   1   3.5e-10   2.1e-06   27.8   0.1     3    81    18    98    16   138 0.89 KR domain
+Fungal_trans_2       PF11951.8    384 BGC0001712.1_ORF4:gid::pid:PLB46272.1:loc:3924:5579:strand:- -            517   4.9e-59  200.1   2.8   1   1   3.2e-63   5.7e-59  199.8   2.8     1   383    54   516    54   517 0.84 Fungal specific transcription factor domain
+DAO                  PF01266.24   352 BGC0001712.1_ORF5:gid::pid:PLB46273.1:loc:6489:7776:strand:- -            428   2.4e-42  145.8   0.3   1   1   7.9e-46   2.8e-42  145.5   0.3     1   351     6   373     6   374 0.79 FAD dependent oxidoreductase
+NAD_binding_8        PF13450.6     68 BGC0001712.1_ORF5:gid::pid:PLB46273.1:loc:6489:7776:strand:- -            428   2.6e-06   27.5   0.0   1   1     2e-09   7.1e-06   26.2   0.0     1    44     9    54     9    82 0.83 NAD(P)-binding Rossmann-like domain
+MFS_1                PF07690.16   353 BGC0001712.1_ORF6:gid::pid:PLB46274.1:loc:8455:9973:strand:- -            505   4.1e-34  118.1  29.9   1   1   2.3e-38   4.1e-34  118.1  29.9     3   353    66   429    64   429 0.82 Major Facilitator Superfamily
+Hydantoinase_B       PF02538.14   516 BGC0001712.1_ORF7:gid::pid:PLB46275.1:loc:10504:14843:strand:+ -           1317  1.2e-196  654.2   0.2   1   1  2.5e-200  1.5e-196  653.8   0.2     1   515   747  1279   747  1280 0.97 Hydantoinase B/oxoprolinase
+Hydantoinase_A       PF01968.18   291 BGC0001712.1_ORF7:gid::pid:PLB46275.1:loc:10504:14843:strand:+ -           1317    2e-108  362.1   2.0   1   1    1e-111  6.1e-108  360.5   0.1     1   290   246   541   246   542 0.98 Hydantoinase/oxoprolinase
+Hydant_A_N           PF05378.13   178 BGC0001712.1_ORF7:gid::pid:PLB46275.1:loc:10504:14843:strand:+ -           1317   8.8e-60  201.5   2.4   1   1   3.7e-62   2.2e-58  196.9   0.1     2   177     8   226     7   227 0.96 Hydantoinase/oxoprolinase N-terminal region
+AMP-binding          PF00501.28   423 BGC0001712.1_ORF8:gid::pid:PLB46276.1:loc:15171:18036:strand:- -            954   2.1e-53  181.4   0.0   1   1   5.6e-57   3.3e-53  180.8   0.0    19   422    48   455    28   456 0.82 AMP-binding enzyme
+Thioesterase         PF00975.20   231 BGC0001712.1_ORF8:gid::pid:PLB46276.1:loc:15171:18036:strand:- -            954   6.3e-26   91.9   0.0   1   1   3.1e-29   1.9e-25   90.4   0.0     2   225   686   943   685   949 0.77 Thioesterase domain
+PP-binding           PF00550.25    67 BGC0001712.1_ORF8:gid::pid:PLB46276.1:loc:15171:18036:strand:- -            954   5.5e-07   29.9   0.1   1   1     2e-10   1.2e-06   28.8   0.1     3    67   594   661   592   661 0.92 Phosphopantetheine attachment site
+Trp_DMAT             PF11991.8    364 BGC0001712.1_ORF9:gid::pid:PLB46277.1:loc:18996:20413:strand:+ -            435   3.1e-83  280.2   0.0   1   1     2e-87   3.6e-83  280.0   0.0     3   357    25   375    23   383 0.92 Tryptophan dimethylallyltransferase
+Aminotran_1_2        PF00155.21   363 BGC0001712.1_ORF11:gid::pid:PLB46279.1:loc:23474:25205:strand:+ -            436   2.3e-20   73.1   0.0   1   1   1.6e-24   2.8e-20   72.8   0.0    37   363    81   422    72   422 0.80 Aminotransferase class I and II
+Methyltransf_23      PF13489.6    165 BGC0001712.1_ORF12:gid::pid:PLB46280.1:loc:25694:26738:strand:- -            261     2e-11   44.0   0.0   1   1   1.8e-15   3.2e-11   43.3   0.0    17   164    17   172     8   173 0.85 Methyltransferase domain
+PGM_PMM_I            PF02878.16   138 BGC0001712.1_ORF13:gid::pid:PLB46281.1:loc:27907:29599:strand:+ -            563   5.8e-17   61.7   0.0   1   1   3.2e-20   1.4e-16   60.4   0.0     2   134    14   157    13   160 0.87 Phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain I
+PGM_PMM_III          PF02880.16   114 BGC0001712.1_ORF13:gid::pid:PLB46281.1:loc:27907:29599:strand:+ -            563   1.3e-08   35.0   0.0   1   1   6.4e-12   2.9e-08   33.9   0.0     2   113   301   420   300   421 0.85 Phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain III
+PGM_PMM_II           PF02879.16   103 BGC0001712.1_ORF13:gid::pid:PLB46281.1:loc:27907:29599:strand:+ -            563   1.6e-07   31.9   0.1   1   1   1.2e-10   5.4e-07   30.2   0.0     2   102   194   292   193   293 0.90 Phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain II
+PGM_PMM_IV           PF00408.20    74 BGC0001712.1_ORF13:gid::pid:PLB46281.1:loc:27907:29599:strand:+ -            563   1.5e-05   25.1   0.0   1   1   9.5e-09   4.3e-05   23.6   0.0    23    64   489   543   469   547 0.70 Phosphoglucomutase/phosphomannomutase, C-terminal domain
+UbiA                 PF01040.18   252 BGC0001712.1_ORF15:gid::pid:PLB46283.1:loc:33508:34570:strand:+ -            334   4.8e-24   85.0  14.0   1   1   2.7e-28   4.8e-24   85.0  14.0     5   246    49   291    45   299 0.73 UbiA prenyltransferase family
+p450                 PF00067.22   463 BGC0001712.1_ORF16:gid::pid:PLB46284.1:loc:35546:37357:strand:+ -            585   1.4e-56  192.2   0.0   1   1   2.6e-60   4.7e-56  190.5   0.0    19   441    79   532    60   537 0.78 Cytochrome P450
+p450                 PF00067.22   463 BGC0001712.1_ORF17:gid::pid:PLB46285.1:loc:39368:41063:strand:+ -            519   7.3e-46  156.9   0.0   1   1   4.9e-50   8.9e-46  156.6   0.0    16   449    57   495    39   506 0.83 Cytochrome P450
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001712.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001712.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001712.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:48:06 2019
+# [ok]

@@ -1,0 +1,60 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="320.6333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="310.6333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (WH38_RS18240)
+ATPase</title>
+			<polygon class=" (WH38_RS18240)
+ATPase" points="108,25 40,25 40,10 10,40 40,70 40,55 108,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AAA_22 (PF13401)
+"AAA domain"</title>
+				<rect class="PF13401" x="67" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(174,224,73)" stroke="rgb(139,179,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>BTAD (PF03704)
+"Bacterial transcriptional activator domain"</title>
+				<rect class="PF03704" x="84" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(217,89,196)" stroke="rgb(173,71,156)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Trans_reg_C (PF00486)
+"Transcriptional regulatory protein, C terminal"</title>
+				<rect class="PF00486" x="99" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(204,153,57)" stroke="rgb(163,122,45)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (WH38_RS18245)
+hypothetical protein</title>
+			<polygon class=" (WH38_RS18245)
+hypothetical protein" points="119,25 123,25 123,10 153,40 123,70 123,55 119,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Trp_DMAT (PF11991)
+"Tryptophan dimethylallyltransferase"</title>
+				<polygon class="PF11991" points="119,28 136,28 139,31 139,49 136,52 119,52" stroke-linejoin="round" width="20" height="24" fill="rgb(197,197,93)" stroke="rgb(157,157,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (WH38_RS18250)
+tryptophanase</title>
+			<polygon class=" (WH38_RS18250)
+tryptophanase" points="156,25 171,25 171,10 201,40 171,70 171,55 156,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Beta_elim_lyase (PF01212)
+"Beta-eliminating lyase"</title>
+				<polygon class="PF01212" points="160,28 185,28 197,40 197,40 185,52 160,52" stroke-linejoin="round" width="37" height="24" fill="rgb(121,182,62)" stroke="rgb(96,145,49)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (WH38_RS18255)
+hypothetical protein</title>
+			<polygon class=" (WH38_RS18255)
+hypothetical protein" points="220,10 231,40 220,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (WH38_RS18260)
+hypothetical protein</title>
+			<polygon class=" (WH38_RS18260)
+hypothetical protein" points="299,10 309,40 299,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

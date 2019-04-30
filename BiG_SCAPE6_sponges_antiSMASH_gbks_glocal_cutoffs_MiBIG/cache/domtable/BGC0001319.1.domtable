@@ -1,0 +1,23 @@
+#                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+UDPGT                PF00201.18   499 BGC0001319.1_ORF1:gid:Solyc07g043410.1:pid::loc:0:1449:strand:- -            482   7.4e-21   74.5   0.0   1   1   7.6e-25   1.4e-20   73.6   0.0   255   415   261   440   240   449 0.72 UDP-glucoronosyl and UDP-glucosyl transferase
+DIOX_N               PF14226.6    118 BGC0001319.1_ORF2:gid:Solyc07g043420.2:pid::loc:50284:51536:strand:+ -            342   5.5e-27   94.9   0.0   1   1   9.8e-31   8.8e-27   94.2   0.0     1   117    37   151    37   156 0.87 non-haem dioxygenase in morphine synthesis N-terminal
+2OG-FeII_Oxy         PF03171.20   101 BGC0001319.1_ORF2:gid:Solyc07g043420.2:pid::loc:50284:51536:strand:+ -            342   5.5e-21   74.9   0.0   1   1   2.1e-24   1.9e-20   73.2   0.0     5   101   197   291   194   291 0.92 2OG-Fe(II) oxygenase superfamily
+p450                 PF00067.22   463 BGC0001319.1_ORF3:gid:Solyc07g043460.2:pid::loc:117217:119076:strand:+ -            516     7e-91  305.3   0.0   1   1   5.8e-95     1e-90  304.7   0.0    25   456    82   504    70   510 0.91 Cytochrome P450
+UDPGT                PF00201.18   499 BGC0001319.1_ORF4:gid:Solyc07g043480.1:pid::loc:139729:141100:strand:+ -            456   3.1e-19   69.2   0.0   1   1   4.7e-23   8.5e-19   67.7   0.0   274   380   253   382   232   403 0.83 UDP-glucoronosyl and UDP-glucosyl transferase
+UDPGT                PF00201.18   499 BGC0001319.1_ORF5:gid:Solyc07g043490.1:pid::loc:188059:189511:strand:+ -            483   1.7e-26   93.1   0.2   1   1   3.4e-30   6.2e-26   91.3   0.2   265   389   272   406    94   445 0.75 UDP-glucoronosyl and UDP-glucosyl transferase
+UDPGT                PF00201.18   499 BGC0001319.1_ORF6:gid:Solyc07g043500.1:pid::loc:207859:209185:strand:+ -            441   4.8e-25   88.3   0.0   1   1   4.7e-29   8.4e-25   87.5   0.0   264   410   241   400   233   413 0.86 UDP-glucoronosyl and UDP-glucosyl transferase
+p450                 PF00067.22   463 BGC0001319.1_ORF7:gid:Solyc07g062520.2:pid::loc:8090150:8093672:strand:+ -            519   3.1e-87  293.3   0.0   1   1   2.4e-91   4.3e-87  292.8   0.0    25   441    86   496    80   512 0.90 Cytochrome P450
+p450                 PF00067.22   463 BGC0001319.1_ORF8:gid:Solyc12g006460.1:pid::loc:8093772:8098465:strand:- -            487   3.6e-57  194.1   0.4   1   1   2.5e-61   4.4e-57  193.8   0.4     2   448    45   471    44   483 0.83 Cytochrome P450
+Aminotran_3          PF00202.21   406 BGC0001319.1_ORF9:gid:Solyc12g006470.1:pid::loc:8116535:8122349:strand:+ -            458   4.7e-95  318.6   0.0   1   1   3.2e-99   5.8e-95  318.3   0.0    10   406    26   443    18   443 0.93 Aminotransferase class-III
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001319.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001319.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001319.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:39:53 2019
+# [ok]

@@ -1,0 +1,110 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="379.93333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="369.93333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg791_6)</title>
+			<polygon class=" (ctg791_6)" points="13,10 21,40 13,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PIN (PF01850)
+"PIN domain"</title>
+				<polygon class="PF01850" points="13,28 14,28 18,40 14,52 13,52" stroke-linejoin="round" width="6" height="24" fill="rgb(91,217,126)" stroke="rgb(72,173,100)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg791_7)</title>
+			<polygon class=" (ctg791_7)" points="40,40 47,10 47,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg791_8)</title>
+			<polygon class=" (ctg791_8)" points="50,40 76,10 76,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PDDEXK_9 (PF08011)
+"PD-(D/E)XK nuclease superfamily"</title>
+				<polygon class="PF08011" points="54,40 59,34 59,46" stroke-linejoin="round" width="9" height="24" fill="rgb(209,74,152)" stroke="rgb(167,59,121)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg791_9)</title>
+			<polygon class=" (ctg791_9)" points="74,40 99,10 99,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AAA-ATPase_like (PF09820)
+"Predicted AAA-ATPase"</title>
+				<polygon class="PF09820" points="78,40 88,28 98,28 98,52 88,52" stroke-linejoin="round" width="24" height="24" fill="rgb(60,130,212)" stroke="rgb(47,103,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg791_10)</title>
+			<polygon class=" (ctg791_10)" points="124,10 133,40 124,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PhdYeFM_antitox (PF02604)
+"Antitoxin Phd_YefM, type II toxin-antitoxin system"</title>
+				<polygon class="PF02604" points="124,28 125,28 129,40 125,52 124,52" stroke-linejoin="round" width="6" height="24" fill="rgb(204,60,69)" stroke="rgb(163,48,55)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg791_11)</title>
+			<polygon class=" (ctg791_11)" points="133,10 146,40 133,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PIN (PF01850)
+"PIN domain"</title>
+				<polygon class="PF01850" points="133,28 137,28 143,40 137,52 133,52" stroke-linejoin="round" width="12" height="24" fill="rgb(91,217,126)" stroke="rgb(72,173,100)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg791_12)</title>
+			<polygon class=" (ctg791_12)" points="151,40 176,10 176,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2063 (PF09836)
+"Putative DNA-binding domain"</title>
+				<rect class="PF09836" x="166" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(88,194,190)" stroke="rgb(70,155,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg791_13)</title>
+			<polygon class=" (ctg791_13)" points="176,40 202,10 202,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF692 (PF05114)
+"Protein of unknown function (DUF692)"</title>
+				<polygon class="PF05114" points="180,40 191,28 202,28 202,52 191,52" stroke-linejoin="round" width="26" height="24" fill="rgb(63,196,127)" stroke="rgb(50,156,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg791_14)</title>
+			<polygon class=" (ctg791_14)" points="330,25 234,25 234,10 204,40 234,70 234,55 330,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF3418 (PF11898)
+"Domain of unknown function (DUF3418)"</title>
+				<polygon class="PF11898" points="208,40 220,28 262,28 262,52 220,52" stroke-linejoin="round" width="58" height="24" fill="rgb(111,68,209)" stroke="rgb(88,54,167)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>OB_NTP_bind (PF07717)
+"Oligonucleotide/oligosaccharide-binding (OB)-fold"</title>
+				<rect class="PF07717" x="264" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(144,74,228)" stroke="rgb(115,59,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HA2 (PF04408)
+"Helicase associated domain (HA2)"</title>
+				<rect class="PF04408" x="276" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(142,68,179)" stroke="rgb(113,54,143)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Helicase_C (PF00271)
+"Helicase conserved C-terminal domain"</title>
+				<rect class="PF00271" x="293" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(104,224,158)" stroke="rgb(83,179,126)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DEAD (PF00270)
+"DEAD/DEAH box helicase"</title>
+				<rect class="PF00270" x="309" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(195,100,62)" stroke="rgb(156,80,49)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg791_15)</title>
+			<polygon class=" (ctg791_15)" points="342,40 350,10 350,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ADP_ribosyl_GH (PF03747)
+"ADP-ribosylglycohydrolase"</title>
+				<polygon class="PF03747" points="345,40 348,28 349,28 349,52 348,52" stroke-linejoin="round" width="5" height="24" fill="rgb(215,124,105)" stroke="rgb(172,99,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

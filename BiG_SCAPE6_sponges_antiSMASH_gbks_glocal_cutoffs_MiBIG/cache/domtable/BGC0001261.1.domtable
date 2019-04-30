@@ -1,0 +1,25 @@
+#                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.28   423 BGC0001261.1_ORF1:gid:AMT:pid:AAF01762.1:loc:987:14070:strand:+ -           4360  1.6e-193  643.1   0.0   1   3   9.1e-69   4.1e-65  220.0   0.0     2   417   278   670   277   678 0.85 AMP-binding enzyme
+AMP-binding          PF00501.28   423 BGC0001261.1_ORF1:gid:AMT:pid:AAF01762.1:loc:987:14070:strand:+ -           4360  1.6e-193  643.1   0.0   2   3   2.1e-72   9.4e-69  232.0   0.0     3   422  1367  1764  1365  1765 0.87 AMP-binding enzyme
+AMP-binding          PF00501.28   423 BGC0001261.1_ORF1:gid:AMT:pid:AAF01762.1:loc:987:14070:strand:+ -           4360  1.6e-193  643.1   0.0   3   3   3.2e-55   1.4e-51  175.4   0.0     2   423  2446  2850  2445  2850 0.82 AMP-binding enzyme
+Condensation         PF00668.20   457 BGC0001261.1_ORF1:gid:AMT:pid:AAF01762.1:loc:987:14070:strand:+ -           4360    1e-145  486.0   0.0   1   4     5e-44   2.2e-40  138.7   0.0     2   450   925  1339   924  1345 0.78 Condensation domain
+Condensation         PF00668.20   457 BGC0001261.1_ORF1:gid:AMT:pid:AAF01762.1:loc:987:14070:strand:+ -           4360    1e-145  486.0   0.0   2   4   1.4e-41   6.1e-38  130.7   0.0     2   449  1998  2408  1997  2411 0.84 Condensation domain
+Condensation         PF00668.20   457 BGC0001261.1_ORF1:gid:AMT:pid:AAF01762.1:loc:987:14070:strand:+ -           4360    1e-145  486.0   0.0   3   4   7.8e-39   3.5e-35  121.6   0.0     1   449  3095  3500  3095  3507 0.84 Condensation domain
+Condensation         PF00668.20   457 BGC0001261.1_ORF1:gid:AMT:pid:AAF01762.1:loc:987:14070:strand:+ -           4360    1e-145  486.0   0.0   4   4     1e-25   4.7e-22   78.3   0.0     2   341  3847  4201  3846  4237 0.81 Condensation domain
+PP-binding           PF00550.25    67 BGC0001261.1_ORF1:gid:AMT:pid:AAF01762.1:loc:987:14070:strand:+ -           4360   5.9e-55  183.5   2.4   1   4     6e-20   2.7e-16   59.7   0.1     1    65   817   881   817   882 0.98 Phosphopantetheine attachment site
+PP-binding           PF00550.25    67 BGC0001261.1_ORF1:gid:AMT:pid:AAF01762.1:loc:987:14070:strand:+ -           4360   5.9e-55  183.5   2.4   2   4   2.4e-12   1.1e-08   35.3   0.0     3    67  1892  1956  1890  1956 0.95 Phosphopantetheine attachment site
+PP-binding           PF00550.25    67 BGC0001261.1_ORF1:gid:AMT:pid:AAF01762.1:loc:987:14070:strand:+ -           4360   5.9e-55  183.5   2.4   3   4   1.2e-14   5.2e-11   42.7   0.0     2    66  2982  3045  2981  3046 0.97 Phosphopantetheine attachment site
+PP-binding           PF00550.25    67 BGC0001261.1_ORF1:gid:AMT:pid:AAF01762.1:loc:987:14070:strand:+ -           4360   5.9e-55  183.5   2.4   4   4   2.6e-14   1.2e-10   41.6   0.0     2    64  3735  3796  3734  3797 0.97 Phosphopantetheine attachment site
+AMP-binding_C        PF13193.6     76 BGC0001261.1_ORF1:gid:AMT:pid:AAF01762.1:loc:987:14070:strand:+ -           4360   6.8e-15   55.8   1.0   1   1   7.1e-10   3.2e-06   28.0   0.0     1    76  1773  1855  1773  1855 0.83 AMP-binding enzyme C-terminal domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001261.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001261.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001261.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:52:43 2019
+# [ok]

@@ -1,0 +1,97 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="287.3333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="277.3333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg6833_1)</title>
+			<polygon class=" (ctg6833_1)" points="10,40 16,10 16,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>F420_oxidored (PF03807)
+"NADP oxidoreductase coenzyme F420-dependent"</title>
+				<polygon class="PF03807" points="13,40 16,28 16,28 16,52 16,52" stroke-linejoin="round" width="6" height="24" fill="rgb(194,51,111)" stroke="rgb(155,40,88)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6833_2)</title>
+			<polygon class=" (ctg6833_2)" points="20,40 44,10 44,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ala_racemase_N (PF01168)
+"Alanine racemase, N-terminal domain"</title>
+				<polygon class="PF01168" points="24,40 34,28 41,28 41,52 34,52" stroke-linejoin="round" width="21" height="24" fill="rgb(87,82,180)" stroke="rgb(69,65,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6833_3)</title>
+			<polygon class=" (ctg6833_3)" points="44,40 70,10 70,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cu-oxidase_4 (PF02578)
+"Multi-copper polyphenol oxidoreductase laccase"</title>
+				<polygon class="PF02578" points="48,40 59,28 67,28 67,52 59,52" stroke-linejoin="round" width="23" height="24" fill="rgb(184,50,122)" stroke="rgb(147,40,97)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6833_4)</title>
+			<polygon class=" (ctg6833_4)" points="116,25 108,25 108,10 78,40 108,70 108,55 116,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FtsZ_C (PF12327)
+"FtsZ family, C-terminal domain"</title>
+				<polygon class="PF12327" points="84,38 93,29 93,51 84,42" stroke-linejoin="round" width="9" height="24" fill="rgb(147,202,55)" stroke="rgb(117,161,44)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Tubulin (PF00091)
+"Tubulin/FtsZ family, GTPase domain"</title>
+				<rect class="PF00091" x="98" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(201,222,73)" stroke="rgb(160,177,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6833_5)</title>
+			<polygon class=" (ctg6833_5)" points="159,25 148,25 148,10 118,40 148,70 148,55 159,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FtsA (PF14450)
+"Cell division protein FtsA"</title>
+				<polygon class="PF14450" points="122,40 134,28 138,28 138,52 134,52 122,40" stroke-linejoin="round" width="16" height="24" fill="rgb(196,216,102)" stroke="rgb(156,172,81)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SHS2_FTSA (PF02491)
+"SHS2 domain inserted in FTSA"</title>
+				<rect class="PF02491" x="143" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(130,65,203)" stroke="rgb(103,52,162)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6833_6)</title>
+			<polygon class=" (ctg6833_6)" points="159,40 175,10 175,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg6833_7)</title>
+			<polygon class=" (ctg6833_7)" points="177,40 202,10 202,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GFO_IDH_MocA (PF01408)
+"Oxidoreductase family, NAD-binding Rossmann fold"</title>
+				<polygon class="PF01408" points="190,29 191,28 202,28 202,52 191,52 190,51" stroke-linejoin="round" width="12" height="24" fill="rgb(76,117,190)" stroke="rgb(60,93,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6833_8)</title>
+			<polygon class=" (ctg6833_8)" points="204,25 234,25 234,10 264,40 234,70 234,55 204,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Prenyltrans (PF00432)
+"Prenyltransferase and squalene oxidase repeat"</title>
+				<rect class="PF00432" x="209" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(218,215,79)" stroke="rgb(174,172,63)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SQHop_cyclase_C (PF13243)
+"Squalene-hopene cyclase C-terminal domain"</title>
+				<rect class="PF13243" x="226" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(191,58,201)" stroke="rgb(152,46,160)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SQHop_cyclase_C (PF13243)
+"Squalene-hopene cyclase C-terminal domain"</title>
+				<rect class="PF13243" x="235" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(191,58,201)" stroke="rgb(152,46,160)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SQHop_cyclase_C (PF13243)
+"Squalene-hopene cyclase C-terminal domain"</title>
+				<polygon class="PF13243" points="246,28 248,28 260,40 248,52 246,52" stroke-linejoin="round" width="17" height="24" fill="rgb(191,58,201)" stroke="rgb(152,46,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

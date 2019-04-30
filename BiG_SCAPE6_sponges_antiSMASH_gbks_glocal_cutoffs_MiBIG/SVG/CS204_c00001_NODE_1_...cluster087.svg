@@ -1,0 +1,171 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="644.4" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="634.4" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg1986_11)</title>
+			<polygon class=" (ctg1986_11)" points="18,10 25,40 18,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1986_12)</title>
+			<polygon class=" (ctg1986_12)" points="29,40 38,10 38,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>N6_N4_Mtase (PF01555)
+"DNA methylase"</title>
+				<polygon class="PF01555" points="32,40 36,28 38,28 38,52 36,52" stroke-linejoin="round" width="9" height="24" fill="rgb(54,198,162)" stroke="rgb(43,158,129)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1986_13)</title>
+			<polygon class=" (ctg1986_13)" points="44,40 54,10 54,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1986_14)</title>
+			<polygon class=" (ctg1986_14)" points="119,25 86,25 86,10 56,40 86,70 86,55 119,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1986_15)</title>
+			<polygon class=" (ctg1986_15)" points="121,25 162,25 162,10 192,40 162,70 162,55 121,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DNA_ligase_aden (PF01653)
+"NAD-dependent DNA ligase adenylation domain"</title>
+				<rect class="PF01653" x="125" y="28" stroke-linejoin="round" width="31" height="24" fill="rgb(49,184,68)" stroke="rgb(39,147,54)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DNA_ligase_OB (PF03120)
+"NAD-dependent DNA ligase OB-fold domain"</title>
+				<rect class="PF03120" x="156" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(67,220,154)" stroke="rgb(53,176,123)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HHH_2 (PF12826)
+"Helix-hairpin-helix motif"</title>
+				<polygon class="PF12826" points="175,28 175,28 181,34 181,46 175,52 175,52" stroke-linejoin="round" width="6" height="24" fill="rgb(223,81,103)" stroke="rgb(178,64,82)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>BRCT (PF00533)
+"BRCA1 C Terminus (BRCT) domain"</title>
+				<polygon class="PF00533" points="184,37 187,40 184,43" stroke-linejoin="round" width="6" height="24" fill="rgb(69,217,144)" stroke="rgb(55,173,115)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1986_16)</title>
+			<polygon class=" (ctg1986_16)" points="192,25 218,25 218,10 248,40 218,70 218,55 192,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HHH_8 (PF14716)
+"Helix-hairpin-helix domain"</title>
+				<rect class="PF14716" x="192" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(83,210,138)" stroke="rgb(66,168,110)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HHH_5 (PF14520)
+"Helix-hairpin-helix domain"</title>
+				<rect class="PF14520" x="201" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(118,220,87)" stroke="rgb(94,176,69)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DNA_pol_B_thumb (PF14791)
+"DNA polymerase beta thumb"</title>
+				<rect class="PF14791" x="216" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(79,147,211)" stroke="rgb(63,117,168)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PHP (PF02811)
+"PHP domain"</title>
+				<polygon class="PF02811" points="225,28 232,28 244,40 244,40 232,52 225,52" stroke-linejoin="round" width="19" height="24" fill="rgb(167,87,219)" stroke="rgb(133,69,175)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1986_17)</title>
+			<polygon class=" (ctg1986_17)" points="248,25 250,25 250,10 280,40 250,70 250,55 248,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Na_Ca_ex (PF01699)
+"Sodium/calcium exchanger protein"</title>
+				<rect class="PF01699" x="248" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(64,189,136)" stroke="rgb(51,151,108)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Na_Ca_ex (PF01699)
+"Sodium/calcium exchanger protein"</title>
+				<polygon class="PF01699" points="265,29 276,40 265,51" stroke-linejoin="round" width="14" height="24" fill="rgb(64,189,136)" stroke="rgb(51,151,108)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1986_18)</title>
+			<polygon class=" (ctg1986_18)" points="280,25 293,25 293,10 323,40 293,70 293,55 280,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_3 (PF00202)
+"Aminotransferase class-III"</title>
+				<polygon class="PF00202" points="282,28 306,28 318,40 306,52 282,52" stroke-linejoin="round" width="39" height="24" fill="rgb(49,163,189)" stroke="rgb(39,130,151)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1986_19)</title>
+			<polygon class=" (ctg1986_19)" points="327,10 334,40 327,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1986_20)</title>
+			<polygon class=" (ctg1986_20)" points="343,25 343,25 343,10 373,40 343,70 343,55 343,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="343,28 357,28 369,40 357,52 343,52" stroke-linejoin="round" width="27" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1986_21)</title>
+			<polygon class=" (ctg1986_21)" points="390,40 399,10 399,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1986_22)</title>
+			<polygon class=" (ctg1986_22)" points="398,40 406,10 406,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1986_23)</title>
+			<polygon class=" (ctg1986_23)" points="421,10 434,40 421,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1986_24)</title>
+			<polygon class=" (ctg1986_24)" points="440,40 446,10 446,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1986_25)</title>
+			<polygon class=" (ctg1986_25)" points="452,10 479,40 452,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1986_26)</title>
+			<polygon class=" (ctg1986_26)" points="482,40 489,10 489,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1986_27)</title>
+			<polygon class=" (ctg1986_27)" points="492,10 502,40 492,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Sigma70_r4_2 (PF08281)
+"Sigma-70, region 4"</title>
+				<polygon class="PF08281" points="495,28 499,40 495,52" stroke-linejoin="round" width="5" height="24" fill="rgb(222,103,144)" stroke="rgb(177,82,115)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1986_28)</title>
+			<polygon class=" (ctg1986_28)" points="503,40 509,10 509,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1986_29)</title>
+			<polygon class=" (ctg1986_29)" points="516,25 516,25 516,10 546,40 516,70 516,55 516,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1986_30)</title>
+			<polygon class=" (ctg1986_30)" points="547,10 565,40 547,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1986_31)</title>
+			<polygon class=" (ctg1986_31)" points="565,10 569,40 565,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1986_32)</title>
+			<polygon class=" (ctg1986_32)" points="570,10 577,40 570,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1986_33)</title>
+			<polygon class=" (ctg1986_33)" points="619,25 610,25 610,10 580,40 610,70 610,55 619,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1986_34)</title>
+			<polygon class=" (ctg1986_34)" points="625,10 633,40 625,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

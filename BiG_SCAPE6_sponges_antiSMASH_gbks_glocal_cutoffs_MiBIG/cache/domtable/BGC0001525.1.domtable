@@ -1,0 +1,26 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Glycos_transf_1      PF00534.20   172 BGC0001525.1_ORF1:gid::pid:AKV71846.1:loc:0:1674:strand:- -            557   6.9e-17   61.5   0.0   1   1   2.9e-18   2.6e-14   53.1   0.0     3   143   207   352   205   359 0.82 Glycosyl transferases group 1
+Glyco_trans_1_4      PF13692.6    134 BGC0001525.1_ORF1:gid::pid:AKV71846.1:loc:0:1674:strand:- -            557   8.9e-13   48.8   0.0   1   1   1.9e-16   1.7e-12   47.9   0.0     3   119   221   352   219   366 0.79 Glycosyl transferases group 1
+ACP_syn_III_C        PF08541.10    90 BGC0001525.1_ORF4:gid::pid:AKV71849.1:loc:6021:7173:strand:+ -            383   1.7e-09   37.7   0.0   1   1   4.9e-13   4.4e-09   36.4   0.0     3    73   289   364   288   366 0.89 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal
+UDPGT                PF00201.18   499 BGC0001525.1_ORF5:gid::pid:AKV71850.1:loc:7259:8522:strand:+ -            420     2e-23   83.0   0.0   1   1   2.1e-24   1.3e-20   73.7   0.0   232   418   209   394   182   401 0.83 UDP-glucoronosyl and UDP-glucosyl transferase
+Glyco_tran_28_C      PF04101.16   167 BGC0001525.1_ORF5:gid::pid:AKV71850.1:loc:7259:8522:strand:+ -            420   1.8e-09   37.8   0.0   1   1   4.6e-13   2.7e-09   37.2   0.0    54   155   296   395   263   411 0.84 Glycosyltransferase family 28 C-terminal domain
+UDPGT                PF00201.18   499 BGC0001525.1_ORF6:gid::pid:AKV71851.1:loc:8597:9845:strand:+ -            415   2.1e-20   73.0   0.0   1   1   6.9e-24   6.2e-20   71.5   0.0    95   420    85   396    75   412 0.78 UDP-glucoronosyl and UDP-glucosyl transferase
+Glyco_tran_28_C      PF04101.16   167 BGC0001525.1_ORF6:gid::pid:AKV71851.1:loc:8597:9845:strand:+ -            415   3.6e-05   23.8   0.0   1   1   6.3e-09   5.6e-05   23.2   0.0    32   141   280   381   259   410 0.74 Glycosyltransferase family 28 C-terminal domain
+HlyD_3               PF13437.6    106 BGC0001525.1_ORF7:gid::pid:AKV71852.1:loc:10080:11433:strand:+ -            450   5.1e-09   36.8  14.1   1   1   1.9e-09   1.1e-05   26.0   0.1     2    82   324   401   323   435 0.81 HlyD family secretion protein
+HlyD_D23             PF16576.5    214 BGC0001525.1_ORF7:gid::pid:AKV71852.1:loc:10080:11433:strand:+ -            450   4.2e-09   35.9  16.8   1   1   4.4e-12   2.7e-08   33.3   4.8    52   187   258   398   238   402 0.85 Barrel-sandwich domain of CusB or HlyD membrane-fusion
+Biotin_lipoyl_2      PF13533.6     50 BGC0001525.1_ORF7:gid::pid:AKV71852.1:loc:10080:11433:strand:+ -            450   1.2e-07   31.5   2.2   1   1     2e-11   1.2e-07   31.5   2.2     2    39    84   126    83   152 0.74 Biotin-lipoyl like
+FtsX                 PF02687.21    96 BGC0001525.1_ORF8:gid::pid:AKV71853.1:loc:11595:12765:strand:+ -            389   4.4e-10   39.9   0.7   1   1   2.5e-14   4.4e-10   39.9   0.7     2    91   297   379   296   384 0.90 FtsX-like permease family
+ABC_tran             PF00005.27   137 BGC0001525.1_ORF9:gid::pid:AKV71854.1:loc:12817:13495:strand:+ -            225   5.1e-32  111.2   0.0   1   1   1.2e-35   7.3e-32  110.7   0.0     3   137    26   173    24   173 0.89 ABC transporter
+Beta_helix           PF13229.6    158 BGC0001525.1_ORF11:gid::pid:AKV71856.1:loc:14895:16392:strand:- -            498   9.1e-11   41.8  50.9   1   1   2.1e-13   3.8e-09   36.6  15.4     3   147    99   249    97   264 0.88 Right handed beta helix region
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001525.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001525.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001525.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:51:55 2019
+# [ok]

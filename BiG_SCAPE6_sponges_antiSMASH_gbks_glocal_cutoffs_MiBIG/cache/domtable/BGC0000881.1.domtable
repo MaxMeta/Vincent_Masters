@@ -1,0 +1,34 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AAA_16               PF13191.6    170 BGC0000881.1_ORF1:gid:tymA:pid:AFV92621.1:loc:83:2960:strand:+ -            958   4.4e-19   69.5   0.4   1   1   4.9e-23   4.4e-19   69.5   0.4     3   162    13   169    11   177 0.70 AAA ATPase domain
+GerE                 PF00196.19    57 BGC0000881.1_ORF1:gid:tymA:pid:AFV92621.1:loc:83:2960:strand:+ -            958   2.6e-12   46.1   0.0   1   1   5.8e-16   5.2e-12   45.1   0.0     3    52   889   938   887   943 0.95 Bacterial regulatory proteins, luxR family
+QueC                 PF06508.13   210 BGC0000881.1_ORF2:gid:tymM:pid:AFV92622.1:loc:3115:3832:strand:+ -            238   3.5e-58  196.6   0.0   1   1   6.7e-62     4e-58  196.4   0.0     1   209    12   220    12   221 0.95 Queuosine biosynthesis protein QueC
+Asn_synthase         PF00733.21   355 BGC0000881.1_ORF2:gid:tymM:pid:AFV92622.1:loc:3115:3832:strand:+ -            238   9.8e-11   41.9   0.2   1   1   2.4e-14   1.5e-10   41.3   0.2    22    80    15    72    10    78 0.93 Asparagine synthase
+ATP_bind_3           PF01171.20   182 BGC0000881.1_ORF2:gid:tymM:pid:AFV92622.1:loc:3115:3832:strand:+ -            238   4.7e-05   23.2   0.1   1   1   2.7e-08   0.00016   21.5   0.1     3    48    14    55    12    79 0.76 PP-loop family
+HAD_2                PF13419.6    178 BGC0000881.1_ORF3:gid:tymI:pid:AFV92623.1:loc:3935:4595:strand:- -            219   7.8e-09   35.9   0.0   1   1   2.6e-12   1.5e-08   34.9   0.0     4   178     3   181     1   181 0.81 Haloacid dehalogenase-like hydrolase
+Hydrolase_like       PF13242.6     75 BGC0000881.1_ORF3:gid:tymI:pid:AFV92623.1:loc:3935:4595:strand:- -            219   1.6e-08   34.4   0.1   1   1   6.3e-12   3.8e-08   33.3   0.1    10    74   143   207   139   208 0.85 HAD-hyrolase-like
+HAD                  PF12710.7    188 BGC0000881.1_ORF3:gid:tymI:pid:AFV92623.1:loc:3935:4595:strand:- -            219     1e-07   32.6   0.5   1   1   3.2e-11   1.9e-07   31.7   0.5     4   188     3   172     1   172 0.64 haloacid dehalogenase-like hydrolase
+Pribosyltran         PF00156.27   159 BGC0000881.1_ORF4:gid:tymH:pid:AFV92624.1:loc:4639:5146:strand:- -            168   8.8e-20   70.8   0.0   1   1   6.7e-24   1.2e-19   70.4   0.0    13   153    17   154    10   157 0.85 Phosphoribosyl transferase domain
+Adenylsucc_synt      PF00709.21   419 BGC0000881.1_ORF5:gid:tymG:pid:AFV92625.1:loc:5157:6213:strand:- -            351   4.6e-73  246.5   0.5   1   2   5.5e-34   9.8e-30  103.8   0.0     1   149     4   146     4   148 0.94 Adenylosuccinate synthetase
+Adenylsucc_synt      PF00709.21   419 BGC0000881.1_ORF5:gid:tymG:pid:AFV92625.1:loc:5157:6213:strand:- -            351   4.6e-73  246.5   0.5   2   2   2.1e-40   3.7e-36  124.9   0.4   193   334   148   287   142   294 0.95 Adenylosuccinate synthetase
+Lyase_1              PF00206.20   312 BGC0000881.1_ORF6:gid:tymF:pid:AFV92626.1:loc:6197:7583:strand:- -            461   2.9e-45  155.0   0.0   1   1   5.2e-49   4.7e-45  154.3   0.0     7   306    12   292     8   296 0.89 Lyase
+ADSL_C               PF10397.9     73 BGC0000881.1_ORF6:gid:tymF:pid:AFV92626.1:loc:6197:7583:strand:- -            461   2.6e-10   40.7   5.2   1   1   3.4e-12     3e-08   34.1   2.6     4    70   365   437   364   442 0.92 Adenylosuccinate lyase C-terminus
+IMPDH                PF00478.25   345 BGC0000881.1_ORF7:gid:tymE:pid:AFV92627.1:loc:7579:8725:strand:- -            381  1.9e-118  395.4   5.0   1   1  3.6e-122  2.2e-118  395.2   5.0     1   345     9   363     9   363 0.95 IMP dehydrogenase / GMP reductase domain
+NMO                  PF03060.15   331 BGC0000881.1_ORF7:gid:tymE:pid:AFV92627.1:loc:7579:8725:strand:- -            381   1.5e-08   34.4  19.5   1   1     4e-11   2.4e-07   30.5  19.4     8   236    39   264    33   269 0.73 Nitronate monooxygenase
+FMN_dh               PF01070.18   348 BGC0000881.1_ORF7:gid:tymE:pid:AFV92627.1:loc:7579:8725:strand:- -            381   9.6e-08   31.4  18.3   1   1   1.9e-10   1.1e-06   27.9   9.7   203   303   145   253   115   264 0.79 FMN-dependent dehydrogenase
+GTP_cyclohydroI      PF01227.22   179 BGC0000881.1_ORF8:gid:tymD:pid:AFV92628.1:loc:8759:9365:strand:- -            201   5.2e-52  175.9   0.0   1   1   3.6e-56   6.4e-52  175.6   0.0     3   176    26   194    24   196 0.91 GTP cyclohydrolase I
+Radical_SAM          PF04055.21   167 BGC0000881.1_ORF9:gid:tymC:pid:AFV92630.1:loc:9361:9991:strand:- -            209     2e-10   41.3   0.0   1   1   7.8e-14   4.7e-10   40.1   0.0     5   109     4   110     2   169 0.88 Radical SAM superfamily
+Fer4_14              PF13394.6    118 BGC0000881.1_ORF9:gid:tymC:pid:AFV92630.1:loc:9361:9991:strand:- -            209   1.5e-10   41.3   0.0   1   1   6.7e-14     4e-10   39.8   0.0     3    92     1    94     1   116 0.76 4Fe-4S single cluster domain
+Fer4_12              PF13353.6    139 BGC0000881.1_ORF9:gid:tymC:pid:AFV92630.1:loc:9361:9991:strand:- -            209   2.1e-08   34.5   0.0   1   1   4.9e-12   2.9e-08   34.1   0.0    11    98     2    96     1   129 0.74 4Fe-4S single cluster domain
+PTPS                 PF01242.19   123 BGC0000881.1_ORF10:gid:tymB:pid:AFV92629.1:loc:10130:10493:strand:- -            120   8.6e-31  106.5   0.0   1   1   5.3e-35   9.5e-31  106.3   0.0     1   121     4   119     4   120 0.94 6-pyruvoyl tetrahydropterin synthase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000881.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000881.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000881.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:51:41 2019
+# [ok]

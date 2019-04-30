@@ -1,0 +1,25 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+LYTB                 PF02401.18   264 CS204_c00001_NODE_1_...cluster188_ORF1:gid::pid::loc:2:572:strand:- -            190   1.8e-53  181.5   0.1   1   1   1.1e-57     2e-53  181.4   0.1     1   157    22   190    22   190 0.94 LytB protein
+SQS_PSY              PF00494.19   263 CS204_c00001_NODE_1_...cluster188_ORF2:gid::pid::loc:647:1751:strand:- -            367   3.6e-50  170.9   0.0   1   1   2.4e-54   4.2e-50  170.7   0.0     2   262    34   324    33   325 0.86 Squalene/phytoene synthase
+STAS                 PF01740.21   117 CS204_c00001_NODE_1_...cluster188_ORF3:gid::pid::loc:2324:2711:strand:+ -            128   2.1e-14   53.1   0.1   1   1   2.8e-18   2.5e-14   52.9   0.1     4   106    20   114    17   124 0.92 STAS domain
+STAS_2               PF13466.6     80 CS204_c00001_NODE_1_...cluster188_ORF3:gid::pid::loc:2324:2711:strand:+ -            128   4.4e-10   39.8   0.0   1   1   9.7e-14   8.7e-10   38.8   0.0     1    80    30   110    30   110 0.95 STAS domain
+STAS                 PF01740.21   117 CS204_c00001_NODE_1_...cluster188_ORF4:gid::pid::loc:2818:3172:strand:+ -            117   4.7e-15   55.3   0.1   1   1   5.5e-19     5e-15   55.2   0.1     4   107    10   105     7   115 0.92 STAS domain
+STAS_2               PF13466.6     80 CS204_c00001_NODE_1_...cluster188_ORF4:gid::pid::loc:2818:3172:strand:+ -            117   1.9e-10   40.9   0.0   1   1   2.6e-14   2.3e-10   40.7   0.0     2    80    20    99    19    99 0.95 STAS domain
+HATPase_c            PF02518.26   112 CS204_c00001_NODE_1_...cluster188_ORF5:gid::pid::loc:3176:5381:strand:- -            734   1.7e-18   67.1   0.0   1   1   7.2e-22   4.3e-18   65.8   0.0     4   111   590   710   588   711 0.80 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+HAMP                 PF00672.25    53 CS204_c00001_NODE_1_...cluster188_ORF5:gid::pid::loc:3176:5381:strand:- -            734     5e-12   46.0   1.7   1   1   8.3e-16     5e-12   46.0   1.7     2    51   355   404   354   406 0.94 HAMP domain
+HisKA                PF00512.25    67 CS204_c00001_NODE_1_...cluster188_ORF5:gid::pid::loc:3176:5381:strand:- -            734   9.6e-12   44.8   0.0   1   1   1.6e-15   9.6e-12   44.8   0.0     1    66   449   541   449   542 0.85 His Kinase A (phospho-acceptor) domain
+Peripla_BP_6         PF13458.6    342 CS204_c00001_NODE_1_...cluster188_ORF6:gid::pid::loc:5397:6549:strand:- -            383   1.9e-56  192.2   0.4   1   1   3.6e-60   2.2e-56  192.0   0.4     2   341    25   368    24   369 0.90 Periplasmic binding protein
+ANF_receptor         PF01094.28   354 CS204_c00001_NODE_1_...cluster188_ORF6:gid::pid::loc:5397:6549:strand:- -            383   2.8e-17   62.9   0.0   1   1   5.8e-21   3.5e-17   62.6   0.0     5   215    47   256    43   293 0.88 Receptor family ligand binding region
+Peripla_BP_5         PF13433.6    364 CS204_c00001_NODE_1_...cluster188_ORF6:gid::pid::loc:5397:6549:strand:- -            383   2.5e-07   30.0   0.0   1   1   5.4e-11   3.3e-07   29.6   0.0     9   193    33   219    25   232 0.81 Periplasmic binding protein domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS204_c00001_NODE_1_...cluster188.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS204_c00001_NODE_1_...cluster188.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS204_c00001_NODE_1_...cluster188.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:41:07 2019
+# [ok]

@@ -1,0 +1,24 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AsnC_trans_reg       PF01037.21    75 BGC0000918.1_ORF1:gid::pid:BAB69149.1:loc:0:513:strand:- -            170   1.7e-13   50.3   0.0   1   1   4.2e-17   2.5e-13   49.8   0.0     4    74    82   148    79   149 0.94 Lrp/AsnC ligand binding domain
+HTH_AsnC-type        PF13404.6     42 BGC0000918.1_ORF1:gid::pid:BAB69149.1:loc:0:513:strand:- -            170     1e-09   38.0   3.0   1   1   3.3e-13     2e-09   37.1   3.0     1    42    13    54    13    54 0.98 AsnC-type helix-turn-helix domain
+HTH_24               PF13412.6     48 BGC0000918.1_ORF1:gid::pid:BAB69149.1:loc:0:513:strand:- -            170   8.7e-10   38.0   0.2   1   1   2.3e-13   1.4e-09   37.4   0.2     2    48    14    60    13    60 0.97 Winged helix-turn-helix DNA-binding
+Glyoxalase           PF00903.25   128 BGC0000918.1_ORF2:gid:hpd:pid:BAB69150.1:loc:605:1751:strand:+ -            381   6.1e-24   84.6   1.0   1   2   3.3e-09     2e-05   24.8   0.2     1   106    22   129    22   143 0.82 Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily
+Glyoxalase           PF00903.25   128 BGC0000918.1_ORF2:gid:hpd:pid:BAB69150.1:loc:605:1751:strand:+ -            381   6.1e-24   84.6   1.0   2   2   1.2e-19   7.4e-16   58.5   0.0     2   128   185   335   184   335 0.93 Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily
+TPR_14               PF13428.6     44 BGC0000918.1_ORF3:gid::pid:BAB69151.1:loc:1896:3486:strand:- -            529   1.3e-09   38.1  68.3   1   1     2e-08   5.1e-05   23.7   1.5     4    38   247   281   244   284 0.93 Tetratricopeptide repeat
+TPR_16               PF13432.6     68 BGC0000918.1_ORF3:gid::pid:BAB69151.1:loc:1896:3486:strand:- -            529   3.7e-09   37.1  21.9   1   2   4.3e-11   1.1e-07   32.4   4.1     3    53   250   297   249   298 0.96 Tetratricopeptide repeat
+TPR_16               PF13432.6     68 BGC0000918.1_ORF3:gid::pid:BAB69151.1:loc:1896:3486:strand:- -            529   3.7e-09   37.1  21.9   2   2   7.4e-07    0.0019   18.8   9.8     3    56   284   334   282   340 0.89 Tetratricopeptide repeat
+TPR_8                PF13181.6     34 BGC0000918.1_ORF3:gid::pid:BAB69151.1:loc:1896:3486:strand:- -            529   8.6e-08   31.8  19.5   1   1   1.2e-05      0.03   14.5   0.0     3    33   246   276   244   277 0.94 Tetratricopeptide repeat
+FAD-oxidase_C        PF02913.19   250 BGC0000918.1_ORF4:gid::pid:BAB69152.1:loc:3584:4994:strand:+ -            469   3.1e-67  226.8   0.2   1   1   4.5e-71     4e-67  226.5   0.2     2   250   230   468   229   468 0.97 FAD linked oxidases, C-terminal domain
+FAD_binding_4        PF01565.23   139 BGC0000918.1_ORF4:gid::pid:BAB69152.1:loc:3584:4994:strand:+ -            469   1.5e-38  131.7   0.8   1   1   3.5e-42   3.2e-38  130.6   0.8     1   138    54   192    54   193 0.98 FAD binding domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000918.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000918.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000918.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:42:28 2019
+# [ok]

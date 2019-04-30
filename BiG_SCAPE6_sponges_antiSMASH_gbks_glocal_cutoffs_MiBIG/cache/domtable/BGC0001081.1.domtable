@@ -1,0 +1,23 @@
+#                                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                       accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                             -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+polyprenyl_synt      PF00348.17   256 BGC0001081.1_ORF1:gid:ltmG:pid:AAW88510.1:loc:2621:3731:strand:+ -            334   1.1e-59  201.6   0.0   1   1   7.1e-64   1.3e-59  201.4   0.0     2   255    38   278    37   279 0.95 Polyprenyl synthetase
+FAD_binding_3        PF01494.19   349 BGC0001081.1_ORF2:gid:ltmM:pid:AAW88511.1:loc:7087:8734:strand:+ -            472   1.6e-29  103.2   0.0   1   1   3.2e-33   5.7e-29  101.5   0.0     2   322     5   337     4   346 0.74 FAD binding domain
+p450                 PF00067.22   463 BGC0001081.1_ORF3:gid:ltmK:pid:AAW88512.1:loc:10639:12702:strand:+ -            533   2.3e-28   99.2   0.1   1   1   1.6e-32   2.9e-28   98.8   0.1   172   445   219   505   150   517 0.79 Cytochrome P450
+Trp_DMAT             PF11991.8    364 BGC0001081.1_ORF4:gid:ltmE:pid:ABF20220.1:loc:13762:16306:strand:+ -            788   2.6e-82  277.1   0.0   1   1   3.9e-86   3.5e-82  276.7   0.0     1   359   348   718   348   723 0.90 Tryptophan dimethylallyltransferase
+polyprenyl_synt      PF00348.17   256 BGC0001081.1_ORF4:gid:ltmE:pid:ABF20220.1:loc:13762:16306:strand:+ -            788   1.3e-26   93.2   0.0   1   1   2.2e-30     2e-26   92.6   0.0     6   250     7   241     2   248 0.84 Polyprenyl synthetase
+p450                 PF00067.22   463 BGC0001081.1_ORF5:gid:ltmJ:pid:ABF20221.1:loc:17131:19076:strand:+ -            525   3.2e-30  105.3   0.0   1   1   2.4e-34   4.4e-30  104.8   0.0   135   459   174   512   134   515 0.83 Cytochrome P450
+p450                 PF00067.22   463 BGC0001081.1_ORF6:gid:ltmP:pid:ABF20222.1:loc:35141:36970:strand:- -            498   1.4e-35  123.0   0.1   1   1   9.9e-40   1.8e-35  122.6   0.1   137   440   159   463    97   485 0.81 Cytochrome P450
+p450                 PF00067.22   463 BGC0001081.1_ORF7:gid:ltmQ:pid:ABF20223.1:loc:38629:40643:strand:+ -            537   9.7e-42  143.3   0.1   1   1   7.3e-46   1.3e-41  142.8   0.1    44   460    99   524    41   527 0.80 Cytochrome P450
+Trp_DMAT             PF11991.8    364 BGC0001081.1_ORF8:gid:ltmF:pid:ABF20224.1:loc:41692:43188:strand:+ -            439   4.1e-80  269.9   0.0   1   1   2.7e-84   4.8e-80  269.7   0.0     3   361    21   383    19   386 0.90 Tryptophan dimethylallyltransferase
+polyprenyl_synt      PF00348.17   256 BGC0001081.1_ORF9:gid:ltmC:pid:ABF20225.1:loc:43750:44865:strand:- -            345     2e-20   72.9   0.0   1   1   1.7e-24     3e-20   72.4   0.0    37   255    97   307    69   308 0.81 Polyprenyl synthetase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001081.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001081.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001081.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:37:42 2019
+# [ok]

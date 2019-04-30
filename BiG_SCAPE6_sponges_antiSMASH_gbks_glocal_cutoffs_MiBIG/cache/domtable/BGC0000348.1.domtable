@@ -1,0 +1,22 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+PhyH                 PF05721.13   211 BGC0000348.1_ORF1:gid:easH:pid:ABM91453.1:loc:0:558:strand:+ -            185   4.5e-14   53.2   0.1   1   1   3.6e-18   6.5e-14   52.7   0.1   100   211     7   107     3   107 0.86 Phytanoyl-CoA dioxygenase (PhyH)
+Oxidored_FMN         PF00724.20   342 BGC0000348.1_ORF2:gid:easA:pid:ABM91449.1:loc:1018:2161:strand:- -            380   1.4e-84  284.3   0.0   1   1   8.8e-89   1.6e-84  284.1   0.0     1   342     5   344     5   344 0.86 NADH:flavin oxidoreductase / NADH oxidase family
+NmrA                 PF05368.13   233 BGC0000348.1_ORF3:gid:easG:pid:ABM91452.1:loc:3516:4575:strand:+ -            309   2.3e-09   37.2   0.0   1   1   8.1e-13   1.5e-08   34.5   0.0   124   230   138   241   105   244 0.78 NmrA-like family
+Methyltransf_33      PF10017.9    309 BGC0000348.1_ORF4:gid:easF:pid:ABM91451.1:loc:4618:5721:strand:- -            344   2.5e-78  263.4   0.0   1   1   1.7e-82   3.1e-78  263.0   0.0     3   308    20   342    17   343 0.94 Histidine-specific methyltransferase, SAM-dependent
+FAD_binding_4        PF01565.23   139 BGC0000348.1_ORF5:gid:easE:pid:ABM91450.1:loc:6189:8140:strand:- -            605   2.6e-15   56.4   1.3   1   1   7.5e-19   6.7e-15   55.0   1.3     3   136   130   272   128   275 0.89 FAD binding domain
+BBE                  PF08031.12    46 BGC0000348.1_ORF5:gid:easE:pid:ABM91450.1:loc:6189:8140:strand:- -            605   3.2e-08   33.5   0.0   1   1   6.2e-12   5.6e-08   32.8   0.0     1    45   526   570   526   571 0.92 Berberine and berberine like
+AMP-binding          PF00501.28   423 BGC0000348.1_ORF6:gid:lpsB:pid:ABM91454.1:loc:9410:13540:strand:+ -           1351   1.1e-68  231.8   0.1   1   1   2.4e-72   1.5e-68  231.4   0.1     4   423   285   684   282   684 0.84 AMP-binding enzyme
+Condensation         PF00668.20   457 BGC0000348.1_ORF6:gid:lpsB:pid:ABM91454.1:loc:9410:13540:strand:+ -           1351   5.3e-33  114.4   0.0   1   1   1.9e-25   1.2e-21   77.0   0.0     2   450   941  1340   940  1344 0.83 Condensation domain
+PP-binding           PF00550.25    67 BGC0000348.1_ORF6:gid:lpsB:pid:ABM91454.1:loc:9410:13540:strand:+ -           1351   1.3e-10   41.5   0.0   1   1     8e-14   4.8e-10   39.7   0.0     3    64   837   897   835   898 0.97 Phosphopantetheine attachment site
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000348.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000348.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000348.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:43:42 2019
+# [ok]

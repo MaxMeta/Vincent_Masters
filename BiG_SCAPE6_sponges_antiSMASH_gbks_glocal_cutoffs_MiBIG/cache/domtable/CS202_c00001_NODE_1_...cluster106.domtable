@@ -1,0 +1,26 @@
+#                                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Lactamase_B_2        PF12706.7    201 CS202_c00001_NODE_1_...cluster106_ORF1:gid::pid::loc:244:1171:strand:- -            308     4e-22   78.7   0.5   1   1   6.2e-26   5.5e-22   78.3   0.5     3   200    39   246    37   247 0.88 Beta-lactamase superfamily domain
+Lactamase_B          PF00753.27   197 CS202_c00001_NODE_1_...cluster106_ORF1:gid::pid::loc:244:1171:strand:- -            308   1.2e-13   51.5   4.1   1   1   2.2e-17     2e-13   50.8   4.1     5   180    26   215    23   225 0.86 Metallo-beta-lactamase superfamily
+SQS_PSY              PF00494.19   263 CS202_c00001_NODE_1_...cluster106_ORF4:gid::pid::loc:2042:2924:strand:+ -            293   1.3e-45  155.9   4.7   1   1   8.9e-50   1.6e-45  155.7   4.7     2   257    14   261    13   267 0.89 Squalene/phytoene synthase
+SQS_PSY              PF00494.19   263 CS202_c00001_NODE_1_...cluster106_ORF5:gid::pid::loc:2910:3786:strand:+ -            291   1.3e-61  208.4   5.9   1   1   8.8e-66   1.6e-61  208.2   5.9     3   262    27   279    25   280 0.91 Squalene/phytoene synthase
+Amino_oxidase        PF01593.24   452 CS202_c00001_NODE_1_...cluster106_ORF6:gid::pid::loc:3755:5060:strand:+ -            434   1.1e-28  100.7   2.3   1   1   2.3e-31   2.1e-27   96.6   2.3     1   451    26   429    26   430 0.83 Flavin containing amine oxidoreductase
+NAD_binding_8        PF13450.6     68 CS202_c00001_NODE_1_...cluster106_ORF6:gid::pid::loc:3755:5060:strand:+ -            434   1.4e-11   44.4   1.0   1   1   3.4e-15   3.1e-11   43.3   1.0     1    64    21    84    21    88 0.87 NAD(P)-binding Rossmann-like domain
+LYTB                 PF02401.18   264 CS202_c00001_NODE_1_...cluster106_ORF8:gid::pid::loc:5357:6314:strand:+ -            318   1.6e-89  299.7   0.0   1   1     1e-93   1.9e-89  299.5   0.0     1   263     8   284     8   285 0.96 LytB protein
+AbiEi_1              PF09407.10   143 CS202_c00001_NODE_1_...cluster106_ORF10:gid::pid::loc:6735:7413:strand:+ -            225     1e-25   90.7   0.0   1   1   7.6e-30   1.4e-25   90.3   0.0     3   143    23   165    22   165 0.92 AbiEi antitoxin C-terminal domain
+LolA_like            PF17131.4    183 CS202_c00001_NODE_1_...cluster106_ORF13:gid::pid::loc:9653:10466:strand:- -            270   5.2e-58  195.8   0.5   1   1   7.8e-62     7e-58  195.4   0.5     2   183    85   268    84   268 0.97 Outer membrane lipoprotein-sorting protein
+DUF1329              PF07044.11   364 CS202_c00001_NODE_1_...cluster106_ORF13:gid::pid::loc:9653:10466:strand:- -            270   3.2e-09   36.5   2.4   1   1   1.1e-10   9.5e-07   28.4   0.0   142   209    87   149    40   164 0.80 Protein of unknown function (DUF1329)
+MMPL                 PF03176.15   333 CS202_c00001_NODE_1_...cluster106_ORF14:gid::pid::loc:10462:12754:strand:- -            763   8.1e-34  117.0  28.7   1   2   4.7e-23   4.2e-19   68.7  16.0    12   329    90   401    49   405 0.80 MMPL family
+MMPL                 PF03176.15   333 CS202_c00001_NODE_1_...cluster106_ORF14:gid::pid::loc:10462:12754:strand:- -            763   8.1e-34  117.0  28.7   2   2   2.5e-18   2.2e-14   53.1   4.0    86   305   550   761   447   762 0.87 MMPL family
+Sterol-sensing       PF12349.8    153 CS202_c00001_NODE_1_...cluster106_ORF14:gid::pid::loc:10462:12754:strand:- -            763   7.5e-11   42.1   1.4   1   1   8.4e-15   7.5e-11   42.1   1.4     9   135   249   375   243   386 0.92 Sterol-sensing domain of SREBP cleavage-activation
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster106.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS202_c00001_NODE_1_...cluster106.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster106.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:54:06 2019
+# [ok]

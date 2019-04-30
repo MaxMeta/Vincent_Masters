@@ -1,0 +1,78 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="191.1" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="181.1" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg17186_1)</title>
+			<polygon class=" (ctg17186_1)" points="10,40 26,10 26,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>tRNA-synt_2d (PF01409)
+"tRNA synthetases class II core domain (F)"</title>
+				<polygon class="PF01409" points="13,40 16,35 16,45" stroke-linejoin="round" width="6" height="24" fill="rgb(88,202,82)" stroke="rgb(70,161,65)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Phe_tRNA-synt_N (PF02912)
+"Aminoacyl tRNA synthetase class II, N-terminal domain"</title>
+				<polygon class="PF02912" points="16,35 20,28 22,28 22,52 20,52 16,45" stroke-linejoin="round" width="6" height="24" fill="rgb(185,106,54)" stroke="rgb(148,84,43)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg17186_2)</title>
+			<polygon class=" (ctg17186_2)" points="27,40 39,10 39,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ribosomal_L20 (PF00453)
+"Ribosomal protein L20"</title>
+				<polygon class="PF00453" points="30,40 35,28 38,28 38,52 35,52" stroke-linejoin="round" width="10" height="24" fill="rgb(221,85,111)" stroke="rgb(176,67,88)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg17186_3)</title>
+			<polygon class=" (ctg17186_3)" points="40,40 46,10 46,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ribosomal_L35p (PF01632)
+"Ribosomal protein L35"</title>
+				<polygon class="PF01632" points="43,40 45,31 45,49" stroke-linejoin="round" width="5" height="24" fill="rgb(87,201,54)" stroke="rgb(69,160,43)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg17186_4)</title>
+			<polygon class=" (ctg17186_4)" points="52,40 68,10 68,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>IF3_C (PF00707)
+"Translation initiation factor IF-3, C-terminal domain"</title>
+				<polygon class="PF00707" points="55,40 60,31 60,49" stroke-linejoin="round" width="8" height="24" fill="rgb(122,214,90)" stroke="rgb(97,171,72)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>IF3_N (PF05198)
+"Translation initiation factor IF-3, N-terminal domain"</title>
+				<polygon class="PF05198" points="61,29 62,28 68,28 68,52 62,52 61,51" stroke-linejoin="round" width="7" height="24" fill="rgb(226,105,214)" stroke="rgb(180,83,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg17186_5)</title>
+			<polygon class=" (ctg17186_5)" points="121,25 113,25 113,10 83,40 113,70 113,55 121,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GerE (PF00196)
+"Bacterial regulatory proteins, luxR family"</title>
+				<polygon class="PF00196" points="87,40 89,38 89,42" stroke-linejoin="round" width="5" height="24" fill="rgb(219,94,82)" stroke="rgb(175,75,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg17186_6)</title>
+			<polygon class=" (ctg17186_6)" points="130,10 151,40 130,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cadherin-like (PF12733)
+"Cadherin-like beta sandwich domain"</title>
+				<polygon class="PF12733" points="138,28 139,28 146,38 146,42 139,52 138,52" stroke-linejoin="round" width="8" height="24" fill="rgb(92,187,218)" stroke="rgb(73,149,174)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg17186_7)</title>
+			<polygon class=" (ctg17186_7)" points="155,10 180,40 155,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="158,28 166,28 176,40 166,52 158,52" stroke-linejoin="round" width="21" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

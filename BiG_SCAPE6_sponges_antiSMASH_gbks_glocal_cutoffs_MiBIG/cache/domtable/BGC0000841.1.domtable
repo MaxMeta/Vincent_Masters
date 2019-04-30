@@ -1,0 +1,26 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+TPP_enzyme_N         PF02776.18   172 BGC0000841.1_ORF1:gid:ceaS1:pid:EFG04560.1:loc:0:1644:strand:+ -            547   4.8e-39  133.7   0.3   1   1   3.2e-42   1.9e-38  131.8   0.1     7   169     1   161     1   164 0.96 Thiamine pyrophosphate enzyme, N-terminal TPP binding domain
+TPP_enzyme_C         PF02775.21   153 BGC0000841.1_ORF1:gid:ceaS1:pid:EFG04560.1:loc:0:1644:strand:+ -            547   3.1e-31  108.2   0.0   1   1   1.1e-34   6.5e-31  107.2   0.0     1   153   383   531   383   531 0.92 Thiamine pyrophosphate enzyme, C-terminal TPP binding domain
+TPP_enzyme_M         PF00205.22   137 BGC0000841.1_ORF1:gid:ceaS1:pid:EFG04560.1:loc:0:1644:strand:+ -            547   1.6e-27   96.0   0.0   1   1   5.6e-31   3.3e-27   94.9   0.0     1   137   186   326   186   326 0.86 Thiamine pyrophosphate enzyme, central domain
+Asn_synthase         PF00733.21   355 BGC0000841.1_ORF2:gid:bls1:pid:EFG04561.1:loc:1667:3251:strand:+ -            527   2.3e-33  116.3   0.3   1   2   4.9e-24   2.9e-20   73.2   0.3     3   145   233   374   231   403 0.90 Asparagine synthase
+Asn_synthase         PF00733.21   355 BGC0000841.1_ORF2:gid:bls1:pid:EFG04561.1:loc:1667:3251:strand:+ -            527   2.3e-33  116.3   0.3   2   2   2.8e-14   1.7e-10   41.1   0.0   239   295   405   461   399   493 0.90 Asparagine synthase
+GATase_7             PF13537.6    123 BGC0000841.1_ORF2:gid:bls1:pid:EFG04561.1:loc:1667:3251:strand:+ -            527   3.3e-14   52.9   0.0   1   1   8.9e-18   5.3e-14   52.2   0.0    12   122    62   166    56   167 0.92 Glutamine amidotransferase domain
+GATase_6             PF13522.6    134 BGC0000841.1_ORF2:gid:bls1:pid:EFG04561.1:loc:1667:3251:strand:+ -            527   1.7e-10   41.2   0.0   1   1   6.4e-14   3.9e-10   40.1   0.0    25   132    56   159    54   161 0.89 Glutamine amidotransferase domain
+Arginase             PF00491.21   280 BGC0000841.1_ORF3:gid:pah1:pid:EFG04562.1:loc:3247:4621:strand:+ -            457   1.9e-83  280.2   0.2   1   1   1.5e-87   2.6e-83  279.7   0.2     2   277   134   404   133   406 0.95 Arginase family
+ArgJ                 PF01960.18   376 BGC0000841.1_ORF4:gid:oat1:pid:EFG04563.1:loc:4812:6171:strand:- -            452   4.5e-74  249.4   0.0   1   1     3e-78   5.4e-74  249.2   0.0     3   370    73   446    71   449 0.91 ArgJ family
+Aminotran_3          PF00202.21   406 BGC0000841.1_ORF5:gid:cvm6P:pid:EFG04564.1:loc:6621:8145:strand:- -            507   1.1e-92  310.8   0.0   1   1   7.5e-97   1.3e-92  310.5   0.0    12   405    85   490    77   491 0.94 Aminotransferase class-III
+BTAD                 PF03704.17   146 BGC0000841.1_ORF6:gid:cvm7P:pid:EFG04565.1:loc:8275:11023:strand:- -            915     1e-38  133.1  11.7   1   1   4.5e-42   2.7e-38  131.7  11.7     1   146   218   363   218   363 0.99 Bacterial transcriptional activator domain
+AAA_16               PF13191.6    170 BGC0000841.1_ORF6:gid:cvm7P:pid:EFG04565.1:loc:8275:11023:strand:- -            915   4.7e-20   72.6   0.4   1   1     1e-22   6.1e-19   69.0   0.0     1   170   516   720   516   721 0.82 AAA ATPase domain
+Trans_reg_C          PF00486.28    77 BGC0000841.1_ORF6:gid:cvm7P:pid:EFG04565.1:loc:8275:11023:strand:- -            915   1.6e-07   31.3   0.0   1   1     1e-10   6.1e-07   29.4   0.0     7    59   138   191   131   209 0.90 Transcriptional regulatory protein, C terminal
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000841.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000841.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000841.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:29:54 2019
+# [ok]

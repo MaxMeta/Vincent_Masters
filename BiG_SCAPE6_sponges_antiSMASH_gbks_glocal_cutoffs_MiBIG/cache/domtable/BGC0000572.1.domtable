@@ -1,0 +1,16 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Transglut_core3      PF13471.6    117 BGC0000572.1_ORF2:gid::pid:AHI79402.1:loc:218:944:strand:+ -            241   3.8e-24   84.8   0.2   1   1   3.6e-28   6.5e-24   84.1   0.2     7   116   116   225   111   226 0.87 Transglutaminase-like superfamily
+Asn_synthase         PF00733.21   355 BGC0000572.1_ORF3:gid::pid:AHI77932.1:loc:1020:2628:strand:+ -            535   1.7e-15   57.6   0.1   1   1   3.3e-19   5.8e-15   55.8   0.1     6   331   162   498   158   518 0.72 Asparagine synthase
+ABC_tran             PF00005.27   137 BGC0000572.1_ORF4:gid::pid:AHI77484.1:loc:2746:4516:strand:+ -            589   4.4e-23   82.3   0.0   1   1   3.7e-27   6.6e-23   81.8   0.0     2   137   364   510   363   510 0.91 ABC transporter
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000572.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000572.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000572.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:32:52 2019
+# [ok]

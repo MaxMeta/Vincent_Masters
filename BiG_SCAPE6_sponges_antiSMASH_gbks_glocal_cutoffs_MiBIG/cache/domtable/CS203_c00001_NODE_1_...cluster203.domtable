@@ -1,0 +1,32 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Epimerase            PF01370.21   241 CS203_c00001_NODE_1_...cluster203_ORF1:gid::pid::loc:2:821:strand:- -            273   2.2e-31  109.2   0.0   1   1   1.4e-34   2.9e-31  108.8   0.0     1   241     3   230     3   230 0.89 NAD dependent epimerase/dehydratase family
+3Beta_HSD            PF01073.19   280 CS203_c00001_NODE_1_...cluster203_ORF1:gid::pid::loc:2:821:strand:- -            273     2e-22   79.5   0.0   1   1   1.5e-25   2.9e-22   79.0   0.0     1   160     4   156     4   166 0.91 3-beta hydroxysteroid dehydrogenase/isomerase family
+NAD_binding_10       PF13460.6    184 CS203_c00001_NODE_1_...cluster203_ORF1:gid::pid::loc:2:821:strand:- -            273   1.9e-21   76.8   0.1   1   1   1.1e-24   2.3e-21   76.5   0.1     1   145     7   170     7   213 0.80 NAD(P)H-binding
+NAD_binding_4        PF07993.12   257 CS203_c00001_NODE_1_...cluster203_ORF1:gid::pid::loc:2:821:strand:- -            273   4.9e-19   68.5   0.1   1   1   1.4e-19   2.8e-16   59.4   0.1     1   209     5   178     5   223 0.84 Male sterility protein
+GDP_Man_Dehyd        PF16363.5    332 CS203_c00001_NODE_1_...cluster203_ORF1:gid::pid::loc:2:821:strand:- -            273   6.1e-13   48.9   0.0   1   1   3.6e-16   7.2e-13   48.6   0.0     1   181     4   169     4   248 0.81 GDP-mannose 4,6 dehydratase
+NmrA                 PF05368.13   233 CS203_c00001_NODE_1_...cluster203_ORF1:gid::pid::loc:2:821:strand:- -            273     6e-10   39.1   0.0   1   1   4.6e-13   9.1e-10   38.5   0.0     1   102     3   114     3   122 0.89 NmrA-like family
+Polysacc_synt_2      PF02719.15   294 CS203_c00001_NODE_1_...cluster203_ORF1:gid::pid::loc:2:821:strand:- -            273   1.8e-06   27.3   0.0   1   1   6.9e-09   1.4e-05   24.4   0.0     1   128     3   114     3   123 0.90 Polysaccharide biosynthesis protein
+KR                   PF08659.10   180 CS203_c00001_NODE_1_...cluster203_ORF1:gid::pid::loc:2:821:strand:- -            273   4.6e-06   26.7   0.2   1   1   1.7e-08   3.4e-05   23.9   0.0     2   140     2   118     1   125 0.83 KR domain
+RmlD_sub_bind        PF04321.17   287 CS203_c00001_NODE_1_...cluster203_ORF1:gid::pid::loc:2:821:strand:- -            273   6.6e-05   22.2   0.1   1   1   4.9e-08   9.8e-05   21.6   0.1     2   134     2   151     1   168 0.76 RmlD substrate binding domain
+DUF3463              PF11946.8    134 CS203_c00001_NODE_1_...cluster203_ORF2:gid::pid::loc:847:1831:strand:- -            327   6.5e-46  155.4   0.1   1   1     2e-49   1.2e-45  154.6   0.1     1   133   189   319   189   320 0.98 Domain of unknown function (DUF3463)
+Radical_SAM          PF04055.21   167 CS203_c00001_NODE_1_...cluster203_ORF2:gid::pid::loc:847:1831:strand:- -            327   1.7e-16   61.1   2.1   1   1   5.3e-20   3.2e-16   60.2   2.1     3   167    28   181    26   181 0.95 Radical SAM superfamily
+SQHop_cyclase_C      PF13243.6    319 CS203_c00001_NODE_1_...cluster203_ORF3:gid::pid::loc:1854:3891:strand:- -            678  3.3e-115  384.6   3.3   1   1  4.3e-117  1.6e-113  379.1   1.7     2   319   327   663   326   663 0.90 Squalene-hopene cyclase C-terminal domain
+SQHop_cyclase_N      PF13249.6    291 CS203_c00001_NODE_1_...cluster203_ORF3:gid::pid::loc:1854:3891:strand:- -            678  7.5e-109  363.3   1.0   1   1  1.1e-101   3.8e-98  328.2   0.0     1   289    27   316    27   318 0.93 Squalene-hopene cyclase N-terminal domain
+Prenyltrans          PF00432.21    44 CS203_c00001_NODE_1_...cluster203_ORF3:gid::pid::loc:1854:3891:strand:- -            678     1e-31  108.3  17.8   1   5   3.4e-08   0.00012   21.7   0.0     4    44    74   114    71   114 0.91 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.21    44 CS203_c00001_NODE_1_...cluster203_ORF3:gid::pid::loc:1854:3891:strand:- -            678     1e-31  108.3  17.8   2   5     2e-06     0.007   16.1   0.2     4    22   422   440   420   443 0.87 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.21    44 CS203_c00001_NODE_1_...cluster203_ORF3:gid::pid::loc:1854:3891:strand:- -            678     1e-31  108.3  17.8   3   5   2.2e-10   7.8e-07   28.7   0.2     3    39   489   524   489   525 0.95 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.21    44 CS203_c00001_NODE_1_...cluster203_ORF3:gid::pid::loc:1854:3891:strand:- -            678     1e-31  108.3  17.8   4   5   5.1e-11   1.8e-07   30.7   0.3     6    41   547   592   545   593 0.94 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.21    44 CS203_c00001_NODE_1_...cluster203_ORF3:gid::pid::loc:1854:3891:strand:- -            678     1e-31  108.3  17.8   5   5     1e-05     0.037   13.8   0.1     4    41   612   659   610   661 0.82 Prenyltransferase and squalene oxidase repeat
+GFO_IDH_MocA         PF01408.22   120 CS203_c00001_NODE_1_...cluster203_ORF5:gid::pid::loc:5005:6064:strand:- -            352   2.2e-11   44.6   0.1   1   1   8.1e-15   1.4e-10   42.0   0.1    50    99     3    53     1    99 0.90 Oxidoreductase family, NAD-binding Rossmann fold
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS203_c00001_NODE_1_...cluster203.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS203_c00001_NODE_1_...cluster203.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS203_c00001_NODE_1_...cluster203.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:56:45 2019
+# [ok]

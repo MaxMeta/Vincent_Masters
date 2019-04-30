@@ -1,0 +1,27 @@
+#                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SQHop_cyclase_N      PF13249.6    291 CS200_c00001_NODE_1_...cluster284_ORF1:gid::pid::loc:0:1710:strand:- -            570  1.8e-136  453.9   0.1   1   1  2.5e-126  8.9e-123  409.0   0.0     1   290    31   320    31   321 0.99 Squalene-hopene cyclase N-terminal domain
+SQHop_cyclase_C      PF13243.6    319 CS200_c00001_NODE_1_...cluster284_ORF1:gid::pid::loc:0:1710:strand:- -            570  1.7e-115  385.5   7.4   1   1  1.7e-109  6.2e-106  354.1   1.1     1   237   329   565   329   569 0.99 Squalene-hopene cyclase C-terminal domain
+Prenyltrans          PF00432.21    44 CS200_c00001_NODE_1_...cluster284_ORF1:gid::pid::loc:0:1710:strand:- -            570     5e-26   90.1  13.0   1   5   4.9e-08   0.00018   21.2   0.0     4    44    78   118    78   118 0.94 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.21    44 CS200_c00001_NODE_1_...cluster284_ORF1:gid::pid::loc:0:1710:strand:- -            570     5e-26   90.1  13.0   2   5   2.9e-05       0.1   12.4   0.2     3    22   262   281   261   282 0.92 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.21    44 CS200_c00001_NODE_1_...cluster284_ORF1:gid::pid::loc:0:1710:strand:- -            570     5e-26   90.1  13.0   3   5   9.3e-06     0.033   13.9   0.0     3    22   421   440   419   446 0.90 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.21    44 CS200_c00001_NODE_1_...cluster284_ORF1:gid::pid::loc:0:1710:strand:- -            570     5e-26   90.1  13.0   4   5     6e-08   0.00021   20.9   0.1     4    40   490   525   488   529 0.86 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.21    44 CS200_c00001_NODE_1_...cluster284_ORF1:gid::pid::loc:0:1710:strand:- -            570     5e-26   90.1  13.0   5   5   6.4e-09   2.3e-05   24.0   0.1     2    26   536   560   535   567 0.90 Prenyltransferase and squalene oxidase repeat
+PNP_UDP_1            PF01048.20   234 CS200_c00001_NODE_1_...cluster284_ORF2:gid::pid::loc:1736:2465:strand:- -            242   4.8e-11   42.4   0.1   1   1   1.7e-14     3e-10   39.8   0.1     3   202     2   182     1   194 0.82 Phosphorylase superfamily
+DUF3463              PF11946.8    134 CS200_c00001_NODE_1_...cluster284_ORF3:gid::pid::loc:2479:3505:strand:- -            341   9.1e-47  158.2   0.1   1   1   3.7e-50   1.7e-46  157.4   0.1     2   133   196   326   195   327 0.97 Domain of unknown function (DUF3463)
+Radical_SAM          PF04055.21   167 CS200_c00001_NODE_1_...cluster284_ORF3:gid::pid::loc:2479:3505:strand:- -            341   2.6e-13   50.7   0.5   1   1     1e-16   4.6e-13   49.9   0.5     2   164    33   184    32   187 0.93 Radical SAM superfamily
+Fer4_14              PF13394.6    118 CS200_c00001_NODE_1_...cluster284_ORF3:gid::pid::loc:2479:3505:strand:- -            341   1.2e-05   25.4   0.1   1   1   2.7e-09   1.2e-05   25.4   0.1     6   108    36   129    34   136 0.76 4Fe-4S single cluster domain
+Fer4_12              PF13353.6    139 CS200_c00001_NODE_1_...cluster284_ORF3:gid::pid::loc:2479:3505:strand:- -            341   4.2e-05   23.8   0.0   1   1   3.4e-08   0.00015   22.0   0.0    12   120    35   136    25   147 0.78 4Fe-4S single cluster domain
+polyprenyl_synt      PF00348.17   256 CS200_c00001_NODE_1_...cluster284_ORF4:gid::pid::loc:3564:4626:strand:- -            353   2.3e-54  184.2   0.0   1   1   1.6e-58   2.9e-54  183.8   0.0    14   253    62   301    57   304 0.96 Polyprenyl synthetase
+APH                  PF01636.23   240 CS200_c00001_NODE_1_...cluster284_ORF5:gid::pid::loc:4766:5237:strand:- -            156   4.2e-16   59.6   2.4   1   1     3e-20   5.4e-16   59.2   2.4   128   234    12   113     6   121 0.72 Phosphotransferase enzyme family
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS200_c00001_NODE_1_...cluster284.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS200_c00001_NODE_1_...cluster284.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS200_c00001_NODE_1_...cluster284.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:54:52 2019
+# [ok]

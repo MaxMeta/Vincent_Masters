@@ -1,0 +1,27 @@
+#                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+HSP70                PF00012.20   599 CS783_c00001_NODE_1_...cluster139_ORF1:gid::pid::loc:0:1446:strand:+ -            481    1e-182  608.5   4.6   1   1  1.3e-186  1.2e-182  608.3   4.6   153   598     1   447     1   448 0.99 Hsp70 protein
+MreB_Mbl             PF06723.13   327 CS783_c00001_NODE_1_...cluster139_ORF1:gid::pid::loc:0:1446:strand:+ -            481   8.6e-12   44.5   0.8   1   1   4.7e-15   4.2e-11   42.2   0.5   114   316     2   218     1   225 0.67 MreB/Mbl protein
+GrpE                 PF01025.19   166 CS783_c00001_NODE_1_...cluster139_ORF2:gid::pid::loc:1442:2105:strand:+ -            220   7.3e-32  110.3   0.0   1   1     5e-36   8.9e-32  110.0   0.0    13   164    52   202    41   204 0.92 GrpE
+DnaJ_C               PF01556.18   148 CS783_c00001_NODE_1_...cluster139_ORF3:gid::pid::loc:2124:3216:strand:+ -            363   7.2e-37  126.7   0.0   1   1   1.5e-40   9.2e-37  126.4   0.0     3   148   126   336   124   336 0.96 DnaJ C terminal domain
+DnaJ                 PF00226.31    63 CS783_c00001_NODE_1_...cluster139_ORF3:gid::pid::loc:2124:3216:strand:+ -            363   3.4e-25   88.0   1.6   1   1   8.4e-29     5e-25   87.4   1.6     1    63     9    71     9    71 0.99 DnaJ domain
+MerR_1               PF13411.6     69 CS783_c00001_NODE_1_...cluster139_ORF4:gid::pid::loc:3231:3648:strand:+ -            138   3.2e-19   68.8   0.0   1   1   7.4e-23   6.6e-19   67.8   0.0     1    66    14    79    14    81 0.97 MerR HTH family regulatory protein
+MerR                 PF00376.23    38 CS783_c00001_NODE_1_...cluster139_ORF4:gid::pid::loc:3231:3648:strand:+ -            138   1.1e-11   44.3   0.5   1   1   2.7e-15   2.4e-11   43.2   0.5     2    38    16    51    16    51 0.98 MerR family regulatory protein
+DUF3151              PF11349.8    127 CS783_c00001_NODE_1_...cluster139_ORF5:gid::pid::loc:3662:4118:strand:+ -            151   1.5e-38  131.8   0.2   1   1     1e-42   1.8e-38  131.5   0.2     4   123    14   141    11   144 0.86 Protein of unknown function (DUF3151)
+ketoacyl-synt        PF00109.26   253 CS783_c00001_NODE_1_...cluster139_ORF6:gid::pid::loc:4135:7393:strand:- -           1085   1.1e-76  257.8   2.6   1   1   5.1e-80   1.5e-76  257.3   1.8     3   253   250   492   248   492 0.92 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.22   118 CS783_c00001_NODE_1_...cluster139_ORF6:gid::pid::loc:4135:7393:strand:- -           1085   4.4e-41  139.6   0.0   1   1   1.5e-43   4.6e-40  136.3   0.0     2   117   501   617   500   618 0.99 Beta-ketoacyl synthase, C-terminal domain
+Acyl_transf_1        PF00698.21   319 CS783_c00001_NODE_1_...cluster139_ORF6:gid::pid::loc:4135:7393:strand:- -           1085     6e-18   65.4   0.2   1   1   3.2e-21   9.6e-18   64.7   0.2     2   126   804   927   803   976 0.86 Acyl transferase domain
+KR                   PF08659.10   180 CS783_c00001_NODE_1_...cluster139_ORF6:gid::pid::loc:4135:7393:strand:- -           1085   6.2e-13   49.1   1.0   1   1   4.2e-16   1.3e-12   48.0   1.0   135   180     1    46     1    46 0.98 KR domain
+KAsynt_C_assoc       PF16197.5    112 CS783_c00001_NODE_1_...cluster139_ORF6:gid::pid::loc:4135:7393:strand:- -           1085   5.3e-12   46.2   0.0   1   1   6.5e-15   1.9e-11   44.4   0.0     1   109   620   767   620   770 0.78 Ketoacyl-synthetase C-terminal extension
+PP-binding           PF00550.25    67 CS783_c00001_NODE_1_...cluster139_ORF6:gid::pid::loc:4135:7393:strand:- -           1085   1.3e-11   44.7   0.0   1   1     1e-14   3.1e-11   43.5   0.0     3    67   151   216   149   216 0.87 Phosphopantetheine attachment site
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS783_c00001_NODE_1_...cluster139.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS783_c00001_NODE_1_...cluster139.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS783_c00001_NODE_1_...cluster139.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:33:45 2019
+# [ok]

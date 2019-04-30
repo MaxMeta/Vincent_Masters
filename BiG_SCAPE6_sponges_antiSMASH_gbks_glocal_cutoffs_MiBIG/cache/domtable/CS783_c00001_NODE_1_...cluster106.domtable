@@ -1,0 +1,21 @@
+#                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Acyl_transf_1        PF00698.21   319 CS783_c00001_NODE_1_...cluster106_ORF1:gid::pid::loc:0:3969:strand:- -           1323   3.9e-59  200.7   0.0   1   1     2e-62   7.1e-59  199.9   0.0     2   306   550   865   549   877 0.88 Acyl transferase domain
+ketoacyl-synt        PF00109.26   253 CS783_c00001_NODE_1_...cluster106_ORF1:gid::pid::loc:0:3969:strand:- -           1323   2.4e-53  181.3   0.0   1   1   1.6e-56   5.7e-53  180.1   0.0     3   251    18   263    16   265 0.91 Beta-ketoacyl synthase, N-terminal domain
+PS-DH                PF14765.6    298 CS783_c00001_NODE_1_...cluster106_ORF1:gid::pid::loc:0:3969:strand:- -           1323   2.1e-39  135.6   0.0   1   1   1.3e-42   4.7e-39  134.4   0.0     2   286   924  1215   923  1221 0.85 Polyketide synthase dehydratase
+Ketoacyl-synt_C      PF02801.22   118 CS783_c00001_NODE_1_...cluster106_ORF1:gid::pid::loc:0:3969:strand:- -           1323   5.9e-28   97.3   1.1   1   1   3.8e-31   1.4e-27   96.1   0.4    10   114   289   395   280   398 0.93 Beta-ketoacyl synthase, C-terminal domain
+KAsynt_C_assoc       PF16197.5    112 CS783_c00001_NODE_1_...cluster106_ORF1:gid::pid::loc:0:3969:strand:- -           1323   4.1e-16   59.4   0.0   1   1   2.2e-19   7.9e-16   58.5   0.0     1   107   402   512   402   516 0.83 Ketoacyl-synthetase C-terminal extension
+ACR_tran             PF00873.19  1021 CS783_c00001_NODE_1_...cluster106_ORF2:gid::pid::loc:3976:7111:strand:- -           1044  5.3e-124  415.0   4.5   1   1  3.5e-128  6.3e-124  414.8   4.5     2  1019    20  1038    19  1040 0.88 AcrB/AcrD/AcrF family
+ACR_tran             PF00873.19  1021 CS783_c00001_NODE_1_...cluster106_ORF5:gid::pid::loc:8441:11663:strand:+ -           1073  2.5e-161  538.6   1.0   1   1  4.1e-164  2.4e-160  535.3   1.0     9  1020     7  1044     4  1045 0.90 AcrB/AcrD/AcrF family
+MMPL                 PF03176.15   333 CS783_c00001_NODE_1_...cluster106_ORF5:gid::pid::loc:8441:11663:strand:+ -           1073   2.3e-06   26.8   4.5   1   1   3.8e-10   2.3e-06   26.8   4.5    76   319   261   503   194   524 0.76 MMPL family
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS783_c00001_NODE_1_...cluster106.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS783_c00001_NODE_1_...cluster106.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS783_c00001_NODE_1_...cluster106.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:52:39 2019
+# [ok]

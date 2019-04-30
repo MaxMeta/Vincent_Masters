@@ -1,0 +1,18 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ABC2_membrane_4      PF12730.7    179 BGC0000499.1_ORF2:gid::pid:AAD24812.1:loc:156:876:strand:+ -            239   5.3e-10   39.5  21.3   1   1     3e-14   5.3e-10   39.5  21.3     2   173     2   174     1   180 0.72 ABC-2 family transporter protein
+ABC2_membrane_4      PF12730.7    179 BGC0000499.1_ORF3:gid::pid:AAD24813.1:loc:885:1635:strand:+ -            249   1.8e-28   99.7  22.2   1   1     1e-32   1.8e-28   99.7  22.2     2   179     2   182     1   182 0.89 ABC-2 family transporter protein
+L_biotic_typeA       PF04604.13    51 BGC0000499.1_ORF5:gid:bvi79:pid:AAC19355.1:loc:2043:2190:strand:+ -             48     2e-25   88.4   1.4   1   1   1.2e-29   2.1e-25   88.3   1.4     2    51     2    47     1    47 0.95 Type-A lantibiotic
+DUF4135              PF13575.6    375 BGC0000499.1_ORF6:gid::pid:AAC19356.1:loc:2354:4733:strand:+ -            793   2.1e-58  198.4   0.1   1   1     3e-62   2.7e-58  198.1   0.1     1   373    91   449    91   451 0.89 Domain of unknown function (DUF4135)
+LANC_like            PF05147.13   352 BGC0000499.1_ORF6:gid::pid:AAC19356.1:loc:2354:4733:strand:+ -            793   1.5e-34  119.2   4.7   1   1   2.1e-38   1.9e-34  118.8   3.0     2   239   566   790   565   793 0.92 Lanthionine synthetase C-like protein
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000499.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000499.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000499.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:37:07 2019
+# [ok]

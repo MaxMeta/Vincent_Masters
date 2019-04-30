@@ -1,0 +1,36 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Pyr_redox_2          PF07992.14   294 BGC0001463.1_ORF1:gid:bmp10:pid:AME30282.1:loc:0:1236:strand:- -            411   2.1e-65  220.9   0.1   1   1   1.9e-68   2.5e-65  220.6   0.1     2   294     3   304     2   304 0.93 Pyridine nucleotide-disulphide oxidoreductase
+Pyr_redox            PF00070.27    81 BGC0001463.1_ORF1:gid:bmp10:pid:AME30282.1:loc:0:1236:strand:- -            411   1.9e-21   76.4   3.5   1   1   4.5e-22   5.8e-19   68.4   0.5     1    79   148   226   148   228 0.96 Pyridine nucleotide-disulphide oxidoreductase
+Reductase_C          PF14759.6     85 BGC0001463.1_ORF1:gid:bmp10:pid:AME30282.1:loc:0:1236:strand:- -            411   6.3e-21   74.7   0.0   1   1   1.2e-23   1.5e-20   73.5   0.0     1    81   323   402   323   404 0.96 Reductase C-terminal
+Pyr_redox_3          PF13738.6    305 BGC0001463.1_ORF1:gid:bmp10:pid:AME30282.1:loc:0:1236:strand:- -            411     6e-13   48.7   0.2   1   1   4.8e-13   6.2e-10   38.8   0.0    92   305    68   278    60   278 0.79 Pyridine nucleotide-disulphide oxidoreductase
+Amino_oxidase        PF01593.24   452 BGC0001463.1_ORF1:gid:bmp10:pid:AME30282.1:loc:0:1236:strand:- -            411   1.8e-06   27.5   0.4   1   1     9e-08   0.00011   21.6   0.2   148   266   127   246   119   264 0.70 Flavin containing amine oxidoreductase
+UDPG_MGDP_dh_N       PF03721.14   187 BGC0001463.1_ORF1:gid:bmp10:pid:AME30282.1:loc:0:1236:strand:- -            411   2.6e-05   23.9   0.1   1   1   4.8e-08   6.1e-05   22.7   0.1     2    45   148   191   147   215 0.89 UDP-glucose/GDP-mannose dehydrogenase family, NAD binding domain
+Fer2                 PF00111.27    78 BGC0001463.1_ORF2:gid:bmp9:pid:AME30283.1:loc:1249:1570:strand:- -            106   9.8e-14   51.1   0.9   1   1   6.7e-18   1.2e-13   50.8   0.9     2    78     8    91     7    91 0.83 2Fe-2S iron-sulfur cluster binding domain
+Abhydrolase_1        PF00561.20   257 BGC0001463.1_ORF3:gid:bmp1:pid:AME30284.1:loc:1739:2813:strand:+ -            357   8.3e-20   71.5   0.0   1   1   1.3e-15   5.8e-12   45.8   0.0     4   106   129   224   126   255 0.88 alpha/beta hydrolase fold
+Abhydrolase_6        PF12697.7    220 BGC0001463.1_ORF3:gid:bmp1:pid:AME30284.1:loc:1739:2813:strand:+ -            357   5.6e-13   50.0   0.0   1   1   1.7e-16   7.8e-13   49.5   0.0     2   218   129   345   128   345 0.64 Alpha/beta hydrolase family
+Hydrolase_4          PF12146.8    239 BGC0001463.1_ORF3:gid:bmp1:pid:AME30284.1:loc:1739:2813:strand:+ -            357     3e-11   43.0   0.0   1   1   6.5e-13   2.9e-09   36.5   0.0    34   223   154   327   148   339 0.73 Serine aminopeptidase, S33
+PP-binding           PF00550.25    67 BGC0001463.1_ORF3:gid:bmp1:pid:AME30284.1:loc:1739:2813:strand:+ -            357   1.5e-05   25.2   0.0   1   1   8.3e-09   3.7e-05   24.0   0.0    14    61    17    70     9    76 0.81 Phosphopantetheine attachment site
+Trp_halogenase       PF04820.14   454 BGC0001463.1_ORF4:gid:bmp2:pid:AME30285.1:loc:2812:4033:strand:+ -            406     8e-23   81.0   0.0   1   2   3.1e-11   7.9e-08   31.6   0.0     1    75     8    77     8    81 0.95 Tryptophan halogenase
+Trp_halogenase       PF04820.14   454 BGC0001463.1_ORF4:gid:bmp2:pid:AME30285.1:loc:2812:4033:strand:+ -            406     8e-23   81.0   0.0   2   2   4.3e-16   1.1e-12   47.6   0.0   144   349    92   321    80   353 0.76 Tryptophan halogenase
+FAD_binding_3        PF01494.19   349 BGC0001463.1_ORF4:gid:bmp2:pid:AME30285.1:loc:2812:4033:strand:+ -            406   3.2e-13   49.7   0.0   1   1   1.9e-16   4.8e-13   49.1   0.0     2   326     7   326     6   342 0.76 FAD binding domain
+FAD_binding_2        PF00890.24   417 BGC0001463.1_ORF4:gid:bmp2:pid:AME30285.1:loc:2812:4033:strand:+ -            406   1.5e-09   37.5   0.3   1   1   2.5e-10   6.3e-07   28.8   0.0     1    37     8    44     8    53 0.92 FAD binding domain
+Pyr_redox_2          PF07992.14   294 BGC0001463.1_ORF4:gid:bmp2:pid:AME30285.1:loc:2812:4033:strand:+ -            406     5e-07   29.2   0.1   1   1   4.6e-10   1.2e-06   28.0   0.1     1   126     7   178     7   192 0.80 Pyridine nucleotide-disulphide oxidoreductase
+GIDA                 PF01134.22   392 BGC0001463.1_ORF4:gid:bmp2:pid:AME30285.1:loc:2812:4033:strand:+ -            406   1.8e-05   24.0   0.2   1   1   1.3e-08   3.3e-05   23.1   0.2     1   164     8   175     8   208 0.80 Glucose inhibited division protein A
+Acyl-CoA_dh_1        PF00441.24   150 BGC0001463.1_ORF5:gid:bmp3:pid:AME30286.1:loc:4077:5220:strand:+ -            380   1.1e-32  113.4   0.4   1   1   1.2e-35   5.3e-32  111.1   0.1     1   149   229   377   229   378 0.98 Acyl-CoA dehydrogenase, C-terminal domain
+Acyl-CoA_dh_M        PF02770.19    97 BGC0001463.1_ORF5:gid:bmp3:pid:AME30286.1:loc:4077:5220:strand:+ -            380   6.3e-19   68.0   0.0   1   1   2.6e-22   1.2e-18   67.1   0.0     2    97   123   217   122   217 0.92 Acyl-CoA dehydrogenase, middle domain
+Acyl-CoA_dh_N        PF02771.16   113 BGC0001463.1_ORF5:gid:bmp3:pid:AME30286.1:loc:4077:5220:strand:+ -            380   2.4e-15   57.2   0.0   1   1   1.5e-18   6.6e-15   55.7   0.0    28   113    29   118    12   118 0.87 Acyl-CoA dehydrogenase, N-terminal domain
+Acyl-CoA_dh_2        PF08028.11   134 BGC0001463.1_ORF5:gid:bmp3:pid:AME30286.1:loc:4077:5220:strand:+ -            380   3.4e-08   33.8   0.0   1   1   1.4e-11   6.2e-08   33.0   0.0     2    92   245   325   244   355 0.78 Acyl-CoA dehydrogenase, C-terminal domain
+AMP-binding          PF00501.28   423 BGC0001463.1_ORF6:gid:bmp4:pid:AME30287.1:loc:5216:6707:strand:+ -            496   9.6e-83  278.1   0.0   1   1   1.4e-86   1.2e-82  277.7   0.0     9   422    17   410    12   411 0.86 AMP-binding enzyme
+AMP-binding_C        PF13193.6     76 BGC0001463.1_ORF6:gid:bmp4:pid:AME30287.1:loc:5216:6707:strand:+ -            496   1.1e-11   45.5   0.1   1   1   3.2e-15   2.9e-11   44.2   0.1     1    76   419   489   419   489 0.91 AMP-binding enzyme C-terminal domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001463.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001463.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001463.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:40:05 2019
+# [ok]

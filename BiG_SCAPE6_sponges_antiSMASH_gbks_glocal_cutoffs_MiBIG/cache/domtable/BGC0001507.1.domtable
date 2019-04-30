@@ -1,0 +1,16 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Asn_synthase         PF00733.21   355 BGC0001507.1_ORF1:gid::pid:KDN73296.1:loc:385:2221:strand:+ -            611   1.4e-34  120.3   0.0   1   1     1e-38   1.9e-34  119.9   0.0     1   355   208   593   208   593 0.81 Asparagine synthase
+PqqD                 PF05402.12    67 BGC0001507.1_ORF2:gid::pid:KDN73297.1:loc:2204:2456:strand:+ -             83   8.5e-16   58.0   0.0   1   1   5.5e-20   9.8e-16   57.8   0.0     2    67    16    81    15    81 0.95 Coenzyme PQQ synthesis protein D (PqqD)
+Transglut_core3      PF13471.6    117 BGC0001507.1_ORF3:gid::pid:KDN73298.1:loc:2452:2884:strand:+ -            143     9e-28   96.5   7.1   1   1   6.5e-32   1.2e-27   96.2   7.1     2   116    22   132    21   133 0.96 Transglutaminase-like superfamily
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001507.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001507.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001507.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:46:05 2019
+# [ok]

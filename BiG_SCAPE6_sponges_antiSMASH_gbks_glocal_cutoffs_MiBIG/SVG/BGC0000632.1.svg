@@ -1,0 +1,131 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="478.7" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="468.7" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>bra1
+putative aminotransferase</title>
+			<polygon class="bra1
+putative aminotransferase" points="18,25 22,25 22,10 52,40 22,70 22,55 18,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_1_2 (PF00155)
+"Aminotransferase class I and II"</title>
+				<polygon class="PF00155" points="19,28 36,28 48,40 36,52 19,52" stroke-linejoin="round" width="31" height="24" fill="rgb(89,113,198)" stroke="rgb(71,90,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>bra2
+geranylgeranyl diphosphate synthase</title>
+			<polygon class="bra2
+geranylgeranyl diphosphate synthase" points="52,25 55,25 55,10 85,40 55,70 55,55 52,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>polyprenyl_synt (PF00348)
+"Polyprenyl synthetase"</title>
+				<polygon class="PF00348" points="55,28 69,28 81,40 69,52 55,52" stroke-linejoin="round" width="27" height="24" fill="rgb(61,206,65)" stroke="rgb(48,164,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>bra3
+prenyl transferase</title>
+			<polygon class="bra3
+prenyl transferase" points="85,25 87,25 87,10 117,40 87,70 87,55 85,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>UbiA (PF01040)
+"UbiA prenyltransferase family"</title>
+				<polygon class="PF01040" points="87,28 101,28 111,38 111,42 101,52 87,52" stroke-linejoin="round" width="24" height="24" fill="rgb(189,57,100)" stroke="rgb(151,45,80)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>bra4
+diterpene cyclase</title>
+			<polygon class="bra4
+diterpene cyclase" points="118,25 143,25 143,10 173,40 143,70 143,55 118,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Prenyltrans (PF00432)
+"Prenyltransferase and squalene oxidase repeat"</title>
+				<rect class="PF00432" x="124" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(218,215,79)" stroke="rgb(174,172,63)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SQHop_cyclase_C (PF13243)
+"Squalene-hopene cyclase C-terminal domain"</title>
+				<polygon class="PF13243" points="144,28 157,28 169,40 157,52 144,52" stroke-linejoin="round" width="28" height="24" fill="rgb(191,58,201)" stroke="rgb(152,46,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>bra5
+putative geranylgeranyl diphosphate epoxidase</title>
+			<polygon class="bra5
+putative geranylgeranyl diphosphate epoxidase" points="173,25 185,25 185,10 215,40 185,70 185,55 173,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FAD_binding_3 (PF01494)
+"FAD binding domain"</title>
+				<polygon class="PF01494" points="173,28 199,28 207,36 207,44 199,52 173,52" stroke-linejoin="round" width="34" height="24" fill="rgb(182,175,59)" stroke="rgb(145,140,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>bra6
+P450</title>
+			<polygon class="bra6
+P450" points="215,25 225,25 225,10 255,40 225,70 225,55 215,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="242,31 251,40 251,40 242,49" stroke-linejoin="round" width="9" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>bra7
+putative 2,3-dihydroxybenzoate-AMP ligase</title>
+			<polygon class="bra7
+putative 2,3-dihydroxybenzoate-AMP ligase" points="263,25 286,25 286,10 316,40 286,70 286,55 263,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<polygon class="PF00501" points="263,28 300,28 304,32 304,48 300,52 263,52" stroke-linejoin="round" width="41" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<polygon class="PF13193" points="305,33 312,40 312,40 305,47" stroke-linejoin="round" width="7" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>bra8
+putative oxidase</title>
+			<polygon class="bra8
+putative oxidase" points="318,25 319,25 319,10 349,40 319,70 319,55 318,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>bra9
+hypothetical protein</title>
+			<polygon class="bra9
+hypothetical protein" points="349,25 360,25 360,10 390,40 360,70 360,55 349,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PapA_C (PF16911)
+"Phthiocerol/phthiodiolone dimycocerosyl transferase C-terminus"</title>
+				<polygon class="PF16911" points="378,32 386,40 378,48" stroke-linejoin="round" width="11" height="24" fill="rgb(219,98,127)" stroke="rgb(175,78,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>bra10
+putative dTDP-rhamnosyl transferase</title>
+			<polygon class="bra10
+putative dTDP-rhamnosyl transferase" points="390,25 391,25 391,10 421,40 391,70 391,55 390,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_2 (PF00535)
+"Glycosyl transferase family 2"</title>
+				<polygon class="PF00535" points="390,28 404,28 406,30 406,50 404,52 390,52" stroke-linejoin="round" width="16" height="24" fill="rgb(224,122,96)" stroke="rgb(179,97,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>bra11
+O-methyltransferase</title>
+			<polygon class="bra11
+O-methyltransferase" points="421,25 425,25 425,10 455,40 425,70 425,55 421,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_2 (PF00891)
+"O-methyltransferase domain"</title>
+				<polygon class="PF00891" points="433,28 439,28 451,40 439,52 433,52" stroke-linejoin="round" width="20" height="24" fill="rgb(50,51,190)" stroke="rgb(39,40,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

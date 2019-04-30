@@ -1,0 +1,114 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="528.2" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="518.2" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg2591_5)</title>
+			<polygon class=" (ctg2591_5)" points="117,25 92,25 92,10 62,40 92,70 92,55 117,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Mrr_cat (PF04471)
+"Restriction endonuclease"</title>
+				<polygon class="PF04471" points="66,40 76,30 76,50 66,40" stroke-linejoin="round" width="10" height="24" fill="rgb(58,187,128)" stroke="rgb(46,149,102)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>N6_N4_Mtase (PF01555)
+"DNA methylase"</title>
+				<rect class="PF01555" x="79" y="28" stroke-linejoin="round" width="34" height="24" fill="rgb(54,198,162)" stroke="rgb(43,158,129)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2591_6)</title>
+			<polygon class=" (ctg2591_6)" points="117,40 146,10 146,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DDE_Tnp_IS1595 (PF12762)
+"ISXO2-like transposase domain"</title>
+				<polygon class="PF12762" points="121,40 132,29 132,51" stroke-linejoin="round" width="14" height="24" fill="rgb(211,88,85)" stroke="rgb(168,70,68)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Zn_Tnp_IS1595 (PF12760)
+"Transposase zinc-ribbon domain"</title>
+				<rect class="PF12760" x="140" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(211,61,128)" stroke="rgb(168,48,102)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2591_7)</title>
+			<polygon class=" (ctg2591_7)" points="150,25 154,25 154,10 184,40 154,70 154,55 150,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_11 (PF08241)
+"Methyltransferase domain"</title>
+				<polygon class="PF08241" points="160,28 168,28 169,29 169,51 168,52 160,52" stroke-linejoin="round" width="9" height="24" fill="rgb(106,219,159)" stroke="rgb(84,175,127)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Sterol_MT_C (PF08498)
+"Sterol methyltransferase C-terminal"</title>
+				<polygon class="PF08498" points="177,37 180,40 177,43" stroke-linejoin="round" width="6" height="24" fill="rgb(65,219,176)" stroke="rgb(52,175,140)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2591_8)</title>
+			<polygon class=" (ctg2591_8)" points="185,25 192,25 192,10 222,40 192,70 192,55 185,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Epimerase (PF01370)
+"NAD dependent epimerase/dehydratase family"</title>
+				<polygon class="PF01370" points="186,28 206,28 209,31 209,49 206,52 186,52" stroke-linejoin="round" width="23" height="24" fill="rgb(98,102,214)" stroke="rgb(78,81,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2591_9)</title>
+			<polygon class=" (ctg2591_9)" points="222,25 229,25 229,10 259,40 229,70 229,55 222,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Rieske (PF00355)
+"Rieske [2Fe-2S] domain"</title>
+				<rect class="PF00355" x="225" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(186,77,145)" stroke="rgb(148,61,115)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2591_10)</title>
+			<polygon class=" (ctg2591_10)" points="259,25 265,25 265,10 295,40 265,70 265,55 259,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ERG4_ERG24 (PF01222)
+"Ergosterol biosynthesis ERG4/ERG24 family"</title>
+				<polygon class="PF01222" points="260,28 279,28 291,40 279,52 260,52" stroke-linejoin="round" width="35" height="24" fill="rgb(99,195,207)" stroke="rgb(79,155,165)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2591_11)</title>
+			<polygon class=" (ctg2591_11)" points="296,25 313,25 313,10 343,40 313,70 313,55 296,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="298,28 326,28 338,40 326,52 298,52" stroke-linejoin="round" width="43" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2591_12)</title>
+			<polygon class=" (ctg2591_12)" points="343,25 426,25 426,10 456,40 426,70 426,55 343,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SE (PF08491)
+"Squalene epoxidase"</title>
+				<rect class="PF08491" x="358" y="28" stroke-linejoin="round" width="23" height="24" fill="rgb(93,72,221)" stroke="rgb(74,57,176)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SQHop_cyclase_N (PF13249)
+"Squalene-hopene cyclase N-terminal domain"</title>
+				<rect class="PF13249" x="390" y="28" stroke-linejoin="round" width="29" height="24" fill="rgb(88,190,89)" stroke="rgb(70,152,71)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SQHop_cyclase_C (PF13243)
+"Squalene-hopene cyclase C-terminal domain"</title>
+				<polygon class="PF13243" points="421,28 439,28 451,40 439,52 421,52" stroke-linejoin="round" width="32" height="24" fill="rgb(191,58,201)" stroke="rgb(152,46,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2591_13)</title>
+			<polygon class=" (ctg2591_13)" points="460,40 484,10 484,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2591_14)</title>
+			<polygon class=" (ctg2591_14)" points="487,40 511,10 511,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2591_15)</title>
+			<polygon class=" (ctg2591_15)" points="514,40 517,10 517,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

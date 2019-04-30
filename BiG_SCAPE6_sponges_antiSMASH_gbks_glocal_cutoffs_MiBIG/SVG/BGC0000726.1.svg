@@ -1,0 +1,54 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="173.76666666666668" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="163.76666666666668" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>algI
+alginate O-acetylation protein</title>
+			<polygon class="algI
+alginate O-acetylation protein" points="10,25 28,25 28,10 58,40 28,70 28,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MBOAT (PF03062)
+"MBOAT, membrane-bound O-acyltransferase family"</title>
+				<polygon class="PF03062" points="10,28 42,28 48,34 48,46 42,52 10,52" stroke-linejoin="round" width="38" height="24" fill="rgb(116,79,215)" stroke="rgb(92,63,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>algJ
+alginate O-acetylation protein</title>
+			<polygon class="algJ
+alginate O-acetylation protein" points="58,25 66,25 66,10 96,40 66,70 66,55 58,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ALGX (PF16822)
+"SGNH hydrolase-like domain, acetyltransferase AlgX"</title>
+				<polygon class="PF16822" points="66,28 80,28 92,40 92,40 80,52 66,52" stroke-linejoin="round" width="26" height="24" fill="rgb(104,217,140)" stroke="rgb(83,173,112)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>algF
+alginate O-acetyltransferase</title>
+			<polygon class="algF
+alginate O-acetyltransferase" points="98,10 119,40 98,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AlgF (PF11182)
+"Alginate O-acetyl transferase AlgF"</title>
+				<polygon class="PF11182" points="99,28 107,28 116,40 116,40 107,52 99,52" stroke-linejoin="round" width="17" height="24" fill="rgb(132,198,87)" stroke="rgb(105,158,69)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>algA
+mannose-1-phosphate guanylyltransferase/mannose-6-phosphate isomerase</title>
+			<polygon class="algA
+mannose-1-phosphate guanylyltransferase/mannose-6-phosphate isomerase" points="120,25 132,25 132,10 162,40 132,70 132,55 120,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NTP_transferase (PF00483)
+"Nucleotidyl transferase"</title>
+				<polygon class="PF00483" points="120,28 146,28 148,30 148,50 146,52 120,52" stroke-linejoin="round" width="28" height="24" fill="rgb(198,101,87)" stroke="rgb(158,80,69)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MannoseP_isomer (PF01050)
+"Mannose-6-phosphate isomerase"</title>
+				<polygon class="PF01050" points="151,33 158,40 151,47" stroke-linejoin="round" width="11" height="24" fill="rgb(53,184,51)" stroke="rgb(42,147,40)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,125 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="853.3333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="843.3333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>
+indoleamine 2,3-dioxygenase</title>
+			<polygon class="
+indoleamine 2,3-dioxygenase" points="73,25 59,25 59,10 29,40 59,70 59,55 73,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>IDO (PF01231)
+"Indoleamine 2,3-dioxygenase"</title>
+				<polygon class="PF01231" points="33,40 45,28 73,28 73,52 45,52 33,40" stroke-linejoin="round" width="40" height="24" fill="rgb(188,79,75)" stroke="rgb(150,63,60)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>terK
+cytochrome P450 monooxygenase</title>
+			<polygon class="terK
+cytochrome P450 monooxygenase" points="189,25 154,25 154,10 124,40 154,70 154,55 189,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="138,30 140,28 179,28 179,52 140,52 138,50" stroke-linejoin="round" width="41" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>terC
+prenyl transferase</title>
+			<polygon class="terC
+prenyl transferase" points="269,25 264,25 264,10 234,40 264,70 264,55 269,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>polyprenyl_synt (PF00348)
+"Polyprenyl synthetase"</title>
+				<polygon class="PF00348" points="239,39 250,28 263,28 263,52 250,52 239,41" stroke-linejoin="round" width="24" height="24" fill="rgb(61,206,65)" stroke="rgb(48,164,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>terB
+terpene cyclase</title>
+			<polygon class="terB
+terpene cyclase" points="281,10 307,40 281,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>terQ
+cytochrome P450 monooxygenase</title>
+			<polygon class="terQ
+cytochrome P450 monooxygenase" points="404,25 366,25 366,10 336,40 366,70 366,55 404,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="351,29 352,28 383,28 383,52 352,52 351,51" stroke-linejoin="round" width="32" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>terM
+FAD-dependent monooxygenase</title>
+			<polygon class="terM
+FAD-dependent monooxygenase" points="466,25 444,25 444,10 414,40 444,70 444,55 466,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FAD_binding_3 (PF01494)
+"FAD binding domain"</title>
+				<rect class="PF01494" x="432" y="28" stroke-linejoin="round" width="34" height="24" fill="rgb(182,175,59)" stroke="rgb(145,140,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>terP
+cytochrome P450 monooxygenase</title>
+			<polygon class="terP
+cytochrome P450 monooxygenase" points="491,25 520,25 520,10 550,40 520,70 520,55 491,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="497,28 534,28 539,33 539,47 534,52 497,52" stroke-linejoin="round" width="42" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>terF
+aromatic prenyl transferase</title>
+			<polygon class="terF
+aromatic prenyl transferase" points="586,25 603,25 603,10 633,40 603,70 603,55 586,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Trp_DMAT (PF11991)
+"Tryptophan dimethylallyltransferase"</title>
+				<polygon class="PF11991" points="588,28 616,28 624,36 624,44 616,52 588,52" stroke-linejoin="round" width="36" height="24" fill="rgb(197,197,93)" stroke="rgb(157,157,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+flavin-binding monooxygenase</title>
+			<polygon class="
+flavin-binding monooxygenase" points="701,25 682,25 682,10 652,40 682,70 682,55 701,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FMO-like (PF00743)
+"Flavin-binding monooxygenase-like"</title>
+				<polygon class="PF00743" points="665,31 668,28 700,28 700,52 668,52 665,49" stroke-linejoin="round" width="35" height="24" fill="rgb(203,74,151)" stroke="rgb(162,59,120)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+heat shock protein</title>
+			<polygon class="
+heat shock protein" points="755,25 788,25 788,10 818,40 788,70 788,55 755,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TPR_16 (PF13432)
+"Tetratricopeptide repeat"</title>
+				<rect class="PF13432" x="755" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(154,205,86)" stroke="rgb(123,164,68)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>STI1 (PF17830)
+"STI1 domain"</title>
+				<rect class="PF17830" x="769" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(139,195,59)" stroke="rgb(111,156,47)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TPR_12 (PF13424)
+"Tetratricopeptide repeat"</title>
+				<rect class="PF13424" x="783" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(147,215,101)" stroke="rgb(117,172,80)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>STI1 (PF17830)
+"STI1 domain"</title>
+				<polygon class="PF17830" points="806,32 811,37 811,43 806,48" stroke-linejoin="round" width="5" height="24" fill="rgb(139,195,59)" stroke="rgb(111,156,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

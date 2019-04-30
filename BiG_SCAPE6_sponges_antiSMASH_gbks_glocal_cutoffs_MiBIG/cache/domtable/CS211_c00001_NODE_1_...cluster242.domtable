@@ -1,0 +1,25 @@
+#                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ketoacyl-synt        PF00109.26   253 CS211_c00001_NODE_1_...cluster242_ORF1:gid::pid::loc:2:6368:strand:+ -           2122  1.1e-139  464.1  16.1   1   2   1.9e-82   2.8e-79  266.3   1.9     2   253    30   272    29   272 0.94 Beta-ketoacyl synthase, N-terminal domain
+ketoacyl-synt        PF00109.26   253 CS211_c00001_NODE_1_...cluster242_ORF1:gid::pid::loc:2:6368:strand:+ -           2122  1.1e-139  464.1  16.1   2   2   5.8e-64   8.6e-61  205.7   1.3     2   235  1897  2122  1896  2122 0.91 Beta-ketoacyl synthase, N-terminal domain
+KR                   PF08659.10   180 CS211_c00001_NODE_1_...cluster242_ORF1:gid::pid::loc:2:6368:strand:+ -           2122     8e-61  205.1   0.0   1   1   3.2e-63   4.8e-60  202.5   0.0     2   179  1523  1700  1522  1701 0.99 KR domain
+Acyl_transf_1        PF00698.21   319 CS211_c00001_NODE_1_...cluster242_ORF1:gid::pid::loc:2:6368:strand:+ -           2122   6.9e-57  193.4   0.0   1   1   7.7e-60   1.1e-56  192.6   0.0     2   271   585   859   584   882 0.93 Acyl transferase domain
+Ketoacyl-synt_C      PF02801.22   118 CS211_c00001_NODE_1_...cluster242_ORF1:gid::pid::loc:2:6368:strand:+ -           2122     5e-45  152.3   0.0   1   1     2e-47     3e-44  149.8   0.0     2   118   281   398   280   398 0.99 Beta-ketoacyl synthase, C-terminal domain
+Methyltransf_12      PF08242.12    99 CS211_c00001_NODE_1_...cluster242_ORF1:gid::pid::loc:2:6368:strand:+ -           2122   1.1e-16   61.3   0.0   1   1   2.2e-19   3.3e-16   59.9   0.0     1    99  1151  1252  1151  1252 0.87 Methyltransferase domain
+KAsynt_C_assoc       PF16197.5    112 CS211_c00001_NODE_1_...cluster242_ORF1:gid::pid::loc:2:6368:strand:+ -           2122   1.6e-16   60.7   0.0   1   1   4.6e-19   6.9e-16   58.7   0.0     1   103   400   545   400   556 0.80 Ketoacyl-synthetase C-terminal extension
+Methyltransf_25      PF13649.6     97 CS211_c00001_NODE_1_...cluster242_ORF1:gid::pid::loc:2:6368:strand:+ -           2122   1.3e-11   45.1   0.0   1   1   2.1e-14   3.1e-11   43.8   0.0     1    97  1150  1250  1150  1250 0.93 Methyltransferase domain
+adh_short            PF00106.25   195 CS211_c00001_NODE_1_...cluster242_ORF1:gid::pid::loc:2:6368:strand:+ -           2122   7.9e-11   41.8   0.0   1   1   1.3e-13     2e-10   40.5   0.0     4   160  1525  1681  1522  1684 0.88 short chain dehydrogenase
+PP-binding           PF00550.25    67 CS211_c00001_NODE_1_...cluster242_ORF1:gid::pid::loc:2:6368:strand:+ -           2122   1.5e-10   41.3   0.0   1   1   2.9e-13   4.3e-10   39.8   0.0     2    67  1804  1874  1803  1874 0.93 Phosphopantetheine attachment site
+Methyltransf_11      PF08241.12    96 CS211_c00001_NODE_1_...cluster242_ORF1:gid::pid::loc:2:6368:strand:+ -           2122   2.5e-09   37.6   0.0   1   1   5.7e-12   8.5e-09   36.0   0.0     1    96  1151  1254  1151  1254 0.90 Methyltransferase domain
+Methyltransf_23      PF13489.6    165 CS211_c00001_NODE_1_...cluster242_ORF1:gid::pid::loc:2:6368:strand:+ -           2122   3.3e-08   33.5   0.0   1   1   4.7e-11     7e-08   32.5   0.0    14   119  1139  1256  1124  1304 0.72 Methyltransferase domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster242.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS211_c00001_NODE_1_...cluster242.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster242.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:35:33 2019
+# [ok]

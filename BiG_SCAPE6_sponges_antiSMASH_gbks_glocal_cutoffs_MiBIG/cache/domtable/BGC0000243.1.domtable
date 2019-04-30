@@ -1,0 +1,35 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Macro                PF01661.21   118 BGC0000243.1_ORF1:gid::pid:AAF81228.1:loc:338:872:strand:- -            177     2e-40  137.5   0.0   1   1   1.4e-44   2.4e-40  137.2   0.0     1   118    25   142    25   142 0.95 Macro domain
+NAD_binding_8        PF13450.6     68 BGC0000243.1_ORF2:gid::pid:AAF81229.1:loc:917:2387:strand:- -            489   2.9e-11   43.4   0.9   1   1     5e-14   1.8e-10   40.9   0.2     1    46    27    74    27    92 0.93 NAD(P)-binding Rossmann-like domain
+Amino_oxidase        PF01593.24   452 BGC0000243.1_ORF2:gid::pid:AAF81229.1:loc:917:2387:strand:- -            489   2.5e-09   36.9   0.6   1   1   9.1e-08   0.00033   20.1   0.1     3    35    34    66    33    90 0.91 Flavin containing amine oxidoreductase
+DAO                  PF01266.24   352 BGC0000243.1_ORF2:gid::pid:AAF81229.1:loc:917:2387:strand:- -            489   3.2e-08   33.5   3.9   1   1   2.6e-11   9.2e-08   32.0   3.9     1   174    24   267    24   415 0.81 FAD dependent oxidoreductase
+Inositol_P           PF00459.25   272 BGC0000243.1_ORF3:gid::pid:AAF81230.1:loc:2429:3275:strand:- -            281     6e-56  189.9   0.4   1   1   4.4e-60   7.9e-56  189.6   0.4    11   246    22   253    16   279 0.86 Inositol monophosphatase family
+ECH_1                PF00378.20   251 BGC0000243.1_ORF4:gid::pid:AAF81231.1:loc:4677:5466:strand:+ -            262   1.3e-40  139.3   0.0   1   1   1.7e-44   1.5e-40  139.1   0.0     3   198    20   218    18   248 0.93 Enoyl-CoA hydratase/isomerase
+ECH_2                PF16113.5    334 BGC0000243.1_ORF4:gid::pid:AAF81231.1:loc:4677:5466:strand:+ -            262   4.7e-23   82.2   0.4   1   1   6.2e-27   5.5e-23   82.0   0.4     2   186    24   208    23   231 0.87 Enoyl-CoA hydratase/isomerase
+ABC_tran             PF00005.27   137 BGC0000243.1_ORF5:gid::pid:AAF81232.1:loc:5903:6860:strand:+ -            318   4.7e-27   95.2   0.0   1   1   7.9e-31   7.1e-27   94.6   0.0     1   137    20   157    20   157 0.95 ABC transporter
+AAA_21               PF13304.6    303 BGC0000243.1_ORF5:gid::pid:AAF81232.1:loc:5903:6860:strand:+ -            318     6e-11   42.7   0.0   1   1   1.1e-10   9.7e-07   28.9   0.0   234   298   126   187   118   192 0.92 AAA domain, putative AbiEii toxin, Type IV TA system
+ketoacyl-synt        PF00109.26   253 BGC0000243.1_ORF7:gid::pid:AAF81234.1:loc:7985:9233:strand:+ -            415   2.8e-31  109.0   2.7   1   1   2.5e-34   2.3e-30  106.0   2.0     7   253     3   248     1   248 0.89 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.22   118 BGC0000243.1_ORF7:gid::pid:AAF81234.1:loc:7985:9233:strand:+ -            415   3.7e-22   78.6   0.8   1   1   9.7e-26   8.7e-22   77.4   0.1     1   116   256   371   256   372 0.97 Beta-ketoacyl synthase, C-terminal domain
+CoA_trans            PF01144.23   217 BGC0000243.1_ORF8:gid::pid:AAF81235.1:loc:9229:11005:strand:+ -            591   4.1e-27   95.0   0.0   1   1   1.5e-27   2.7e-23   82.5   0.0     5   211    20   236    17   241 0.91 Coenzyme A transferase
+ACP_syn_III_C        PF08541.10    90 BGC0000243.1_ORF9:gid::pid:AAF81236.1:loc:11001:12045:strand:+ -            347   1.5e-33  114.8   0.0   1   1   4.8e-36   4.3e-32  110.1   0.0     1    90   257   346   257   346 0.99 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal
+ACP_syn_III          PF08545.10    80 BGC0000243.1_ORF9:gid::pid:AAF81236.1:loc:11001:12045:strand:+ -            347     4e-15   55.4   0.4   1   1   8.6e-19   7.7e-15   54.5   0.4     1    80   142   220   142   220 0.90 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III
+ACP_syn_III_C        PF08541.10    90 BGC0000243.1_ORF10:gid::pid:AAF81237.1:loc:12041:13079:strand:+ -            345   5.5e-25   87.4   0.0   1   1   1.8e-27   1.6e-23   82.7   0.0     1    89   256   344   256   345 0.98 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal
+ACP_syn_III          PF08545.10    80 BGC0000243.1_ORF10:gid::pid:AAF81237.1:loc:12041:13079:strand:+ -            345   8.1e-15   54.4   0.2   1   1   1.6e-18   1.4e-14   53.6   0.2     1    80   140   219   140   219 0.95 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III
+adh_short_C2         PF13561.6    234 BGC0000243.1_ORF11:gid::pid:AAF81238.1:loc:13071:13983:strand:+ -            303   1.7e-43  148.8   0.4   1   1   6.8e-47   3.1e-43  148.0   0.4     3   232    24   270    18   271 0.86 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.25   195 BGC0000243.1_ORF11:gid::pid:AAF81238.1:loc:13071:13983:strand:+ -            303   2.5e-41  141.3   0.0   1   1   7.8e-45   3.5e-41  140.8   0.0     2   191    17   219    16   223 0.94 short chain dehydrogenase
+KR                   PF08659.10   180 BGC0000243.1_ORF11:gid::pid:AAF81238.1:loc:13071:13983:strand:+ -            303   3.5e-13   49.9   0.7   1   1   1.7e-15   7.5e-12   45.5   0.6     1   165    16   193    16   212 0.79 KR domain
+adh_short_C2         PF13561.6    234 BGC0000243.1_ORF12:gid::pid:AAF81239.1:loc:13979:14804:strand:+ -            274   7.9e-60  202.3   1.1   1   1   6.5e-61   2.9e-57  193.9   1.1     1   232    19   272    19   273 0.88 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.25   195 BGC0000243.1_ORF12:gid::pid:AAF81239.1:loc:13979:14804:strand:+ -            274   8.5e-56  188.5   0.0   1   1   2.5e-59   1.1e-55  188.1   0.0     3   187    15   200    13   205 0.96 short chain dehydrogenase
+KR                   PF08659.10   180 BGC0000243.1_ORF12:gid::pid:AAF81239.1:loc:13979:14804:strand:+ -            274   8.2e-17   61.7   0.2   1   1   2.8e-20   1.3e-16   61.1   0.2     4   162    16   175    14   193 0.86 KR domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000243.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000243.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000243.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:48:55 2019
+# [ok]

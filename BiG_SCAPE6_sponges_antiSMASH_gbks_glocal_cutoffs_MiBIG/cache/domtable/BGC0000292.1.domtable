@@ -1,0 +1,31 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MBOAT_2              PF13813.6     83 BGC0000292.1_ORF1:gid::pid:EAU36740.1:loc:0:979:strand:- -            303   2.3e-23   82.2   0.8   1   1   2.7e-27   4.9e-23   81.2   0.8     1    82   137   224   137   225 0.93 Membrane bound O-acyl transferase family
+MFS_1                PF07690.16   353 BGC0000292.1_ORF2:gid::pid:EAU36741.1:loc:1512:3387:strand:- -            624   2.2e-20   72.9  41.5   1   1     3e-24   5.4e-20   71.6  41.5     3   352    84   514    83   515 0.86 Major Facilitator Superfamily
+p450                 PF00067.22   463 BGC0000292.1_ORF3:gid::pid:EAU36742.1:loc:4307:5102:strand:- -            228   8.6e-11   41.2   0.0   1   1   6.3e-15   1.1e-10   40.9   0.0    71   274     9   209     4   211 0.73 Cytochrome P450
+DUF1857              PF08982.11   147 BGC0000292.1_ORF4:gid::pid:EAU36743.1:loc:5864:6493:strand:+ -            155   3.3e-26   91.9   0.0   1   1   3.7e-29   6.6e-25   87.7   0.0     1   147    11   150    11   150 0.87 Domain of unknown function (DUF1857)
+AMP-binding          PF00501.28   423 BGC0000292.1_ORF5:gid::pid:EAU36744.1:loc:8531:13255:strand:- -           1507   4.7e-71  239.6   0.0   1   1   1.4e-74   6.3e-71  239.2   0.0     4   423   514   893   511   893 0.86 AMP-binding enzyme
+Condensation         PF00668.20   457 BGC0000292.1_ORF5:gid::pid:EAU36744.1:loc:8531:13255:strand:- -           1507   1.6e-52  178.8   0.0   1   2   3.4e-26   1.5e-22   79.9   0.0    44   325   163   429   134   433 0.80 Condensation domain
+Condensation         PF00668.20   457 BGC0000292.1_ORF5:gid::pid:EAU36744.1:loc:8531:13255:strand:- -           1507   1.6e-52  178.8   0.0   2   2     4e-31   1.8e-27   96.2   0.0    22   437  1099  1471  1088  1473 0.86 Condensation domain
+PP-binding           PF00550.25    67 BGC0000292.1_ORF5:gid::pid:EAU36744.1:loc:8531:13255:strand:- -           1507   2.3e-22   79.1   0.5   1   2   1.9e-08   8.4e-05   22.9   0.1     3    54     5    55     4    65 0.85 Phosphopantetheine attachment site
+PP-binding           PF00550.25    67 BGC0000292.1_ORF5:gid::pid:EAU36744.1:loc:8531:13255:strand:- -           1507   2.3e-22   79.1   0.5   2   2   4.3e-18   1.9e-14   53.7   0.0     1    67   995  1061   995  1061 0.97 Phosphopantetheine attachment site
+AMP-binding_C        PF13193.6     76 BGC0000292.1_ORF5:gid::pid:EAU36744.1:loc:8531:13255:strand:- -           1507   1.1e-05   26.3   0.1   1   1   5.5e-09   2.5e-05   25.2   0.1     3    76   903   968   901   968 0.90 AMP-binding enzyme C-terminal domain
+p450                 PF00067.22   463 BGC0000292.1_ORF6:gid::pid:EAU36745.1:loc:13945:15517:strand:- -            489   7.2e-41  140.4   0.0   1   1   5.3e-45   9.5e-41  140.0   0.0   146   457   166   478   133   484 0.75 Cytochrome P450
+Aminotran_1_2        PF00155.21   363 BGC0000292.1_ORF7:gid::pid:EAU36746.1:loc:15705:19628:strand:- -            874     2e-21   76.6   0.0   1   1   8.6e-25   3.1e-21   76.0   0.0   134   326   122   330   110   354 0.78 Aminotransferase class I and II
+Methyltransf_2       PF00891.18   210 BGC0000292.1_ORF7:gid::pid:EAU36746.1:loc:15705:19628:strand:- -            874   6.3e-11   42.0   0.1   1   1   1.5e-08   5.2e-05   22.6   0.0    66   106   598   639   581   645 0.89 O-methyltransferase domain
+GST_N_2              PF13409.6     70 BGC0000292.1_ORF7:gid::pid:EAU36746.1:loc:15705:19628:strand:- -            874   2.4e-06   27.7   0.1   1   1     2e-09     7e-06   26.3   0.1     8    69   700   760   698   761 0.85 Glutathione S-transferase, N-terminal domain
+GST_C                PF00043.25    93 BGC0000292.1_ORF7:gid::pid:EAU36746.1:loc:15705:19628:strand:- -            874   1.7e-05   25.0   0.1   1   1   1.7e-08     6e-05   23.2   0.0    31    93   795   860   778   860 0.86 Glutathione S-transferase, C-terminal domain
+GST_N_3              PF13417.6     75 BGC0000292.1_ORF7:gid::pid:EAU36746.1:loc:15705:19628:strand:- -            874   2.9e-05   24.4   0.0   1   1   2.2e-08   7.7e-05   23.0   0.0    10    73   697   764   695   770 0.84 Glutathione S-transferase, N-terminal domain
+Peptidase_M19        PF01244.21   319 BGC0000292.1_ORF8:gid::pid:EAU36747.1:loc:20776:22213:strand:+ -            410   1.8e-89  300.0   0.0   1   1   1.1e-92   1.9e-88  296.7   0.0     4   319    19   366    16   366 0.97 Membrane dipeptidase (Peptidase family M19)
+p450                 PF00067.22   463 BGC0000292.1_ORF9:gid::pid:EAU36748.1:loc:23033:25538:strand:+ -            718   2.7e-48  164.9   0.0   1   1   2.2e-52   3.9e-48  164.3   0.0    28   449   291   694   280   709 0.87 Cytochrome P450
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000292.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000292.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000292.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:50:42 2019
+# [ok]

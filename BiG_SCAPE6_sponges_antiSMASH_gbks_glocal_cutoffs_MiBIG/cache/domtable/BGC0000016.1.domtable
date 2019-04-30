@@ -1,0 +1,19 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Thioesterase         PF00975.20   231 BGC0000016.1_ORF1:gid::pid:AAV48834.1:loc:226:1090:strand:+ -            287   7.1e-57  193.2   0.0   1   1   9.3e-61   8.3e-57  192.9   0.0     2   227    59   279    58   283 0.96 Thioesterase domain
+Abhydrolase_6        PF12697.7    220 BGC0000016.1_ORF1:gid::pid:AAV48834.1:loc:226:1090:strand:+ -            287   3.9e-10   40.7   2.9   1   1   7.6e-14   6.8e-10   39.9   2.9     5   217    65   276    60   278 0.55 Alpha/beta hydrolase family
+AAA_16               PF13191.6    170 BGC0000016.1_ORF2:gid::pid:AAV48835.1:loc:1483:4153:strand:+ -            889   1.4e-21   77.6   0.2   1   1   2.4e-25   1.4e-21   77.6   0.2     3   169     7   169     5   170 0.81 AAA ATPase domain
+AA_permease          PF00324.21   479 BGC0000016.1_ORF3:gid::pid:AAV48836.1:loc:4233:5727:strand:- -            497  3.7e-114  382.0  40.9   1   1  7.7e-118  4.6e-114  381.6  40.9     1   430    38   445    38   480 0.93 Amino acid permease
+AA_permease_2        PF13520.6    425 BGC0000016.1_ORF3:gid::pid:AAV48836.1:loc:4233:5727:strand:- -            497   5.7e-39  134.1  43.6   1   1   1.2e-42   7.1e-39  133.8  43.6     6   423    39   464    34   470 0.83 Amino acid permease
+Spore_permease       PF03845.13   321 BGC0000016.1_ORF3:gid::pid:AAV48836.1:loc:4233:5727:strand:- -            497     1e-07   31.1  10.3   1   1   1.7e-11     1e-07   31.1  10.3     7   234    39   282    34   289 0.79 Spore germination protein
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000016.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000016.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000016.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:50:32 2019
+# [ok]

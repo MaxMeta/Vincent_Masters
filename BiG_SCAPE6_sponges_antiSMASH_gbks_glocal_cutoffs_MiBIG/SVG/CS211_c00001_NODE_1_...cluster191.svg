@@ -1,0 +1,116 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="335.7" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="325.7" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg8443_1)</title>
+			<polygon class=" (ctg8443_1)" points="10,25 15,25 15,10 45,40 15,70 15,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DXP_reductoisom (PF02670)
+"1-deoxy-D-xylulose 5-phosphate reductoisomerase"</title>
+				<rect class="PF02670" x="10" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(106,225,169)" stroke="rgb(84,180,135)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DXP_redisom_C (PF08436)
+"1-deoxy-D-xylulose 5-phosphate reductoisomerase C-terminal domain"</title>
+				<rect class="PF08436" x="20" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(160,186,55)" stroke="rgb(127,148,44)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DXPR_C (PF13288)
+"DXP reductoisomerase C-terminal domain"</title>
+				<polygon class="PF13288" points="32,31 41,40 32,49" stroke-linejoin="round" width="11" height="24" fill="rgb(184,95,48)" stroke="rgb(147,76,38)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8443_2)</title>
+			<polygon class=" (ctg8443_2)" points="48,25 49,25 49,10 79,40 49,70 49,55 48,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="51,28 63,28 75,40 63,52 51,52" stroke-linejoin="round" width="26" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8443_3)</title>
+			<polygon class=" (ctg8443_3)" points="87,40 100,10 100,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg8443_4)</title>
+			<polygon class=" (ctg8443_4)" points="109,25 119,25 119,10 149,40 119,70 119,55 109,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DHBP_synthase (PF00926)
+"3,4-dihydroxy-2-butanone 4-phosphate synthase"</title>
+				<rect class="PF00926" x="111" y="28" stroke-linejoin="round" width="19" height="24" fill="rgb(84,51,187)" stroke="rgb(67,40,149)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GTP_cyclohydro2 (PF00925)
+"GTP cyclohydrolase II"</title>
+				<polygon class="PF00925" points="131,28 133,28 145,40 133,52 131,52" stroke-linejoin="round" width="16" height="24" fill="rgb(50,54,188)" stroke="rgb(40,43,150)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8443_5)</title>
+			<polygon class=" (ctg8443_5)" points="150,10 179,40 150,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HSP33 (PF01430)
+"Hsp33 protein"</title>
+				<polygon class="PF01430" points="150,28 163,28 175,40 163,52 150,52" stroke-linejoin="round" width="27" height="24" fill="rgb(211,223,106)" stroke="rgb(168,178,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8443_6)</title>
+			<polygon class=" (ctg8443_6)" points="182,40 196,10 196,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>N_methyl (PF07963)
+"Prokaryotic N-terminal methylation motif"</title>
+				<polygon class="PF07963" points="190,30 191,28 192,28 192,52 191,52 190,50" stroke-linejoin="round" width="2" height="24" fill="rgb(116,101,204)" stroke="rgb(92,80,163)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8443_7)</title>
+			<polygon class=" (ctg8443_7)" points="240,25 230,25 230,10 200,40 230,70 230,55 240,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>T2SSF (PF00482)
+"Type II secretion system (T2SS), protein F"</title>
+				<polygon class="PF00482" points="204,40 213,31 213,49" stroke-linejoin="round" width="12" height="24" fill="rgb(124,208,56)" stroke="rgb(99,166,44)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>T2SSF (PF00482)
+"Type II secretion system (T2SS), protein F"</title>
+				<rect class="PF00482" x="221" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(124,208,56)" stroke="rgb(99,166,44)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8443_8)</title>
+			<polygon class=" (ctg8443_8)" points="246,40 275,10 275,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SDH_C (PF18317)
+"Shikimate 5'-dehydrogenase C-terminal domain"</title>
+				<polygon class="PF18317" points="250,40 249,41 249,39" stroke-linejoin="round" width="3" height="24" fill="rgb(87,77,179)" stroke="rgb(69,61,143)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Shikimate_DH (PF01488)
+"Shikimate / quinate 5-dehydrogenase"</title>
+				<polygon class="PF01488" points="254,36 262,28 262,28 262,52 262,52 254,44" stroke-linejoin="round" width="8" height="24" fill="rgb(94,182,59)" stroke="rgb(75,145,47)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Shikimate_dh_N (PF08501)
+"Shikimate dehydrogenase substrate binding domain"</title>
+				<rect class="PF08501" x="265" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(145,207,53)" stroke="rgb(116,165,42)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8443_9)</title>
+			<polygon class=" (ctg8443_9)" points="325,25 306,25 306,10 276,40 306,70 306,55 325,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PEP-utilizers_C (PF02896)
+"PEP-utilising enzyme, TIM barrel domain"</title>
+				<polygon class="PF02896" points="280,40 292,28 313,28 313,52 292,52" stroke-linejoin="round" width="35" height="24" fill="rgb(65,113,188)" stroke="rgb(52,90,150)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PEP-utilizers (PF00391)
+"PEP-utilising enzyme, mobile domain"</title>
+				<rect class="PF00391" x="315" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(206,59,219)" stroke="rgb(164,47,175)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

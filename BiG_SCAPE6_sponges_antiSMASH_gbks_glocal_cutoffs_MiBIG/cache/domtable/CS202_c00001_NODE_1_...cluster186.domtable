@@ -1,0 +1,22 @@
+#                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ketoacyl-synt        PF00109.26   253 CS202_c00001_NODE_1_...cluster186_ORF1:gid::pid::loc:2:4970:strand:- -           1656   1.4e-73  247.6   2.7   1   1   6.7e-76   1.3e-72  244.4   0.8     2   253    17   269    16   269 0.94 Beta-ketoacyl synthase, N-terminal domain
+Acyl_transf_1        PF00698.21   319 CS202_c00001_NODE_1_...cluster186_ORF1:gid::pid::loc:2:4970:strand:- -           1656   5.7e-58  196.9   0.1   1   1   4.4e-61   8.7e-58  196.3   0.1     2   272   596   876   595   898 0.92 Acyl transferase domain
+PS-DH                PF14765.6    298 CS202_c00001_NODE_1_...cluster186_ORF1:gid::pid::loc:2:4970:strand:- -           1656   3.1e-43  148.1   0.1   1   1   2.8e-46   5.5e-43  147.3   0.1     1   296   970  1270   970  1272 0.88 Polyketide synthase dehydratase
+Ketoacyl-synt_C      PF02801.22   118 CS202_c00001_NODE_1_...cluster186_ORF1:gid::pid::loc:2:4970:strand:- -           1656     9e-43  145.0   0.2   1   1   1.3e-45   2.5e-42  143.6   0.2     2   117   278   394   277   395 0.99 Beta-ketoacyl synthase, C-terminal domain
+Methyltransf_12      PF08242.12    99 CS202_c00001_NODE_1_...cluster186_ORF1:gid::pid::loc:2:4970:strand:- -           1656   1.3e-18   67.5   0.0   1   1   1.8e-21   3.7e-18   66.1   0.0     1    99  1504  1605  1504  1605 0.87 Methyltransferase domain
+KAsynt_C_assoc       PF16197.5    112 CS202_c00001_NODE_1_...cluster186_ORF1:gid::pid::loc:2:4970:strand:- -           1656   2.1e-13   50.7   0.0   1   1   2.5e-16   4.9e-13   49.5   0.0     1   109   397   533   397   536 0.83 Ketoacyl-synthetase C-terminal extension
+Methyltransf_25      PF13649.6     97 CS202_c00001_NODE_1_...cluster186_ORF1:gid::pid::loc:2:4970:strand:- -           1656   6.8e-13   49.1   0.3   1   1   1.2e-15   2.4e-12   47.4   0.0     1    97  1503  1603  1503  1603 0.94 Methyltransferase domain
+Methyltransf_23      PF13489.6    165 CS202_c00001_NODE_1_...cluster186_ORF1:gid::pid::loc:2:4970:strand:- -           1656   2.5e-09   37.2   0.0   1   1   2.3e-12   4.5e-09   36.3   0.0    20   160  1497  1655  1471  1656 0.70 Methyltransferase domain
+Methyltransf_11      PF08241.12    96 CS202_c00001_NODE_1_...cluster186_ORF1:gid::pid::loc:2:4970:strand:- -           1656   2.7e-08   34.3   0.0   1   1     4e-11   7.9e-08   32.8   0.0     1    95  1504  1606  1504  1607 0.91 Methyltransferase domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster186.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS202_c00001_NODE_1_...cluster186.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster186.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:42:07 2019
+# [ok]

@@ -1,0 +1,19 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NHase_alpha          PF02979.16   184 CS211_c00001_NODE_1_...cluster258_ORF3:gid::pid::loc:1466:1748:strand:- -             93     9e-12   44.7   0.2   1   1   1.3e-11   2.4e-07   30.3   0.0   115   162    27    75    26    88 0.86 Nitrile hydratase, alpha chain
+HlyD_3               PF13437.6    106 CS211_c00001_NODE_1_...cluster258_ORF4:gid::pid::loc:1916:2804:strand:+ -            295     3e-06   27.9   0.3   1   1   1.4e-09   2.6e-05   24.9   0.0     2    82   159   242   158   275 0.86 HlyD family secretion protein
+Peptidase_C39        PF03412.15   133 CS211_c00001_NODE_1_...cluster258_ORF5:gid::pid::loc:2800:5008:strand:+ -            735   6.1e-35  119.9   0.0   1   1   2.2e-38   9.9e-35  119.2   0.0     3   128    20   143    18   147 0.98 Peptidase C39 family
+ABC_tran             PF00005.27   137 CS211_c00001_NODE_1_...cluster258_ORF5:gid::pid::loc:2800:5008:strand:+ -            735   3.2e-30  105.4   0.0   1   1   1.1e-33   5.1e-30  104.8   0.0     2   137   515   663   514   663 0.89 ABC transporter
+ABC_membrane         PF00664.23   274 CS211_c00001_NODE_1_...cluster258_ORF5:gid::pid::loc:2800:5008:strand:+ -            735   1.8e-20   73.7   6.0   1   1   5.5e-24   2.4e-20   73.3   6.0     2   273   174   441   173   442 0.98 ABC transporter transmembrane region
+Peptidase_C70        PF12385.8    145 CS211_c00001_NODE_1_...cluster258_ORF5:gid::pid::loc:2800:5008:strand:+ -            735   9.3e-06   25.7   0.0   1   1   7.6e-09   3.4e-05   23.9   0.0     7   143    19   135    13   137 0.73 Papain-like cysteine protease AvrRpt2
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster258.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS211_c00001_NODE_1_...cluster258.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster258.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:27:48 2019
+# [ok]

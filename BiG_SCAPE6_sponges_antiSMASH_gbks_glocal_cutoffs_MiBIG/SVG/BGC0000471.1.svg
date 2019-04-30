@@ -1,0 +1,103 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="452.3333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="442.3333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (Osc7112_3648)
+peptidase S8 and S53 subtilisin kexin sedolisin</title>
+			<polygon class=" (Osc7112_3648)
+peptidase S8 and S53 subtilisin kexin sedolisin" points="10,25 46,25 46,10 76,40 46,70 46,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_S8 (PF00082)
+"Subtilase family"</title>
+				<rect class="PF00082" x="11" y="28" stroke-linejoin="round" width="29" height="24" fill="rgb(193,159,94)" stroke="rgb(154,127,75)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PatG_D (PF18047)
+"PatG Domain"</title>
+				<rect class="PF18047" x="48" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(225,105,167)" stroke="rgb(180,84,133)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PatG_C (PF18065)
+"PatG C-terminal"</title>
+				<polygon class="PF18065" points="64,32 72,40 64,48" stroke-linejoin="round" width="11" height="24" fill="rgb(73,227,207)" stroke="rgb(58,181,165)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (Osc7112_3649)
+hypothetical protein</title>
+			<polygon class=" (Osc7112_3649)
+hypothetical protein" points="79,10 87,40 79,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (Osc7112_3650)
+hypothetical protein</title>
+			<polygon class=" (Osc7112_3650)
+hypothetical protein" points="89,10 114,40 89,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (Osc7112_3651)
+bacteriocin biosynthesis cyclodehydratase domain protein</title>
+			<polygon class=" (Osc7112_3651)
+bacteriocin biosynthesis cyclodehydratase domain protein" points="116,25 163,25 163,10 193,40 163,70 163,55 116,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YcaO (PF02624)
+"YcaO cyclodehydratase, ATP-ad Mg2+-binding"</title>
+				<polygon class="PF02624" points="156,28 177,28 189,40 189,40 177,52 156,52" stroke-linejoin="round" width="33" height="24" fill="rgb(76,84,185)" stroke="rgb(60,67,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (Osc7112_3652)
+bacteriocin leader peptide, microcyclamide/patellamide family</title>
+			<polygon class=" (Osc7112_3652)
+bacteriocin leader peptide, microcyclamide/patellamide family" points="198,10 205,40 198,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (Osc7112_3653)
+Methyltransferase type 11</title>
+			<polygon class=" (Osc7112_3653)
+Methyltransferase type 11" points="210,25 241,25 241,10 271,40 241,70 241,55 210,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_11 (PF08241)
+"Methyltransferase domain"</title>
+				<rect class="PF08241" x="220" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(106,219,159)" stroke="rgb(84,175,127)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (Osc7112_3654)
+hypothetical protein</title>
+			<polygon class=" (Osc7112_3654)
+hypothetical protein" points="274,25 276,25 276,10 306,40 276,70 276,55 274,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (Osc7112_3655)
+SagB-type dehydrogenase domain protein</title>
+			<polygon class=" (Osc7112_3655)
+SagB-type dehydrogenase domain protein" points="313,25 412,25 412,10 442,40 412,70 412,55 313,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_57 (PF18679)
+"ThcOx helix turn helix domain"</title>
+				<rect class="PF18679" x="313" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(223,96,145)" stroke="rgb(178,76,116)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Nitroreductase (PF00881)
+"Nitroreductase family"</title>
+				<rect class="PF00881" x="340" y="28" stroke-linejoin="round" width="20" height="24" fill="rgb(79,118,187)" stroke="rgb(63,94,149)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Peptidase_S8 (PF00082)
+"Subtilase family"</title>
+				<rect class="PF00082" x="366" y="28" stroke-linejoin="round" width="39" height="24" fill="rgb(193,159,94)" stroke="rgb(154,127,75)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PatG_D (PF18047)
+"PatG Domain"</title>
+				<rect class="PF18047" x="414" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(225,105,167)" stroke="rgb(180,84,133)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PatG_C (PF18065)
+"PatG C-terminal"</title>
+				<polygon class="PF18065" points="430,32 438,40 430,48" stroke-linejoin="round" width="11" height="24" fill="rgb(73,227,207)" stroke="rgb(58,181,165)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

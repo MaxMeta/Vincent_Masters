@@ -1,0 +1,16 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+L_biotic_typeA       PF04604.13    51 BGC0000532.1_ORF1:gid:mutA:pid:AAC38144.1:loc:495:657:strand:+ -             53   8.8e-27   92.7   0.4   1   1   5.3e-31   9.6e-27   92.6   0.4     1    51     1    53     1    53 0.99 Type-A lantibiotic
+LANC_like            PF05147.13   352 BGC0000532.1_ORF2:gid:mutM:pid:AAC38145.1:loc:725:3422:strand:+ -            898     4e-63  213.1  12.1   1   1     3e-64   2.7e-60  203.8  12.1     2   348   562   889   561   893 0.90 Lanthionine synthetase C-like protein
+DUF4135              PF13575.6    375 BGC0000532.1_ORF2:gid:mutM:pid:AAC38145.1:loc:725:3422:strand:+ -            898   6.5e-52  177.1   0.2   1   1   1.1e-55   9.6e-52  176.5   0.2    20   360   106   436    95   444 0.85 Domain of unknown function (DUF4135)
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000532.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000532.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000532.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:48:35 2019
+# [ok]

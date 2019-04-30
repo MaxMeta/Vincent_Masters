@@ -1,0 +1,76 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="221.56666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="211.56666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>
+putative glucosyltransferase</title>
+			<polygon class="
+putative glucosyltransferase" points="11,25 22,25 22,10 52,40 22,70 22,55 11,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_2 (PF00535)
+"Glycosyl transferase family 2"</title>
+				<rect class="PF00535" x="11" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(224,122,96)" stroke="rgb(179,97,76)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Glycos_transf_2 (PF00535)
+"Glycosyl transferase family 2"</title>
+				<polygon class="PF00535" points="36,28 36,28 48,40 36,52 36,52" stroke-linejoin="round" width="15" height="24" fill="rgb(224,122,96)" stroke="rgb(179,97,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>
+putative glycosyltransferase</title>
+			<polygon class="
+putative glycosyltransferase" points="63,25 72,25 72,10 102,40 72,70 72,55 63,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_2 (PF00535)
+"Glycosyl transferase family 2"</title>
+				<rect class="PF00535" x="63" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(224,122,96)" stroke="rgb(179,97,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cgtA
+beta-1,4-N-acetylgalactosaminyltransferase</title>
+			<polygon class="cgtA
+beta-1,4-N-acetylgalactosaminyltransferase" points="104,25 108,25 108,10 138,40 108,70 108,55 104,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CgtA (PF06306)
+"Beta-1,4-N-acetylgalactosaminyltransferase (CgtA)"</title>
+				<polygon class="PF06306" points="104,28 122,28 134,40 122,52 104,52" stroke-linejoin="round" width="34" height="24" fill="rgb(90,96,199)" stroke="rgb(72,76,159)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cgtB
+beta-1,3-galactosyltransferase</title>
+			<polygon class="cgtB
+beta-1,3-galactosyltransferase" points="169,25 169,25 169,10 139,40 169,70 169,55 169,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_2 (PF00535)
+"Glycosyl transferase family 2"</title>
+				<polygon class="PF00535" points="152,31 155,28 168,28 168,52 155,52 152,49" stroke-linejoin="round" width="16" height="24" fill="rgb(224,122,96)" stroke="rgb(179,97,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cst-II
+alpha-2,3-/2,8-sialyltransferase</title>
+			<polygon class="cst-II
+alpha-2,3-/2,8-sialyltransferase" points="172,10 201,40 172,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CST-I (PF06002)
+"Alpha-2,3-sialyltransferase (CST-I)"</title>
+				<polygon class="PF06002" points="172,28 185,28 197,40 185,52 172,52" stroke-linejoin="round" width="28" height="24" fill="rgb(200,60,176)" stroke="rgb(160,47,140)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>neuB
+sialic acid synthase</title>
+			<polygon class="neuB
+sialic acid synthase" points="201,10 211,40 201,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NeuB (PF03102)
+"NeuB family"</title>
+				<polygon class="PF03102" points="204,29 207,40 204,51" stroke-linejoin="round" width="6" height="24" fill="rgb(225,145,80)" stroke="rgb(180,116,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

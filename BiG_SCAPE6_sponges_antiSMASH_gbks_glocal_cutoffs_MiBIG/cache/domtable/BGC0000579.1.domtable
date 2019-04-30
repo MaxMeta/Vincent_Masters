@@ -1,0 +1,25 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Asn_synthase         PF00733.21   355 BGC0000579.1_ORF2:gid::pid:WP_007385813.1:loc:838:2161:strand:+ -            440   6.9e-38  131.2   0.0   1   1   5.1e-42   9.1e-38  130.8   0.0     2   354    40   424    39   425 0.81 Asparagine synthase
+PqqD                 PF05402.12    67 BGC0000579.1_ORF3:gid::pid:WP_007385814.1:loc:2157:2421:strand:+ -             87   5.6e-09   36.2   0.0   1   1   3.7e-13   6.6e-09   35.9   0.0     2    67    18    83    17    83 0.92 Coenzyme PQQ synthesis protein D (PqqD)
+Transglut_core3      PF13471.6    117 BGC0000579.1_ORF4:gid::pid:WP_007385815.1:loc:2417:2915:strand:+ -            165   7.1e-27   93.6   5.4   1   1     4e-31   7.1e-27   93.6   5.4     4   116    24   133    21   135 0.94 Transglutaminase-like superfamily
+ABC_tran             PF00005.27   137 BGC0000579.1_ORF5:gid::pid:WP_007385816.1:loc:2911:3889:strand:+ -            325   1.4e-28  100.1   0.0   1   1   3.2e-32   1.9e-28   99.7   0.0     3   136    26   167    24   168 0.92 ABC transporter
+AAA_21               PF13304.6    303 BGC0000579.1_ORF5:gid::pid:WP_007385816.1:loc:2911:3889:strand:+ -            325   1.9e-10   41.0   2.5   1   1   6.5e-11   3.9e-07   30.2   0.1   223   298   126   199    81   202 0.80 AAA domain, putative AbiEii toxin, Type IV TA system
+ABC2_membrane        PF01061.24   210 BGC0000579.1_ORF6:gid::pid:WP_007385817.1:loc:3894:4779:strand:+ -            294   3.3e-34  118.2  10.6   1   1   6.9e-38   4.1e-34  117.8  10.6     2   208    35   244    34   245 0.96 ABC-2 type transporter
+ABC2_membrane_3      PF12698.7    345 BGC0000579.1_ORF6:gid::pid:WP_007385817.1:loc:3894:4779:strand:+ -            294   2.9e-17   62.8   3.3   1   1   4.8e-21   2.9e-17   62.8   3.3   157   343    84   286    72   288 0.89 ABC-2 family transporter protein
+ABC2_membrane_2      PF12679.7    288 BGC0000579.1_ORF6:gid::pid:WP_007385817.1:loc:3894:4779:strand:+ -            294   7.2e-08   32.1  11.6   1   1   3.3e-11     2e-07   30.6  11.6    83   266    95   270    37   294 0.65 ABC-2 family transporter protein
+MauE                 PF07291.11   184 BGC0000579.1_ORF7:gid::pid:WP_007385818.1:loc:4814:5303:strand:+ -            162   8.9e-14   51.7   4.9   1   1   1.1e-17     1e-13   51.5   4.9     8   135     4   134     1   154 0.82 Methylamine utilisation protein MauE
+DoxX                 PF07681.12    85 BGC0000579.1_ORF7:gid::pid:WP_007385818.1:loc:4814:5303:strand:+ -            162   4.7e-08   33.5   9.6   1   1   5.2e-12   4.7e-08   33.5   9.6     3    80     7    85     5    92 0.88 DoxX
+Thioredoxin_4        PF13462.6    166 BGC0000579.1_ORF8:gid::pid:WP_007385819.1:loc:5306:6125:strand:+ -            272   2.3e-17   63.7   0.0   1   1   4.1e-21   3.7e-17   63.0   0.0     4   164    88   269    85   271 0.80 Thioredoxin
+DSBA                 PF01323.20   193 BGC0000579.1_ORF8:gid::pid:WP_007385819.1:loc:5306:6125:strand:+ -            272   3.3e-07   30.3   0.4   1   1     9e-10   8.1e-06   25.8   0.4     2   179   101   256   100   270 0.79 DSBA-like thioredoxin domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000579.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000579.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000579.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:28:16 2019
+# [ok]

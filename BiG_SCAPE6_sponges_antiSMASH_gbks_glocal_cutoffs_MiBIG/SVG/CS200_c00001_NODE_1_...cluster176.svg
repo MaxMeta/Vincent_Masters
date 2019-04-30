@@ -1,0 +1,123 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="579.1333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="569.1333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg4365_1)</title>
+			<polygon class=" (ctg4365_1)" points="75,25 40,25 40,10 10,40 40,70 40,55 75,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DNA_gyraseA_C (PF03989)
+"DNA gyrase C-terminal domain, beta-propeller"</title>
+				<polygon class="PF03989" points="14,40 13,41 13,39" stroke-linejoin="round" width="3" height="24" fill="rgb(52,134,190)" stroke="rgb(41,107,152)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DNA_gyraseA_C (PF03989)
+"DNA gyrase C-terminal domain, beta-propeller"</title>
+				<polygon class="PF03989" points="14,40 18,36 18,44 14,40" stroke-linejoin="round" width="4" height="24" fill="rgb(52,134,190)" stroke="rgb(41,107,152)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DNA_topoisoIV (PF00521)
+"DNA gyrase/topoisomerase IV, subunit A"</title>
+				<polygon class="PF00521" points="22,32 26,28 68,28 68,52 26,52 22,48" stroke-linejoin="round" width="46" height="24" fill="rgb(196,204,77)" stroke="rgb(156,163,61)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4365_2)</title>
+			<polygon class=" (ctg4365_2)" points="81,25 106,25 106,10 136,40 106,70 106,55 81,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TPP_enzyme_N (PF02776)
+"Thiamine pyrophosphate enzyme, N-terminal TPP binding domain"</title>
+				<rect class="PF02776" x="81" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(55,81,185)" stroke="rgb(44,64,148)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TPP_enzyme_M (PF00205)
+"Thiamine pyrophosphate enzyme, central domain"</title>
+				<rect class="PF00205" x="100" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(149,194,69)" stroke="rgb(119,155,55)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TPP_enzyme_C (PF02775)
+"Thiamine pyrophosphate enzyme, C-terminal TPP binding domain"</title>
+				<polygon class="PF02775" points="121,29 132,40 121,51" stroke-linejoin="round" width="14" height="24" fill="rgb(156,179,45)" stroke="rgb(124,143,36)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4365_3)</title>
+			<polygon class=" (ctg4365_3)" points="137,40 152,10 152,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SSB (PF00436)
+"Single-strand binding protein family"</title>
+				<polygon class="PF00436" points="141,38 146,28 151,28 151,52 146,52 141,42" stroke-linejoin="round" width="10" height="24" fill="rgb(64,225,98)" stroke="rgb(51,180,78)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4365_4)</title>
+			<polygon class=" (ctg4365_4)" points="206,25 189,25 189,10 159,40 189,70 189,55 206,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amidase (PF01425)
+"Amidase"</title>
+				<polygon class="PF01425" points="163,40 175,28 203,28 203,52 175,52" stroke-linejoin="round" width="42" height="24" fill="rgb(195,142,64)" stroke="rgb(156,113,51)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4365_5)</title>
+			<polygon class=" (ctg4365_5)" points="212,25 283,25 283,10 313,40 283,70 283,55 212,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>UvrA_inter (PF17760)
+"UvrA interaction domain"</title>
+				<rect class="PF17760" x="228" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(188,103,56)" stroke="rgb(150,82,44)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>UvrA_DNA-bind (PF17755)
+"UvrA DNA-binding domain"</title>
+				<rect class="PF17755" x="244" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(101,194,220)" stroke="rgb(80,155,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4365_6)</title>
+			<polygon class=" (ctg4365_6)" points="318,25 318,25 318,10 348,40 318,70 318,55 318,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="318,28 332,28 343,39 343,41 332,52 318,52" stroke-linejoin="round" width="25" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4365_7)</title>
+			<polygon class=" (ctg4365_7)" points="347,40 373,10 373,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg4365_8)</title>
+			<polygon class=" (ctg4365_8)" points="416,25 404,25 404,10 374,40 404,70 404,55 416,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amino_oxidase (PF01593)
+"Flavin containing amine oxidoreductase"</title>
+				<polygon class="PF01593" points="378,40 390,28 415,28 415,52 390,52" stroke-linejoin="round" width="40" height="24" fill="rgb(184,74,52)" stroke="rgb(147,59,41)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4365_9)</title>
+			<polygon class=" (ctg4365_9)" points="417,40 446,10 446,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="421,40 433,28 443,28 443,52 433,52" stroke-linejoin="round" width="25" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4365_10)</title>
+			<polygon class=" (ctg4365_10)" points="455,25 456,25 456,10 486,40 456,70 456,55 455,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LYTB (PF02401)
+"LytB protein"</title>
+				<polygon class="PF02401" points="455,28 470,28 482,40 482,40 470,52 455,52" stroke-linejoin="round" width="27" height="24" fill="rgb(155,62,193)" stroke="rgb(124,49,154)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4365_11)</title>
+			<polygon class=" (ctg4365_11)" points="494,25 507,25 507,10 537,40 507,70 507,55 494,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg4365_12)</title>
+			<polygon class=" (ctg4365_12)" points="568,25 568,25 568,10 538,40 568,70 568,55 568,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

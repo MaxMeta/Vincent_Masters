@@ -1,0 +1,21 @@
+#                                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                       accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                             -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Gallidermin          PF02052.15    52 BGC0000531.1_ORF2:gid:mutA:pid:AAG48564.1:loc:2456:2654:strand:+ -             65   7.8e-23   80.6   4.6   1   1   5.1e-27   9.2e-23   80.3   4.6     1    52    12    65    12    65 0.96 Gallidermin
+Gallidermin          PF02052.15    52 BGC0000531.1_ORF3:gid:mutA_:pid:AAG48565.1:loc:2722:2917:strand:+ -             64   2.1e-11   44.0   1.3   1   1   1.5e-15   2.6e-11   43.7   1.3     1    52    12    64    12    64 0.80 Gallidermin
+Lant_dehydr_N        PF04738.13   653 BGC0000531.1_ORF4:gid:mutB:pid:AAG48566.1:loc:3071:6044:strand:+ -            990  1.6e-118  396.6   0.0   1   1  2.2e-122  1.9e-118  396.3   0.0     2   653    38   662    37   662 0.93 Lantibiotic dehydratase, N terminus
+Lant_dehydr_C        PF14028.6    312 BGC0000531.1_ORF4:gid:mutB:pid:AAG48566.1:loc:3071:6044:strand:+ -            990   2.5e-17   63.4   0.1   1   1   1.3e-20   1.2e-16   61.2   0.1     2   308   724   970   723   974 0.79 Lantibiotic biosynthesis dehydratase C-term
+LANC_like            PF05147.13   352 BGC0000531.1_ORF5:gid:mutC:pid:AAG48567.1:loc:6030:7308:strand:+ -            425   9.5e-50  169.1   6.8   1   1   6.7e-54   1.2e-49  168.8   6.8     4   341    41   408    39   423 0.87 Lanthionine synthetase C-like protein
+Flavoprotein         PF02441.19   158 BGC0000531.1_ORF6:gid:mutD:pid:AAG48568.1:loc:7330:7897:strand:+ -            188   2.1e-32  112.1   0.4   1   1   1.4e-36   2.6e-32  111.8   0.4     1   146     8   166     8   184 0.87 Flavoprotein
+Peptidase_S8         PF00082.22   298 BGC0000531.1_ORF7:gid:mutP:pid:AAG48569.1:loc:7901:9245:strand:+ -            447   2.4e-42  145.2   7.7   1   1     2e-46   3.6e-42  144.7   7.7     2   285   130   435   129   447 0.88 Subtilase family
+ABC_membrane         PF00664.23   274 BGC0000531.1_ORF8:gid:mutT:pid:AAG48570.1:loc:9245:9746:strand:+ -            167   3.3e-07   30.2   9.5   1   1   2.4e-11   4.4e-07   29.8   9.5     2   159    18   163    17   167 0.93 ABC transporter transmembrane region
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000531.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000531.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000531.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:38:48 2019
+# [ok]

@@ -1,0 +1,23 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SQS_PSY              PF00494.19   263 CS204_c00001_NODE_1_...cluster203_ORF1:gid::pid::loc:1:535:strand:- -            178   1.5e-40  139.4   0.0   1   1     1e-44   1.8e-40  139.1   0.0     4   160    18   178    16   178 0.94 Squalene/phytoene synthase
+SQS_PSY              PF00494.19   263 CS204_c00001_NODE_1_...cluster203_ORF2:gid::pid::loc:531:1356:strand:- -            274   1.6e-55  188.5   1.7   1   1     1e-59   1.8e-55  188.2   1.7     2   256     3   247     2   257 0.94 Squalene/phytoene synthase
+tRNA_m1G_MT          PF01746.21   195 CS204_c00001_NODE_1_...cluster203_ORF3:gid::pid::loc:1576:2263:strand:+ -            228     6e-54  182.7   0.0   1   1   3.8e-58   6.8e-54  182.5   0.0     2   195    23   216    22   216 0.99 tRNA (Guanine-1)-methyltransferase
+Ribosomal_L19        PF01245.20   111 CS204_c00001_NODE_1_...cluster203_ORF4:gid::pid::loc:2246:2666:strand:+ -            139   2.1e-45  153.2   0.5   1   1   1.3e-49   2.4e-45  153.0   0.5     3   111    29   137    27   137 0.97 Ribosomal protein L19
+Peptidase_S24        PF00717.23    70 CS204_c00001_NODE_1_...cluster203_ORF5:gid::pid::loc:2797:3352:strand:+ -            184   3.8e-15   55.6   0.5   1   1   5.6e-18   5.1e-14   52.0   0.5     1    60    24   112    24   119 0.94 Peptidase S24-like
+Peptidase_S26        PF10502.9    138 CS204_c00001_NODE_1_...cluster203_ORF5:gid::pid::loc:2797:3352:strand:+ -            184     2e-13   50.3   0.0   1   1   4.3e-17   3.8e-13   49.4   0.0    23   134    53   172    42   176 0.83 Signal peptidase, peptidase S26
+UPF0102              PF02021.17    79 CS204_c00001_NODE_1_...cluster203_ORF6:gid::pid::loc:3440:3803:strand:+ -            120   1.3e-15   57.3   0.2   1   1   9.4e-20   1.7e-15   57.0   0.2     1    79    17   104    17   104 0.88 Uncharacterised protein family UPF0102
+ECH_1                PF00378.20   251 CS204_c00001_NODE_1_...cluster203_ORF8:gid::pid::loc:3962:4739:strand:+ -            258   3.2e-46  157.7   0.0   1   1     4e-50   3.6e-46  157.5   0.0     8   250    13   257     6   258 0.95 Enoyl-CoA hydratase/isomerase
+ECH_2                PF16113.5    334 CS204_c00001_NODE_1_...cluster203_ORF8:gid::pid::loc:3962:4739:strand:+ -            258   2.1e-26   93.2   0.0   1   1     1e-28   9.1e-25   87.8   0.0     2   184    12   193    11   197 0.93 Enoyl-CoA hydratase/isomerase
+ChlI                 PF13541.6    121 CS204_c00001_NODE_1_...cluster203_ORF9:gid::pid::loc:4835:5264:strand:+ -            143   9.2e-39  132.0   0.0   1   1     6e-43   1.1e-38  131.8   0.0     1   119    24   142    24   143 0.95 Subunit ChlI of Mg-chelatase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS204_c00001_NODE_1_...cluster203.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS204_c00001_NODE_1_...cluster203.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS204_c00001_NODE_1_...cluster203.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:32:49 2019
+# [ok]

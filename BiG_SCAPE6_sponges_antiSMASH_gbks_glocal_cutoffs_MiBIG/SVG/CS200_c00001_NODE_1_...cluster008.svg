@@ -1,0 +1,62 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="366.23333333333335" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="356.23333333333335" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg2_1190)</title>
+			<polygon class=" (ctg2_1190)" points="25,10 46,40 25,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MOSC (PF03473)
+"MOSC domain"</title>
+				<polygon class="PF03473" points="29,28 34,28 40,36 40,44 34,52 29,52" stroke-linejoin="round" width="11" height="24" fill="rgb(96,194,162)" stroke="rgb(76,155,129)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_1191)</title>
+			<polygon class=" (ctg2_1191)" points="47,10 57,40 47,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2_1192)</title>
+			<polygon class=" (ctg2_1192)" points="59,10 79,40 59,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_23 (PF13489)
+"Methyltransferase domain"</title>
+				<polygon class="PF13489" points="60,28 67,28 75,40 67,52 60,52" stroke-linejoin="round" width="16" height="24" fill="rgb(188,189,66)" stroke="rgb(150,151,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_1193)</title>
+			<polygon class=" (ctg2_1193)" points="79,40 104,10 104,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1080 (PF06439)
+"Domain of Unknown Function (DUF1080)"</title>
+				<polygon class="PF06439" points="83,40 93,28 98,28 98,52 93,52" stroke-linejoin="round" width="19" height="24" fill="rgb(136,84,203)" stroke="rgb(108,67,162)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_1194)</title>
+			<polygon class=" (ctg2_1194)" points="167,25 150,25 150,10 120,40 150,70 150,55 167,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aldedh (PF00171)
+"Aldehyde dehydrogenase family"</title>
+				<polygon class="PF00171" points="124,40 136,28 165,28 165,52 136,52" stroke-linejoin="round" width="45" height="24" fill="rgb(105,213,139)" stroke="rgb(84,170,111)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_1195)</title>
+			<polygon class=" (ctg2_1195)" points="176,10 188,40 176,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2_1196)</title>
+			<polygon class=" (ctg2_1196)" points="230,25 223,25 223,10 193,40 223,70 223,55 230,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2_1197)</title>
+			<polygon class=" (ctg2_1197)" points="307,25 260,25 260,10 230,40 260,70 260,55 307,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YcaO (PF02624)
+"YcaO cyclodehydratase, ATP-ad Mg2+-binding"</title>
+				<polygon class="PF02624" points="234,40 246,28 266,28 266,52 246,52" stroke-linejoin="round" width="33" height="24" fill="rgb(76,84,185)" stroke="rgb(60,67,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

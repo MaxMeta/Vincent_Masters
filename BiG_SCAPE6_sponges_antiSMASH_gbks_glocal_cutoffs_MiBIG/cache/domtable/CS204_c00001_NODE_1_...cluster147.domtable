@@ -1,0 +1,23 @@
+#                                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+LpxC                 PF03331.13   270 CS204_c00001_NODE_1_...cluster147_ORF1:gid::pid::loc:1548:2460:strand:- -            303   2.6e-91  305.9   0.0   1   1   1.7e-95     3e-91  305.7   0.0     1   269     4   274     4   275 0.99 UDP-3-O-acyl N-acetylglycosamine deacetylase
+TerB                 PF05099.13   144 CS204_c00001_NODE_1_...cluster147_ORF2:gid::pid::loc:2588:3047:strand:+ -            152   1.6e-23   83.2   0.1   1   1     1e-27   1.9e-23   83.0   0.1     6   143     9   146     4   147 0.91 Tellurite resistance protein TerB
+Epimerase            PF01370.21   241 CS204_c00001_NODE_1_...cluster147_ORF3:gid::pid::loc:3129:4209:strand:+ -            359   9.9e-24   84.1   0.0   1   1   6.5e-27   1.9e-23   83.2   0.0     2   231    16   270    15   278 0.88 NAD dependent epimerase/dehydratase family
+3Beta_HSD            PF01073.19   280 CS204_c00001_NODE_1_...cluster147_ORF3:gid::pid::loc:3129:4209:strand:+ -            359   2.4e-13   49.7   0.0   1   1   1.9e-16   5.8e-13   48.5   0.0     1   234    16   270    16   281 0.72 3-beta hydroxysteroid dehydrogenase/isomerase family
+GDP_Man_Dehyd        PF16363.5    332 CS204_c00001_NODE_1_...cluster147_ORF3:gid::pid::loc:3129:4209:strand:+ -            359   1.8e-12   47.3   0.0   1   1   2.1e-15   6.2e-12   45.6   0.0     2   174    17   201    16   220 0.79 GDP-mannose 4,6 dehydratase
+NAD_binding_10       PF13460.6    184 CS204_c00001_NODE_1_...cluster147_ORF3:gid::pid::loc:3129:4209:strand:+ -            359   7.9e-11   42.2   0.0   1   1   8.4e-14   2.5e-10   40.5   0.0     1   106    19   145    19   200 0.70 NAD(P)H-binding
+NmrA                 PF05368.13   233 CS204_c00001_NODE_1_...cluster147_ORF3:gid::pid::loc:3129:4209:strand:+ -            359   1.7e-09   37.6   0.0   1   1   1.1e-12   3.4e-09   36.6   0.0     1   106    15   140    15   153 0.75 NmrA-like family
+NAD_binding_4        PF07993.12   257 CS204_c00001_NODE_1_...cluster147_ORF3:gid::pid::loc:3129:4209:strand:+ -            359   3.2e-08   33.1   0.0   1   1   1.7e-11   5.2e-08   32.4   0.0     1   218    17   228    17   257 0.75 Male sterility protein
+DUF2063              PF09836.9     85 CS204_c00001_NODE_1_...cluster147_ORF4:gid::pid::loc:4237:5041:strand:- -            267   4.5e-21   74.9   0.2   1   1   4.8e-25   8.6e-21   74.0   0.1     2    85    26   111    25   111 0.97 Putative DNA-binding domain
+DUF692               PF05114.13   263 CS204_c00001_NODE_1_...cluster147_ORF5:gid::pid::loc:5000:5543:strand:- -            180   1.1e-62  211.6   0.3   1   1   7.3e-67   1.3e-62  211.4   0.3   104   262     9   167     2   168 0.97 Protein of unknown function (DUF692)
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS204_c00001_NODE_1_...cluster147.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS204_c00001_NODE_1_...cluster147.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS204_c00001_NODE_1_...cluster147.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:33:09 2019
+# [ok]

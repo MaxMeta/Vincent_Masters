@@ -1,0 +1,103 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="297.4" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="287.4" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg1441_1)</title>
+			<polygon class=" (ctg1441_1)" points="10,10 13,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1441_2)</title>
+			<polygon class=" (ctg1441_2)" points="13,10 31,40 13,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>tRNA_bind (PF01588)
+"Putative tRNA binding domain"</title>
+				<polygon class="PF01588" points="21,30 27,40 21,50" stroke-linejoin="round" width="9" height="24" fill="rgb(192,51,118)" stroke="rgb(153,40,94)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1441_3)</title>
+			<polygon class=" (ctg1441_3)" points="45,10 66,40 45,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HhH-GPD (PF00730)
+"HhH-GPD superfamily base excision DNA repair protein"</title>
+				<polygon class="PF00730" points="48,28 54,28 61,38 61,42 54,52 48,52" stroke-linejoin="round" width="13" height="24" fill="rgb(190,78,115)" stroke="rgb(152,62,92)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>EndIII_4Fe-2S (PF10576)
+"Iron-sulfur binding domain of endonuclease III"</title>
+				<polygon class="PF10576" points="63,40 62,40 63,40" stroke-linejoin="round" width="1" height="24" fill="rgb(203,113,64)" stroke="rgb(162,90,51)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1441_4)</title>
+			<polygon class=" (ctg1441_4)" points="67,10 88,40 67,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DoxX (PF07681)
+"DoxX"</title>
+				<polygon class="PF07681" points="69,28 76,28 77,29 77,51 76,52 69,52" stroke-linejoin="round" width="8" height="24" fill="rgb(93,188,216)" stroke="rgb(74,150,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1441_5)</title>
+			<polygon class=" (ctg1441_5)" points="91,10 119,40 91,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF692 (PF05114)
+"Protein of unknown function (DUF692)"</title>
+				<polygon class="PF05114" points="92,28 103,28 115,40 103,52 92,52" stroke-linejoin="round" width="26" height="24" fill="rgb(63,196,127)" stroke="rgb(50,156,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1441_6)</title>
+			<polygon class=" (ctg1441_6)" points="121,10 147,40 121,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2063 (PF09836)
+"Putative DNA-binding domain"</title>
+				<rect class="PF09836" x="122" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(88,194,190)" stroke="rgb(70,155,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1441_7)</title>
+			<polygon class=" (ctg1441_7)" points="147,40 165,10 165,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cob_adeno_trans (PF01923)
+"Cobalamin adenosyltransferase"</title>
+				<polygon class="PF01923" points="151,40 158,28 163,28 163,52 158,52" stroke-linejoin="round" width="15" height="24" fill="rgb(53,94,194)" stroke="rgb(42,75,155)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1441_8)</title>
+			<polygon class=" (ctg1441_8)" points="198,25 196,25 196,10 166,40 196,70 196,55 198,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TonB_dep_Rec (PF00593)
+"TonB dependent receptor"</title>
+				<polygon class="PF00593" points="170,40 182,28 197,28 197,52 182,52" stroke-linejoin="round" width="31" height="24" fill="rgb(171,200,51)" stroke="rgb(136,160,40)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1441_9)</title>
+			<polygon class=" (ctg1441_9)" points="202,40 208,10 208,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1441_10)</title>
+			<polygon class=" (ctg1441_10)" points="208,40 220,10 220,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Plug (PF07715)
+"TonB-dependent Receptor Plug Domain"</title>
+				<polygon class="PF07715" points="211,40 216,28 219,28 219,52 216,52" stroke-linejoin="round" width="9" height="24" fill="rgb(99,133,214)" stroke="rgb(79,106,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1441_11)</title>
+			<polygon class=" (ctg1441_11)" points="228,40 251,10 251,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short (PF00106)
+"short chain dehydrogenase"</title>
+				<polygon class="PF00106" points="232,40 242,28 250,28 250,52 242,52" stroke-linejoin="round" width="19" height="24" fill="rgb(182,219,73)" stroke="rgb(145,175,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1441_12)</title>
+			<polygon class=" (ctg1441_12)" points="252,40 258,10 258,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

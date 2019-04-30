@@ -1,0 +1,33 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Bac_transf           PF02397.16   184 BGC0000868.1_ORF1:gid:tuaA:pid:AAB94862.1:loc:230:770:strand:+ -            179   3.4e-48  163.7   0.0   1   1   2.3e-52   4.1e-48  163.4   0.0     1   119    34   153    34   172 0.91 Bacterial sugar transferase
+Polysacc_synt        PF01943.17   274 BGC0000868.1_ORF2:gid:tuaB:pid:AAB94863.1:loc:919:2371:strand:+ -            483   3.8e-71  239.7  26.4   1   1   6.4e-75   3.8e-71  239.7  26.4     4   273    11   276     8   277 0.98 Polysaccharide biosynthesis protein
+Polysacc_synt_3      PF13440.6    293 BGC0000868.1_ORF2:gid:tuaB:pid:AAB94863.1:loc:919:2371:strand:+ -            483   4.5e-70  236.2  19.2   1   1   7.5e-74   4.5e-70  236.2  19.2     5   293    36   326    32   326 0.97 Polysaccharide biosynthesis protein
+Polysacc_synt_C      PF14667.6    143 BGC0000868.1_ORF2:gid:tuaB:pid:AAB94863.1:loc:919:2371:strand:+ -            483   4.3e-08   33.3  21.1   1   1   7.2e-12   4.3e-08   33.3  21.1     1   140   327   467   327   469 0.89 Polysaccharide biosynthesis C-terminal domain
+Glycos_transf_1      PF00534.20   172 BGC0000868.1_ORF3:gid:tuaC:pid:AAB94864.1:loc:2367:3537:strand:+ -            389   3.9e-32  111.2   0.0   1   1     2e-35   7.1e-32  110.3   0.0     2   159   206   350   205   366 0.93 Glycosyl transferases group 1
+Glyco_trans_1_4      PF13692.6    134 BGC0000868.1_ORF3:gid:tuaC:pid:AAB94864.1:loc:2367:3537:strand:+ -            389   8.5e-26   91.0   0.0   1   1   4.6e-29   1.7e-25   90.0   0.0     4   130   222   345   219   348 0.88 Glycosyl transferases group 1
+Glyco_transf_4       PF13439.6    170 BGC0000868.1_ORF3:gid:tuaC:pid:AAB94864.1:loc:2367:3537:strand:+ -            389   1.8e-16   60.6   0.6   1   1   1.5e-19   5.2e-16   59.1   0.1    10   170    24   198    17   198 0.74 Glycosyltransferase Family 4
+Glyco_trans_4_4      PF13579.6    160 BGC0000868.1_ORF3:gid:tuaC:pid:AAB94864.1:loc:2367:3537:strand:+ -            389   3.5e-15   56.8   0.2   1   1   2.7e-18   9.7e-15   55.4   0.1    10   154    25   189    17   194 0.79 Glycosyl transferase 4-like domain
+Glyco_trans_4_2      PF13477.6    139 BGC0000868.1_ORF3:gid:tuaC:pid:AAB94864.1:loc:2367:3537:strand:+ -            389   3.2e-09   36.9   0.1   1   1   2.7e-11   9.7e-08   32.1   0.1    11   133    20   166    14   172 0.64 Glycosyl transferase 4-like
+UDPG_MGDP_dh_N       PF03721.14   187 BGC0000868.1_ORF4:gid:tuaD:pid:AAB94865.1:loc:3598:4984:strand:+ -            461   3.8e-71  238.5   2.1   1   1   1.2e-74   7.3e-71  237.6   1.4     2   187     3   185     2   185 0.97 UDP-glucose/GDP-mannose dehydrogenase family, NAD binding domain
+UDPG_MGDP_dh         PF00984.19    94 BGC0000868.1_ORF4:gid:tuaD:pid:AAB94865.1:loc:3598:4984:strand:+ -            461   4.7e-41  138.9   0.1   1   1   3.4e-44     2e-40  136.9   0.1     1    93   199   291   199   292 0.99 UDP-glucose/GDP-mannose dehydrogenase family, central domain
+UDPG_MGDP_dh_C       PF03720.15   105 BGC0000868.1_ORF4:gid:tuaD:pid:AAB94865.1:loc:3598:4984:strand:+ -            461   1.4e-31  109.0   0.1   1   1   9.3e-33   5.5e-29  100.7   0.0     2   103   315   414   314   416 0.97 UDP-glucose/GDP-mannose dehydrogenase family, UDP binding domain
+Wzy_C                PF04932.15   155 BGC0000868.1_ORF5:gid:tuaE:pid:AAB94866.1:loc:5068:6535:strand:+ -            488   8.1e-17   61.3   6.3   1   1   4.5e-21   8.1e-17   61.3   6.3     2   155   262   410   258   410 0.86 O-Antigen ligase
+Wzz                  PF02706.15    92 BGC0000868.1_ORF6:gid:tuaF:pid:AAB94867.1:loc:6563:7244:strand:+ -            226     5e-09   36.4   1.3   1   1   3.2e-13   5.6e-09   36.2   0.0     3    91     4    81     2    82 0.94 Chain length determinant protein
+Glycos_transf_2      PF00535.26   170 BGC0000868.1_ORF7:gid:tuaG:pid:AAB94868.1:loc:7267:8026:strand:+ -            252     2e-39  135.1   0.1   1   1   5.7e-43   2.6e-39  134.8   0.1     1   106     9   113     9   158 0.94 Glycosyl transferase family 2
+Glyco_tranf_2_3      PF13641.6    230 BGC0000868.1_ORF7:gid:tuaG:pid:AAB94868.1:loc:7267:8026:strand:+ -            252   5.6e-17   62.4   0.0   1   1   3.2e-20   1.4e-16   61.1   0.0     4   202     8   194     6   231 0.73 Glycosyltransferase like family 2
+Glyco_tranf_2_2      PF10111.9    276 BGC0000868.1_ORF7:gid:tuaG:pid:AAB94868.1:loc:7267:8026:strand:+ -            252     3e-14   53.2   0.2   1   1   1.4e-17   6.2e-14   52.1   0.1     2   106    10   111     9   118 0.83 Glycosyltransferase like family 2
+Glyco_tranf_2_4      PF13704.6     96 BGC0000868.1_ORF7:gid:tuaG:pid:AAB94868.1:loc:7267:8026:strand:+ -            252   7.3e-07   29.6   1.2   1   1   1.6e-10   7.3e-07   29.6   1.2     1    82    15    97    15   110 0.79 Glycosyl transferase family 2
+Glyco_trans_1_4      PF13692.6    134 BGC0000868.1_ORF8:gid:tuaH:pid:AAB94869.1:loc:8054:9248:strand:+ -            397   5.9e-11   42.9   0.0   1   1   1.1e-14     1e-10   42.2   0.0    20   132   239   359   221   361 0.69 Glycosyl transferases group 1
+Glycos_transf_1      PF00534.20   172 BGC0000868.1_ORF8:gid:tuaH:pid:AAB94869.1:loc:8054:9248:strand:+ -            397   3.6e-08   33.1   0.0   1   1   6.2e-12   5.6e-08   32.5   0.0    17   169   223   374   212   377 0.86 Glycosyl transferases group 1
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000868.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000868.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000868.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:34:36 2019
+# [ok]

@@ -1,0 +1,18 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NHase_alpha          PF02979.16   184 CS211_c00001_NODE_1_...cluster197_ORF2:gid::pid::loc:717:972:strand:+ -             84   7.1e-08   32.0   0.0   1   1   4.8e-12   8.5e-08   31.7   0.0   114   170    18    71    13    80 0.87 Nitrile hydratase, alpha chain
+MMPL                 PF03176.15   333 CS211_c00001_NODE_1_...cluster197_ORF3:gid::pid::loc:1377:3696:strand:+ -            772   3.9e-26   91.8  39.0   1   2   2.8e-23   2.5e-19   69.4  11.0    66   308   108   382    49   414 0.78 MMPL family
+MMPL                 PF03176.15   333 CS211_c00001_NODE_1_...cluster197_ORF3:gid::pid::loc:1377:3696:strand:+ -            772   3.9e-26   91.8  39.0   2   2     1e-10     9e-07   28.1  20.1    86   305   550   763   547   770 0.85 MMPL family
+Sterol-sensing       PF12349.8    153 CS211_c00001_NODE_1_...cluster197_ORF3:gid::pid::loc:1377:3696:strand:+ -            772   8.9e-13   48.4   6.4   1   1   6.1e-15   5.5e-11   42.5   0.6     6   135   247   375   242   388 0.89 Sterol-sensing domain of SREBP cleavage-activation
+FAD_binding_4        PF01565.23   139 CS211_c00001_NODE_1_...cluster197_ORF4:gid::pid::loc:4051:5395:strand:+ -            447   5.3e-31  107.2   2.1   1   1   4.8e-35   8.6e-31  106.5   2.1     1   138    32   166    32   167 0.96 FAD binding domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster197.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS211_c00001_NODE_1_...cluster197.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster197.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:36:57 2019
+# [ok]

@@ -1,0 +1,21 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+PP-binding           PF00550.25    67 BGC0000328.1_ORF1:gid::pid:AAQ93482.1:loc:0:231:strand:+ -             76   3.6e-11   43.3   0.1   1   1   2.2e-15     4e-11   43.1   0.1     2    55     5    55     4    69 0.90 Phosphopantetheine attachment site
+Abhydrolase_1        PF00561.20   257 BGC0000328.1_ORF2:gid::pid:AAQ93483.1:loc:241:1090:strand:+ -            282   5.8e-09   36.0   0.0   1   1   4.3e-13   7.7e-09   35.6   0.0   164   256   169   261    88   262 0.78 alpha/beta hydrolase fold
+AMP-binding          PF00501.28   423 BGC0000328.1_ORF3:gid::pid:AAQ93484.1:loc:1086:2874:strand:+ -            595   1.2e-69  235.0   0.0   1   1   2.6e-73   1.5e-69  234.6   0.0     1   422    15   408    15   409 0.85 AMP-binding enzyme
+AMP-binding_C        PF13193.6     76 BGC0000328.1_ORF3:gid::pid:AAQ93484.1:loc:1086:2874:strand:+ -            595   2.4e-11   44.5   0.0   1   1   1.3e-14   7.8e-11   42.8   0.0     1    76   417   493   417   493 0.88 AMP-binding enzyme C-terminal domain
+PP-binding           PF00550.25    67 BGC0000328.1_ORF3:gid::pid:AAQ93484.1:loc:1086:2874:strand:+ -            595   3.8e-05   24.0   0.0   1   1   1.2e-08   6.9e-05   23.1   0.0     2    66   515   577   514   578 0.95 Phosphopantetheine attachment site
+PhyH                 PF05721.13   211 BGC0000328.1_ORF4:gid::pid:AAQ93485.1:loc:2860:3790:strand:+ -            309   1.2e-51  176.0   0.0   1   1   7.7e-56   1.4e-51  175.8   0.0     1   208    16   243    16   246 0.96 Phytanoyl-CoA dioxygenase (PhyH)
+Thioesterase         PF00975.20   231 BGC0000328.1_ORF6:gid::pid:AAQ93487.1:loc:4231:4993:strand:+ -            253   5.5e-26   92.1   0.0   1   1   7.6e-30   6.8e-26   91.8   0.0     3   216    26   234    24   239 0.89 Thioesterase domain
+Abhydrolase_6        PF12697.7    220 BGC0000328.1_ORF6:gid::pid:AAQ93487.1:loc:4231:4993:strand:+ -            253   4.3e-09   37.3   4.4   1   1   7.5e-13   6.7e-09   36.7   4.4     8   210    33   233    15   237 0.63 Alpha/beta hydrolase family
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000328.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000328.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000328.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:51:44 2019
+# [ok]

@@ -1,0 +1,20 @@
+#                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Glycos_transf_N      PF04413.16   178 BGC0000779.1_ORF1:gid:waaA:pid:ACA14480.1:loc:319:1585:strand:- -            421     9e-63  211.1   0.6   1   1   3.6e-66   3.3e-62  209.3   0.1     2   178    35   211    34   211 0.97 3-Deoxy-D-manno-octulosonic-acid transferase (kdotransferase)
+Glycos_transf_1      PF00534.20   172 BGC0000779.1_ORF1:gid:waaA:pid:ACA14480.1:loc:319:1585:strand:- -            421   1.1e-07   31.6   0.0   1   1   2.9e-11   2.6e-07   30.3   0.0    32   171   247   398   239   399 0.82 Glycosyl transferases group 1
+Glyco_transf_9       PF01075.17   249 BGC0000779.1_ORF2:gid:wahF:pid:ACA14481.1:loc:1586:2741:strand:- -            384     5e-70  235.6   0.0   1   1   3.4e-74     6e-70  235.4   0.0     1   248    82   335    82   336 0.98 Glycosyltransferase family 9 (heptosyltransferase)
+Glycos_transf_2      PF00535.26   170 BGC0000779.1_ORF3:gid:waaE:pid:ACA14482.1:loc:2943:3732:strand:+ -            262   1.2e-16   61.0   0.0   1   1   2.1e-20   1.9e-16   60.4   0.0     3   133     9   131     7   179 0.87 Glycosyl transferase family 2
+Glyco_tranf_2_4      PF13704.6     96 BGC0000779.1_ORF3:gid:waaE:pid:ACA14482.1:loc:2943:3732:strand:+ -            262   1.5e-07   31.8   0.0   1   1   6.4e-11   5.8e-07   29.9   0.0     1    87    13    92    13   101 0.82 Glycosyl transferase family 2
+Glyco_transf_9       PF01075.17   249 BGC0000779.1_ORF4:gid:waaF:pid:ACA14483.1:loc:3793:4837:strand:- -            347   1.5e-16   60.5   0.0   1   1   1.1e-20     2e-16   60.1   0.0     2   227    68   307    67   323 0.80 Glycosyltransferase family 9 (heptosyltransferase)
+CTP_transf_like      PF01467.26   143 BGC0000779.1_ORF5:gid:coaD:pid:ACA14484.1:loc:4905:5553:strand:+ -            215   2.9e-21   76.2   0.0   1   1     2e-25   3.6e-21   75.9   0.0     1   142    61   189    61   190 0.97 Cytidylyltransferase-like
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000779.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000779.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000779.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:46:08 2019
+# [ok]

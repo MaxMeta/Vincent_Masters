@@ -1,0 +1,18 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ABC_tran             PF00005.27   137 BGC0001171.1_ORF2:gid::pid:AAT03890.1:loc:214:1102:strand:+ -            295   9.6e-22   78.0   0.3   1   1   5.5e-25   4.9e-21   75.7   0.1     6   136    26   148    22   149 0.94 ABC transporter
+ABC2_membrane        PF01061.24   210 BGC0001171.1_ORF3:gid::pid:AAT03891.1:loc:1101:1851:strand:+ -            249   1.1e-13   51.1  26.0   1   1   6.2e-18   1.1e-13   51.1  26.0     7   203     4   204     1   210 0.89 ABC-2 type transporter
+Nitroreductase       PF00881.24   170 BGC0001171.1_ORF5:gid::pid:AAT03893.1:loc:2205:3081:strand:+ -            291   4.5e-13   49.6   0.0   1   1   3.8e-17   6.9e-13   49.0   0.0     2   164   107   284   106   290 0.92 Nitroreductase family
+YcaO                 PF02624.16   323 BGC0001171.1_ORF7:gid::pid:AAT03895.1:loc:3998:5312:strand:+ -            437   1.9e-35  122.7   0.0   1   1   1.2e-39   2.2e-35  122.5   0.0     1   322    69   406    69   407 0.79 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+CPBP                 PF02517.16    92 BGC0001171.1_ORF8:gid::pid:AAT03896.1:loc:5304:5892:strand:+ -            195     4e-07   30.3  23.2   1   1   1.4e-10   2.5e-06   27.8  23.2     7    92    93   180     5   180 0.91 CPBP intramembrane metalloprotease
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001171.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001171.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001171.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:46:22 2019
+# [ok]

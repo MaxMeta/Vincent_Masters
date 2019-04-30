@@ -1,0 +1,25 @@
+#                                                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ABC_membrane         PF00664.23   274 CS200_c00001_NODE_1_...cluster124_ORF2:gid::pid::loc:782:2567:strand:- -            594   5.9e-39  134.4  11.3   1   1   8.6e-43   7.7e-39  134.0  11.3     2   274    29   299    28   299 0.99 ABC transporter transmembrane region
+ABC_tran             PF00005.27   137 CS200_c00001_NODE_1_...cluster124_ORF2:gid::pid::loc:782:2567:strand:- -            594   2.4e-30  105.8   0.0   1   1   4.4e-34   3.9e-30  105.1   0.0     1   137   361   510   361   510 0.91 ABC transporter
+Lant_dehydr_N        PF04738.13   653 CS200_c00001_NODE_1_...cluster124_ORF10:gid::pid::loc:5833:6226:strand:+ -            130   2.4e-17   62.3   0.0   1   1   1.5e-21   2.7e-17   62.1   0.0   110   221     1   112     1   121 0.96 Lantibiotic dehydratase, N terminus
+Lant_dehydr_N        PF04738.13   653 CS200_c00001_NODE_1_...cluster124_ORF11:gid::pid::loc:6206:8582:strand:+ -            791   5.8e-97  325.4   0.3   1   1  8.6e-101   7.7e-97  325.0   0.3   250   653    16   432     2   432 0.92 Lantibiotic dehydratase, N terminus
+Lant_dehydr_C        PF14028.6    312 CS200_c00001_NODE_1_...cluster124_ORF11:gid::pid::loc:6206:8582:strand:+ -            791   1.2e-56  192.6   1.2   1   1   1.9e-60   1.7e-56  192.1   1.2     1   312   509   780   509   780 0.95 Lantibiotic biosynthesis dehydratase C-term
+LANC_like            PF05147.13   352 CS200_c00001_NODE_1_...cluster124_ORF12:gid::pid::loc:8881:10159:strand:+ -            425   2.4e-27   95.5   0.0   1   1   2.2e-31   3.9e-27   94.7   0.0    14   352    45   423    43   423 0.79 Lanthionine synthetase C-like protein
+MacB_PCD             PF12704.7    195 CS200_c00001_NODE_1_...cluster124_ORF17:gid::pid::loc:11963:14438:strand:+ -            824   1.6e-25   90.6   8.1   1   2   2.6e-21   2.3e-17   64.0   0.1     3   193    23   237    21   239 0.70 MacB-like periplasmic core domain
+MacB_PCD             PF12704.7    195 CS200_c00001_NODE_1_...cluster124_ORF17:gid::pid::loc:11963:14438:strand:+ -            824   1.6e-25   90.6   8.1   2   2   4.4e-11   3.9e-07   30.6   0.2    14   167   442   635   435   667 0.64 MacB-like periplasmic core domain
+FtsX                 PF02687.21    96 CS200_c00001_NODE_1_...cluster124_ORF17:gid::pid::loc:11963:14438:strand:+ -            824   4.9e-12   46.2   5.4   1   2   7.1e-11   6.4e-07   29.8   1.9     3    94   317   414   315   416 0.87 FtsX-like permease family
+FtsX                 PF02687.21    96 CS200_c00001_NODE_1_...cluster124_ORF17:gid::pid::loc:11963:14438:strand:+ -            824   4.9e-12   46.2   5.4   2   2   6.4e-10   5.7e-06   26.7   0.1     2    78   730   803   729   817 0.73 FtsX-like permease family
+MR_MLE_C             PF13378.6    220 CS200_c00001_NODE_1_...cluster124_ORF20:gid::pid::loc:16624:17929:strand:+ -            434   2.9e-20   72.8   0.0   1   1   2.2e-24     4e-20   72.3   0.0     5   219   132   335   128   336 0.90 Enolase C-terminal domain-like
+Sulfotransfer_1      PF00685.27   267 CS200_c00001_NODE_1_...cluster124_ORF23:gid::pid::loc:18352:18841:strand:+ -            162   1.4e-06   28.0   0.0   1   1   1.1e-10   1.9e-06   27.6   0.0   157   260    22   134     4   152 0.86 Sulfotransferase domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS200_c00001_NODE_1_...cluster124.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS200_c00001_NODE_1_...cluster124.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS200_c00001_NODE_1_...cluster124.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:29:34 2019
+# [ok]

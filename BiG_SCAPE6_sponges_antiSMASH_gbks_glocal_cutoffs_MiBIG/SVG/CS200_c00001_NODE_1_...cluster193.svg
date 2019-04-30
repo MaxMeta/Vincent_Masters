@@ -1,0 +1,151 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="469.4" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="459.4" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg5630_1)</title>
+			<polygon class=" (ctg5630_1)" points="71,25 40,25 40,10 10,40 40,70 40,55 71,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Helicase_C (PF00271)
+"Helicase conserved C-terminal domain"</title>
+				<rect class="PF00271" x="32" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(104,224,158)" stroke="rgb(83,179,126)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DEAD (PF00270)
+"DEAD/DEAH box helicase"</title>
+				<rect class="PF00270" x="48" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(195,100,62)" stroke="rgb(156,80,49)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5630_2)</title>
+			<polygon class=" (ctg5630_2)" points="71,40 82,10 82,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF503 (PF04456)
+"Protein of unknown function (DUF503)"</title>
+				<polygon class="PF04456" points="74,40 78,28 79,28 79,52 78,52" stroke-linejoin="round" width="8" height="24" fill="rgb(180,50,94)" stroke="rgb(144,39,75)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5630_3)</title>
+			<polygon class=" (ctg5630_3)" points="85,10 102,40 85,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg5630_4)</title>
+			<polygon class=" (ctg5630_4)" points="105,25 109,25 109,10 139,40 109,70 109,55 105,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<polygon class="PF04055" points="108,28 122,28 123,29 123,51 122,52 108,52" stroke-linejoin="round" width="15" height="24" fill="rgb(149,56,222)" stroke="rgb(119,44,177)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DUF3463 (PF11946)
+"Domain of unknown function (DUF3463)"</title>
+				<polygon class="PF11946" points="124,30 134,40 124,50" stroke-linejoin="round" width="13" height="24" fill="rgb(193,51,57)" stroke="rgb(154,40,45)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5630_5)</title>
+			<polygon class=" (ctg5630_5)" points="140,10 150,40 140,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg5630_6)</title>
+			<polygon class=" (ctg5630_6)" points="150,10 173,40 150,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PNP_UDP_1 (PF01048)
+"Phosphorylase superfamily"</title>
+				<polygon class="PF01048" points="152,28 160,28 169,40 169,40 160,52 152,52" stroke-linejoin="round" width="17" height="24" fill="rgb(75,186,148)" stroke="rgb(60,148,118)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5630_7)</title>
+			<polygon class=" (ctg5630_7)" points="174,25 210,25 210,10 240,40 210,70 210,55 174,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQHop_cyclase_N (PF13249)
+"Squalene-hopene cyclase N-terminal domain"</title>
+				<rect class="PF13249" x="175" y="28" stroke-linejoin="round" width="28" height="24" fill="rgb(88,190,89)" stroke="rgb(70,152,71)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SQHop_cyclase_C (PF13243)
+"Squalene-hopene cyclase C-terminal domain"</title>
+				<polygon class="PF13243" points="205,28 224,28 235,39 235,41 224,52 205,52" stroke-linejoin="round" width="30" height="24" fill="rgb(191,58,201)" stroke="rgb(152,46,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5630_8)</title>
+			<polygon class=" (ctg5630_8)" points="243,25 253,25 253,10 283,40 253,70 253,55 243,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LVIVD (PF08309)
+"LVIVD repeat"</title>
+				<rect class="PF08309" x="264" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(225,128,66)" stroke="rgb(180,102,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5630_9)</title>
+			<polygon class=" (ctg5630_9)" points="318,25 313,25 313,10 283,40 313,70 313,55 318,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg5630_10)</title>
+			<polygon class=" (ctg5630_10)" points="326,10 348,40 326,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Put_DNA-bind_N (PF06971)
+"Putative DNA-binding protein N-terminus"</title>
+				<rect class="PF06971" x="326" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(79,177,214)" stroke="rgb(63,141,171)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>CoA_binding (PF02629)
+"CoA binding domain"</title>
+				<polygon class="PF02629" points="334,28 335,28 343,39 343,41 335,52 334,52" stroke-linejoin="round" width="9" height="24" fill="rgb(57,204,178)" stroke="rgb(45,163,142)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5630_11)</title>
+			<polygon class=" (ctg5630_11)" points="348,40 362,10 362,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ATP-synt_DE (PF00401)
+"ATP synthase, Delta/Epsilon chain, long alpha-helix domain"</title>
+				<polygon class="PF00401" points="351,40 353,36 353,44" stroke-linejoin="round" width="4" height="24" fill="rgb(189,89,126)" stroke="rgb(151,71,100)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ATP-synt_DE_N (PF02823)
+"ATP synthase, Delta/Epsilon chain, beta-sandwich domain"</title>
+				<polygon class="PF02823" points="354,34 357,28 361,28 361,52 357,52 354,46" stroke-linejoin="round" width="7" height="24" fill="rgb(195,56,129)" stroke="rgb(156,44,103)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5630_12)</title>
+			<polygon class=" (ctg5630_12)" points="410,25 393,25 393,10 363,40 393,70 393,55 410,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ATP-synt_ab (PF00006)
+"ATP synthase alpha/beta family, nucleotide-binding domain"</title>
+				<polygon class="PF00006" points="375,32 379,28 396,28 396,52 379,52 375,48" stroke-linejoin="round" width="21" height="24" fill="rgb(187,135,93)" stroke="rgb(149,108,74)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ATP-synt_ab_N (PF02874)
+"ATP synthase alpha/beta family, beta-barrel domain"</title>
+				<rect class="PF02874" x="402" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(145,94,227)" stroke="rgb(115,75,181)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5630_13)</title>
+			<polygon class=" (ctg5630_13)" points="411,40 437,10 437,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ATP-synt (PF00231)
+"ATP synthase"</title>
+				<polygon class="PF00231" points="415,40 426,28 437,28 437,52 426,52" stroke-linejoin="round" width="26" height="24" fill="rgb(226,113,128)" stroke="rgb(180,90,102)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5630_14)</title>
+			<polygon class=" (ctg5630_14)" points="440,40 458,10 458,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ATP-synt_ab_C (PF00306)
+"ATP synthase alpha/beta chain, C terminal domain"</title>
+				<polygon class="PF00306" points="444,40 451,28 452,28 452,52 451,52" stroke-linejoin="round" width="12" height="24" fill="rgb(82,195,85)" stroke="rgb(65,156,68)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ATP-synt_ab (PF00006)
+"ATP synthase alpha/beta family, nucleotide-binding domain"</title>
+				<rect class="PF00006" x="453" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(187,135,93)" stroke="rgb(149,108,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

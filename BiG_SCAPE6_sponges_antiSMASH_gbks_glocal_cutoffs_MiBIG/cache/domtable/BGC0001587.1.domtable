@@ -1,0 +1,19 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+PALP                 PF00291.25   294 BGC0001587.1_ORF1:gid::pid:BAC73327.1:loc:6:1035:strand:- -            342   2.7e-54  184.6   3.6   1   1   1.7e-58   3.1e-54  184.4   3.6     2   293    15   301    14   302 0.91 Pyridoxal-phosphate dependent enzyme
+Orn_Arg_deC_N        PF02784.16   247 BGC0001587.1_ORF2:gid::pid:BAC73328.1:loc:1077:2451:strand:- -            457   1.7e-17   63.6   0.0   1   1   6.1e-21   1.1e-16   61.0   0.0    12   208    59   248    47   259 0.84 Pyridoxal-dependent decarboxylase, pyridoxal binding domain
+OCD_Mu_crystall      PF02423.15   318 BGC0001587.1_ORF3:gid:arcB3:pid:BAC73329.1:loc:2441:3473:strand:- -            343   2.8e-31  108.6   0.2   1   1     2e-35   3.5e-31  108.3   0.2    14   306    34   322    22   334 0.90 Ornithine cyclodeaminase/mu-crystallin family
+TauD                 PF02668.16   268 BGC0001587.1_ORF4:gid::pid:BAC73330.1:loc:3495:4488:strand:- -            330   4.2e-08   33.3   0.1   1   1   2.9e-10   5.3e-06   26.4   0.0   212   267   244   300   215   301 0.80 Taurine catabolism dioxygenase TauD, TfdA family
+SBP_bac_5            PF00496.22   377 BGC0001587.1_ORF5:gid:oppA8:pid:BAC73331.1:loc:4858:6409:strand:+ -            516   5.7e-70  236.2   2.3   1   1   3.8e-74   6.8e-70  235.9   2.3     3   373    93   435    91   439 0.92 Bacterial extracellular solute-binding proteins, family 5 Middle
+BPD_transp_1         PF00528.22   185 BGC0001587.1_ORF6:gid:oppB8:pid:BAC73332.1:loc:6522:7413:strand:+ -            296   6.9e-29  100.9  12.0   1   1   9.7e-33   1.7e-28   99.6  12.0     2   177    99   289    98   292 0.94 Binding-protein-dependent transport system inner membrane component
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001587.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001587.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001587.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:49:47 2019
+# [ok]

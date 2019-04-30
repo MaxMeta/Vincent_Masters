@@ -1,0 +1,34 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DDE_Tnp_1_2          PF13586.6     90 BGC0000603.1_ORF1:gid:cltQ:pid:ACS50120.1:loc:383:734:strand:+ -            116   4.1e-26   91.2   0.4   1   1   5.6e-30     5e-26   90.9   0.4     1    88    21   115    21   116 0.98 Transposase DDE domain
+DDE_Tnp_1            PF01609.21   214 BGC0000603.1_ORF1:gid:cltQ:pid:ACS50120.1:loc:383:734:strand:+ -            116   1.4e-10   41.2   0.8   1   1   3.1e-14   2.7e-10   40.2   0.8    75   212    15   113     2   115 0.79 Transposase DDE domain
+MLTR_LBD             PF17765.1    168 BGC0000603.1_ORF2:gid:cltP:pid:ACS50121.1:loc:1055:1949:strand:- -            297   9.5e-38  129.9   4.7   1   1   1.1e-41   9.5e-38  129.9   4.7     4   168   113   275   111   275 0.99 MmyB-like transcription regulator ligand binding domain
+HTH_31               PF13560.6     64 BGC0000603.1_ORF2:gid:cltP:pid:ACS50121.1:loc:1055:1949:strand:- -            297   5.5e-19   68.3   6.7   1   1   6.1e-23   5.5e-19   68.3   6.7     1    64    12    92    12    92 0.99 Helix-turn-helix domain
+MFS_1                PF07690.16   353 BGC0000603.1_ORF3:gid:cltO:pid:ACS50122.1:loc:2030:3467:strand:+ -            478   2.7e-37  128.5  73.4   1   1   4.5e-32   2.7e-28   98.9  25.9     3   180    12   192    10   197 0.89 Major Facilitator Superfamily
+MFS_1_like           PF12832.7    385 BGC0000603.1_ORF3:gid:cltO:pid:ACS50122.1:loc:2030:3467:strand:+ -            478   3.2e-06   26.3   5.9   1   1   5.3e-10   3.2e-06   26.3   5.9   254   375    34   154    14   163 0.93 MFS_1 like family
+Sugar_tr             PF00083.24   452 BGC0000603.1_ORF3:gid:cltO:pid:ACS50122.1:loc:2030:3467:strand:+ -            478   6.1e-06   25.4  10.0   1   1     1e-09   6.1e-06   25.4  10.0    47   188    41   180    10   187 0.78 Sugar (and other) transporter
+EthD                 PF07110.11    94 BGC0000603.1_ORF4:gid:cltN:pid:ACS50123.1:loc:3605:3941:strand:+ -            111   3.7e-17   63.3   0.6   1   1   5.2e-21   4.7e-17   62.9   0.6     1    94     9    95     9    95 0.92 EthD domain
+MmlI                 PF09448.10   114 BGC0000603.1_ORF4:gid:cltN:pid:ACS50123.1:loc:3605:3941:strand:+ -            111   1.9e-14   54.1   0.0   1   1   2.3e-18   2.1e-14   54.0   0.0     5   104     2    97     1   110 0.81 Methylmuconolactone methyl-isomerase
+DDE_Tnp_1_2          PF13586.6     90 BGC0000603.1_ORF6:gid:cltI:pid:ACS50125.1:loc:5068:5647:strand:+ -            192   9.5e-08   32.3   0.2   1   1   1.2e-11   2.2e-07   31.1   0.2     1    40    20    62    20    96 0.86 Transposase DDE domain
+AAA_16               PF13191.6    170 BGC0000603.1_ORF7:gid:cltH:pid:ACS50126.1:loc:5830:8629:strand:+ -            932   3.4e-15   56.8   0.1   1   1   3.8e-19   3.4e-15   56.8   0.1     4   169     8   165     7   166 0.75 AAA ATPase domain
+GerE                 PF00196.19    57 BGC0000603.1_ORF7:gid:cltH:pid:ACS50126.1:loc:5830:8629:strand:+ -            932   1.1e-12   47.3   0.0   1   1     2e-16   1.8e-12   46.6   0.0     3    56   867   920   865   921 0.96 Bacterial regulatory proteins, luxR family
+Lant_dehydr_C        PF14028.6    312 BGC0000603.1_ORF8:gid:cltG:pid:ACS50127.1:loc:8699:9827:strand:- -            375   1.4e-79  267.9   5.8   1   1     9e-84   1.6e-79  267.7   5.8    30   311     3   334     1   335 0.97 Lantibiotic biosynthesis dehydratase C-term
+Lant_dehydr_C        PF14028.6    312 BGC0000603.1_ORF9:gid:cltF:pid:ACS50128.1:loc:9931:10957:strand:- -            341   5.8e-77  259.3   1.6   1   1   4.3e-81   7.7e-77  258.9   1.6     1   311    19   331    19   332 0.96 Lantibiotic biosynthesis dehydratase C-term
+Lant_dehydr_N        PF04738.13   653 BGC0000603.1_ORF10:gid:cltE:pid:ACS50129.1:loc:10928:13556:strand:- -            875  1.3e-111  373.8  18.3   1   1    1e-115  1.8e-111  373.3  18.3     1   648   141   817   141   822 0.94 Lantibiotic dehydratase, N terminus
+YcaO                 PF02624.16   323 BGC0000603.1_ORF11:gid:cltB:pid:ACS50130.1:loc:13570:15613:strand:- -            680   6.3e-94  314.9   2.7   1   1   5.3e-98   9.4e-94  314.3   2.7     2   322   275   635   274   636 0.93 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+Nitroreductase       PF00881.24   170 BGC0000603.1_ORF13:gid:cltC:pid:ACS50132.1:loc:16068:17757:strand:- -            562   2.4e-15   57.0   0.1   1   2   5.7e-11     1e-06   28.9   0.0    28   165   113   256    83   259 0.76 Nitroreductase family
+Nitroreductase       PF00881.24   170 BGC0000603.1_ORF13:gid:cltC:pid:ACS50132.1:loc:16068:17757:strand:- -            562   2.4e-15   57.0   0.1   2   2   4.6e-10   8.2e-06   26.0   0.0    88   169   468   548   437   549 0.94 Nitroreductase family
+Nitroreductase       PF00881.24   170 BGC0000603.1_ORF16:gid:cltK:pid:ACS50135.1:loc:20446:20803:strand:- -            118     3e-19   69.7   0.1   1   1   3.6e-23   3.3e-19   69.6   0.1     2    75     8    80     7   107 0.80 Nitroreductase family
+DUF4096              PF13340.6     75 BGC0000603.1_ORF17:gid:cltL:pid:ACS50136.1:loc:20969:21206:strand:+ -             78   1.6e-16   60.2   2.5   1   1     1e-20   1.8e-16   60.1   2.5    21    74     7    58     1    59 0.88 Putative transposase of IS4/5 family (DUF4096)
+DUF4145              PF13643.6     88 BGC0000603.1_ORF18:gid::pid:ACS50137.1:loc:22134:22869:strand:- -            244   5.4e-11   42.5   0.0   1   1   4.4e-15     8e-11   41.9   0.0     9    87   167   243   159   244 0.91 Domain of unknown function (DUF4145)
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000603.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000603.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000603.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:32:29 2019
+# [ok]

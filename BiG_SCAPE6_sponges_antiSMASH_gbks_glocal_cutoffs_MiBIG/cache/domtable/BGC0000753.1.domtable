@@ -1,0 +1,20 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Poly_export          PF02563.16    82 BGC0000753.1_ORF1:gid:cpx7D:pid:AAT06398.1:loc:0:617:strand:- -            206   5.1e-16   58.7   0.1   1   1   6.4e-20   1.1e-15   57.5   0.0     9    81    88   174    81   175 0.90 Polysaccharide biosynthesis/export protein
+Glyphos_transf       PF04464.14   367 BGC0000753.1_ORF2:gid:cps7A:pid:AAT06399.1:loc:801:1938:strand:+ -            378   4.8e-08   32.4   0.2   1   1   5.4e-12   9.7e-08   31.4   0.2   162   290   130   254   110   260 0.74 CDP-Glycerol:Poly(glycerophosphate) glycerophosphotransferase
+CTP_transf_like      PF01467.26   143 BGC0000753.1_ORF3:gid:cps7B:pid:AAT06400.1:loc:1990:2419:strand:+ -            142     4e-22   79.0   0.4   1   1   1.3e-25   2.3e-21   76.5   0.4     1   105     5   101     5   125 0.83 Cytidylyltransferase-like
+ANAPC3               PF12895.7     82 BGC0000753.1_ORF4:gid:cps7C:pid:AAT06401.1:loc:2426:3563:strand:+ -            378   5.3e-07   29.8   2.3   1   1   1.3e-10   1.1e-06   28.7   0.6    27    82    63   118    39   118 0.91 Anaphase-promoting complex, cyclosome, subunit 3
+Glyphos_transf       PF04464.14   367 BGC0000753.1_ORF5:gid:cps7D:pid:AAT06402.1:loc:3574:7285:strand:+ -           1236   3.1e-81  273.2   1.9   1   1   2.3e-84   3.7e-81  272.9   0.8     8   366   509   870   502   871 0.93 CDP-Glycerol:Poly(glycerophosphate) glycerophosphotransferase
+Glycos_transf_1      PF00534.20   172 BGC0000753.1_ORF5:gid:cps7D:pid:AAT06402.1:loc:3574:7285:strand:+ -           1236   2.2e-22   79.4   0.0   1   1   5.2e-25   8.5e-22   77.5   0.0    12   129  1112  1226  1106  1231 0.94 Glycosyl transferases group 1
+Glyco_trans_1_4      PF13692.6    134 BGC0000753.1_ORF5:gid:cps7D:pid:AAT06402.1:loc:3574:7285:strand:+ -           1236   2.5e-17   63.5   0.0   1   1   3.9e-20   6.3e-17   62.3   0.0     2   108  1116  1227  1115  1235 0.87 Glycosyl transferases group 1
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000753.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000753.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000753.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:39:23 2019
+# [ok]

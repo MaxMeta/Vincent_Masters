@@ -1,0 +1,245 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="744.6666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="734.6666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg406_7)</title>
+			<polygon class=" (ctg406_7)" points="70,25 42,25 42,10 12,40 42,70 42,55 70,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg406_8)</title>
+			<polygon class=" (ctg406_8)" points="90,25 111,25 111,10 141,40 111,70 111,55 90,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FGGY_N (PF00370)
+"FGGY family of carbohydrate kinases, N-terminal domain"</title>
+				<rect class="PF00370" x="90" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(83,186,105)" stroke="rgb(66,148,83)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FGGY_C (PF02782)
+"FGGY family of carbohydrate kinases, C-terminal domain"</title>
+				<polygon class="PF02782" points="116,28 125,28 135,38 135,42 125,52 116,52" stroke-linejoin="round" width="19" height="24" fill="rgb(204,103,85)" stroke="rgb(163,82,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg406_9)</title>
+			<polygon class=" (ctg406_9)" points="142,25 169,25 169,10 199,40 169,70 169,55 142,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HisKA (PF00512)
+"His Kinase A (phospho-acceptor) domain"</title>
+				<rect class="PF00512" x="175" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(193,125,62)" stroke="rgb(154,100,49)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HATPase_c (PF02518)
+"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"</title>
+				<polygon class="PF02518" points="187,33 194,40 187,47" stroke-linejoin="round" width="11" height="24" fill="rgb(80,94,225)" stroke="rgb(64,75,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg406_10)</title>
+			<polygon class=" (ctg406_10)" points="200,25 216,25 216,10 246,40 216,70 216,55 200,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<rect class="PF00072" x="200" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(100,107,203)" stroke="rgb(80,85,162)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Sigma54_activat (PF00158)
+"Sigma-54 interaction domain"</title>
+				<rect class="PF00158" x="214" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(101,145,216)" stroke="rgb(80,115,172)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HTH_8 (PF02954)
+"Bacterial regulatory protein, Fis family"</title>
+				<polygon class="PF02954" points="241,39 242,40 241,41" stroke-linejoin="round" width="4" height="24" fill="rgb(168,63,200)" stroke="rgb(134,50,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg406_11)</title>
+			<polygon class=" (ctg406_11)" points="248,40 259,10 259,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Rhodanese (PF00581)
+"Rhodanese-like domain"</title>
+				<polygon class="PF00581" points="251,40 255,28 257,28 257,52 255,52" stroke-linejoin="round" width="9" height="24" fill="rgb(145,191,76)" stroke="rgb(116,152,60)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg406_12)</title>
+			<polygon class=" (ctg406_12)" points="333,25 296,25 296,10 266,40 296,70 296,55 333,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TonB_dep_Rec (PF00593)
+"TonB dependent receptor"</title>
+				<polygon class="PF00593" points="270,40 282,28 318,28 318,52 282,52" stroke-linejoin="round" width="52" height="24" fill="rgb(171,200,51)" stroke="rgb(136,160,40)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Plug (PF07715)
+"TonB-dependent Receptor Plug Domain"</title>
+				<rect class="PF07715" x="318" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(99,133,214)" stroke="rgb(79,106,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg406_13)</title>
+			<polygon class=" (ctg406_13)" points="343,25 371,25 371,10 401,40 371,70 371,55 343,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Prenyltrans (PF00432)
+"Prenyltransferase and squalene oxidase repeat"</title>
+				<rect class="PF00432" x="343" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(218,215,79)" stroke="rgb(174,172,63)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Prenyltrans (PF00432)
+"Prenyltransferase and squalene oxidase repeat"</title>
+				<rect class="PF00432" x="348" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(218,215,79)" stroke="rgb(174,172,63)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SQHop_cyclase_C (PF13243)
+"Squalene-hopene cyclase C-terminal domain"</title>
+				<polygon class="PF13243" points="370,28 384,28 396,40 384,52 370,52" stroke-linejoin="round" width="30" height="24" fill="rgb(191,58,201)" stroke="rgb(152,46,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg406_14)</title>
+			<polygon class=" (ctg406_14)" points="401,10 423,40 401,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_2 (PF00535)
+"Glycosyl transferase family 2"</title>
+				<polygon class="PF00535" points="401,28 411,28 416,35 416,45 411,52 401,52" stroke-linejoin="round" width="15" height="24" fill="rgb(224,122,96)" stroke="rgb(179,97,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg406_15)</title>
+			<polygon class=" (ctg406_15)" points="424,25 427,25 427,10 457,40 427,70 427,55 424,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PD40 (PF07676)
+"WD40-like Beta Propeller Repeat"</title>
+				<rect class="PF07676" x="429" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(49,78,191)" stroke="rgb(39,62,152)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PD40 (PF07676)
+"WD40-like Beta Propeller Repeat"</title>
+				<rect class="PF07676" x="434" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(49,78,191)" stroke="rgb(39,62,152)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PD40 (PF07676)
+"WD40-like Beta Propeller Repeat"</title>
+				<polygon class="PF07676" points="439,28 440,28 441,29 441,51 440,52 439,52" stroke-linejoin="round" width="2" height="24" fill="rgb(49,78,191)" stroke="rgb(39,62,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg406_16)</title>
+			<polygon class=" (ctg406_16)" points="459,40 484,10 484,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DDE_Tnp_1 (PF01609)
+"Transposase DDE domain"</title>
+				<polygon class="PF01609" points="463,40 470,32 470,48" stroke-linejoin="round" width="11" height="24" fill="rgb(229,102,99)" stroke="rgb(183,81,79)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DUF4096 (PF13340)
+"Putative transposase of IS4/5 family (DUF4096)"</title>
+				<polygon class="PF13340" points="472,29 473,28 480,28 480,52 473,52 472,51" stroke-linejoin="round" width="8" height="24" fill="rgb(196,73,104)" stroke="rgb(156,58,83)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg406_17)</title>
+			<polygon class=" (ctg406_17)" points="498,10 526,40 498,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LRR_4 (PF12799)
+"Leucine Rich repeats (2 copies)"</title>
+				<polygon class="PF12799" points="509,28 510,28 513,31 513,49 510,52 509,52" stroke-linejoin="round" width="4" height="24" fill="rgb(73,220,64)" stroke="rgb(58,176,51)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg406_18)</title>
+			<polygon class=" (ctg406_18)" points="527,25 595,25 595,10 625,40 595,70 595,55 527,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>WD40 (PF00400)
+"WD domain, G-beta repeat"</title>
+				<rect class="PF00400" x="528" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(190,108,62)" stroke="rgb(152,86,49)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>WD40 (PF00400)
+"WD domain, G-beta repeat"</title>
+				<rect class="PF00400" x="532" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(190,108,62)" stroke="rgb(152,86,49)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>WD40 (PF00400)
+"WD domain, G-beta repeat"</title>
+				<rect class="PF00400" x="536" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(190,108,62)" stroke="rgb(152,86,49)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ANAPC4_WD40 (PF12894)
+"Anaphase-promoting complex subunit 4 WD40 domain"</title>
+				<rect class="PF12894" x="549" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(126,57,194)" stroke="rgb(100,45,155)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>LRR_4 (PF12799)
+"Leucine Rich repeats (2 copies)"</title>
+				<rect class="PF12799" x="572" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(73,220,64)" stroke="rgb(58,176,51)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>LRR_4 (PF12799)
+"Leucine Rich repeats (2 copies)"</title>
+				<rect class="PF12799" x="578" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(73,220,64)" stroke="rgb(58,176,51)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>WD40 (PF00400)
+"WD domain, G-beta repeat"</title>
+				<rect class="PF00400" x="585" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(190,108,62)" stroke="rgb(152,86,49)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>WD40 (PF00400)
+"WD domain, G-beta repeat"</title>
+				<rect class="PF00400" x="589" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(190,108,62)" stroke="rgb(152,86,49)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>WD40 (PF00400)
+"WD domain, G-beta repeat"</title>
+				<rect class="PF00400" x="593" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(190,108,62)" stroke="rgb(152,86,49)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>WD40 (PF00400)
+"WD domain, G-beta repeat"</title>
+				<rect class="PF00400" x="606" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(190,108,62)" stroke="rgb(152,86,49)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>WD40 (PF00400)
+"WD domain, G-beta repeat"</title>
+				<polygon class="PF00400" points="610,29 613,32 613,48 610,51" stroke-linejoin="round" width="3" height="24" fill="rgb(190,108,62)" stroke="rgb(152,86,49)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FlgD_ig (PF13860)
+"FlgD Ig-like domain"</title>
+				<polygon class="PF13860" points="617,36 621,40 617,44" stroke-linejoin="round" width="7" height="24" fill="rgb(135,90,185)" stroke="rgb(108,72,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg406_19)</title>
+			<polygon class=" (ctg406_19)" points="662,25 660,25 660,10 630,40 660,70 660,55 662,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PD40 (PF07676)
+"WD40-like Beta Propeller Repeat"</title>
+				<polygon class="PF07676" points="644,30 646,28 646,28 646,52 646,52 644,50" stroke-linejoin="round" width="2" height="24" fill="rgb(49,78,191)" stroke="rgb(39,62,152)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PD40 (PF07676)
+"WD40-like Beta Propeller Repeat"</title>
+				<rect class="PF07676" x="649" y="28" stroke-linejoin="round" width="2" height="24" fill="rgb(49,78,191)" stroke="rgb(39,62,152)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PD40 (PF07676)
+"WD40-like Beta Propeller Repeat"</title>
+				<rect class="PF07676" x="653" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(49,78,191)" stroke="rgb(39,62,152)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PD40 (PF07676)
+"WD40-like Beta Propeller Repeat"</title>
+				<rect class="PF07676" x="657" y="28" stroke-linejoin="round" width="1" height="24" fill="rgb(49,78,191)" stroke="rgb(39,62,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg406_20)</title>
+			<polygon class=" (ctg406_20)" points="671,40 699,10 699,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg406_21)</title>
+			<polygon class=" (ctg406_21)" points="703,40 732,10 732,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

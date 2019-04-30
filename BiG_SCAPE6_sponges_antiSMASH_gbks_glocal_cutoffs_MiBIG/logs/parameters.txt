@@ -1,0 +1,1 @@
+/nfs/home/nowakvi/BiG-SCAPE/bigscape.py -c 24 --mode glocal --mibig --cutoffs 0.3 0.5 0.7 0.9 -i /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks -o /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG

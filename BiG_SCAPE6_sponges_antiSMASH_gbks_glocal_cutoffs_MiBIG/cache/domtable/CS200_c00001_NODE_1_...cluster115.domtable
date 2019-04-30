@@ -1,0 +1,29 @@
+#                                                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+OrfB_Zn_ribbon       PF07282.11    69 CS200_c00001_NODE_1_...cluster115_ORF1:gid::pid::loc:336:594:strand:- -             85   5.4e-09   35.8   2.4   1   1   3.7e-13   6.6e-09   35.6   2.4    20    68     2    52     1    53 0.93 Putative transposase DNA-binding domain
+HlyD_3               PF13437.6    106 CS200_c00001_NODE_1_...cluster115_ORF3:gid::pid::loc:1228:2380:strand:+ -            383   2.5e-10   41.0   0.3   1   1   9.2e-13   1.6e-08   35.2   0.1     2    97   197   291   196   300 0.90 HlyD family secretion protein
+ACR_tran             PF00873.19  1021 CS200_c00001_NODE_1_...cluster115_ORF4:gid::pid::loc:2436:5601:strand:+ -           1054  1.4e-123  413.6  13.4   1   1  5.9e-127  1.1e-122  410.8  13.4     7  1020    23  1036    18  1037 0.88 AcrB/AcrD/AcrF family
+ACR_tran             PF00873.19  1021 CS200_c00001_NODE_1_...cluster115_ORF5:gid::pid::loc:5637:8820:strand:+ -           1060  3.6e-135  452.0  20.5   1   1  2.3e-139  4.1e-135  451.8  20.5     4  1020    14  1033    11  1034 0.90 AcrB/AcrD/AcrF family
+Beta-lactamase       PF00144.24   330 CS200_c00001_NODE_1_...cluster115_ORF6:gid::pid::loc:8776:9988:strand:+ -            403   1.1e-55  189.2   0.0   1   1   7.9e-60   1.4e-55  188.9   0.0     2   319    52   386    50   397 0.92 Beta-lactamase
+SQHop_cyclase_C      PF13243.6    319 CS200_c00001_NODE_1_...cluster115_ORF7:gid::pid::loc:10000:12037:strand:+ -            678   2.3e-59  201.1   1.6   1   1   1.3e-57   6.1e-54  183.3   1.9     4   318   345   668   343   669 0.88 Squalene-hopene cyclase C-terminal domain
+SQHop_cyclase_N      PF13249.6    291 CS200_c00001_NODE_1_...cluster115_ORF7:gid::pid::loc:10000:12037:strand:+ -            678   3.2e-54  184.0   9.1   1   1     3e-52   1.3e-48  165.6   0.5     2   290    39   332    38   333 0.91 Squalene-hopene cyclase N-terminal domain
+Prenyltrans          PF00432.21    44 CS200_c00001_NODE_1_...cluster115_ORF7:gid::pid::loc:10000:12037:strand:+ -            678     1e-15   57.1  14.3   1   2   9.7e-07    0.0043   16.8   0.1     8    43   517   551   512   552 0.90 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.21    44 CS200_c00001_NODE_1_...cluster115_ORF7:gid::pid::loc:10000:12037:strand:+ -            678     1e-15   57.1  14.3   2   2   1.4e-12   6.3e-09   35.4   0.4     5    40   562   607   559   607 0.95 Prenyltransferase and squalene oxidase repeat
+AMP-binding          PF00501.28   423 CS200_c00001_NODE_1_...cluster115_ORF8:gid::pid::loc:12218:13781:strand:- -            520   2.2e-52  178.1   0.0   1   1   1.4e-56   2.6e-52  177.9   0.0    43   422     4   391     1   392 0.81 AMP-binding enzyme
+Ank_2                PF12796.7     83 CS200_c00001_NODE_1_...cluster115_ORF10:gid::pid::loc:14635:16849:strand:- -            737   3.6e-13   49.9   0.0   1   1   1.4e-09   3.5e-06   27.5   0.0     7    81   558   645   554   647 0.78 Ankyrin repeats (3 copies)
+CarboxypepD_reg      PF13620.6     82 CS200_c00001_NODE_1_...cluster115_ORF10:gid::pid::loc:14635:16849:strand:- -            737   4.4e-12   46.1   0.2   1   1     4e-15     1e-11   44.9   0.2     2    78   304   375   303   379 0.86 Carboxypeptidase regulatory-like domain
+Ank_3                PF13606.6     31 CS200_c00001_NODE_1_...cluster115_ORF10:gid::pid::loc:14635:16849:strand:- -            737   4.7e-12   45.0   2.3   1   1   5.1e-08   0.00013   22.1   0.1     4    30   678   703   678   704 0.94 Ankyrin repeat
+CarbopepD_reg_2      PF13715.6     88 CS200_c00001_NODE_1_...cluster115_ORF10:gid::pid::loc:14635:16849:strand:- -            737   1.4e-10   41.0   0.1   1   1     1e-13   2.6e-10   40.1   0.1     1    74   304   378   304   387 0.87 CarboxypepD_reg-like domain
+Ank                  PF00023.30    32 CS200_c00001_NODE_1_...cluster115_ORF10:gid::pid::loc:14635:16849:strand:- -            737   4.1e-09   36.5   9.8   1   2   1.9e-06    0.0049   17.3   1.0     5    29   586   611   586   616 0.87 Ankyrin repeat
+Ank                  PF00023.30    32 CS200_c00001_NODE_1_...cluster115_ORF10:gid::pid::loc:14635:16849:strand:- -            737   4.1e-09   36.5   9.8   2   2   6.6e-07    0.0017   18.7   0.0     6    31   680   706   678   707 0.93 Ankyrin repeat
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS200_c00001_NODE_1_...cluster115.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS200_c00001_NODE_1_...cluster115.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS200_c00001_NODE_1_...cluster115.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:51:59 2019
+# [ok]

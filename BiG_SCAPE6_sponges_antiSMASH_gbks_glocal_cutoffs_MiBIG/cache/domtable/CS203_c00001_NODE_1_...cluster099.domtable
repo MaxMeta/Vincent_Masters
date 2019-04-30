@@ -1,0 +1,22 @@
+#                                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+LHH                  PF14411.6     76 CS203_c00001_NODE_1_...cluster099_ORF3:gid::pid::loc:2076:3486:strand:+ -            469   2.2e-07   30.9   0.5   1   1   2.6e-09   2.3e-05   24.4   0.1     2    24   410   432   409   456 0.93 A nuclease of the HNH/ENDO VII superfamily with conserved LHH
+HNH                  PF01844.23    47 CS203_c00001_NODE_1_...cluster099_ORF3:gid::pid::loc:2076:3486:strand:+ -            469   3.2e-05   24.0   0.0   1   1     7e-09   6.3e-05   23.1   0.0    13    43   427   457   421   460 0.87 HNH endonuclease
+Ntox10               PF15520.6    193 CS203_c00001_NODE_1_...cluster099_ORF6:gid::pid::loc:4024:4675:strand:+ -            216   9.2e-07   28.9   2.6   1   1   7.1e-11   1.3e-06   28.5   2.6     1    96    14   107    14   119 0.83 Novel toxin 10
+Amino_oxidase        PF01593.24   452 CS203_c00001_NODE_1_...cluster099_ORF13:gid::pid::loc:8480:10004:strand:- -            507   3.2e-32  112.4   0.1   1   1   4.4e-35   1.1e-31  110.6   0.1     1   451    11   477    11   478 0.74 Flavin containing amine oxidoreductase
+NAD_binding_8        PF13450.6     68 CS203_c00001_NODE_1_...cluster099_ORF13:gid::pid::loc:8480:10004:strand:- -            507   1.3e-11   44.5   1.7   1   1   6.5e-15   1.7e-11   44.2   0.3     1    65     6    70     6    73 0.86 NAD(P)-binding Rossmann-like domain
+FAD_oxidored         PF12831.7    433 CS203_c00001_NODE_1_...cluster099_ORF13:gid::pid::loc:8480:10004:strand:- -            507   3.3e-08   33.3   0.7   1   1   2.2e-11   5.7e-08   32.5   0.7     2    41     4    43     3    62 0.93 FAD dependent oxidoreductase
+FAD_binding_2        PF00890.24   417 CS203_c00001_NODE_1_...cluster099_ORF13:gid::pid::loc:8480:10004:strand:- -            507   1.3e-06   27.8   0.5   1   1   1.7e-09   4.4e-06   26.0   0.8     2    36     4    38     3    48 0.89 FAD binding domain
+GIDA                 PF01134.22   392 CS203_c00001_NODE_1_...cluster099_ORF13:gid::pid::loc:8480:10004:strand:- -            507   2.6e-05   23.5   0.8   1   1   1.5e-08   3.7e-05   23.0   0.5     1    29     3    31     3    63 0.85 Glucose inhibited division protein A
+SQS_PSY              PF00494.19   263 CS203_c00001_NODE_1_...cluster099_ORF14:gid::pid::loc:10000:10984:strand:- -            327   2.6e-80  269.7   2.2   1   1   6.7e-84   1.2e-79  267.5   2.2     3   262    17   312    15   313 0.92 Squalene/phytoene synthase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS203_c00001_NODE_1_...cluster099.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS203_c00001_NODE_1_...cluster099.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS203_c00001_NODE_1_...cluster099.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:37:34 2019
+# [ok]

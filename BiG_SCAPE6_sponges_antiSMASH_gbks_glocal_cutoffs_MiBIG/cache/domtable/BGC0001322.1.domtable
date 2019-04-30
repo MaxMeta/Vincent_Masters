@@ -1,0 +1,33 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+GMC_oxred_N          PF00732.19   296 BGC0001322.1_ORF1:gid::pid:AGK82806.1:loc:5529:13094:strand:- -            746   5.8e-59  199.9   0.3   1   1   9.7e-63   8.7e-59  199.3   0.3     2   296   229   496   228   496 0.91 GMC oxidoreductase
+GMC_oxred_C          PF05199.13   144 BGC0001322.1_ORF1:gid::pid:AGK82806.1:loc:5529:13094:strand:- -            746   3.8e-24   85.9   0.0   1   1   3.1e-26   2.8e-22   79.8   0.0    21   142   602   730   591   732 0.75 GMC oxidoreductase
+Terpene_synth_C      PF03936.16   267 BGC0001322.1_ORF2:gid::pid:AGK82800.1:loc:21223:27740:strand:+ -            792   1.1e-60  205.3   3.5   1   1   1.2e-64   1.1e-60  205.3   3.5     3   266   467   732   465   733 0.93 Terpene synthase family, metal binding domain
+Terpene_synth        PF01397.21   192 BGC0001322.1_ORF2:gid::pid:AGK82800.1:loc:21223:27740:strand:+ -            792   3.1e-45  154.2   5.3   1   1   8.3e-49   7.5e-45  153.0   5.3     1   192   224   423   224   423 0.87 Terpene synthase, N-terminal domain
+p450                 PF00067.22   463 BGC0001322.1_ORF3:gid::pid:AGK82807.1:loc:28689:30457:strand:- -            506  4.8e-102  342.1   0.0   1   1  3.2e-106  5.7e-102  341.8   0.0     1   453    32   489    32   501 0.91 Cytochrome P450
+Prenyltransf         PF01255.19   224 BGC0001322.1_ORF4:gid::pid:AGK82801.1:loc:32165:34801:strand:+ -            314   2.9e-74  249.4   0.0   1   1   1.9e-78   3.5e-74  249.1   0.0     1   224    95   310    95   310 0.93 Putative undecaprenyl diphosphate synthase
+Terpene_synth_C      PF03936.16   267 BGC0001322.1_ORF5:gid::pid:AGK82808.1:loc:35439:41624:strand:- -            778   5.7e-62  209.5   6.3   1   1   1.4e-65   1.2e-61  208.4   6.3     1   266   457   718   457   719 0.95 Terpene synthase family, metal binding domain
+Terpene_synth        PF01397.21   192 BGC0001322.1_ORF5:gid::pid:AGK82808.1:loc:35439:41624:strand:- -            778   3.5e-43  147.5   5.8   1   1     1e-46   9.1e-43  146.2   5.8     1   192   216   415   216   415 0.86 Terpene synthase, N-terminal domain
+Prenyltransf         PF01255.19   224 BGC0001322.1_ORF6:gid::pid::loc:49437:51033:strand:+ -            157   3.3e-25   88.9   0.0   1   1   2.3e-29   4.1e-25   88.6   0.0     1    71    84   152    84   157 0.92 Putative undecaprenyl diphosphate synthase
+Terpene_synth_C      PF03936.16   267 BGC0001322.1_ORF7:gid::pid:AGK82809.1:loc:56358:65068:strand:- -            778     2e-59  201.2   5.8   1   1   4.7e-63   4.2e-59  200.1   5.8     1   266   457   718   457   719 0.94 Terpene synthase family, metal binding domain
+Terpene_synth        PF01397.21   192 BGC0001322.1_ORF7:gid::pid:AGK82809.1:loc:56358:65068:strand:- -            778   3.9e-43  147.4   5.8   1   1   1.1e-46   9.4e-43  146.1   5.8     1   192   216   415   216   415 0.86 Terpene synthase, N-terminal domain
+Prenyltransf         PF01255.19   224 BGC0001322.1_ORF8:gid::pid:AGK82810.1:loc:72880:75988:strand:+ -            303   4.2e-73  245.6   0.0   1   1   2.8e-77   5.1e-73  245.3   0.0     1   224    84   299    84   299 0.93 Putative undecaprenyl diphosphate synthase
+Terpene_synth        PF01397.21   192 BGC0001322.1_ORF9:gid::pid:AGK82802.1:loc:82016:89396:strand:+ -            773   3.3e-48  163.9   2.2   1   1   6.1e-52   5.5e-48  163.2   0.0     1   192   260   467   260   467 0.89 Terpene synthase, N-terminal domain
+Terpene_synth_C      PF03936.16   267 BGC0001322.1_ORF9:gid::pid:AGK82802.1:loc:82016:89396:strand:+ -            773   6.9e-13   48.5  10.0   1   1   1.3e-16   1.1e-12   47.8  10.0     1   188   511   698   511   769 0.80 Terpene synthase family, metal binding domain
+Prenyltransf         PF01255.19   224 BGC0001322.1_ORF10:gid::pid::loc:94131:96140:strand:- -            169   2.6e-38  131.8   0.0   1   1   1.7e-42     3e-38  131.6   0.0   101   224    44   165    21   165 0.91 Putative undecaprenyl diphosphate synthase
+Terpene_synth_C      PF03936.16   267 BGC0001322.1_ORF11:gid::pid:AGK82803.1:loc:96845:103992:strand:+ -            771   3.9e-58  196.9   6.0   1   1   4.4e-62   3.9e-58  196.9   6.0     1   266   445   709   445   710 0.93 Terpene synthase family, metal binding domain
+Terpene_synth        PF01397.21   192 BGC0001322.1_ORF11:gid::pid:AGK82803.1:loc:96845:103992:strand:+ -            771   2.1e-42  145.0   4.6   1   1   5.9e-46   5.3e-42  143.7   4.6     1   192   205   403   205   403 0.86 Terpene synthase, N-terminal domain
+p450                 PF00067.22   463 BGC0001322.1_ORF12:gid::pid::loc:106205:112773:strand:+ -            507  2.5e-100  336.4   0.1   1   1  1.7e-104  3.1e-100  336.1   0.1     1   451    30   490    30   502 0.91 Cytochrome P450
+Transferase          PF02458.15   434 BGC0001322.1_ORF14:gid::pid:AGK82804.1:loc:116622:118639:strand:+ -            447   2.8e-78  263.5   0.0   1   1   1.8e-82   3.3e-78  263.3   0.0     2   432     8   432     7   434 0.89 Transferase family
+Transferase          PF02458.15   434 BGC0001322.1_ORF15:gid::pid:AGK82805.1:loc:120909:122963:strand:+ -            442   7.9e-80  268.6   0.0   1   1   5.6e-84     1e-79  268.3   0.0     3   429     9   429     7   433 0.91 Transferase family
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001322.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001322.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001322.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:55:47 2019
+# [ok]

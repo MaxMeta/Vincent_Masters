@@ -1,0 +1,25 @@
+#                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+TGS                  PF02824.21    60 CS200_c00001_NODE_1_...cluster258_ORF1:gid::pid::loc:1:1312:strand:+ -            436     5e-24   84.1   0.0   1   1   1.6e-27   9.7e-24   83.2   0.0     1    60   109   168   109   168 0.98 TGS domain
+RelA_SpoT            PF04607.17   117 CS200_c00001_NODE_1_...cluster258_ORF1:gid::pid::loc:1:1312:strand:+ -            436   3.6e-19   69.2   0.1   1   1   1.3e-22     8e-19   68.1   0.1    49   115     1    66     1    68 0.97 Region found in RelA / SpoT proteins
+ACT_4                PF13291.6     80 CS200_c00001_NODE_1_...cluster258_ORF1:gid::pid::loc:1:1312:strand:+ -            436   2.8e-16   59.9   0.0   1   1   8.1e-20   4.8e-16   59.1   0.0     3    80   351   427   349   427 0.97 ACT domain
+NMO                  PF03060.15   331 CS200_c00001_NODE_1_...cluster258_ORF2:gid::pid::loc:1500:2481:strand:- -            326   4.9e-46  157.6   0.2   1   1   6.2e-48   5.6e-44  150.9   0.2     3   330     5   310     3   311 0.87 Nitronate monooxygenase
+CYTH                 PF01928.21   179 CS200_c00001_NODE_1_...cluster258_ORF3:gid::pid::loc:2838:3369:strand:- -            176   5.8e-12   45.9   0.2   1   1   3.9e-16   6.9e-12   45.6   0.2     5   162    10   155     6   163 0.81 CYTH domain
+Cadherin             PF00028.17    93 CS200_c00001_NODE_1_...cluster258_ORF4:gid::pid::loc:3758:5459:strand:+ -            566   1.3e-14   54.4   0.0   1   1   1.3e-13   2.4e-09   37.5   0.0     4    92    54   137    51   138 0.85 Cadherin domain
+SQHop_cyclase_C      PF13243.6    319 CS200_c00001_NODE_1_...cluster258_ORF5:gid::pid::loc:5638:7072:strand:- -            477  8.1e-134  445.7   4.4   1   1  6.8e-128  2.4e-124  414.6   0.4     1   296   127   425   127   427 0.97 Squalene-hopene cyclase C-terminal domain
+SQHop_cyclase_N      PF13249.6    291 CS200_c00001_NODE_1_...cluster258_ORF5:gid::pid::loc:5638:7072:strand:- -            477   6.6e-33  114.0   1.5   1   1   5.8e-29   2.1e-25   89.4   0.0   178   284     4   109     1   116 0.93 Squalene-hopene cyclase N-terminal domain
+Prenyltrans          PF00432.21    44 CS200_c00001_NODE_1_...cluster258_ORF5:gid::pid::loc:5638:7072:strand:- -            477   2.2e-23   81.7  10.4   1   4   6.3e-07    0.0023   17.7   0.0     3    22    57    76    55    77 0.92 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.21    44 CS200_c00001_NODE_1_...cluster258_ORF5:gid::pid::loc:5638:7072:strand:- -            477   2.2e-23   81.7  10.4   2   4   0.00057       2.1    8.2   0.1     7    44   294   330   288   330 0.72 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.21    44 CS200_c00001_NODE_1_...cluster258_ORF5:gid::pid::loc:5638:7072:strand:- -            477   2.2e-23   81.7  10.4   3   4   5.5e-15     2e-11   43.4   0.1     2    44   337   389   336   389 0.97 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.21    44 CS200_c00001_NODE_1_...cluster258_ORF5:gid::pid::loc:5638:7072:strand:- -            477   2.2e-23   81.7  10.4   4   4   0.00016      0.59    9.9   0.0     4    22   397   415   396   415 0.89 Prenyltransferase and squalene oxidase repeat
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS200_c00001_NODE_1_...cluster258.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS200_c00001_NODE_1_...cluster258.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS200_c00001_NODE_1_...cluster258.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:33:52 2019
+# [ok]

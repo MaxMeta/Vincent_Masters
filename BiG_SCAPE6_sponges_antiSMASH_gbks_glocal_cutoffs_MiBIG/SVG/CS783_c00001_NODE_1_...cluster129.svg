@@ -1,0 +1,89 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="304.3666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="294.3666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg6031_1)</title>
+			<polygon class=" (ctg6031_1)" points="10,25 31,25 31,10 61,40 31,70 31,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>B3_4 (PF03483)
+"B3/4 domain"</title>
+				<rect class="PF03483" x="10" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(97,63,226)" stroke="rgb(77,50,180)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>B5 (PF03484)
+"tRNA synthetase B5 domain"</title>
+				<rect class="PF03484" x="22" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(94,91,186)" stroke="rgb(75,72,148)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>tRNA_synthFbeta (PF17759)
+"Phenylalanyl tRNA synthetase beta chain CLM domain"</title>
+				<polygon class="PF17759" points="28,28 45,28 49,32 49,48 45,52 28,52" stroke-linejoin="round" width="21" height="24" fill="rgb(61,193,115)" stroke="rgb(48,154,92)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FDX-ACB (PF03147)
+"Ferredoxin-fold anticodon binding domain"</title>
+				<polygon class="PF03147" points="51,34 57,40 51,46" stroke-linejoin="round" width="9" height="24" fill="rgb(152,84,215)" stroke="rgb(121,67,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6031_2)</title>
+			<polygon class=" (ctg6031_2)" points="102,25 98,25 98,10 68,40 98,70 98,55 102,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg6031_3)</title>
+			<polygon class=" (ctg6031_3)" points="103,40 110,10 110,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg6031_4)</title>
+			<polygon class=" (ctg6031_4)" points="114,40 137,10 137,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HAD (PF12710)
+"haloacid dehalogenase-like hydrolase"</title>
+				<polygon class="PF12710" points="118,40 127,28 135,28 135,52 127,52" stroke-linejoin="round" width="18" height="24" fill="rgb(181,59,119)" stroke="rgb(144,47,95)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6031_5)</title>
+			<polygon class=" (ctg6031_5)" points="275,25 168,25 168,10 138,40 168,70 168,55 275,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acyltransferase (PF01553)
+"Acyltransferase"</title>
+				<polygon class="PF01553" points="145,37 154,28 157,28 157,52 154,52 145,43" stroke-linejoin="round" width="12" height="24" fill="rgb(87,176,216)" stroke="rgb(69,140,172)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="163" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<rect class="PF13193" x="175" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="184" y="28" stroke-linejoin="round" width="43" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Sterile (PF03015)
+"Male sterility protein"</title>
+				<rect class="PF03015" x="233" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(157,58,225)" stroke="rgb(125,46,180)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>NAD_binding_4 (PF07993)
+"Male sterility protein"</title>
+				<rect class="PF07993" x="250" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(100,212,204)" stroke="rgb(80,169,163)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6031_6)</title>
+			<polygon class=" (ctg6031_6)" points="274,40 289,10 289,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NAD_binding_4 (PF07993)
+"Male sterility protein"</title>
+				<polygon class="PF07993" points="277,40 283,28 287,28 287,52 283,52" stroke-linejoin="round" width="13" height="24" fill="rgb(100,212,204)" stroke="rgb(80,169,163)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

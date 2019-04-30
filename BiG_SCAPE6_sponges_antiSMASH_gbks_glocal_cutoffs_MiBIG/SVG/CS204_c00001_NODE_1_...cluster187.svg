@@ -1,0 +1,72 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="240.03333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="230.03333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg11671_1)</title>
+			<polygon class=" (ctg11671_1)" points="10,10 14,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ring_hydroxyl_B (PF00866)
+"Ring hydroxylating beta subunit"</title>
+				<polygon class="PF00866" points="10,29 11,40 10,51" stroke-linejoin="round" width="3" height="24" fill="rgb(202,87,131)" stroke="rgb(161,69,104)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11671_2)</title>
+			<polygon class=" (ctg11671_2)" points="50,25 48,25 48,10 18,40 48,70 48,55 50,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Phosphonate-bd (PF12974)
+"ABC transporter, phosphonate, periplasmic substrate-binding protein"</title>
+				<polygon class="PF12974" points="29,33 34,28 49,28 49,52 34,52 29,47" stroke-linejoin="round" width="20" height="24" fill="rgb(150,187,81)" stroke="rgb(120,149,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11671_3)</title>
+			<polygon class=" (ctg11671_3)" points="81,25 81,25 81,10 51,40 81,70 81,55 81,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lactamase_B_2 (PF12706)
+"Beta-lactamase superfamily domain"</title>
+				<polygon class="PF12706" points="56,39 67,28 77,28 77,52 67,52 56,41" stroke-linejoin="round" width="21" height="24" fill="rgb(62,169,197)" stroke="rgb(49,135,157)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11671_4)</title>
+			<polygon class=" (ctg11671_4)" points="81,40 95,10 95,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg11671_5)</title>
+			<polygon class=" (ctg11671_5)" points="134,25 128,25 128,10 98,40 128,70 128,55 134,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SBP_bac_6 (PF13343)
+"Bacterial extracellular solute-binding protein"</title>
+				<polygon class="PF13343" points="102,40 114,28 126,28 126,52 114,52" stroke-linejoin="round" width="25" height="24" fill="rgb(176,192,49)" stroke="rgb(140,153,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11671_6)</title>
+			<polygon class=" (ctg11671_6)" points="143,10 172,40 143,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="144,28 156,28 168,40 156,52 144,52" stroke-linejoin="round" width="25" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11671_7)</title>
+			<polygon class=" (ctg11671_7)" points="172,10 201,40 172,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="174,28 185,28 197,40 185,52 174,52" stroke-linejoin="round" width="25" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11671_8)</title>
+			<polygon class=" (ctg11671_8)" points="202,10 229,40 202,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amino_oxidase (PF01593)
+"Flavin containing amine oxidoreductase"</title>
+				<polygon class="PF01593" points="203,28 213,28 225,40 213,52 203,52" stroke-linejoin="round" width="26" height="24" fill="rgb(184,74,52)" stroke="rgb(147,59,41)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

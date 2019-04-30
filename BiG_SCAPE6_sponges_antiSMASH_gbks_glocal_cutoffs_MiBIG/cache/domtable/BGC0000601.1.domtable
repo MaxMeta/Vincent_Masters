@@ -1,0 +1,21 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Radical_SAM          PF04055.21   167 BGC0000601.1_ORF2:gid:skfB:pid:CAB11985.2:loc:234:1467:strand:+ -            410   6.8e-21   75.4   0.0   1   1   1.9e-24   1.1e-20   74.6   0.0     3   164   113   264   111   267 0.94 Radical SAM superfamily
+Fer4_12              PF13353.6    139 BGC0000601.1_ORF2:gid:skfB:pid:CAB11985.2:loc:234:1467:strand:+ -            410     1e-05   25.8   0.0   1   1   3.2e-09   1.9e-05   24.9   0.0    12   111   114   203   106   234 0.68 4Fe-4S single cluster domain
+SPASM                PF13186.6     68 BGC0000601.1_ORF2:gid:skfB:pid:CAB11985.2:loc:234:1467:strand:+ -            410   6.5e-05   23.4   0.1   1   1   3.4e-08    0.0002   21.8   0.1     1    44   333   370   333   388 0.77 Iron-sulfur cluster-binding domain
+CPBP                 PF02517.16    92 BGC0000601.1_ORF3:gid:skfC:pid:CAX52541.1:loc:1463:2954:strand:+ -            496   3.3e-12   46.6   9.9   1   1   1.8e-16   3.3e-12   46.6   9.9    11    92   385   471   371   471 0.90 CPBP intramembrane metalloprotease
+ABC_tran             PF00005.27   137 BGC0000601.1_ORF4:gid:skfE:pid:CAB11989.1:loc:2972:3692:strand:+ -            239   1.9e-32  112.6   0.0   1   1   2.9e-36   2.6e-32  112.2   0.0     2   136    20   160    19   161 0.96 ABC transporter
+Thioredoxin_8        PF13905.6     95 BGC0000601.1_ORF7:gid:skfH:pid:CAB11992.2:loc:5666:6092:strand:+ -            141   1.6e-08   34.7   0.1   1   1   3.9e-12   2.3e-08   34.2   0.1     2    95    30   121    29   121 0.93 Thioredoxin-like
+Thioredoxin_2        PF13098.6    109 BGC0000601.1_ORF7:gid:skfH:pid:CAB11992.2:loc:5666:6092:strand:+ -            141   1.2e-07   32.1   0.0   1   1   2.5e-11   1.5e-07   31.8   0.0     6   103    30   132    26   138 0.77 Thioredoxin-like domain
+AhpC-TSA             PF00578.21   124 BGC0000601.1_ORF7:gid:skfH:pid:CAB11992.2:loc:5666:6092:strand:+ -            141   1.5e-05   24.9   0.0   1   1   3.4e-09     2e-05   24.5   0.0    24   101    28   107    13   124 0.76 AhpC/TSA family
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000601.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000601.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000601.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:50:49 2019
+# [ok]

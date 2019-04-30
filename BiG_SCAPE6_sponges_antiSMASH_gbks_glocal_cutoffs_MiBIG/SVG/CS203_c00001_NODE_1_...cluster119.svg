@@ -1,0 +1,140 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="526.2666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="516.2666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg3123_1)</title>
+			<polygon class=" (ctg3123_1)" points="10,40 18,10 18,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DSBA (PF01323)
+"DSBA-like thioredoxin domain"</title>
+				<polygon class="PF01323" points="13,40 16,28 18,28 18,52 16,52" stroke-linejoin="round" width="8" height="24" fill="rgb(221,114,99)" stroke="rgb(176,91,79)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3123_2)</title>
+			<polygon class=" (ctg3123_2)" points="62,25 58,25 58,10 28,40 58,70 58,55 62,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NIL (PF09383)
+"NIL domain"</title>
+				<polygon class="PF09383" points="32,40 35,37 35,43" stroke-linejoin="round" width="6" height="24" fill="rgb(151,90,196)" stroke="rgb(120,72,156)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Abhydrolase_1 (PF00561)
+"alpha/beta hydrolase fold"</title>
+				<polygon class="PF00561" points="39,33 44,28 62,28 62,52 44,52 39,47" stroke-linejoin="round" width="23" height="24" fill="rgb(86,180,151)" stroke="rgb(68,144,120)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3123_3)</title>
+			<polygon class=" (ctg3123_3)" points="83,10 110,40 83,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF3891 (PF13030)
+"Protein of unknown function (DUF3891)"</title>
+				<polygon class="PF13030" points="83,28 94,28 105,39 105,41 94,52 83,52" stroke-linejoin="round" width="22" height="24" fill="rgb(206,193,96)" stroke="rgb(164,154,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3123_4)</title>
+			<polygon class=" (ctg3123_4)" points="110,25 152,25 152,10 182,40 152,70 152,55 110,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NUDIX (PF00293)
+"NUDIX domain"</title>
+				<rect class="PF00293" x="110" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(92,56,187)" stroke="rgb(73,44,149)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<rect class="PF00494" x="126" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="155,28 165,28 177,40 165,52 155,52" stroke-linejoin="round" width="25" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3123_5)</title>
+			<polygon class=" (ctg3123_5)" points="182,25 197,25 197,10 227,40 197,70 197,55 182,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amino_oxidase (PF01593)
+"Flavin containing amine oxidoreductase"</title>
+				<polygon class="PF01593" points="183,28 210,28 222,40 210,52 183,52" stroke-linejoin="round" width="42" height="24" fill="rgb(184,74,52)" stroke="rgb(147,59,41)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3123_6)</title>
+			<polygon class=" (ctg3123_6)" points="295,25 271,25 271,10 241,40 271,70 271,55 295,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TPP_enzyme_C (PF02775)
+"Thiamine pyrophosphate enzyme, C-terminal TPP binding domain"</title>
+				<polygon class="PF02775" points="245,40 256,29 256,51" stroke-linejoin="round" width="14" height="24" fill="rgb(156,179,45)" stroke="rgb(124,143,36)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TPP_enzyme_M (PF00205)
+"Thiamine pyrophosphate enzyme, central domain"</title>
+				<rect class="PF00205" x="262" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(149,194,69)" stroke="rgb(119,155,55)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TPP_enzyme_N (PF02776)
+"Thiamine pyrophosphate enzyme, N-terminal TPP binding domain"</title>
+				<rect class="PF02776" x="278" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(55,81,185)" stroke="rgb(44,64,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3123_7)</title>
+			<polygon class=" (ctg3123_7)" points="299,10 327,40 299,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Transglut_core2 (PF13369)
+"Transglutaminase-like superfamily"</title>
+				<polygon class="PF13369" points="301,28 311,28 322,40 311,52 301,52" stroke-linejoin="round" width="23" height="24" fill="rgb(145,180,83)" stroke="rgb(116,144,66)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3123_8)</title>
+			<polygon class=" (ctg3123_8)" points="328,10 337,40 328,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF442 (PF04273)
+"Putative phosphatase (DUF442)"</title>
+				<polygon class="PF04273" points="328,28 330,28 334,40 330,52 328,52" stroke-linejoin="round" width="9" height="24" fill="rgb(73,189,97)" stroke="rgb(58,151,77)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3123_9)</title>
+			<polygon class=" (ctg3123_9)" points="341,10 347,40 341,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3123_10)</title>
+			<polygon class=" (ctg3123_10)" points="386,25 375,25 375,10 345,40 375,70 375,55 386,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ILVD_EDD (PF00920)
+"Dehydratase family"</title>
+				<polygon class="PF00920" points="349,40 361,28 386,28 386,52 361,52" stroke-linejoin="round" width="41" height="24" fill="rgb(58,79,190)" stroke="rgb(46,63,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3123_11)</title>
+			<polygon class=" (ctg3123_11)" points="395,10 399,40 395,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3123_12)</title>
+			<polygon class=" (ctg3123_12)" points="400,10 409,40 400,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3123_13)</title>
+			<polygon class=" (ctg3123_13)" points="449,25 437,25 437,10 407,40 437,70 437,55 449,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3123_14)</title>
+			<polygon class=" (ctg3123_14)" points="453,10 478,40 453,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SIR2 (PF02146)
+"Sir2 family"</title>
+				<polygon class="PF02146" points="455,28 464,28 473,38 473,42 464,52 455,52" stroke-linejoin="round" width="18" height="24" fill="rgb(83,217,165)" stroke="rgb(66,173,132)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3123_15)</title>
+			<polygon class=" (ctg3123_15)" points="480,10 485,40 480,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

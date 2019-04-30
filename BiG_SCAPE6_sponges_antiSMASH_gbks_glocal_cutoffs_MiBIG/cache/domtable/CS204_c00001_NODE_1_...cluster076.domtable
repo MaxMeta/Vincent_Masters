@@ -1,0 +1,31 @@
+#                                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Amidohydro_1         PF01979.20   344 CS204_c00001_NODE_1_...cluster076_ORF1:gid::pid::loc:298:1510:strand:- -            403   2.5e-13   50.1   0.0   1   1   5.5e-17   4.9e-13   49.1   0.0     1   341    39   393    39   396 0.71 Amidohydrolase family
+SBP_bac_3            PF00497.20   225 CS204_c00001_NODE_1_...cluster076_ORF10:gid::pid::loc:6872:7775:strand:+ -            300   2.7e-15   56.4   0.0   1   1   2.3e-18   4.2e-14   52.5   0.0     1   214     1   277     1   282 0.84 Bacterial extracellular solute-binding proteins, family 3
+SQS_PSY              PF00494.19   263 CS204_c00001_NODE_1_...cluster076_ORF13:gid::pid::loc:10000:10924:strand:- -            307   2.5e-38  132.1   9.7   1   1   1.6e-42     3e-38  131.9   9.7    12   262     3   276     1   277 0.85 Squalene/phytoene synthase
+Pterin_4a            PF01329.19    91 CS204_c00001_NODE_1_...cluster076_ORF14:gid::pid::loc:11083:11374:strand:+ -             96   1.9e-26   92.1   0.0   1   1   1.2e-30   2.1e-26   91.9   0.0     2    89     4    90     3    92 0.94 Pterin 4 alpha carbinolamine dehydratase
+ACR_tran             PF00873.19  1021 CS204_c00001_NODE_1_...cluster076_ORF15:gid::pid::loc:11385:14595:strand:+ -           1069  8.9e-159  530.2   3.0   1   1  5.5e-162    5e-158  527.7   3.0     4  1017    20  1048    17  1051 0.90 AcrB/AcrD/AcrF family
+Aminotran_3          PF00202.21   406 CS204_c00001_NODE_1_...cluster076_ORF16:gid::pid::loc:14634:15984:strand:- -            449   1.5e-90  303.8   0.0   1   1   9.9e-95   1.8e-90  303.5   0.0    12   406    31   443    25   443 0.95 Aminotransferase class-III
+Na_Ca_ex             PF01699.24   151 CS204_c00001_NODE_1_...cluster076_ORF17:gid::pid::loc:15973:16945:strand:- -            323   4.2e-47  159.9  33.4   1   2   1.1e-27   1.9e-23   83.1  13.2     3   150     8   147     6   148 0.93 Sodium/calcium exchanger protein
+Na_Ca_ex             PF01699.24   151 CS204_c00001_NODE_1_...cluster076_ORF17:gid::pid::loc:15973:16945:strand:- -            323   4.2e-47  159.9  33.4   2   2   1.1e-27     2e-23   83.0  12.1     4   148   181   318   179   321 0.91 Sodium/calcium exchanger protein
+HHH_8                PF14716.6     68 CS204_c00001_NODE_1_...cluster076_ORF18:gid::pid::loc:16941:18714:strand:- -            590   1.7e-14   53.9   0.0   1   1     9e-16     4e-12   46.3   0.0     8    67    23    85    16    86 0.91 Helix-hairpin-helix domain
+DNA_pol_B_thumb      PF14791.6     70 CS204_c00001_NODE_1_...cluster076_ORF18:gid::pid::loc:16941:18714:strand:- -            590   2.1e-07   31.0   0.0   1   1     9e-11     4e-07   30.1   0.0     3    70   264   332   262   332 0.82 DNA polymerase beta thumb
+PHP                  PF02811.19   167 CS204_c00001_NODE_1_...cluster076_ORF18:gid::pid::loc:16941:18714:strand:- -            590   4.2e-07   30.4   0.0   1   1   1.5e-10   6.7e-07   29.8   0.0     1    74   356   450   356   552 0.76 PHP domain
+HHH_5                PF14520.6     57 CS204_c00001_NODE_1_...cluster076_ORF18:gid::pid::loc:16941:18714:strand:- -            590   1.6e-06   28.6   0.0   1   1   1.9e-07   0.00087   19.9   0.0     2    48   105   152   104   164 0.79 Helix-hairpin-helix domain
+DNA_ligase_aden      PF01653.18   318 CS204_c00001_NODE_1_...cluster076_ORF19:gid::pid::loc:18720:20910:strand:- -            729  2.6e-107  358.6   0.0   1   1  1.3e-110  3.3e-107  358.2   0.0     2   318    40   355    39   355 0.98 NAD-dependent DNA ligase adenylation domain
+DNA_ligase_OB        PF03120.16    79 CS204_c00001_NODE_1_...cluster076_ORF19:gid::pid::loc:18720:20910:strand:- -            729   8.8e-30  102.4   2.2   1   1   6.9e-33   1.8e-29  101.5   2.2     2    75   359   432   358   436 0.95 NAD-dependent DNA ligase OB-fold domain
+HHH_2                PF12826.7     64 CS204_c00001_NODE_1_...cluster076_ORF19:gid::pid::loc:18720:20910:strand:- -            729   1.6e-17   63.3   2.0   1   1     1e-19   2.7e-16   59.4   0.0     1    61   545   605   545   608 0.96 Helix-hairpin-helix motif
+HHH_5                PF14520.6     57 CS204_c00001_NODE_1_...cluster076_ORF19:gid::pid::loc:18720:20910:strand:- -            729   1.7e-09   38.1   0.4   1   1   2.8e-07   0.00071   20.1   0.0     5    47   550   591   546   601 0.91 Helix-hairpin-helix domain
+BRCT                 PF00533.26    79 CS204_c00001_NODE_1_...cluster076_ORF19:gid::pid::loc:18720:20910:strand:- -            729   5.3e-09   36.3   0.0   1   1   3.8e-12   9.8e-09   35.5   0.0     8    75   633   698   632   702 0.95 BRCA1 C Terminus (BRCT) domain
+PTCB-BRCT            PF12738.7     63 CS204_c00001_NODE_1_...cluster076_ORF19:gid::pid::loc:18720:20910:strand:- -            729   2.2e-05   24.3   0.0   1   1   1.7e-08   4.4e-05   23.3   0.0     5    58   638   692   635   694 0.89 twin BRCT domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS204_c00001_NODE_1_...cluster076.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS204_c00001_NODE_1_...cluster076.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS204_c00001_NODE_1_...cluster076.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:51:44 2019
+# [ok]

@@ -1,0 +1,18 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Fer4_7               PF12838.7     52 CS200_c00001_NODE_1_...cluster226_ORF2:gid::pid::loc:399:702:strand:+ -            100   6.8e-07   29.8  13.7   1   1   1.6e-10   1.4e-06   28.8  13.8     6    52    15    57     7    57 0.86 4Fe-4S dicluster domain
+Fer4                 PF00037.27    24 CS200_c00001_NODE_1_...cluster226_ORF2:gid::pid::loc:399:702:strand:+ -            100   1.4e-06   27.9  22.7   1   1   7.8e-09     7e-05   22.5   8.5     2    23    37    58    36    59 0.90 4Fe-4S binding domain
+Nif11                PF07862.11    48 CS200_c00001_NODE_1_...cluster226_ORF3:gid::pid::loc:774:975:strand:- -             66   2.8e-06   27.5   0.1   1   1   4.5e-10   8.1e-06   26.1   0.1     1    30     1    29     1    56 0.88 Nif11 domain
+Glyoxalase_4         PF13669.6    109 CS200_c00001_NODE_1_...cluster226_ORF4:gid::pid::loc:1085:1607:strand:+ -            173   3.3e-16   59.5   0.2   1   1   2.5e-20   4.5e-16   59.1   0.2     2    95    10   118     9   128 0.83 Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily
+p450                 PF00067.22   463 CS200_c00001_NODE_1_...cluster226_ORF6:gid::pid::loc:3935:5234:strand:+ -            432     6e-25   87.9   0.0   1   1   8.9e-25   1.6e-20   73.3   0.0   238   428   230   393   196   399 0.83 Cytochrome P450
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS200_c00001_NODE_1_...cluster226.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS200_c00001_NODE_1_...cluster226.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS200_c00001_NODE_1_...cluster226.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:40:21 2019
+# [ok]

@@ -1,0 +1,47 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="202.13333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="192.13333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg4314_1)</title>
+			<polygon class=" (ctg4314_1)" points="10,40 25,10 25,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF692 (PF05114)
+"Protein of unknown function (DUF692)"</title>
+				<polygon class="PF05114" points="13,40 19,28 24,28 24,52 19,52" stroke-linejoin="round" width="14" height="24" fill="rgb(63,196,127)" stroke="rgb(50,156,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4314_2)</title>
+			<polygon class=" (ctg4314_2)" points="27,40 38,10 38,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg4314_3)</title>
+			<polygon class=" (ctg4314_3)" points="175,25 78,25 78,10 48,40 78,70 78,55 175,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF3418 (PF11898)
+"Domain of unknown function (DUF3418)"</title>
+				<polygon class="PF11898" points="52,40 64,28 106,28 106,52 64,52" stroke-linejoin="round" width="58" height="24" fill="rgb(111,68,209)" stroke="rgb(88,54,167)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>OB_NTP_bind (PF07717)
+"Oligonucleotide/oligosaccharide-binding (OB)-fold"</title>
+				<rect class="PF07717" x="108" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(144,74,228)" stroke="rgb(115,59,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HA2 (PF04408)
+"Helicase associated domain (HA2)"</title>
+				<rect class="PF04408" x="119" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(142,68,179)" stroke="rgb(113,54,143)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Helicase_C (PF00271)
+"Helicase conserved C-terminal domain"</title>
+				<rect class="PF00271" x="137" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(104,224,158)" stroke="rgb(83,179,126)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DEAD (PF00270)
+"DEAD/DEAH box helicase"</title>
+				<rect class="PF00270" x="153" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(195,100,62)" stroke="rgb(156,80,49)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

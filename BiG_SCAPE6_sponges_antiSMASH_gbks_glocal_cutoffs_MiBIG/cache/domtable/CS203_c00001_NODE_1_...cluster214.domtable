@@ -1,0 +1,22 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Phe_tRNA-synt_N      PF02912.18    69 CS203_c00001_NODE_1_...cluster214_ORF1:gid::pid::loc:2:500:strand:- -            166   8.4e-22   76.9   0.2   1   1   1.9e-25   1.7e-21   75.9   0.2     2    67    30    95    29    97 0.95 Aminoacyl tRNA synthetase class II, N-terminal domain
+tRNA-synt_2d         PF01409.20   245 CS203_c00001_NODE_1_...cluster214_ORF1:gid::pid::loc:2:500:strand:- -            166   5.9e-20   71.8   0.0   1   1   8.7e-24   7.8e-20   71.4   0.0     2    66   102   166   101   166 0.98 tRNA synthetases class II core domain (F)
+Ribosomal_L20        PF00453.18   107 CS203_c00001_NODE_1_...cluster214_ORF2:gid::pid::loc:521:881:strand:- -            119   8.7e-48  160.9   9.2   1   1   5.5e-52   9.9e-48  160.7   9.2     1   107     3   109     3   109 0.99 Ribosomal protein L20
+Ribosomal_L35p       PF01632.19    61 CS203_c00001_NODE_1_...cluster214_ORF3:gid::pid::loc:912:1113:strand:- -             66   8.6e-24   83.8   8.3   1   1   5.4e-28   9.6e-24   83.7   8.3     1    61     2    61     2    61 0.99 Ribosomal protein L35
+IF3_C                PF00707.22    86 CS203_c00001_NODE_1_...cluster214_ORF4:gid::pid::loc:1264:1771:strand:- -            168   7.5e-36  122.0   0.1   1   1   1.3e-39   1.2e-35  121.4   0.1     1    85    78   162    78   163 0.99 Translation initiation factor IF-3, C-terminal domain
+IF3_N                PF05198.16    70 CS203_c00001_NODE_1_...cluster214_ORF4:gid::pid::loc:1264:1771:strand:- -            168   8.7e-26   90.0   0.1   1   1   1.8e-29   1.6e-25   89.2   0.1     1    67     2    68     2    77 0.96 Translation initiation factor IF-3, N-terminal domain
+GerE                 PF00196.19    57 CS203_c00001_NODE_1_...cluster214_ORF5:gid::pid::loc:2197:3349:strand:- -            383   3.3e-08   32.9   0.1   1   1   3.4e-12   6.2e-08   32.1   0.1     3    56   316   369   314   370 0.95 Bacterial regulatory proteins, luxR family
+Cadherin-like        PF12733.7     90 CS203_c00001_NODE_1_...cluster214_ORF6:gid::pid::loc:3626:4274:strand:+ -            215   1.1e-05   25.9   0.2   1   1   9.3e-10   1.7e-05   25.3   0.2     2    47    82   136    81   166 0.73 Cadherin-like beta sandwich domain
+SQS_PSY              PF00494.19   263 CS203_c00001_NODE_1_...cluster214_ORF7:gid::pid::loc:4357:5131:strand:+ -            258   2.6e-28   99.3   0.0   1   1   1.8e-32   3.3e-28   98.9   0.0     3   177    39   241    37   253 0.87 Squalene/phytoene synthase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS203_c00001_NODE_1_...cluster214.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS203_c00001_NODE_1_...cluster214.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS203_c00001_NODE_1_...cluster214.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:51:58 2019
+# [ok]

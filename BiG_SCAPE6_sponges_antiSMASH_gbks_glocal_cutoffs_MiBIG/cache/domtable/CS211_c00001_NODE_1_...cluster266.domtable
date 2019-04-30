@@ -1,0 +1,20 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ABC_tran             PF00005.27   137 CS211_c00001_NODE_1_...cluster266_ORF1:gid::pid::loc:0:747:strand:- -            249     8e-27   94.4   0.0   1   1   1.2e-30   1.1e-26   94.0   0.0     2   136    44   209    43   210 0.88 ABC transporter
+AAA_21               PF13304.6    303 CS211_c00001_NODE_1_...cluster266_ORF1:gid::pid::loc:0:747:strand:- -            249   8.2e-08   32.4   0.6   1   1   7.8e-11     7e-07   29.3   0.1   198   302   139   245   113   246 0.80 AAA domain, putative AbiEii toxin, Type IV TA system
+SQS_PSY              PF00494.19   263 CS211_c00001_NODE_1_...cluster266_ORF2:gid::pid::loc:1522:2533:strand:- -            336   1.8e-75  253.9   0.8   1   1   1.2e-79   2.1e-75  253.6   0.8     4   262    57   310    54   311 0.92 Squalene/phytoene synthase
+MerR_1               PF13411.6     69 CS211_c00001_NODE_1_...cluster266_ORF3:gid::pid::loc:3245:4613:strand:+ -            455   4.9e-12   45.8   0.2   1   1   2.1e-15   9.3e-12   44.9   0.2     2    64     9    72     8    76 0.90 MerR HTH family regulatory protein
+MerR                 PF00376.23    38 CS211_c00001_NODE_1_...cluster266_ORF3:gid::pid::loc:3245:4613:strand:+ -            455   2.7e-10   39.9   0.7   1   1   1.2e-13   5.5e-10   38.8   0.7     4    38    12    46     9    46 0.95 MerR family regulatory protein
+B12-binding          PF02310.19   121 CS211_c00001_NODE_1_...cluster266_ORF3:gid::pid::loc:3245:4613:strand:+ -            455   4.2e-08   33.3   0.0   1   1   2.3e-11     1e-07   32.0   0.0     3    96   207   298   205   310 0.90 B12 binding domain
+B12-binding_2        PF02607.17    75 CS211_c00001_NODE_1_...cluster266_ORF3:gid::pid::loc:3245:4613:strand:+ -            455   2.2e-05   24.8   0.1   1   1   8.6e-09   3.9e-05   24.0   0.1     5    74   126   194   122   195 0.90 B12 binding domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster266.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS211_c00001_NODE_1_...cluster266.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster266.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:51:03 2019
+# [ok]

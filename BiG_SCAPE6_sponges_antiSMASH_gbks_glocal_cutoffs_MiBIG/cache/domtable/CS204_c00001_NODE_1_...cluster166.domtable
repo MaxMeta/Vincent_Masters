@@ -1,0 +1,23 @@
+#                                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.28   423 CS204_c00001_NODE_1_...cluster166_ORF1:gid::pid::loc:116:2675:strand:- -            852   5.1e-74  249.4   0.0   1   1   1.9e-77   1.1e-73  248.2   0.0    11   422    17   415    10   416 0.80 AMP-binding enzyme
+Acyltransferase      PF01553.21   135 CS204_c00001_NODE_1_...cluster166_ORF1:gid::pid::loc:116:2675:strand:- -            852   5.1e-09   35.9   0.0   1   1   2.4e-12   1.4e-08   34.4   0.0    14   133   667   796   654   798 0.80 Acyltransferase
+PP-binding           PF00550.25    67 CS204_c00001_NODE_1_...cluster166_ORF1:gid::pid::loc:116:2675:strand:- -            852   7.4e-09   35.8   0.4   1   1   2.3e-12   1.4e-08   35.0   0.4     4    63   527   587   524   591 0.92 Phosphopantetheine attachment site
+DinB                 PF05163.12   169 CS204_c00001_NODE_1_...cluster166_ORF2:gid::pid::loc:2908:3409:strand:+ -            166   9.2e-30  103.8   0.9   1   1   1.8e-33   1.1e-29  103.6   0.9     7   152     6   152     1   161 0.92 DinB family
+DinB_2               PF12867.7    128 CS204_c00001_NODE_1_...cluster166_ORF2:gid::pid::loc:2908:3409:strand:+ -            166   1.6e-17   64.2   3.3   1   1   3.6e-21   2.1e-17   63.8   3.3     3   127    14   139    13   140 0.90 DinB superfamily
+DUF664               PF04978.12   150 CS204_c00001_NODE_1_...cluster166_ORF2:gid::pid::loc:2908:3409:strand:+ -            166     6e-08   33.2   2.9   1   1     4e-11   2.4e-07   31.3   2.9     8   141    15   140     5   148 0.76 Protein of unknown function (DUF664)
+Spond_N              PF06468.13   192 CS204_c00001_NODE_1_...cluster166_ORF3:gid::pid::loc:3555:4356:strand:+ -            266   7.3e-08   32.8   0.0   1   1   6.1e-12   1.1e-07   32.2   0.0    34   151    68   179    59   192 0.89 Spondin_N
+ABG_transport        PF03806.13   502 CS204_c00001_NODE_1_...cluster166_ORF4:gid::pid::loc:4414:5965:strand:- -            516  1.3e-185  617.5  23.5   1   1  1.6e-189  1.4e-185  617.3  23.5     3   502    19   515    17   515 0.95 AbgT putative transporter family
+SCFA_trans           PF02667.14   453 CS204_c00001_NODE_1_...cluster166_ORF4:gid::pid::loc:4414:5965:strand:- -            516   7.4e-05   21.9   3.5   1   1   8.2e-09   7.4e-05   21.9   3.5   360   417   400   457   315   498 0.77 Short chain fatty acid transporter
+Sulfatase            PF00884.23   309 CS204_c00001_NODE_1_...cluster166_ORF6:gid::pid::loc:6790:8029:strand:- -            412   1.2e-37  129.9   0.0   1   1   3.4e-40   3.1e-36  125.4   0.0     9   309     2   272     1   272 0.87 Sulfatase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS204_c00001_NODE_1_...cluster166.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS204_c00001_NODE_1_...cluster166.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS204_c00001_NODE_1_...cluster166.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:30:57 2019
+# [ok]

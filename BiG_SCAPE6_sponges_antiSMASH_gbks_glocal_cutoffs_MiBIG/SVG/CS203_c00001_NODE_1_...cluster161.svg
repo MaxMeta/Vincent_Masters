@@ -1,0 +1,118 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="449.1666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="439.1666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg5399_1)</title>
+			<polygon class=" (ctg5399_1)" points="21,10 38,40 21,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg5399_2)</title>
+			<polygon class=" (ctg5399_2)" points="56,10 66,40 56,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<polygon class="PF00501" points="56,28 58,28 63,40 63,40 58,52 56,52" stroke-linejoin="round" width="7" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5399_3)</title>
+			<polygon class=" (ctg5399_3)" points="72,40 78,10 78,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg5399_4)</title>
+			<polygon class=" (ctg5399_4)" points="77,40 88,10 88,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg5399_5)</title>
+			<polygon class=" (ctg5399_5)" points="95,40 102,10 102,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg5399_6)</title>
+			<polygon class=" (ctg5399_6)" points="103,25 235,25 235,10 265,40 235,70 235,55 103,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="104" y="28" stroke-linejoin="round" width="33" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="151" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="160" y="28" stroke-linejoin="round" width="22" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<rect class="PF02801" x="183" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Nucleoporin2 (PF04096)
+"Nucleoporin autopeptidase"</title>
+				<polygon class="PF04096" points="251,31 260,40 251,49" stroke-linejoin="round" width="13" height="24" fill="rgb(214,183,82)" stroke="rgb(171,146,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5399_7)</title>
+			<polygon class=" (ctg5399_7)" points="292,40 297,10 297,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg5399_8)</title>
+			<polygon class=" (ctg5399_8)" points="298,40 317,10 317,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg5399_9)</title>
+			<polygon class=" (ctg5399_9)" points="321,40 325,10 325,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg5399_10)</title>
+			<polygon class=" (ctg5399_10)" points="326,40 332,10 332,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg5399_11)</title>
+			<polygon class=" (ctg5399_11)" points="334,40 343,10 343,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg5399_12)</title>
+			<polygon class=" (ctg5399_12)" points="432,25 403,25 403,10 373,40 403,70 403,55 432,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Kelch_1 (PF01344)
+"Kelch motif"</title>
+				<polygon class="PF01344" points="377,40 379,38 379,42" stroke-linejoin="round" width="4" height="24" fill="rgb(184,90,139)" stroke="rgb(147,72,111)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Kelch_1 (PF01344)
+"Kelch motif"</title>
+				<polygon class="PF01344" points="380,37 384,33 384,47 380,43" stroke-linejoin="round" width="4" height="24" fill="rgb(184,90,139)" stroke="rgb(147,72,111)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Kelch_1 (PF01344)
+"Kelch motif"</title>
+				<polygon class="PF01344" points="385,32 389,28 389,28 389,52 389,52 385,48" stroke-linejoin="round" width="4" height="24" fill="rgb(184,90,139)" stroke="rgb(147,72,111)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Kelch_1 (PF01344)
+"Kelch motif"</title>
+				<rect class="PF01344" x="390" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(184,90,139)" stroke="rgb(147,72,111)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Kelch_1 (PF01344)
+"Kelch motif"</title>
+				<rect class="PF01344" x="394" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(184,90,139)" stroke="rgb(147,72,111)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>BACK (PF07707)
+"BTB And C-terminal Kelch"</title>
+				<rect class="PF07707" x="407" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(91,181,188)" stroke="rgb(72,144,150)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>BTB (PF00651)
+"BTB/POZ domain"</title>
+				<rect class="PF00651" x="418" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(194,93,137)" stroke="rgb(155,74,109)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

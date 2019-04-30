@@ -1,0 +1,24 @@
+#                                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+TaqI_C               PF12950.7    120 CS204_c00001_NODE_1_...cluster037_ORF1:gid::pid::loc:706:1996:strand:+ -            429   1.8e-09   37.7   0.0   1   1   2.9e-13   2.6e-09   37.2   0.0    19   120   276   391   256   391 0.86 TaqI-like C-terminal specificity domain
+Eco57I               PF07669.11   106 CS204_c00001_NODE_1_...cluster037_ORF1:gid::pid::loc:706:1996:strand:+ -            429   4.6e-05   23.9   0.0   1   1   8.4e-09   7.5e-05   23.2   0.0     6    91     1    93     1   103 0.85 Eco57I restriction-modification methylase
+DUF4143              PF13635.6    122 CS204_c00001_NODE_1_...cluster037_ORF3:gid::pid::loc:3302:4565:strand:- -            420   3.2e-21   75.7   0.0   1   1   5.1e-25   4.6e-21   75.2   0.0    18   122   235   364   136   364 0.85 Domain of unknown function (DUF4143)
+AAA_14               PF13173.6    131 CS204_c00001_NODE_1_...cluster037_ORF3:gid::pid::loc:3302:4565:strand:- -            420   1.8e-11   44.2   0.0   1   1   8.6e-15   7.8e-11   42.1   0.0     4   129    28   138    26   140 0.84 AAA domain
+NHase_alpha          PF02979.16   184 CS204_c00001_NODE_1_...cluster037_ORF5:gid::pid::loc:5000:5273:strand:+ -             90   6.6e-07   28.8   0.0   1   1   4.7e-11   8.3e-07   28.5   0.0   116   165    20    70    10    75 0.92 Nitrile hydratase, alpha chain
+Methyltransf_25      PF13649.6     97 CS204_c00001_NODE_1_...cluster037_ORF6:gid::pid::loc:5337:6102:strand:- -            254   2.5e-11   44.1   0.0   1   1   8.5e-15   5.1e-11   43.1   0.0     2    97    76   166    76   166 0.91 Methyltransferase domain
+Methyltransf_11      PF08241.12    96 CS204_c00001_NODE_1_...cluster037_ORF6:gid::pid::loc:5337:6102:strand:- -            254   7.8e-08   32.9   0.0   1   1   2.2e-11   1.3e-07   32.2   0.0     1    95    76   169    76   170 0.87 Methyltransferase domain
+Methyltransf_23      PF13489.6    165 CS204_c00001_NODE_1_...cluster037_ORF6:gid::pid::loc:5337:6102:strand:- -            254   1.3e-07   31.6   0.0   1   1   3.2e-11   1.9e-07   31.1   0.0    10   159    59   210    52   211 0.79 Methyltransferase domain
+NHase_alpha          PF02979.16   184 CS204_c00001_NODE_1_...cluster037_ORF8:gid::pid::loc:6659:6872:strand:+ -             70   4.3e-07   29.4   0.0   1   1   2.8e-11     5e-07   29.2   0.0   116   170     4    59     2    65 0.90 Nitrile hydratase, alpha chain
+ABC_tran             PF00005.27   137 CS204_c00001_NODE_1_...cluster037_ORF14:gid::pid::loc:9379:12316:strand:- -            978   1.6e-29  103.2   0.0   1   1   2.8e-33   2.5e-29  102.5   0.0     1   137   759   908   759   908 0.88 ABC transporter
+ABC_membrane         PF00664.23   274 CS204_c00001_NODE_1_...cluster037_ORF14:gid::pid::loc:9379:12316:strand:- -            978   5.7e-18   65.5   5.3   1   1   9.2e-22   8.2e-18   65.0   5.3     8   274   436   698   430   698 0.97 ABC transporter transmembrane region
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS204_c00001_NODE_1_...cluster037.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS204_c00001_NODE_1_...cluster037.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS204_c00001_NODE_1_...cluster037.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:42:44 2019
+# [ok]

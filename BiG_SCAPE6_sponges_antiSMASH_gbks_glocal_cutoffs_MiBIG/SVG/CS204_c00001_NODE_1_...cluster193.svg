@@ -1,0 +1,68 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="215.96666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="205.96666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg13836_1)</title>
+			<polygon class=" (ctg13836_1)" points="10,10 23,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AbiEii (PF08843)
+"Nucleotidyl transferase AbiEii toxin, Type IV TA system"</title>
+				<polygon class="PF08843" points="10,28 14,28 19,40 14,52 10,52" stroke-linejoin="round" width="11" height="24" fill="rgb(179,218,98)" stroke="rgb(143,174,78)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13836_2)</title>
+			<polygon class=" (ctg13836_2)" points="55,25 53,25 53,10 23,40 53,70 53,55 55,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Trans_reg_C (PF00486)
+"Transcriptional regulatory protein, C terminal"</title>
+				<polygon class="PF00486" points="27,40 31,36 31,44" stroke-linejoin="round" width="7" height="24" fill="rgb(204,153,57)" stroke="rgb(163,122,45)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<polygon class="PF00072" points="34,33 39,28 39,28 39,52 39,52 34,47" stroke-linejoin="round" width="5" height="24" fill="rgb(100,107,203)" stroke="rgb(80,85,162)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13836_3)</title>
+			<polygon class=" (ctg13836_3)" points="58,25 81,25 81,10 111,40 81,70 81,55 58,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PGI (PF00342)
+"Phosphoglucose isomerase"</title>
+				<polygon class="PF00342" points="63,28 95,28 107,40 95,52 63,52" stroke-linejoin="round" width="47" height="24" fill="rgb(160,69,196)" stroke="rgb(128,55,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13836_4)</title>
+			<polygon class=" (ctg13836_4)" points="117,40 120,10 120,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg13836_5)</title>
+			<polygon class=" (ctg13836_5)" points="120,40 141,10 141,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NYN (PF01936)
+"NYN domain"</title>
+				<polygon class="PF01936" points="124,40 132,28 140,28 140,52 132,52 124,40" stroke-linejoin="round" width="16" height="24" fill="rgb(215,71,199)" stroke="rgb(172,56,159)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13836_6)</title>
+			<polygon class=" (ctg13836_6)" points="146,10 170,40 146,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NTP_transf_3 (PF12804)
+"MobA-like NTP transferase domain"</title>
+				<polygon class="PF12804" points="146,28 157,28 166,40 166,40 157,52 146,52" stroke-linejoin="round" width="20" height="24" fill="rgb(52,209,196)" stroke="rgb(41,167,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13836_7)</title>
+			<polygon class=" (ctg13836_7)" points="177,10 205,40 177,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PEP_mutase (PF13714)
+"Phosphoenolpyruvate phosphomutase"</title>
+				<polygon class="PF13714" points="177,28 189,28 201,40 201,40 189,52 177,52" stroke-linejoin="round" width="24" height="24" fill="rgb(215,91,155)" stroke="rgb(172,72,123)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

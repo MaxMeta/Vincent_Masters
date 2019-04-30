@@ -1,0 +1,27 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SRP54                PF00448.22   196 BGC0000472.1_ORF1:gid::pid:ADA00385.1:loc:112:1561:strand:+ -            482   1.7e-75  253.0   1.1   1   1   4.5e-79   2.7e-75  252.3   1.1     2   196   101   295   100   295 0.99 SRP54-type protein, GTPase domain
+SRP_SPB              PF02978.19    99 BGC0000472.1_ORF1:gid::pid:ADA00385.1:loc:112:1561:strand:+ -            482   1.1e-29  102.9   3.5   1   1   1.3e-32   7.7e-29  100.2   1.8     1    99   326   426   326   426 0.92 Signal peptide binding domain
+SRP54_N              PF02881.19    75 BGC0000472.1_ORF1:gid::pid:ADA00385.1:loc:112:1561:strand:+ -            482   9.8e-22   77.0   2.7   1   1     3e-25   1.8e-21   76.2   0.9     1    75     5    82     5    82 0.96 SRP54-type protein, helical bundle domain
+PatG_C               PF18065.1    115 BGC0000472.1_ORF4:gid:acyA:pid:ACK37888.2:loc:2247:4224:strand:- -            658   5.2e-41  139.2   0.0   1   1   2.1e-44   1.3e-40  138.0   0.0     2   115   541   654   540   654 0.99 PatG C-terminal
+Peptidase_S8         PF00082.22   298 BGC0000472.1_ORF4:gid:acyA:pid:ACK37888.2:loc:2247:4224:strand:- -            658   7.9e-40  137.0   0.1   1   1   2.6e-43   1.6e-39  136.0   0.1     4   284    23   265    20   280 0.86 Subtilase family
+PatG_D               PF18047.1    111 BGC0000472.1_ORF4:gid:acyA:pid:ACK37888.2:loc:2247:4224:strand:- -            658   1.4e-26   93.1   0.0   1   1   4.5e-30   2.7e-26   92.2   0.0     1   109   382   494   382   496 0.98 PatG Domain
+Y1_Tnp               PF01797.16   121 BGC0000472.1_ORF6:gid::pid:ADA00389.1:loc:5113:5878:strand:- -            254   7.4e-23   80.9   0.6   1   1   6.4e-27   1.1e-22   80.3   0.6     2   121    10   126     9   126 0.89 Transposase IS200 like
+Uma2                 PF05685.12   172 BGC0000472.1_ORF9:gid::pid:ADA00392.1:loc:7496:8180:strand:+ -            227   4.7e-32  110.9   0.2   1   1   3.6e-36   6.4e-32  110.4   0.2     4   170    31   193    25   196 0.94 Putative restriction endonuclease
+XisI                 PF08869.11   110 BGC0000472.1_ORF11:gid::pid:ADA00394.1:loc:9473:9809:strand:- -            111   1.1e-48  164.1   0.7   1   1     7e-53   1.3e-48  164.0   0.7     1   110     1   110     1   110 1.00 XisI protein
+PatG_C               PF18065.1    115 BGC0000472.1_ORF12:gid:acyG:pid:ADA00395.1:loc:10264:12397:strand:+ -            710     8e-38  129.0   0.0   1   1     2e-41   1.2e-37  128.4   0.0     3   115   594   706   592   706 0.97 PatG C-terminal
+PatG_D               PF18047.1    111 BGC0000472.1_ORF12:gid:acyG:pid:ADA00395.1:loc:10264:12397:strand:+ -            710   1.2e-30  106.1   0.0   1   1   3.8e-34   2.3e-30  105.3   0.0     1   108   433   544   433   548 0.97 PatG Domain
+Peptidase_S8         PF00082.22   298 BGC0000472.1_ORF12:gid:acyG:pid:ADA00395.1:loc:10264:12397:strand:+ -            710   1.2e-18   67.4   0.0   1   1   2.9e-22   1.7e-18   66.9   0.0     4   284    23   314    20   326 0.77 Subtilase family
+Ribosomal_S16        PF00886.19    62 BGC0000472.1_ORF13:gid::pid:ADA00396.1:loc:12914:13175:strand:+ -             86   1.1e-17   63.8   0.0   1   1   7.5e-22   1.3e-17   63.5   0.0     1    62     8    64     8    64 0.95 Ribosomal protein S16
+KH_4                 PF13083.6     73 BGC0000472.1_ORF14:gid::pid:ADA00397.1:loc:13182:13569:strand:+ -            128   5.5e-16   58.2   0.0   1   1   5.6e-20     1e-15   57.4   0.0     3    73    13    85    12    85 0.95 KH domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000472.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000472.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000472.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:52:25 2019
+# [ok]

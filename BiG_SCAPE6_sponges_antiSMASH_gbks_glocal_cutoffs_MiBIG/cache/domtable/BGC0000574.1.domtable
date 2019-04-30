@@ -1,0 +1,18 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Peptidase_S9         PF00326.21   212 BGC0000574.1_ORF1:gid::pid:ADG11017.1:loc:0:2445:strand:+ -            814   8.8e-25   87.4   0.0   1   1   9.9e-27   3.6e-23   82.2   0.0    50   210   614   789   609   791 0.79 Prolyl oligopeptidase family
+BAAT_C               PF08840.11   213 BGC0000574.1_ORF1:gid::pid:ADG11017.1:loc:0:2445:strand:+ -            814   9.7e-06   25.6   0.0   1   1   4.4e-09   1.6e-05   25.0   0.0    15   166   622   770   620   784 0.90 BAAT / Acyl-CoA thioester hydrolase C terminal
+Asn_synthase         PF00733.21   355 BGC0000574.1_ORF2:gid::pid:ADG11018.1:loc:2330:4184:strand:- -            617   5.1e-24   85.6   0.0   1   1   5.1e-28   9.2e-24   84.8   0.0     2   355   222   580   221   580 0.77 Asparagine synthase
+Transglut_core3      PF13471.6    117 BGC0000574.1_ORF3:gid::pid:ADG11019.1:loc:4186:4837:strand:- -            216   9.4e-20   70.7   4.1   1   1   7.7e-24   1.4e-19   70.1   0.1    10   116   110   214   101   215 0.88 Transglutaminase-like superfamily
+GntR                 PF00392.21    64 BGC0000574.1_ORF7:gid::pid:ADG11023.1:loc:5540:6137:strand:- -            198   7.1e-10   38.4   0.1   1   1     4e-14   7.1e-10   38.4   0.1     7    59    22    73    17    75 0.92 Bacterial regulatory proteins, gntR family
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000574.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000574.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000574.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:50:53 2019
+# [ok]

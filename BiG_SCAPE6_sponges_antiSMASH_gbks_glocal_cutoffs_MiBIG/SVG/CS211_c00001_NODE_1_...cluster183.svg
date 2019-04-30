@@ -1,0 +1,86 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="351.6666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="341.6666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg7923_1)</title>
+			<polygon class=" (ctg7923_1)" points="10,10 17,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg7923_2)</title>
+			<polygon class=" (ctg7923_2)" points="21,40 28,10 28,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Zn-ribbon_8 (PF09723)
+"Zinc ribbon domain"</title>
+				<polygon class="PF09723" points="24,40 27,28 27,28 27,52 27,52 24,40" stroke-linejoin="round" width="3" height="24" fill="rgb(100,194,213)" stroke="rgb(80,155,170)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7923_3)</title>
+			<polygon class=" (ctg7923_3)" points="120,25 59,25 59,10 29,40 59,70 59,55 120,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="64" y="28" stroke-linejoin="round" width="44" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="111" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7923_4)</title>
+			<polygon class=" (ctg7923_4)" points="121,10 126,40 121,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg7923_5)</title>
+			<polygon class=" (ctg7923_5)" points="127,10 153,40 127,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MOSC_N (PF03476)
+"MOSC N-terminal beta barrel domain"</title>
+				<rect class="PF03476" x="127" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(209,103,209)" stroke="rgb(167,82,167)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MOSC (PF03473)
+"MOSC domain"</title>
+				<polygon class="PF03473" points="139,28 139,28 149,40 139,52 139,52" stroke-linejoin="round" width="13" height="24" fill="rgb(96,194,162)" stroke="rgb(76,155,129)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7923_6)</title>
+			<polygon class=" (ctg7923_6)" points="156,25 165,25 165,10 195,40 165,70 165,55 156,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DDE_Tnp_1 (PF01609)
+"Transposase DDE domain"</title>
+				<polygon class="PF01609" points="171,28 179,28 190,39 190,41 179,52 171,52" stroke-linejoin="round" width="19" height="24" fill="rgb(229,102,99)" stroke="rgb(183,81,79)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7923_7)</title>
+			<polygon class=" (ctg7923_7)" points="221,40 235,10 235,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg7923_8)</title>
+			<polygon class=" (ctg7923_8)" points="237,10 247,40 237,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg7923_9)</title>
+			<polygon class=" (ctg7923_9)" points="327,25 289,25 289,10 259,40 289,70 289,55 327,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>KTSC (PF13619)
+"KTSC domain"</title>
+				<polygon class="PF13619" points="263,40 264,39 264,41" stroke-linejoin="round" width="5" height="24" fill="rgb(195,87,207)" stroke="rgb(155,69,165)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DUF853 (PF05872)
+"Bacterial protein of unknown function (DUF853)"</title>
+				<polygon class="PF05872" points="270,33 275,28 285,28 285,52 275,52 270,47" stroke-linejoin="round" width="15" height="24" fill="rgb(168,80,185)" stroke="rgb(134,64,148)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DUF87 (PF01935)
+"Helicase HerA, central domain"</title>
+				<rect class="PF01935" x="285" y="28" stroke-linejoin="round" width="28" height="24" fill="rgb(212,130,95)" stroke="rgb(169,104,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

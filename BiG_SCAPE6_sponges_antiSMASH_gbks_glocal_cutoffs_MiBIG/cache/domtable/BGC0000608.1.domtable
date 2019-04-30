@@ -1,0 +1,16 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+BATS                 PF06968.13    86 BGC0000608.1_ORF1:gid::pid:ADH93698.1:loc:304:1498:strand:- -            397   5.6e-09   36.0   0.0   1   1   5.7e-13     1e-08   35.2   0.0     1    84   276   378   276   380 0.93 Biotin and Thiamin Synthesis associated domain
+Radical_SAM          PF04055.21   167 BGC0000608.1_ORF3:gid::pid:ADH93700.1:loc:2257:3433:strand:+ -            391   7.4e-15   55.7   0.0   1   1   6.1e-19   1.1e-14   55.2   0.0     2   165     6   185     5   187 0.84 Radical SAM superfamily
+Lant_dehydr_C        PF14028.6    312 BGC0000608.1_ORF4:gid::pid:ADH93701.1:loc:3429:4371:strand:+ -            313   4.3e-10   39.6   0.3   1   1   4.4e-14     8e-10   38.8   0.1   155   310   111   294    86   296 0.74 Lantibiotic biosynthesis dehydratase C-term
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000608.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000608.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000608.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:30:26 2019
+# [ok]

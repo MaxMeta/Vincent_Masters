@@ -1,0 +1,16 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Acetyltransf_1       PF00583.25   117 BGC0000852.1_ORF1:gid:ectA:pid:AAK12083.1:loc:415:958:strand:+ -            180   9.8e-07   29.0   0.0   1   1   9.9e-11   1.8e-06   28.2   0.0    22   115    52   142    33   143 0.87 Acetyltransferase (GNAT) family
+Aminotran_3          PF00202.21   406 BGC0000852.1_ORF2:gid:ectB:pid:AAK12084.1:loc:1009:2290:strand:+ -            426   8.2e-81  271.7   0.0   1   1   5.4e-85   9.6e-81  271.5   0.0     7   405    25   419    19   420 0.88 Aminotransferase class-III
+Ectoine_synth        PF06339.12   127 BGC0000852.1_ORF3:gid:ectC:pid:AAK12085.1:loc:2449:2854:strand:+ -            134   3.2e-60  201.9   0.2   1   1     2e-64   3.6e-60  201.7   0.2     1   125     1   126     1   128 0.98 Ectoine synthase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000852.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000852.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000852.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:36:57 2019
+# [ok]

@@ -1,0 +1,20 @@
+#                                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+FAD_binding_4        PF01565.23   139 CS211_c00001_NODE_1_...cluster071_ORF1:gid::pid::loc:160:1417:strand:+ -            418     3e-29  101.5   4.7   1   1   3.4e-33     3e-29  101.5   4.7     1   139     6   141     6   141 0.96 FAD binding domain
+YcaO                 PF02624.16   323 CS211_c00001_NODE_1_...cluster071_ORF2:gid::pid::loc:1441:3790:strand:+ -            782     1e-93  314.2   0.3   1   1   5.6e-98     1e-93  314.2   0.3     2   323   405   745   404   745 0.90 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+NHase_alpha          PF02979.16   184 CS211_c00001_NODE_1_...cluster071_ORF4:gid::pid::loc:5000:5282:strand:- -             93   5.6e-11   42.1   0.2   1   1   2.6e-11   4.7e-07   29.3   0.0   114   160    26    73    25    90 0.84 Nitrile hydratase, alpha chain
+HlyD_3               PF13437.6    106 CS211_c00001_NODE_1_...cluster071_ORF5:gid::pid::loc:5419:6223:strand:+ -            267   1.9e-05   25.3   0.0   1   1   4.4e-09     8e-05   23.3   0.0     3    78   131   209   129   246 0.78 HlyD family secretion protein
+ABC_tran             PF00005.27   137 CS211_c00001_NODE_1_...cluster071_ORF6:gid::pid::loc:6356:8453:strand:+ -            698   1.1e-31  110.2   0.0   1   1   2.6e-35   1.5e-31  109.7   0.0     3   137   479   626   477   626 0.88 ABC transporter
+Peptidase_C39        PF03412.15   133 CS211_c00001_NODE_1_...cluster071_ORF6:gid::pid::loc:6356:8453:strand:+ -            698   3.1e-27   95.0   0.0   1   1   7.8e-31   4.6e-27   94.4   0.0    21   131     1   109     1   111 0.98 Peptidase C39 family
+ABC_membrane         PF00664.23   274 CS211_c00001_NODE_1_...cluster071_ORF6:gid::pid::loc:6356:8453:strand:+ -            698   5.1e-21   75.5   0.9   1   1   1.2e-24   7.3e-21   75.0   0.9     4   271   139   402   136   404 0.96 ABC transporter transmembrane region
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster071.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS211_c00001_NODE_1_...cluster071.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster071.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:51:21 2019
+# [ok]

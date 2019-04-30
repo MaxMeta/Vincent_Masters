@@ -1,0 +1,25 @@
+#                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ketoacyl-synt        PF00109.26   253 CS783_c00001_NODE_1_...cluster120_ORF1:gid::pid::loc:1:3397:strand:- -           1132   2.3e-81  273.1   0.8   1   1     2e-84   7.3e-81  271.5   0.1     2   253    35   287    34   287 0.90 Beta-ketoacyl synthase, N-terminal domain
+Acyl_transf_1        PF00698.21   319 CS783_c00001_NODE_1_...cluster120_ORF1:gid::pid::loc:1:3397:strand:- -           1132   8.4e-54  183.2   0.0   1   1   3.5e-57   1.2e-53  182.6   0.0     2   271   598   877   597   888 0.93 Acyl transferase domain
+Ketoacyl-synt_C      PF02801.22   118 CS783_c00001_NODE_1_...cluster120_ORF1:gid::pid::loc:1:3397:strand:- -           1132   4.8e-42  142.7   0.0   1   1   3.5e-45   1.3e-41  141.4   0.0     2   117   296   412   295   413 0.98 Beta-ketoacyl synthase, C-terminal domain
+PS-DH                PF14765.6    298 CS783_c00001_NODE_1_...cluster120_ORF1:gid::pid::loc:1:3397:strand:- -           1132   3.9e-21   75.6   0.0   1   1   1.8e-24   6.6e-21   74.8   0.0     1   140   972  1114   972  1129 0.83 Polyketide synthase dehydratase
+KAsynt_C_assoc       PF16197.5    112 CS783_c00001_NODE_1_...cluster120_ORF1:gid::pid::loc:1:3397:strand:- -           1132   1.3e-11   45.0   0.0   1   1   1.3e-14   4.8e-11   43.1   0.0     1    97   415   550   415   566 0.81 Ketoacyl-synthetase C-terminal extension
+Amdase               PF17645.1    217 CS783_c00001_NODE_1_...cluster120_ORF2:gid::pid::loc:3907:4663:strand:+ -            251   8.1e-29  100.8   0.1   1   1   1.1e-32     1e-28  100.5   0.1    19   215    50   246    32   248 0.88 Arylmalonate decarboxylase
+Asp_Glu_race         PF01177.22   224 CS783_c00001_NODE_1_...cluster120_ORF2:gid::pid::loc:3907:4663:strand:+ -            251   8.6e-10   38.8   0.1   1   1   1.8e-13   1.6e-09   38.0   0.1    26   221    35   229    18   232 0.79 Asp/Glu/Hydantoin racemase
+Amdase               PF17645.1    217 CS783_c00001_NODE_1_...cluster120_ORF4:gid::pid::loc:4805:5552:strand:- -            248   1.6e-14   54.1   0.0   1   1   1.1e-18     2e-14   53.8   0.0    52   215    80   243    63   245 0.93 Arylmalonate decarboxylase
+FAD_binding_3        PF01494.19   349 CS783_c00001_NODE_1_...cluster120_ORF5:gid::pid::loc:5618:6821:strand:- -            400   4.5e-55  187.3   0.0   1   1   6.9e-59   6.1e-55  186.9   0.0     4   348     7   346     5   347 0.85 FAD binding domain
+DUF3237              PF11578.8    149 CS783_c00001_NODE_1_...cluster120_ORF6:gid::pid::loc:7036:7498:strand:- -            153     2e-41  141.3   0.0   1   1   1.2e-45   2.2e-41  141.1   0.0     1   149     5   152     5   152 0.97 Protein of unknown function (DUF3237)
+Ald_Xan_dh_C2        PF02738.18   550 CS783_c00001_NODE_1_...cluster120_ORF7:gid::pid::loc:7762:9202:strand:+ -            480   7.4e-81  272.3   0.0   1   1     1e-84   9.4e-81  271.9   0.0     1   309   149   466   149   477 0.96 Molybdopterin-binding domain of aldehyde dehydrogenase
+Ald_Xan_dh_C         PF01315.22   110 CS783_c00001_NODE_1_...cluster120_ORF7:gid::pid::loc:7762:9202:strand:+ -            480   1.7e-28   99.2   0.0   1   1   3.2e-32   2.8e-28   98.5   0.0     1   110    22   133    22   133 0.92 Aldehyde oxidase and xanthine dehydrogenase, a/b hammerhead domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS783_c00001_NODE_1_...cluster120.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS783_c00001_NODE_1_...cluster120.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS783_c00001_NODE_1_...cluster120.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:36:57 2019
+# [ok]

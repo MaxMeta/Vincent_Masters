@@ -1,0 +1,26 @@
+#                                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Cupin_2              PF07883.11    71 CS203_c00001_NODE_1_...cluster118_ORF1:gid::pid::loc:734:1457:strand:- -            240   3.9e-15   55.3   1.0   1   1   3.4e-17   3.1e-13   49.2   0.4     2    69   124   191   123   193 0.96 Cupin domain
+AraC_binding         PF02311.19   136 CS203_c00001_NODE_1_...cluster118_ORF1:gid::pid::loc:734:1457:strand:- -            240   4.9e-07   29.7   0.9   1   1   7.8e-11     7e-07   29.2   0.2    17    65   134   183   126   212 0.85 AraC-like ligand binding domain
+Aminotran_1_2        PF00155.21   363 CS203_c00001_NODE_1_...cluster118_ORF4:gid::pid::loc:3837:5250:strand:+ -            470   1.7e-73  247.9   0.0   1   1   1.1e-77     2e-73  247.7   0.0     2   363   100   465    99   465 0.98 Aminotransferase class I and II
+MFS_1                PF07690.16   353 CS203_c00001_NODE_1_...cluster118_ORF5:gid::pid::loc:5296:6499:strand:+ -            400   5.1e-43  147.3  59.4   1   2     9e-26   5.4e-22   78.2  28.2     7   216    20   215    15   238 0.78 Major Facilitator Superfamily
+MFS_1                PF07690.16   353 CS203_c00001_NODE_1_...cluster118_ORF5:gid::pid::loc:5296:6499:strand:+ -            400   5.1e-43  147.3  59.4   2   2   7.6e-24   4.6e-20   71.9  27.5    13   183   230   394   211   399 0.87 Major Facilitator Superfamily
+Sugar_tr             PF00083.24   452 CS203_c00001_NODE_1_...cluster118_ORF5:gid::pid::loc:5296:6499:strand:+ -            400   6.3e-08   31.9  26.2   1   1   3.5e-09   2.1e-05   23.6   9.5    47   194   246   388   236   396 0.81 Sugar (and other) transporter
+MFS_3                PF05977.13   522 CS203_c00001_NODE_1_...cluster118_ORF5:gid::pid::loc:5296:6499:strand:+ -            400   3.9e-06   25.5  15.2   1   1   6.6e-10   3.9e-06   25.5  15.2   229   394    20   184    11   222 0.86 Transmembrane secretion effector
+Cytochrom_C          PF00034.21    92 CS203_c00001_NODE_1_...cluster118_ORF8:gid::pid::loc:7196:7796:strand:+ -            199   1.4e-09   39.0   0.0   1   1   3.5e-13   3.1e-09   37.8   0.0     4    91    94   179    91   180 0.92 Cytochrome c
+Cytochrome_CBB3      PF13442.6     67 CS203_c00001_NODE_1_...cluster118_ORF8:gid::pid::loc:7196:7796:strand:+ -            199   3.7e-06   27.2   0.0   1   1   3.1e-09   2.8e-05   24.4   0.0     6    67    94   176    89   176 0.81 Cytochrome C oxidase, cbb3-type, subunit III
+COX1                 PF00115.20   432 CS203_c00001_NODE_1_...cluster118_ORF9:gid::pid::loc:7798:9292:strand:+ -            497   2.7e-70  237.4  62.9   1   1   1.8e-74   3.3e-70  237.1  62.9     1   432    26   460    26   460 0.88 Cytochrome C and Quinol oxidase polypeptide I
+SQS_PSY              PF00494.19   263 CS203_c00001_NODE_1_...cluster118_ORF12:gid::pid::loc:10000:11122:strand:- -            373   8.4e-51  173.0   0.3   1   1   5.7e-55     1e-50  172.7   0.3     3   262    29   318    27   319 0.88 Squalene/phytoene synthase
+Thiolase_N           PF00108.23   260 CS203_c00001_NODE_1_...cluster118_ORF13:gid::pid::loc:11126:12245:strand:- -            372   1.2e-18   67.4   2.5   1   1   4.8e-21   4.3e-17   62.3   0.2    25   190     7   165     2   169 0.84 Thiolase, N-terminal domain
+Thiolase_C           PF02803.18   123 CS203_c00001_NODE_1_...cluster118_ORF13:gid::pid::loc:11126:12245:strand:- -            372   2.1e-07   30.6   0.0   1   1   7.7e-11   6.9e-07   29.0   0.0    27   105   249   345   230   370 0.87 Thiolase, C-terminal domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS203_c00001_NODE_1_...cluster118.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS203_c00001_NODE_1_...cluster118.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS203_c00001_NODE_1_...cluster118.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:52:21 2019
+# [ok]

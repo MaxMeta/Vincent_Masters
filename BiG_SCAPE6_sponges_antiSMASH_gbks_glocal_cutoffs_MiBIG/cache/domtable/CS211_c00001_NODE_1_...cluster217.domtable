@@ -1,0 +1,24 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Polyketide_cyc       PF03364.20   130 CS211_c00001_NODE_1_...cluster217_ORF1:gid::pid::loc:1:133:strand:- -             44     2e-05   24.8   0.1   1   1   1.3e-09   2.2e-05   24.6   0.1     1    29    13    41    13    43 0.93 Polyketide cyclase / dehydrase and lipid transport
+adh_short            PF00106.25   195 CS211_c00001_NODE_1_...cluster217_ORF2:gid::pid::loc:135:1131:strand:- -            331   1.2e-21   77.1   0.0   1   1   4.2e-25   3.8e-21   75.4   0.0     2   190    31   246    30   251 0.82 short chain dehydrogenase
+adh_short_C2         PF13561.6    234 CS211_c00001_NODE_1_...cluster217_ORF2:gid::pid::loc:135:1131:strand:- -            331   4.8e-16   59.0   0.0   1   1   1.1e-19     1e-15   58.0   0.0     1   184    36   249    36   287 0.79 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.25   195 CS211_c00001_NODE_1_...cluster217_ORF3:gid::pid::loc:1135:2152:strand:- -            338     1e-15   57.7   0.0   1   1   1.1e-15     1e-11   44.7   0.0     2   138    45   185    44   192 0.87 short chain dehydrogenase
+adh_short_C2         PF13561.6    234 CS211_c00001_NODE_1_...cluster217_ORF3:gid::pid::loc:1135:2152:strand:- -            338     7e-10   38.9   0.0   1   1     1e-11     9e-08   32.0   0.0     1   110    50   157    50   190 0.83 Enoyl-(Acyl carrier protein) reductase
+Sulfotransfer_3      PF13469.6    217 CS211_c00001_NODE_1_...cluster217_ORF4:gid::pid::loc:2202:3444:strand:- -            413   3.5e-49  168.1   0.1   1   1   5.8e-53   5.2e-49  167.5   0.1     2   217   115   362   115   362 0.84 Sulfotransferase family
+Sulfotransfer_1      PF00685.27   267 CS211_c00001_NODE_1_...cluster217_ORF4:gid::pid::loc:2202:3444:strand:- -            413   6.1e-11   42.3   0.1   1   1   2.6e-14   2.3e-10   40.4   0.1     4   207   115   369   113   386 0.74 Sulfotransferase domain
+DUF1214              PF06742.11   110 CS211_c00001_NODE_1_...cluster217_ORF5:gid::pid::loc:3482:4667:strand:- -            394   6.5e-09   36.2   0.0   1   1   3.7e-08   0.00066   20.1   0.0    14   104   118   198   112   201 0.76 Protein of unknown function (DUF1214)
+SQS_PSY              PF00494.19   263 CS211_c00001_NODE_1_...cluster217_ORF6:gid::pid::loc:4997:6044:strand:+ -            348     2e-50  171.8   0.3   1   1   1.3e-54   2.3e-50  171.6   0.3     2   262    22   312    21   313 0.88 Squalene/phytoene synthase
+OEP                  PF02321.18   188 CS211_c00001_NODE_1_...cluster217_ORF7:gid::pid::loc:6309:7677:strand:+ -            456   2.7e-35  121.9  20.3   1   2   2.7e-22   4.9e-18   65.6   9.0     1   185    60   252    60   255 0.91 Outer membrane efflux protein
+OEP                  PF02321.18   188 CS211_c00001_NODE_1_...cluster217_ORF7:gid::pid::loc:6309:7677:strand:+ -            456   2.7e-35  121.9  20.3   2   2   3.2e-21   5.7e-17   62.1   3.4     6   176   281   450   277   455 0.94 Outer membrane efflux protein
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster217.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS211_c00001_NODE_1_...cluster217.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster217.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:47:49 2019
+# [ok]

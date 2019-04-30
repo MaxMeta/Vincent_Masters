@@ -1,0 +1,28 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+PD40                 PF07676.12    38 CS200_c00001_NODE_1_...cluster235_ORF4:gid::pid::loc:1986:3018:strand:+ -            343   2.4e-28   97.4  23.2   1   4   1.2e-08   0.00011   22.1   0.2     7    37    87   118    85   119 0.83 WD40-like Beta Propeller Repeat
+PD40                 PF07676.12    38 CS200_c00001_NODE_1_...cluster235_ORF4:gid::pid::loc:1986:3018:strand:+ -            343   2.4e-28   97.4  23.2   2   4   3.2e-14   2.9e-10   39.8   0.4     3    37   175   208   173   209 0.92 WD40-like Beta Propeller Repeat
+PD40                 PF07676.12    38 CS200_c00001_NODE_1_...cluster235_ORF4:gid::pid::loc:1986:3018:strand:+ -            343   2.4e-28   97.4  23.2   3   4   2.3e-08    0.0002   21.2   0.1    10    35   227   253   224   264 0.82 WD40-like Beta Propeller Repeat
+PD40                 PF07676.12    38 CS200_c00001_NODE_1_...cluster235_ORF4:gid::pid::loc:1986:3018:strand:+ -            343   2.4e-28   97.4  23.2   4   4   6.9e-08   0.00062   19.6   0.2    13    25   287   299   276   301 0.89 WD40-like Beta Propeller Repeat
+Sigma70_r2           PF04542.14    71 CS200_c00001_NODE_1_...cluster235_ORF5:gid::pid::loc:3088:3661:strand:+ -            190   3.5e-19   68.3   0.0   1   1   1.6e-22   7.3e-19   67.3   0.0     1    70    25    92    25    93 0.97 Sigma-70 region 2
+Sigma70_r4_2         PF08281.12    54 CS200_c00001_NODE_1_...cluster235_ORF5:gid::pid::loc:3088:3661:strand:+ -            190   6.3e-15   54.6   0.0   1   1   3.2e-18   1.4e-14   53.5   0.0     2    54   124   176   123   176 0.97 Sigma-70, region 4
+Sigma70_r4           PF04545.16    50 CS200_c00001_NODE_1_...cluster235_ORF5:gid::pid::loc:3088:3661:strand:+ -            190   1.2e-10   40.7   0.0   1   1   5.1e-14   2.3e-10   39.8   0.0     2    49   130   177   129   178 0.97 Sigma-70, region 4
+Sigma70_ECF          PF07638.11   185 CS200_c00001_NODE_1_...cluster235_ORF5:gid::pid::loc:3088:3661:strand:+ -            190   1.4e-05   25.1   1.1   1   1   1.9e-08   8.6e-05   22.5   1.1     6   172     9   169     5   177 0.61 ECF sigma factor
+SQS_PSY              PF00494.19   263 CS200_c00001_NODE_1_...cluster235_ORF8:gid::pid::loc:4618:5686:strand:+ -            355   5.1e-53  180.3   0.2   1   1   3.4e-57   6.1e-53  180.0   0.2     2   262    22   312    21   313 0.87 Squalene/phytoene synthase
+LYTB                 PF02401.18   264 CS200_c00001_NODE_1_...cluster235_ORF9:gid::pid::loc:5768:6707:strand:+ -            312   1.7e-93  312.7   0.0   1   1   1.1e-97   1.9e-93  312.5   0.0     1   263     3   279     3   280 0.96 LytB protein
+AAA_21               PF13304.6    303 CS200_c00001_NODE_1_...cluster235_ORF10:gid::pid::loc:6736:7966:strand:+ -            409   1.4e-29  103.8   0.0   1   2   3.2e-10   1.9e-06   27.9   0.0     1    34    36    78    36   111 0.72 AAA domain, putative AbiEii toxin, Type IV TA system
+AAA_21               PF13304.6    303 CS200_c00001_NODE_1_...cluster235_ORF10:gid::pid::loc:6736:7966:strand:+ -            409   1.4e-29  103.8   0.0   2   2   2.6e-24   1.5e-20   74.2   0.0   165   303   191   345   121   345 0.78 AAA domain, putative AbiEii toxin, Type IV TA system
+AAA_15               PF13175.6    369 CS200_c00001_NODE_1_...cluster235_ORF10:gid::pid::loc:6736:7966:strand:+ -            409   3.6e-19   69.7   0.0   1   1   9.7e-13   5.8e-09   36.1   0.0   322   368   299   343   286   344 0.93 AAA ATPase domain
+AAA_23               PF13476.6    200 CS200_c00001_NODE_1_...cluster235_ORF10:gid::pid::loc:6736:7966:strand:+ -            409     7e-09   36.5   0.0   1   1   1.7e-12   9.9e-09   36.0   0.0     2    42    17    57    16   137 0.81 AAA domain
+DUF4276              PF14103.6    184 CS200_c00001_NODE_1_...cluster235_ORF11:gid::pid::loc:7976:8591:strand:+ -            204   1.4e-25   90.6   0.0   1   1   8.9e-30   1.6e-25   90.4   0.0     1   180    10   196    10   200 0.91 Domain of unknown function (DUF4276)
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS200_c00001_NODE_1_...cluster235.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS200_c00001_NODE_1_...cluster235.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS200_c00001_NODE_1_...cluster235.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:29:33 2019
+# [ok]

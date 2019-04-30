@@ -1,0 +1,16 @@
+#                                                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Trp_halogenase       PF04820.14   454 CS202_c00001_NODE_1_...cluster022_ORF5:gid::pid::loc:3064:4498:strand:- -            477  5.3e-168  559.6   0.0   1   1  3.4e-172  6.1e-168  559.4   0.0    13   453     1   439     1   440 0.99 Tryptophan halogenase
+GFO_IDH_MocA         PF01408.22   120 CS202_c00001_NODE_1_...cluster022_ORF9:gid::pid::loc:6191:7847:strand:+ -            551   1.6e-17   64.4   0.0   1   1   1.3e-21   2.4e-17   63.9   0.0     2   119    62   178    61   179 0.88 Oxidoreductase family, NAD-binding Rossmann fold
+Acyltransferase      PF01553.21   135 CS202_c00001_NODE_1_...cluster022_ORF10:gid::pid::loc:7872:9207:strand:- -            444   7.8e-17   61.2   0.0   1   1   8.4e-21   1.5e-16   60.2   0.0     7   133   100   229    94   231 0.91 Acyltransferase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster022.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS202_c00001_NODE_1_...cluster022.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster022.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:48:40 2019
+# [ok]

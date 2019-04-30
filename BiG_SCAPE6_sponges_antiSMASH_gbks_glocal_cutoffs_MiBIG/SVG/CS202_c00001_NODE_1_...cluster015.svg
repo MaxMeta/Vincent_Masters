@@ -1,0 +1,44 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="361.73333333333335" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="351.73333333333335" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg70_97)</title>
+			<polygon class=" (ctg70_97)" points="32,10 47,40 32,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg70_98)</title>
+			<polygon class=" (ctg70_98)" points="49,25 71,25 71,10 101,40 71,70 71,55 49,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg70_99)</title>
+			<polygon class=" (ctg70_99)" points="103,25 135,25 135,10 165,40 135,70 135,55 103,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GHL10 (PF02638)
+"Glycosyl hydrolase-like 10"</title>
+				<polygon class="PF02638" points="131,28 148,28 153,33 153,47 148,52 131,52" stroke-linejoin="round" width="22" height="24" fill="rgb(213,157,96)" stroke="rgb(170,125,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg70_100)</title>
+			<polygon class=" (ctg70_100)" points="176,10 184,40 176,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NHase_alpha (PF02979)
+"Nitrile hydratase, alpha chain"</title>
+				<polygon class="PF02979" points="177,28 177,28 181,40 177,52 177,52" stroke-linejoin="round" width="6" height="24" fill="rgb(204,148,70)" stroke="rgb(163,118,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg70_101)</title>
+			<polygon class=" (ctg70_101)" points="226,25 219,25 219,10 189,40 219,70 219,55 226,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg70_102)</title>
+			<polygon class=" (ctg70_102)" points="305,25 257,25 257,10 227,40 257,70 257,55 305,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YcaO (PF02624)
+"YcaO cyclodehydratase, ATP-ad Mg2+-binding"</title>
+				<polygon class="PF02624" points="231,40 243,28 263,28 263,52 243,52" stroke-linejoin="round" width="33" height="24" fill="rgb(76,84,185)" stroke="rgb(60,67,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

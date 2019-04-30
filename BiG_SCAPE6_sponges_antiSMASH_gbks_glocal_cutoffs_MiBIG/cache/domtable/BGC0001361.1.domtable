@@ -1,0 +1,29 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Methyltransf_25      PF13649.6     97 BGC0001361.1_ORF2:gid::pid:AGO55050.1:loc:1195:2173:strand:- -            325   8.4e-17   61.7   0.0   1   1   8.5e-20   1.5e-16   60.8   0.0     1    97   110   212   110   212 0.96 Methyltransferase domain
+Methyltransf_23      PF13489.6    165 BGC0001361.1_ORF2:gid::pid:AGO55050.1:loc:1195:2173:strand:- -            325   6.5e-13   48.8   0.0   1   1   7.1e-16   1.3e-12   47.9   0.0    21   162   105   261    69   293 0.72 Methyltransferase domain
+Methyltransf_11      PF08241.12    96 BGC0001361.1_ORF2:gid::pid:AGO55050.1:loc:1195:2173:strand:- -            325   3.5e-12   46.8   0.0   1   1   3.4e-15   6.2e-12   46.0   0.0     1    96   111   216   111   216 0.92 Methyltransferase domain
+CMAS                 PF02353.20   273 BGC0001361.1_ORF2:gid::pid:AGO55050.1:loc:1195:2173:strand:- -            325   3.7e-11   42.8   0.0   1   1   2.9e-14   5.1e-11   42.4   0.0    65   165   109   217   104   272 0.88 Mycolic acid cyclopropane synthetase
+Methyltransf_12      PF08242.12    99 BGC0001361.1_ORF2:gid::pid:AGO55050.1:loc:1195:2173:strand:- -            325   6.4e-10   39.7   0.0   1   1   5.8e-13     1e-09   39.0   0.0     1    98   111   213   111   214 0.72 Methyltransferase domain
+Methyltransf_31      PF13847.6    152 BGC0001361.1_ORF2:gid::pid:AGO55050.1:loc:1195:2173:strand:- -            325   6.7e-10   39.0   0.0   1   1   6.7e-13   1.2e-09   38.1   0.0     6   111   109   218   106   262 0.87 Methyltransferase domain
+Methyltransf_PK      PF05891.12   218 BGC0001361.1_ORF2:gid::pid:AGO55050.1:loc:1195:2173:strand:- -            325   4.3e-07   29.7   0.0   1   1   3.4e-10     6e-07   29.2   0.0    52   196   103   261    79   270 0.78 AdoMet dependent proline di-methyltransferase
+Ubie_methyltran      PF01209.18   233 BGC0001361.1_ORF2:gid::pid:AGO55050.1:loc:1195:2173:strand:- -            325   7.4e-07   28.7   0.0   1   1   9.8e-10   1.8e-06   27.5   0.0    49   151   106   216    90   224 0.89 ubiE/COQ5 methyltransferase family
+MTS                  PF05175.14   169 BGC0001361.1_ORF2:gid::pid:AGO55050.1:loc:1195:2173:strand:- -            325   5.3e-06   26.1   0.0   1   1   4.9e-09   8.9e-06   25.4   0.0    31    84   106   162    93   185 0.84 Methyltransferase small domain
+Methyltransf_2       PF00891.18   210 BGC0001361.1_ORF2:gid::pid:AGO55050.1:loc:1195:2173:strand:- -            325   3.8e-05   23.1   0.0   1   1   3.1e-08   5.6e-05   22.5   0.0    62   209   106   259    56   260 0.81 O-methyltransferase domain
+DXP_synthase_N       PF13292.6    273 BGC0001361.1_ORF3:gid:dxs:pid:AGO55051.1:loc:2169:4008:strand:- -            612   1.3e-99  332.8   0.0   1   2   3.3e-91   1.5e-87  293.3   0.0     1   190     5   195     5   201 0.97 1-deoxy-D-xylulose-5-phosphate synthase
+DXP_synthase_N       PF13292.6    273 BGC0001361.1_ORF3:gid:dxs:pid:AGO55051.1:loc:2169:4008:strand:- -            612   1.3e-99  332.8   0.0   2   2   5.4e-13   2.4e-09   36.8   0.0   231   273   200   242   197   242 0.96 1-deoxy-D-xylulose-5-phosphate synthase
+Transket_pyr         PF02779.24   178 BGC0001361.1_ORF3:gid:dxs:pid:AGO55051.1:loc:2169:4008:strand:- -            612   1.3e-41  142.2   0.0   1   1   9.4e-45   4.2e-41  140.6   0.0     2   174   277   438   276   441 0.97 Transketolase, pyrimidine binding domain
+Transketolase_C      PF02780.20   124 BGC0001361.1_ORF3:gid:dxs:pid:AGO55051.1:loc:2169:4008:strand:- -            612   4.3e-22   78.3   0.0   1   1   1.6e-25   7.3e-22   77.6   0.0     1   124   454   570   454   570 0.98 Transketolase, C-terminal domain
+E1_dh                PF00676.20   300 BGC0001361.1_ORF3:gid:dxs:pid:AGO55051.1:loc:2169:4008:strand:- -            612   1.2e-05   24.4   0.0   1   1   4.1e-09   1.8e-05   23.8   0.0    97   167   109   182    79   190 0.80 Dehydrogenase E1 component
+NUDIX                PF00293.28   131 BGC0001361.1_ORF4:gid::pid:AGO55052.1:loc:4040:4580:strand:- -            179   1.8e-23   83.0   0.1   1   1   1.2e-27   2.2e-23   82.7   0.1     2   131    29   158    28   158 0.88 NUDIX domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001361.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001361.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001361.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:38:27 2019
+# [ok]

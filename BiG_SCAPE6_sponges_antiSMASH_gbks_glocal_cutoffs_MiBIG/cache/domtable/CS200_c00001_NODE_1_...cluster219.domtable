@@ -1,0 +1,23 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NAPRTase_N           PF17767.1    125 CS200_c00001_NODE_1_...cluster219_ORF1:gid::pid::loc:2:494:strand:- -            164   3.7e-26   91.9   0.0   1   1   2.4e-30   4.3e-26   91.7   0.0     1   125     9   134     9   134 0.98 Nicotinate phosphoribosyltransferase (NAPRTase) N-terminal domain
+ABC_membrane         PF00664.23   274 CS200_c00001_NODE_1_...cluster219_ORF2:gid::pid::loc:762:2673:strand:+ -            636   2.8e-43  148.5   4.8   1   1   4.3e-47   3.9e-43  148.1   4.8     2   266    43   307    41   314 0.97 ABC transporter transmembrane region
+ABC_tran             PF00005.27   137 CS200_c00001_NODE_1_...cluster219_ORF2:gid::pid::loc:762:2673:strand:+ -            636   1.4e-32  113.1   0.0   1   1   2.5e-36   2.2e-32  112.4   0.0     2   137   400   548   399   548 0.93 ABC transporter
+Exonuc_VII_L         PF02601.15   304 CS200_c00001_NODE_1_...cluster219_ORF3:gid::pid::loc:2794:4213:strand:+ -            472   9.4e-65  219.2   1.7   1   1   1.4e-68   1.2e-64  218.8   1.7     8   303   155   458   149   459 0.93 Exonuclease VII, large subunit
+tRNA_anti_2          PF13742.6     95 CS200_c00001_NODE_1_...cluster219_ORF3:gid::pid::loc:2794:4213:strand:+ -            472   4.7e-19   68.4   0.0   1   1   1.1e-22   9.4e-19   67.4   0.0     1    94    11   123    11   124 0.89 OB-fold nucleic acid binding domain
+Exonuc_VII_S         PF02609.16    52 CS200_c00001_NODE_1_...cluster219_ORF4:gid::pid::loc:4209:4452:strand:+ -             80   1.3e-10   41.1   0.5   1   1   1.8e-14   3.2e-10   39.9   0.3     1    51    18    68    18    69 0.97 Exonuclease VII small subunit
+polyprenyl_synt      PF00348.17   256 CS200_c00001_NODE_1_...cluster219_ORF5:gid::pid::loc:4654:5722:strand:+ -            355   4.4e-47  160.3   0.0   1   1   3.3e-51   5.8e-47  159.9   0.0     6   245    50   296    45   308 0.87 Polyprenyl synthetase
+Hydantoinase_B       PF02538.14   516 CS200_c00001_NODE_1_...cluster219_ORF8:gid::pid::loc:7560:9030:strand:- -            489   7.8e-34  117.0   0.3   1   1   5.1e-38   9.2e-34  116.7   0.3   179   515     1   380     1   381 0.81 Hydantoinase B/oxoprolinase
+Hydantoinase_A       PF01968.18   291 CS200_c00001_NODE_1_...cluster219_ORF9:gid::pid::loc:9066:10425:strand:- -            452   4.6e-67  226.3   0.0   1   1   6.3e-71   5.7e-67  226.0   0.0     1   287   121   404   121   408 0.97 Hydantoinase/oxoprolinase
+Hydant_A_N           PF05378.13   178 CS200_c00001_NODE_1_...cluster219_ORF9:gid::pid::loc:9066:10425:strand:- -            452   2.3e-16   60.0   0.3   1   1   2.3e-19     2e-15   56.9   0.0    94   177    18    95     7    96 0.88 Hydantoinase/oxoprolinase N-terminal region
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS200_c00001_NODE_1_...cluster219.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS200_c00001_NODE_1_...cluster219.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS200_c00001_NODE_1_...cluster219.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:38:37 2019
+# [ok]

@@ -1,0 +1,22 @@
+#                                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                       accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                             -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+p450                 PF00067.22   463 BGC0001775.1_ORF1:gid:spdQ:pid:BBD84642.1:loc:2711:4638:strand:- -            534   2.9e-35  121.9   0.0   1   1   2.5e-39   4.5e-35  121.3   0.0   146   437   206   506   166   525 0.90 Cytochrome P450
+FAD_binding_3        PF01494.19   349 BGC0001775.1_ORF2:gid:spdM:pid:BBD84643.1:loc:4887:6431:strand:- -            446   7.7e-25   87.9   0.0   1   1   3.8e-28   2.3e-24   86.3   0.0     2   318     5   334     4   345 0.65 FAD binding domain
+NAD_binding_8        PF13450.6     68 BGC0001775.1_ORF2:gid:spdM:pid:BBD84643.1:loc:4887:6431:strand:- -            446   4.9e-05   23.5   0.1   1   1   1.8e-08   0.00011   22.4   0.1     1    33     9    41     9    58 0.93 NAD(P)-binding Rossmann-like domain
+Trp_DMAT             PF11991.8    364 BGC0001775.1_ORF4:gid:spdE:pid:BBD84645.1:loc:8177:10791:strand:+ -            789     1e-88  298.2   0.0   1   1   1.5e-92   1.3e-88  297.9   0.0     3   362   367   737   365   739 0.90 Tryptophan dimethylallyltransferase
+polyprenyl_synt      PF00348.17   256 BGC0001775.1_ORF4:gid:spdE:pid:BBD84645.1:loc:8177:10791:strand:+ -            789   9.1e-18   64.2   0.0   1   1     2e-21   1.8e-17   63.2   0.0     8   252    60   294    55   299 0.80 Polyprenyl synthetase
+p450                 PF00067.22   463 BGC0001775.1_ORF5:gid:spdJ:pid:BBD84646.1:loc:11719:13665:strand:+ -            525     2e-32  112.5   0.0   1   1   2.2e-36     4e-32  111.6   0.0   137   457   176   510   152   515 0.85 Cytochrome P450
+GMC_oxred_N          PF00732.19   296 BGC0001775.1_ORF6:gid:spdH:pid:BBD84647.1:loc:18680:20673:strand:+ -            594   1.6e-54  185.3   0.0   1   1   3.8e-58   2.3e-54  184.8   0.0     1   295    21   338    21   339 0.89 GMC oxidoreductase
+GMC_oxred_C          PF05199.13   144 BGC0001775.1_ORF6:gid:spdH:pid:BBD84647.1:loc:18680:20673:strand:+ -            594   1.6e-34  119.5   0.0   1   1   4.8e-38   2.9e-34  118.7   0.0     1   144   445   586   445   586 0.97 GMC oxidoreductase
+Lycopene_cycl        PF05834.12   380 BGC0001775.1_ORF6:gid:spdH:pid:BBD84647.1:loc:18680:20673:strand:+ -            594   2.5e-06   26.8   0.0   1   1     7e-10   4.2e-06   26.1   0.0     1    68    22    84    22   100 0.82 Lycopene cyclase protein
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001775.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001775.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001775.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:37:48 2019
+# [ok]

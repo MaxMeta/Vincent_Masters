@@ -1,0 +1,18 @@
+#                                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+YcaO                 PF02624.16   323 CS783_c00001_NODE_1_...cluster013_ORF1:gid::pid::loc:1444:3757:strand:+ -            770     1e-91  307.6   0.1   1   1   8.2e-96   1.5e-91  307.1   0.1     2   323   399   733   398   733 0.88 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+Ring_hydroxyl_A      PF00848.19   214 CS783_c00001_NODE_1_...cluster013_ORF5:gid::pid::loc:5838:7014:strand:+ -            391   1.8e-21   77.1   0.1   1   1   3.1e-25   2.8e-21   76.5   0.1    12   212   197   381   186   383 0.81 Ring hydroxylating alpha subunit (catalytic domain)
+Rieske               PF00355.26    89 CS783_c00001_NODE_1_...cluster013_ORF5:gid::pid::loc:5838:7014:strand:+ -            391   1.1e-15   57.4   0.0   1   1   2.1e-19   1.9e-15   56.6   0.0     5    83    57   136    53   149 0.88 Rieske [2Fe-2S] domain
+Trp_halogenase       PF04820.14   454 CS783_c00001_NODE_1_...cluster013_ORF6:gid::pid::loc:7229:8510:strand:+ -            426   6.4e-44  150.5   0.5   1   2   1.1e-19     2e-15   56.6   0.0     1    92    11   104    11   107 0.97 Tryptophan halogenase
+Trp_halogenase       PF04820.14   454 CS783_c00001_NODE_1_...cluster013_ORF6:gid::pid::loc:7229:8510:strand:+ -            426   6.4e-44  150.5   0.5   2   2   1.2e-30   2.1e-26   92.8   0.1   145   426   108   391   104   396 0.78 Tryptophan halogenase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS783_c00001_NODE_1_...cluster013.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS783_c00001_NODE_1_...cluster013.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS783_c00001_NODE_1_...cluster013.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:46:11 2019
+# [ok]

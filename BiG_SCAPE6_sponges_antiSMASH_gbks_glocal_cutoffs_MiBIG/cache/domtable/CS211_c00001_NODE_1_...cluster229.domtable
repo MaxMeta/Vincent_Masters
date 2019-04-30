@@ -1,0 +1,20 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ApbA                 PF02558.16   152 CS211_c00001_NODE_1_...cluster229_ORF1:gid::pid::loc:1:460:strand:- -            153   7.2e-24   84.2   0.0   1   1   4.9e-28   8.7e-24   83.9   0.0     1   142     7   148     7   152 0.92 Ketopantoate reductase PanE/ApbA
+SBP_bac_5            PF00496.22   377 CS211_c00001_NODE_1_...cluster229_ORF2:gid::pid::loc:607:2176:strand:+ -            522   4.7e-75  252.9   0.0   1   1   3.5e-79   6.2e-75  252.5   0.0     1   370    75   431    75   437 0.88 Bacterial extracellular solute-binding proteins, family 5 Middle
+Laminin_G_3          PF13385.6    152 CS211_c00001_NODE_1_...cluster229_ORF3:gid::pid::loc:2440:4645:strand:+ -            734   6.3e-14   52.4   0.0   1   1   4.6e-17   8.3e-13   48.7   0.0     7   151    74   240    69   241 0.73 Concanavalin A-like lectin/glucanases superfamily
+PEP_mutase           PF13714.6    239 CS211_c00001_NODE_1_...cluster229_ORF4:gid::pid::loc:4709:6407:strand:- -            565   2.6e-71  239.9   0.1   1   1   6.6e-75     4e-71  239.3   0.1     1   238    34   278    34   279 0.95 Phosphoenolpyruvate phosphomutase
+NTP_transf_3         PF12804.7    160 CS211_c00001_NODE_1_...cluster229_ORF4:gid::pid::loc:4709:6407:strand:- -            565   1.5e-14   54.6   2.8   1   1   2.8e-18   1.7e-14   54.5   0.8     1   127   322   445   322   545 0.87 MobA-like NTP transferase domain
+DegT_DnrJ_EryC1      PF01041.17   361 CS211_c00001_NODE_1_...cluster229_ORF5:gid::pid::loc:6580:6973:strand:+ -            131   2.9e-31  109.1   0.4   1   1   3.6e-35   3.2e-31  108.9   0.4     4   108    27   131    24   131 0.96 DegT/DnrJ/EryC1/StrS aminotransferase family
+Aminotran_1_2        PF00155.21   363 CS211_c00001_NODE_1_...cluster229_ORF5:gid::pid::loc:6580:6973:strand:+ -            131   7.4e-07   28.7   0.0   1   1   8.8e-11   7.9e-07   28.6   0.0    47   137    49   129    26   131 0.89 Aminotransferase class I and II
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster229.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS211_c00001_NODE_1_...cluster229.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster229.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:41:21 2019
+# [ok]

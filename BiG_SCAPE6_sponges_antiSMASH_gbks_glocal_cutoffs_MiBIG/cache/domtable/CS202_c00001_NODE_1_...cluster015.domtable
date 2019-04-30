@@ -1,0 +1,16 @@
+#                                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+GHL10                PF02638.15   311 CS202_c00001_NODE_1_...cluster015_ORF3:gid::pid::loc:2792:4655:strand:+ -            620     1e-09   37.9   0.0   1   1   9.8e-14   1.8e-09   37.2   0.0    67   259   305   499   287   514 0.73 Glycosyl hydrolase-like 10
+NHase_alpha          PF02979.16   184 CS202_c00001_NODE_1_...cluster015_ORF4:gid::pid::loc:5000:5252:strand:+ -             83   8.2e-08   31.8   0.0   1   1   7.9e-12   1.4e-07   31.0   0.0   115   168    19    73    16    80 0.91 Nitrile hydratase, alpha chain
+YcaO                 PF02624.16   323 CS202_c00001_NODE_1_...cluster015_ORF6:gid::pid::loc:6511:8866:strand:- -            784   4.7e-91  305.4   0.8   1   1   3.4e-95   6.1e-91  305.1   0.8     2   323   411   747   410   747 0.87 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster015.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS202_c00001_NODE_1_...cluster015.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster015.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:50:22 2019
+# [ok]

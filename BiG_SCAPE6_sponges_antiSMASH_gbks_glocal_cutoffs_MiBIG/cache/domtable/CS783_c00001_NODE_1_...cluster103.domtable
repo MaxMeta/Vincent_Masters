@@ -1,0 +1,34 @@
+#                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ketoacyl-synt        PF00109.26   253 CS783_c00001_NODE_1_...cluster103_ORF1:gid::pid::loc:1:7921:strand:- -           2640   1.1e-78  264.4   0.2   1   1   8.9e-82   1.1e-78  264.4   0.2     2   253    19   271    18   271 0.94 Beta-ketoacyl synthase, N-terminal domain
+KR                   PF08659.10   180 CS783_c00001_NODE_1_...cluster103_ORF1:gid::pid::loc:1:7921:strand:- -           2640   5.3e-62  208.9   6.7   1   1   2.6e-64   3.1e-61  206.4   0.2     2   179  2256  2432  2255  2433 0.99 KR domain
+Acyl_transf_1        PF00698.21   319 CS783_c00001_NODE_1_...cluster103_ORF1:gid::pid::loc:1:7921:strand:- -           2640   6.7e-53  180.3   0.3   1   1     1e-55   1.2e-52  179.4   0.3     2   276   597   881   596   919 0.88 Acyl transferase domain
+PS-DH                PF14765.6    298 CS783_c00001_NODE_1_...cluster103_ORF1:gid::pid::loc:1:7921:strand:- -           2640     2e-49  168.4   5.1   1   1   1.7e-52     2e-49  168.4   5.1     2   296   969  1281   968  1283 0.87 Polyketide synthase dehydratase
+Ketoacyl-synt_C      PF02801.22   118 CS783_c00001_NODE_1_...cluster103_ORF1:gid::pid::loc:1:7921:strand:- -           2640   6.4e-46  155.2   1.0   1   1   1.2e-48   1.5e-45  154.0   0.0     2   117   280   396   279   397 0.99 Beta-ketoacyl synthase, C-terminal domain
+ADH_zinc_N_2         PF13602.6    133 CS783_c00001_NODE_1_...cluster103_ORF1:gid::pid::loc:1:7921:strand:- -           2640   1.1e-23   84.7   0.2   1   1   1.2e-23   1.4e-20   74.7   0.1     1   133  2103  2241  2103  2241 0.83 Zinc-binding dehydrogenase
+ADH_zinc_N           PF00107.26   130 CS783_c00001_NODE_1_...cluster103_ORF1:gid::pid::loc:1:7921:strand:- -           2640   2.9e-19   69.3   0.8   1   1     1e-21   1.2e-18   67.3   0.8     1    89  2072  2159  2072  2181 0.92 Zinc-binding dehydrogenase
+Methyltransf_12      PF08242.12    99 CS783_c00001_NODE_1_...cluster103_ORF1:gid::pid::loc:1:7921:strand:- -           2640   1.1e-15   58.1   0.0   1   1   3.1e-18   3.7e-15   56.5   0.0     2    99  1522  1622  1521  1622 0.83 Methyltransferase domain
+adh_short            PF00106.25   195 CS783_c00001_NODE_1_...cluster103_ORF1:gid::pid::loc:1:7921:strand:- -           2640   5.7e-13   48.8   1.5   1   1   2.8e-14   3.4e-11   43.0   0.0     2   161  2256  2414  2255  2421 0.88 short chain dehydrogenase
+KAsynt_C_assoc       PF16197.5    112 CS783_c00001_NODE_1_...cluster103_ORF1:gid::pid::loc:1:7921:strand:- -           2640   1.9e-10   41.2   0.0   1   1   3.7e-13   4.4e-10   40.0   0.0     1    88   399   520   399   536 0.90 Ketoacyl-synthetase C-terminal extension
+Methyltransf_23      PF13489.6    165 CS783_c00001_NODE_1_...cluster103_ORF1:gid::pid::loc:1:7921:strand:- -           2640   1.8e-10   40.9   0.0   1   1   3.5e-13   4.2e-10   39.7   0.0     7   162  1499  1674  1493  1677 0.71 Methyltransferase domain
+PP-binding           PF00550.25    67 CS783_c00001_NODE_1_...cluster103_ORF1:gid::pid::loc:1:7921:strand:- -           2640   2.2e-10   40.7   0.0   1   1   4.6e-13   5.5e-10   39.4   0.0     3    67  2538  2603  2536  2603 0.94 Phosphopantetheine attachment site
+Methyltransf_25      PF13649.6     97 CS783_c00001_NODE_1_...cluster103_ORF1:gid::pid::loc:1:7921:strand:- -           2640   1.3e-09   38.6   0.0   1   1   4.9e-12   5.9e-09   36.5   0.0     1    97  1520  1620  1520  1620 0.92 Methyltransferase domain
+adh_short_C2         PF13561.6    234 CS783_c00001_NODE_1_...cluster103_ORF1:gid::pid::loc:1:7921:strand:- -           2640   3.4e-09   36.6   0.1   1   1   2.9e-12   3.4e-09   36.6   0.1     4   150  2264  2411  2261  2420 0.78 Enoyl-(Acyl carrier protein) reductase
+Methyltransf_11      PF08241.12    96 CS783_c00001_NODE_1_...cluster103_ORF1:gid::pid::loc:1:7921:strand:- -           2640   1.8e-07   31.7   0.0   1   1   5.6e-10   6.6e-07   29.9   0.0     2    95  1522  1623  1521  1624 0.89 Methyltransferase domain
+PP-binding           PF00550.25    67 CS783_c00001_NODE_1_...cluster103_ORF2:gid::pid::loc:8205:8451:strand:+ -             81   3.3e-09   37.0   0.0   1   1   2.2e-13   3.9e-09   36.7   0.0     1    67     6    76     6    76 0.94 Phosphopantetheine attachment site
+Amidohydro_1         PF01979.20   344 CS783_c00001_NODE_1_...cluster103_ORF4:gid::pid::loc:8865:10269:strand:- -            467   3.6e-58  197.5   0.0   1   1   4.9e-62   4.4e-58  197.2   0.0     1   317    64   395    64   433 0.92 Amidohydrolase family
+Amidohydro_3         PF07969.11   473 CS783_c00001_NODE_1_...cluster103_ORF4:gid::pid::loc:8865:10269:strand:- -            467   3.9e-19   69.5   3.6   1   1   1.1e-17     1e-13   51.6   0.3   228   472   179   434    87   435 0.70 Amidohydrolase family
+MR_MLE_C             PF13378.6    220 CS783_c00001_NODE_1_...cluster103_ORF5:gid::pid::loc:10358:11558:strand:+ -            399   3.8e-53  180.3   0.2   1   1   5.6e-57     5e-53  179.9   0.2     2   218   144   372   143   375 0.95 Enolase C-terminal domain-like
+MR_MLE_N             PF02746.16   117 CS783_c00001_NODE_1_...cluster103_ORF5:gid::pid::loc:10358:11558:strand:+ -            399   3.1e-20   72.5   0.0   1   1   6.2e-24   5.6e-20   71.7   0.0    27   117    30   123    16   123 0.94 Mandelate racemase / muconate lactonizing enzyme, N-terminal domain
+ILVD_EDD             PF00920.21   517 CS783_c00001_NODE_1_...cluster103_ORF6:gid::pid::loc:11576:12434:strand:- -            285  3.5e-111  372.3   1.0   1   1  2.2e-115    4e-111  372.2   1.0   236   517     1   282     1   282 0.98 Dehydratase family
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS783_c00001_NODE_1_...cluster103.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS783_c00001_NODE_1_...cluster103.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS783_c00001_NODE_1_...cluster103.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:53:01 2019
+# [ok]

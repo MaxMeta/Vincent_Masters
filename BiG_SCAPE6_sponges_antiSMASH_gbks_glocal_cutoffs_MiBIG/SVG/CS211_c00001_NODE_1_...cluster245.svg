@@ -1,0 +1,55 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="227.96666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="217.96666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg14955_1)</title>
+			<polygon class=" (ctg14955_1)" points="10,10 16,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2237 (PF09996)
+"Uncharacterized protein conserved in bacteria (DUF2237)"</title>
+				<polygon class="PF09996" points="10,28 10,28 13,40 10,52 10,52" stroke-linejoin="round" width="6" height="24" fill="rgb(219,88,87)" stroke="rgb(175,70,69)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg14955_2)</title>
+			<polygon class=" (ctg14955_2)" points="61,25 49,25 49,10 19,40 49,70 49,55 61,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF418 (PF04235)
+"Protein of unknown function (DUF418)"</title>
+				<polygon class="PF04235" points="23,40 35,28 35,28 35,52 35,52" stroke-linejoin="round" width="16" height="24" fill="rgb(90,202,54)" stroke="rgb(72,161,43)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg14955_3)</title>
+			<polygon class=" (ctg14955_3)" points="73,25 106,25 106,10 136,40 106,70 106,55 73,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PQQ_2 (PF13360)
+"PQQ-like domain"</title>
+				<rect class="PF13360" x="86" y="28" stroke-linejoin="round" width="22" height="24" fill="rgb(98,210,146)" stroke="rgb(78,168,116)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PQQ_2 (PF13360)
+"PQQ-like domain"</title>
+				<polygon class="PF13360" points="110,28 120,28 132,40 120,52 110,52" stroke-linejoin="round" width="25" height="24" fill="rgb(98,210,146)" stroke="rgb(78,168,116)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg14955_4)</title>
+			<polygon class=" (ctg14955_4)" points="136,10 163,40 136,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg14955_5)</title>
+			<polygon class=" (ctg14955_5)" points="217,25 189,25 189,10 159,40 189,70 189,55 217,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQHop_cyclase_C (PF13243)
+"Squalene-hopene cyclase C-terminal domain"</title>
+				<polygon class="PF13243" points="166,37 175,28 196,28 196,52 175,52 166,43" stroke-linejoin="round" width="30" height="24" fill="rgb(191,58,201)" stroke="rgb(152,46,160)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SQHop_cyclase_N (PF13249)
+"Squalene-hopene cyclase N-terminal domain"</title>
+				<rect class="PF13249" x="197" y="28" stroke-linejoin="round" width="19" height="24" fill="rgb(88,190,89)" stroke="rgb(70,152,71)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

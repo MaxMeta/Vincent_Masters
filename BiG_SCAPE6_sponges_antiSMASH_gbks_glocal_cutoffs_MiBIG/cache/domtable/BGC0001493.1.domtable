@@ -1,0 +1,16 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Asn_synthase         PF00733.21   355 BGC0001493.1_ORF2:gid::pid:WP_051753637.1:loc:208:2053:strand:+ -            614   1.1e-37  130.5   0.3   1   1   8.2e-42   1.5e-37  130.1   0.3     2   334   209   574   208   593 0.81 Asparagine synthase
+Transglut_core3      PF13471.6    117 BGC0001493.1_ORF3:gid::pid:WP_030601899.1:loc:2098:2527:strand:+ -            142   7.3e-25   87.2   9.1   1   1   4.8e-29   8.6e-25   86.9   9.1     2   110    19   123    18   130 0.94 Transglutaminase-like superfamily
+PqqD                 PF05402.12    67 BGC0001493.1_ORF4:gid::pid:WP_037654159.1:loc:2523:2811:strand:+ -             95     8e-13   48.5   0.0   1   1   5.3e-17   9.4e-13   48.3   0.0     2    67    20    85    19    85 0.95 Coenzyme PQQ synthesis protein D (PqqD)
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001493.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001493.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001493.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:32:27 2019
+# [ok]

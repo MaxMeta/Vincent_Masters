@@ -1,0 +1,24 @@
+# STOCKHOLM 1.0
+
+CS202_c00001_NODE_1_...cluster193_ORF4:gid::pid::loc:1786:2968:strand:-:171:367         a--SGRVACLLSGGIDSPVAAWRMIKRGCRVRFVHFH.SYPILSRTSQDKVAEIAALLTRHQ--LESRLYVVAFGEIQRQVVLAVPPPLRVVVYRRLMLRIAERIARTSGSAALVTGEAVGQVASQTLDNMAVIDAAASLPVLRPLVGMDKEEIVDEARRLGTYEVSIIPDeDCCTLFTpKHPATRATVHQLDEAEAA--
+#=GR CS202_c00001_NODE_1_...cluster193_ORF4:gid::pid::loc:1786:2968:strand:-:171:367 PP 6..79********************************.************************..6**********************************************************************************************************9******99**********99998865..
+CS211_c00001_NODE_1_...cluster039_ORF5:gid::pid::loc:4409:5588:strand:-:172:368         .-VSGHTMAMLSGGIDSPVAAWHMMKRGCRVSFAHFH.SYPIVDGSSIEKAEELARRLTRHQY--ESRLFLVPFADIQKQIIVSTDPAYRVILYRRLMVRITERLALDHGAKAMVTGESCGQVSSQTLDNMAVIDEASNMPILRPLVGFNKEEIVGIARNIGTYPISILPDqDCCSLFVpRHPETHAELEKVCRLESA--
+#=GR CS211_c00001_NODE_1_...cluster039_ORF5:gid::pid::loc:4409:5588:strand:-:172:368 PP ..6899*******************************.************************5..**********************************************************************************************************9*****999************998876..
+CS204_c00001_NODE_1_...cluster171_ORF3:gid::pid::loc:3003:4182:strand:+:172:368         .-VSGRVAVMLSGGIDSPVAAWHMMKRGCPATYVHFH.SYPLVDRSSIEKASELVHHLAGFQR--NSELILAPLAEIQKRIIVETPPSYRVLLYRRFMMRITERLARESRVKALVTGESCGQVSSQTLENIAVVDAVATMPVLRPLIGMNKEEIVEMARGIGTFPISIQPDqDCCSLFVpRHPETKARLEAVERLER---
+#=GR CS204_c00001_NODE_1_...cluster171_ORF3:gid::pid::loc:3003:4182:strand:+:172:368 PP ..689********************************.************************7..99********************************************************************************************************9*****999*************9876...
+CS211_c00001_NODE_1_...cluster017_ORF2:gid::pid::loc:1560:2913:strand:+:214:408         v--AGRLVGMLSGGFDSPVAAWMMAGRGASLDFVHLTpSRPDASSPTAWKAADLVRVLSRYTG--RSRLVLVPYTHFDLRL-TGSRTGHEAVLFRRFAFRCGEVVARKFGAAALTTGDSLSQVASQTLENLISVDAALSLPVLRPLVGLDKVAIMDRAQKIGTWETSAVPAkDCCALIA.GSPRTRSEPERIADLEG---
+#=GR CS211_c00001_NODE_1_...cluster017_ORF2:gid::pid::loc:1560:2913:strand:+:214:408 PP 5..79999****************************8467888899999*************9..9*********987776.56789999*******************************************************************************999*******.************98876...
+#=GC PP_cons                                                                            ..6899******************************9.9999********************7.69***********9999*999*************************************************************************************9.******9.************998865..
+#=GC RF                                                                                 .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxx.xxxxxxxxxxxxxxxxxxxx
+
+CS202_c00001_NODE_1_...cluster193_ORF4:gid::pid::loc:1786:2968:strand:-:171:367         -lpv.
+#=GR CS202_c00001_NODE_1_...cluster193_ORF4:gid::pid::loc:1786:2968:strand:-:171:367 PP .688.
+CS211_c00001_NODE_1_...cluster039_ORF5:gid::pid::loc:4409:5588:strand:-:172:368         -lpi.
+#=GR CS211_c00001_NODE_1_...cluster039_ORF5:gid::pid::loc:4409:5588:strand:-:172:368 PP .578.
+CS204_c00001_NODE_1_...cluster171_ORF3:gid::pid::loc:3003:4182:strand:+:172:368         -glpv
+#=GR CS204_c00001_NODE_1_...cluster171_ORF3:gid::pid::loc:3003:4182:strand:+:172:368 PP .6789
+CS211_c00001_NODE_1_...cluster017_ORF2:gid::pid::loc:1560:2913:strand:+:214:408         -rlf.
+#=GR CS211_c00001_NODE_1_...cluster017_ORF2:gid::pid::loc:1560:2913:strand:+:214:408 PP .569.
+#=GC PP_cons                                                                            .....
+#=GC RF                                                                                 x....
+//

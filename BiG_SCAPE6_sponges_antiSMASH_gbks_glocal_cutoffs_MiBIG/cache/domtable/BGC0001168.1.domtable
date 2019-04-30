@@ -1,0 +1,20 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.28   423 BGC0001168.1_ORF1:gid::pid:EOY45602.1:loc:0:2967:strand:+ -            988   1.5e-88  297.3   0.0   1   1     8e-92     2e-88  296.8   0.0    19   423     4   391     1   391 0.86 AMP-binding enzyme
+NAD_binding_4        PF07993.12   257 BGC0001168.1_ORF1:gid::pid:EOY45602.1:loc:0:2967:strand:+ -            988   2.8e-59  200.4   0.0   1   1   1.6e-62   4.1e-59  199.8   0.0     1   256   619   858   619   859 0.92 Male sterility protein
+Epimerase            PF01370.21   241 BGC0001168.1_ORF1:gid::pid:EOY45602.1:loc:0:2967:strand:+ -            988   2.2e-11   43.7   0.1   1   1   1.3e-14   3.4e-11   43.1   0.1     1   176   617   816   617   834 0.84 NAD dependent epimerase/dehydratase family
+PP-binding           PF00550.25    67 BGC0001168.1_ORF1:gid::pid:EOY45602.1:loc:0:2967:strand:+ -            988   6.3e-11   42.5   0.1   1   1   1.1e-13   2.7e-10   40.4   0.2     2    50   506   552   505   574 0.81 Phosphopantetheine attachment site
+AMP-binding_C        PF13193.6     76 BGC0001168.1_ORF1:gid::pid:EOY45602.1:loc:0:2967:strand:+ -            988   1.9e-09   38.4   0.0   1   1   4.9e-12   1.3e-08   35.7   0.0     1    76   399   474   399   474 0.87 AMP-binding enzyme C-terminal domain
+3Beta_HSD            PF01073.19   280 BGC0001168.1_ORF1:gid::pid:EOY45602.1:loc:0:2967:strand:+ -            988   1.9e-06   27.1   0.0   1   1   1.6e-09     4e-06   26.0   0.0     2   199   619   830   618   844 0.72 3-beta hydroxysteroid dehydrogenase/isomerase family
+Leu_Phe_trans        PF03588.14   169 BGC0001168.1_ORF2:gid::pid:EOY45603.1:loc:2989:3772:strand:+ -            260   5.2e-43  146.5   0.0   1   1   2.7e-46   4.9e-42  143.3   0.0    14   169    76   231    65   231 0.92 Leucyl/phenylalanyl-tRNA protein transferase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001168.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001168.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001168.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:55:33 2019
+# [ok]

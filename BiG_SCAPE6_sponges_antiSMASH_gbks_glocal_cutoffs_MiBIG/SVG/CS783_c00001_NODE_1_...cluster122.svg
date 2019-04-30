@@ -1,0 +1,96 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="324.1666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="314.1666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg5575_1)</title>
+			<polygon class=" (ctg5575_1)" points="49,25 40,25 40,10 10,40 40,70 40,55 49,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_M61 (PF05299)
+"M61 glycyl aminopeptidase"</title>
+				<polygon class="PF05299" points="14,40 20,34 20,46" stroke-linejoin="round" width="10" height="24" fill="rgb(164,76,201)" stroke="rgb(131,60,160)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Peptidase_M61_N (PF17899)
+"Peptidase M61 N-terminal domain"</title>
+				<rect class="PF17899" x="29" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(202,112,74)" stroke="rgb(161,89,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5575_2)</title>
+			<polygon class=" (ctg5575_2)" points="86,25 82,25 82,10 52,40 82,70 82,55 86,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glucokinase (PF02685)
+"Glucokinase"</title>
+				<polygon class="PF02685" points="56,40 68,28 85,28 85,52 68,52" stroke-linejoin="round" width="32" height="24" fill="rgb(142,225,61)" stroke="rgb(113,180,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5575_3)</title>
+			<polygon class=" (ctg5575_3)" points="88,25 95,25 95,10 125,40 95,70 95,55 88,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BRCT (PF00533)
+"BRCA1 C Terminus (BRCT) domain"</title>
+				<rect class="PF00533" x="89" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(69,217,144)" stroke="rgb(55,173,115)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TPR_16 (PF13432)
+"Tetratricopeptide repeat"</title>
+				<polygon class="PF13432" points="114,33 119,38 119,42 114,47" stroke-linejoin="round" width="5" height="24" fill="rgb(154,205,86)" stroke="rgb(123,164,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5575_4)</title>
+			<polygon class=" (ctg5575_4)" points="126,40 134,10 134,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg5575_5)</title>
+			<polygon class=" (ctg5575_5)" points="136,40 145,10 145,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>eIF-1a (PF01176)
+"Translation initiation factor 1A / IF-1"</title>
+				<polygon class="PF01176" points="139,40 142,31 142,49" stroke-linejoin="round" width="6" height="24" fill="rgb(105,195,79)" stroke="rgb(83,156,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5575_6)</title>
+			<polygon class=" (ctg5575_6)" points="231,25 175,25 175,10 145,40 175,70 175,55 231,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acyltransferase (PF01553)
+"Acyltransferase"</title>
+				<polygon class="PF01553" points="149,40 161,28 163,28 163,52 161,52 149,40" stroke-linejoin="round" width="14" height="24" fill="rgb(87,176,216)" stroke="rgb(69,140,172)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="170" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="187" y="28" stroke-linejoin="round" width="42" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5575_7)</title>
+			<polygon class=" (ctg5575_7)" points="235,40 255,10 255,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg5575_8)</title>
+			<polygon class=" (ctg5575_8)" points="259,25 261,25 261,10 291,40 261,70 261,55 259,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PALP (PF00291)
+"Pyridoxal-phosphate dependent enzyme"</title>
+				<polygon class="PF00291" points="260,28 275,28 287,40 275,52 260,52" stroke-linejoin="round" width="28" height="24" fill="rgb(180,55,145)" stroke="rgb(144,44,116)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5575_9)</title>
+			<polygon class=" (ctg5575_9)" points="294,40 313,10 313,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TonB_dep_Rec (PF00593)
+"TonB dependent receptor"</title>
+				<polygon class="PF00593" points="298,40 306,28 313,28 313,52 306,52" stroke-linejoin="round" width="19" height="24" fill="rgb(171,200,51)" stroke="rgb(136,160,40)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

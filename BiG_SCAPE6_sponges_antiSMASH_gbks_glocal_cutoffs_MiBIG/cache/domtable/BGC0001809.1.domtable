@@ -1,0 +1,15 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+PrpF                 PF04303.13   371 BGC0001809.1_ORF1:gid::pid:WP_000701098.1:loc:0:1074:strand:+ -            357   1.2e-91  307.5   4.1   1   1   7.4e-96   1.3e-91  307.3   4.1     2   370     1   356     1   357 0.94 PrpF protein
+EamA                 PF00892.20   137 BGC0001809.1_ORF2:gid::pid:WP_000369347.1:loc:1185:2097:strand:+ -            303   6.3e-11   42.6  38.6   1   1   8.9e-11   1.6e-06   28.3  16.7     3   136     7   137     5   138 0.92 EamA-like transporter family
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001809.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001809.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001809.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:43:42 2019
+# [ok]

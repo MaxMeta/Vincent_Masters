@@ -1,0 +1,37 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+GMC_oxred_N          PF00732.19   296 BGC0001280.1_ORF1:gid::pid:BAQ25461.1:loc:8442:10353:strand:+ -            612     2e-59  201.4   0.0   1   1   7.1e-63   3.2e-59  200.7   0.0     2   295    20   324    19   325 0.89 GMC oxidoreductase
+GMC_oxred_C          PF05199.13   144 BGC0001280.1_ORF1:gid::pid:BAQ25461.1:loc:8442:10353:strand:+ -            612   3.4e-36  124.9   0.0   1   1   1.3e-39     6e-36  124.1   0.0     1   144   463   602   463   602 0.89 GMC oxidoreductase
+NAD_binding_8        PF13450.6     68 BGC0001280.1_ORF1:gid::pid:BAQ25461.1:loc:8442:10353:strand:+ -            612   3.2e-05   24.1   0.5   1   1   1.5e-08   6.8e-05   23.0   0.5     1    28    23    51    23    56 0.92 NAD(P)-binding Rossmann-like domain
+FAD_binding_4        PF01565.23   139 BGC0001280.1_ORF2:gid::pid:BAQ25462.1:loc:17556:19380:strand:- -            586   1.4e-19   70.2   2.6   1   1   3.3e-23   2.9e-19   69.2   2.6     7   137   135   269   129   271 0.91 FAD binding domain
+BBE                  PF08031.12    46 BGC0001280.1_ORF2:gid::pid:BAQ25462.1:loc:17556:19380:strand:- -            586   2.7e-09   37.0   0.4   1   1   5.5e-13   4.9e-09   36.1   0.4     1    41   522   566   522   569 0.91 Berberine and berberine like
+adh_short            PF00106.25   195 BGC0001280.1_ORF3:gid:bet4:pid:BAQ25463.1:loc:19968:21148:strand:+ -            346   1.9e-19   69.9   0.1   1   1   1.2e-22   6.9e-19   68.1   0.5     1   139    45   195    45   204 0.85 short chain dehydrogenase
+adh_short_C2         PF13561.6    234 BGC0001280.1_ORF3:gid:bet4:pid:BAQ25463.1:loc:19968:21148:strand:+ -            346   9.3e-11   41.7   0.5   1   1   5.2e-14   3.1e-10   40.0   0.8     1   134    51   198    51   207 0.86 Enoyl-(Acyl carrier protein) reductase
+KR                   PF08659.10   180 BGC0001280.1_ORF3:gid:bet4:pid:BAQ25463.1:loc:19968:21148:strand:+ -            346   1.7e-07   31.4   0.2   1   1     4e-11   2.4e-07   30.8   0.2     2    92    46   136    45   170 0.81 KR domain
+p450                 PF00067.22   463 BGC0001280.1_ORF5:gid:bet2:pid:BAQ25465.1:loc:23245:25006:strand:- -            521   4.3e-67  226.9   0.0   1   1     3e-71   5.3e-67  226.5   0.0    14   458    72   507    58   512 0.87 Cytochrome P450
+ketoacyl-synt        PF00109.26   253 BGC0001280.1_ORF6:gid:bet1:pid:BAQ25466.1:loc:25771:34622:strand:+ -           2904     1e-69  235.0   0.0   1   1   1.6e-72   1.8e-69  234.1   0.0     2   253     9   259     8   259 0.96 Beta-ketoacyl synthase, N-terminal domain
+KR                   PF08659.10   180 BGC0001280.1_ORF6:gid:bet1:pid:BAQ25466.1:loc:25771:34622:strand:+ -           2904   2.9e-46  157.6   0.5   1   1   4.3e-48   4.9e-45  153.7   0.0     2   178  2125  2298  2124  2300 0.97 KR domain
+Acyl_transf_1        PF00698.21   319 BGC0001280.1_ORF6:gid:bet1:pid:BAQ25466.1:loc:25771:34622:strand:+ -           2904   1.2e-37  130.2   0.0   1   1   1.9e-40   2.1e-37  129.3   0.0     3   277   553   855   552   886 0.83 Acyl transferase domain
+PS-DH                PF14765.6    298 BGC0001280.1_ORF6:gid:bet1:pid:BAQ25466.1:loc:25771:34622:strand:+ -           2904   1.4e-36  126.3   0.0   1   1   1.9e-39   2.2e-36  125.7   0.0     1   295   948  1255   948  1258 0.86 Polyketide synthase dehydratase
+Ketoacyl-synt_C      PF02801.22   118 BGC0001280.1_ORF6:gid:bet1:pid:BAQ25466.1:loc:25771:34622:strand:+ -           2904   1.8e-32  111.8   0.0   1   1   7.4e-35   8.3e-32  109.7   0.0     2   116   268   388   267   390 0.93 Beta-ketoacyl synthase, C-terminal domain
+NAD_binding_4        PF07993.12   257 BGC0001280.1_ORF6:gid:bet1:pid:BAQ25466.1:loc:25771:34622:strand:+ -           2904   5.3e-32  111.0   0.0   1   1   1.1e-34   1.3e-31  109.7   0.0     1   255  2585  2817  2585  2819 0.87 Male sterility protein
+Methyltransf_12      PF08242.12    99 BGC0001280.1_ORF6:gid:bet1:pid:BAQ25466.1:loc:25771:34622:strand:+ -           2904   8.7e-20   71.3   0.0   1   1   2.5e-22   2.8e-19   69.7   0.0     1    99  1434  1535  1434  1535 0.94 Methyltransferase domain
+KAsynt_C_assoc       PF16197.5    112 BGC0001280.1_ORF6:gid:bet1:pid:BAQ25466.1:loc:25771:34622:strand:+ -           2904   1.7e-15   57.4   0.0   1   1   4.9e-18   5.5e-15   55.8   0.0     3   108   394   508   393   510 0.82 Ketoacyl-synthetase C-terminal extension
+Methyltransf_25      PF13649.6     97 BGC0001280.1_ORF6:gid:bet1:pid:BAQ25466.1:loc:25771:34622:strand:+ -           2904     4e-15   56.3   0.2   1   1   8.1e-15   9.1e-12   45.5   0.0     2    97  1434  1533  1433  1533 0.89 Methyltransferase domain
+Methyltransf_11      PF08241.12    96 BGC0001280.1_ORF6:gid:bet1:pid:BAQ25466.1:loc:25771:34622:strand:+ -           2904   1.5e-12   48.0   0.1   1   1   1.4e-13   1.5e-10   41.6   0.0     1    96  1434  1537  1434  1537 0.88 Methyltransferase domain
+Epimerase            PF01370.21   241 BGC0001280.1_ORF6:gid:bet1:pid:BAQ25466.1:loc:25771:34622:strand:+ -           2904   1.2e-12   47.9   0.0   1   1   1.5e-12   1.6e-09   37.6   0.0     1   176  2583  2771  2583  2813 0.79 NAD dependent epimerase/dehydratase family
+Methyltransf_23      PF13489.6    165 BGC0001280.1_ORF6:gid:bet1:pid:BAQ25466.1:loc:25771:34622:strand:+ -           2904   2.3e-12   47.1   0.0   1   1   4.9e-15   5.5e-12   45.8   0.0    10   163  1417  1591  1408  1593 0.72 Methyltransferase domain
+adh_short            PF00106.25   195 BGC0001280.1_ORF6:gid:bet1:pid:BAQ25466.1:loc:25771:34622:strand:+ -           2904   3.7e-12   46.1   0.0   1   1   3.3e-14   3.7e-11   42.9   0.0     5   177  2128  2298  2124  2312 0.90 short chain dehydrogenase
+Methyltransf_31      PF13847.6    152 BGC0001280.1_ORF6:gid:bet1:pid:BAQ25466.1:loc:25771:34622:strand:+ -           2904   1.3e-07   31.5   0.0   1   1     4e-10   4.5e-07   29.8   0.0     3   113  1429  1541  1427  1557 0.85 Methyltransferase domain
+Ubie_methyltran      PF01209.18   233 BGC0001280.1_ORF6:gid:bet1:pid:BAQ25466.1:loc:25771:34622:strand:+ -           2904    0.0001   21.8   0.0   1   1   1.9e-07   0.00022   20.7   0.0    30   151  1411  1537  1406  1547 0.82 ubiE/COQ5 methyltransferase family
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001280.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001280.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001280.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:41:50 2019
+# [ok]

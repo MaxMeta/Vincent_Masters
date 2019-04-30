@@ -1,0 +1,35 @@
+#                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Glycos_transf_1      PF00534.20   172 BGC0000772.1_ORF1:gid:wbkA:pid:AAC98618.1:loc:960:2091:strand:- -            376   4.4e-29  101.2   0.0   1   1   1.6e-32   7.3e-29  100.5   0.0    15   161   192   337   183   342 0.95 Glycosyl transferases group 1
+Glyco_trans_1_4      PF13692.6    134 BGC0000772.1_ORF1:gid:wbkA:pid:AAC98618.1:loc:960:2091:strand:- -            376   5.4e-23   81.9   0.0   1   1   2.7e-26   1.2e-22   80.8   0.0     5   134   196   334   192   334 0.88 Glycosyl transferases group 1
+Glyco_transf_4       PF13439.6    170 BGC0000772.1_ORF1:gid:wbkA:pid:AAC98618.1:loc:960:2091:strand:- -            376   1.8e-16   60.6   0.0   1   1   6.9e-20   3.1e-16   59.8   0.0     2   167    19   174    18   175 0.83 Glycosyltransferase Family 4
+Glyco_trans_4_4      PF13579.6    160 BGC0000772.1_ORF1:gid:wbkA:pid:AAC98618.1:loc:960:2091:strand:- -            376   6.8e-11   42.9   0.1   1   1   3.3e-14   1.5e-10   41.8   0.1     1   139    19   150    19   161 0.78 Glycosyl transferase 4-like domain
+DDE_Tnp_1_2          PF13586.6     90 BGC0000772.1_ORF2:gid::pid:AAC98623.1:loc:2209:4534:strand:- -            157   1.5e-17   63.8   0.4   1   1   3.3e-21     2e-17   63.4   0.4     2    89    72   154    71   155 0.97 Transposase DDE domain
+DDE_Tnp_1            PF01609.21   214 BGC0000772.1_ORF2:gid::pid:AAC98623.1:loc:2209:4534:strand:- -            157     5e-13   49.2   0.2   1   1   3.9e-13   2.3e-09   37.2   0.0    30    96    22    87     4   103 0.83 Transposase DDE domain
+DDE_Tnp_4            PF13359.6    158 BGC0000772.1_ORF2:gid::pid:AAC98623.1:loc:2209:4534:strand:- -            157   2.3e-07   30.6   0.0   1   1   4.5e-11   2.7e-07   30.4   0.0    61   153    58   148    23   150 0.75 DDE superfamily endonuclease
+GDP_Man_Dehyd        PF16363.5    332 BGC0000772.1_ORF4:gid:gmd:pid:AAC98612.1:loc:5337:6426:strand:+ -            362  1.9e-158  527.2   0.0   1   1  3.6e-162  2.1e-158  527.0   0.0     1   332     6   336     6   336 0.99 GDP-mannose 4,6 dehydratase
+Epimerase            PF01370.21   241 BGC0000772.1_ORF4:gid:gmd:pid:AAC98612.1:loc:5337:6426:strand:+ -            362   4.9e-74  248.8   0.1   1   1     1e-77     6e-74  248.5   0.1     1   241     5   252     5   252 0.99 NAD dependent epimerase/dehydratase family
+RmlD_sub_bind        PF04321.17   287 BGC0000772.1_ORF4:gid:gmd:pid:AAC98612.1:loc:5337:6426:strand:+ -            362     3e-05   23.3   0.0   1   1   8.6e-09   5.1e-05   22.5   0.0     4   130     6   162     2   175 0.88 RmlD substrate binding domain
+DegT_DnrJ_EryC1      PF01041.17   361 BGC0000772.1_ORF5:gid:perA:pid:AAC98613.1:loc:6433:7537:strand:+ -            367  2.4e-118  395.6   0.0   1   1  1.7e-122    3e-118  395.3   0.0     6   360    14   356    11   357 0.96 DegT/DnrJ/EryC1/StrS aminotransferase family
+ABC2_membrane        PF01061.24   210 BGC0000772.1_ORF6:gid:wzm:pid:AAC98614.1:loc:7551:8334:strand:+ -            260   1.4e-12   47.5  18.8   1   1     8e-17   1.4e-12   47.5  18.8     3   208    15   219    13   221 0.90 ABC-2 type transporter
+ABC_tran             PF00005.27   137 BGC0000772.1_ORF7:gid:wzt:pid:AAC98615.1:loc:8330:9089:strand:+ -            252   1.5e-18   67.6   0.0   1   1     7e-22   1.2e-17   64.6   0.0     1   135    49   180    49   182 0.82 ABC transporter
+Formyl_trans_N       PF00551.19   181 BGC0000772.1_ORF9:gid:wbkC:pid:AAC98617.1:loc:9966:10746:strand:+ -            259   6.1e-28   97.8   0.0   1   1   4.6e-32   8.2e-28   97.4   0.0    60   168    59   167    25   178 0.89 Formyl transferase
+rve                  PF00665.26   119 BGC0000772.1_ORF10:gid::pid:AAC98621.1:loc:11081:11804:strand:- -            240   6.9e-22   77.9   0.0   1   1   8.3e-25   3.7e-21   75.5   0.0     3   118   115   227   113   228 0.96 Integrase core domain
+rve_3                PF13683.6     67 BGC0000772.1_ORF10:gid::pid:AAC98621.1:loc:11081:11804:strand:- -            240   4.4e-14   52.0   0.0   1   1   2.2e-17   9.7e-14   50.9   0.0     2    42   200   240   199   240 0.96 Integrase core domain
+HTH_21               PF13276.6     60 BGC0000772.1_ORF10:gid::pid:AAC98621.1:loc:11081:11804:strand:- -            240   1.2e-10   41.4   8.8   1   1   9.1e-14   4.1e-10   39.6   6.4     4    57    45    97    42   102 0.88 HTH-like domain
+DDE_3                PF13358.6    146 BGC0000772.1_ORF10:gid::pid:AAC98621.1:loc:11081:11804:strand:- -            240   2.2e-07   30.7   0.0   1   1   8.4e-11   3.8e-07   30.0   0.0    35   142   132   237   126   239 0.93 DDE superfamily endonuclease
+HTH_Tnp_1            PF01527.20    75 BGC0000772.1_ORF11:gid::pid:AAC98619.1:loc:11797:12022:strand:- -             74   2.5e-16   59.7   0.0   1   1   1.6e-20     3e-16   59.5   0.0    18    75     3    57     1    57 0.96 Transposase
+LZ_Tnp_IS481         PF13011.6     85 BGC0000772.1_ORF12:gid::pid:AAC98622.1:loc:12816:13404:strand:- -            195     1e-17   64.4   2.7   1   1   3.4e-21     1e-17   64.4   2.7     1    85     1    85     1    85 0.99 leucine-zipper of insertion element IS481
+HTH_28               PF13518.6     52 BGC0000772.1_ORF12:gid::pid:AAC98622.1:loc:12816:13404:strand:- -            195   4.8e-09   36.2   3.3   1   1   1.2e-09   3.7e-06   27.0   0.5     2    51    14    64    13    65 0.90 Helix-turn-helix domain
+HTH_32               PF13565.6     73 BGC0000772.1_ORF12:gid::pid:AAC98622.1:loc:12816:13404:strand:- -            195     2e-08   34.7   1.7   1   1   1.3e-11   3.8e-08   33.8   1.7     2    73    42   107    41   107 0.91 Homeodomain-like domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000772.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000772.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000772.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:31:53 2019
+# [ok]

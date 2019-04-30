@@ -1,0 +1,20 @@
+#                                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Peptidase_C39        PF03412.15   133 CS211_c00001_NODE_1_...cluster138_ORF1:gid::pid::loc:1660:3850:strand:- -            729   1.5e-32  112.2   0.0   1   1     4e-36   2.4e-32  111.5   0.0     2   131    16   143    15   145 0.97 Peptidase C39 family
+ABC_tran             PF00005.27   137 CS211_c00001_NODE_1_...cluster138_ORF1:gid::pid::loc:1660:3850:strand:- -            729   3.8e-32  111.7   0.0   1   1     1e-35     6e-32  111.0   0.0     2   137   512   660   511   660 0.89 ABC transporter
+ABC_membrane         PF00664.23   274 CS211_c00001_NODE_1_...cluster138_ORF1:gid::pid::loc:1660:3850:strand:- -            729   6.6e-23   81.7   0.8   1   1   1.6e-26   9.4e-23   81.2   0.8     3   273   172   438   170   439 0.98 ABC transporter transmembrane region
+HlyD_3               PF13437.6    106 CS211_c00001_NODE_1_...cluster138_ORF2:gid::pid::loc:3862:4774:strand:- -            303   1.5e-06   28.8   2.2   1   1   5.7e-10     1e-05   26.2   0.3     2    83   158   242   157   273 0.79 HlyD family secretion protein
+Nitroreductase       PF00881.24   170 CS211_c00001_NODE_1_...cluster138_ORF4:gid::pid::loc:5727:7134:strand:- -            468   3.2e-15   56.6   0.0   1   1   3.3e-19   5.9e-15   55.7   0.0     2   158   259   441   258   453 0.86 Nitroreductase family
+YcaO                 PF02624.16   323 CS211_c00001_NODE_1_...cluster138_ORF6:gid::pid::loc:8490:10833:strand:+ -            780     7e-90  301.6   0.8   1   1   6.5e-94   1.2e-89  300.8   0.8     2   323   408   743   407   743 0.87 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+FA_desaturase        PF00487.24   254 CS211_c00001_NODE_1_...cluster138_ORF9:gid::pid::loc:12259:13591:strand:+ -            444   4.5e-23   82.4  22.4   1   1   2.5e-27   4.5e-23   82.4  22.4     3   244   118   339   115   347 0.80 Fatty acid desaturase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster138.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS211_c00001_NODE_1_...cluster138.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster138.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:55:23 2019
+# [ok]

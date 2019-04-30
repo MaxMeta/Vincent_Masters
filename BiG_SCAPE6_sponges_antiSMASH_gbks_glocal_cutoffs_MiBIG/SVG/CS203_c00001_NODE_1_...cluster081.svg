@@ -1,0 +1,155 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="614.8" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="604.8" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg1163_23)</title>
+			<polygon class=" (ctg1163_23)" points="10,25 53,25 53,10 83,40 53,70 53,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DNA_ligase_aden (PF01653)
+"NAD-dependent DNA ligase adenylation domain"</title>
+				<rect class="PF01653" x="13" y="28" stroke-linejoin="round" width="31" height="24" fill="rgb(49,184,68)" stroke="rgb(39,147,54)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DNA_ligase_OB (PF03120)
+"NAD-dependent DNA ligase OB-fold domain"</title>
+				<rect class="PF03120" x="45" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(67,220,154)" stroke="rgb(53,176,123)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HHH_2 (PF12826)
+"Helix-hairpin-helix motif"</title>
+				<polygon class="PF12826" points="64,28 66,28 70,32 70,48 66,52 64,52" stroke-linejoin="round" width="6" height="24" fill="rgb(223,81,103)" stroke="rgb(178,64,82)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>BRCT (PF00533)
+"BRCA1 C Terminus (BRCT) domain"</title>
+				<polygon class="PF00533" points="73,35 78,40 73,45" stroke-linejoin="round" width="7" height="24" fill="rgb(69,217,144)" stroke="rgb(55,173,115)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1163_24)</title>
+			<polygon class=" (ctg1163_24)" points="83,25 112,25 112,10 142,40 112,70 112,55 83,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HHH_8 (PF14716)
+"Helix-hairpin-helix domain"</title>
+				<rect class="PF14716" x="84" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(83,210,138)" stroke="rgb(66,168,110)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HHH_5 (PF14520)
+"Helix-hairpin-helix domain"</title>
+				<rect class="PF14520" x="93" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(118,220,87)" stroke="rgb(94,176,69)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DNA_pol_B_thumb (PF14791)
+"DNA polymerase beta thumb"</title>
+				<rect class="PF14791" x="109" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(79,147,211)" stroke="rgb(63,117,168)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PHP (PF02811)
+"PHP domain"</title>
+				<polygon class="PF02811" points="118,28 125,28 137,40 137,40 125,52 118,52" stroke-linejoin="round" width="19" height="24" fill="rgb(167,87,219)" stroke="rgb(133,69,175)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1163_25)</title>
+			<polygon class=" (ctg1163_25)" points="142,25 144,25 144,10 174,40 144,70 144,55 142,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Na_Ca_ex (PF01699)
+"Sodium/calcium exchanger protein"</title>
+				<rect class="PF01699" x="142" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(64,189,136)" stroke="rgb(51,151,108)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Na_Ca_ex (PF01699)
+"Sodium/calcium exchanger protein"</title>
+				<polygon class="PF01699" points="159,29 170,40 159,51" stroke-linejoin="round" width="14" height="24" fill="rgb(64,189,136)" stroke="rgb(51,151,108)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1163_26)</title>
+			<polygon class=" (ctg1163_26)" points="174,25 189,25 189,10 219,40 189,70 189,55 174,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_3 (PF00202)
+"Aminotransferase class-III"</title>
+				<polygon class="PF00202" points="176,28 202,28 214,40 202,52 176,52" stroke-linejoin="round" width="41" height="24" fill="rgb(49,163,189)" stroke="rgb(39,130,151)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1163_27)</title>
+			<polygon class=" (ctg1163_27)" points="327,25 250,25 250,10 220,40 250,70 250,55 327,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ACR_tran (PF00873)
+"AcrB/AcrD/AcrF family"</title>
+				<polygon class="PF00873" points="224,40 236,28 324,28 324,52 236,52" stroke-linejoin="round" width="103" height="24" fill="rgb(63,191,60)" stroke="rgb(50,152,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1163_28)</title>
+			<polygon class=" (ctg1163_28)" points="328,40 337,10 337,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pterin_4a (PF01329)
+"Pterin 4 alpha carbinolamine dehydratase"</title>
+				<polygon class="PF01329" points="331,40 335,28 336,28 336,52 335,52" stroke-linejoin="round" width="8" height="24" fill="rgb(109,209,90)" stroke="rgb(87,167,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1163_29)</title>
+			<polygon class=" (ctg1163_29)" points="343,25 343,25 343,10 373,40 343,70 343,55 343,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="343,28 357,28 369,40 357,52 343,52" stroke-linejoin="round" width="27" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1163_30)</title>
+			<polygon class=" (ctg1163_30)" points="394,10 401,40 394,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1163_31)</title>
+			<polygon class=" (ctg1163_31)" points="411,40 416,10 416,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1163_32)</title>
+			<polygon class=" (ctg1163_32)" points="478,25 478,25 478,10 448,40 478,70 478,55 478,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SBP_bac_3 (PF00497)
+"Bacterial extracellular solute-binding proteins, family 3"</title>
+				<polygon class="PF00497" points="452,40 464,28 477,28 477,52 464,52" stroke-linejoin="round" width="28" height="24" fill="rgb(186,76,141)" stroke="rgb(148,60,112)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1163_33)</title>
+			<polygon class=" (ctg1163_33)" points="485,40 495,10 495,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1163_34)</title>
+			<polygon class=" (ctg1163_34)" points="537,25 529,25 529,10 499,40 529,70 529,55 537,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Phage_integrase (PF00589)
+"Phage integrase family"</title>
+				<polygon class="PF00589" points="503,40 515,28 517,28 517,52 515,52" stroke-linejoin="round" width="17" height="24" fill="rgb(91,96,195)" stroke="rgb(72,76,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1163_35)</title>
+			<polygon class=" (ctg1163_35)" points="542,10 557,40 542,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MobC (PF05713)
+"Bacterial mobilisation protein (MobC)"</title>
+				<polygon class="PF05713" points="552,36 554,40 552,44" stroke-linejoin="round" width="4" height="24" fill="rgb(179,69,227)" stroke="rgb(143,55,181)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1163_36)</title>
+			<polygon class=" (ctg1163_36)" points="557,25 567,25 567,10 597,40 567,70 567,55 557,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Relaxase (PF03432)
+"Relaxase/Mobilisation nuclease domain"</title>
+				<polygon class="PF03432" points="564,28 581,28 584,31 584,49 581,52 564,52" stroke-linejoin="round" width="20" height="24" fill="rgb(83,211,222)" stroke="rgb(66,168,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1163_37)</title>
+			<polygon class=" (ctg1163_37)" points="602,10 604,40 602,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

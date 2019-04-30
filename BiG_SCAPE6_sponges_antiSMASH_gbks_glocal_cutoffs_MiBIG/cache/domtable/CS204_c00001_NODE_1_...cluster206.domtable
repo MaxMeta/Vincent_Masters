@@ -1,0 +1,24 @@
+#                                                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+cNMP_binding         PF00027.29    89 CS204_c00001_NODE_1_...cluster206_ORF1:gid::pid::loc:248:884:strand:+ -            211   9.6e-14   51.2   0.1   1   1   5.1e-17   3.1e-13   49.6   0.1    12    89     2    79     1    79 0.95 Cyclic nucleotide-binding domain
+HTH_Crp_2            PF13545.6     68 CS204_c00001_NODE_1_...cluster206_ORF1:gid::pid::loc:248:884:strand:+ -            211   2.2e-13   49.9   1.1   1   1   3.7e-17   2.2e-13   49.9   1.1     1    66   114   184   111   185 0.80 Crp-like helix-turn-helix domain
+Crp                  PF00325.20    32 CS204_c00001_NODE_1_...cluster206_ORF1:gid::pid::loc:248:884:strand:+ -            211   2.6e-07   30.2   1.1   1   1   1.1e-10   6.8e-07   28.8   0.0     1    32   137   168   137   168 0.96 Bacterial regulatory proteins, crp family
+HATPase_c            PF02518.26   112 CS204_c00001_NODE_1_...cluster206_ORF2:gid::pid::loc:966:2640:strand:+ -            557   1.5e-25   89.9   0.1   1   1     7e-28   6.3e-24   84.7   0.0     2   110   421   530   420   532 0.94 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+HisKA                PF00512.25    67 CS204_c00001_NODE_1_...cluster206_ORF2:gid::pid::loc:966:2640:strand:+ -            557   2.2e-15   56.4   0.1   1   1   7.3e-19   6.5e-15   54.9   0.0     2    66   307   372   306   373 0.93 His Kinase A (phospho-acceptor) domain
+Response_reg         PF00072.24   112 CS204_c00001_NODE_1_...cluster206_ORF3:gid::pid::loc:2660:3344:strand:+ -            227   7.5e-28   96.9   0.0   1   1   1.5e-31   1.3e-27   96.2   0.0     1   111     4   113     4   114 0.98 Response regulator receiver domain
+Trans_reg_C          PF00486.28    77 CS204_c00001_NODE_1_...cluster206_ORF3:gid::pid::loc:2660:3344:strand:+ -            227   5.1e-27   93.8   0.0   1   1   1.1e-30     1e-26   92.8   0.0     2    77   149   225   148   225 0.98 Transcriptional regulatory protein, C terminal
+Transglut_core3      PF13471.6    117 CS204_c00001_NODE_1_...cluster206_ORF4:gid::pid::loc:3581:4235:strand:+ -            217   5.7e-25   87.5   1.0   1   1   3.2e-29   5.7e-25   87.5   1.0    27   109   125   206   104   216 0.82 Transglutaminase-like superfamily
+GATase_7             PF13537.6    123 CS204_c00001_NODE_1_...cluster206_ORF5:gid::pid::loc:4266:5184:strand:+ -            306     8e-27   93.6   0.0   1   1   2.2e-30   1.3e-26   92.9   0.0    11   122    58   165    53   166 0.93 Glutamine amidotransferase domain
+GATase_6             PF13522.6    134 CS204_c00001_NODE_1_...cluster206_ORF5:gid::pid::loc:4266:5184:strand:+ -            306   1.2e-20   74.1   0.0   1   1   3.7e-24   2.2e-20   73.2   0.0    30   132    58   158    37   160 0.93 Glutamine amidotransferase domain
+Asn_synthase         PF00733.21   355 CS204_c00001_NODE_1_...cluster206_ORF5:gid::pid::loc:4266:5184:strand:+ -            306   1.8e-11   44.4   0.8   1   1   3.9e-15   2.3e-11   44.0   0.8     2    63   242   305   241   306 0.94 Asparagine synthase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS204_c00001_NODE_1_...cluster206.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS204_c00001_NODE_1_...cluster206.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS204_c00001_NODE_1_...cluster206.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:54:58 2019
+# [ok]

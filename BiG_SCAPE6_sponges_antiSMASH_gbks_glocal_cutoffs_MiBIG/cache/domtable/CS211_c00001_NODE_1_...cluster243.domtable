@@ -1,0 +1,27 @@
+#                                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Nmad3                PF18754.1    250 CS211_c00001_NODE_1_...cluster243_ORF1:gid::pid::loc:725:1568:strand:+ -            280   8.1e-58  195.9   0.1   1   1   5.4e-62   9.6e-58  195.7   0.1     1   239     2   251     2   256 0.86 Nucleotide modification associated domain 3
+UbiA                 PF01040.18   252 CS211_c00001_NODE_1_...cluster243_ORF2:gid::pid::loc:1990:2911:strand:+ -            306   4.2e-34  118.0  14.7   1   1   2.3e-38   4.2e-34  118.0  14.7     3   227    21   242    20   260 0.87 UbiA prenyltransferase family
+SQHop_cyclase_C      PF13243.6    319 CS211_c00001_NODE_1_...cluster243_ORF3:gid::pid::loc:3019:4693:strand:+ -            557   5.2e-46  157.2  16.4   1   3   6.6e-10     3e-06   26.6   0.0   148   229   194   275   184   278 0.81 Squalene-hopene cyclase C-terminal domain
+SQHop_cyclase_C      PF13243.6    319 CS211_c00001_NODE_1_...cluster243_ORF3:gid::pid::loc:3019:4693:strand:+ -            557   5.2e-46  157.2  16.4   2   3   1.6e-12   7.1e-09   35.2   1.2     4   113   280   376   277   381 0.53 Squalene-hopene cyclase C-terminal domain
+SQHop_cyclase_C      PF13243.6    319 CS211_c00001_NODE_1_...cluster243_ORF3:gid::pid::loc:3019:4693:strand:+ -            557   5.2e-46  157.2  16.4   3   3   2.1e-28   9.2e-25   87.4   2.5   135   318   382   553   380   554 0.86 Squalene-hopene cyclase C-terminal domain
+Prenyltrans          PF00432.21    44 CS211_c00001_NODE_1_...cluster243_ORF3:gid::pid::loc:3019:4693:strand:+ -            557     7e-23   80.1   8.7   1   5    0.0014       6.3    6.6   0.0     7    23    56    72    55    83 0.87 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.21    44 CS211_c00001_NODE_1_...cluster243_ORF3:gid::pid::loc:3019:4693:strand:+ -            557     7e-23   80.1   8.7   2   5   0.00031       1.4    8.7   0.0     3    20   207   224   205   225 0.92 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.21    44 CS211_c00001_NODE_1_...cluster243_ORF3:gid::pid::loc:3019:4693:strand:+ -            557     7e-23   80.1   8.7   3   5   6.1e-07    0.0027   17.4   0.0     3    41   302   345   300   346 0.89 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.21    44 CS211_c00001_NODE_1_...cluster243_ORF3:gid::pid::loc:3019:4693:strand:+ -            557     7e-23   80.1   8.7   4   5   0.00049       2.2    8.1   0.0     3    21   356   374   354   377 0.90 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.21    44 CS211_c00001_NODE_1_...cluster243_ORF3:gid::pid::loc:3019:4693:strand:+ -            557     7e-23   80.1   8.7   5   5   3.3e-11   1.5e-07   31.0   0.1     5    42   455   495   452   497 0.91 Prenyltransferase and squalene oxidase repeat
+Glycos_transf_2      PF00535.26   170 CS211_c00001_NODE_1_...cluster243_ORF4:gid::pid::loc:4758:5430:strand:+ -            223   2.3e-15   56.8   0.0   1   1   1.8e-19   3.3e-15   56.3   0.0     1   128     3   117     3   152 0.82 Glycosyl transferase family 2
+Methyltransf_24      PF13578.6    106 CS211_c00001_NODE_1_...cluster243_ORF5:gid::pid::loc:5606:6188:strand:- -            193   3.4e-15   57.0   0.4   1   1   1.1e-18   6.5e-15   56.1   0.2     1   106    44   147    44   147 0.96 Methyltransferase domain
+Methyltransf_3       PF01596.17   212 CS211_c00001_NODE_1_...cluster243_ORF5:gid::pid::loc:5606:6188:strand:- -            193     9e-12   44.6   0.0   1   1   1.9e-15   1.2e-11   44.3   0.0    25   158    17   147     3   162 0.84 O-methyltransferase
+CmcI                 PF04989.12   206 CS211_c00001_NODE_1_...cluster243_ORF5:gid::pid::loc:5606:6188:strand:- -            193   1.6e-07   31.2   0.0   1   1   4.1e-11   2.5e-07   30.6   0.0    26    76    33    82    28   114 0.81 Cephalosporin hydroxylase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster243.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS211_c00001_NODE_1_...cluster243.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster243.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:46:09 2019
+# [ok]

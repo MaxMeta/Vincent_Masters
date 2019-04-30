@@ -1,0 +1,23 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+APH                  PF01636.23   240 BGC0001802.1_ORF2:gid::pid:ATJ00793.1:loc:1123:2293:strand:+ -            389   5.4e-12   46.1   0.3   1   1     4e-16   7.1e-12   45.8   0.3    17   209    75   280    59   319 0.71 Phosphotransferase enzyme family
+HopA1                PF17914.1    170 BGC0001802.1_ORF3:gid::pid:ATJ00794.1:loc:2289:3294:strand:+ -            334   1.4e-53  181.1   0.0   1   1   1.6e-57   2.8e-53  180.2   0.0     2   170   149   326   148   326 0.96 HopA1 effector protein family
+APH                  PF01636.23   240 BGC0001802.1_ORF4:gid::pid:ATJ00795.1:loc:3290:4238:strand:+ -            315   3.2e-05   24.0   6.6   1   1   2.6e-09   4.6e-05   23.4   5.9    86   229   101   248    38   258 0.70 Phosphotransferase enzyme family
+Flavoprotein         PF02441.19   158 BGC0001802.1_ORF5:gid:thoF:pid:ATJ00796.1:loc:4234:4840:strand:+ -            201   5.1e-32  110.8   0.1   1   1   3.4e-36     6e-32  110.6   0.1     2   139    16   172    15   194 0.87 Flavoprotein
+PrmA                 PF06325.13   296 BGC0001802.1_ORF6:gid:thoG:pid:ATJ00797.1:loc:4847:6065:strand:+ -            405   5.6e-12   45.6   0.0   1   1   1.4e-15   8.6e-12   45.0   0.0   153   237   126   211   123   233 0.82 Ribosomal protein L11 methyltransferase (PrmA)
+Met_10               PF02475.16   199 BGC0001802.1_ORF6:gid:thoG:pid:ATJ00797.1:loc:4847:6065:strand:+ -            405   4.1e-05   23.4   0.0   1   1   1.1e-08   6.4e-05   22.8   0.0    93   171   127   203   119   242 0.82 Met-10+ like-protein
+YcaO                 PF02624.16   323 BGC0001802.1_ORF7:gid::pid:ATJ00798.1:loc:6102:7455:strand:+ -            450   1.5e-65  221.6   4.3   1   1   1.9e-69   3.4e-65  220.5   2.8     1   323    69   412    69   412 0.83 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+TfuA                 PF07812.12   120 BGC0001802.1_ORF8:gid:thoI:pid:ATJ00799.1:loc:7469:8162:strand:+ -            230   7.3e-42  141.9   0.0   1   1   5.7e-46     1e-41  141.4   0.0     1   120    51   168    51   168 0.99 TfuA-like protein
+PhyH                 PF05721.13   211 BGC0001802.1_ORF9:gid:thoJ:pid:ATJ00800.1:loc:8158:9031:strand:+ -            290   2.7e-24   86.6   0.1   1   1   2.6e-28   4.7e-24   85.8   0.1     1   209    12   209    12   211 0.87 Phytanoyl-CoA dioxygenase (PhyH)
+Peptidase_C1         PF00112.23   218 BGC0001802.1_ORF10:gid:thoK:pid:ATJ00801.1:loc:9027:9861:strand:+ -            277   5.2e-10   39.8   0.0   1   1   4.4e-14   7.8e-10   39.2   0.0    15   198    48   251    37   257 0.72 Papain family cysteine protease
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001802.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001802.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001802.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:35:12 2019
+# [ok]

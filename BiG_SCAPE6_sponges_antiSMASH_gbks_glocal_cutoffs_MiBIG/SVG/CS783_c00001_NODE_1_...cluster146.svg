@@ -1,0 +1,64 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="240.16666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="230.16666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg8378_1)</title>
+			<polygon class=" (ctg8378_1)" points="10,40 14,10 14,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg8378_2)</title>
+			<polygon class=" (ctg8378_2)" points="51,25 44,25 44,10 14,40 44,70 44,55 51,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SpoIIE (PF07228)
+"Stage II sporulation protein E (SpoIIE)"</title>
+				<polygon class="PF07228" points="18,40 30,28 32,28 32,52 30,52" stroke-linejoin="round" width="18" height="24" fill="rgb(85,195,217)" stroke="rgb(68,155,173)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8378_3)</title>
+			<polygon class=" (ctg8378_3)" points="53,40 79,10 79,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2063 (PF09836)
+"Putative DNA-binding domain"</title>
+				<rect class="PF09836" x="69" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(88,194,190)" stroke="rgb(70,155,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8378_4)</title>
+			<polygon class=" (ctg8378_4)" points="80,40 108,10 108,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF692 (PF05114)
+"Protein of unknown function (DUF692)"</title>
+				<polygon class="PF05114" points="84,40 95,28 107,28 107,52 95,52" stroke-linejoin="round" width="26" height="24" fill="rgb(63,196,127)" stroke="rgb(50,156,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8378_5)</title>
+			<polygon class=" (ctg8378_5)" points="111,40 119,10 119,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg8378_6)</title>
+			<polygon class=" (ctg8378_6)" points="230,25 156,25 156,10 126,40 156,70 156,55 230,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF3418 (PF11898)
+"Domain of unknown function (DUF3418)"</title>
+				<polygon class="PF11898" points="130,40 142,28 186,28 186,52 142,52" stroke-linejoin="round" width="59" height="24" fill="rgb(111,68,209)" stroke="rgb(88,54,167)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>OB_NTP_bind (PF07717)
+"Oligonucleotide/oligosaccharide-binding (OB)-fold"</title>
+				<rect class="PF07717" x="187" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(144,74,228)" stroke="rgb(115,59,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HA2 (PF04408)
+"Helicase associated domain (HA2)"</title>
+				<rect class="PF04408" x="198" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(142,68,179)" stroke="rgb(113,54,143)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Helicase_C (PF00271)
+"Helicase conserved C-terminal domain"</title>
+				<rect class="PF00271" x="216" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(104,224,158)" stroke="rgb(83,179,126)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

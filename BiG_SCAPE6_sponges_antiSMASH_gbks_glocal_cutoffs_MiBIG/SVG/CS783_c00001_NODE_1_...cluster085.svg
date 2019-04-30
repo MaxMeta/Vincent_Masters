@@ -1,0 +1,148 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="597.3" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="587.3" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg2564_1)</title>
+			<polygon class=" (ctg2564_1)" points="49,25 41,25 41,10 11,40 41,70 41,55 49,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BPD_transp_1 (PF00528)
+"Binding-protein-dependent transport system inner membrane component"</title>
+				<polygon class="PF00528" points="15,40 27,28 29,28 29,52 27,52" stroke-linejoin="round" width="18" height="24" fill="rgb(77,208,225)" stroke="rgb(61,166,180)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>OppC_N (PF12911)
+"N-terminal TM domain of oligopeptide transport permease C"</title>
+				<rect class="PF12911" x="41" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(167,178,88)" stroke="rgb(133,142,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2564_2)</title>
+			<polygon class=" (ctg2564_2)" points="88,25 84,25 84,10 54,40 84,70 84,55 88,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BPD_transp_1 (PF00528)
+"Binding-protein-dependent transport system inner membrane component"</title>
+				<polygon class="PF00528" points="58,40 70,28 75,28 75,52 70,52" stroke-linejoin="round" width="21" height="24" fill="rgb(77,208,225)" stroke="rgb(61,166,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2564_3)</title>
+			<polygon class=" (ctg2564_3)" points="163,25 121,25 121,10 91,40 121,70 121,55 163,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SBP_bac_5 (PF00496)
+"Bacterial extracellular solute-binding proteins, family 5 Middle"</title>
+				<polygon class="PF00496" points="103,32 107,28 143,28 143,52 107,52 103,48" stroke-linejoin="round" width="40" height="24" fill="rgb(199,94,116)" stroke="rgb(159,75,92)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2564_4)</title>
+			<polygon class=" (ctg2564_4)" points="204,25 200,25 200,10 170,40 200,70 200,55 204,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>oligo_HPY (PF08352)
+"Oligopeptide/dipeptide transporter, C-terminal region"</title>
+				<polygon class="PF08352" points="174,40 178,36 178,44" stroke-linejoin="round" width="6" height="24" fill="rgb(90,183,173)" stroke="rgb(72,146,138)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="183,31 186,28 199,28 199,52 186,52 183,49" stroke-linejoin="round" width="16" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2564_5)</title>
+			<polygon class=" (ctg2564_5)" points="272,25 269,25 269,10 239,40 269,70 269,55 272,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="243,40 255,28 266,28 266,52 255,52" stroke-linejoin="round" width="25" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2564_6)</title>
+			<polygon class=" (ctg2564_6)" points="282,10 293,40 282,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MerR_1 (PF13411)
+"MerR HTH family regulatory protein"</title>
+				<polygon class="PF13411" points="282,28 285,28 288,35 288,45 285,52 282,52" stroke-linejoin="round" width="6" height="24" fill="rgb(100,202,107)" stroke="rgb(80,161,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2564_7)</title>
+			<polygon class=" (ctg2564_7)" points="296,25 297,25 297,10 327,40 297,70 297,55 296,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Zn_Tnp_IS1595 (PF12760)
+"Transposase zinc-ribbon domain"</title>
+				<rect class="PF12760" x="298" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(211,61,128)" stroke="rgb(168,48,102)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DDE_Tnp_IS1595 (PF12762)
+"ISXO2-like transposase domain"</title>
+				<polygon class="PF12762" points="309,28 311,28 323,40 323,40 311,52 309,52" stroke-linejoin="round" width="14" height="24" fill="rgb(211,88,85)" stroke="rgb(168,70,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2564_8)</title>
+			<polygon class=" (ctg2564_8)" points="340,10 350,40 340,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2564_9)</title>
+			<polygon class=" (ctg2564_9)" points="360,10 369,40 360,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2564_10)</title>
+			<polygon class=" (ctg2564_10)" points="373,10 389,40 373,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HEPN_Apea (PF18739)
+"Apea-like HEPN"</title>
+				<polygon class="PF18739" points="375,28 379,28 385,40 379,52 375,52" stroke-linejoin="round" width="11" height="24" fill="rgb(201,141,87)" stroke="rgb(160,112,69)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2564_11)</title>
+			<polygon class=" (ctg2564_11)" points="393,10 399,40 393,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2564_12)</title>
+			<polygon class=" (ctg2564_12)" points="407,10 427,40 407,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2564_13)</title>
+			<polygon class=" (ctg2564_13)" points="434,10 460,40 434,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2564_14)</title>
+			<polygon class=" (ctg2564_14)" points="459,10 488,40 459,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Caroten_synth (PF04240)
+"Carotenoid biosynthesis protein"</title>
+				<polygon class="PF04240" points="465,28 472,28 484,40 472,52 465,52" stroke-linejoin="round" width="21" height="24" fill="rgb(65,214,190)" stroke="rgb(52,171,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2564_15)</title>
+			<polygon class=" (ctg2564_15)" points="488,10 507,40 488,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>G3P_acyltransf (PF02660)
+"Glycerol-3-phosphate acyltransferase"</title>
+				<polygon class="PF02660" points="488,28 496,28 504,40 496,52 488,52" stroke-linejoin="round" width="17" height="24" fill="rgb(204,58,153)" stroke="rgb(163,46,122)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2564_16)</title>
+			<polygon class=" (ctg2564_16)" points="508,25 540,25 540,10 570,40 540,70 540,55 508,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_2 (PF00535)
+"Glycosyl transferase family 2"</title>
+				<rect class="PF00535" x="512" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(224,122,96)" stroke="rgb(179,97,76)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ACPS (PF01648)
+"4'-phosphopantetheinyl transferase superfamily"</title>
+				<polygon class="PF01648" points="558,32 566,40 558,48" stroke-linejoin="round" width="10" height="24" fill="rgb(85,184,135)" stroke="rgb(68,147,108)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2564_17)</title>
+			<polygon class=" (ctg2564_17)" points="581,40 586,10 586,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

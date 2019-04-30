@@ -1,0 +1,25 @@
+#                                                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DPBB_1               PF03330.18    83 CS211_c00001_NODE_1_...cluster250_ORF1:gid::pid::loc:115:766:strand:- -            216   3.3e-25   88.2   0.0   1   1   5.9e-29   5.3e-25   87.5   0.0     2    82    45   133    44   134 0.94 Lytic transglycolase
+SPOR                 PF05036.13    76 CS211_c00001_NODE_1_...cluster250_ORF1:gid::pid::loc:115:766:strand:- -            216   3.4e-14   53.0   0.2   1   1   8.4e-18   7.5e-14   51.9   0.2     4    76   144   213   141   213 0.96 Sporulation related domain
+DUF1572              PF07609.11   163 CS211_c00001_NODE_1_...cluster250_ORF2:gid::pid::loc:762:1326:strand:- -            187   5.8e-52  175.8   0.0   1   1   1.5e-55   6.6e-52  175.6   0.0     4   162    18   177    15   178 0.95 Protein of unknown function (DUF1572)
+DinB_2               PF12867.7    128 CS211_c00001_NODE_1_...cluster250_ORF2:gid::pid::loc:762:1326:strand:- -            187   1.7e-09   38.3   0.8   1   1     5e-13   2.3e-09   37.9   0.8     6   127    32   157    27   158 0.74 DinB superfamily
+DUF664               PF04978.12   150 CS211_c00001_NODE_1_...cluster250_ORF2:gid::pid::loc:762:1326:strand:- -            187   4.9e-08   33.5   0.0   1   1   1.4e-11   6.2e-08   33.2   0.0    23   143    46   160    28   165 0.84 Protein of unknown function (DUF664)
+MDMPI_N              PF11716.8    141 CS211_c00001_NODE_1_...cluster250_ORF2:gid::pid::loc:762:1326:strand:- -            187   2.6e-05   24.9   1.5   1   1   8.4e-09   3.8e-05   24.4   1.5    12   137    40   155    28   182 0.87 Mycothiol maleylpyruvate isomerase N-terminal domain
+Oxidored_molyb       PF00174.19   172 CS211_c00001_NODE_1_...cluster250_ORF3:gid::pid::loc:1788:2835:strand:+ -            348   8.5e-50  168.7   0.0   1   1   1.3e-53   1.2e-49  168.2   0.0     9   170    37   201    27   203 0.95 Oxidoreductase molybdopterin binding domain
+Mo-co_dimer          PF03404.16   138 CS211_c00001_NODE_1_...cluster250_ORF3:gid::pid::loc:1788:2835:strand:+ -            348   8.8e-15   54.9   0.0   1   1   1.9e-18   1.7e-14   54.0   0.0     3   136   229   346   227   348 0.91 Mo-co oxidoreductase dimerisation domain
+ketoacyl-synt        PF00109.26   253 CS211_c00001_NODE_1_...cluster250_ORF5:gid::pid::loc:3616:5896:strand:+ -            760   1.2e-78  264.3   1.6   1   1     5e-82   2.2e-78  263.3   1.6     2   253   458   696   457   696 0.97 Beta-ketoacyl synthase, N-terminal domain
+Acyl_transf_1        PF00698.21   319 CS211_c00001_NODE_1_...cluster250_ORF5:gid::pid::loc:3616:5896:strand:+ -            760   2.8e-42  145.3   0.0   1   1   9.1e-46   4.1e-42  144.8   0.0     2   267    18   292    17   299 0.92 Acyl transferase domain
+Ketoacyl-synt_C      PF02801.22   118 CS211_c00001_NODE_1_...cluster250_ORF5:gid::pid::loc:3616:5896:strand:+ -            760     6e-16   58.5   0.0   1   1   5.6e-19   2.5e-15   56.5   0.0     2    57   705   760   704   760 0.97 Beta-ketoacyl synthase, C-terminal domain
+PP-binding           PF00550.25    67 CS211_c00001_NODE_1_...cluster250_ORF5:gid::pid::loc:3616:5896:strand:+ -            760   1.7e-10   41.1   0.0   1   1     8e-14   3.6e-10   40.1   0.0     3    67   366   431   364   431 0.93 Phosphopantetheine attachment site
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster250.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS211_c00001_NODE_1_...cluster250.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster250.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:55:00 2019
+# [ok]

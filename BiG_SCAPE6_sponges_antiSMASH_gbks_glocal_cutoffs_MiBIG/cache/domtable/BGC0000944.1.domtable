@@ -1,0 +1,21 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Ala_racemase_N       PF01168.20   219 BGC0000944.1_ORF1:gid::pid:ABD31455.1:loc:0:1071:strand:- -            356   4.7e-20   72.2   0.0   1   1   3.5e-24   6.3e-20   71.8   0.0     1   215     6   220     6   223 0.87 Alanine racemase, N-terminal domain
+IucA_IucC            PF04183.12   239 BGC0000944.1_ORF2:gid::pid:ABD31456.1:loc:1077:2835:strand:- -            585   7.3e-51  173.0   0.0   1   1   1.2e-54     1e-50  172.5   0.0     3   238   158   384   156   385 0.91 IucA / IucC family
+FhuF                 PF06276.12   163 BGC0000944.1_ORF2:gid::pid:ABD31456.1:loc:1077:2835:strand:- -            585   2.6e-27   96.3   0.1   1   1   4.5e-31     4e-27   95.6   0.1     2   159   413   569   412   573 0.92 Ferric iron reductase FhuF-like transporter
+MFS_3                PF05977.13   522 BGC0000944.1_ORF3:gid::pid:ABD31457.1:loc:2821:4015:strand:- -            397   2.7e-41  141.6  12.8   1   1   3.9e-45   3.5e-41  141.2  12.8    20   393    10   381     3   394 0.87 Transmembrane secretion effector
+MFS_1                PF07690.16   353 BGC0000944.1_ORF3:gid::pid:ABD31457.1:loc:2821:4015:strand:- -            397   9.2e-29  100.5  48.3   1   2     1e-26   9.3e-23   80.7  28.9     2   343     6   339     5   344 0.82 Major Facilitator Superfamily
+MFS_1                PF07690.16   353 BGC0000944.1_ORF3:gid::pid:ABD31457.1:loc:2821:4015:strand:- -            397   9.2e-29  100.5  48.3   2   2   2.3e-12   2.1e-08   33.5  11.4    34   177   246   384   244   395 0.87 Major Facilitator Superfamily
+IucA_IucC            PF04183.12   239 BGC0000944.1_ORF4:gid::pid:ABD31458.1:loc:4116:6093:strand:+ -            658   1.9e-56  191.3   0.1   1   1   4.4e-60     4e-56  190.3   0.0     1   232   193   430   193   437 0.92 IucA / IucC family
+FhuF                 PF06276.12   163 BGC0000944.1_ORF4:gid::pid:ABD31458.1:loc:4116:6093:strand:+ -            658   1.1e-30  107.3   0.0   1   1   2.1e-34   1.9e-30  106.4   0.0     2   162   469   644   468   645 0.91 Ferric iron reductase FhuF-like transporter
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000944.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000944.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000944.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:42:58 2019
+# [ok]

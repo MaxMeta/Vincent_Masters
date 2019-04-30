@@ -1,0 +1,155 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="721.6666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="711.6666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg1179_18)</title>
+			<polygon class=" (ctg1179_18)" points="12,10 19,40 12,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1179_19)</title>
+			<polygon class=" (ctg1179_19)" points="19,10 30,40 19,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PemK_toxin (PF02452)
+"PemK-like, MazF-like toxin of type II toxin-antitoxin system"</title>
+				<polygon class="PF02452" points="19,28 22,28 27,40 22,52 19,52" stroke-linejoin="round" width="10" height="24" fill="rgb(81,193,221)" stroke="rgb(64,154,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1179_20)</title>
+			<polygon class=" (ctg1179_20)" points="77,25 62,25 62,10 32,40 62,70 62,55 77,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC2_membrane_3 (PF12698)
+"ABC-2 family transporter protein"</title>
+				<polygon class="PF12698" points="36,40 48,28 58,28 58,52 48,52" stroke-linejoin="round" width="24" height="24" fill="rgb(151,189,55)" stroke="rgb(120,151,44)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1179_21)</title>
+			<polygon class=" (ctg1179_21)" points="108,25 107,25 107,10 77,40 107,70 107,55 108,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4162 (PF13732)
+"Domain of unknown function (DUF4162)"</title>
+				<polygon class="PF13732" points="81,40 87,34 87,46" stroke-linejoin="round" width="8" height="24" fill="rgb(100,223,143)" stroke="rgb(80,178,114)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="93,28 93,28 107,28 107,52 93,52 93,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1179_22)</title>
+			<polygon class=" (ctg1179_22)" points="114,25 176,25 176,10 206,40 176,70 176,55 114,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PPDK_N (PF01326)
+"Pyruvate phosphate dikinase, PEP/pyruvate binding domain"</title>
+				<rect class="PF01326" x="118" y="28" stroke-linejoin="round" width="28" height="24" fill="rgb(112,180,78)" stroke="rgb(89,144,62)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PPDK_N (PF01326)
+"Pyruvate phosphate dikinase, PEP/pyruvate binding domain"</title>
+				<rect class="PF01326" x="146" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(112,180,78)" stroke="rgb(89,144,62)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PEP-utilizers (PF00391)
+"PEP-utilising enzyme, mobile domain"</title>
+				<rect class="PF00391" x="159" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(206,59,219)" stroke="rgb(164,47,175)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PEP-utilizers_C (PF02896)
+"PEP-utilising enzyme, TIM barrel domain"</title>
+				<polygon class="PF02896" points="170,28 190,28 202,40 190,52 170,52" stroke-linejoin="round" width="36" height="24" fill="rgb(65,113,188)" stroke="rgb(52,90,150)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1179_23)</title>
+			<polygon class=" (ctg1179_23)" points="207,25 240,25 240,10 270,40 240,70 240,55 207,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HATPase_c_3 (PF13589)
+"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"</title>
+				<rect class="PF13589" x="209" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(220,68,225)" stroke="rgb(176,54,180)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DNA_mis_repair (PF01119)
+"DNA mismatch repair protein, C-terminal domain"</title>
+				<rect class="PF01119" x="228" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(124,63,207)" stroke="rgb(99,50,165)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MutL_C (PF08676)
+"MutL C terminal dimerisation domain"</title>
+				<polygon class="PF08676" points="251,28 253,28 265,40 265,40 253,52 251,52" stroke-linejoin="round" width="14" height="24" fill="rgb(206,165,100)" stroke="rgb(164,132,80)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1179_24)</title>
+			<polygon class=" (ctg1179_24)" points="274,25 309,25 309,10 339,40 309,70 309,55 274,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PQQ_2 (PF13360)
+"PQQ-like domain"</title>
+				<rect class="PF13360" x="279" y="28" stroke-linejoin="round" width="18" height="24" fill="rgb(98,210,146)" stroke="rgb(78,168,116)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1179_25)</title>
+			<polygon class=" (ctg1179_25)" points="378,25 373,25 373,10 343,40 373,70 373,55 378,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="347,40 359,28 375,28 375,52 359,52" stroke-linejoin="round" width="29" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1179_26)</title>
+			<polygon class=" (ctg1179_26)" points="381,25 416,25 416,10 446,40 416,70 416,55 381,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PQQ_2 (PF13360)
+"PQQ-like domain"</title>
+				<rect class="PF13360" x="385" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(98,210,146)" stroke="rgb(78,168,116)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1179_27)</title>
+			<polygon class=" (ctg1179_27)" points="444,40 457,10 457,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1179_28)</title>
+			<polygon class=" (ctg1179_28)" points="458,40 466,10 466,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1179_29)</title>
+			<polygon class=" (ctg1179_29)" points="511,25 499,25 499,10 469,40 499,70 499,55 511,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PQQ_2 (PF13360)
+"PQQ-like domain"</title>
+				<polygon class="PF13360" points="473,40 485,28 491,28 491,52 485,52" stroke-linejoin="round" width="22" height="24" fill="rgb(98,210,146)" stroke="rgb(78,168,116)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PQQ_2 (PF13360)
+"PQQ-like domain"</title>
+				<rect class="PF13360" x="491" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(98,210,146)" stroke="rgb(78,168,116)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1179_30)</title>
+			<polygon class=" (ctg1179_30)" points="518,25 527,25 527,10 557,40 527,70 527,55 518,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1179_31)</title>
+			<polygon class=" (ctg1179_31)" points="559,25 633,25 633,10 663,40 633,70 633,55 559,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ACR_tran (PF00873)
+"AcrB/AcrD/AcrF family"</title>
+				<polygon class="PF00873" points="561,28 647,28 659,40 647,52 561,52" stroke-linejoin="round" width="102" height="24" fill="rgb(63,191,60)" stroke="rgb(50,152,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1179_32)</title>
+			<polygon class=" (ctg1179_32)" points="673,10 687,40 673,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PIN (PF01850)
+"PIN domain"</title>
+				<polygon class="PF01850" points="673,28 678,28 684,40 678,52 673,52" stroke-linejoin="round" width="13" height="24" fill="rgb(91,217,126)" stroke="rgb(72,173,100)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

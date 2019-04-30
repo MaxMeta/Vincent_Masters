@@ -1,0 +1,23 @@
+#                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Sulf_transp          PF04143.14   310 CS202_c00001_NODE_1_...cluster163_ORF1:gid::pid::loc:2:1079:strand:- -            359   2.5e-29  102.8  25.1   1   1   1.5e-31   1.3e-27   97.1  25.1     2   259    34   281    33   288 0.76 Sulphur transport
+CTP_synth_N          PF06418.14   265 CS202_c00001_NODE_1_...cluster163_ORF1:gid::pid::loc:2:1079:strand:- -            359   4.2e-25   88.6   0.0   1   1   6.3e-29   5.6e-25   88.1   0.0   185   265   279   359   254   359 0.96 CTP synthase N-terminus
+SAF                  PF08666.12    63 CS202_c00001_NODE_1_...cluster163_ORF2:gid::pid::loc:1401:2763:strand:- -            453     3e-07   30.9   0.1   1   1   3.5e-11   6.2e-07   29.9   0.1     1    62   361   425   361   426 0.94 SAF domain
+PhyH                 PF05721.13   211 CS202_c00001_NODE_1_...cluster163_ORF3:gid::pid::loc:2759:3563:strand:- -            267   4.9e-32  111.9   0.0   1   1   3.4e-36   6.1e-32  111.6   0.0     1   210    11   217    11   218 0.88 Phytanoyl-CoA dioxygenase (PhyH)
+ketoacyl-synt        PF00109.26   253 CS202_c00001_NODE_1_...cluster163_ORF4:gid::pid::loc:4061:6119:strand:+ -            685   2.7e-78  263.1   0.4   1   1   7.4e-82   2.7e-78  263.1   0.4     2   253    23   275    22   275 0.93 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.22   118 CS202_c00001_NODE_1_...cluster163_ORF4:gid::pid::loc:4061:6119:strand:+ -            685   6.6e-45  151.9   0.2   1   1   1.9e-47   6.9e-44  148.6   0.1     2   117   284   400   283   401 0.99 Beta-ketoacyl synthase, C-terminal domain
+Acyl_transf_1        PF00698.21   319 CS202_c00001_NODE_1_...cluster163_ORF4:gid::pid::loc:4061:6119:strand:+ -            685   4.6e-32  111.8   0.2   1   1   1.8e-35   6.3e-32  111.3   0.2     2   102   579   681   578   685 0.96 Acyl transferase domain
+KAsynt_C_assoc       PF16197.5    112 CS202_c00001_NODE_1_...cluster163_ORF4:gid::pid::loc:4061:6119:strand:+ -            685   2.6e-12   47.2   0.0   1   1   5.9e-15   2.1e-11   44.3   0.0     1    85   403   515   403   531 0.90 Ketoacyl-synthetase C-terminal extension
+PS-DH                PF14765.6    298 CS202_c00001_NODE_1_...cluster163_ORF5:gid::pid::loc:6182:7787:strand:+ -            535   3.8e-55  187.2   0.9   1   1   6.8e-59   6.1e-55  186.6   0.9     1   276   245   523   245   526 0.87 Polyketide synthase dehydratase
+Acyl_transf_1        PF00698.21   319 CS202_c00001_NODE_1_...cluster163_ORF5:gid::pid::loc:6182:7787:strand:+ -            535   1.4e-15   57.7   0.0   1   1   2.4e-19   2.1e-15   57.0   0.0   138   300    16   180     3   186 0.87 Acyl transferase domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster163.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS202_c00001_NODE_1_...cluster163.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster163.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:43:31 2019
+# [ok]

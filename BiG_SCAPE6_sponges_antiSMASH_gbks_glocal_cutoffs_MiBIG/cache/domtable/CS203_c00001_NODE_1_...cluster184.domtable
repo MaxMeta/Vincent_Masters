@@ -1,0 +1,26 @@
+#                                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DXP_synthase_N       PF13292.6    273 CS203_c00001_NODE_1_...cluster184_ORF1:gid::pid::loc:581:2462:strand:+ -            626  3.9e-115  383.8   0.0   1   1  2.1e-118  9.6e-115  382.5   0.0     1   273    10   281    10   281 0.99 1-deoxy-D-xylulose-5-phosphate synthase
+Transket_pyr         PF02779.24   178 CS203_c00001_NODE_1_...cluster184_ORF1:gid::pid::loc:581:2462:strand:+ -            626   1.1e-35  123.0   0.0   1   1   4.9e-39   2.2e-35  121.9   0.0     2   174   321   482   320   485 0.97 Transketolase, pyrimidine binding domain
+Transketolase_C      PF02780.20   124 CS203_c00001_NODE_1_...cluster184_ORF1:gid::pid::loc:581:2462:strand:+ -            626   6.5e-27   93.9   0.0   1   1   2.9e-30   1.3e-26   92.9   0.0     1   122   498   612   498   614 0.98 Transketolase, C-terminal domain
+TPP_enzyme_C         PF02775.21   153 CS203_c00001_NODE_1_...cluster184_ORF1:gid::pid::loc:581:2462:strand:+ -            626   1.3e-06   28.3   0.3   1   1     1e-09   4.6e-06   26.5   0.2    23    84   115   182   103   187 0.80 Thiamine pyrophosphate enzyme, C-terminal TPP binding domain
+TPP_enzyme_N         PF02776.18   172 CS203_c00001_NODE_1_...cluster184_ORF2:gid::pid::loc:2740:3886:strand:- -            381   4.2e-15   55.8   0.0   1   1   8.2e-19   7.3e-15   55.0   0.0     4   161     4   162     1   171 0.84 Thiamine pyrophosphate enzyme, N-terminal TPP binding domain
+TPP_enzyme_C         PF02775.21   153 CS203_c00001_NODE_1_...cluster184_ORF2:gid::pid::loc:2740:3886:strand:- -            381     1e-12   48.1   1.9   1   1   1.1e-16     1e-12   48.1   1.9    25   123   237   323   216   341 0.85 Thiamine pyrophosphate enzyme, C-terminal TPP binding domain
+PEP_mutase           PF13714.6    239 CS203_c00001_NODE_1_...cluster184_ORF3:gid::pid::loc:3994:5611:strand:- -            538   4.3e-68  229.3   0.0   1   1   6.5e-72   5.9e-68  228.9   0.0     1   238     8   253     8   254 0.94 Phosphoenolpyruvate phosphomutase
+NTP_transf_3         PF12804.7    160 CS203_c00001_NODE_1_...cluster184_ORF3:gid::pid::loc:3994:5611:strand:- -            538   3.3e-13   50.3   0.0   1   1   1.8e-16   1.6e-12   48.0   0.0     1   119   297   412   297   428 0.84 MobA-like NTP transferase domain
+NTP_transf_3         PF12804.7    160 CS203_c00001_NODE_1_...cluster184_ORF4:gid::pid::loc:5798:6533:strand:- -            244     3e-21   76.4   0.0   1   1   5.5e-25   3.3e-21   76.3   0.0     1   110     3   122     3   209 0.85 MobA-like NTP transferase domain
+NTP_transferase      PF00483.23   248 CS203_c00001_NODE_1_...cluster184_ORF4:gid::pid::loc:5798:6533:strand:- -            244     7e-09   35.6   0.0   1   1   1.6e-12   9.6e-09   35.2   0.0     1   117     2   113     2   121 0.82 Nucleotidyl transferase
+IspD                 PF01128.19   221 CS203_c00001_NODE_1_...cluster184_ORF4:gid::pid::loc:5798:6533:strand:- -            244   2.4e-08   34.0   0.1   1   1   5.4e-12   3.2e-08   33.6   0.1     1    71     1    76     1   111 0.75 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+NYN                  PF01936.18   147 CS203_c00001_NODE_1_...cluster184_ORF5:gid::pid::loc:6670:7303:strand:+ -            210   7.7e-07   29.7   0.0   1   1   5.5e-11   9.8e-07   29.4   0.0     2   130     4   152     3   165 0.85 NYN domain
+PGI                  PF00342.19   486 CS203_c00001_NODE_1_...cluster184_ORF6:gid::pid::loc:7576:8857:strand:- -            426  7.8e-149  496.4   0.0   1   1  5.9e-153  1.1e-148  495.9   0.0    63   485    10   416     5   417 0.98 Phosphoglucose isomerase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS203_c00001_NODE_1_...cluster184.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS203_c00001_NODE_1_...cluster184.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS203_c00001_NODE_1_...cluster184.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:37:18 2019
+# [ok]

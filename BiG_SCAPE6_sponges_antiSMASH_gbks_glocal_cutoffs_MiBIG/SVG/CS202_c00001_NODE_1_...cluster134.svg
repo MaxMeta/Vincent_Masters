@@ -1,0 +1,119 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="509.3" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="499.3" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg3504_1)</title>
+			<polygon class=" (ctg3504_1)" points="10,40 22,10 22,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3504_2)</title>
+			<polygon class=" (ctg3504_2)" points="83,25 56,25 56,10 26,40 56,70 56,55 83,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3504_3)</title>
+			<polygon class=" (ctg3504_3)" points="94,25 98,25 98,10 128,40 98,70 98,55 94,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_11 (PF08241)
+"Methyltransferase domain"</title>
+				<polygon class="PF08241" points="104,28 112,28 113,29 113,51 112,52 104,52" stroke-linejoin="round" width="9" height="24" fill="rgb(106,219,159)" stroke="rgb(84,175,127)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Sterol_MT_C (PF08498)
+"Sterol methyltransferase C-terminal"</title>
+				<polygon class="PF08498" points="121,37 124,40 121,43" stroke-linejoin="round" width="6" height="24" fill="rgb(65,219,176)" stroke="rgb(52,175,140)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3504_4)</title>
+			<polygon class=" (ctg3504_4)" points="128,10 146,40 128,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ERG2_Sigma1R (PF04622)
+"ERG2 and Sigma1 receptor like protein"</title>
+				<polygon class="PF04622" points="128,28 135,28 143,40 135,52 128,52" stroke-linejoin="round" width="18" height="24" fill="rgb(213,206,93)" stroke="rgb(170,164,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3504_5)</title>
+			<polygon class=" (ctg3504_5)" points="150,25 158,25 158,10 188,40 158,70 158,55 150,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Epimerase (PF01370)
+"NAD dependent epimerase/dehydratase family"</title>
+				<polygon class="PF01370" points="152,28 172,28 175,31 175,49 172,52 152,52" stroke-linejoin="round" width="23" height="24" fill="rgb(98,102,214)" stroke="rgb(78,81,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3504_6)</title>
+			<polygon class=" (ctg3504_6)" points="188,25 195,25 195,10 225,40 195,70 195,55 188,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Rieske (PF00355)
+"Rieske [2Fe-2S] domain"</title>
+				<rect class="PF00355" x="192" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(186,77,145)" stroke="rgb(148,61,115)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3504_7)</title>
+			<polygon class=" (ctg3504_7)" points="225,25 231,25 231,10 261,40 231,70 231,55 225,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ERG4_ERG24 (PF01222)
+"Ergosterol biosynthesis ERG4/ERG24 family"</title>
+				<polygon class="PF01222" points="225,28 245,28 257,40 245,52 225,52" stroke-linejoin="round" width="35" height="24" fill="rgb(99,195,207)" stroke="rgb(79,155,165)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3504_8)</title>
+			<polygon class=" (ctg3504_8)" points="263,25 280,25 280,10 310,40 280,70 280,55 263,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="265,28 293,28 305,40 293,52 265,52" stroke-linejoin="round" width="43" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3504_9)</title>
+			<polygon class=" (ctg3504_9)" points="309,25 390,25 390,10 420,40 390,70 390,55 309,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FAD_binding_3 (PF01494)
+"FAD binding domain"</title>
+				<rect class="PF01494" x="309" y="28" stroke-linejoin="round" width="30" height="24" fill="rgb(182,175,59)" stroke="rgb(145,140,47)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SQHop_cyclase_N (PF13249)
+"Squalene-hopene cyclase N-terminal domain"</title>
+				<rect class="PF13249" x="356" y="28" stroke-linejoin="round" width="29" height="24" fill="rgb(88,190,89)" stroke="rgb(70,152,71)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SQHop_cyclase_C (PF13243)
+"Squalene-hopene cyclase C-terminal domain"</title>
+				<polygon class="PF13243" points="387,28 404,28 416,40 404,52 387,52" stroke-linejoin="round" width="32" height="24" fill="rgb(191,58,201)" stroke="rgb(152,46,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3504_10)</title>
+			<polygon class=" (ctg3504_10)" points="481,25 453,25 453,10 423,40 453,70 453,55 481,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>tRNA-synt_2 (PF00152)
+"tRNA synthetases class II (D, K and N)"</title>
+				<polygon class="PF00152" points="427,40 439,28 468,28 468,52 439,52" stroke-linejoin="round" width="43" height="24" fill="rgb(90,71,190)" stroke="rgb(72,56,152)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>tRNA_anti-codon (PF01336)
+"OB-fold nucleic acid binding domain"</title>
+				<rect class="PF01336" x="471" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(215,103,173)" stroke="rgb(172,82,138)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3504_11)</title>
+			<polygon class=" (ctg3504_11)" points="481,40 499,10 499,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HGTP_anticodon (PF03129)
+"Anticodon binding domain"</title>
+				<polygon class="PF03129" points="484,40 491,28 491,28 491,52 491,52" stroke-linejoin="round" width="9" height="24" fill="rgb(115,202,95)" stroke="rgb(92,161,76)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>tRNA-synt_His (PF13393)
+"Histidyl-tRNA synthetase"</title>
+				<rect class="PF13393" x="493" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(106,63,202)" stroke="rgb(84,50,161)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,35 @@
+#                                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                       accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                             -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+p450                 PF00067.22   463 BGC0000012.1_ORF1:gid:alt1:pid:BAD83680.1:loc:1892:3696:strand:- -            524   1.2e-46  159.4   0.0   1   1   9.1e-50   1.6e-45  155.7   0.0    82   462   139   519   131   520 0.93 Cytochrome P450
+p450                 PF00067.22   463 BGC0000012.1_ORF2:gid:alt2:pid:BAD83681.1:loc:4087:5701:strand:- -            537   5.7e-55  186.9   0.0   1   1   4.4e-59   7.9e-55  186.4   0.0    36   436    82   498    61   519 0.86 Cytochrome P450
+p450                 PF00067.22   463 BGC0000012.1_ORF3:gid:alt3:pid:BAD83682.1:loc:6090:7740:strand:- -            509   2.4e-66  224.4   0.0   1   1   1.7e-70     3e-66  224.0   0.0     4   462    56   500    53   501 0.88 Cytochrome P450
+FAD_binding_4        PF01565.23   139 BGC0000012.1_ORF4:gid:alt4:pid:BAD83683.1:loc:8579:10221:strand:+ -            482   1.1e-17   64.1   0.1   1   1   1.6e-19   1.4e-15   57.3   0.0     3   136    59   177    57   180 0.88 FAD binding domain
+BBE                  PF08031.12    46 BGC0000012.1_ORF4:gid:alt4:pid:BAD83683.1:loc:8579:10221:strand:+ -            482   1.9e-05   24.6   0.1   1   1   5.9e-09   5.3e-05   23.2   0.1    23    43   457   477   431   479 0.79 Berberine and berberine like
+ketoacyl-synt        PF00109.26   253 BGC0000012.1_ORF5:gid:alt5:pid:BAD83684.1:loc:11260:19092:strand:+ -           2551   5.7e-71  239.1   0.0   1   1     1e-73   1.1e-70  238.2   0.0     2   253     3   253     2   253 0.96 Beta-ketoacyl synthase, N-terminal domain
+KR                   PF08659.10   180 BGC0000012.1_ORF5:gid:alt5:pid:BAD83684.1:loc:11260:19092:strand:+ -           2551   4.5e-55  186.4   0.2   1   1     4e-57   4.2e-54  183.2   0.0     1   178  2189  2366  2189  2368 0.98 KR domain
+PS-DH                PF14765.6    298 BGC0000012.1_ORF5:gid:alt5:pid:BAD83684.1:loc:11260:19092:strand:+ -           2551   6.6e-53  179.9   0.0   1   1   1.2e-55   1.3e-52  179.0   0.0     2   295   961  1275   960  1278 0.91 Polyketide synthase dehydratase
+Acyl_transf_1        PF00698.21   319 BGC0000012.1_ORF5:gid:alt5:pid:BAD83684.1:loc:11260:19092:strand:+ -           2551   4.8e-50  170.9   0.5   1   1   7.3e-53   7.7e-50  170.2   0.5     2   311   582   905   581   913 0.90 Acyl transferase domain
+Ketoacyl-synt_C      PF02801.22   118 BGC0000012.1_ORF5:gid:alt5:pid:BAD83684.1:loc:11260:19092:strand:+ -           2551   2.1e-36  124.5   0.2   1   1   4.5e-39   4.8e-36  123.4   0.2     2   116   262   377   261   379 0.97 Beta-ketoacyl synthase, C-terminal domain
+Methyltransf_12      PF08242.12    99 BGC0000012.1_ORF5:gid:alt5:pid:BAD83684.1:loc:11260:19092:strand:+ -           2551   2.2e-19   70.0   0.0   1   1   7.8e-22   8.2e-19   68.2   0.0     1    99  1460  1566  1460  1566 0.88 Methyltransferase domain
+ADH_zinc_N_2         PF13602.6    133 BGC0000012.1_ORF5:gid:alt5:pid:BAD83684.1:loc:11260:19092:strand:+ -           2551     1e-16   62.2   0.0   1   1   6.2e-19   6.5e-16   59.6   0.0     4   133  2028  2166  2026  2166 0.85 Zinc-binding dehydrogenase
+KAsynt_C_assoc       PF16197.5    112 BGC0000012.1_ORF5:gid:alt5:pid:BAD83684.1:loc:11260:19092:strand:+ -           2551   6.4e-16   58.8   0.1   1   1   4.7e-17   4.9e-14   52.7   0.1     2   112   382   552   382   552 0.82 Ketoacyl-synthetase C-terminal extension
+Methyltransf_23      PF13489.6    165 BGC0000012.1_ORF5:gid:alt5:pid:BAD83684.1:loc:11260:19092:strand:+ -           2551   1.2e-13   51.2   0.0   1   1   2.4e-16   2.5e-13   50.2   0.0    17   163  1450  1619  1432  1621 0.76 Methyltransferase domain
+ADH_zinc_N           PF00107.26   130 BGC0000012.1_ORF5:gid:alt5:pid:BAD83684.1:loc:11260:19092:strand:+ -           2551   3.3e-13   49.7   0.0   1   1   1.7e-15   1.8e-12   47.4   0.0     1   116  1990  2109  1990  2128 0.86 Zinc-binding dehydrogenase
+Methyltransf_25      PF13649.6     97 BGC0000012.1_ORF5:gid:alt5:pid:BAD83684.1:loc:11260:19092:strand:+ -           2551   6.6e-13   49.2   0.0   1   1   5.8e-15   6.1e-12   46.1   0.0     1    97  1459  1564  1459  1564 0.90 Methyltransferase domain
+Methyltransf_31      PF13847.6    152 BGC0000012.1_ORF5:gid:alt5:pid:BAD83684.1:loc:11260:19092:strand:+ -           2551   5.1e-12   45.8   0.0   1   1   1.6e-14   1.7e-11   44.1   0.0     3   113  1455  1572  1453  1594 0.88 Methyltransferase domain
+Methyltransf_11      PF08241.12    96 BGC0000012.1_ORF5:gid:alt5:pid:BAD83684.1:loc:11260:19092:strand:+ -           2551   5.6e-11   43.0   0.0   1   1   2.8e-13   2.9e-10   40.6   0.0     1    96  1460  1568  1460  1568 0.83 Methyltransferase domain
+PP-binding           PF00550.25    67 BGC0000012.1_ORF5:gid:alt5:pid:BAD83684.1:loc:11260:19092:strand:+ -           2551   2.6e-07   30.9   0.0   1   1   8.4e-10   8.8e-07   29.2   0.0     2    57  2475  2530  2474  2538 0.93 Phosphopantetheine attachment site
+Thiolase_N           PF00108.23   260 BGC0000012.1_ORF5:gid:alt5:pid:BAD83684.1:loc:11260:19092:strand:+ -           2551   1.9e-07   30.7   0.3   1   1   1.5e-09   1.6e-06   27.7   0.0    77   115   167   205   161   212 0.94 Thiolase, N-terminal domain
+adh_short            PF00106.25   195 BGC0000012.1_ORF5:gid:alt5:pid:BAD83684.1:loc:11260:19092:strand:+ -           2551   2.8e-07   30.2   0.1   1   1   3.4e-09   3.6e-06   26.6   0.0     6   151  2193  2339  2189  2350 0.90 short chain dehydrogenase
+ADH_N                PF08240.12   109 BGC0000012.1_ORF5:gid:alt5:pid:BAD83684.1:loc:11260:19092:strand:+ -           2551   5.7e-06   26.2   0.2   1   1   1.7e-08   1.8e-05   24.5   0.2     2    61  1873  1927  1872  1935 0.88 Alcohol dehydrogenase GroES-like domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000012.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000012.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000012.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:49:06 2019
+# [ok]

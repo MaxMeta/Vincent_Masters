@@ -1,0 +1,178 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="619.5666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="609.5666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg2217_6)</title>
+			<polygon class=" (ctg2217_6)" points="17,25 26,25 26,10 56,40 26,70 26,55 17,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HD (PF01966)
+"HD domain"</title>
+				<rect class="PF01966" x="24" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(92,193,119)" stroke="rgb(73,154,95)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HD_assoc (PF13286)
+"Phosphohydrolase-associated domain"</title>
+				<polygon class="PF13286" points="46,34 52,40 46,46" stroke-linejoin="round" width="9" height="24" fill="rgb(228,104,121)" stroke="rgb(182,83,96)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2217_7)</title>
+			<polygon class=" (ctg2217_7)" points="62,25 89,25 89,10 119,40 89,70 89,55 62,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>zf-CHC2 (PF01807)
+"CHC2 zinc finger"</title>
+				<rect class="PF01807" x="62" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(76,201,77)" stroke="rgb(60,160,61)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Toprim_N (PF08275)
+"DNA primase catalytic core, N-terminal domain"</title>
+				<rect class="PF08275" x="74" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(118,218,88)" stroke="rgb(94,174,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Toprim_2 (PF13155)
+"Toprim-like"</title>
+				<rect class="PF13155" x="87" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(98,107,198)" stroke="rgb(78,85,158)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DnaB_bind (PF10410)
+"DnaB-helicase binding domain of primase"</title>
+				<polygon class="PF10410" points="98,28 102,28 103,29 103,51 102,52 98,52" stroke-linejoin="round" width="5" height="24" fill="rgb(68,208,101)" stroke="rgb(54,166,80)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DnaG_DnaB_bind (PF08278)
+"DNA primase DnaG DnaB-binding"</title>
+				<polygon class="PF08278" points="106,32 114,40 106,48" stroke-linejoin="round" width="12" height="24" fill="rgb(81,126,212)" stroke="rgb(64,100,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2217_8)</title>
+			<polygon class=" (ctg2217_8)" points="125,25 157,25 157,10 187,40 157,70 157,55 125,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Sigma70_r1_1 (PF03979)
+"Sigma-70 factor, region 1.1"</title>
+				<rect class="PF03979" x="127" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(181,49,100)" stroke="rgb(144,39,80)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Sigma70_r1_2 (PF00140)
+"Sigma-70 factor, region 1.2"</title>
+				<rect class="PF00140" x="136" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(210,210,74)" stroke="rgb(168,168,59)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Sigma70_ner (PF04546)
+"Sigma-70, non-essential region"</title>
+				<rect class="PF04546" x="140" y="28" stroke-linejoin="round" width="20" height="24" fill="rgb(96,159,211)" stroke="rgb(76,127,168)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Sigma70_r2 (PF04542)
+"Sigma-70 region 2"</title>
+				<rect class="PF04542" x="163" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(184,59,197)" stroke="rgb(147,47,157)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Sigma70_r3 (PF04539)
+"Sigma-70 region 3"</title>
+				<polygon class="PF04539" points="171,28 171,28 178,35 178,45 171,52 171,52" stroke-linejoin="round" width="7" height="24" fill="rgb(66,187,131)" stroke="rgb(52,149,104)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Sigma70_r4 (PF04545)
+"Sigma-70, region 4"</title>
+				<polygon class="PF04545" points="180,37 183,40 180,43" stroke-linejoin="round" width="5" height="24" fill="rgb(75,207,224)" stroke="rgb(60,165,179)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2217_9)</title>
+			<polygon class=" (ctg2217_9)" points="191,40 212,10 212,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>rve_3 (PF13683)
+"Integrase core domain"</title>
+				<polygon class="PF13683" points="201,32 204,28 207,28 207,52 204,52 201,48" stroke-linejoin="round" width="6" height="24" fill="rgb(75,178,160)" stroke="rgb(60,142,128)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2217_10)</title>
+			<polygon class=" (ctg2217_10)" points="228,10 234,40 228,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2217_11)</title>
+			<polygon class=" (ctg2217_11)" points="258,40 267,10 267,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2217_12)</title>
+			<polygon class=" (ctg2217_12)" points="268,10 272,40 268,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2217_13)</title>
+			<polygon class=" (ctg2217_13)" points="272,40 296,10 296,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2217_14)</title>
+			<polygon class=" (ctg2217_14)" points="307,25 311,25 311,10 341,40 311,70 311,55 307,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_11 (PF08241)
+"Methyltransferase domain"</title>
+				<polygon class="PF08241" points="316,28 324,28 325,29 325,51 324,52 316,52" stroke-linejoin="round" width="9" height="24" fill="rgb(106,219,159)" stroke="rgb(84,175,127)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Sterol_MT_C (PF08498)
+"Sterol methyltransferase C-terminal"</title>
+				<polygon class="PF08498" points="334,38 336,40 334,42" stroke-linejoin="round" width="6" height="24" fill="rgb(65,219,176)" stroke="rgb(52,175,140)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2217_15)</title>
+			<polygon class=" (ctg2217_15)" points="401,25 373,25 373,10 343,40 373,70 373,55 401,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQHop_cyclase_C (PF13243)
+"Squalene-hopene cyclase C-terminal domain"</title>
+				<polygon class="PF13243" points="347,40 359,28 378,28 378,52 359,52" stroke-linejoin="round" width="32" height="24" fill="rgb(191,58,201)" stroke="rgb(152,46,160)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SQHop_cyclase_N (PF13249)
+"Squalene-hopene cyclase N-terminal domain"</title>
+				<rect class="PF13249" x="380" y="28" stroke-linejoin="round" width="21" height="24" fill="rgb(88,190,89)" stroke="rgb(70,152,71)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2217_16)</title>
+			<polygon class=" (ctg2217_16)" points="412,10 422,40 412,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2217_17)</title>
+			<polygon class=" (ctg2217_17)" points="421,10 431,40 421,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2217_18)</title>
+			<polygon class=" (ctg2217_18)" points="438,10 458,40 438,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2217_19)</title>
+			<polygon class=" (ctg2217_19)" points="506,25 487,25 487,10 457,40 487,70 487,55 506,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="461,40 473,28 501,28 501,52 473,52" stroke-linejoin="round" width="43" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2217_20)</title>
+			<polygon class=" (ctg2217_20)" points="541,25 535,25 535,10 505,40 535,70 535,55 541,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ERG4_ERG24 (PF01222)
+"Ergosterol biosynthesis ERG4/ERG24 family"</title>
+				<polygon class="PF01222" points="509,40 521,28 538,28 538,52 521,52" stroke-linejoin="round" width="33" height="24" fill="rgb(99,195,207)" stroke="rgb(79,155,165)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2217_21)</title>
+			<polygon class=" (ctg2217_21)" points="577,25 571,25 571,10 541,40 571,70 571,55 577,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Rieske (PF00355)
+"Rieske [2Fe-2S] domain"</title>
+				<rect class="PF00355" x="565" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(186,77,145)" stroke="rgb(148,61,115)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2217_22)</title>
+			<polygon class=" (ctg2217_22)" points="577,40 600,10 600,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,19 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Trp_halogenase       PF04820.14   454 CS200_c00001_NODE_1_...cluster211_ORF1:gid::pid::loc:0:327:strand:- -            109   1.6e-17   63.5   0.0   1   1   9.7e-22   1.7e-17   63.4   0.0     1    93    11   105    11   109 0.96 Tryptophan halogenase
+LolA_like            PF17131.4    183 CS200_c00001_NODE_1_...cluster211_ORF3:gid::pid::loc:1617:2490:strand:- -            290   9.9e-57  191.6   0.1   1   1   1.4e-60   1.2e-56  191.3   0.1     2   183   105   288   104   288 0.98 Outer membrane lipoprotein-sorting protein
+DUF1329              PF07044.11   364 CS200_c00001_NODE_1_...cluster211_ORF3:gid::pid::loc:1617:2490:strand:- -            290   1.2e-08   34.7   1.9   1   1   9.2e-10   8.2e-06   25.3   0.1   143   206   108   166    82   182 0.82 Protein of unknown function (DUF1329)
+NHase_alpha          PF02979.16   184 CS200_c00001_NODE_1_...cluster211_ORF4:gid::pid::loc:2752:3004:strand:+ -             83     1e-08   34.7   0.1   1   1   3.5e-11   6.2e-07   28.9   0.0   115   168    19    73    14    80 0.91 Nitrile hydratase, alpha chain
+YcaO                 PF02624.16   323 CS200_c00001_NODE_1_...cluster211_ORF6:gid::pid::loc:4266:6585:strand:- -            772   8.1e-91  304.7   0.5   1   1   6.6e-95   1.2e-90  304.1   0.5     2   323   399   735   398   735 0.87 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+NHase_alpha          PF02979.16   184 CS200_c00001_NODE_1_...cluster211_ORF7:gid::pid::loc:6604:7912:strand:- -            435     1e-07   31.5   0.0   1   1   1.2e-11   2.2e-07   30.4   0.0   113   166    17    71    14    78 0.92 Nitrile hydratase, alpha chain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS200_c00001_NODE_1_...cluster211.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS200_c00001_NODE_1_...cluster211.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS200_c00001_NODE_1_...cluster211.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:36:09 2019
+# [ok]

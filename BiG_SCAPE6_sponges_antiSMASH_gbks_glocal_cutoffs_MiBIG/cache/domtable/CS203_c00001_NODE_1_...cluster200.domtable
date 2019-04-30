@@ -1,0 +1,22 @@
+#                                                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NHase_alpha          PF02979.16   184 CS203_c00001_NODE_1_...cluster200_ORF1:gid::pid::loc:238:508:strand:+ -             89   3.6e-18   65.5   0.4   1   2   3.1e-13   5.6e-09   35.6   0.1    43    93    11    61     1    63 0.88 Nitrile hydratase, alpha chain
+NHase_alpha          PF02979.16   184 CS203_c00001_NODE_1_...cluster200_ORF1:gid::pid::loc:238:508:strand:+ -             89   3.6e-18   65.5   0.4   2   2   9.8e-13   1.7e-08   34.0   0.0    48   158    16    63    14    79 0.56 Nitrile hydratase, alpha chain
+YcaO                 PF02624.16   323 CS203_c00001_NODE_1_...cluster200_ORF2:gid::pid::loc:573:2820:strand:+ -            748   9.6e-95  317.6   0.8   1   1   8.1e-99   1.4e-94  317.0   0.8     2   323   380   711   379   711 0.90 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+Trp_halogenase       PF04820.14   454 CS203_c00001_NODE_1_...cluster200_ORF3:gid::pid::loc:2883:4137:strand:+ -            417     2e-40  139.0   0.0   1   2   6.8e-19   1.2e-14   54.0   0.1     1    92     2    93     2    96 0.96 Tryptophan halogenase
+Trp_halogenase       PF04820.14   454 CS203_c00001_NODE_1_...cluster200_ORF3:gid::pid::loc:2883:4137:strand:+ -            417     2e-40  139.0   0.0   2   2     1e-27   1.8e-23   83.1   0.0   146   402    96   343    93   359 0.86 Tryptophan halogenase
+VWA                  PF00092.28   175 CS203_c00001_NODE_1_...cluster200_ORF4:gid::pid::loc:4162:6373:strand:- -            736   1.6e-22   80.6   0.0   1   1   1.4e-24   6.4e-21   75.4   0.0     2   172   271   430   270   432 0.96 von Willebrand factor type A domain
+VWA_3                PF13768.6    155 CS203_c00001_NODE_1_...cluster200_ORF4:gid::pid::loc:4162:6373:strand:- -            736   1.3e-16   61.0   0.1   1   2   3.3e-05      0.15   12.0   0.0    81   139     3    57     1    63 0.81 von Willebrand factor type A domain
+VWA_3                PF13768.6    155 CS203_c00001_NODE_1_...cluster200_ORF4:gid::pid::loc:4162:6373:strand:- -            736   1.3e-16   61.0   0.1   2   2   7.6e-16   3.4e-12   46.6   0.1     3   154   271   419   269   420 0.89 von Willebrand factor type A domain
+VWA_2                PF13519.6    107 CS203_c00001_NODE_1_...cluster200_ORF4:gid::pid::loc:4162:6373:strand:- -            736   1.7e-13   51.2   0.1   1   1   1.6e-15   7.3e-12   45.9   0.0     1   106   271   372   271   373 0.94 von Willebrand factor type A domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS203_c00001_NODE_1_...cluster200.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS203_c00001_NODE_1_...cluster200.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS203_c00001_NODE_1_...cluster200.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:46:35 2019
+# [ok]

@@ -1,0 +1,311 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="674.4" height="160">
+	<g>
+		<line x1="10" y1="40.0" x2="664.4" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>snogH
+SnogH</title>
+			<polygon class="snogH
+SnogH" points="63,25 45,25 45,10 15,40 45,70 45,55 63,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Hexose_dehydrat (PF03559)
+"NDP-hexose 2,3-dehydratase"</title>
+				<polygon class="PF03559" points="19,40 31,28 36,28 36,52 31,52" stroke-linejoin="round" width="20" height="24" fill="rgb(74,201,66)" stroke="rgb(59,160,52)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Hexose_dehydrat (PF03559)
+"NDP-hexose 2,3-dehydratase"</title>
+				<rect class="PF03559" x="39" y="28" stroke-linejoin="round" width="20" height="24" fill="rgb(74,201,66)" stroke="rgb(59,160,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>snogG
+SnogG</title>
+			<polygon class="snogG
+SnogG" points="95,25 93,25 93,10 63,40 93,70 93,55 95,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Epimerase (PF01370)
+"NAD dependent epimerase/dehydratase family"</title>
+				<polygon class="PF01370" points="72,35 79,28 94,28 94,52 79,52 72,45" stroke-linejoin="round" width="22" height="24" fill="rgb(98,102,214)" stroke="rgb(78,81,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>snogF
+SnogF</title>
+			<polygon class="snogF
+SnogF" points="96,40 116,10 116,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>dTDP_sugar_isom (PF00908)
+"dTDP-4-dehydrorhamnose 3,5-epimerase"</title>
+				<polygon class="PF00908" points="100,40 108,28 115,28 115,52 108,52" stroke-linejoin="round" width="17" height="24" fill="rgb(184,89,121)" stroke="rgb(147,71,96)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>snoaE
+SnoaE</title>
+			<polygon class="snoaE
+SnoaE" points="150,25 148,25 148,10 118,40 148,70 148,55 150,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Polyketide_cyc2 (PF10604)
+"Polyketide cyclase / dehydrase and lipid transport"</title>
+				<polygon class="PF10604" points="122,40 133,29 133,51" stroke-linejoin="round" width="15" height="24" fill="rgb(105,204,74)" stroke="rgb(84,163,59)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Polyketide_cyc2 (PF10604)
+"Polyketide cyclase / dehydrase and lipid transport"</title>
+				<rect class="PF10604" x="135" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(105,204,74)" stroke="rgb(84,163,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>snoaD
+SnoaD</title>
+			<polygon class="snoaD
+SnoaD" points="152,40 178,10 178,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short (PF00106)
+"short chain dehydrogenase"</title>
+				<polygon class="PF00106" points="157,39 167,28 176,28 176,52 167,52 157,41" stroke-linejoin="round" width="19" height="24" fill="rgb(182,219,73)" stroke="rgb(145,175,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>snoaC
+SnoaC</title>
+			<polygon class="snoaC
+SnoaC" points="187,10 215,40 187,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_25 (PF13649)
+"Methyltransferase domain"</title>
+				<polygon class="PF13649" points="191,28 199,28 200,28 200,52 199,52 191,52" stroke-linejoin="round" width="9" height="24" fill="rgb(227,135,74)" stroke="rgb(181,108,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>_snoaB
+SnoaB</title>
+			<polygon class="_snoaB
+SnoaB" points="217,40 228,10 228,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABM (PF03992)
+"Antibiotic biosynthesis monooxygenase"</title>
+				<polygon class="PF03992" points="220,40 225,28 227,28 227,52 225,52 220,40" stroke-linejoin="round" width="7" height="24" fill="rgb(193,84,127)" stroke="rgb(154,67,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>snorA
+Snora</title>
+			<polygon class="snorA
+Snora" points="298,25 262,25 262,10 232,40 262,70 262,55 298,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BTAD (PF03704)
+"Bacterial transcriptional activator domain"</title>
+				<rect class="PF03704" x="271" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(217,89,196)" stroke="rgb(173,71,156)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Trans_reg_C (PF00486)
+"Transcriptional regulatory protein, C terminal"</title>
+				<rect class="PF00486" x="286" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(204,153,57)" stroke="rgb(163,122,45)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>snoa1
+Snoa1</title>
+			<polygon class="snoa1
+Snoa1" points="324,25 337,25 337,10 367,40 337,70 337,55 324,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="324" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<polygon class="PF02801" points="350,28 350,28 361,39 361,41 350,52 350,52" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>snoa2
+Snoa2</title>
+			<polygon class="snoa2
+Snoa2" points="367,25 378,25 378,10 408,40 378,70 378,55 367,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="367" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<polygon class="PF02801" points="392,29 403,40 403,40 392,51" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>snoa3
+Snoa3</title>
+			<polygon class="snoa3
+Snoa3" points="410,10 418,40 410,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="410,28 411,28 415,40 411,52 410,52" stroke-linejoin="round" width="7" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>snogX
+SnogX</title>
+			<polygon class="snogX
+SnogX" points="419,10 443,40 419,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_25 (PF13649)
+"Methyltransferase domain"</title>
+				<polygon class="PF13649" points="423,28 430,28 432,31 432,49 430,52 423,52" stroke-linejoin="round" width="9" height="24" fill="rgb(227,135,74)" stroke="rgb(181,108,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>snogY
+SnogY</title>
+			<polygon class="snogY
+SnogY" points="480,25 476,25 476,10 446,40 476,70 476,55 480,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_24 (PF13578)
+"Methyltransferase domain"</title>
+				<polygon class="PF13578" points="454,36 462,28 466,28 466,52 462,52 454,44" stroke-linejoin="round" width="12" height="24" fill="rgb(106,221,159)" stroke="rgb(84,176,127)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>snogZ
+SnogZ</title>
+			<polygon class="snogZ
+SnogZ" points="495,25 506,25 506,10 536,40 506,70 506,55 495,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1205 (PF06722)
+"Protein of unknown function (DUF1205)"</title>
+				<polygon class="PF06722" points="514,28 519,28 524,33 524,47 519,52 514,52" stroke-linejoin="round" width="10" height="24" fill="rgb(200,129,88)" stroke="rgb(160,103,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>snorO
+SnorO</title>
+			<polygon class="snorO
+SnorO" points="615,25 567,25 567,10 537,40 567,70 567,55 615,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="546,35 553,28 566,28 566,52 553,52 546,45" stroke-linejoin="round" width="20" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>snoP
+SnoP</title>
+			<polygon class="snoP
+SnoP" points="623,25 628,25 628,10 658,40 628,70 628,55 623,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BPL_LplA_LipB (PF03099)
+"Biotin/lipoate A/B protein ligase family"</title>
+				<polygon class="PF03099" points="637,28 642,28 649,35 649,45 642,52 637,52" stroke-linejoin="round" width="12" height="24" fill="rgb(228,147,105)" stroke="rgb(182,117,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="120.0" x2="545.5" y2="120.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>snoN
+SnoN</title>
+			<polygon class="snoN
+SnoN" points="10,120 29,90 29,150" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>snoaF
+C-7 ketoreductase</title>
+			<polygon class="snoaF
+C-7 ketoreductase" points="31,120 59,90 59,150" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>snoO
+SnoO</title>
+			<polygon class="snoO
+SnoO" points="62,120 77,90 77,150" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>snoL
+SnoL</title>
+			<polygon class="snoL
+SnoL" points="85,90 99,120 85,150" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>snogE
+putative glycosyl transferase</title>
+			<polygon class="snogE
+putative glycosyl transferase" points="144,105 131,105 131,90 101,120 131,150 131,135 144,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>snoaW
+putative hydroxylase</title>
+			<polygon class="snoaW
+putative hydroxylase" points="146,120 173,90 173,150" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>snogD
+putative glycosyl transferase</title>
+			<polygon class="snogD
+putative glycosyl transferase" points="178,105 187,105 187,90 217,120 187,150 187,135 178,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>snoK
+SnoK</title>
+			<polygon class="snoK
+SnoK" points="219,120 245,90 245,150" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>snoaL
+nogalonic acid methyl ester cyclase</title>
+			<polygon class="snoaL
+nogalonic acid methyl ester cyclase" points="247,120 260,90 260,150" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>snogK
+putative dTDP-glucose-4,6-dehydratase</title>
+			<polygon class="snogK
+putative dTDP-glucose-4,6-dehydratase" points="268,105 273,105 273,90 303,120 273,150 273,135 268,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>snogC
+putative dTDP-4-dehydrorhamnose reductase</title>
+			<polygon class="snogC
+putative dTDP-4-dehydrorhamnose reductase" points="305,90 334,120 305,150" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>snoG
+SnoG</title>
+			<polygon class="snoG
+SnoG" points="375,105 363,105 363,90 333,120 363,150 363,135 375,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>snogN
+SnogN</title>
+			<polygon class="snogN
+SnogN" points="418,105 408,105 408,90 378,120 408,150 408,135 418,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>snoaM
+putative polyketide cyclase</title>
+			<polygon class="snoaM
+putative polyketide cyclase" points="418,105 420,105 420,90 450,120 420,150 420,135 418,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>snogA
+putative amino methylase</title>
+			<polygon class="snogA
+putative amino methylase" points="451,90 474,120 451,150" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>snogJ
+putative dTDP-glucose synthase</title>
+			<polygon class="snogJ
+putative dTDP-glucose synthase" points="476,120 505,90 505,150" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>snogI
+putative aminotransferase</title>
+			<polygon class="snogI
+putative aminotransferase" points="511,105 515,105 515,90 545,120 515,150 515,135 511,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

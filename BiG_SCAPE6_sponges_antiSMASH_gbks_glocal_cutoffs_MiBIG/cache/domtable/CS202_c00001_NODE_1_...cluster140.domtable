@@ -1,0 +1,29 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Lactamase_B          PF00753.27   197 CS202_c00001_NODE_1_...cluster140_ORF1:gid::pid::loc:1:598:strand:- -            199   5.1e-29  101.7   0.5   1   1   3.3e-33     6e-29  101.5   0.5     7   172    25   195    19   198 0.95 Metallo-beta-lactamase superfamily
+AMP-binding          PF00501.28   423 CS202_c00001_NODE_1_...cluster140_ORF2:gid::pid::loc:811:3289:strand:+ -            825   7.1e-98  328.0   0.0   1   1    2e-101   8.9e-98  327.6   0.0     2   422     9   420     8   421 0.84 AMP-binding enzyme
+Acyltransferase      PF01553.21   135 CS202_c00001_NODE_1_...cluster140_ORF2:gid::pid::loc:811:3289:strand:+ -            825   1.5e-14   53.7   0.0   1   1   5.5e-18   2.5e-14   53.1   0.0     1   134   646   776   646   777 0.92 Acyltransferase
+PP-binding           PF00550.25    67 CS202_c00001_NODE_1_...cluster140_ORF2:gid::pid::loc:811:3289:strand:+ -            825   5.4e-08   33.1   0.2   1   1   2.8e-11   1.3e-07   31.9   0.2     3    66   540   604   538   605 0.92 Phosphopantetheine attachment site
+Semialdhyde_dh       PF01118.24   121 CS202_c00001_NODE_1_...cluster140_ORF3:gid::pid::loc:3431:4460:strand:- -            342   1.7e-23   83.3   0.0   1   1   3.5e-27   3.2e-23   82.5   0.0     1   121     2   141     2   141 0.90 Semialdehyde dehydrogenase, NAD binding domain
+Semialdhyde_dhC      PF02774.18   184 CS202_c00001_NODE_1_...cluster140_ORF3:gid::pid::loc:3431:4460:strand:- -            342   5.6e-21   75.4   0.1   1   1   1.4e-24   1.2e-20   74.4   0.1     1   184   158   313   158   313 0.93 Semialdehyde dehydrogenase, dimerisation domain
+BacA                 PF02673.18   256 CS202_c00001_NODE_1_...cluster140_ORF4:gid::pid::loc:4571:5444:strand:- -            290   9.9e-82  274.5  14.2   1   1   6.7e-86   1.2e-81  274.2  14.2     1   255    23   281    23   282 0.91 Bacitracin resistance protein BacA
+Inositol_P           PF00459.25   272 CS202_c00001_NODE_1_...cluster140_ORF5:gid::pid::loc:5839:6625:strand:- -            261   2.9e-56  191.0   0.1   1   1   2.1e-60   3.7e-56  190.6   0.1     6   255     6   243     2   257 0.93 Inositol monophosphatase family
+AXE1                 PF05448.12   317 CS202_c00001_NODE_1_...cluster140_ORF6:gid::pid::loc:6807:8913:strand:- -            701   2.7e-13   49.3   0.0   1   2   1.9e-09   1.7e-05   23.6   0.0    56   204    85   244    75   273 0.74 Acetyl xylan esterase (AXE1)
+AXE1                 PF05448.12   317 CS202_c00001_NODE_1_...cluster140_ORF6:gid::pid::loc:6807:8913:strand:- -            701   2.7e-13   49.3   0.0   2   2   2.3e-09     2e-05   23.4   0.0   105   204   498   601   434   615 0.80 Acetyl xylan esterase (AXE1)
+Acetyltransf_7       PF13508.7     76 CS202_c00001_NODE_1_...cluster140_ORF8:gid::pid::loc:10064:11039:strand:+ -            324   1.5e-08   35.0   0.1   1   1   1.3e-11   4.8e-08   33.3   0.0     5    75    62   140    40   141 0.72 Acetyltransferase (GNAT) domain
+Acetyltransf_1       PF00583.25   117 CS202_c00001_NODE_1_...cluster140_ORF8:gid::pid::loc:10064:11039:strand:+ -            324     2e-08   34.5   0.1   1   1   1.1e-09     4e-06   27.1   0.0    34   104    61   127    26   139 0.76 Acetyltransferase (GNAT) family
+Acetyltransf_10      PF13673.7    127 CS202_c00001_NODE_1_...cluster140_ORF8:gid::pid::loc:10064:11039:strand:+ -            324   6.2e-07   29.4   0.0   1   1   2.9e-10   1.1e-06   28.7   0.0    24   109    53   142    32   149 0.86 Acetyltransferase (GNAT) domain
+Acetyltransf_9       PF13527.7    128 CS202_c00001_NODE_1_...cluster140_ORF8:gid::pid::loc:10064:11039:strand:+ -            324   4.8e-06   26.7   0.0   1   1   2.8e-09     1e-05   25.6   0.0    74   125    84   139    32   142 0.87 Acetyltransferase (GNAT) domain
+FR47                 PF08445.10    86 CS202_c00001_NODE_1_...cluster140_ORF8:gid::pid::loc:10064:11039:strand:+ -            324   5.9e-06   26.2   0.0   1   1   4.8e-09   1.7e-05   24.7   0.0     1    80    63   142    63   150 0.85 FR47-like protein
+SBP_bac_1            PF01547.25   315 CS202_c00001_NODE_1_...cluster140_ORF9:gid::pid::loc:11673:12336:strand:+ -            220   4.8e-06   26.7   0.0   1   1   4.5e-10   8.1e-06   26.0   0.0    63   148   124   210   112   216 0.77 Bacterial extracellular solute-binding protein
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster140.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS202_c00001_NODE_1_...cluster140.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster140.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:52:49 2019
+# [ok]

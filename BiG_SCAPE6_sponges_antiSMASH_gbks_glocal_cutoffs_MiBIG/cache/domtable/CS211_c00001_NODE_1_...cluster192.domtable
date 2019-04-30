@@ -1,0 +1,24 @@
+#                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+CoA_transf_3         PF02515.17   368 CS211_c00001_NODE_1_...cluster192_ORF1:gid::pid::loc:2:2399:strand:+ -            798  2.5e-149  497.4   0.2   1   2   4.4e-75   7.9e-71  239.1   0.0    22   368     1   352     1   352 0.94 CoA-transferase family III
+CoA_transf_3         PF02515.17   368 CS211_c00001_NODE_1_...cluster192_ORF1:gid::pid::loc:2:2399:strand:+ -            798  2.5e-149  497.4   0.2   2   2   2.2e-80     4e-76  256.5   0.1     1   367   382   763   382   764 0.89 CoA-transferase family III
+OB_aCoA_assoc        PF01796.17    65 CS211_c00001_NODE_1_...cluster192_ORF3:gid::pid::loc:3085:3514:strand:+ -            142   1.5e-11   44.1   0.1   1   1   2.5e-15   2.2e-11   43.6   0.1     1    64    60   126    60   127 0.96 DUF35 OB-fold domain, acyl-CoA-associated
+DUF35_N              PF12172.8     37 CS211_c00001_NODE_1_...cluster192_ORF3:gid::pid::loc:3085:3514:strand:+ -            142   1.6e-11   43.8   3.0   1   1   2.5e-15   2.3e-11   43.3   3.0     1    36    22    58    22    59 0.95 Rubredoxin-like zinc ribbon domain (DUF35_N)
+Methyltransf_28      PF02636.17   262 CS211_c00001_NODE_1_...cluster192_ORF5:gid::pid::loc:5036:6212:strand:- -            391   4.3e-40  138.0   0.0   1   2   1.5e-12   2.7e-08   33.8   0.0     1    57    63   118    63   124 0.93 Putative S-adenosyl-L-methionine-dependent methyltransferase
+Methyltransf_28      PF02636.17   262 CS211_c00001_NODE_1_...cluster192_ORF5:gid::pid::loc:5036:6212:strand:- -            391   4.3e-40  138.0   0.0   2   2   1.8e-33   3.1e-29  102.4   0.0   101   261   165   320   139   321 0.90 Putative S-adenosyl-L-methionine-dependent methyltransferase
+ketoacyl-synt        PF00109.26   253 CS211_c00001_NODE_1_...cluster192_ORF6:gid::pid::loc:6554:9380:strand:- -            941   8.5e-74  248.3   0.2   1   1   2.4e-77   8.5e-74  248.3   0.2     3   253   114   356   112   356 0.93 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.22   118 CS211_c00001_NODE_1_...cluster192_ORF6:gid::pid::loc:6554:9380:strand:- -            941   3.3e-42  143.2   0.0   1   1   5.4e-45   1.9e-41  140.7   0.0     2   117   365   481   364   482 0.98 Beta-ketoacyl synthase, C-terminal domain
+Acyl_transf_1        PF00698.21   319 CS211_c00001_NODE_1_...cluster192_ORF6:gid::pid::loc:6554:9380:strand:- -            941   2.5e-23   83.1   2.3   1   1   1.2e-26   4.2e-23   82.3   2.3     2   115   674   789   673   797 0.93 Acyl transferase domain
+KAsynt_C_assoc       PF16197.5    112 CS211_c00001_NODE_1_...cluster192_ORF6:gid::pid::loc:6554:9380:strand:- -            941   2.5e-12   47.2   0.0   1   1   3.3e-15   1.2e-11   45.1   0.0     1    84   484   602   484   637 0.88 Ketoacyl-synthetase C-terminal extension
+PP-binding           PF00550.25    67 CS211_c00001_NODE_1_...cluster192_ORF6:gid::pid::loc:6554:9380:strand:- -            941   1.4e-11   44.5   0.0   1   1   9.2e-15   3.3e-11   43.4   0.0     3    67    15    80    13    80 0.92 Phosphopantetheine attachment site
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster192.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS211_c00001_NODE_1_...cluster192.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster192.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:31:13 2019
+# [ok]

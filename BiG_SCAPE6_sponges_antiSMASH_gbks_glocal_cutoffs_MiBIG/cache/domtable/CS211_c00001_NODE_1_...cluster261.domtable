@@ -1,0 +1,27 @@
+#                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Amino_oxidase        PF01593.24   452 CS211_c00001_NODE_1_...cluster261_ORF1:gid::pid::loc:0:1494:strand:+ -            497   1.9e-40  139.5   1.3   1   1   5.7e-44   2.5e-40  139.1   1.3     1   449    49   471    49   474 0.79 Flavin containing amine oxidoreductase
+NAD_binding_8        PF13450.6     68 CS211_c00001_NODE_1_...cluster261_ORF1:gid::pid::loc:0:1494:strand:+ -            497   3.5e-12   46.4   0.3   1   1   1.9e-15   8.5e-12   45.1   0.3     1    59    44   103    44   109 0.90 NAD(P)-binding Rossmann-like domain
+FAD_oxidored         PF12831.7    433 CS211_c00001_NODE_1_...cluster261_ORF1:gid::pid::loc:0:1494:strand:+ -            497   5.1e-07   29.4   0.3   1   1   1.6e-10   7.4e-07   28.9   0.3     2    39    42    79    41   134 0.81 FAD dependent oxidoreductase
+FAD_binding_2        PF00890.24   417 CS211_c00001_NODE_1_...cluster261_ORF1:gid::pid::loc:0:1494:strand:+ -            497   3.3e-05   23.2   2.2   1   1   1.5e-08   6.8e-05   22.1   2.2     2    38    42    78    41    85 0.93 FAD binding domain
+polyprenyl_synt      PF00348.17   256 CS211_c00001_NODE_1_...cluster261_ORF2:gid::pid::loc:1524:2613:strand:+ -            362     3e-56  190.3   0.0   1   1   2.2e-60     4e-56  189.9   0.0     2   245    31   268    30   275 0.94 Polyprenyl synthetase
+SQHop_cyclase_C      PF13243.6    319 CS211_c00001_NODE_1_...cluster261_ORF3:gid::pid::loc:2609:4499:strand:+ -            629  1.5e-130  435.0  18.9   1   1  1.1e-132  4.9e-129  430.0   4.7     2   317   301   621   300   623 0.97 Squalene-hopene cyclase C-terminal domain
+SQHop_cyclase_N      PF13249.6    291 CS211_c00001_NODE_1_...cluster261_ORF3:gid::pid::loc:2609:4499:strand:+ -            629  5.5e-116  386.7   7.7   1   1  7.1e-110  3.2e-106  354.7   1.2     2   290     9   291     8   292 0.96 Squalene-hopene cyclase N-terminal domain
+Prenyltrans          PF00432.21    44 CS211_c00001_NODE_1_...cluster261_ORF3:gid::pid::loc:2609:4499:strand:+ -            629   2.7e-22   78.2  23.0   1   4   9.1e-06     0.041   13.6   0.0     6    44    57    95    52    95 0.90 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.21    44 CS211_c00001_NODE_1_...cluster261_ORF3:gid::pid::loc:2609:4499:strand:+ -            629   2.7e-22   78.2  23.0   2   4     0.002       9.1    6.1   0.2     5    22   235   252   233   253 0.91 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.21    44 CS211_c00001_NODE_1_...cluster261_ORF3:gid::pid::loc:2609:4499:strand:+ -            629   2.7e-22   78.2  23.0   3   4   1.4e-08   6.3e-05   22.6   0.1     3    33   465   494   463   505 0.87 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.21    44 CS211_c00001_NODE_1_...cluster261_ORF3:gid::pid::loc:2609:4499:strand:+ -            629   2.7e-22   78.2  23.0   4   4   1.9e-15   8.4e-12   44.6   0.2     5    43   515   563   512   564 0.95 Prenyltransferase and squalene oxidase repeat
+PNP_UDP_1            PF01048.20   234 CS211_c00001_NODE_1_...cluster261_ORF4:gid::pid::loc:4495:5065:strand:+ -            189   1.1e-07   31.3   6.3   1   1   7.7e-11   1.4e-06   27.8   6.3    44   209    27   157     3   182 0.78 Phosphorylase superfamily
+Radical_SAM          PF04055.21   167 CS211_c00001_NODE_1_...cluster261_ORF5:gid::pid::loc:5066:5522:strand:+ -            152   1.3e-07   32.1   0.1   1   1   1.7e-11   1.5e-07   31.9   0.1     3   118    34   139    32   150 0.83 Radical SAM superfamily
+Fer4_14              PF13394.6    118 CS211_c00001_NODE_1_...cluster261_ORF5:gid::pid::loc:5066:5522:strand:+ -            152   5.9e-05   23.2   0.2   1   1   1.1e-08   9.9e-05   22.5   0.2     7    91    37   111    35   131 0.75 4Fe-4S single cluster domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster261.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS211_c00001_NODE_1_...cluster261.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster261.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:41:40 2019
+# [ok]

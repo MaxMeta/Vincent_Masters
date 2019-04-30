@@ -1,0 +1,30 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="77.56666666666666" height="240">
+	<g>
+		<line x1="10" y1="40.0" x2="63.1" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>necA</title>
+			<polygon class="necA" points="10,25 33,25 33,10 63,40 33,70 33,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_3 (PF00202)
+"Aminotransferase class-III"</title>
+				<polygon class="PF00202" points="11,28 46,28 54,36 54,44 46,52 11,52" stroke-linejoin="round" width="43" height="24" fill="rgb(49,163,189)" stroke="rgb(39,130,151)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="120.0" x2="61.0" y2="120.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>necB</title>
+			<polygon class="necB" points="10,105 31,105 31,90 61,120 31,150 31,135 10,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="200.0" x2="67.56666666666666" y2="200.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>necC
+4-amino-4-deoxyarabinitol oxidase</title>
+			<polygon class="necC
+4-amino-4-deoxyarabinitol oxidase" points="10,185 37,185 37,170 67,200 37,230 37,215 10,215" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

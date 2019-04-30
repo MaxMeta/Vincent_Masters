@@ -1,0 +1,24 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+GMC_oxred_N          PF00732.19   296 BGC0001321.1_ORF1:gid::pid:AGK82832.1:loc:3449:11480:strand:- -            746   8.1e-59  199.4   0.3   1   1   1.3e-62   1.2e-58  198.8   0.3     2   296   229   496   228   496 0.90 GMC oxidoreductase
+GMC_oxred_C          PF05199.13   144 BGC0001321.1_ORF1:gid::pid:AGK82832.1:loc:3449:11480:strand:- -            746   4.7e-24   85.6   0.0   1   1     4e-26   3.6e-22   79.4   0.0    21   142   602   730   591   732 0.74 GMC oxidoreductase
+Terpene_synth_C      PF03936.16   267 BGC0001321.1_ORF4:gid::pid:AGK82833.1:loc:52893:59509:strand:- -            778   1.1e-61  208.6   4.9   1   1   2.5e-65   2.2e-61  207.5   4.9     1   266   457   718   457   719 0.94 Terpene synthase family, metal binding domain
+Terpene_synth        PF01397.21   192 BGC0001321.1_ORF4:gid::pid:AGK82833.1:loc:52893:59509:strand:- -            778   7.7e-43  146.4   4.8   1   1   1.7e-46   1.6e-42  145.4   4.8     1   192   216   415   216   415 0.87 Terpene synthase, N-terminal domain
+Prenyltransf         PF01255.19   224 BGC0001321.1_ORF9:gid::pid:AGK82828.1:loc:105953:109107:strand:+ -            303   1.3e-72  244.0   0.0   1   1   8.4e-77   1.5e-72  243.8   0.0     1   224    84   299    84   299 0.93 Putative undecaprenyl diphosphate synthase
+Terpene_synth_C      PF03936.16   267 BGC0001321.1_ORF11:gid::pid:AGK82829.1:loc:125764:132573:strand:+ -            777   3.3e-62  210.3   6.6   1   1   4.8e-66   4.3e-62  209.9   4.2     3   266   458   717   457   718 0.94 Terpene synthase family, metal binding domain
+Terpene_synth        PF01397.21   192 BGC0001321.1_ORF11:gid::pid:AGK82829.1:loc:125764:132573:strand:+ -            777   3.3e-44  150.9   5.2   1   1   8.5e-48   7.6e-44  149.7   5.2     1   192   215   414   215   414 0.87 Terpene synthase, N-terminal domain
+Prenyltransf         PF01255.19   224 BGC0001321.1_ORF12:gid::pid:AGK82834.1:loc:132996:135579:strand:- -            323   1.5e-72  243.8   0.0   1   1     1e-76   1.8e-72  243.5   0.0     1   224   104   319   104   319 0.93 Putative undecaprenyl diphosphate synthase
+Terpene_synth_C      PF03936.16   267 BGC0001321.1_ORF13:gid::pid:AGK82830.1:loc:137859:145355:strand:+ -            771   3.1e-60  203.8   7.1   1   1   1.1e-63   9.5e-60  202.2   6.0     1   266   445   709   445   710 0.93 Terpene synthase family, metal binding domain
+Terpene_synth        PF01397.21   192 BGC0001321.1_ORF13:gid::pid:AGK82830.1:loc:137859:145355:strand:+ -            771     2e-39  135.2   5.5   1   1   5.4e-43   4.8e-39  134.0   5.5     1   192   205   403   205   403 0.86 Terpene synthase, N-terminal domain
+p450                 PF00067.22   463 BGC0001321.1_ORF14:gid::pid:AGK82831.1:loc:147370:149366:strand:+ -            509  2.2e-103  346.5   0.0   1   1  1.5e-107  2.6e-103  346.2   0.0     1   451    32   492    32   504 0.91 Cytochrome P450
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001321.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001321.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001321.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:34:13 2019
+# [ok]

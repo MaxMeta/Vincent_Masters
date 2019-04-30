@@ -1,0 +1,36 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Aldo_ket_red         PF00248.21   294 BGC0001553.1_ORF1:gid::pid:AUD08660.1:loc:0:984:strand:- -            327   1.1e-49  169.3   0.0   1   1   1.1e-53     2e-49  168.4   0.0     2   291    19   325    18   327 0.90 Aldo/keto reductase family
+FA_hydroxylase       PF04116.13   133 BGC0001553.1_ORF3:gid::pid:AUD08662.1:loc:2523:3423:strand:+ -            299     2e-22   79.9   4.6   1   1   1.1e-26     2e-22   79.9   4.6     2   133   112   244   111   244 0.90 Fatty acid hydroxylase superfamily
+Condensation         PF00668.20   457 BGC0001553.1_ORF4:gid::pid:AUD08663.1:loc:3689:13544:strand:+ -           3284   8.1e-98  328.1   0.0   1   1  6.7e-101   1.1e-97  327.6   0.0     3   453  1983  2423  1981  2427 0.95 Condensation domain
+AMP-binding          PF00501.28   423 BGC0001553.1_ORF4:gid::pid:AUD08663.1:loc:3689:13544:strand:+ -           3284     5e-85  285.6   0.0   1   1     1e-87   1.7e-84  283.9   0.0     3   423  2449  2871  2447  2871 0.87 AMP-binding enzyme
+ketoacyl-synt        PF00109.26   253 BGC0001553.1_ORF4:gid::pid:AUD08663.1:loc:3689:13544:strand:+ -           3284   2.3e-79  266.5   0.3   1   1   5.7e-82   9.2e-79  264.6   0.0     2   253    54   305    53   305 0.96 Beta-ketoacyl synthase, N-terminal domain
+Acyl_transf_1        PF00698.21   319 BGC0001553.1_ORF4:gid::pid:AUD08663.1:loc:3689:13544:strand:+ -           3284   5.6e-76  256.1   0.6   1   1   5.5e-79     9e-76  255.4   0.6     1   318   648   980   648   981 0.98 Acyl transferase domain
+PS-DH                PF14765.6    298 BGC0001553.1_ORF4:gid::pid:AUD08663.1:loc:3689:13544:strand:+ -           3284   6.1e-66  222.7   6.4   1   1   3.7e-69   6.1e-66  222.7   6.4     1   295  1022  1299  1022  1301 0.94 Polyketide synthase dehydratase
+KR                   PF08659.10   180 BGC0001553.1_ORF4:gid::pid:AUD08663.1:loc:3689:13544:strand:+ -           3284   2.3e-56  190.5   0.0   1   1   4.1e-59   6.6e-56  189.1   0.0     1   179  1597  1789  1597  1790 0.95 KR domain
+Ketoacyl-synt_C      PF02801.22   118 BGC0001553.1_ORF4:gid::pid:AUD08663.1:loc:3689:13544:strand:+ -           3284   2.2e-42  143.8   0.6   1   1   2.8e-44   4.5e-41  139.6   0.2     1   117   313   430   313   431 0.98 Beta-ketoacyl synthase, C-terminal domain
+PP-binding           PF00550.25    67 BGC0001553.1_ORF4:gid::pid:AUD08663.1:loc:3689:13544:strand:+ -           3284   6.1e-25   87.4   0.1   1   2     7e-14   1.1e-10   41.6   0.1     6    66  1895  1955  1891  1956 0.96 Phosphopantetheine attachment site
+PP-binding           PF00550.25    67 BGC0001553.1_ORF4:gid::pid:AUD08663.1:loc:3689:13544:strand:+ -           3284   6.1e-25   87.4   0.1   2   2   2.9e-14   4.7e-11   42.9   0.0     4    66  2984  3044  2981  3045 0.93 Phosphopantetheine attachment site
+Thioesterase         PF00975.20   231 BGC0001553.1_ORF4:gid::pid:AUD08663.1:loc:3689:13544:strand:+ -           3284   6.6e-24   85.3   0.2   1   1   1.2e-26     2e-23   83.7   0.2     2   105  3069  3160  3068  3271 0.72 Thioesterase domain
+KAsynt_C_assoc       PF16197.5    112 BGC0001553.1_ORF4:gid::pid:AUD08663.1:loc:3689:13544:strand:+ -           3284   5.5e-12   46.1   0.0   1   1   2.1e-14   3.5e-11   43.6   0.0     2    57   434   496   434   516 0.79 Ketoacyl-synthetase C-terminal extension
+AMP-binding_C        PF13193.6     76 BGC0001553.1_ORF4:gid::pid:AUD08663.1:loc:3689:13544:strand:+ -           3284     1e-10   42.4   0.0   1   1   5.1e-13   8.3e-10   39.5   0.0     1    76  2879  2954  2879  2954 0.91 AMP-binding enzyme C-terminal domain
+p450                 PF00067.22   463 BGC0001553.1_ORF5:gid::pid:AUD08664.1:loc:13612:14803:strand:+ -            396     9e-26   90.6   0.0   1   1   1.3e-24   2.4e-20   72.7   0.1   240   432   203   365   184   375 0.90 Cytochrome P450
+Amino_oxidase        PF01593.24   452 BGC0001553.1_ORF6:gid::pid:AUD08665.1:loc:14862:16662:strand:+ -            599   4.8e-12   45.9   0.0   1   1   1.5e-15     9e-12   45.0   0.0     3   263    39   309    37   415 0.78 Flavin containing amine oxidoreductase
+NAD_binding_8        PF13450.6     68 BGC0001553.1_ORF6:gid::pid:AUD08665.1:loc:14862:16662:strand:+ -            599   1.4e-11   44.4   0.1   1   1   7.4e-15   4.4e-11   42.8   0.1     1    64    32    95    32    99 0.92 NAD(P)-binding Rossmann-like domain
+ADH_N_2              PF16884.5    108 BGC0001553.1_ORF7:gid::pid:AUD08666.1:loc:16658:17717:strand:+ -            352   1.2e-13   50.9   0.0   1   1   3.9e-17   2.3e-13   50.0   0.0     2   104     5   103     4   106 0.87 N-terminal domain of oxidoreductase
+ADH_zinc_N           PF00107.26   130 BGC0001553.1_ORF7:gid::pid:AUD08666.1:loc:16658:17717:strand:+ -            352   4.2e-12   46.2   0.0   1   1   1.2e-15   7.5e-12   45.4   0.0     2   114   171   292   170   304 0.79 Zinc-binding dehydrogenase
+ABC_tran             PF00005.27   137 BGC0001553.1_ORF8:gid::pid:AUD08667.1:loc:17800:18988:strand:- -            395     1e-29  103.8   0.0   1   1   3.6e-33   1.6e-29  103.2   0.0     2   136    21   162    20   163 0.89 ABC transporter
+OB_MalK              PF17912.1     53 BGC0001553.1_ORF8:gid::pid:AUD08667.1:loc:17800:18988:strand:- -            395   2.9e-11   44.0   0.2   1   1   3.2e-14   1.4e-10   41.8   0.1     1    53   236   287   236   287 0.89 MalK OB fold domain
+BPD_transp_1         PF00528.22   185 BGC0001553.1_ORF9:gid::pid:AUD08668.1:loc:19019:19853:strand:- -            277   1.9e-21   76.6  21.0   1   1   1.1e-25   1.9e-21   76.6  21.0     2   183    84   270    83   272 0.88 Binding-protein-dependent transport system inner membrane component
+BPD_transp_1         PF00528.22   185 BGC0001553.1_ORF10:gid::pid:AUD08669.1:loc:19852:20863:strand:- -            336   9.2e-12   45.1  20.4   1   1   5.1e-16   9.2e-12   45.1  20.4     2   179   130   325   129   328 0.86 Binding-protein-dependent transport system inner membrane component
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001553.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001553.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001553.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:51:41 2019
+# [ok]

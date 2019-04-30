@@ -1,0 +1,36 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="287.8333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="277.8333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg6080_1)</title>
+			<polygon class=" (ctg6080_1)" points="19,25 67,25 67,10 97,40 67,70 67,55 19,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MMPL (PF03176)
+"MMPL family"</title>
+				<rect class="PF03176" x="24" y="28" stroke-linejoin="round" width="36" height="24" fill="rgb(228,109,193)" stroke="rgb(182,87,154)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MMPL (PF03176)
+"MMPL family"</title>
+				<polygon class="PF03176" points="68,28 80,28 92,40 80,52 68,52" stroke-linejoin="round" width="28" height="24" fill="rgb(228,109,193)" stroke="rgb(182,87,154)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6080_2)</title>
+			<polygon class=" (ctg6080_2)" points="102,10 110,40 102,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NHase_alpha (PF02979)
+"Nitrile hydratase, alpha chain"</title>
+				<polygon class="PF02979" points="102,28 103,28 107,40 103,52 102,52" stroke-linejoin="round" width="7" height="24" fill="rgb(204,148,70)" stroke="rgb(163,118,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6080_3)</title>
+			<polygon class=" (ctg6080_3)" points="152,25 145,25 145,10 115,40 145,70 145,55 152,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg6080_4)</title>
+			<polygon class=" (ctg6080_4)" points="196,25 183,25 183,10 153,40 183,70 183,55 196,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

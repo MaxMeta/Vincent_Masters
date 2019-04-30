@@ -1,0 +1,32 @@
+#                                                                                                                          --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                         accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                               -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Alpha-E              PF04168.12   293 CS200_c00001_NODE_1_...cluster206_ORF2:gid::pid::loc:88:1063:strand:+ -            324     4e-70  236.9   0.1   1   1   2.5e-74   4.6e-70  236.7   0.1     1   292     1   313     1   314 0.90 A predicted alpha-helical domain with a conserved ER motif.
+Transglut_core       PF01841.19   112 CS200_c00001_NODE_1_...cluster206_ORF3:gid::pid::loc:1066:2053:strand:+ -            328   1.5e-24   86.6   0.0   1   1   2.8e-28   2.6e-24   85.9   0.0     9   112   139   241   134   241 0.94 Transglutaminase-like superfamily
+Bact_transglu_N      PF08379.10    80 CS200_c00001_NODE_1_...cluster206_ORF3:gid::pid::loc:1066:2053:strand:+ -            328   5.7e-18   65.6   0.7   1   1   1.3e-21   1.2e-17   64.6   0.0     1    80     7    85     7    85 0.98 Bacterial transglutaminase-like N-terminal region
+dCache_2             PF08269.11   296 CS200_c00001_NODE_1_...cluster206_ORF5:gid::pid::loc:2680:4810:strand:+ -            709   1.5e-43  149.1   0.0   1   2   3.5e-23   1.6e-19   70.2   0.0    88   179    68   164    34   167 0.85 Cache domain
+dCache_2             PF08269.11   296 CS200_c00001_NODE_1_...cluster206_ORF5:gid::pid::loc:2680:4810:strand:+ -            709   1.5e-43  149.1   0.0   2   2   1.3e-16   5.8e-13   48.7   0.0    90   181   396   493   380   506 0.89 Cache domain
+sCache_2             PF17200.4    155 CS200_c00001_NODE_1_...cluster206_ORF5:gid::pid::loc:2680:4810:strand:+ -            709   1.5e-39  135.3   0.0   1   3   8.4e-19   3.8e-15   56.1   0.0    32   141    52   166    34   173 0.81 Single Cache domain 2
+sCache_2             PF17200.4    155 CS200_c00001_NODE_1_...cluster206_ORF5:gid::pid::loc:2680:4810:strand:+ -            709   1.5e-39  135.3   0.0   2   3   7.2e-10   3.2e-06   27.1   0.0    54   145   236   330   203   333 0.83 Single Cache domain 2
+sCache_2             PF17200.4    155 CS200_c00001_NODE_1_...cluster206_ORF5:gid::pid::loc:2680:4810:strand:+ -            709   1.5e-39  135.3   0.0   3   3   2.5e-16   1.1e-12   48.0   0.0    35   141   376   493   365   494 0.85 Single Cache domain 2
+FlgD_ig              PF13860.6     79 CS200_c00001_NODE_1_...cluster206_ORF5:gid::pid::loc:2680:4810:strand:+ -            709   1.9e-10   40.4   0.1   1   1   6.1e-12   2.7e-08   33.5   0.0    25    69   646   690   630   698 0.92 FlgD Ig-like domain
+Peripla_BP_6         PF13458.6    342 CS200_c00001_NODE_1_...cluster206_ORF6:gid::pid::loc:5055:6405:strand:+ -            449   1.8e-34  120.0  10.3   1   1   2.7e-38   2.4e-34  119.5  10.3    16   321    88   413    84   427 0.87 Periplasmic binding protein
+ANF_receptor         PF01094.28   354 CS200_c00001_NODE_1_...cluster206_ORF6:gid::pid::loc:5055:6405:strand:+ -            449   1.1e-14   54.3   0.0   1   1   2.4e-18   2.2e-14   53.3   0.0    30   348   118   428   108   433 0.81 Receptor family ligand binding region
+Xan_ur_permease      PF00860.20   389 CS200_c00001_NODE_1_...cluster206_ORF7:gid::pid::loc:6814:8479:strand:+ -            554   5.1e-36  124.2  37.8   1   1   3.7e-40   6.6e-36  123.8  37.8     4   382     1   378     1   384 0.85 Permease family
+Abhydrolase_6        PF12697.7    220 CS200_c00001_NODE_1_...cluster206_ORF8:gid::pid::loc:8563:9475:strand:- -            303   5.1e-11   43.6   1.2   1   1   3.6e-15   6.4e-11   43.3   1.2     1   219    41   291    41   292 0.58 Alpha/beta hydrolase family
+ACPS                 PF01648.20   114 CS200_c00001_NODE_1_...cluster206_ORF9:gid::pid::loc:9471:10188:strand:- -            238   6.3e-14   52.1   0.0   1   1   2.1e-17   3.7e-13   49.6   0.0     2   113   124   229   123   230 0.82 4'-phosphopantetheinyl transferase superfamily
+PP-binding           PF00550.25    67 CS200_c00001_NODE_1_...cluster206_ORF10:gid::pid::loc:10295:10541:strand:- -             81   1.5e-06   28.5   0.1   1   1     1e-10   1.8e-06   28.2   0.1     1    67     6    76     6    76 0.92 Phosphopantetheine attachment site
+Ketoacyl-synt_C      PF02801.22   118 CS200_c00001_NODE_1_...cluster206_ORF11:gid::pid::loc:10628:12707:strand:- -            692   7.4e-40  135.6   0.4   1   1   3.1e-43   1.4e-39  134.8   0.1     2   117   101   217   100   218 0.99 Beta-ketoacyl synthase, C-terminal domain
+Acyl_transf_1        PF00698.21   319 CS200_c00001_NODE_1_...cluster206_ORF11:gid::pid::loc:10628:12707:strand:- -            692   1.7e-30  106.7   0.3   1   1   1.4e-31   6.2e-28   98.2   2.4     2   114   403   517   402   521 0.94 Acyl transferase domain
+ketoacyl-synt        PF00109.26   253 CS200_c00001_NODE_1_...cluster206_ORF11:gid::pid::loc:10628:12707:strand:- -            692   3.5e-28   98.9   2.7   1   1   1.5e-31   6.7e-28   97.9   2.7   171   253    10    92     6    92 0.96 Beta-ketoacyl synthase, N-terminal domain
+KAsynt_C_assoc       PF16197.5    112 CS200_c00001_NODE_1_...cluster206_ORF11:gid::pid::loc:10628:12707:strand:- -            692   6.5e-11   42.7   0.0   1   1   5.3e-14   2.4e-10   40.9   0.0     2    91   221   344   221   372 0.79 Ketoacyl-synthetase C-terminal extension
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS200_c00001_NODE_1_...cluster206.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS200_c00001_NODE_1_...cluster206.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS200_c00001_NODE_1_...cluster206.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:43:18 2019
+# [ok]

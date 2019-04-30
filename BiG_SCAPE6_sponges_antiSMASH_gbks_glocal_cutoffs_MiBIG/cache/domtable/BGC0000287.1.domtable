@@ -1,0 +1,33 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+tRNA_edit            PF04073.15   123 BGC0000287.1_ORF1:gid::pid:AAG05689.1:loc:0:543:strand:- -            180   5.1e-21   75.0   0.1   1   1   3.7e-25   6.6e-21   74.7   0.1     6   121    48   166    43   168 0.90 Aminoacyl-tRNA editing domain
+AMP-binding          PF00501.28   423 BGC0000287.1_ORF2:gid:ambE:pid:AAG05690.1:loc:610:6985:strand:- -           2124   1.7e-78  264.1   0.0   1   1     8e-82   2.4e-78  263.6   0.0     3   422   456   847   454   848 0.88 AMP-binding enzyme
+Condensation         PF00668.20   457 BGC0000287.1_ORF2:gid:ambE:pid:AAG05690.1:loc:610:6985:strand:- -           2124   2.8e-55  187.8   0.0   1   1   3.5e-56   1.1e-52  179.3   0.0     3   442  1359  1780  1358  1791 0.90 Condensation domain
+Thioesterase         PF00975.20   231 BGC0000287.1_ORF2:gid:ambE:pid:AAG05690.1:loc:610:6985:strand:- -           2124   4.8e-33  115.2   0.0   1   1   2.8e-36   8.5e-33  114.4   0.0     2   227  1886  2106  1885  2110 0.93 Thioesterase domain
+PP-binding           PF00550.25    67 BGC0000287.1_ORF2:gid:ambE:pid:AAG05690.1:loc:610:6985:strand:- -           2124   7.2e-22   77.5   0.1   1   2   7.2e-17   2.1e-13   50.4   0.0     2    67  1259  1321  1258  1321 0.95 Phosphopantetheine attachment site
+PP-binding           PF00550.25    67 BGC0000287.1_ORF2:gid:ambE:pid:AAG05690.1:loc:610:6985:strand:- -           2124   7.2e-22   77.5   0.1   2   2   1.1e-08   3.4e-05   24.1   0.0     2    66  1793  1854  1792  1855 0.92 Phosphopantetheine attachment site
+Methyltransf_21      PF05050.12   173 BGC0000287.1_ORF2:gid:ambE:pid:AAG05690.1:loc:610:6985:strand:- -           2124   1.2e-13   51.4   0.0   1   1   6.9e-17   2.1e-13   50.7   0.0     1   173   950  1147   950  1147 0.70 Methyltransferase FkbM domain
+TauD                 PF02668.16   268 BGC0000287.1_ORF3:gid:ambD:pid:AAG05691.1:loc:7004:8024:strand:- -            339   1.5e-49  169.2   1.3   1   1     1e-53   1.9e-49  168.9   1.3    12   267    39   330    27   332 0.91 Taurine catabolism dioxygenase TauD, TfdA family
+TauD                 PF02668.16   268 BGC0000287.1_ORF4:gid:ambC:pid:AAG05692.1:loc:8020:9109:strand:- -            362   1.1e-49  169.6   0.8   1   1   8.9e-54   1.6e-49  169.1   0.8     5   264    38   334    34   337 0.88 Taurine catabolism dioxygenase TauD, TfdA family
+AMP-binding          PF00501.28   423 BGC0000287.1_ORF5:gid:ambB:pid:AAG05693.1:loc:9138:12888:strand:- -           1249   8.7e-88  294.7   0.0   1   1     4e-91   1.8e-87  293.7   0.0     1   422   245   633   245   634 0.87 AMP-binding enzyme
+Condensation         PF00668.20   457 BGC0000287.1_ORF5:gid:ambB:pid:AAG05693.1:loc:9138:12888:strand:- -           1249   8.5e-34  117.0   0.0   1   1   2.5e-37   1.1e-33  116.6   0.0     6   344   823  1150   818  1156 0.89 Condensation domain
+AMP-binding_C        PF13193.6     76 BGC0000287.1_ORF5:gid:ambB:pid:AAG05693.1:loc:9138:12888:strand:- -           1249     2e-09   38.3   0.0   1   1   1.6e-12   7.1e-09   36.5   0.0     1    76   642   715   642   715 0.86 AMP-binding enzyme C-terminal domain
+PP-binding           PF00550.25    67 BGC0000287.1_ORF5:gid:ambB:pid:AAG05693.1:loc:9138:12888:strand:- -           1249   1.2e-06   28.8   0.0   1   1     8e-10   3.6e-06   27.2   0.0     2    66   742   804   741   805 0.88 Phosphopantetheine attachment site
+LysE                 PF01810.18   193 BGC0000287.1_ORF6:gid:ambA:pid:AAG05694.1:loc:12983:13601:strand:- -            205   1.5e-17   63.7   9.7   1   1   1.2e-21   2.1e-17   63.2   9.7     2   183    17   192    16   194 0.82 LysE type translocator
+BPD_transp_1         PF00528.22   185 BGC0000287.1_ORF7:gid::pid:AAG05695.1:loc:13710:14577:strand:- -            288   1.6e-12   47.5  19.2   1   1   7.1e-16   1.3e-11   44.6  16.5     2   182    99   283    98   286 0.90 Binding-protein-dependent transport system inner membrane component
+ABC_tran             PF00005.27   137 BGC0000287.1_ORF8:gid::pid:AAG05696.1:loc:14593:15442:strand:- -            282   8.2e-32  110.6   0.0   1   1   1.9e-35   1.1e-31  110.1   0.0     2   137    37   178    36   178 0.94 ABC transporter
+AAA                  PF00004.29   132 BGC0000287.1_ORF8:gid::pid:AAG05696.1:loc:14593:15442:strand:- -            282   8.9e-06   26.2   0.5   1   1   2.3e-08   0.00014   22.3   0.5     2   108    50   206    49   223 0.65 ATPase family associated with various cellular activities (AAA)
+NMT1_2               PF13379.6    253 BGC0000287.1_ORF9:gid::pid:AAG05697.1:loc:15449:16472:strand:- -            340   5.7e-24   85.2   0.1   1   1   1.3e-27   7.8e-24   84.7   0.1     5   247    33   273    30   278 0.88 NMT1-like family
+NMT1                 PF09084.11   216 BGC0000287.1_ORF9:gid::pid:AAG05697.1:loc:15449:16472:strand:- -            340   4.8e-05   23.4   0.0   1   1   1.4e-08   8.5e-05   22.6   0.0    21   213    69   268    63   271 0.73 NMT1/THI5 like
+TauD                 PF02668.16   268 BGC0000287.1_ORF10:gid::pid:AAG05698.1:loc:16512:17400:strand:- -            295   4.2e-66  223.5   1.0   1   1   2.7e-70   4.9e-66  223.3   1.0     2   268    17   288    16   288 0.96 Taurine catabolism dioxygenase TauD, TfdA family
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000287.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000287.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000287.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:33:50 2019
+# [ok]

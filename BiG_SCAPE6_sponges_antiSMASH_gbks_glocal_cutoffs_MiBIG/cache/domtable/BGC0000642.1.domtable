@@ -1,0 +1,22 @@
+#                                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                       accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                             -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+polyprenyl_synt      PF00348.17   256 BGC0000642.1_ORF1:gid:crtE:pid:AAZ73145.1:loc:1771:2680:strand:+ -            302   1.7e-46  158.4   0.1   1   1   1.2e-50   2.2e-46  158.0   0.1    13   243    49   273    40   282 0.85 Polyprenyl synthetase
+FMN_dh               PF01070.18   348 BGC0000642.1_ORF2:gid:idi:pid:AAZ73146.1:loc:2714:3749:strand:+ -            344   2.1e-23   82.9   6.9   1   1   2.5e-20   2.2e-16   59.8   4.6   206   342   175   333   128   339 0.89 FMN-dependent dehydrogenase
+Glu_synthase         PF01645.17   368 BGC0000642.1_ORF2:gid:idi:pid:AAZ73146.1:loc:2714:3749:strand:+ -            344   2.4e-06   26.9   2.0   1   1   2.7e-10   2.4e-06   26.9   2.0   192   308   175   297   168   312 0.71 Conserved region in glutamate synthase
+UDPGT                PF00201.18   499 BGC0000642.1_ORF3:gid:crtX:pid:AAZ73147.1:loc:3745:5035:strand:+ -            429   6.3e-12   45.1   0.0   1   1   1.9e-14   1.7e-10   40.3   0.0     9   418    11   392     6   395 0.78 UDP-glucoronosyl and UDP-glucosyl transferase
+Glyco_tran_28_C      PF04101.16   167 BGC0000642.1_ORF3:gid:crtX:pid:AAZ73147.1:loc:3745:5035:strand:+ -            429   5.9e-08   32.9   0.0   1   1   9.9e-12   8.9e-08   32.3   0.0    42   153   289   391   265   411 0.78 Glycosyltransferase family 28 C-terminal domain
+Lycopene_cycl        PF05834.12   380 BGC0000642.1_ORF4:gid:crtY:pid:AAZ73148.1:loc:5018:6182:strand:+ -            387   1.1e-89  301.2   0.0   1   1   6.9e-94   1.2e-89  301.0   0.0     1   378     6   372     6   374 0.96 Lycopene cyclase protein
+Amino_oxidase        PF01593.24   452 BGC0000642.1_ORF5:gid:crtI:pid:AAZ73149.1:loc:6178:7660:strand:+ -            493   1.5e-40  139.9   0.1   1   1   3.5e-44   2.1e-40  139.4   0.1     2   451    12   487    11   488 0.83 Flavin containing amine oxidoreductase
+NAD_binding_8        PF13450.6     68 BGC0000642.1_ORF5:gid:crtI:pid:AAZ73149.1:loc:6178:7660:strand:+ -            493   2.8e-13   49.9   0.1   1   1   1.4e-16   8.3e-13   48.4   0.1     1    64     6    69     6    72 0.93 NAD(P)-binding Rossmann-like domain
+SQS_PSY              PF00494.19   263 BGC0000642.1_ORF6:gid:crtB:pid:AAZ73150.1:loc:7652:8582:strand:+ -            309   2.6e-65  220.6   5.5   1   1   1.7e-69   3.1e-65  220.3   5.5     4   258    17   272    14   277 0.93 Squalene/phytoene synthase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000642.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000642.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000642.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:40:21 2019
+# [ok]

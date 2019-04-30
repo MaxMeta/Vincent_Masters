@@ -1,0 +1,132 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="287.7" height="800">
+	<g>
+		<line x1="10" y1="40.0" x2="277.7" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>PKS1
+polyketide synthase</title>
+			<polygon class="PKS1
+polyketide synthase" points="46,25 237,25 237,10 267,40 237,70 237,55 46,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SAT (PF16073)
+"Starter unit:ACP transacylase in aflatoxin biosynthesis"</title>
+				<rect class="PF16073" x="46" y="28" stroke-linejoin="round" width="23" height="24" fill="rgb(77,115,183)" stroke="rgb(61,91,146)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="83" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<rect class="PF02801" x="109" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl_transf_1 (PF00698)
+"Acyl transferase domain"</title>
+				<rect class="PF00698" x="136" y="28" stroke-linejoin="round" width="31" height="24" fill="rgb(59,176,209)" stroke="rgb(47,140,167)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PS-DH (PF14765)
+"Polyketide synthase dehydratase"</title>
+				<rect class="PF14765" x="178" y="28" stroke-linejoin="round" width="28" height="24" fill="rgb(173,56,182)" stroke="rgb(138,44,145)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="213" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="226" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Thioesterase (PF00975)
+"Thioesterase domain"</title>
+				<polygon class="PF00975" points="239,28 250,28 261,39 261,41 250,52 239,52" stroke-linejoin="round" width="22" height="24" fill="rgb(207,80,138)" stroke="rgb(165,63,110)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="120.0" x2="46.0" y2="120.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>
+hypothetical protein EfHP4</title>
+			<polygon class="
+hypothetical protein EfHP4" points="27,90 41,120 27,150" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="200.0" x2="57.8" y2="200.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>
+hypothetical protein EfHP3</title>
+			<polygon class="
+hypothetical protein EfHP3" points="20,170 47,200 20,230" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="280.0" x2="80.0" y2="280.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>
+hypothetical protein EfHP2</title>
+			<polygon class="
+hypothetical protein EfHP2" points="23,265 31,265 31,250 61,280 31,310 31,295 23,295" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="360.0" x2="70.0" y2="360.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>
+hypothetical protein EfHP1</title>
+			<polygon class="
+hypothetical protein EfHP1" points="16,345 19,345 19,330 49,360 19,390 19,375 16,375" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="440.0" x2="84.0" y2="440.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>ECT1
+ECT1 transporter</title>
+			<polygon class="ECT1
+ECT1 transporter" points="15,425 37,425 37,410 67,440 37,470 37,455 15,455" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="520.0" x2="74.0" y2="520.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>PRF1
+ESC prefoldin protein subunit 3</title>
+			<polygon class="PRF1
+ESC prefoldin protein subunit 3" points="34,490 57,520 34,550" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="600.0" x2="64.0" y2="600.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>OXR1
+oxidoreductase</title>
+			<polygon class="OXR1
+oxidoreductase" points="28,570 52,600 28,630" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="680.0" x2="158.0" y2="680.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>TSF1
+transcription factor</title>
+			<polygon class="TSF1
+transcription factor" points="46,665 118,665 118,650 148,680 118,710 118,695 46,695" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="760.0" x2="72.33333333333334" y2="760.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>RDT1
+ESC reductase</title>
+			<polygon class="RDT1
+ESC reductase" points="38,730 66,760 38,790" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

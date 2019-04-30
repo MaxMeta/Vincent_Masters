@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+CS783_c00001_NODE_1_...cluster015_ORF1:gid::pid::loc:594:1371:strand:-:20:253            ....-WGYAAENGPDVWGQLNQeyiLCGeGTHQSPIDIVNP---MPTQLSPIFYE-YYTATS-VNVHHNGHTIEVAYPE.GS-RIQIDGT--DYQLLQFHFHA------PGEHTVAGKPFDMEMHLVHKSE-------A----GDLAVVGLLIESGRHHPAFDPIWASLPPSPLETQRIEnvvidldLmlsTNgRTLDQA
+#=GR CS783_c00001_NODE_1_...cluster015_ORF1:gid::pid::loc:594:1371:strand:-:20:253    PP .....9***99******988765669*99*********884...56789999998.666666.7*************98.66.7776666..5*********8......57*****************764.......4....46************************9876666654433333331233223556666
+CS200_c00001_NODE_1_...cluster030_ORF6:gid::pid::loc:9227:10010:strand:+:34:255          ....-WGYEAENGPEVWSQLSPeyaLCAeGTRQSPIDLVNPTAG---KLPAILFN-YQPTA--LNIHNNGHTIEVASTKeNWIEIDGTRH----ELLQFHFHA------PSEHTIAGKSFAMEMHLVHKSK-----------DGTLAVIGVLIERGSNHVAFDSLLAHLPNIPSEVQRIE.......H...VT.INADDL
+#=GR CS200_c00001_NODE_1_...cluster030_ORF6:gid::pid::loc:9227:10010:strand:+:34:255  PP .....9***********999765657888*********998776...78888885.66555..6***********996625656665555....8*******8......7******************764...........568********************************999.......8...88.******
+CS203_c00001_NODE_1_...cluster080_ORF27:gid::pid::loc:38806:39424:strand:+:2:200         pvpt------------------...---.------------------QLSPIFYE-YYTATS-VNVHHNGHTIEVAYPE.GS-RIQIDGT--DYQLLQFHFHA------PGEHTVAGKPFDMEMHLVHKSD-----------DGDLAVVGLLIESGRHHPAFDPIWADLPTAPLETRRIEn.....vV...--.IDLDLM
+#=GR CS203_c00001_NODE_1_...cluster080_ORF27:gid::pid::loc:38806:39424:strand:+:2:200 PP 9765...........................................66777776.666666.8*************98.66.7776666..5*********8......57*****************763...........568*************************98766665442.....21......333333
+#=GC PP_cons                                                                             .....9***9*******99876...899.*********88677656778888886.666666.7*************87.6657776666..5*9*******8......58*****************764.......4...567*************************9887777766.......3...55.666666
+#=GC RF                                                                                  ....xxxxxxxxxxxxxxxxxx...xxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.......x...xx.xxxxxx
+
+CS783_c00001_NODE_1_...cluster015_ORF1:gid::pid::loc:594:1371:strand:-:20:253            VP-.........AFP.STYRYDGSLTTPPCTEGVKWIVLTTPAEMSESQIAAFKAIIH---------GNNRPVQPLNGRKLF--ld.
+#=GR CS783_c00001_NODE_1_...cluster015_ORF1:gid::pid::loc:594:1371:strand:-:20:253    PP 66..........444.78************************************8888.........899*********976..79.
+CS200_c00001_NODE_1_...cluster030_ORF6:gid::pid::loc:9227:10010:strand:+:34:255          LP-.........SAR.RAYRYDGSLTTPPCSEGVKWFVLTTPIELSKVQIATFTAIVH---------NNNRPVQPLNGRKL---lvd
+#=GR CS200_c00001_NODE_1_...cluster030_ORF6:gid::pid::loc:9227:10010:strand:+:34:255  PP **..........777.899***********************************8888.........9***********86...679
+CS203_c00001_NODE_1_...cluster080_ORF27:gid::pid::loc:38806:39424:strand:+:2:200         LSSngqmrdpavQTFpSTYRYDGSLTTPPCSEGVKWIVLTTPAEMSESQIAAFKAIIH---------GNNRPVQPLNGRKL---lld
+#=GR CS203_c00001_NODE_1_...cluster080_ORF27:gid::pid::loc:38806:39424:strand:+:2:200 PP 322111111223333577************************************8888.........899*********86...689
+#=GC PP_cons                                                                             662.........555.78************************************8888.........999*********976.....
+#=GC RF                                                                                  xxx.........xxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...
+//

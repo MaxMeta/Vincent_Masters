@@ -1,0 +1,23 @@
+#                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Epimerase            PF01370.21   241 BGC0000278.1_ORF1:gid:urdZ3:pid:AAF72549.1:loc:25:1066:strand:+ -            346   2.2e-31  109.2   0.0   1   1   4.4e-35   2.6e-31  108.9   0.0     2   241     2   243     1   243 0.83 NAD dependent epimerase/dehydratase family
+GDP_Man_Dehyd        PF16363.5    332 BGC0000278.1_ORF1:gid:urdZ3:pid:AAF72549.1:loc:25:1066:strand:+ -            346   2.1e-12   47.1   0.0   1   1   7.3e-16   4.3e-12   46.1   0.0     2   331     3   308     2   309 0.78 GDP-mannose 4,6 dehydratase
+RmlD_sub_bind        PF04321.17   287 BGC0000278.1_ORF1:gid:urdZ3:pid:AAF72549.1:loc:25:1066:strand:+ -            346     1e-10   41.2   0.1   1   1   4.1e-14   2.4e-10   40.0   0.1     4   165     2   188     1   198 0.78 RmlD substrate binding domain
+DegT_DnrJ_EryC1      PF01041.17   361 BGC0000278.1_ORF2:gid:urdQ:pid:AAF72550.1:loc:1068:2373:strand:+ -            434   7.6e-94  315.0   0.0   1   1     5e-98     9e-94  314.7   0.0     6   360    44   426    39   427 0.92 DegT/DnrJ/EryC1/StrS aminotransferase family
+Epimerase            PF01370.21   241 BGC0000278.1_ORF3:gid:urdR:pid:AAF72551.1:loc:2413:3157:strand:+ -            247     1e-17   64.4   0.0   1   1   2.3e-21   1.4e-17   64.0   0.0    60   240    16   176    10   177 0.81 NAD dependent epimerase/dehydratase family
+GDP_Man_Dehyd        PF16363.5    332 BGC0000278.1_ORF3:gid:urdR:pid:AAF72551.1:loc:2413:3157:strand:+ -            247   1.1e-08   34.8   0.0   1   1   2.2e-12   1.3e-08   34.6   0.0   112   277    51   206    30   246 0.76 GDP-mannose 4,6 dehydratase
+RmlD_sub_bind        PF04321.17   287 BGC0000278.1_ORF3:gid:urdR:pid:AAF72551.1:loc:2413:3157:strand:+ -            247   8.9e-07   28.3   0.0   1   1   1.9e-10   1.1e-06   27.9   0.0    72   165    38   134    11   143 0.82 RmlD substrate binding domain
+Hexose_dehydrat      PF03559.14   204 BGC0000278.1_ORF4:gid:urdS:pid:AAF72552.1:loc:3195:4605:strand:+ -            469  2.8e-166  549.4   0.0   1   2   2.7e-90   4.8e-86  287.4   0.0     2   204    37   244    36   244 0.98 NDP-hexose 2,3-dehydratase
+Hexose_dehydrat      PF03559.14   204 BGC0000278.1_ORF4:gid:urdS:pid:AAF72552.1:loc:3195:4605:strand:+ -            469  2.8e-166  549.4   0.0   2   2   5.1e-82   9.1e-78  260.3   0.0     2   204   258   461   257   461 0.99 NDP-hexose 2,3-dehydratase
+GFO_IDH_MocA         PF01408.22   120 BGC0000278.1_ORF5:gid:urdT:pid:AAF72553.1:loc:4601:5408:strand:+ -            269   2.6e-11   44.4   0.0   1   1   2.2e-15     4e-11   43.8   0.0     2    87     6    91     5   125 0.91 Oxidoreductase family, NAD-binding Rossmann fold
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000278.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000278.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000278.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:35:13 2019
+# [ok]

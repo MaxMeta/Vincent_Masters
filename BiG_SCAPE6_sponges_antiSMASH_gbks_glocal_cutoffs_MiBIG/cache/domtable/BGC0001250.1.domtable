@@ -1,0 +1,25 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.28   423 BGC0001250.1_ORF1:gid:sidN:pid:AET13875.1:loc:0:14073:strand:+ -           4690  2.9e-202  671.9   0.0   1   3   1.8e-69   8.2e-66  222.3   0.0     3   421   238   656   236   657 0.80 AMP-binding enzyme
+AMP-binding          PF00501.28   423 BGC0001250.1_ORF1:gid:sidN:pid:AET13875.1:loc:0:14073:strand:+ -           4690  2.9e-202  671.9   0.0   2   3   1.6e-75     7e-72  242.3   0.0     3   423  1349  1760  1347  1760 0.87 AMP-binding enzyme
+AMP-binding          PF00501.28   423 BGC0001250.1_ORF1:gid:sidN:pid:AET13875.1:loc:0:14073:strand:+ -           4690  2.9e-202  671.9   0.0   3   3   8.3e-64   3.7e-60  203.7   0.0     3   423  2464  2869  2462  2869 0.82 AMP-binding enzyme
+Condensation         PF00668.20   457 BGC0001250.1_ORF1:gid:sidN:pid:AET13875.1:loc:0:14073:strand:+ -           4690  1.8e-149  498.3   0.0   1   5     2e-23     9e-20   70.8   0.0    22   282   925  1175   922  1186 0.81 Condensation domain
+Condensation         PF00668.20   457 BGC0001250.1_ORF1:gid:sidN:pid:AET13875.1:loc:0:14073:strand:+ -           4690  1.8e-149  498.3   0.0   2   5   3.3e-16   1.5e-12   47.0   0.2     6   292  2001  2285  1998  2341 0.74 Condensation domain
+Condensation         PF00668.20   457 BGC0001250.1_ORF1:gid:sidN:pid:AET13875.1:loc:0:14073:strand:+ -           4690  1.8e-149  498.3   0.0   3   5   1.3e-39   5.7e-36  124.2   0.0     7   435  3121  3530  3115  3538 0.75 Condensation domain
+Condensation         PF00668.20   457 BGC0001250.1_ORF1:gid:sidN:pid:AET13875.1:loc:0:14073:strand:+ -           4690  1.8e-149  498.3   0.0   4   5   1.4e-41   6.2e-38  130.6   0.0     4   440  3679  4087  3676  4101 0.84 Condensation domain
+Condensation         PF00668.20   457 BGC0001250.1_ORF1:gid:sidN:pid:AET13875.1:loc:0:14073:strand:+ -           4690  1.8e-149  498.3   0.0   5   5   1.3e-36   5.7e-33  114.3   0.0    31   364  4262  4589  4233  4604 0.80 Condensation domain
+PP-binding           PF00550.25    67 BGC0001250.1_ORF1:gid:sidN:pid:AET13875.1:loc:0:14073:strand:+ -           4690   1.3e-40  137.6   3.2   1   4     1e-10   4.6e-07   30.1   0.2     2    67  1897  1961  1896  1961 0.95 Phosphopantetheine attachment site
+PP-binding           PF00550.25    67 BGC0001250.1_ORF1:gid:sidN:pid:AET13875.1:loc:0:14073:strand:+ -           4690   1.3e-40  137.6   3.2   2   4   1.3e-11     6e-08   32.9   0.0     2    65  3010  3073  3009  3074 0.94 Phosphopantetheine attachment site
+PP-binding           PF00550.25    67 BGC0001250.1_ORF1:gid:sidN:pid:AET13875.1:loc:0:14073:strand:+ -           4690   1.3e-40  137.6   3.2   3   4   5.9e-09   2.7e-05   24.4   0.0     1    67  3568  3633  3568  3633 0.96 Phosphopantetheine attachment site
+PP-binding           PF00550.25    67 BGC0001250.1_ORF1:gid:sidN:pid:AET13875.1:loc:0:14073:strand:+ -           4690   1.3e-40  137.6   3.2   4   4     2e-10   8.9e-07   29.2   0.0     2    65  4127  4189  4126  4190 0.96 Phosphopantetheine attachment site
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001250.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001250.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001250.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:50:20 2019
+# [ok]

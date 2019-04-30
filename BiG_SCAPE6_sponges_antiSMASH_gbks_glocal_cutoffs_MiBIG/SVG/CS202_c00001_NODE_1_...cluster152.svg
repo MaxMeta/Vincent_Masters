@@ -1,0 +1,79 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="367.56666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="357.56666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg5102_1)</title>
+			<polygon class=" (ctg5102_1)" points="10,40 18,10 18,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg5102_2)</title>
+			<polygon class=" (ctg5102_2)" points="18,40 42,10 42,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg5102_3)</title>
+			<polygon class=" (ctg5102_3)" points="117,25 73,25 73,10 43,40 73,70 73,55 117,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>VWA (PF00092)
+"von Willebrand factor type A domain"</title>
+				<polygon class="PF00092" points="47,40 59,28 60,28 60,52 59,52" stroke-linejoin="round" width="17" height="24" fill="rgb(199,215,59)" stroke="rgb(159,172,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5102_4)</title>
+			<polygon class=" (ctg5102_4)" points="202,25 148,25 148,10 118,40 148,70 148,55 202,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MutS_V (PF00488)
+"MutS domain V"</title>
+				<polygon class="PF00488" points="124,38 134,28 142,28 142,52 134,52 124,42" stroke-linejoin="round" width="18" height="24" fill="rgb(106,217,199)" stroke="rgb(84,173,159)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MutS_III (PF05192)
+"MutS domain III"</title>
+				<rect class="PF05192" x="148" y="28" stroke-linejoin="round" width="28" height="24" fill="rgb(87,171,208)" stroke="rgb(69,136,166)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MutS_II (PF05188)
+"MutS domain II"</title>
+				<rect class="PF05188" x="178" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(191,184,60)" stroke="rgb(152,147,48)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MutS_I (PF01624)
+"MutS domain I"</title>
+				<rect class="PF01624" x="191" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(208,180,91)" stroke="rgb(166,144,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5102_5)</title>
+			<polygon class=" (ctg5102_5)" points="242,25 238,25 238,10 208,40 238,70 238,55 242,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Sterol_MT_C (PF08498)
+"Sterol methyltransferase C-terminal"</title>
+				<polygon class="PF08498" points="212,40 214,38 214,42" stroke-linejoin="round" width="6" height="24" fill="rgb(65,219,176)" stroke="rgb(52,175,140)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Methyltransf_25 (PF13649)
+"Methyltransferase domain"</title>
+				<polygon class="PF13649" points="223,29 224,28 232,28 232,52 224,52 223,51" stroke-linejoin="round" width="9" height="24" fill="rgb(227,135,74)" stroke="rgb(181,108,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5102_6)</title>
+			<polygon class=" (ctg5102_6)" points="357,25 274,25 274,10 244,40 274,70 274,55 357,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQHop_cyclase_C (PF13243)
+"Squalene-hopene cyclase C-terminal domain"</title>
+				<polygon class="PF13243" points="248,40 260,28 280,28 280,52 260,52 248,40" stroke-linejoin="round" width="32" height="24" fill="rgb(191,58,201)" stroke="rgb(152,46,160)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SQHop_cyclase_N (PF13249)
+"Squalene-hopene cyclase N-terminal domain"</title>
+				<rect class="PF13249" x="281" y="28" stroke-linejoin="round" width="29" height="24" fill="rgb(88,190,89)" stroke="rgb(70,152,71)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SE (PF08491)
+"Squalene epoxidase"</title>
+				<rect class="PF08491" x="319" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(93,72,221)" stroke="rgb(74,57,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

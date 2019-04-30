@@ -1,0 +1,26 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Glycos_transf_2      PF00535.26   170 BGC0000771.1_ORF1:gid::pid:AAV52035.1:loc:56:1313:strand:+ -            418   2.2e-41  141.5   3.4   1   2   4.5e-22     2e-18   66.8   0.3     1   106     7   106     7   144 0.90 Glycosyl transferase family 2
+Glycos_transf_2      PF00535.26   170 BGC0000771.1_ORF1:gid::pid:AAV52035.1:loc:56:1313:strand:+ -            418   2.2e-41  141.5   3.4   2   2   9.3e-25   4.2e-21   75.5   0.2     2   131   260   388   259   412 0.82 Glycosyl transferase family 2
+Glyco_tranf_2_3      PF13641.6    230 BGC0000771.1_ORF1:gid::pid:AAV52035.1:loc:56:1313:strand:+ -            418   3.2e-16   59.9   0.0   1   1   2.1e-14   9.3e-11   42.0   0.0     1   123   255   372   255   399 0.89 Glycosyltransferase like family 2
+Glyco_tranf_2_4      PF13704.6     96 BGC0000771.1_ORF1:gid::pid:AAV52035.1:loc:56:1313:strand:+ -            418     3e-15   56.5   0.9   1   1     1e-12   4.5e-09   36.7   0.4     1    87    13    95    13   103 0.84 Glycosyl transferase family 2
+Glyco_tranf_2_2      PF10111.9    276 BGC0000771.1_ORF1:gid::pid:AAV52035.1:loc:56:1313:strand:+ -            418   3.3e-13   49.7   6.8   1   1   3.1e-11   1.4e-07   31.3   0.7     2   113   261   370   259   415 0.76 Glycosyltransferase like family 2
+Glycos_transf_2      PF00535.26   170 BGC0000771.1_ORF2:gid::pid:AAV52036.1:loc:1608:2778:strand:+ -            389   2.2e-26   92.7   1.0   1   1   5.8e-26   5.2e-22   78.4   0.1     2    82     6    85     5    87 0.94 Glycosyl transferase family 2
+Glyco_tranf_2_3      PF13641.6    230 BGC0000771.1_ORF2:gid::pid:AAV52036.1:loc:1608:2778:strand:+ -            389   5.7e-09   36.2   0.0   1   1   2.5e-10   2.3e-06   27.7   0.0     4    77     4    75     2    94 0.86 Glycosyltransferase like family 2
+CgtA                 PF06306.11   347 BGC0000771.1_ORF3:gid:cgtA:pid:AAV52037.1:loc:2847:3891:strand:+ -            347  6.8e-227  752.5  36.0   1   1  4.2e-231  7.6e-227  752.3  36.0     1   347     1   347     1   347 1.00 Beta-1,4-N-acetylgalactosaminyltransferase (CgtA)
+Glycos_transf_2      PF00535.26   170 BGC0000771.1_ORF4:gid:cgtB:pid:AAV52038.1:loc:3876:4782:strand:- -            301   7.3e-34  117.0   0.7   1   1   1.7e-37     1e-33  116.5   0.7     1   143     5   143     5   168 0.86 Glycosyl transferase family 2
+Glyco_tranf_2_3      PF13641.6    230 BGC0000771.1_ORF4:gid:cgtB:pid:AAV52038.1:loc:3876:4782:strand:- -            301   1.5e-09   38.1   0.0   1   1     4e-13   2.4e-09   37.4   0.0     4   119     4   115     2   129 0.87 Glycosyltransferase like family 2
+Glyco_tranf_2_2      PF10111.9    276 BGC0000771.1_ORF4:gid:cgtB:pid:AAV52038.1:loc:3876:4782:strand:- -            301   2.8e-08   33.6   1.4   1   1   8.1e-12   4.9e-08   32.8   1.4     1   114     5   112     5   170 0.75 Glycosyltransferase like family 2
+CST-I                PF06002.12   293 BGC0000771.1_ORF5:gid:cst-II:pid:AAV52039.1:loc:4870:5746:strand:+ -            291  1.9e-107  359.4  24.8   1   1  1.2e-111  2.1e-107  359.3  24.8     1   293     2   291     2   291 0.97 Alpha-2,3-sialyltransferase (CST-I)
+NeuB                 PF03102.14   241 BGC0000771.1_ORF6:gid:neuB:pid:AAV52040.1:loc:5746:6047:strand:+ -            100   5.3e-06   26.0   0.5   1   1   3.5e-10   6.3e-06   25.8   0.5     1    67    37    99    37   100 0.88 NeuB family
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000771.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000771.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000771.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:40:50 2019
+# [ok]

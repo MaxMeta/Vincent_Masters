@@ -1,0 +1,34 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+CPSase_L_D2          PF02786.17   211 BGC0000895.1_ORF2:gid:carB:pid:CAB56843.1:loc:483:3546:strand:- -           1020  1.4e-107  358.0   0.0   1   2   6.5e-76   1.5e-72  243.6   0.0     1   210   128   333   128   334 0.99 Carbamoyl-phosphate synthase L chain, ATP binding domain
+CPSase_L_D2          PF02786.17   211 BGC0000895.1_ORF2:gid:carB:pid:CAB56843.1:loc:483:3546:strand:- -           1020  1.4e-107  358.0   0.0   2   2   8.7e-36   1.9e-32  112.5   0.0     1   209   664   863   664   865 0.94 Carbamoyl-phosphate synthase L chain, ATP binding domain
+CPSase_L_D3          PF02787.19   122 BGC0000895.1_ORF2:gid:carB:pid:CAB56843.1:loc:483:3546:strand:- -           1020   8.5e-28   97.2   0.0   1   1   8.9e-31     2e-27   96.0   0.0     2   121   424   537   423   537 0.93 Carbamoyl-phosphate synthetase large chain, oligomerisation domain
+Dala_Dala_lig_C      PF07478.13   204 BGC0000895.1_ORF2:gid:carB:pid:CAB56843.1:loc:483:3546:strand:- -           1020   1.1e-18   67.5   0.0   1   2   3.9e-11   8.7e-08   31.9   0.0    29   174   156   301   141   307 0.82 D-ala D-ala ligase C-terminus
+Dala_Dala_lig_C      PF07478.13   204 BGC0000895.1_ORF2:gid:carB:pid:CAB56843.1:loc:483:3546:strand:- -           1020   1.1e-18   67.5   0.0   2   2     2e-11   4.5e-08   32.9   0.0    29   174   692   832   676   855 0.84 D-ala D-ala ligase C-terminus
+ATP-grasp_3          PF02655.14   161 BGC0000895.1_ORF2:gid:carB:pid:CAB56843.1:loc:483:3546:strand:- -           1020   3.5e-18   66.2   0.0   1   2   2.1e-08   4.7e-05   23.5   0.0     8   158   133   303   126   306 0.77 ATP-grasp domain
+ATP-grasp_3          PF02655.14   161 BGC0000895.1_ORF2:gid:carB:pid:CAB56843.1:loc:483:3546:strand:- -           1020   3.5e-18   66.2   0.0   2   2   2.7e-13     6e-10   39.4   0.0    28   158   696   834   674   837 0.84 ATP-grasp domain
+ATP-grasp            PF02222.22   171 BGC0000895.1_ORF2:gid:carB:pid:CAB56843.1:loc:483:3546:strand:- -           1020   5.2e-18   65.2   0.0   1   2   7.5e-12   1.7e-08   34.2   0.0     2   161   137   304   136   312 0.88 ATP-grasp domain
+ATP-grasp            PF02222.22   171 BGC0000895.1_ORF2:gid:carB:pid:CAB56843.1:loc:483:3546:strand:- -           1020   5.2e-18   65.2   0.0   2   2   4.5e-10     1e-06   28.5   0.0     6   160   677   834   672   838 0.84 ATP-grasp domain
+ATPgrasp_Ter         PF15632.6    131 BGC0000895.1_ORF2:gid:carB:pid:CAB56843.1:loc:483:3546:strand:- -           1020   1.6e-15   57.0   0.3   1   1     9e-11     2e-07   30.8   0.1     4   111   739   860   736   869 0.77 ATP-grasp in the biosynthetic pathway with Ter operon
+CPSase_sm_chain      PF00988.22   128 BGC0000895.1_ORF3:gid:carA:pid:CAA68238.2:loc:3538:4606:strand:- -            355   1.5e-42  144.4   0.2   1   1   3.8e-46   2.3e-42  143.9   0.2     2   127     3   130     2   131 0.96 Carbamoyl-phosphate synthase small chain, CPSase domain
+GATase               PF00117.28   190 BGC0000895.1_ORF3:gid:carA:pid:CAA68238.2:loc:3538:4606:strand:- -            355   1.9e-37  128.9   0.0   1   1   4.7e-41   2.8e-37  128.3   0.0    10   188   175   344   169   346 0.95 Glutamine amidotransferase class-I
+Peptidase_C26        PF07722.13   216 BGC0000895.1_ORF3:gid:carA:pid:CAA68238.2:loc:3538:4606:strand:- -            355   1.9e-08   34.3   1.2   1   1   7.5e-10   4.5e-06   26.6   0.5   100   216   229   328   220   328 0.77 Peptidase C26
+Semialdhyde_dhC      PF02774.18   184 BGC0000895.1_ORF4:gid:argC:pid:CAA68239.1:loc:4873:5899:strand:+ -            341   6.9e-32  111.0   0.4   1   1   1.2e-35   1.1e-31  110.3   0.4     1   184   155   312   155   312 0.97 Semialdehyde dehydrogenase, dimerisation domain
+Semialdhyde_dh       PF01118.24   121 BGC0000895.1_ORF4:gid:argC:pid:CAA68239.1:loc:4873:5899:strand:+ -            341   2.1e-20   73.4   0.0   1   1   4.6e-24   4.1e-20   72.4   0.0     1   112     2   132     2   176 0.88 Semialdehyde dehydrogenase, NAD binding domain
+ArgJ                 PF01960.18   376 BGC0000895.1_ORF5:gid:argJ:pid:CAA68240.1:loc:5923:7138:strand:+ -            404  3.7e-137  457.0   5.8   1   1  2.4e-141  4.2e-137  456.9   5.8     3   376    25   404    23   404 0.98 ArgJ family
+AA_kinase            PF00696.28   241 BGC0000895.1_ORF6:gid:argB:pid:CAA68241.1:loc:7153:7900:strand:+ -            248   1.5e-40  139.4   1.7   1   1   9.3e-45   1.7e-40  139.2   1.7     1   241     3   233     3   233 0.97 Amino acid kinase family
+Aminotran_3          PF00202.21   406 BGC0000895.1_ORF7:gid:argD:pid:CAA68242.1:loc:7896:9066:strand:+ -            389   1.2e-98  330.4   0.8   1   1  2.1e-102   1.9e-98  329.8   0.8     7   406    11   378     6   378 0.94 Aminotransferase class-III
+OTCace               PF00185.24   157 BGC0000895.1_ORF8:gid:argF:pid:CAA68243.1:loc:9058:10081:strand:+ -            340   2.2e-48  164.3   0.0   1   1   3.6e-52   3.2e-48  163.8   0.0     1   156   154   327   154   328 0.99 Aspartate/ornithine carbamoyltransferase, Asp/Orn binding domain
+OTCace_N             PF02729.21   148 BGC0000895.1_ORF8:gid:argF:pid:CAA68243.1:loc:9058:10081:strand:+ -            340   7.9e-43  146.0   0.0   1   1   1.4e-46   1.3e-42  145.4   0.0     1   148     8   148     8   148 0.98 Aspartate/ornithine carbamoyltransferase, carbamoyl-P binding domain
+QueT                 PF06177.11   139 BGC0000895.1_ORF9:gid:ccl:pid:CAA68244.1:loc:10189:10696:strand:+ -            168   6.4e-27   94.6  15.1   1   1     4e-31   7.2e-27   94.5  15.1     3   138    11   158     9   159 0.84 QueT transporter
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000895.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000895.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000895.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:49:24 2019
+# [ok]

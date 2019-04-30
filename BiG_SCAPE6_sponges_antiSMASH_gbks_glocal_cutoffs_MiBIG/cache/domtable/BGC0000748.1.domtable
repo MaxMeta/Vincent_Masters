@@ -1,0 +1,21 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Bac_transf           PF02397.16   184 BGC0000748.1_ORF2:gid:cpsE:pid:AAL56389.1:loc:360:1536:strand:+ -            391   2.2e-66  223.0   0.2   1   1   2.1e-70   3.7e-66  222.2   0.2     1   183   198   385   198   386 0.93 Bacterial sugar transferase
+Alg14                PF08660.11   175 BGC0000748.1_ORF3:gid:cpsF:pid:AAL56390.1:loc:1559:2009:strand:+ -            149   4.8e-17   62.4   0.0   1   1   1.7e-20   3.1e-16   59.8   0.0    76   173    58   146     3   148 0.91 Oligosaccharide biosynthesis protein Alg14 like
+Glyco_tran_28_C      PF04101.16   167 BGC0000748.1_ORF4:gid:cpsG:pid:AAL56391.1:loc:2008:2491:strand:+ -            160   1.5e-28   99.8   0.1   1   1   9.2e-33   1.7e-28   99.7   0.1     1   149     1   141     1   159 0.91 Glycosyltransferase family 28 C-terminal domain
+Wzy_C                PF04932.15   155 BGC0000748.1_ORF5:gid:cpsH:pid:AAL56392.1:loc:2586:3726:strand:+ -            379   4.9e-07   29.5  10.5   1   1   2.7e-11   4.9e-07   29.5  10.5     2   152   175   306   172   309 0.73 O-Antigen ligase
+Glycos_transf_2      PF00535.26   170 BGC0000748.1_ORF6:gid:cpsI:pid:AAL56393.1:loc:3725:4700:strand:+ -            324   1.7e-38  132.1   0.4   1   1   5.8e-42   3.5e-38  131.1   0.4     1   148     8   152     8   174 0.86 Glycosyl transferase family 2
+Glyco_tranf_2_2      PF10111.9    276 BGC0000748.1_ORF6:gid:cpsI:pid:AAL56393.1:loc:3725:4700:strand:+ -            324   9.5e-16   58.1   1.1   1   1     3e-19   1.8e-15   57.2   1.1     1   112     8   111     8   211 0.88 Glycosyltransferase like family 2
+Glyco_tranf_2_3      PF13641.6    230 BGC0000748.1_ORF6:gid:cpsI:pid:AAL56393.1:loc:3725:4700:strand:+ -            324   5.6e-14   52.6   0.0   1   1   1.6e-17   9.3e-14   51.9   0.0     4   130     7   127     6   199 0.85 Glycosyltransferase like family 2
+Glycos_transf_2      PF00535.26   170 BGC0000748.1_ORF7:gid:cpsJ:pid:AAL56394.1:loc:4733:4888:strand:+ -             52   1.2e-13   51.2   1.1   1   1   7.5e-18   1.3e-13   51.1   1.1     1    42    11    51    11    52 0.98 Glycosyl transferase family 2
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000748.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000748.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000748.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:38:53 2019
+# [ok]

@@ -1,0 +1,104 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="431.5" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="421.5" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg1486_1)</title>
+			<polygon class=" (ctg1486_1)" points="10,10 12,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1486_2)</title>
+			<polygon class=" (ctg1486_2)" points="12,40 24,10 24,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1486_3)</title>
+			<polygon class=" (ctg1486_3)" points="25,40 52,10 52,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1486_4)</title>
+			<polygon class=" (ctg1486_4)" points="87,25 83,25 83,10 53,40 83,70 83,55 87,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="57,40 69,28 85,28 85,52 69,52" stroke-linejoin="round" width="29" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1486_5)</title>
+			<polygon class=" (ctg1486_5)" points="96,25 98,25 98,10 128,40 98,70 98,55 96,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1486_6)</title>
+			<polygon class=" (ctg1486_6)" points="128,25 137,25 137,10 167,40 137,70 137,55 128,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LpxB (PF02684)
+"Lipid-A-disaccharide synthetase"</title>
+				<polygon class="PF02684" points="129,28 150,28 162,40 150,52 129,52" stroke-linejoin="round" width="37" height="24" fill="rgb(117,191,89)" stroke="rgb(93,152,71)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1486_7)</title>
+			<polygon class=" (ctg1486_7)" points="178,10 199,40 178,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>RNase_HII (PF01351)
+"Ribonuclease HII"</title>
+				<polygon class="PF01351" points="180,28 187,28 195,40 187,52 180,52" stroke-linejoin="round" width="17" height="24" fill="rgb(76,183,124)" stroke="rgb(60,146,99)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1486_8)</title>
+			<polygon class=" (ctg1486_8)" points="199,25 288,25 288,10 318,40 288,70 288,55 199,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PHP (PF02811)
+"PHP domain"</title>
+				<rect class="PF02811" x="203" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(167,87,219)" stroke="rgb(133,69,175)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DNA_pol3_alpha (PF07733)
+"Bacterial DNA polymerase III alpha NTPase domain"</title>
+				<rect class="PF07733" x="230" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(190,187,47)" stroke="rgb(152,149,37)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DNA_pol3_finger (PF17657)
+"Bacterial DNA polymerase III alpha subunit finger domain"</title>
+				<rect class="PF17657" x="257" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(204,179,99)" stroke="rgb(163,143,79)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HHH_6 (PF14579)
+"Helix-hairpin-helix motif"</title>
+				<rect class="PF14579" x="281" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(166,180,62)" stroke="rgb(132,144,49)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1486_9)</title>
+			<polygon class=" (ctg1486_9)" points="327,25 327,25 327,10 357,40 327,70 327,55 327,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1486_10)</title>
+			<polygon class=" (ctg1486_10)" points="368,10 390,40 368,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MmlI (PF09448)
+"Methylmuconolactone methyl-isomerase"</title>
+				<polygon class="PF09448" points="368,28 377,28 378,29 378,51 377,52 368,52" stroke-linejoin="round" width="10" height="24" fill="rgb(148,216,86)" stroke="rgb(118,172,68)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>EthD (PF07110)
+"EthD domain"</title>
+				<polygon class="PF07110" points="379,31 386,40 379,49" stroke-linejoin="round" width="8" height="24" fill="rgb(64,130,182)" stroke="rgb(51,104,145)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1486_11)</title>
+			<polygon class=" (ctg1486_11)" points="392,10 420,40 392,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MaoC_dehydrat_N (PF13452)
+"N-terminal half of MaoC dehydratase"</title>
+				<rect class="PF13452" x="393" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(215,186,64)" stroke="rgb(172,148,51)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MaoC_dehydratas (PF01575)
+"MaoC like domain"</title>
+				<polygon class="PF01575" points="409,33 416,40 409,47" stroke-linejoin="round" width="10" height="24" fill="rgb(218,129,86)" stroke="rgb(174,103,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

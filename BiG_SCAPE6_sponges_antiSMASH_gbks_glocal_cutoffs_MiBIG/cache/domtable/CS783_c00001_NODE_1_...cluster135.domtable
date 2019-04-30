@@ -1,0 +1,25 @@
+#                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SQS_PSY              PF00494.19   263 CS783_c00001_NODE_1_...cluster135_ORF1:gid::pid::loc:0:1092:strand:+ -            363   6.9e-52  176.5   3.3   1   1   4.6e-56   8.3e-52  176.3   3.3     1   262    31   327    31   328 0.91 Squalene/phytoene synthase
+ADH_N_2              PF16884.5    108 CS783_c00001_NODE_1_...cluster135_ORF2:gid::pid::loc:1231:2245:strand:+ -            337   3.4e-42  142.7   0.7   1   1   1.1e-45   6.4e-42  141.8   0.0     1   107     7   113     7   114 0.98 N-terminal domain of oxidoreductase
+ADH_zinc_N           PF00107.26   130 CS783_c00001_NODE_1_...cluster135_ORF2:gid::pid::loc:1231:2245:strand:+ -            337   5.7e-18   65.2   0.2   1   1   1.7e-21     1e-17   64.3   0.2     1   116   159   280   159   293 0.89 Zinc-binding dehydrogenase
+ADH_zinc_N_2         PF13602.6    133 CS783_c00001_NODE_1_...cluster135_ORF2:gid::pid::loc:1231:2245:strand:+ -            337   1.6e-10   42.1   0.0   1   1     5e-14     3e-10   41.3   0.0     1   132   192   331   192   332 0.79 Zinc-binding dehydrogenase
+TPP_enzyme_M         PF00205.22   137 CS783_c00001_NODE_1_...cluster135_ORF3:gid::pid::loc:2299:3946:strand:+ -            548   3.6e-36  123.9   0.0   1   1   1.1e-39   6.3e-36  123.1   0.0     1   136   186   318   186   319 0.92 Thiamine pyrophosphate enzyme, central domain
+TPP_enzyme_N         PF02776.18   172 CS783_c00001_NODE_1_...cluster135_ORF3:gid::pid::loc:2299:3946:strand:+ -            548   9.2e-35  119.8   0.1   1   1   1.1e-36   6.7e-33  113.7   0.1     2   170     2   165     1   167 0.94 Thiamine pyrophosphate enzyme, N-terminal TPP binding domain
+TPP_enzyme_C         PF02775.21   153 CS783_c00001_NODE_1_...cluster135_ORF3:gid::pid::loc:2299:3946:strand:+ -            548   4.2e-21   75.3   0.1   1   1   1.8e-24   1.1e-20   74.0   0.1     3   152   388   533   386   534 0.86 Thiamine pyrophosphate enzyme, C-terminal TPP binding domain
+APH                  PF01636.23   240 CS783_c00001_NODE_1_...cluster135_ORF4:gid::pid::loc:3996:5298:strand:+ -            433   4.4e-07   30.1   2.6   1   1   2.5e-11   4.4e-07   30.1   2.6    33   212   166   347   151   379 0.53 Phosphotransferase enzyme family
+Amidohydro_1         PF01979.20   344 CS783_c00001_NODE_1_...cluster135_ORF5:gid::pid::loc:5317:6562:strand:- -            414   4.3e-33  115.1   0.0   1   1   5.7e-37   5.1e-33  114.8   0.0     1   344    59   400    59   400 0.83 Amidohydrolase family
+Amidohydro_3         PF07969.11   473 CS783_c00001_NODE_1_...cluster135_ORF5:gid::pid::loc:5317:6562:strand:- -            414   1.5e-14   54.3   1.7   1   1   6.8e-15   6.1e-11   42.5   0.5   231   472   172   400   163   401 0.75 Amidohydrolase family
+Cupin_2              PF07883.11    71 CS783_c00001_NODE_1_...cluster135_ORF7:gid::pid::loc:7807:8149:strand:- -            113   1.7e-15   56.4   0.3   1   1   2.8e-19   2.5e-15   55.9   0.3     7    71    39   102    33   102 0.93 Cupin domain
+Cupin_1              PF00190.22   151 CS783_c00001_NODE_1_...cluster135_ORF7:gid::pid::loc:7807:8149:strand:- -            113   5.1e-05   22.9   0.2   1   1   1.1e-08   9.8e-05   22.0   0.2    41   118    38   107    22   112 0.85 Cupin
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS783_c00001_NODE_1_...cluster135.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS783_c00001_NODE_1_...cluster135.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS783_c00001_NODE_1_...cluster135.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:55:08 2019
+# [ok]

@@ -1,0 +1,30 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ACPS                 PF01648.20   114 BGC0000457.1_ORF1:gid:vbsP:pid:ABC94345.1:loc:0:720:strand:+ -            239   2.9e-15   56.4   0.0   1   1   3.1e-19   5.6e-15   55.5   0.0     1   113   113   215   113   216 0.87 4'-phosphopantetheinyl transferase superfamily
+K_oxygenase          PF13434.6    342 BGC0000457.1_ORF2:gid:vbsO:pid:ABC94346.1:loc:692:2051:strand:- -            452  9.8e-112  373.5   0.0   1   1    2e-115  1.2e-111  373.2   0.0     2   342    14   342    13   342 0.96 L-lysine 6-monooxygenase (NADPH-requiring)
+Pyr_redox_3          PF13738.6    305 BGC0000457.1_ORF2:gid:vbsO:pid:ABC94346.1:loc:692:2051:strand:- -            452   9.2e-14   51.4   0.0   1   1     2e-13   1.2e-09   37.9   0.0    50   203    76   232    69   269 0.73 Pyridine nucleotide-disulphide oxidoreductase
+AMP-binding          PF00501.28   423 BGC0000457.1_ORF3:gid:vbsS:pid:ABC94347.1:loc:2047:6040:strand:- -           1330     3e-79  266.6   0.0   1   1   1.1e-82     4e-79  266.2   0.0     4   423   476   873   473   873 0.88 AMP-binding enzyme
+Condensation         PF00668.20   457 BGC0000457.1_ORF3:gid:vbsS:pid:ABC94347.1:loc:2047:6040:strand:- -           1330   2.2e-33  115.6   0.0   1   1   9.9e-37   3.5e-33  115.0   0.0     5   452    24   450    21   454 0.87 Condensation domain
+AMP-binding_C        PF13193.6     76 BGC0000457.1_ORF3:gid:vbsS:pid:ABC94347.1:loc:2047:6040:strand:- -           1330   2.2e-13   51.0   0.6   1   1   1.5e-16   5.5e-13   49.7   0.6     1    76   881   957   881   957 0.91 AMP-binding enzyme C-terminal domain
+PP-binding           PF00550.25    67 BGC0000457.1_ORF3:gid:vbsS:pid:ABC94347.1:loc:2047:6040:strand:- -           1330   1.3e-12   47.8   0.0   1   1   9.4e-16   3.4e-12   46.5   0.0     1    65   982  1045   982  1047 0.94 Phosphopantetheine attachment site
+Thioesterase         PF00975.20   231 BGC0000457.1_ORF3:gid:vbsS:pid:ABC94347.1:loc:2047:6040:strand:- -           1330   4.9e-10   39.9   0.0   1   1   3.3e-13   1.2e-09   38.7   0.0     2   100  1069  1165  1068  1169 0.87 Thioesterase domain
+MbtH                 PF03621.13    53 BGC0000457.1_ORF4:gid:vbsG:pid:ABC94348.1:loc:6058:6277:strand:- -             72   3.6e-14   51.9   0.1   1   1   2.3e-18   4.1e-14   51.8   0.1     6    52     5    51     1    52 0.92 MbtH-like protein
+Acetyltransf_8       PF13523.6    145 BGC0000457.1_ORF5:gid:vbsA:pid:ABC94349.1:loc:6471:7458:strand:+ -            328   1.6e-53  180.3   0.9   1   1   1.6e-57   2.8e-53  179.5   0.4     1   145   158   303   158   303 0.97 Acetyltransferase (GNAT) domain
+MatE                 PF01554.18   161 BGC0000457.1_ORF6:gid:vbsD:pid:ABC94350.1:loc:7454:8873:strand:+ -            472   3.2e-31  108.2  39.1   1   2     4e-24   3.6e-20   72.2  17.5     1   161    36   194    36   194 0.95 MatE
+MatE                 PF01554.18   161 BGC0000457.1_ORF6:gid:vbsD:pid:ABC94350.1:loc:7454:8873:strand:+ -            472   3.2e-31  108.2  39.1   2   2   2.9e-17   2.6e-13   49.9  13.6     1   153   255   409   255   417 0.95 MatE
+Polysacc_synt_C      PF14667.6    143 BGC0000457.1_ORF6:gid:vbsD:pid:ABC94350.1:loc:7454:8873:strand:+ -            472   8.6e-08   32.4  13.8   1   1   9.6e-12   8.6e-08   32.4  13.8     2   114   148   265   147   290 0.80 Polysaccharide biosynthesis C-terminal domain
+Cys_Met_Meta_PP      PF01053.20   382 BGC0000457.1_ORF7:gid:vbsL:pid:ABC94351.1:loc:8883:10071:strand:+ -            395   5.8e-97  324.6   0.0   1   1  3.9e-101     7e-97  324.3   0.0    14   381    27   390    21   391 0.94 Cys/Met metabolism PLP-dependent enzyme
+Acetyltransf_1       PF00583.25   117 BGC0000457.1_ORF9:gid:vbsC:pid:ABC94353.1:loc:10782:11274:strand:+ -            163   1.5e-08   34.9   0.1   1   1   4.7e-12   2.8e-08   34.0   0.1    16   117    25   130     2   130 0.66 Acetyltransferase (GNAT) family
+Acetyltransf_7       PF13508.7     76 BGC0000457.1_ORF9:gid:vbsC:pid:ABC94353.1:loc:10782:11274:strand:+ -            163   1.3e-07   32.0   0.0   1   1   2.9e-11   1.7e-07   31.6   0.0    16    75    55   131    31   132 0.68 Acetyltransferase (GNAT) domain
+Acetyltransf_10      PF13673.7    127 BGC0000457.1_ORF9:gid:vbsC:pid:ABC94353.1:loc:10782:11274:strand:+ -            163   7.7e-07   29.1   0.0   1   1   4.8e-10   2.9e-06   27.2   0.0    27    92    38   106    21   138 0.75 Acetyltransferase (GNAT) domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000457.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000457.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000457.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:49:10 2019
+# [ok]

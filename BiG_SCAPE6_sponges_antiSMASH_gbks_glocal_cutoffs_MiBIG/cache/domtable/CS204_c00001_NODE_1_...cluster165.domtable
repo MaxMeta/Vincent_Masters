@@ -1,0 +1,17 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NHase_alpha          PF02979.16   184 CS204_c00001_NODE_1_...cluster165_ORF2:gid::pid::loc:342:603:strand:- -             86   3.5e-07   29.7   0.0   1   1   2.4e-11   4.3e-07   29.4   0.0   114   162    18    67    14    77 0.90 Nitrile hydratase, alpha chain
+TonB_dep_Rec         PF00593.24   470 CS204_c00001_NODE_1_...cluster165_ORF3:gid::pid::loc:1073:3779:strand:- -            901   1.2e-29  104.6  32.1   1   1   5.5e-33   3.3e-29  103.1  28.5    55   469   393   898   361   899 0.67 TonB dependent receptor
+Plug                 PF07715.15   108 CS204_c00001_NODE_1_...cluster165_ORF3:gid::pid::loc:1073:3779:strand:- -            901     4e-15   56.3   2.5   1   1   9.7e-19   5.8e-15   55.8   0.3     2   108   126   236   125   236 0.90 TonB-dependent Receptor Plug Domain
+CarboxypepD_reg      PF13620.6     82 CS204_c00001_NODE_1_...cluster165_ORF3:gid::pid::loc:1073:3779:strand:- -            901   3.8e-15   55.9   5.3   1   1   2.3e-18   1.4e-14   54.1   3.6     2    81    28   106    27   107 0.94 Carboxypeptidase regulatory-like domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS204_c00001_NODE_1_...cluster165.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS204_c00001_NODE_1_...cluster165.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS204_c00001_NODE_1_...cluster165.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:42:12 2019
+# [ok]

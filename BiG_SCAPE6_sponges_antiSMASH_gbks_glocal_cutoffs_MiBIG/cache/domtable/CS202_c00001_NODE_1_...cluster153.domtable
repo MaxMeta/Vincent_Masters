@@ -1,0 +1,27 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Thioredoxin_4        PF13462.6    166 CS202_c00001_NODE_1_...cluster153_ORF1:gid::pid::loc:1:295:strand:- -             98   6.6e-07   29.6   0.0   1   1   4.8e-11   8.7e-07   29.2   0.0    13    48    62    98    60    98 0.92 Thioredoxin
+Asn_synthase         PF00733.21   355 CS202_c00001_NODE_1_...cluster153_ORF4:gid::pid::loc:1074:2730:strand:- -            551     6e-28   98.5   1.3   1   1   9.1e-32   8.2e-28   98.1   1.3     2   355   165   536   164   536 0.82 Asparagine synthase
+GATase_7             PF13537.6    123 CS202_c00001_NODE_1_...cluster153_ORF4:gid::pid::loc:1074:2730:strand:- -            551   3.1e-08   33.6   0.0   1   1   5.8e-12   5.2e-08   32.8   0.0    29   121     3    91     1    93 0.83 Glutamine amidotransferase domain
+Transglut_core3      PF13471.6    117 CS202_c00001_NODE_1_...cluster153_ORF5:gid::pid::loc:2812:3202:strand:- -            129   5.4e-23   81.1   5.1   1   1   7.9e-27   7.1e-23   80.7   5.0    15   116    31   127     8   128 0.85 Transglutaminase-like superfamily
+Transglut_core       PF01841.19   112 CS202_c00001_NODE_1_...cluster153_ORF5:gid::pid::loc:2812:3202:strand:- -            129   8.6e-06   26.2   1.1   1   1   1.7e-09   1.5e-05   25.4   1.1    53   100    70   108    25   115 0.86 Transglutaminase-like superfamily
+PqqD                 PF05402.12    67 CS202_c00001_NODE_1_...cluster153_ORF6:gid::pid::loc:3198:3486:strand:- -             95   1.3e-11   44.6   0.0   1   1   8.8e-16   1.6e-11   44.3   0.0     2    66    25    89    24    90 0.97 Coenzyme PQQ synthesis protein D (PqqD)
+Response_reg         PF00072.24   112 CS202_c00001_NODE_1_...cluster153_ORF8:gid::pid::loc:4097:4742:strand:- -            214   3.7e-25   88.3   0.0   1   1   6.4e-29   5.7e-25   87.7   0.0     1   111    12   123    12   124 0.97 Response regulator receiver domain
+GerE                 PF00196.19    57 CS202_c00001_NODE_1_...cluster153_ORF8:gid::pid::loc:4097:4742:strand:- -            214   1.1e-18   66.5   0.0   1   1   2.2e-22   1.9e-18   65.7   0.0     2    55   149   202   148   203 0.97 Bacterial regulatory proteins, luxR family
+Reg_prop             PF07494.11    24 CS202_c00001_NODE_1_...cluster153_ORF9:gid::pid::loc:4776:7695:strand:+ -            972   2.3e-39  128.4  17.2   1   1   2.2e-08   9.8e-05   22.1   0.1     1    23   265   287   265   288 0.93 Two component regulator propeller
+Y_Y_Y                PF07495.13    66 CS202_c00001_NODE_1_...cluster153_ORF9:gid::pid::loc:4776:7695:strand:+ -            972   1.5e-15   56.8   0.0   1   1   5.9e-19   2.6e-15   56.1   0.0     4    65   650   710   647   711 0.95 Y_Y_Y domain
+HisKA_3              PF07730.13    68 CS202_c00001_NODE_1_...cluster153_ORF9:gid::pid::loc:4776:7695:strand:+ -            972   2.1e-11   44.2   1.0   1   1   1.1e-14   4.9e-11   43.0   1.0     1    66   757   821   757   823 0.95 Histidine kinase
+HATPase_c            PF02518.26   112 CS202_c00001_NODE_1_...cluster153_ORF9:gid::pid::loc:4776:7695:strand:+ -            972   7.4e-09   36.1   0.0   1   1   6.5e-12   2.9e-08   34.2   0.0     4   111   862   954   860   955 0.90 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+Plug                 PF07715.15   108 CS202_c00001_NODE_1_...cluster153_ORF11:gid::pid::loc:7897:9790:strand:- -            630   8.5e-18   64.9   0.1   1   1   1.6e-21   1.4e-17   64.2   0.1     3   108    38   146    36   146 0.93 TonB-dependent Receptor Plug Domain
+TonB_dep_Rec         PF00593.24   470 CS202_c00001_NODE_1_...cluster153_ORF11:gid::pid::loc:7897:9790:strand:- -            630     4e-17   63.3   3.5   1   1     5e-21   4.5e-17   63.1   3.2   155   469   341   628   238   629 0.76 TonB dependent receptor
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster153.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS202_c00001_NODE_1_...cluster153.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster153.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:30:37 2019
+# [ok]

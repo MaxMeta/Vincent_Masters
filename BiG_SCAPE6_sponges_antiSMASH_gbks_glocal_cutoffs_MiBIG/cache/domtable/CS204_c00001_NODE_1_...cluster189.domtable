@@ -1,0 +1,21 @@
+#                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Xan_ur_permease      PF00860.20   389 CS204_c00001_NODE_1_...cluster189_ORF1:gid::pid::loc:2:1490:strand:- -            496   6.9e-40  136.9  42.6   1   1   5.2e-44   9.4e-40  136.5  42.6     5   384    22   396    19   400 0.91 Permease family
+Amidohydro_2         PF04909.14   291 CS204_c00001_NODE_1_...cluster189_ORF2:gid::pid::loc:1557:2688:strand:+ -            376   7.8e-25   88.2   3.2   1   1   1.2e-28   2.2e-24   86.7   2.3    26   290    95   373    75   374 0.79 Amidohydrolase
+PP-binding           PF00550.25    67 CS204_c00001_NODE_1_...cluster189_ORF3:gid::pid::loc:2738:2969:strand:- -             76   9.3e-10   38.7   0.1   1   1   5.8e-14     1e-09   38.6   0.1     2    65     7    69     6    71 0.93 Phosphopantetheine attachment site
+Abhydrolase_6        PF12697.7    220 CS204_c00001_NODE_1_...cluster189_ORF4:gid::pid::loc:3159:4083:strand:+ -            307     6e-15   56.4   3.0   1   1   4.5e-19     8e-15   56.0   3.0     1   220    39   297    39   297 0.56 Alpha/beta hydrolase family
+ketoacyl-synt        PF00109.26   253 CS204_c00001_NODE_1_...cluster189_ORF5:gid::pid::loc:4079:6212:strand:- -            710     2e-57  194.7   1.8   1   1   4.4e-61     2e-57  194.7   1.8    76   253     1   171     1   171 0.95 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.22   118 CS204_c00001_NODE_1_...cluster189_ORF5:gid::pid::loc:4079:6212:strand:- -            710     2e-43  147.2   2.1   1   1   5.2e-47   2.3e-43  147.0   0.3     2   117   180   296   179   297 0.99 Beta-ketoacyl synthase, C-terminal domain
+Acyl_transf_1        PF00698.21   319 CS204_c00001_NODE_1_...cluster189_ORF5:gid::pid::loc:4079:6212:strand:- -            710   2.1e-16   60.4   1.1   1   1   7.9e-20   3.5e-16   59.6   1.1     2   112   453   563   452   574 0.94 Acyl transferase domain
+KAsynt_C_assoc       PF16197.5    112 CS204_c00001_NODE_1_...cluster189_ORF5:gid::pid::loc:4079:6212:strand:- -            710   2.6e-14   53.6   0.0   1   1   9.3e-18   4.1e-14   53.0   0.0     1    90   299   395   299   422 0.82 Ketoacyl-synthetase C-terminal extension
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS204_c00001_NODE_1_...cluster189.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS204_c00001_NODE_1_...cluster189.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS204_c00001_NODE_1_...cluster189.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:44:25 2019
+# [ok]

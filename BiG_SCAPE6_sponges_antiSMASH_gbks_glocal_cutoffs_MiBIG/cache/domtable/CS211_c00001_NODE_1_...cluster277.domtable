@@ -1,0 +1,23 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+adh_short_C2         PF13561.6    234 CS211_c00001_NODE_1_...cluster277_ORF1:gid::pid::loc:2:713:strand:+ -            236   7.8e-28   97.6   0.1   1   1   1.7e-31     1e-27   97.2   0.1    47   216     4   175     1   182 0.90 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.25   195 CS211_c00001_NODE_1_...cluster277_ORF1:gid::pid::loc:2:713:strand:+ -            236   1.1e-25   90.3   0.0   1   1   2.3e-29   1.4e-25   89.9   0.0    55   181     4   136     1   147 0.94 short chain dehydrogenase
+KR                   PF08659.10   180 CS211_c00001_NODE_1_...cluster277_ORF1:gid::pid::loc:2:713:strand:+ -            236     4e-09   36.6   0.4   1   1   2.6e-12   1.6e-08   34.7   0.4    59   153     4   108     1   124 0.83 KR domain
+PP-binding           PF00550.25    67 CS211_c00001_NODE_1_...cluster277_ORF2:gid::pid::loc:890:1109:strand:+ -             72   1.1e-08   35.3   0.0   1   1   7.5e-13   1.3e-08   35.0   0.0     2    67     6    67     5    68 0.89 Phosphopantetheine attachment site
+Abhydrolase_6        PF12697.7    220 CS211_c00001_NODE_1_...cluster277_ORF3:gid::pid::loc:1172:2090:strand:+ -            305   1.7e-13   51.7   1.0   1   1   1.2e-17   2.1e-13   51.4   1.0     1   219    39   292    39   293 0.59 Alpha/beta hydrolase family
+ketoacyl-synt        PF00109.26   253 CS211_c00001_NODE_1_...cluster277_ORF4:gid::pid::loc:2115:5028:strand:- -            970   1.3e-77  260.8   4.2   1   1   5.8e-81   2.1e-77  260.2   2.8     4   253   120   361   117   361 0.96 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.22   118 CS211_c00001_NODE_1_...cluster277_ORF4:gid::pid::loc:2115:5028:strand:- -            970     5e-39  133.0   0.0   1   1   3.8e-42   1.4e-38  131.6   0.0     2   117   370   486   369   487 0.98 Beta-ketoacyl synthase, C-terminal domain
+Acyl_transf_1        PF00698.21   319 CS211_c00001_NODE_1_...cluster277_ORF4:gid::pid::loc:2115:5028:strand:- -            970   5.4e-16   59.0   0.2   1   1   2.4e-19   8.7e-16   58.3   0.2     2   125   688   814   687   904 0.92 Acyl transferase domain
+PP-binding           PF00550.25    67 CS211_c00001_NODE_1_...cluster277_ORF4:gid::pid::loc:2115:5028:strand:- -            970   1.2e-13   51.1   0.0   1   1   1.7e-16   6.1e-13   48.9   0.0     3    67    16    81    14    81 0.90 Phosphopantetheine attachment site
+KAsynt_C_assoc       PF16197.5    112 CS211_c00001_NODE_1_...cluster277_ORF4:gid::pid::loc:2115:5028:strand:- -            970     1e-12   48.5   0.0   1   1   7.8e-16   2.8e-12   47.1   0.0     1    89   489   608   489   627 0.87 Ketoacyl-synthetase C-terminal extension
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster277.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS211_c00001_NODE_1_...cluster277.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster277.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:52:01 2019
+# [ok]

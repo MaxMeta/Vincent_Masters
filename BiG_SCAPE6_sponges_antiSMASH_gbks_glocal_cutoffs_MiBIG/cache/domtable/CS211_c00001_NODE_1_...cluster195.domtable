@@ -1,0 +1,23 @@
+#                                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ABC_tran             PF00005.27   137 CS211_c00001_NODE_1_...cluster195_ORF1:gid::pid::loc:1324:3547:strand:- -            740   2.4e-32  112.3   0.0   1   1     8e-36   3.6e-32  111.7   0.0     2   137   523   671   522   671 0.86 ABC transporter
+Peptidase_C39        PF03412.15   133 CS211_c00001_NODE_1_...cluster195_ORF1:gid::pid::loc:1324:3547:strand:- -            740   3.7e-32  110.9   0.0   1   1   1.4e-35   6.2e-32  110.2   0.0     3   131    28   154    26   156 0.97 Peptidase C39 family
+ABC_membrane         PF00664.23   274 CS211_c00001_NODE_1_...cluster195_ORF1:gid::pid::loc:1324:3547:strand:- -            740   8.4e-20   71.5   3.1   1   1   2.5e-23   1.1e-19   71.2   3.1     3   273   183   449   181   450 0.96 ABC transporter transmembrane region
+Peptidase_C70        PF12385.8    145 CS211_c00001_NODE_1_...cluster195_ORF1:gid::pid::loc:1324:3547:strand:- -            740   0.00022   21.2   0.0   1   1   1.2e-07   0.00052   20.0   0.0     4   142    24   142    21   145 0.75 Papain-like cysteine protease AvrRpt2
+HlyD_3               PF13437.6    106 CS211_c00001_NODE_1_...cluster195_ORF2:gid::pid::loc:3547:4438:strand:- -            296   3.1e-08   34.3   0.0   1   1   2.8e-10   5.1e-06   27.1   0.0     1    82   157   241   157   271 0.88 HlyD family secretion protein
+NHase_alpha          PF02979.16   184 CS211_c00001_NODE_1_...cluster195_ORF3:gid::pid::loc:5000:5255:strand:+ -             84   5.4e-08   32.4   0.0   1   1   3.5e-12   6.3e-08   32.1   0.0   114   169    18    70    11    80 0.87 Nitrile hydratase, alpha chain
+MMPL                 PF03176.15   333 CS211_c00001_NODE_1_...cluster195_ORF4:gid::pid::loc:5455:7819:strand:+ -            787   5.7e-35  120.8  27.2   1   2   1.8e-23   1.6e-19   70.0  11.6    64   317   132   408    92   424 0.80 MMPL family
+MMPL                 PF03176.15   333 CS211_c00001_NODE_1_...cluster195_ORF4:gid::pid::loc:5455:7819:strand:+ -            787   5.7e-35  120.8  27.2   2   2   2.3e-19     2e-15   56.5   7.5    83   302   555   768   482   779 0.89 MMPL family
+Sterol-sensing       PF12349.8    153 CS211_c00001_NODE_1_...cluster195_ORF4:gid::pid::loc:5455:7819:strand:+ -            787   3.8e-11   43.1   0.8   1   1   4.2e-15   3.8e-11   43.1   0.8     8   143   257   392   251   401 0.86 Sterol-sensing domain of SREBP cleavage-activation
+FAD_binding_4        PF01565.23   139 CS211_c00001_NODE_1_...cluster195_ORF5:gid::pid::loc:7831:9253:strand:- -            473   2.4e-26   92.1   4.7   1   1   1.8e-30   3.3e-26   91.7   4.0     1   135    73   204    73   208 0.94 FAD binding domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster195.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS211_c00001_NODE_1_...cluster195.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster195.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:49:02 2019
+# [ok]

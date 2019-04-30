@@ -1,0 +1,22 @@
+#                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Acyl_transf_1        PF00698.21   319 CS204_c00001_NODE_1_...cluster161_ORF1:gid::pid::loc:2:5276:strand:- -           1758   1.8e-63  215.0   0.1   1   1   8.6e-67   2.6e-63  214.5   0.1     3   318   544   870   542   871 0.93 Acyl transferase domain
+ketoacyl-synt        PF00109.26   253 CS204_c00001_NODE_1_...cluster161_ORF1:gid::pid::loc:2:5276:strand:- -           1758   2.2e-55  188.0   0.1   1   1   1.8e-58   5.3e-55  186.7   0.1     2   252    10   257     9   258 0.89 Beta-ketoacyl synthase, N-terminal domain
+PS-DH                PF14765.6    298 CS204_c00001_NODE_1_...cluster161_ORF1:gid::pid::loc:2:5276:strand:- -           1758   3.7e-31  108.5   0.0   1   1   2.4e-34   7.3e-31  107.5   0.0     2   285   917  1206   916  1210 0.80 Polyketide synthase dehydratase
+Ketoacyl-synt_C      PF02801.22   118 CS204_c00001_NODE_1_...cluster161_ORF1:gid::pid::loc:2:5276:strand:- -           1758   4.4e-28   97.7   0.2   1   1   3.3e-31   9.8e-28   96.5   0.2    14   114   288   388   266   391 0.89 Beta-ketoacyl synthase, C-terminal domain
+KAsynt_C_assoc       PF16197.5    112 CS204_c00001_NODE_1_...cluster161_ORF1:gid::pid::loc:2:5276:strand:- -           1758   1.3e-14   54.6   0.0   1   1   8.5e-18   2.5e-14   53.7   0.0     1   108   395   506   395   511 0.86 Ketoacyl-synthetase C-terminal extension
+ADH_N                PF08240.12   109 CS204_c00001_NODE_1_...cluster161_ORF1:gid::pid::loc:2:5276:strand:- -           1758   4.2e-06   26.6   0.6   1   1   5.1e-09   1.5e-05   24.8   0.3     2    63  1644  1709  1643  1721 0.90 Alcohol dehydrogenase GroES-like domain
+DUF2891              PF11199.8    324 CS204_c00001_NODE_1_...cluster161_ORF3:gid::pid::loc:5965:7465:strand:+ -            499   3.8e-88  295.6   0.0   1   2   2.9e-75   5.2e-71  239.2   0.0     3   255    96   349    95   363 0.93 Protein of unknown function (DUF2891)
+DUF2891              PF11199.8    324 CS204_c00001_NODE_1_...cluster161_ORF3:gid::pid::loc:5965:7465:strand:+ -            499   3.8e-88  295.6   0.0   2   2   5.7e-19     1e-14   54.2   0.1   257   322   422   487   417   489 0.95 Protein of unknown function (DUF2891)
+Beta-lactamase       PF00144.24   330 CS204_c00001_NODE_1_...cluster161_ORF4:gid::pid::loc:7490:8108:strand:+ -            205   2.5e-24   86.1   0.0   1   1   1.9e-28   3.4e-24   85.7   0.0    13   108    57   152    43   196 0.85 Beta-lactamase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS204_c00001_NODE_1_...cluster161.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS204_c00001_NODE_1_...cluster161.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS204_c00001_NODE_1_...cluster161.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:54:47 2019
+# [ok]

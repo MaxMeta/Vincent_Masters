@@ -1,0 +1,27 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+PS-DH                PF14765.6    298 BGC0000284.1_ORF1:gid:arsD:pid:ACO79119.1:loc:0:1911:strand:- -            636   9.3e-23   80.9   0.0   1   1   3.1e-26   2.7e-22   79.4   0.0     2   285    85   370    84   380 0.84 Polyketide synthase dehydratase
+ACPS                 PF01648.20   114 BGC0000284.1_ORF1:gid:arsD:pid:ACO79119.1:loc:0:1911:strand:- -            636     5e-13   49.2   0.0   1   1   1.2e-16   1.1e-12   48.1   0.0     1    78   522   595   522   626 0.77 4'-phosphopantetheinyl transferase superfamily
+Chal_sti_synt_C      PF02797.15   151 BGC0000284.1_ORF2:gid:arsC:pid:ACO79120.1:loc:1907:3137:strand:- -            409   4.8e-18   65.6   0.0   1   1   9.3e-22   8.4e-18   64.8   0.0     6   149   271   408   266   409 0.91 Chalcone and stilbene synthases, C-terminal domain
+ACP_syn_III_C        PF08541.10    90 BGC0000284.1_ORF2:gid:arsC:pid:ACO79120.1:loc:1907:3137:strand:- -            409   1.4e-09   38.0   0.0   1   1     3e-13   2.7e-09   37.1   0.0    13    89   330   407   323   408 0.89 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal
+Chal_sti_synt_C      PF02797.15   151 BGC0000284.1_ORF3:gid:arsB:pid:ACO79121.1:loc:3133:4354:strand:- -            406   5.7e-20   71.8   0.0   1   1     1e-23   9.4e-20   71.1   0.0    10   149   272   405   264   406 0.85 Chalcone and stilbene synthases, C-terminal domain
+ACP_syn_III_C        PF08541.10    90 BGC0000284.1_ORF3:gid:arsB:pid:ACO79121.1:loc:3133:4354:strand:- -            406   3.8e-11   43.0   0.0   1   1     9e-15     8e-11   42.0   0.0    14    89   328   404   319   405 0.91 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal
+ketoacyl-synt        PF00109.26   253 BGC0000284.1_ORF4:gid:arsA:pid:ACO79122.1:loc:4437:11949:strand:- -           2503   1.4e-69  234.5   0.0   1   1   1.8e-72   3.6e-69  233.1   0.0     2   253   694   971   693   971 0.91 Beta-ketoacyl synthase, N-terminal domain
+Acyl_transf_1        PF00698.21   319 BGC0000284.1_ORF4:gid:arsA:pid:ACO79122.1:loc:4437:11949:strand:- -           2503   2.1e-39  135.9   0.0   1   1   1.9e-42   3.8e-39  135.1   0.0     2   268  1265  1547  1264  1568 0.94 Acyl transferase domain
+KR                   PF08659.10   180 BGC0000284.1_ORF4:gid:arsA:pid:ACO79122.1:loc:4437:11949:strand:- -           2503     3e-39  134.8   0.3   1   1   8.1e-42   1.6e-38  132.4   0.0     1   179  2209  2435  2209  2436 0.95 KR domain
+Ketoacyl-synt_C      PF02801.22   118 BGC0000284.1_ORF4:gid:arsA:pid:ACO79122.1:loc:4437:11949:strand:- -           2503   7.4e-38  129.2   1.0   1   1   1.1e-40   2.2e-37  127.7   1.0     1   117   979  1096   979  1097 0.98 Beta-ketoacyl synthase, C-terminal domain
+adh_short            PF00106.25   195 BGC0000284.1_ORF4:gid:arsA:pid:ACO79122.1:loc:4437:11949:strand:- -           2503   1.5e-13   50.6   0.0   1   1   4.5e-13     9e-10   38.3   0.0    36   182  2294  2434  2284  2443 0.87 short chain dehydrogenase
+KAsynt_C_assoc       PF16197.5    112 BGC0000284.1_ORF4:gid:arsA:pid:ACO79122.1:loc:4437:11949:strand:- -           2503   6.8e-12   45.8   0.0   1   1   9.2e-15   1.8e-11   44.5   0.0     1   103  1099  1207  1099  1211 0.90 Ketoacyl-synthetase C-terminal extension
+adh_short_C2         PF13561.6    234 BGC0000284.1_ORF4:gid:arsA:pid:ACO79122.1:loc:4437:11949:strand:- -           2503   1.3e-10   41.3   0.0   1   1   7.8e-13   1.6e-09   37.7   0.0    29   175  2293  2435  2282  2452 0.83 Enoyl-(Acyl carrier protein) reductase
+PP-binding           PF00550.25    67 BGC0000284.1_ORF4:gid:arsA:pid:ACO79122.1:loc:4437:11949:strand:- -           2503   6.4e-07   29.6   0.1   1   1   1.1e-09   2.2e-06   27.9   0.1     2    64  1857  1926  1856  1928 0.83 Phosphopantetheine attachment site
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000284.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000284.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000284.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:49:53 2019
+# [ok]

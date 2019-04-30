@@ -1,0 +1,32 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.28   423 BGC0000410.1_ORF1:gid::pid:ABS50184.1:loc:162:4524:strand:+ -           1453   9.1e-80  268.3   0.1   1   1   2.6e-83   1.5e-79  267.6   0.1     8   422   880  1265   874  1266 0.87 AMP-binding enzyme
+Condensation         PF00668.20   457 BGC0000410.1_ORF1:gid::pid:ABS50184.1:loc:162:4524:strand:+ -           1453   2.8e-50  171.3   0.0   1   2     3e-40   1.8e-36  125.8   0.0     7   436     4   422     1   442 0.84 Condensation domain
+Condensation         PF00668.20   457 BGC0000410.1_ORF1:gid::pid:ABS50184.1:loc:162:4524:strand:+ -           1453   2.8e-50  171.3   0.0   2   2   3.3e-15     2e-11   43.3   0.0    28   279   462   696   438   844 0.72 Condensation domain
+AMP-binding_C        PF13193.6     76 BGC0000410.1_ORF1:gid::pid:ABS50184.1:loc:162:4524:strand:+ -           1453   5.9e-08   33.6   0.0   1   1   3.8e-11   2.3e-07   31.7   0.0     2    76  1275  1351  1274  1351 0.89 AMP-binding enzyme C-terminal domain
+K_oxygenase          PF13434.6    342 BGC0000410.1_ORF2:gid::pid:ABS50185.1:loc:4616:5948:strand:+ -            443  1.2e-106  356.8   0.0   1   1  8.3e-111  1.5e-106  356.4   0.0     2   339     6   345     5   347 0.95 L-lysine 6-monooxygenase (NADPH-requiring)
+Condensation         PF00668.20   457 BGC0000410.1_ORF3:gid::pid:ABS50186.1:loc:5982:8148:strand:- -            721   5.8e-52  176.9   5.6   1   1   1.9e-53   1.7e-49  168.8   0.4    22   430   299   702   267   715 0.86 Condensation domain
+PP-binding           PF00550.25    67 BGC0000410.1_ORF3:gid::pid:ABS50186.1:loc:5982:8148:strand:- -            721     3e-09   37.1   0.4   1   1   8.7e-13   7.8e-09   35.8   0.1     4    66   195   259   192   260 0.85 Phosphopantetheine attachment site
+Sigma70_r4_2         PF08281.12    54 BGC0000410.1_ORF4:gid::pid:ABS50187.1:loc:8378:8930:strand:+ -            183   3.6e-11   42.6   0.1   1   1   1.1e-14   6.6e-11   41.7   0.1     3    54   112   163   110   163 0.94 Sigma-70, region 4
+Sigma70_r2           PF04542.14    71 BGC0000410.1_ORF4:gid::pid:ABS50187.1:loc:8378:8930:strand:+ -            183   1.7e-09   37.3   0.1   1   1     5e-13     3e-09   36.5   0.1     1    68    15    79    15    81 0.95 Sigma-70 region 2
+Sigma70_ECF          PF07638.11   185 BGC0000410.1_ORF4:gid::pid:ABS50187.1:loc:8378:8930:strand:+ -            183     9e-06   25.7   0.4   1   1     2e-09   1.2e-05   25.3   0.4    44   171    32   155     5   160 0.77 ECF sigma factor
+ABC_tran             PF00005.27   137 BGC0000410.1_ORF5:gid::pid:ABS50188.1:loc:9038:10832:strand:+ -            597   8.5e-32  110.5   0.0   1   1   1.7e-35   1.5e-31  109.7   0.0     1   137   366   514   366   514 0.92 ABC transporter
+ABC_membrane         PF00664.23   274 BGC0000410.1_ORF5:gid::pid:ABS50188.1:loc:9038:10832:strand:+ -            597   1.6e-21   77.2   5.2   1   1   2.3e-25   2.1e-21   76.8   5.2     2   265    25   296    24   305 0.88 ABC transporter transmembrane region
+ABC_tran             PF00005.27   137 BGC0000410.1_ORF6:gid::pid:ABS50189.1:loc:10825:12595:strand:+ -            589   1.2e-30  106.8   0.0   1   1   4.1e-34   2.5e-30  105.8   0.0     1   137   352   501   352   501 0.90 ABC transporter
+ABC_membrane         PF00664.23   274 BGC0000410.1_ORF6:gid::pid:ABS50189.1:loc:10825:12595:strand:+ -            589   3.1e-17   63.1   4.8   1   1     1e-20     6e-17   62.2   4.8    48   265    57   280    21   290 0.83 ABC transporter transmembrane region
+FecCD                PF01032.18   312 BGC0000410.1_ORF7:gid::pid:ABS50190.1:loc:12591:13536:strand:+ -            314     3e-63  213.7  33.5   1   1   4.2e-67   3.8e-63  213.4  33.5     2   312    10   311     8   311 0.97 FecCD transport family
+ABC-3                PF00950.17   258 BGC0000410.1_ORF7:gid::pid:ABS50190.1:loc:12591:13536:strand:+ -            314     8e-06   25.5  21.6   1   1   1.1e-09     1e-05   25.2  20.7    58   256   107   310    49   312 0.75 ABC 3 transport family
+FecCD                PF01032.18   312 BGC0000410.1_ORF8:gid::pid:ABS50191.1:loc:13532:14483:strand:+ -            316   1.2e-41  142.8  34.6   1   1   8.1e-46   1.4e-41  142.5  34.6    31   312    26   311     9   311 0.94 FecCD transport family
+ABC_tran             PF00005.27   137 BGC0000410.1_ORF9:gid::pid:ABS50192.1:loc:14479:15262:strand:+ -            260   1.6e-28  100.0   0.0   1   1   2.4e-32   2.2e-28   99.5   0.0     1   137    17   164    17   164 0.97 ABC transporter
+Peripla_BP_2         PF01497.18   238 BGC0000410.1_ORF10:gid::pid:ABS50193.1:loc:15258:16011:strand:+ -            251     3e-22   79.3   0.0   1   1   2.2e-26   3.9e-22   79.0   0.0     1   187    63   250    63   251 0.92 Periplasmic binding protein
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000410.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000410.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000410.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:48:18 2019
+# [ok]

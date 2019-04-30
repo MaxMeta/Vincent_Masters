@@ -1,0 +1,28 @@
+#                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SQS_PSY              PF00494.19   263 CS202_c00001_NODE_1_...cluster039_ORF1:gid::pid::loc:1:1981:strand:- -            660   1.9e-57  194.8   3.2   1   1   5.4e-61   4.9e-57  193.4   2.8     2   260   375   635   374   638 0.95 Squalene/phytoene synthase
+polyprenyl_synt      PF00348.17   256 CS202_c00001_NODE_1_...cluster039_ORF1:gid::pid::loc:1:1981:strand:- -            660   4.1e-27   94.8   0.0   1   1   7.8e-31     7e-27   94.1   0.0    14   217    35   231    27   236 0.90 Polyprenyl synthetase
+Caroten_synth        PF04240.12   209 CS202_c00001_NODE_1_...cluster039_ORF2:gid::pid::loc:1956:2742:strand:- -            261   1.6e-51  175.1  20.6   1   1   1.2e-55   2.1e-51  174.8  20.6     5   207    51   247    47   249 0.94 Carotenoid biosynthesis protein
+B12-binding          PF02310.19   121 CS202_c00001_NODE_1_...cluster039_ORF3:gid::pid::loc:2767:3550:strand:- -            260   4.3e-11   42.9   0.1   1   1   4.3e-15   7.8e-11   42.1   0.1     3    90   129   219   127   228 0.88 B12 binding domain
+HpcH_HpaI            PF03328.14   221 CS202_c00001_NODE_1_...cluster039_ORF4:gid::pid::loc:3983:5654:strand:- -            556   1.6e-20   73.2   0.6   1   2   8.8e-12   1.6e-07   30.7   0.0    62   193   119   246   106   265 0.76 HpcH/HpaI aldolase/citrate lyase family
+HpcH_HpaI            PF03328.14   221 CS202_c00001_NODE_1_...cluster039_ORF4:gid::pid::loc:3983:5654:strand:- -            556   1.6e-20   73.2   0.6   2   2   8.8e-15   1.6e-10   40.5   0.3    40   192   368   519   353   541 0.78 HpcH/HpaI aldolase/citrate lyase family
+GSDH                 PF07995.11   332 CS202_c00001_NODE_1_...cluster039_ORF6:gid::pid::loc:7414:8578:strand:+ -            387  4.8e-122  407.4   0.1   1   1  3.1e-126  5.5e-122  407.2   0.1     3   328    48   373    46   380 0.96 Glucose / Sorbosone dehydrogenase
+TrkA_N               PF02254.18   116 CS202_c00001_NODE_1_...cluster039_ORF8:gid::pid::loc:9547:11251:strand:+ -            567   2.5e-37  127.7  10.3   1   2     3e-14   7.7e-11   42.3   1.0     1   115   135   248   135   249 0.94 TrkA-N domain
+TrkA_N               PF02254.18   116 CS202_c00001_NODE_1_...cluster039_ORF8:gid::pid::loc:9547:11251:strand:+ -            567   2.5e-37  127.7  10.3   2   2   5.1e-29   1.3e-25   89.9   2.6     1   115   357   471   357   472 0.96 TrkA-N domain
+TrkA_C               PF02080.21    70 CS202_c00001_NODE_1_...cluster039_ORF8:gid::pid::loc:9547:11251:strand:+ -            567   2.6e-16   59.2   0.1   1   2   4.1e-10     1e-06   28.4   0.0     2    66   280   344   279   348 0.91 TrkA-C domain
+TrkA_C               PF02080.21    70 CS202_c00001_NODE_1_...cluster039_ORF8:gid::pid::loc:9547:11251:strand:+ -            567   2.6e-16   59.2   0.1   2   2   5.8e-10   1.5e-06   27.9   0.0    12    69   507   566   500   567 0.92 TrkA-C domain
+Ion_trans_2          PF07885.16    79 CS202_c00001_NODE_1_...cluster039_ORF8:gid::pid::loc:9547:11251:strand:+ -            567   9.5e-14   51.1   7.3   1   1   6.5e-17   1.7e-13   50.3   7.3     3    74    34   107    32   112 0.82 Ion channel
+Pyr_redox            PF00070.27    81 CS202_c00001_NODE_1_...cluster039_ORF8:gid::pid::loc:9547:11251:strand:+ -            567   9.3e-09   35.7   1.6   1   1   2.4e-11   6.1e-08   33.1   1.1     1    46   356   401   356   423 0.89 Pyridine nucleotide-disulphide oxidoreductase
+NAD_binding_7        PF13241.6    104 CS202_c00001_NODE_1_...cluster039_ORF8:gid::pid::loc:9547:11251:strand:+ -            567   2.7e-06   27.8   0.6   1   1   1.1e-09   2.7e-06   27.8   0.6     8    98   355   458   352   462 0.76 Putative NAD(P)-binding
+AlaDh_PNT_C          PF01262.21   214 CS202_c00001_NODE_1_...cluster039_ORF8:gid::pid::loc:9547:11251:strand:+ -            567   1.6e-05   24.3   0.7   1   1   1.2e-08     3e-05   23.4   0.7    27    83   353   409   334   449 0.78 Alanine dehydrogenase/PNT, C-terminal domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster039.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS202_c00001_NODE_1_...cluster039.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster039.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:37:35 2019
+# [ok]

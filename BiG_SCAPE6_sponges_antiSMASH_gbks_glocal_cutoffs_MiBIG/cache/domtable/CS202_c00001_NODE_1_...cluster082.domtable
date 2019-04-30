@@ -1,0 +1,27 @@
+#                                                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Aconitase            PF00330.20   461 CS202_c00001_NODE_1_...cluster082_ORF2:gid::pid::loc:510:1911:strand:+ -            466    6e-158  526.6   0.1   1   1  3.8e-162  6.8e-158  526.5   0.1     1   461     7   457     7   457 0.96 Aconitase family (aconitate hydratase)
+IMPDH                PF00478.25   345 CS202_c00001_NODE_1_...cluster082_ORF5:gid::pid::loc:2959:4459:strand:+ -            499    9e-105  350.5   0.0   1   1  1.7e-108    1e-104  350.3   0.0     3   345    11   489     9   489 0.96 IMP dehydrogenase / GMP reductase domain
+FMN_dh               PF01070.18   348 CS202_c00001_NODE_1_...cluster082_ORF5:gid::pid::loc:2959:4459:strand:+ -            499   2.5e-08   33.4   0.4   1   1   2.3e-10   1.4e-06   27.6   0.4   203   303   267   384   206   386 0.82 FMN-dependent dehydrogenase
+Polysacc_deac_1      PF01522.21   124 CS202_c00001_NODE_1_...cluster082_ORF8:gid::pid::loc:6000:6696:strand:- -            231   1.4e-27   96.1   0.0   1   1   2.6e-31   4.7e-27   94.3   0.0     3   105    33   136    31   153 0.92 Polysaccharide deacetylase
+FA_desaturase        PF00487.24   254 CS202_c00001_NODE_1_...cluster082_ORF9:gid::pid::loc:6692:7409:strand:- -            238   7.9e-18   65.2  28.1   1   1   4.9e-19   8.8e-15   55.2  24.8     4   237    36   232    33   238 0.77 Fatty acid desaturase
+Caroten_synth        PF04240.12   209 CS202_c00001_NODE_1_...cluster082_ORF10:gid::pid::loc:7413:8151:strand:- -            245   9.3e-28   97.5  13.6   1   1   6.8e-32   1.2e-27   97.1  13.6    12   156    69   215    57   244 0.79 Carotenoid biosynthesis protein
+Glyco_tranf_2_3      PF13641.6    230 CS202_c00001_NODE_1_...cluster082_ORF11:gid::pid::loc:8222:9290:strand:- -            355     1e-23   84.5   0.0   1   1   3.4e-27   2.1e-23   83.5   0.0     1   223    26   256    26   261 0.88 Glycosyltransferase like family 2
+Glycos_transf_2      PF00535.26   170 CS202_c00001_NODE_1_...cluster082_ORF11:gid::pid::loc:8222:9290:strand:- -            355   6.6e-22   78.1   0.0   1   1   1.9e-25   1.1e-21   77.3   0.0     1   112    29   143    29   180 0.92 Glycosyl transferase family 2
+Glyco_transf_21      PF13506.6    173 CS202_c00001_NODE_1_...cluster082_ORF11:gid::pid::loc:8222:9290:strand:- -            355   6.1e-13   48.6   0.0   1   1   1.7e-16     1e-12   47.9   0.0     1   166    81   251    81   254 0.87 Glycosyl transferase family 21
+Acyltransferase      PF01553.21   135 CS202_c00001_NODE_1_...cluster082_ORF12:gid::pid::loc:9344:10004:strand:- -            219   2.5e-08   33.6   0.0   1   1   2.7e-12   4.9e-08   32.7   0.0     9   125    37   151    25   161 0.80 Acyltransferase
+SQS_PSY              PF00494.19   263 CS202_c00001_NODE_1_...cluster082_ORF13:gid::pid::loc:10000:10930:strand:- -            309   1.9e-70  237.4   0.1   1   1   1.3e-74   2.4e-70  237.1   0.1     4   258    24   273    21   280 0.95 Squalene/phytoene synthase
+Amino_oxidase        PF01593.24   452 CS202_c00001_NODE_1_...cluster082_ORF14:gid::pid::loc:10926:12045:strand:- -            372   1.2e-14   54.4   0.0   1   1   9.2e-19   1.7e-14   54.0   0.0   139   445    29   356    21   362 0.82 Flavin containing amine oxidoreductase
+Amino_oxidase        PF01593.24   452 CS202_c00001_NODE_1_...cluster082_ORF16:gid::pid::loc:12465:13989:strand:- -            507   1.9e-23   83.5   0.0   1   1   1.3e-26   3.3e-23   82.7   0.0     4   451    30   502    30   503 0.71 Flavin containing amine oxidoreductase
+NAD_binding_8        PF13450.6     68 CS202_c00001_NODE_1_...cluster082_ORF16:gid::pid::loc:12465:13989:strand:- -            507     2e-11   43.9   0.1   1   1   3.8e-14   9.7e-11   41.7   0.1     1    64    22    85    22    87 0.92 NAD(P)-binding Rossmann-like domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster082.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS202_c00001_NODE_1_...cluster082.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster082.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:39:03 2019
+# [ok]

@@ -1,0 +1,19 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Xan_ur_permease      PF00860.20   389 CS211_c00001_NODE_1_...cluster233_ORF2:gid::pid::loc:489:2307:strand:- -            605   1.5e-33  116.1  45.9   1   1   8.1e-38   1.5e-33  116.1  45.9     6   383    45   418    41   422 0.90 Permease family
+Abhydrolase_6        PF12697.7    220 CS211_c00001_NODE_1_...cluster233_ORF4:gid::pid::loc:2448:3363:strand:- -            304   2.1e-11   44.8   0.2   1   1   1.4e-15   2.5e-11   44.6   0.2     1   219    40   290    40   291 0.60 Alpha/beta hydrolase family
+ketoacyl-synt        PF00109.26   253 CS211_c00001_NODE_1_...cluster233_ORF8:gid::pid::loc:4170:6870:strand:- -            899   2.1e-76  256.9   2.2   1   1     9e-80     4e-76  255.9   2.2     2   253    42   285    41   285 0.93 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.22   118 CS211_c00001_NODE_1_...cluster233_ORF8:gid::pid::loc:4170:6870:strand:- -            899   3.7e-42  143.1   0.1   1   1   2.7e-45   1.2e-41  141.4   0.1     2   117   294   410   293   411 0.98 Beta-ketoacyl synthase, C-terminal domain
+Acyl_transf_1        PF00698.21   319 CS211_c00001_NODE_1_...cluster233_ORF8:gid::pid::loc:4170:6870:strand:- -            899     4e-31  108.7   0.0   1   1   4.5e-30     2e-26   93.3   0.2     2   133   600   731   599   739 0.94 Acyl transferase domain
+KAsynt_C_assoc       PF16197.5    112 CS211_c00001_NODE_1_...cluster233_ORF8:gid::pid::loc:4170:6870:strand:- -            899   5.2e-14   52.7   0.1   1   1   4.5e-17     2e-13   50.7   0.1     1    98   413   544   413   557 0.88 Ketoacyl-synthetase C-terminal extension
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster233.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS211_c00001_NODE_1_...cluster233.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster233.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:48:39 2019
+# [ok]

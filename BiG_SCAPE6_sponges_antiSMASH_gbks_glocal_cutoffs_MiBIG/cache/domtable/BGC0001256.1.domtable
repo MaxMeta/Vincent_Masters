@@ -1,0 +1,17 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.28   423 BGC0001256.1_ORF1:gid::pid:ACH90386.1:loc:443:3595:strand:+ -            957   2.2e-65  220.9   0.0   1   1   1.1e-68   6.8e-65  219.3   0.0    18   422    58   464    38   465 0.83 AMP-binding enzyme
+Thioesterase         PF00975.20   231 BGC0001256.1_ORF1:gid::pid:ACH90386.1:loc:443:3595:strand:+ -            957   9.5e-32  111.0   0.0   1   1     1e-34   6.3e-31  108.3   0.0     2   226   697   947   696   952 0.77 Thioesterase domain
+PP-binding           PF00550.25    67 BGC0001256.1_ORF1:gid::pid:ACH90386.1:loc:443:3595:strand:+ -            957     2e-08   34.5   0.0   1   1   1.8e-11   1.1e-07   32.1   0.0     2    67   604   670   603   670 0.96 Phosphopantetheine attachment site
+Aminotran_1_2        PF00155.21   363 BGC0001256.1_ORF2:gid::pid:ACH90387.1:loc:4124:5873:strand:+ -            524   2.9e-25   89.2   0.0   1   1   2.3e-29   4.2e-25   88.7   0.0    22   357    93   507    72   512 0.89 Aminotransferase class I and II
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001256.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001256.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001256.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:46:00 2019
+# [ok]

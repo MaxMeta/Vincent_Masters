@@ -1,0 +1,180 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="680.7333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="670.7333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg2523_1)</title>
+			<polygon class=" (ctg2523_1)" points="10,40 16,10 16,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2523_2)</title>
+			<polygon class=" (ctg2523_2)" points="17,40 40,10 40,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Chlor_dismutase (PF06778)
+"Chlorite dismutase"</title>
+				<polygon class="PF06778" points="21,40 30,28 37,28 37,52 30,52" stroke-linejoin="round" width="19" height="24" fill="rgb(179,57,142)" stroke="rgb(143,45,113)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2523_3)</title>
+			<polygon class=" (ctg2523_3)" points="82,25 74,25 74,10 44,40 74,70 74,55 82,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GCV_T_C (PF08669)
+"Glycine cleavage T-protein C-terminal barrel domain"</title>
+				<polygon class="PF08669" points="48,40 52,36 52,44" stroke-linejoin="round" width="8" height="24" fill="rgb(184,178,54)" stroke="rgb(147,142,43)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GCV_T (PF01571)
+"Aminomethyltransferase folate-binding domain"</title>
+				<polygon class="PF01571" points="55,33 60,28 79,28 79,52 60,52 55,47" stroke-linejoin="round" width="24" height="24" fill="rgb(112,228,161)" stroke="rgb(89,182,128)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2523_4)</title>
+			<polygon class=" (ctg2523_4)" points="141,25 115,25 115,10 85,40 115,70 115,55 141,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NAD_binding_8 (PF13450)
+"NAD(P)-binding Rossmann-like domain"</title>
+				<rect class="PF13450" x="132" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(91,180,227)" stroke="rgb(72,144,181)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2523_5)</title>
+			<polygon class=" (ctg2523_5)" points="194,25 171,25 171,10 141,40 171,70 171,55 194,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amino_oxidase (PF01593)
+"Flavin containing amine oxidoreductase"</title>
+				<polygon class="PF01593" points="145,40 157,28 192,28 192,52 157,52" stroke-linejoin="round" width="50" height="24" fill="rgb(184,74,52)" stroke="rgb(147,59,41)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2523_6)</title>
+			<polygon class=" (ctg2523_6)" points="233,25 224,25 224,10 194,40 224,70 224,55 233,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GCV_T_C (PF08669)
+"Glycine cleavage T-protein C-terminal barrel domain"</title>
+				<polygon class="PF08669" points="198,40 202,36 202,44" stroke-linejoin="round" width="8" height="24" fill="rgb(184,178,54)" stroke="rgb(147,142,43)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GCV_T (PF01571)
+"Aminomethyltransferase folate-binding domain"</title>
+				<polygon class="PF01571" points="207,31 210,28 232,28 232,52 210,52 207,49" stroke-linejoin="round" width="25" height="24" fill="rgb(112,228,161)" stroke="rgb(89,182,128)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2523_7)</title>
+			<polygon class=" (ctg2523_7)" points="235,40 253,10 253,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>His_Phos_1 (PF00300)
+"Histidine phosphatase superfamily (branch 1)"</title>
+				<polygon class="PF00300" points="241,37 246,28 248,28 248,52 246,52 241,43" stroke-linejoin="round" width="7" height="24" fill="rgb(135,184,63)" stroke="rgb(107,147,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2523_8)</title>
+			<polygon class=" (ctg2523_8)" points="256,10 283,40 256,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>5_nucleotid_C (PF02872)
+"5'-nucleotidase, C-terminal domain"</title>
+				<polygon class="PF02872" points="265,28 268,28 279,40 279,40 268,52 265,52" stroke-linejoin="round" width="14" height="24" fill="rgb(215,156,101)" stroke="rgb(172,124,80)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2523_9)</title>
+			<polygon class=" (ctg2523_9)" points="284,25 287,25 287,10 317,40 287,70 287,55 284,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Metallophos (PF00149)
+"Calcineurin-like phosphoesterase"</title>
+				<polygon class="PF00149" points="289,28 301,28 310,37 310,43 301,52 289,52" stroke-linejoin="round" width="21" height="24" fill="rgb(181,197,58)" stroke="rgb(144,157,46)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2523_10)</title>
+			<polygon class=" (ctg2523_10)" points="318,40 334,10 334,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ICMT (PF04140)
+"Isoprenylcysteine carboxyl methyltransferase (ICMT) family"</title>
+				<polygon class="PF04140" points="321,40 327,29 327,51" stroke-linejoin="round" width="9" height="24" fill="rgb(100,223,104)" stroke="rgb(80,178,83)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2523_11)</title>
+			<polygon class=" (ctg2523_11)" points="369,25 364,25 364,10 334,40 364,70 364,55 369,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Chal_sti_synt_C (PF02797)
+"Chalcone and stilbene synthases, C-terminal domain"</title>
+				<polygon class="PF02797" points="338,40 346,32 346,48" stroke-linejoin="round" width="12" height="24" fill="rgb(139,212,63)" stroke="rgb(111,169,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Chal_sti_synt_N (PF00195)
+"Chalcone and stilbene synthases, N-terminal domain"</title>
+				<polygon class="PF00195" points="348,30 350,28 362,28 362,52 350,52 348,50" stroke-linejoin="round" width="14" height="24" fill="rgb(60,181,161)" stroke="rgb(47,144,128)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2523_12)</title>
+			<polygon class=" (ctg2523_12)" points="402,25 400,25 400,10 370,40 400,70 400,55 402,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Beta-lactamase2 (PF13354)
+"Beta-lactamase enzyme family"</title>
+				<polygon class="PF13354" points="375,39 386,28 395,28 395,52 386,52 375,41" stroke-linejoin="round" width="20" height="24" fill="rgb(72,61,190)" stroke="rgb(57,48,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2523_13)</title>
+			<polygon class=" (ctg2523_13)" points="443,25 435,25 435,10 405,40 435,70 435,55 443,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DAO (PF01266)
+"FAD dependent oxidoreductase"</title>
+				<polygon class="PF01266" points="409,40 421,28 432,28 432,52 421,52" stroke-linejoin="round" width="27" height="24" fill="rgb(123,179,59)" stroke="rgb(98,143,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2523_14)</title>
+			<polygon class=" (ctg2523_14)" points="448,40 468,10 468,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2523_15)</title>
+			<polygon class=" (ctg2523_15)" points="505,25 498,25 498,10 468,40 498,70 498,55 505,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2523_16)</title>
+			<polygon class=" (ctg2523_16)" points="511,10 533,40 511,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>OMP_b-brl_2 (PF13568)
+"Outer membrane protein beta-barrel domain"</title>
+				<polygon class="PF13568" points="512,28 521,28 530,40 530,40 521,52 512,52" stroke-linejoin="round" width="18" height="24" fill="rgb(75,129,209)" stroke="rgb(60,103,167)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2523_17)</title>
+			<polygon class=" (ctg2523_17)" points="539,25 550,25 550,10 580,40 550,70 550,55 539,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2523_18)</title>
+			<polygon class=" (ctg2523_18)" points="591,25 600,25 600,10 630,40 600,70 600,55 591,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_31 (PF13560)
+"Helix-turn-helix domain"</title>
+				<rect class="PF13560" x="591" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(207,145,90)" stroke="rgb(165,116,72)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PBP_like (PF12727)
+"PBP superfamily domain"</title>
+				<polygon class="PF12727" points="608,28 614,28 626,40 626,40 614,52 608,52" stroke-linejoin="round" width="18" height="24" fill="rgb(153,200,50)" stroke="rgb(122,160,40)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2523_19)</title>
+			<polygon class=" (ctg2523_19)" points="630,10 656,40 630,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SBP_bac_11 (PF13531)
+"Bacterial extracellular solute-binding protein"</title>
+				<polygon class="PF13531" points="633,28 641,28 652,40 641,52 633,52" stroke-linejoin="round" width="22" height="24" fill="rgb(202,228,104)" stroke="rgb(161,182,83)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2523_20)</title>
+			<polygon class=" (ctg2523_20)" points="657,10 666,40 657,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

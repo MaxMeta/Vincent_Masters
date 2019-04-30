@@ -1,0 +1,28 @@
+# STOCKHOLM 1.0
+
+BGC0001778.1_ORF16:gid::pid:KKZ73245.1:loc:15415:16225:strand:+:69:262                 .........tafveppa-----------------------------------VDNAVKLLADSPLHALVLGFTSS.SYVLGVDGENALYERLAPVTrGIPVTGTARAAVAGFRALG.AERIAIVNPpwFDDKLSTQGQEYFEAQGFTVVHHGPVGL.....PSEQ--TAI..TPQNLSEWIRTTV-ADARPEAILVAGNG
+#=GR BGC0001778.1_ORF16:gid::pid:KKZ73245.1:loc:15415:16225:strand:+:69:262         PP .........**999986...................................45556678899999999999***.*****************87769******************.******97544899********************99999.....8755..689..******9998888.67789*********
+CS200_c00001_NODE_1_...cluster011_ORF9:gid::pid::loc:7084:7825:strand:-:39:234         ..lhlidetqitgsrey-----------------------------------LLAGAEELRPHNVDVCMWACTSA.SFVLGVEGARRQAKDLVDAL.GVPASSTSLAFLSAGKALG.LKRIAVAST..YPDALSDAFRDFLETGGLEVVHMGSLGV.....PSGDESALI..ERDEVLRFAQS--SDRPYAEAVLIPDTA
+#=GR CS200_c00001_NODE_1_...cluster011_ORF9:gid::pid::loc:7084:7825:strand:-:39:234 PP ..999888888777755...................................6678999****************.********************.*******************.*********..****************************.....*********..*****999876..579************
+CS783_c00001_NODE_1_...cluster120_ORF2:gid::pid::loc:3907:4663:strand:+:32:248         warmtppgvtihaarmp------------------LHLDTVSEAGKSALHADLARYAGDLALASVDLIAYGCTAG.SLVNP---AESLADFMTERT.GRPAVTTAQALVEAMRALG.ATKIALGTP..YDAALNAHEARFLADHGIAVVHEEGFGYgaggpQEHRNIARI..RPEEVYALARRVD--RADAEAILLSCTD
+#=GR CS783_c00001_NODE_1_...cluster120_ORF2:gid::pid::loc:3907:4663:strand:+:32:248 PP *9999877766665554..................6778888888888888888888888888888888888888.87654...478999******.*******************.*********..************************99763333367899****..**********986..56799********
+CS783_c00001_NODE_1_...cluster120_ORF4:gid::pid::loc:4805:5552:strand:-:63:245         .elmtaidrvvtcspga---------------------------------------------------VIMGMSAeTFWDGLEGSKVFHRNCEARA.GVPVSMGSDACQAALRKYGdIRRIGVITP..YMPVGDENVRRFFEDCGFEVVALKGLKC.....ASPQLIAHV..SERELRDAIVEVN--DSRVEAIVQVGTN
+#=GR CS783_c00001_NODE_1_...cluster120_ORF4:gid::pid::loc:4805:5552:strand:-:63:245 PP .***9999999888875...................................................5899886479******************.*****************9978********..****************************.....*********..*******999987..7899***999999
+CS200_c00001_NODE_1_...cluster052_ORF1:gid::pid::loc:635:1379:strand:-:76:238          ...igitgpsyrllpdg----------------------------------------------------------.--------DRQLCADLTEES.GISTMTSSRAIHQALQAIG.CEEICLVSP..YSDWLTEKAVAYWRAAGYRLAAVARV-F.....EPHERLHAYdtRTPRVVKTLRSL--APPENAAIVMTGTG
+#=GR CS200_c00001_NODE_1_...cluster052_ORF1:gid::pid::loc:635:1379:strand:-:76:238  PP ...***99999888877...................................................................5799********.*******************.*********..*******************9998765.3.....44455554400444455444333..6889999*******
+#=GC PP_cons                                                                           ...................................6778888888888888866778888999999998999998.99999***899*******99.*******************.*******99..***********************99998.....887899889..9999999888777567899*********
+#=GC RF                                                                                .................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxx.xxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxx.....xxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BGC0001778.1_ORF16:gid::pid:KKZ73245.1:loc:15415:16225:strand:+:69:262                 IRAVGTIRGLEDELGFHVLTANQAVLWHALHLAGAAAAAA------rvtdygrlf
+#=GR BGC0001778.1_ORF16:gid::pid:KKZ73245.1:loc:15415:16225:strand:+:69:262         PP ******************************9999876554......233444556
+CS200_c00001_NODE_1_...cluster011_ORF9:gid::pid::loc:7084:7825:strand:-:39:234         LHTAGFLSELETEVGKTVLTANQVTMWEALRLANRQTPQSGLGRL-m........
+#=GR CS200_c00001_NODE_1_...cluster011_ORF9:gid::pid::loc:7084:7825:strand:-:39:234 PP *************************************99999998.5........
+CS783_c00001_NODE_1_...cluster120_ORF2:gid::pid::loc:3907:4663:strand:+:32:248         LATLDVIERLEAECGKPVVSSNTATFWFALRRAGIDDRLDGFGC--ll.......
+#=GR CS783_c00001_NODE_1_...cluster120_ORF2:gid::pid::loc:3907:4663:strand:+:32:248 PP ************************************99998875..57.......
+CS783_c00001_NODE_1_...cluster120_ORF4:gid::pid::loc:4805:5552:strand:-:63:245         LAMARVAAIAEFWLDKPVIAINTATYWWSLRQQGIEDNIYGWGS--lm.......
+#=GR CS783_c00001_NODE_1_...cluster120_ORF4:gid::pid::loc:4805:5552:strand:-:63:245 PP *******************************9999887777665..57.......
+CS200_c00001_NODE_1_...cluster052_ORF1:gid::pid::loc:635:1379:strand:-:76:238          MVTLEAARIIGGELASPILSSNLCGARWLLREAGLKS---------gtplfns..
+#=GR CS200_c00001_NODE_1_...cluster052_ORF1:gid::pid::loc:635:1379:strand:-:76:238  PP *******************************999875.........67899**..
+#=GC PP_cons                                                                           ********************************9998787788878..........
+#=GC RF                                                                                xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.........
+//

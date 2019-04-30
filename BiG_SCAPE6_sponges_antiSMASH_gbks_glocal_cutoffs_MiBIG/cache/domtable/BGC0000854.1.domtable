@@ -1,0 +1,24 @@
+#                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MarR                 PF01047.22    59 BGC0000854.1_ORF1:gid:ectR:pid:ACP19701.1:loc:838:1381:strand:- -            180   3.5e-17   62.1   1.5   1   1   1.9e-20   6.8e-17   61.1   1.5     1    59    57   115    57   115 0.99 MarR family
+MarR_2               PF12802.7     62 BGC0000854.1_ORF1:gid:ectR:pid:ACP19701.1:loc:838:1381:strand:- -            180   8.3e-12   44.8   1.2   1   1   4.3e-15   1.5e-11   44.0   1.2     3    61    57   113    55   114 0.97 MarR family
+HTH_27               PF13463.6     68 BGC0000854.1_ORF1:gid:ectR:pid:ACP19701.1:loc:838:1381:strand:- -            180   4.6e-09   36.7   1.4   1   1   2.2e-12   7.9e-09   35.9   0.8     1    67    57   122    57   123 0.98 Winged helix DNA-binding domain
+HTH_24               PF13412.6     48 BGC0000854.1_ORF1:gid:ectR:pid:ACP19701.1:loc:838:1381:strand:- -            180   1.5e-06   27.6   0.4   1   1   8.2e-10     3e-06   26.7   0.4     7    46    63   102    57   103 0.92 Winged helix-turn-helix DNA-binding
+Acetyltransf_1       PF00583.25   117 BGC0000854.1_ORF2:gid:ectA:pid:AAY96770.1:loc:1708:2227:strand:+ -            172   9.8e-15   54.8   0.0   1   1   1.5e-18   1.3e-14   54.4   0.0    27   113    47   130    22   133 0.84 Acetyltransferase (GNAT) family
+Acetyltransf_3       PF13302.7    138 BGC0000854.1_ORF2:gid:ectA:pid:AAY96770.1:loc:1708:2227:strand:+ -            172   3.8e-06   27.6   0.0   1   1   5.9e-10   5.2e-06   27.2   0.0    56   134    52   131    15   133 0.79 Acetyltransferase (GNAT) domain
+Aminotran_3          PF00202.21   406 BGC0000854.1_ORF3:gid:ectB:pid:AAY96771.1:loc:2269:3601:strand:+ -            443   2.6e-83  279.9   0.0   1   1   1.8e-87   3.2e-83  279.6   0.0     9   406    18   411    11   411 0.90 Aminotransferase class-III
+Ectoine_synth        PF06339.12   127 BGC0000854.1_ORF4:gid:ectC:pid:AAY96772.1:loc:3651:4056:strand:+ -            134   3.2e-60  201.9   0.0   1   1     2e-64   3.6e-60  201.7   0.0     1   126     1   128     1   129 0.98 Ectoine synthase
+AA_kinase            PF00696.28   241 BGC0000854.1_ORF5:gid:ask:pid:AAY96773.1:loc:4116:5559:strand:+ -            480   9.6e-28   97.4   0.3   1   1   1.9e-31   1.7e-27   96.6   0.3     3   241     5   299     4   299 0.89 Amino acid kinase family
+ACT_7                PF13840.6     65 BGC0000854.1_ORF5:gid:ask:pid:AAY96773.1:loc:4116:5559:strand:+ -            480   3.1e-09   36.5   0.3   1   1   7.8e-13     7e-09   35.3   0.3     5    64   400   463   396   464 0.89 ACT domain
+PhyH                 PF05721.13   211 BGC0000854.1_ORF6:gid:phy:pid:AAY96769.2:loc:5919:6879:strand:+ -            319   2.6e-33  116.1   0.0   1   1   1.9e-37   3.5e-33  115.7   0.0     1   209    52   267    52   269 0.93 Phytanoyl-CoA dioxygenase (PhyH)
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000854.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000854.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000854.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:53:46 2019
+# [ok]

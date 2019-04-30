@@ -1,0 +1,194 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="2130.8" height="160">
+	<g>
+		<line x1="10" y1="40.0" x2="261.43333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>lmT7
+cytochrome P450</title>
+			<polygon class="lmT7
+cytochrome P450" points="50,25 40,25 40,10 10,40 40,70 40,55 50,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="14,40 26,28 45,28 45,52 26,52" stroke-linejoin="round" width="32" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>lmT8
+18-O-acyltransferase</title>
+			<polygon class="lmT8
+18-O-acyltransferase" points="79,25 79,25 79,10 49,40 79,70 79,55 79,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Abhydrolase_1 (PF00561)
+"alpha/beta hydrolase fold"</title>
+				<polygon class="PF00561" points="53,40 65,28 76,28 76,52 65,52 53,40" stroke-linejoin="round" width="23" height="24" fill="rgb(86,180,151)" stroke="rgb(68,144,120)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>lmS2
+transporter</title>
+			<polygon class="lmS2
+transporter" points="126,25 116,25 116,10 86,40 116,70 116,55 126,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>lmS3
+ABC transporter</title>
+			<polygon class="lmS3
+ABC transporter" points="196,25 163,25 163,10 133,40 163,70 163,55 196,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="140,37 149,28 154,28 154,52 149,52 140,43" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="162" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>lmS4
+ABC transporter</title>
+			<polygon class="lmS4
+ABC transporter" points="261,25 227,25 227,10 197,40 227,70 227,55 261,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="205,36 213,28 219,28 219,52 213,52 205,44" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="230" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="120.0" x2="2120.8" y2="120.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>lmG
+thioesterase</title>
+			<polygon class="lmG
+thioesterase" points="10,120 35,90 35,150" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>lmC
+polyketide synthase type I</title>
+			<polygon class="lmC
+polyketide synthase type I" points="42,105 178,105 178,90 208,120 178,150 178,135 42,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>lmD
+polyketide synthase type I</title>
+			<polygon class="lmD
+polyketide synthase type I" points="210,105 366,105 366,90 396,120 366,150 366,135 210,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>lmE
+polyketide synthase type I</title>
+			<polygon class="lmE
+polyketide synthase type I" points="398,105 532,105 532,90 562,120 532,150 532,135 398,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>lmF
+polyketide synthase type I</title>
+			<polygon class="lmF
+polyketide synthase type I" points="565,105 716,105 716,90 746,120 716,150 716,135 565,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>lmT6
+oxidoreductase NAD-dependent dehydrogenase</title>
+			<polygon class="lmT6
+oxidoreductase NAD-dependent dehydrogenase" points="758,105 786,105 786,90 816,120 786,150 786,135 758,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>lmP5
+crotonyl CoA reductase</title>
+			<polygon class="lmP5
+crotonyl CoA reductase" points="818,105 832,105 832,90 862,120 832,150 832,135 818,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>lmT5
+ferredoxin</title>
+			<polygon class="lmT5
+ferredoxin" points="865,90 872,120 865,150" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>lmT4
+protein kinase</title>
+			<polygon class="lmT4
+protein kinase" points="879,105 880,105 880,90 910,120 880,150 880,135 879,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>lmT3
+cytochrome P450</title>
+			<polygon class="lmT3
+cytochrome P450" points="913,105 923,105 923,90 953,120 923,150 923,135 913,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>lmS1
+transporter</title>
+			<polygon class="lmS1
+transporter" points="960,105 970,105 970,90 1000,120 970,150 970,135 960,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>lmT2
+NAD dependent epimerase</title>
+			<polygon class="lmT2
+NAD dependent epimerase" points="1007,90 1028,120 1007,150" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>lmT1
+aminotransferase</title>
+			<polygon class="lmT1
+aminotransferase" points="1068,105 1062,105 1062,90 1032,120 1062,150 1062,135 1068,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>lmA
+polyketide synthase type I</title>
+			<polygon class="lmA
+polyketide synthase type I" points="1085,105 1302,105 1302,90 1332,120 1302,150 1302,135 1085,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>lmB
+polyketide synthase type I</title>
+			<polygon class="lmB
+polyketide synthase type I" points="1337,105 1642,105 1642,90 1672,120 1642,150 1642,135 1337,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>lmP1
+AMP-dependent synthetase and ligase</title>
+			<polygon class="lmP1
+AMP-dependent synthetase and ligase" points="1677,105 1747,105 1747,90 1777,120 1747,150 1747,135 1677,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>lmP2
+short-chain-CoA dehydrogenase</title>
+			<polygon class="lmP2
+short-chain-CoA dehydrogenase" points="1778,105 1786,105 1786,90 1816,120 1786,150 1786,135 1778,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>lmP3
+cyclohexenylcarbonyl-CoA dehydrogenase</title>
+			<polygon class="lmP3
+cyclohexenylcarbonyl-CoA dehydrogenase" points="1817,90 1845,120 1817,150" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>lmP4
+NADH:FMN oxidoreductase</title>
+			<polygon class="lmP4
+NADH:FMN oxidoreductase" points="1846,105 1885,105 1885,90 1915,120 1885,150 1885,135 1846,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>lmR1
+regulator</title>
+			<polygon class="lmR1
+regulator" points="2011,105 1947,105 1947,90 1917,120 1947,150 1947,135 2011,135" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>lmR2
+regulator</title>
+			<polygon class="lmR2
+regulator" points="2023,120 2032,90 2032,150" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

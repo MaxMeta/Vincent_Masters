@@ -1,0 +1,21 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ABC_membrane         PF00664.23   274 BGC0000543.1_ORF1:gid:pepT:pid:CAA90021.1:loc:87:1803:strand:- -            571     6e-47  160.6  27.3   1   1   9.3e-51   8.4e-47  160.1  27.3     1   273    21   288    21   289 0.98 ABC transporter transmembrane region
+ABC_tran             PF00005.27   137 BGC0000543.1_ORF1:gid:pepT:pid:CAA90021.1:loc:87:1803:strand:- -            571   3.7e-33  114.9   0.0   1   1   8.3e-37   7.5e-33  114.0   0.0     1   137   348   498   348   498 0.90 ABC transporter
+Antimicrobial18      PF08130.11    60 BGC0000543.1_ORF3:gid:pepA:pid:CAA90023.1:loc:2321:2504:strand:+ -             60   3.4e-41  139.2   4.2   1   1   2.1e-45   3.7e-41  139.0   4.2     1    60     1    60     1    60 0.99 Type A lantibiotic family
+Peptidase_S8         PF00082.22   298 BGC0000543.1_ORF4:gid:pepP:pid:CAA90024.1:loc:2565:3423:strand:+ -            285     1e-12   47.9   0.1   1   1   2.2e-16   3.9e-12   46.0   0.1     9   267    19   247    14   280 0.81 Subtilase family
+Lant_dehydr_N        PF04738.13   653 BGC0000543.1_ORF5:gid:pepB:pid:CAA90025.1:loc:3409:6313:strand:+ -            967   2.5e-61  207.6   0.0   1   2   6.3e-45   5.6e-41  140.4   0.0    29   449    69   471    46   503 0.88 Lantibiotic dehydratase, N terminus
+Lant_dehydr_N        PF04738.13   653 BGC0000543.1_ORF5:gid:pepB:pid:CAA90025.1:loc:3409:6313:strand:+ -            967   2.5e-61  207.6   0.0   2   2   3.3e-22     3e-18   65.3   0.0   509   653   512   652   507   652 0.92 Lantibiotic dehydratase, N terminus
+Lant_dehydr_C        PF14028.6    312 BGC0000543.1_ORF5:gid:pepB:pid:CAA90025.1:loc:3409:6313:strand:+ -            967   5.3e-21   75.5   0.1   1   1   9.4e-24   8.4e-20   71.5   0.1     1   311   717   957   717   958 0.88 Lantibiotic biosynthesis dehydratase C-term
+LANC_like            PF05147.13   352 BGC0000543.1_ORF6:gid:pepC:pid:CAA90026.1:loc:6309:7506:strand:+ -            398   1.8e-81  273.5   5.6   1   1   1.2e-85   2.2e-81  273.2   5.6     2   348    31   392    30   396 0.94 Lanthionine synthetase C-like protein
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000543.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000543.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000543.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:52:12 2019
+# [ok]

@@ -1,0 +1,147 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="552.7666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="542.7666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg1919_1)</title>
+			<polygon class=" (ctg1919_1)" points="10,10 14,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1919_2)</title>
+			<polygon class=" (ctg1919_2)" points="14,25 24,25 24,10 54,40 24,70 24,55 14,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<rect class="PF04055" x="19" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(149,56,222)" stroke="rgb(119,44,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1919_3)</title>
+			<polygon class=" (ctg1919_3)" points="55,25 85,25 85,10 115,40 85,70 85,55 55,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF116 (PF01976)
+"Protein of unknown function DUF116"</title>
+				<rect class="PF01976" x="63" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(103,188,75)" stroke="rgb(82,150,60)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>polyprenyl_synt (PF00348)
+"Polyprenyl synthetase"</title>
+				<polygon class="PF00348" points="82,28 99,28 107,36 107,44 99,52 82,52" stroke-linejoin="round" width="25" height="24" fill="rgb(61,206,65)" stroke="rgb(48,164,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1919_4)</title>
+			<polygon class=" (ctg1919_4)" points="114,10 142,40 114,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Prenyltrans (PF00432)
+"Prenyltransferase and squalene oxidase repeat"</title>
+				<rect class="PF00432" x="115" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(218,215,79)" stroke="rgb(174,172,63)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Prenyltrans (PF00432)
+"Prenyltransferase and squalene oxidase repeat"</title>
+				<polygon class="PF00432" points="133,35 136,38 136,42 133,45" stroke-linejoin="round" width="3" height="24" fill="rgb(218,215,79)" stroke="rgb(174,172,63)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Prenyltrans (PF00432)
+"Prenyltransferase and squalene oxidase repeat"</title>
+				<polygon class="PF00432" points="138,40 138,40 138,40" stroke-linejoin="round" width="3" height="24" fill="rgb(218,215,79)" stroke="rgb(174,172,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1919_5)</title>
+			<polygon class=" (ctg1919_5)" points="145,25 178,25 178,10 208,40 178,70 178,55 145,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQHop_cyclase_N (PF13249)
+"Squalene-hopene cyclase N-terminal domain"</title>
+				<rect class="PF13249" x="146" y="28" stroke-linejoin="round" width="20" height="24" fill="rgb(88,190,89)" stroke="rgb(70,152,71)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SQHop_cyclase_C (PF13243)
+"Squalene-hopene cyclase C-terminal domain"</title>
+				<polygon class="PF13243" points="175,28 192,28 204,40 192,52 175,52" stroke-linejoin="round" width="32" height="24" fill="rgb(191,58,201)" stroke="rgb(152,46,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1919_6)</title>
+			<polygon class=" (ctg1919_6)" points="258,25 237,25 237,10 207,40 237,70 237,55 258,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SSF (PF00474)
+"Sodium:solute symporter family"</title>
+				<polygon class="PF00474" points="212,39 223,28 253,28 253,52 223,52 212,41" stroke-linejoin="round" width="41" height="24" fill="rgb(49,186,178)" stroke="rgb(39,148,142)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1919_7)</title>
+			<polygon class=" (ctg1919_7)" points="319,25 297,25 297,10 267,40 297,70 297,55 319,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Sulfatase (PF00884)
+"Sulfatase"</title>
+				<polygon class="PF00884" points="278,33 283,28 313,28 313,52 283,52 278,47" stroke-linejoin="round" width="35" height="24" fill="rgb(61,103,198)" stroke="rgb(48,82,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1919_8)</title>
+			<polygon class=" (ctg1919_8)" points="342,25 345,25 345,10 375,40 345,70 345,55 342,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FmdA_AmdA (PF03069)
+"Acetamidase/Formamidase family"</title>
+				<rect class="PF03069" x="342" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(205,187,71)" stroke="rgb(164,149,56)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FmdA_AmdA (PF03069)
+"Acetamidase/Formamidase family"</title>
+				<polygon class="PF03069" points="359,29 370,40 359,51" stroke-linejoin="round" width="14" height="24" fill="rgb(205,187,71)" stroke="rgb(164,149,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1919_9)</title>
+			<polygon class=" (ctg1919_9)" points="374,40 383,10 383,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1919_10)</title>
+			<polygon class=" (ctg1919_10)" points="389,40 404,10 404,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YgbB (PF02542)
+"YgbB family"</title>
+				<polygon class="PF02542" points="392,40 398,28 404,28 404,52 398,52" stroke-linejoin="round" width="15" height="24" fill="rgb(183,87,193)" stroke="rgb(146,69,154)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1919_11)</title>
+			<polygon class=" (ctg1919_11)" points="405,40 414,10 414,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acylphosphatase (PF00708)
+"Acylphosphatase"</title>
+				<polygon class="PF00708" points="408,40 412,28 413,28 413,52 412,52" stroke-linejoin="round" width="8" height="24" fill="rgb(79,219,111)" stroke="rgb(63,175,88)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1919_12)</title>
+			<polygon class=" (ctg1919_12)" points="419,10 436,40 419,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Fer2 (PF00111)
+"2Fe-2S iron-sulfur cluster binding domain"</title>
+				<polygon class="PF00111" points="421,28 426,28 428,32 428,48 426,52 421,52" stroke-linejoin="round" width="7" height="24" fill="rgb(60,59,191)" stroke="rgb(48,47,152)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Fer2_2 (PF01799)
+"[2Fe-2S] binding domain"</title>
+				<polygon class="PF01799" points="428,32 433,40 428,48" stroke-linejoin="round" width="7" height="24" fill="rgb(67,193,124)" stroke="rgb(53,154,99)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1919_13)</title>
+			<polygon class=" (ctg1919_13)" points="437,25 484,25 484,10 514,40 484,70 484,55 437,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ald_Xan_dh_C (PF01315)
+"Aldehyde oxidase and xanthine dehydrogenase, a/b hammerhead domain"</title>
+				<rect class="PF01315" x="439" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(127,182,88)" stroke="rgb(101,145,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ald_Xan_dh_C2 (PF02738)
+"Molybdopterin-binding domain of aldehyde dehydrogenase"</title>
+				<polygon class="PF02738" points="452,28 498,28 507,37 507,43 498,52 452,52" stroke-linejoin="round" width="55" height="24" fill="rgb(194,143,89)" stroke="rgb(155,114,71)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,28 @@
+# STOCKHOLM 1.0
+
+CS202_c00001_NODE_1_...cluster092_ORF15:gid::pid::loc:17403:18666:strand:-:20:211         .qrlrtgrwrddlstrnglvrgltr-----------..GAPGPRILVHGVSVGETNTLLPLVEALAASHAAPDVVVSASTATGHQRAQAIHAPGREVVRFPLDFTWMVNRFLDRVRPALVVLGELELWPSFLAACARRRIPVCVVNGRLSERSFRGYRRWRALVRPMFRQLDLVVAQTANYRDRFTAMGVPAHRAVVGGS
+#=GR CS202_c00001_NODE_1_...cluster092_ORF15:gid::pid::loc:17403:18666:strand:-:20:211 PP .***999888776655544433332.............223366************************************************999999******************************************************************************************************
+BGC0000776.1_ORF1:gid:waaA:pid:CAD19780.2:loc:0:1278:strand:-:33:211                      .........................-RWGERYGFYR.hPLKPGGIMLHSVSVGETLAAIPLVRALRHRYPDLPITVTTMTPTGSERVQSAFGKDVQHVYLPYDLPDALNRFLNKVDPKLVLIMETELWPNLIAALHKRKIPLVIANARLSARSAAGYAKLGKFVRRLLRRITLIAAQNEEDGARFVALGAKNNQVTVTGS
+#=GR BGC0000776.1_ORF1:gid:waaA:pid:CAD19780.2:loc:0:1278:strand:-:33:211              PP ..........................79*******9.7555567************************************************************************************************************************************************************
+BGC0000779.1_ORF1:gid:waaA:pid:ACA14480.1:loc:319:1585:strand:-:34:211                    .........................-RWAEHLGWTP.aSGQEAPLWIHAVSVGETLAISPFIRALKAERPDLPILLTTTTRTGAEQAAKLG-DLVVHRYAPLDYPWAVAAFLKRIKPRALWVMETELWPNWLAACEAHHLPVTIINARLSERSCQRYARFHGAFDALSRPLTHLLCQHQDDADRFARLGISRARLAVTGS
+#=GR BGC0000779.1_ORF1:gid:waaA:pid:ACA14480.1:loc:319:1585:strand:-:34:211            PP ..........................799******9.8666677*******************************************9998.899*********************************************************************************************************
+BGC0000780.1_ORF21:gid::pid:BAG50469.1:loc:16779:18060:strand:-:34:212                    .........................-RWKEHFGVTPrlKSTNKPIWIHAVSVGECIAATPLIEALKKQTPEQTILVTTTTSTGAEQISKLG-ELVEHRYMPIDFSFAVKGFLKKIQPKQMLIIETELWPNTLSEVHKAGIPITVVNARLSEKSCNNYTRVQPLFNLMQPCITKVLCQTESDAARFEHLGLDREKLSITGS
+#=GR BGC0000780.1_ORF21:gid::pid:BAG50469.1:loc:16779:18060:strand:-:34:212            PP ..........................79*****99998777788*******************************************9998.899*********************************************************************************************************
+CS783_c00001_NODE_1_...cluster025_ORF20:gid::pid::loc:30771:32034:strand:-:19:211         kqrlrtgrwrddlrtrnglvggltp-----------..RAPGPRILVHGVSVGETHALQPLVKALAASPAAPDVVVSASTATGHERARAIHAPGREVVRFPLDFTWMANRFLDRLRPALVVLGELELWPSFLAACARRRIPVCVVNGRLSERSYRGYHAWRALVRPMFRQLDLVVAQTETYRDRFTAMGVPAHRAVVGGS
+#=GR CS783_c00001_NODE_1_...cluster025_ORF20:gid::pid::loc:30771:32034:strand:-:19:211 PP *999999888766555444443322.............333367**********************998889********************999999******************************************************************************************************
+#=GC PP_cons                                                                              ..........................79*******9..555577*************************99******************99*999*********************************************************************************************************
+#=GC RF                                                                                   .........................xxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CS202_c00001_NODE_1_...cluster092_ORF15:gid::pid::loc:17403:18666:strand:-:20:211         LKWD-a
+#=GR CS202_c00001_NODE_1_...cluster092_ORF15:gid::pid::loc:17403:18666:strand:-:20:211 PP ***9.5
+BGC0000776.1_ORF1:gid:waaA:pid:CAD19780.2:loc:0:1278:strand:-:33:211                      LKFDI.
+#=GR BGC0000776.1_ORF1:gid:waaA:pid:CAD19780.2:loc:0:1278:strand:-:33:211              PP ***95.
+BGC0000779.1_ORF1:gid:waaA:pid:ACA14480.1:loc:319:1585:strand:-:34:211                    IKFDI.
+#=GR BGC0000779.1_ORF1:gid:waaA:pid:ACA14480.1:loc:319:1585:strand:-:34:211            PP ***95.
+BGC0000780.1_ORF21:gid::pid:BAG50469.1:loc:16779:18060:strand:-:34:212                    IKFDI.
+#=GR BGC0000780.1_ORF21:gid::pid:BAG50469.1:loc:16779:18060:strand:-:34:212            PP ***95.
+CS783_c00001_NODE_1_...cluster025_ORF20:gid::pid::loc:30771:32034:strand:-:19:211         LKWD-a
+#=GR CS783_c00001_NODE_1_...cluster025_ORF20:gid::pid::loc:30771:32034:strand:-:19:211 PP ***9.5
+#=GC PP_cons                                                                              ***95.
+#=GC RF                                                                                   xxxxx.
+//

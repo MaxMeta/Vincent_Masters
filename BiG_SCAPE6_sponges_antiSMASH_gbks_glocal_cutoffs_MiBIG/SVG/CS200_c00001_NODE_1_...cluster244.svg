@@ -1,0 +1,101 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="283.46666666666664" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="273.46666666666664" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg10222_1)</title>
+			<polygon class=" (ctg10222_1)" points="10,40 28,10 28,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ADH_N (PF08240)
+"Alcohol dehydrogenase GroES-like domain"</title>
+				<polygon class="PF08240" points="14,40 21,28 25,28 25,52 21,52 14,40" stroke-linejoin="round" width="11" height="24" fill="rgb(211,65,138)" stroke="rgb(168,51,110)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg10222_2)</title>
+			<polygon class=" (ctg10222_2)" points="65,25 61,25 61,10 31,40 61,70 61,55 65,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Bac_luciferase (PF00296)
+"Luciferase-like monooxygenase"</title>
+				<polygon class="PF00296" points="35,40 43,32 43,48" stroke-linejoin="round" width="10" height="24" fill="rgb(180,112,78)" stroke="rgb(144,89,62)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Bac_luciferase (PF00296)
+"Luciferase-like monooxygenase"</title>
+				<polygon class="PF00296" points="46,29 47,28 64,28 64,52 47,52 46,51" stroke-linejoin="round" width="18" height="24" fill="rgb(180,112,78)" stroke="rgb(144,89,62)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg10222_3)</title>
+			<polygon class=" (ctg10222_3)" points="127,25 98,25 98,10 68,40 98,70 98,55 127,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Rhodanese (PF00581)
+"Rhodanese-like domain"</title>
+				<rect class="PF00581" x="86" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(145,191,76)" stroke="rgb(116,152,60)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Rhodanese (PF00581)
+"Rhodanese-like domain"</title>
+				<rect class="PF00581" x="98" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(145,191,76)" stroke="rgb(116,152,60)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg10222_4)</title>
+			<polygon class=" (ctg10222_4)" points="128,40 155,10 155,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short_C2 (PF13561)
+"Enoyl-(Acyl carrier protein) reductase"</title>
+				<polygon class="PF13561" points="132,40 143,28 153,28 153,52 143,52" stroke-linejoin="round" width="25" height="24" fill="rgb(73,205,127)" stroke="rgb(58,164,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg10222_5)</title>
+			<polygon class=" (ctg10222_5)" points="155,40 169,10 169,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyoxalase_3 (PF13468)
+"Glyoxalase-like domain"</title>
+				<polygon class="PF13468" points="158,40 164,28 168,28 168,52 164,52" stroke-linejoin="round" width="13" height="24" fill="rgb(101,113,206)" stroke="rgb(80,90,164)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg10222_6)</title>
+			<polygon class=" (ctg10222_6)" points="215,25 199,25 199,10 169,40 199,70 199,55 215,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FAD-oxidase_C (PF02913)
+"FAD linked oxidases, C-terminal domain"</title>
+				<polygon class="PF02913" points="173,40 172,41 172,39" stroke-linejoin="round" width="2" height="24" fill="rgb(111,69,188)" stroke="rgb(88,55,150)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FAD_binding_4 (PF01565)
+"FAD binding domain"</title>
+				<rect class="PF01565" x="196" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(226,88,136)" stroke="rgb(180,70,108)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg10222_7)</title>
+			<polygon class=" (ctg10222_7)" points="256,25 248,25 248,10 218,40 248,70 248,55 256,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>polyprenyl_synt (PF00348)
+"Polyprenyl synthetase"</title>
+				<polygon class="PF00348" points="222,40 234,28 248,28 248,52 234,52 222,40" stroke-linejoin="round" width="26" height="24" fill="rgb(61,206,65)" stroke="rgb(48,164,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg10222_8)</title>
+			<polygon class=" (ctg10222_8)" points="256,40 264,10 264,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Exonuc_VII_S (PF02609)
+"Exonuclease VII small subunit"</title>
+				<polygon class="PF02609" points="259,40 262,28 262,28 262,52 262,52" stroke-linejoin="round" width="5" height="24" fill="rgb(127,67,194)" stroke="rgb(101,53,155)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg10222_9)</title>
+			<polygon class=" (ctg10222_9)" points="264,40 273,10 273,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Exonuc_VII_L (PF02601)
+"Exonuclease VII, large subunit"</title>
+				<polygon class="PF02601" points="267,40 271,28 272,28 272,52 271,52" stroke-linejoin="round" width="7" height="24" fill="rgb(182,69,65)" stroke="rgb(145,55,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

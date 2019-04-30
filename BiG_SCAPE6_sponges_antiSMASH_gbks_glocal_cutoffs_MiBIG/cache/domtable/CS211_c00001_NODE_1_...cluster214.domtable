@@ -1,0 +1,31 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Amino_oxidase        PF01593.24   452 CS211_c00001_NODE_1_...cluster214_ORF1:gid::pid::loc:0:897:strand:- -            299   9.4e-27   94.4   0.1   1   1   4.8e-30   1.1e-26   94.2   0.1     1   290    13   298    13   299 0.82 Flavin containing amine oxidoreductase
+FAD_oxidored         PF12831.7    433 CS211_c00001_NODE_1_...cluster214_ORF1:gid::pid::loc:0:897:strand:- -            299   4.8e-11   42.7   1.8   1   1   1.6e-12   3.7e-09   36.4   0.4     1    38     5    42     5    80 0.91 FAD dependent oxidoreductase
+DAO                  PF01266.24   352 CS211_c00001_NODE_1_...cluster214_ORF1:gid::pid::loc:0:897:strand:- -            299   4.4e-10   39.7   7.5   1   1   1.5e-11   3.4e-08   33.5   7.5     2   200     6   268     5   285 0.58 FAD dependent oxidoreductase
+NAD_binding_8        PF13450.6     68 CS211_c00001_NODE_1_...cluster214_ORF1:gid::pid::loc:0:897:strand:- -            299   1.1e-09   38.3   0.1   1   1   9.6e-13   2.2e-09   37.4   0.1     1    53     8    60     8    72 0.95 NAD(P)-binding Rossmann-like domain
+FAD_binding_2        PF00890.24   417 CS211_c00001_NODE_1_...cluster214_ORF1:gid::pid::loc:0:897:strand:- -            299   3.2e-09   36.4   1.8   1   1   1.6e-12   3.6e-09   36.2   0.4     2    39     6    43     5    50 0.92 FAD binding domain
+GIDA                 PF01134.22   392 CS211_c00001_NODE_1_...cluster214_ORF1:gid::pid::loc:0:897:strand:- -            299   5.1e-06   25.8   0.1   1   1   1.8e-08   4.1e-05   22.8   0.1     2    29     6    33     5    62 0.89 Glucose inhibited division protein A
+SQS_PSY              PF00494.19   263 CS211_c00001_NODE_1_...cluster214_ORF2:gid::pid::loc:898:1849:strand:- -            316   4.4e-71  239.5   5.9   1   1   2.9e-75   5.2e-71  239.2   5.9     2   261    30   285    29   287 0.94 Squalene/phytoene synthase
+SQS_PSY              PF00494.19   263 CS211_c00001_NODE_1_...cluster214_ORF3:gid::pid::loc:1848:2778:strand:- -            309   2.9e-62  210.6   4.7   1   1   1.9e-66   3.5e-62  210.3   4.7     2   263    41   292    40   292 0.95 Squalene/phytoene synthase
+SQHop_cyclase_C      PF13243.6    319 CS211_c00001_NODE_1_...cluster214_ORF4:gid::pid::loc:2841:4761:strand:- -            639  2.9e-156  519.5   8.2   1   1  4.1e-149  1.8e-145  484.0   0.1     1   318   316   633   316   634 0.99 Squalene-hopene cyclase C-terminal domain
+SQHop_cyclase_N      PF13249.6    291 CS211_c00001_NODE_1_...cluster214_ORF4:gid::pid::loc:2841:4761:strand:- -            639  1.2e-121  405.3   6.6   1   1  1.2e-113  5.2e-110  367.1   1.2     1   289    18   306    18   308 0.99 Squalene-hopene cyclase N-terminal domain
+Prenyltrans          PF00432.21    44 CS211_c00001_NODE_1_...cluster214_ORF4:gid::pid::loc:2841:4761:strand:- -            639   7.2e-27   92.8  19.8   1   6   2.3e-06      0.01   15.6   0.2     4    44    65   105    65   105 0.82 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.21    44 CS211_c00001_NODE_1_...cluster214_ORF4:gid::pid::loc:2841:4761:strand:- -            639   7.2e-27   92.8  19.8   2   6   5.4e-07    0.0024   17.6   0.3     4    22   250   268   249   269 0.94 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.21    44 CS211_c00001_NODE_1_...cluster214_ORF4:gid::pid::loc:2841:4761:strand:- -            639   7.2e-27   92.8  19.8   3   6   0.00045         2    8.2   0.2     4    22   409   427   407   439 0.86 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.21    44 CS211_c00001_NODE_1_...cluster214_ORF4:gid::pid::loc:2841:4761:strand:- -            639   7.2e-27   92.8  19.8   4   6   6.8e-06      0.03   14.0   0.2     6    26   479   499   476   516 0.82 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.21    44 CS211_c00001_NODE_1_...cluster214_ORF4:gid::pid::loc:2841:4761:strand:- -            639   7.2e-27   92.8  19.8   5   6   1.4e-12   6.2e-09   35.5   0.1     2    43   523   574   522   575 0.95 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.21    44 CS211_c00001_NODE_1_...cluster214_ORF4:gid::pid::loc:2841:4761:strand:- -            639   7.2e-27   92.8  19.8   6   6   0.00022      0.99    9.2   0.0     2    20   581   599   580   601 0.90 Prenyltransferase and squalene oxidase repeat
+polyprenyl_synt      PF00348.17   256 CS211_c00001_NODE_1_...cluster214_ORF5:gid::pid::loc:4840:5824:strand:- -            327   9.9e-56  188.6   0.0   1   1   7.1e-60   1.3e-55  188.3   0.0    14   254    33   276    26   278 0.95 Polyprenyl synthetase
+FUR                  PF01475.19   120 CS211_c00001_NODE_1_...cluster214_ORF6:gid::pid::loc:5963:6398:strand:- -            144   9.9e-28   96.7   0.0   1   1   6.5e-32   1.2e-27   96.5   0.0     1   112    13   124    13   131 0.96 Ferric uptake regulator family
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster214.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS211_c00001_NODE_1_...cluster214.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster214.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:45:49 2019
+# [ok]

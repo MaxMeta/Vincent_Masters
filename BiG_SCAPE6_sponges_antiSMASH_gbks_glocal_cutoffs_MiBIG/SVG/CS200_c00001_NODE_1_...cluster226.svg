@@ -1,0 +1,49 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="219.16666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="209.16666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg8116_1)</title>
+			<polygon class=" (ctg8116_1)" points="10,40 16,10 16,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg8116_2)</title>
+			<polygon class=" (ctg8116_2)" points="23,10 33,40 23,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Fer4_7 (PF12838)
+"4Fe-4S dicluster domain"</title>
+				<polygon class="PF12838" points="23,28 25,28 28,35 28,45 25,52 23,52" stroke-linejoin="round" width="5" height="24" fill="rgb(138,229,96)" stroke="rgb(110,183,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8116_3)</title>
+			<polygon class=" (ctg8116_3)" points="35,40 41,10 41,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Nif11 (PF07862)
+"Nif11 domain"</title>
+				<polygon class="PF07862" points="38,40 41,28 41,28 41,52 41,52" stroke-linejoin="round" width="5" height="24" fill="rgb(82,202,204)" stroke="rgb(65,161,163)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8116_4)</title>
+			<polygon class=" (ctg8116_4)" points="46,10 63,40 46,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyoxalase_4 (PF13669)
+"Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily"</title>
+				<polygon class="PF13669" points="46,28 52,28 57,35 57,45 52,52 46,52" stroke-linejoin="round" width="11" height="24" fill="rgb(66,183,136)" stroke="rgb(52,146,108)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8116_5)</title>
+			<polygon class=" (ctg8116_5)" points="131,25 94,25 94,10 64,40 94,70 94,55 131,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg8116_6)</title>
+			<polygon class=" (ctg8116_6)" points="141,25 154,25 154,10 184,40 154,70 154,55 141,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="160,28 168,28 180,40 180,40 168,52 160,52" stroke-linejoin="round" width="20" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,30 @@
+#                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ketoacyl-synt        PF00109.26   253 CS203_c00001_NODE_1_...cluster150_ORF1:gid::pid::loc:2:2918:strand:+ -            971   2.3e-80  269.9   1.4   1   1   6.3e-84   2.3e-80  269.9   1.4     2   253   123   366   122   366 0.95 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.22   118 CS203_c00001_NODE_1_...cluster150_ORF1:gid::pid::loc:2:2918:strand:+ -            971   1.1e-39  135.1   0.2   1   1   7.5e-43   2.7e-39  133.8   0.1     3   117   376   491   374   492 0.98 Beta-ketoacyl synthase, C-terminal domain
+Acyl_transf_1        PF00698.21   319 CS203_c00001_NODE_1_...cluster150_ORF1:gid::pid::loc:2:2918:strand:+ -            971   7.9e-19   68.3   0.4   1   1   3.7e-22   1.3e-18   67.6   0.4     2   117   683   797   682   817 0.93 Acyl transferase domain
+PP-binding           PF00550.25    67 CS203_c00001_NODE_1_...cluster150_ORF1:gid::pid::loc:2:2918:strand:+ -            971   1.9e-11   44.2   0.0   1   1     1e-14   3.6e-11   43.2   0.0     3    67    28    93    26    93 0.91 Phosphopantetheine attachment site
+KAsynt_C_assoc       PF16197.5    112 CS203_c00001_NODE_1_...cluster150_ORF1:gid::pid::loc:2:2918:strand:+ -            971   4.1e-11   43.3   0.0   1   1   3.5e-14   1.2e-10   41.8   0.0     1    88   494   616   494   629 0.91 Ketoacyl-synthetase C-terminal extension
+Metallophos          PF00149.28   204 CS203_c00001_NODE_1_...cluster150_ORF2:gid::pid::loc:3446:4283:strand:+ -            278   6.4e-15   56.2   0.0   1   1   1.2e-18   1.1e-14   55.5   0.0     1   203     1   233     1   234 0.78 Calcineurin-like phosphoesterase
+ACPS                 PF01648.20   114 CS203_c00001_NODE_1_...cluster150_ORF3:gid::pid::loc:4279:5065:strand:+ -            261   6.7e-13   48.8   0.0   1   1   8.3e-17   1.5e-12   47.7   0.0     1    79   122   193   122   216 0.89 4'-phosphopantetheinyl transferase superfamily
+HATPase_c            PF02518.26   112 CS203_c00001_NODE_1_...cluster150_ORF4:gid::pid::loc:6116:7421:strand:+ -            434   1.1e-17   64.6   0.0   1   1   9.4e-22   1.7e-17   63.9   0.0     4   111   298   412   295   413 0.83 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+Sigma54_activat      PF00158.26   168 CS203_c00001_NODE_1_...cluster150_ORF5:gid::pid::loc:7417:8779:strand:+ -            453   1.4e-64  216.9   0.0   1   1   8.9e-68   2.7e-64  215.9   0.0     1   167   138   304   138   305 0.99 Sigma-54 interaction domain
+Response_reg         PF00072.24   112 CS203_c00001_NODE_1_...cluster150_ORF5:gid::pid::loc:7417:8779:strand:+ -            453   1.9e-26   92.4   0.0   1   1   1.2e-29   3.7e-26   91.5   0.0     1   111     3   112     3   113 0.98 Response regulator receiver domain
+Sigma54_activ_2      PF14532.6    138 CS203_c00001_NODE_1_...cluster150_ORF5:gid::pid::loc:7417:8779:strand:+ -            453   1.4e-17   64.1   0.0   1   1   1.5e-20   4.5e-17   62.4   0.0     1   138   139   309   139   309 0.90 Sigma-54 interaction domain
+HTH_8                PF02954.19    42 CS203_c00001_NODE_1_...cluster150_ORF5:gid::pid::loc:7417:8779:strand:+ -            453   4.6e-07   29.5   2.9   1   1   1.5e-10   4.6e-07   29.5   2.9     3    42   408   447   406   447 0.95 Bacterial regulatory protein, Fis family
+Mg_chelatase         PF01078.21   207 CS203_c00001_NODE_1_...cluster150_ORF5:gid::pid::loc:7417:8779:strand:+ -            453   2.4e-06   27.1   0.5   1   1   4.7e-08   0.00014   21.3   0.2    23   136   160   260   145   281 0.75 Magnesium chelatase, subunit ChlI
+MR_MLE_C             PF13378.6    220 CS203_c00001_NODE_1_...cluster150_ORF8:gid::pid::loc:11367:12510:strand:- -            380   1.4e-38  132.6   0.2   1   1   2.2e-42     2e-38  132.2   0.2     3   219   147   355   145   357 0.90 Enolase C-terminal domain-like
+MR_MLE_N             PF02746.16   117 CS203_c00001_NODE_1_...cluster150_ORF8:gid::pid::loc:11367:12510:strand:- -            380   2.9e-12   46.8   0.0   1   1   6.3e-16   5.7e-12   45.9   0.0     7   117     9   125     4   125 0.91 Mandelate racemase / muconate lactonizing enzyme, N-terminal domain
+M20_dimer            PF07687.14   109 CS203_c00001_NODE_1_...cluster150_ORF10:gid::pid::loc:13726:14482:strand:- -            251   1.4e-18   66.8   0.3   1   1   2.7e-22   2.4e-18   66.0   0.3     1    98    47   139    47   145 0.94 Peptidase dimerisation domain
+Peptidase_M20        PF01546.28   207 CS203_c00001_NODE_1_...cluster150_ORF10:gid::pid::loc:13726:14482:strand:- -            251   4.5e-08   33.0   0.0   1   1   7.9e-12   7.1e-08   32.4   0.0    64   205     4   239     3   241 0.73 Peptidase family M20/M25/M40
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS203_c00001_NODE_1_...cluster150.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS203_c00001_NODE_1_...cluster150.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS203_c00001_NODE_1_...cluster150.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:36:20 2019
+# [ok]

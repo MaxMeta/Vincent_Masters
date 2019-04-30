@@ -1,0 +1,33 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DUF2690              PF10901.8     89 BGC0001485.1_ORF1:gid::pid:ATE50856.1:loc:0:996:strand:+ -            331     6e-16   58.5   2.7   1   1     6e-20   1.1e-15   57.7   2.7     2    89   211   299   210   299 0.94 Protein of unknown function (DUF2690)
+PG_binding_1         PF01471.18    57 BGC0001485.1_ORF2:gid::pid:ATE50857.1:loc:1314:2355:strand:+ -            346   8.2e-34  115.6   2.1   1   2   7.4e-21   6.6e-17   61.5   0.1     1    57    68   123    68   123 0.97 Putative peptidoglycan binding domain
+PG_binding_1         PF01471.18    57 BGC0001485.1_ORF2:gid::pid:ATE50857.1:loc:1314:2355:strand:+ -            346   8.2e-34  115.6   2.1   2   2   3.7e-18   3.3e-14   52.8   0.4     1    57   132   187   132   187 0.96 Putative peptidoglycan binding domain
+Radical_SAM          PF04055.21   167 BGC0001485.1_ORF4:gid::pid:ATE50859.1:loc:3180:5052:strand:- -            623     6e-17   62.5   0.0   1   1   1.5e-20   1.3e-16   61.4   0.0     2   165   266   426   265   428 0.90 Radical SAM superfamily
+B12-binding          PF02310.19   121 BGC0001485.1_ORF4:gid::pid:ATE50859.1:loc:3180:5052:strand:- -            623     4e-09   36.5   0.0   1   1   1.1e-12   9.4e-09   35.3   0.0    41   120   119   198    84   199 0.88 B12 binding domain
+Aminotran_1_2        PF00155.21   363 BGC0001485.1_ORF5:gid::pid:ATE50860.1:loc:5124:6213:strand:- -            362     2e-43  149.0   0.0   1   1   2.8e-47   2.5e-43  148.6   0.0     4   357    33   347    32   353 0.90 Aminotransferase class I and II
+Cys_Met_Meta_PP      PF01053.20   382 BGC0001485.1_ORF5:gid::pid:ATE50860.1:loc:5124:6213:strand:- -            362   1.1e-05   24.2   0.0   1   1   1.8e-09   1.6e-05   23.7   0.0    47   174    60   192    28   196 0.84 Cys/Met metabolism PLP-dependent enzyme
+ApbA                 PF02558.16   152 BGC0001485.1_ORF6:gid::pid:ATE50861.1:loc:6209:7166:strand:- -            318   4.5e-36  123.8   0.0   1   1   1.1e-39   6.3e-36  123.3   0.0     1   151     9   158     9   159 0.96 Ketopantoate reductase PanE/ApbA
+ApbA_C               PF08546.11   125 BGC0001485.1_ORF6:gid::pid:ATE50861.1:loc:6209:7166:strand:- -            318   2.3e-23   82.8   0.0   1   1   5.7e-27   3.4e-23   82.2   0.0     1   124   184   308   184   309 0.92 Ketopantoate reductase PanE/ApbA C terminal
+F420_oxidored        PF03807.17    97 BGC0001485.1_ORF6:gid::pid:ATE50861.1:loc:6209:7166:strand:- -            318     2e-05   25.1   0.0   1   1   3.4e-09     2e-05   25.1   0.0     2    96     9   109     8   110 0.85 NADP oxidoreductase coenzyme F420-dependent
+p450                 PF00067.22   463 BGC0001485.1_ORF7:gid::pid:ATE50863.1:loc:7162:8377:strand:- -            404   4.5e-29  101.5   0.0   1   2     9e-10   1.6e-05   23.9   0.1   203   300   175   262   160   264 0.91 Cytochrome P450
+p450                 PF00067.22   463 BGC0001485.1_ORF7:gid::pid:ATE50863.1:loc:7162:8377:strand:- -            404   4.5e-29  101.5   0.0   2   2   5.7e-24     1e-19   70.6   0.0   324   448   268   385   264   398 0.88 Cytochrome P450
+ThiS                 PF02597.20    77 BGC0001485.1_ORF8:gid::pid:ATE50862.1:loc:8373:8676:strand:- -            100   1.2e-10   41.8   0.0   1   1   8.2e-15   1.5e-10   41.6   0.0     1    77     4    90     4    90 0.96 ThiS family
+MFS_1                PF07690.16   353 BGC0001485.1_ORF10:gid::pid:ATE50865.1:loc:9464:10955:strand:- -            496   3.2e-44  151.3  91.7   1   2   1.2e-41   1.1e-37  129.8  52.4     4   352    25   424    22   425 0.89 Major Facilitator Superfamily
+MFS_1                PF07690.16   353 BGC0001485.1_ORF10:gid::pid:ATE50865.1:loc:9464:10955:strand:- -            496   3.2e-44  151.3  91.7   2   2   5.5e-13     5e-09   35.6  31.3     4   177   276   473   273   489 0.87 Major Facilitator Superfamily
+Sugar_tr             PF00083.24   452 BGC0001485.1_ORF10:gid::pid:ATE50865.1:loc:9464:10955:strand:- -            496   7.6e-08   31.6  33.1   1   1   4.9e-11   4.4e-07   29.1  12.4    33   187    39   185    11   189 0.81 Sugar (and other) transporter
+HTH_1                PF00126.27    60 BGC0001485.1_ORF11:gid::pid:ATE50866.1:loc:11251:12193:strand:+ -            313   5.3e-23   80.7   0.9   1   1   1.2e-26   1.1e-22   79.8   0.9     1    60     5    64     5    64 0.98 Bacterial regulatory helix-turn-helix protein, lysR family
+LysR_substrate       PF03466.20   209 BGC0001485.1_ORF11:gid::pid:ATE50866.1:loc:11251:12193:strand:+ -            313   1.7e-19   70.1   6.4   1   1   2.7e-23   2.4e-19   69.5   6.4     5   208    92   293    88   294 0.93 LysR substrate binding domain
+tRNA-synt_1b         PF00579.25   293 BGC0001485.1_ORF12:gid::pid:ATE50867.1:loc:12466:13369:strand:+ -            300     1e-46  159.6   0.0   1   1   6.6e-51   1.2e-46  159.4   0.0    34   291     7   253     1   255 0.89 tRNA synthetases class I (W and Y)
+SSF                  PF00474.17   406 BGC0001485.1_ORF14:gid::pid:ATE50869.1:loc:16090:17737:strand:- -            548   5.5e-92  308.7  24.1   1   1   3.1e-96   5.5e-92  308.7  24.1     1   406    36   443    36   443 0.92 Sodium:solute symporter family
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001485.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001485.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001485.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:35:02 2019
+# [ok]

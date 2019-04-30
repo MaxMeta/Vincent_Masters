@@ -1,0 +1,57 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="293.6" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="283.6" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg3821_1)</title>
+			<polygon class=" (ctg3821_1)" points="16,10 22,40 16,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3821_2)</title>
+			<polygon class=" (ctg3821_2)" points="29,25 35,25 35,10 65,40 35,70 35,55 29,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3821_3)</title>
+			<polygon class=" (ctg3821_3)" points="90,40 103,10 103,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MacB_PCD (PF12704)
+"MacB-like periplasmic core domain"</title>
+				<polygon class="PF12704" points="93,40 98,28 100,28 100,52 98,52" stroke-linejoin="round" width="10" height="24" fill="rgb(79,76,190)" stroke="rgb(63,60,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3821_4)</title>
+			<polygon class=" (ctg3821_4)" points="108,40 116,10 116,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NHase_alpha (PF02979)
+"Nitrile hydratase, alpha chain"</title>
+				<polygon class="PF02979" points="111,40 114,28 114,28 114,52 114,52" stroke-linejoin="round" width="6" height="24" fill="rgb(204,148,70)" stroke="rgb(163,118,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3821_5)</title>
+			<polygon class=" (ctg3821_5)" points="119,40 124,10 124,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3821_6)</title>
+			<polygon class=" (ctg3821_6)" points="136,10 151,40 136,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Penicillinase_R (PF03965)
+"Penicillinase repressor"</title>
+				<polygon class="PF03965" points="138,28 141,28 147,40 141,52 138,52" stroke-linejoin="round" width="11" height="24" fill="rgb(208,59,133)" stroke="rgb(166,47,106)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3821_7)</title>
+			<polygon class=" (ctg3821_7)" points="150,25 169,25 169,10 199,40 169,70 169,55 150,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_M56 (PF05569)
+"BlaR1 peptidase M56"</title>
+				<rect class="PF05569" x="159" y="28" stroke-linejoin="round" width="21" height="24" fill="rgb(60,182,225)" stroke="rgb(48,145,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3821_8)</title>
+			<polygon class=" (ctg3821_8)" points="199,25 211,25 211,10 241,40 211,70 211,55 199,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

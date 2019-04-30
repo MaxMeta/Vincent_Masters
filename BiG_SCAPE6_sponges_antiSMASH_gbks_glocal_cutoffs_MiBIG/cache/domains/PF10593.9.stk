@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+CS200_c00001_NODE_1_...cluster100_ORF25:gid::pid::loc:23477:25697:strand:+:299:520         .-LLDALRVFLVGVAAGLIQGrS.......rSNANRSMLVHPSRETAQHQEYRIWIGQVFDEWRRILALP.....--EANSDLIDFLQDFQDSH..SDL...ARSVPDLPSFGNIKAMLPRAFRLS.....SIEEVNTRGRRg..tPSIDWSRS----YGWILVGGQAMDRGFTVEGLTVTYMPRgpGVGNADTIQQRGR
+#=GR CS200_c00001_NODE_1_...cluster100_ORF25:gid::pid::loc:23477:25697:strand:+:299:520 PP ..569**************9943.......36668***************************98887666.......66677777777766666..444...77888999*************999.....999999998887..788999886....55899**********************88899**********
+BGC0000949.1_ORF2:gid::pid:BAI23311.1:loc:3909:6603:strand:+:557:809                       r---QAMDMFVLTGAVKLYRA.ArgggevrtDYRHHTMIVNSSDQVIRKREQAARLRRLWYE--------.....GSYDRADGLGRLRELYERDvePVScerADGLPVPESFDELVPYVVAAWSRIdsdgnAVLIQSGSTHDehggYELDFTRR-H--IWKILVCGSRLSHGGTVEGLTVIYQGP..RTDSAVVLAGMGR
+#=GR BGC0000949.1_ORF2:gid::pid:BAI23311.1:loc:3909:6603:strand:+:557:809               PP 5...8****************.5599988877789*************************95.............2467999************6644487766777888*************9999999766666666555688899**9995.5..9**************************..*************
+CS783_c00001_NODE_1_...cluster002_ORF21:gid::pid::loc:38977:41713:strand:+:403:633         .-LVTAVRTFVVARAVRLARG.D........GDQHNSMLVNTSRFVDVQQQLHNKIHELLYRIRSSVRVNgklseSEAHSDNEIAALHDVFIEE..---...-YDGSCEVSWPTVRSCLWDSVSPI.....SVVQVNSRSS-....RSLDYSSYGRHGLNVIAVGGLSLSRGLTLEGLVISYFLR..NSIMYDTLMQMGR
+#=GR CS783_c00001_NODE_1_...cluster002_ORF21:gid::pid::loc:38977:41713:strand:+:403:633 PP ..568****************.*........*************************************99999988889999999******999.........5689999****************.....*********9.....***************************************..*************
+#=GC PP_cons                                                                               ..568****************.6........8889**************************8*9998887.....5677888999999999988..444...76788899****************.....88888888876....99999997*7**889************************..99***********
+#=GC RF                                                                                    .xxxxxxxxxxxxxxxxxxxx.x........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.....xxxxxxxxxxxxxxxxxxx..xxx...xxxxxxxxxxxxxxxxxxxxxxxx.....xxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxx
+
+CS200_c00001_NODE_1_...cluster100_ORF25:gid::pid::loc:23477:25697:strand:+:299:520         FFGYKRPYLGYCRTYL.......EQDVLTAFEGYVEHEEEMRRQLQQVR.....DA------------------ggplsdwkr
+#=GR CS200_c00001_NODE_1_...cluster100_ORF25:gid::pid::loc:23477:25697:strand:+:299:520 PP ****************.......***********************998.....65..................57888999*
+BGC0000949.1_ORF2:gid::pid:BAI23311.1:loc:3909:6603:strand:+:557:809                       WAGFRIGYQDLMRLYFarvpndaDGGIFHAFAAIFRDQRSFQEDLARYAievdgRPQLTPAQVPPLLAQH----lgmv.....
+#=GR BGC0000949.1_ORF2:gid::pid:BAI23311.1:loc:3909:6603:strand:+:557:809               PP ****************999888777899**********************99999********9999887....5789.....
+CS783_c00001_NODE_1_...cluster002_ORF21:gid::pid::loc:38977:41713:strand:+:403:633         WFGYRPKYEDLCRVWM.......PREAEGWYCHISESIEELREELRMME.....VANATPNDFGLKVRSHPDT-l........
+#=GR CS783_c00001_NODE_1_...cluster002_ORF21:gid::pid::loc:38977:41713:strand:+:403:633 PP ****************.......**************************.....****************976.5........
+#=GC PP_cons                                                                               ****************.......999*********************99.....98*********99999976..........
+#=GC RF                                                                                    xxxxxxxxxxxxxxxx.......xxxxxxxxxxxxxxxxxxxxxxxxxx.....xxxxxxxxxxxxxxxxxxxx.........
+//

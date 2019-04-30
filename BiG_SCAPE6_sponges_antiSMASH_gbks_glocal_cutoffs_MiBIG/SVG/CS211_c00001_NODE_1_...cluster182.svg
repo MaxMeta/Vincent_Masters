@@ -1,0 +1,60 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="362.5" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="352.5" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg7584_1)</title>
+			<polygon class=" (ctg7584_1)" points="10,25 91,25 91,10 121,40 91,70 91,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SE (PF08491)
+"Squalene epoxidase"</title>
+				<rect class="PF08491" x="24" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(93,72,221)" stroke="rgb(74,57,176)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SQHop_cyclase_N (PF13249)
+"Squalene-hopene cyclase N-terminal domain"</title>
+				<rect class="PF13249" x="57" y="28" stroke-linejoin="round" width="29" height="24" fill="rgb(88,190,89)" stroke="rgb(70,152,71)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SQHop_cyclase_C (PF13243)
+"Squalene-hopene cyclase C-terminal domain"</title>
+				<polygon class="PF13243" points="87,28 105,28 117,40 105,52 87,52" stroke-linejoin="round" width="32" height="24" fill="rgb(191,58,201)" stroke="rgb(152,46,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7584_2)</title>
+			<polygon class=" (ctg7584_2)" points="123,40 150,10 150,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Abhydrolase_6 (PF12697)
+"Alpha/beta hydrolase family"</title>
+				<polygon class="PF12697" points="127,40 138,28 147,28 147,52 138,52" stroke-linejoin="round" width="23" height="24" fill="rgb(113,71,219)" stroke="rgb(90,56,175)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7584_3)</title>
+			<polygon class=" (ctg7584_3)" points="207,25 182,25 182,10 152,40 182,70 182,55 207,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Zn_ribbon_recom (PF13408)
+"Recombinase zinc beta ribbon domain"</title>
+				<rect class="PF13408" x="172" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(91,199,80)" stroke="rgb(72,159,64)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Recombinase (PF07508)
+"Recombinase"</title>
+				<rect class="PF07508" x="179" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(92,198,102)" stroke="rgb(73,158,81)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Resolvase (PF00239)
+"Resolvase, N terminal domain"</title>
+				<rect class="PF00239" x="192" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(99,177,201)" stroke="rgb(79,141,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7584_4)</title>
+			<polygon class=" (ctg7584_4)" points="346,25 260,25 260,10 230,40 260,70 260,55 346,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg7584_5)</title>
+			<polygon class=" (ctg7584_5)" points="348,40 351,10 351,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

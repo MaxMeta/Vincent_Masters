@@ -1,0 +1,56 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="192.66666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="182.66666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>kgpG (OA58_19035)
+cyanobactin S8 peptidase</title>
+			<polygon class="kgpG (OA58_19035)
+cyanobactin S8 peptidase" points="77,25 40,25 40,10 10,40 40,70 40,55 77,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PatG_C (PF18065)
+"PatG C-terminal"</title>
+				<polygon class="PF18065" points="14,40 21,33 21,47" stroke-linejoin="round" width="11" height="24" fill="rgb(73,227,207)" stroke="rgb(58,181,165)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PatG_D (PF18047)
+"PatG Domain"</title>
+				<polygon class="PF18047" points="26,28 26,28 37,28 37,52 26,52 26,52" stroke-linejoin="round" width="11" height="24" fill="rgb(225,105,167)" stroke="rgb(180,84,133)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Peptidase_S8 (PF00082)
+"Subtilase family"</title>
+				<rect class="PF00082" x="45" y="28" stroke-linejoin="round" width="29" height="24" fill="rgb(193,159,94)" stroke="rgb(154,127,75)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kgpF (OA58_19040)
+tryptophan prenyltransferase</title>
+			<polygon class="kgpF (OA58_19040)
+tryptophan prenyltransferase" points="80,40 109,10 109,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>kgpE (OA58_19045)
+kawaguchipeptin precursor peptide</title>
+			<polygon class="kgpE (OA58_19045)
+kawaguchipeptin precursor peptide" points="134,40 142,10 142,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (OA58_19050)
+hypothetical protein</title>
+			<polygon class=" (OA58_19050)
+hypothetical protein" points="152,40 158,10 158,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>kgpC (OA58_19052)
+kawaguchipeptin biosynthesis protein</title>
+			<polygon class="kgpC (OA58_19052)
+kawaguchipeptin biosynthesis protein" points="159,40 164,10 164,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>kgpB (OA58_19055)
+kawaguchipeptin biosynthesis protein</title>
+			<polygon class="kgpB (OA58_19055)
+kawaguchipeptin biosynthesis protein" points="167,40 174,10 174,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

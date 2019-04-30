@@ -1,0 +1,25 @@
+#                                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Methyltransf_25      PF13649.6     97 CS204_c00001_NODE_1_...cluster078_ORF1:gid::pid::loc:1858:2755:strand:- -            298   1.6e-19   70.4   0.0   1   1   1.7e-22   3.3e-19   69.4   0.0     1    97    74   169    74   169 0.96 Methyltransferase domain
+Methyltransf_11      PF08241.12    96 CS204_c00001_NODE_1_...cluster078_ORF1:gid::pid::loc:1858:2755:strand:- -            298   1.6e-19   70.3   0.0   1   1   1.9e-22   3.8e-19   69.1   0.0     1    93    75   170    75   172 0.96 Methyltransferase domain
+Methyltransf_31      PF13847.6    152 CS204_c00001_NODE_1_...cluster078_ORF1:gid::pid::loc:1858:2755:strand:- -            298   2.3e-16   60.0   0.0   1   1   1.4e-19   2.9e-16   59.6   0.0     4   106    71   170    68   217 0.93 Methyltransferase domain
+CMAS                 PF02353.20   273 CS204_c00001_NODE_1_...cluster078_ORF1:gid::pid::loc:1858:2755:strand:- -            298   2.1e-13   50.2   0.0   1   1   1.5e-16   2.9e-13   49.7   0.0    39   161    47   170    16   242 0.79 Mycolic acid cyclopropane synthetase
+Ubie_methyltran      PF01209.18   233 CS204_c00001_NODE_1_...cluster078_ORF1:gid::pid::loc:1858:2755:strand:- -            298   7.3e-12   45.1   0.0   1   1   7.2e-15   1.4e-11   44.2   0.0    47   154    70   176    46   187 0.89 ubiE/COQ5 methyltransferase family
+Methyltransf_23      PF13489.6    165 CS204_c00001_NODE_1_...cluster078_ORF1:gid::pid::loc:1858:2755:strand:- -            298   1.9e-11   44.1   0.0   1   1   1.6e-14   3.1e-11   43.4   0.0    20   163    68   221    49   223 0.75 Methyltransferase domain
+Methyltransf_12      PF08242.12    99 CS204_c00001_NODE_1_...cluster078_ORF1:gid::pid::loc:1858:2755:strand:- -            298   7.6e-10   39.4   0.0   1   1   7.9e-13   1.6e-09   38.4   0.0     1    98    75   170    75   171 0.89 Methyltransferase domain
+TPMT                 PF05724.11   218 CS204_c00001_NODE_1_...cluster078_ORF1:gid::pid::loc:1858:2755:strand:- -            298   7.5e-06   25.8   0.0   1   1   5.8e-09   1.1e-05   25.2   0.0    34   197    67   213    49   231 0.85 Thiopurine S-methyltransferase (TPMT)
+Methyltransf_15      PF09445.10   165 CS204_c00001_NODE_1_...cluster078_ORF1:gid::pid::loc:1858:2755:strand:- -            298   3.2e-05   23.6   0.0   1   1     2e-08     4e-05   23.3   0.0     2    60    72   131    71   179 0.87 RNA cap guanine-N2 methyltransferase
+Trp_halogenase       PF04820.14   454 CS204_c00001_NODE_1_...cluster078_ORF3:gid::pid::loc:3432:4662:strand:- -            409   2.1e-36  125.8   0.0   1   2   1.5e-14   2.7e-10   39.7   0.0    13    93     1    83     1    86 0.94 Tryptophan halogenase
+Trp_halogenase       PF04820.14   454 CS204_c00001_NODE_1_...cluster078_ORF3:gid::pid::loc:3432:4662:strand:- -            409   2.1e-36  125.8   0.0   2   2   2.6e-28   4.7e-24   85.1   0.0   143   404    84   348    82   368 0.81 Tryptophan halogenase
+YcaO                 PF02624.16   323 CS204_c00001_NODE_1_...cluster078_ORF6:gid::pid::loc:6608:8885:strand:- -            758   8.6e-91  304.6   1.1   1   1   7.1e-95   1.3e-90  304.0   1.1     2   323   385   721   384   721 0.87 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS204_c00001_NODE_1_...cluster078.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS204_c00001_NODE_1_...cluster078.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS204_c00001_NODE_1_...cluster078.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:49:32 2019
+# [ok]

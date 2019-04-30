@@ -1,0 +1,37 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Aminotran_1_2        PF00155.21   363 BGC0001474.1_ORF1:gid::pid:PYC80207.1:loc:0:1005:strand:- -            334   1.2e-40  139.8   0.0   1   1   8.1e-45   1.4e-40  139.6   0.0    34   359    31   322     9   326 0.89 Aminotransferase class I and II
+SnoaL                PF07366.12   126 BGC0001474.1_ORF2:gid::pid:PYC80208.1:loc:1009:1444:strand:- -            144   8.7e-31  106.3   0.0   1   1   1.1e-34     1e-30  106.1   0.0     4   126    10   129     7   129 0.94 SnoaL-like polyketide cyclase
+SnoaL_2              PF12680.7    102 BGC0001474.1_ORF2:gid::pid:PYC80208.1:loc:1009:1444:strand:- -            144     2e-20   73.3   0.6   1   1   2.7e-24   2.4e-20   73.0   0.6     1   102    10   116    10   116 0.95 SnoaL-like domain
+Acyl-CoA_dh_N        PF02771.16   113 BGC0001474.1_ORF3:gid::pid:PYC80209.1:loc:1489:2692:strand:- -            400   4.4e-14   53.1   1.0   1   1   6.5e-17   3.9e-13   50.1   0.1    15   112    19   117    10   118 0.86 Acyl-CoA dehydrogenase, N-terminal domain
+Acyl-CoA_dh_2        PF08028.11   134 BGC0001474.1_ORF3:gid::pid:PYC80209.1:loc:1489:2692:strand:- -            400   1.2e-13   51.4   3.1   1   1   2.1e-17   1.2e-13   51.4   3.1     3   131   249   370   248   373 0.90 Acyl-CoA dehydrogenase, C-terminal domain
+Acyl-CoA_dh_1        PF00441.24   150 BGC0001474.1_ORF3:gid::pid:PYC80209.1:loc:1489:2692:strand:- -            400   3.2e-08   33.9   1.9   1   1   1.3e-11   7.5e-08   32.7   1.4    18   132   249   366   242   368 0.87 Acyl-CoA dehydrogenase, C-terminal domain
+LCM                  PF04072.14   188 BGC0001474.1_ORF4:gid::pid:PYC80210.1:loc:2688:3564:strand:- -            291   4.6e-50  170.2   1.9   1   1   3.8e-54   6.7e-50  169.6   1.9     3   186    11   179     9   181 0.90 Leucine carboxyl methyltransferase
+DUF2867              PF11066.8    144 BGC0001474.1_ORF5:gid::pid:PYC80211.1:loc:3560:4133:strand:- -            190   2.2e-08   34.6   0.1   1   1   1.6e-12   2.9e-08   34.2   0.1    14   134    32   155    26   164 0.80 Protein of unknown function (DUF2867)
+Abhydrolase_6        PF12697.7    220 BGC0001474.1_ORF6:gid::pid:PYC80212.1:loc:4196:5207:strand:- -            336   7.7e-11   43.0  10.7   1   1   8.6e-15   7.7e-11   43.0  10.7     2   219    63   325    62   326 0.53 Alpha/beta hydrolase family
+Lant_dehydr_N        PF04738.13   653 BGC0001474.1_ORF9:gid::pid:PYC80215.1:loc:6730:9349:strand:+ -            872   1.3e-29  102.8  20.5   1   1   7.4e-34   1.3e-29  102.8  20.5     2   634   141   786   140   789 0.79 Lantibiotic dehydratase, N terminus
+Lant_dehydr_C        PF14028.6    312 BGC0001474.1_ORF10:gid::pid:PYC80216.1:loc:9345:10347:strand:+ -            333   1.2e-60  205.6   5.0   1   1   7.9e-65   1.4e-60  205.5   5.0     1   311     8   316     8   317 0.95 Lantibiotic biosynthesis dehydratase C-term
+Lant_dehydr_C        PF14028.6    312 BGC0001474.1_ORF11:gid::pid:PYC80217.1:loc:10352:11459:strand:+ -            368   1.1e-24   87.6   2.8   1   1   4.2e-28   7.5e-24   84.8   2.8    12   311    18   345    10   346 0.84 Lantibiotic biosynthesis dehydratase C-term
+YcaO                 PF02624.16   323 BGC0001474.1_ORF13:gid::pid:PYC80219.1:loc:14435:16601:strand:+ -            721   3.5e-70  236.8  12.6   1   1   2.6e-74   4.7e-70  236.4  12.6     2   322   334   677   333   678 0.88 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+AMP-binding          PF00501.28   423 BGC0001474.1_ORF15:gid::pid:PYC80221.1:loc:17912:19208:strand:+ -            431   2.5e-11   42.8   0.4   1   1   3.5e-15   6.3e-11   41.5   0.4   167   422   118   348   102   349 0.77 AMP-binding enzyme
+Lant_dehydr_N        PF04738.13   653 BGC0001474.1_ORF17:gid::pid:PYC80223.1:loc:20418:22821:strand:+ -            800   1.7e-11   43.0  23.5   1   1   5.9e-14   1.1e-09   37.0  23.5     2   635   129   716   128   758 0.71 Lantibiotic dehydratase, N terminus
+Putative_PNPOx       PF01243.20    88 BGC0001474.1_ORF18:gid::pid:PYC80224.1:loc:22817:23321:strand:+ -            167   1.2e-11   44.6   0.1   1   1     1e-15   1.9e-11   44.0   0.1     5    87    10    88     8    89 0.94 Pyridoxamine 5'-phosphate oxidase
+YcaO                 PF02624.16   323 BGC0001474.1_ORF19:gid::pid:PYC80225.1:loc:23320:24520:strand:+ -            399     3e-59  200.9   4.1   1   1   2.1e-63   3.7e-59  200.6   4.1     1   323    69   380    69   380 0.84 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+TfuA                 PF07812.12   120 BGC0001474.1_ORF20:gid::pid:PYC80226.1:loc:24516:25863:strand:+ -            448   1.5e-43  147.3   0.1   1   1   8.5e-48   1.5e-43  147.3   0.1     1   120    49   168    49   168 0.99 TfuA-like protein
+B12-binding          PF02310.19   121 BGC0001474.1_ORF21:gid:tsrT:pid:PYC80227.1:loc:25859:27581:strand:+ -            573   1.8e-09   37.7   0.0   1   1   4.4e-13     4e-09   36.6   0.0     8   121    14   138     8   138 0.85 B12 binding domain
+Radical_SAM          PF04055.21   167 BGC0001474.1_ORF21:gid:tsrT:pid:PYC80227.1:loc:25859:27581:strand:+ -            573   2.7e-09   37.6   0.3   1   1     7e-13   6.3e-09   36.4   0.1     5   162   225   392   221   396 0.85 Radical SAM superfamily
+adh_short            PF00106.25   195 BGC0001474.1_ORF22:gid::pid:PYC80228.1:loc:27580:28372:strand:+ -            263   3.5e-47  160.4   0.0   1   1     1e-50   4.7e-47  160.0   0.0     3   188     5   188     4   220 0.97 short chain dehydrogenase
+adh_short_C2         PF13561.6    234 BGC0001474.1_ORF22:gid::pid:PYC80228.1:loc:27580:28372:strand:+ -            263   2.5e-37  128.7   0.0   1   1   6.9e-41   3.1e-37  128.4   0.0     1   195     9   199     9   216 0.92 Enoyl-(Acyl carrier protein) reductase
+KR                   PF08659.10   180 BGC0001474.1_ORF22:gid::pid:PYC80228.1:loc:27580:28372:strand:+ -            263   1.6e-09   37.9   0.0   1   1   5.1e-13   2.3e-09   37.4   0.0     2   125     4   121     3   162 0.87 KR domain
+Epimerase            PF01370.21   241 BGC0001474.1_ORF22:gid::pid:PYC80228.1:loc:27580:28372:strand:+ -            263     4e-06   26.5   0.0   1   1   1.4e-09   6.2e-06   25.8   0.0     1   149     5   156     5   165 0.78 NAD dependent epimerase/dehydratase family
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001474.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001474.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001474.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:46:15 2019
+# [ok]

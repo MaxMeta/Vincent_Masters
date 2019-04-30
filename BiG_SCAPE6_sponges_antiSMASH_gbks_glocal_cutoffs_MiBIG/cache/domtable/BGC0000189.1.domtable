@@ -1,0 +1,26 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Ketoacyl-synt_C      PF02801.22   118 BGC0000189.1_ORF1:gid::pid:CBJ83012.1:loc:0:1677:strand:+ -            558   2.6e-10   40.4   0.1   1   1   7.7e-14   6.9e-10   39.0   0.0     4   113   308   418   305   423 0.87 Beta-ketoacyl synthase, C-terminal domain
+ketoacyl-synt        PF00109.26   253 BGC0000189.1_ORF1:gid::pid:CBJ83012.1:loc:0:1677:strand:+ -            558   2.1e-09   37.3   0.2   1   1   1.8e-12   1.6e-08   34.5   0.1    90   250   112   294    59   297 0.78 Beta-ketoacyl synthase, N-terminal domain
+Trns_repr_metal      PF02583.17    77 BGC0000189.1_ORF2:gid::pid:CBJ83013.1:loc:1788:1953:strand:+ -             54   4.9e-09   36.4   0.2   1   1   2.9e-13   5.3e-09   36.3   0.2    33    76     2    50     1    51 0.86 Metal-sensitive transcriptional repressor
+ADH_N                PF08240.12   109 BGC0000189.1_ORF3:gid:adhC:pid:CBJ83014.1:loc:2020:3130:strand:+ -            369   6.9e-26   90.3   2.6   1   1   7.7e-30   6.9e-26   90.3   2.6     2   108    28   154    27   155 0.87 Alcohol dehydrogenase GroES-like domain
+ADH_zinc_N           PF00107.26   130 BGC0000189.1_ORF3:gid:adhC:pid:CBJ83014.1:loc:2020:3130:strand:+ -            369   8.2e-23   80.8   0.1   1   1   1.7e-26   1.5e-22   80.0   0.1     1   119   197   321   197   332 0.87 Zinc-binding dehydrogenase
+Esterase             PF00756.20   251 BGC0000189.1_ORF4:gid:yaiM:pid:CBJ83015.1:loc:3199:4045:strand:+ -            281     4e-69  233.1   0.0   1   1   2.6e-73   4.6e-69  232.8   0.0     1   250    21   268    21   269 0.98 Putative esterase
+ACP_syn_III_C        PF08541.10    90 BGC0000189.1_ORF5:gid::pid:CBJ83016.1:loc:4109:5090:strand:- -            326   9.2e-17   61.0   0.0   1   1   2.6e-20   2.4e-16   59.7   0.0     1    89   237   325   237   326 0.97 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal
+ACP_syn_III          PF08545.10    80 BGC0000189.1_ORF5:gid::pid:CBJ83016.1:loc:4109:5090:strand:- -            326   1.1e-08   34.8   0.2   1   1   2.3e-12   2.1e-08   33.9   0.2     1    77   112   187   112   190 0.82 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III
+ACP_syn_III_C        PF08541.10    90 BGC0000189.1_ORF7:gid::pid:CBJ83018.1:loc:5404:6436:strand:- -            343   4.2e-09   36.5   0.0   1   1     2e-11   1.8e-07   31.2   0.0     1    90   225   314   225   314 0.98 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal
+ACP_syn_III          PF08545.10    80 BGC0000189.1_ORF7:gid::pid:CBJ83018.1:loc:5404:6436:strand:- -            343   7.1e-07   29.0   0.5   1   1   1.5e-10   1.3e-06   28.1   0.5     3    68   110   172   108   184 0.87 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III
+TPP_enzyme_N         PF02776.18   172 BGC0000189.1_ORF8:gid::pid:CBJ83019.1:loc:6425:8123:strand:- -            565   5.4e-26   91.2   0.3   1   1   2.6e-28   1.6e-24   86.5   0.0     2   115     4   119     3   134 0.94 Thiamine pyrophosphate enzyme, N-terminal TPP binding domain
+TPP_enzyme_C         PF02775.21   153 BGC0000189.1_ORF8:gid::pid:CBJ83019.1:loc:6425:8123:strand:- -            565     9e-26   90.5   0.0   1   1   2.8e-29   1.7e-25   89.6   0.0     2   152   395   537   394   538 0.94 Thiamine pyrophosphate enzyme, C-terminal TPP binding domain
+TPP_enzyme_M         PF00205.22   137 BGC0000189.1_ORF8:gid::pid:CBJ83019.1:loc:6425:8123:strand:- -            565     4e-12   46.1   0.0   1   1   1.4e-15   8.6e-12   45.0   0.0    11   135   208   333   200   335 0.81 Thiamine pyrophosphate enzyme, central domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000189.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000189.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000189.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:28:16 2019
+# [ok]

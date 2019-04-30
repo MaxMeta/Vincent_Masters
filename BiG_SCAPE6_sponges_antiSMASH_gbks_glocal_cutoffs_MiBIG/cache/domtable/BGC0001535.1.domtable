@@ -1,0 +1,19 @@
+#                                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                       accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                             -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+2-oxoacid_dh         PF00198.23   233 BGC0001535.1_ORF1:gid:bkdC1:pid:AVE17172.1:loc:334:1783:strand:- -            482   8.1e-78  261.1   0.7   1   1   2.3e-81     1e-77  260.7   0.7     3   232   251   479   249   480 0.98 2-oxoacid dehydrogenases acyltransferase (catalytic domain)
+Biotin_lipoyl        PF00364.22    73 BGC0001535.1_ORF1:gid:bkdC1:pid:AVE17172.1:loc:334:1783:strand:- -            482   1.3e-23   82.6   1.1   1   1   5.7e-27   2.6e-23   81.6   0.2     2    73    13    85    12    85 0.98 Biotin-requiring enzyme
+E3_binding           PF02817.17    36 BGC0001535.1_ORF1:gid:bkdC1:pid:AVE17172.1:loc:334:1783:strand:- -            482   9.8e-14   51.4   0.7   1   1   5.7e-17   2.6e-13   50.1   0.7     1    35   180   214   180   215 0.96 e3 binding domain
+Transket_pyr         PF02779.24   178 BGC0001535.1_ORF2:gid:bkdB1:pid:AVE17171.1:loc:1794:2775:strand:- -            326   3.9e-47  160.2   0.0   1   1   7.2e-51   6.4e-47  159.5   0.0     2   175     5   179     4   181 0.98 Transketolase, pyrimidine binding domain
+Transketolase_C      PF02780.20   124 BGC0001535.1_ORF2:gid:bkdB1:pid:AVE17171.1:loc:1794:2775:strand:- -            326   3.1e-39  133.7   0.0   1   1   5.8e-43   5.2e-39  132.9   0.0     2   123   196   315   195   316 0.97 Transketolase, C-terminal domain
+E1_dh                PF00676.20   300 BGC0001535.1_ORF3:gid:bkdA1:pid:AVE17170.1:loc:2777:3938:strand:- -            386   8.7e-81  271.1   0.0   1   1   1.2e-84   1.1e-80  270.8   0.0     2   290    62   343    61   351 0.92 Dehydrogenase E1 component
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001535.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001535.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001535.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:37:34 2019
+# [ok]

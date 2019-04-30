@@ -1,0 +1,54 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1152.4666666666667" height="320">
+	<g>
+		<line x1="10" y1="40.0" x2="102.43333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>ACTT5
+acyl-CoA synthetase</title>
+			<polygon class="ACTT5
+acyl-CoA synthetase" points="16,25 48,25 48,10 78,40 48,70 48,55 16,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="20" y="28" stroke-linejoin="round" width="42" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<polygon class="PF13193" points="63,29 70,36 70,44 63,51" stroke-linejoin="round" width="7" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="120.0" x2="44.86666666666667" y2="120.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>ACTT6
+enoyl-CoA hydratase</title>
+			<polygon class="ACTT6
+enoyl-CoA hydratase" points="13,90 42,120 13,150" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="200.0" x2="1142.4666666666667" y2="200.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>ACTTR
+transcription activator for ACTT3</title>
+			<polygon class="ACTTR
+transcription activator for ACTT3" points="534,185 547,185 547,170 577,200 547,230 547,215 534,215" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>ACTT3
+HMG-CoA hydrolase for ACT-toxin synthesis</title>
+			<polygon class="ACTT3
+HMG-CoA hydrolase for ACT-toxin synthesis" points="651,185 656,185 656,170 686,200 656,230 656,215 651,215" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+	<g>
+		<line x1="10" y1="280.0" x2="269.8" y2="280.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>ACTTS3
+polyketide synthase</title>
+			<polygon class="ACTTS3
+polyketide synthase" points="12,265 227,265 227,250 257,280 227,310 227,295 12,295" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

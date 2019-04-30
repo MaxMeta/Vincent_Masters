@@ -1,0 +1,17 @@
+#                                                                                                         --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                        accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                              -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MFS_1                PF07690.16   353 BGC0000688.1_ORF3:gid::pid::loc:1955:3975:strand:- -            459   5.7e-33  114.3  29.3   1   1   6.3e-37   5.7e-33  114.3  29.3     2   313    47   395    46   408 0.79 Major Facilitator Superfamily
+TRI12                PF06609.13   599 BGC0000688.1_ORF3:gid::pid::loc:1955:3975:strand:- -            459   9.6e-15   54.0   9.6   1   1   1.7e-18   1.5e-14   53.4   9.6    50   291    45   287    26   293 0.80 Fungal trichothecene efflux pump (TRI12)
+polyprenyl_synt      PF00348.17   256 BGC0000688.1_ORF4:gid::pid::loc:4518:6026:strand:+ -            325   6.1e-65  218.8   0.0   1   1     4e-69   7.2e-65  218.6   0.0     3   255    34   277    32   278 0.96 Polyprenyl synthetase
+p450                 PF00067.22   463 BGC0000688.1_ORF5:gid::pid::loc:6505:7216:strand:- -            236   4.9e-42  144.2   0.0   1   1   3.2e-46   5.8e-42  144.0   0.0   260   463    16   229     4   229 0.94 Cytochrome P450
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000688.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000688.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000688.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:35:04 2019
+# [ok]

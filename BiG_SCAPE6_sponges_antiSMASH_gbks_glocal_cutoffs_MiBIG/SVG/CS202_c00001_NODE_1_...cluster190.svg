@@ -1,0 +1,64 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="201.63333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="191.63333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg11513_1)</title>
+			<polygon class=" (ctg11513_1)" points="10,10 24,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Exonuc_VII_L (PF02601)
+"Exonuclease VII, large subunit"</title>
+				<polygon class="PF02601" points="10,28 14,28 20,40 14,52 10,52" stroke-linejoin="round" width="12" height="24" fill="rgb(182,69,65)" stroke="rgb(145,55,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11513_2)</title>
+			<polygon class=" (ctg11513_2)" points="26,10 34,40 26,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Exonuc_VII_S (PF02609)
+"Exonuclease VII small subunit"</title>
+				<polygon class="PF02609" points="28,28 31,40 28,52" stroke-linejoin="round" width="5" height="24" fill="rgb(127,67,194)" stroke="rgb(101,53,155)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11513_3)</title>
+			<polygon class=" (ctg11513_3)" points="35,25 40,25 40,10 70,40 40,70 40,55 35,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>polyprenyl_synt (PF00348)
+"Polyprenyl synthetase"</title>
+				<polygon class="PF00348" points="39,28 54,28 65,39 65,41 54,52 39,52" stroke-linejoin="round" width="26" height="24" fill="rgb(61,206,65)" stroke="rgb(48,164,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11513_4)</title>
+			<polygon class=" (ctg11513_4)" points="130,25 101,25 101,10 71,40 101,70 101,55 130,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4143 (PF13635)
+"Domain of unknown function (DUF4143)"</title>
+				<rect class="PF13635" x="95" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(119,89,210)" stroke="rgb(95,71,168)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AAA_14 (PF13173)
+"AAA domain"</title>
+				<rect class="PF13173" x="115" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(77,222,177)" stroke="rgb(61,177,141)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11513_5)</title>
+			<polygon class=" (ctg11513_5)" points="133,25 139,25 139,10 169,40 139,70 139,55 133,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ADH_N (PF08240)
+"Alcohol dehydrogenase GroES-like domain"</title>
+				<rect class="PF08240" x="135" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(211,65,138)" stroke="rgb(168,51,110)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ADH_zinc_N (PF00107)
+"Zinc-binding dehydrogenase"</title>
+				<polygon class="PF00107" points="151,28 152,28 164,40 164,40 152,52 151,52" stroke-linejoin="round" width="13" height="24" fill="rgb(81,108,215)" stroke="rgb(64,86,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11513_6)</title>
+			<polygon class=" (ctg11513_6)" points="169,10 188,40 169,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

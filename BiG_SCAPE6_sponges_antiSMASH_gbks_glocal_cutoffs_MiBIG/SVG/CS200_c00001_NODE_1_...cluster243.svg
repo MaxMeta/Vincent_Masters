@@ -1,0 +1,65 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="283.6666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="273.6666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg10208_1)</title>
+			<polygon class=" (ctg10208_1)" points="117,25 40,25 40,10 10,40 40,70 40,55 117,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PS-DH (PF14765)
+"Polyketide synthase dehydratase"</title>
+				<polygon class="PF14765" points="14,40 23,31 23,49" stroke-linejoin="round" width="13" height="24" fill="rgb(173,56,182)" stroke="rgb(138,44,145)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl_transf_1 (PF00698)
+"Acyl transferase domain"</title>
+				<rect class="PF00698" x="28" y="28" stroke-linejoin="round" width="31" height="24" fill="rgb(59,176,209)" stroke="rgb(47,140,167)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KAsynt_C_assoc (PF16197)
+"Ketoacyl-synthetase C-terminal extension"</title>
+				<rect class="PF16197" x="63" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(240,150,172)" stroke="rgb(192,120,137)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ketoacyl-synt_C (PF02801)
+"Beta-ketoacyl synthase, C-terminal domain"</title>
+				<rect class="PF02801" x="78" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ketoacyl-synt (PF00109)
+"Beta-ketoacyl synthase, N-terminal domain"</title>
+				<rect class="PF00109" x="90" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg10208_2)</title>
+			<polygon class=" (ctg10208_2)" points="122,25 144,25 144,10 174,40 144,70 144,55 122,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AAA-ATPase_like (PF09820)
+"Predicted AAA-ATPase"</title>
+				<rect class="PF09820" x="122" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(60,130,212)" stroke="rgb(47,103,169)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PDDEXK_9 (PF08011)
+"PD-(D/E)XK nuclease superfamily"</title>
+				<polygon class="PF08011" points="164,34 170,40 164,46" stroke-linejoin="round" width="9" height="24" fill="rgb(209,74,152)" stroke="rgb(167,59,121)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg10208_3)</title>
+			<polygon class=" (ctg10208_3)" points="233,25 209,25 209,10 179,40 209,70 209,55 233,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>N6_Mtase (PF02384)
+"N-6 DNA Methylase"</title>
+				<rect class="PF02384" x="209" y="28" stroke-linejoin="round" width="21" height="24" fill="rgb(46,179,90)" stroke="rgb(36,143,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg10208_4)</title>
+			<polygon class=" (ctg10208_4)" points="240,40 263,10 263,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg10208_5)</title>
+			<polygon class=" (ctg10208_5)" points="266,40 272,10 272,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

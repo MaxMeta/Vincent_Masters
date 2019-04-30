@@ -1,0 +1,26 @@
+#                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Glycos_transf_2      PF00535.26   170 CS211_c00001_NODE_1_...cluster222_ORF1:gid::pid::loc:90:804:strand:- -            237   3.2e-16   59.6   0.0   1   1   2.3e-20   4.1e-16   59.3   0.0     1   154    17   155    17   184 0.88 Glycosyl transferase family 2
+SQHop_cyclase_C      PF13243.6    319 CS211_c00001_NODE_1_...cluster222_ORF2:gid::pid::loc:781:2500:strand:- -            572   3.9e-36  124.8  19.2   1   2   3.3e-12   1.5e-08   34.2   1.5     4   285   281   374   278   380 0.47 Squalene-hopene cyclase C-terminal domain
+SQHop_cyclase_C      PF13243.6    319 CS211_c00001_NODE_1_...cluster222_ORF2:gid::pid::loc:781:2500:strand:- -            572   3.9e-36  124.8  19.2   2   2   1.5e-24   6.8e-21   74.7   3.9   136   287   383   523   380   553 0.85 Squalene-hopene cyclase C-terminal domain
+Prenyltrans          PF00432.21    44 CS211_c00001_NODE_1_...cluster222_ORF2:gid::pid::loc:781:2500:strand:- -            572   3.1e-22   78.0  20.1   1   6   3.1e-05      0.14   11.9   0.0     5    23    54    72    53    75 0.91 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.21    44 CS211_c00001_NODE_1_...cluster222_ORF2:gid::pid::loc:781:2500:strand:- -            572   3.1e-22   78.0  20.1   2   6   0.00073       3.3    7.5   0.3     9    40   309   344   303   344 0.72 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.21    44 CS211_c00001_NODE_1_...cluster222_ORF2:gid::pid::loc:781:2500:strand:- -            572   3.1e-22   78.0  20.1   3   6   0.00094       4.2    7.2   0.1     4    21   357   374   355   376 0.88 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.21    44 CS211_c00001_NODE_1_...cluster222_ORF2:gid::pid::loc:781:2500:strand:- -            572   3.1e-22   78.0  20.1   4   6   2.3e-06      0.01   15.6   0.2     3    43   406   445   405   446 0.93 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.21    44 CS211_c00001_NODE_1_...cluster222_ORF2:gid::pid::loc:781:2500:strand:- -            572   3.1e-22   78.0  20.1   5   6   6.7e-10     3e-06   26.9   0.0     3    40   453   493   452   497 0.92 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.21    44 CS211_c00001_NODE_1_...cluster222_ORF2:gid::pid::loc:781:2500:strand:- -            572   3.1e-22   78.0  20.1   6   6   8.1e-06     0.036   13.8   0.2     5    26   505   526   505   538 0.88 Prenyltransferase and squalene oxidase repeat
+Xan_ur_permease      PF00860.20   389 CS211_c00001_NODE_1_...cluster222_ORF3:gid::pid::loc:2642:3971:strand:- -            442   6.9e-37  127.1  48.7   1   1   5.4e-41   9.7e-37  126.6  48.7     3   387    18   402    16   404 0.93 Permease family
+Aldo_ket_red         PF00248.21   294 CS211_c00001_NODE_1_...cluster222_ORF4:gid::pid::loc:4041:5049:strand:- -            335   1.7e-83  280.3   0.0   1   1     1e-87   1.9e-83  280.1   0.0     1   292    15   310    15   312 0.97 Aldo/keto reductase family
+Cyclophil_like       PF04126.13   119 CS211_c00001_NODE_1_...cluster222_ORF6:gid::pid::loc:5443:5815:strand:+ -            123   2.6e-44  149.8   0.1   1   1   3.2e-48   2.9e-44  149.7   0.1     3   119     2   118     1   118 0.97 Cyclophilin-like
+Cyclophil_like2      PF18050.1    116 CS211_c00001_NODE_1_...cluster222_ORF6:gid::pid::loc:5443:5815:strand:+ -            123     1e-08   35.1   0.0   1   1   1.2e-12   1.1e-08   35.0   0.0     4    79     7    79     4   118 0.85 Cyclophilin-like family
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster222.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS211_c00001_NODE_1_...cluster222.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster222.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:40:40 2019
+# [ok]

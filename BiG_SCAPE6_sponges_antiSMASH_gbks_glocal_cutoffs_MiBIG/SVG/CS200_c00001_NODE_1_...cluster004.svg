@@ -1,0 +1,114 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="454.03333333333336" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="444.03333333333336" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg1_3305)</title>
+			<polygon class=" (ctg1_3305)" points="30,10 47,40 30,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_3306)</title>
+			<polygon class=" (ctg1_3306)" points="57,25 68,25 68,10 98,40 68,70 68,55 57,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyco_tran_28_C (PF04101)
+"Glycosyltransferase family 28 C-terminal domain"</title>
+				<polygon class="PF04101" points="81,28 82,28 94,40 82,52 81,52" stroke-linejoin="round" width="16" height="24" fill="rgb(211,90,140)" stroke="rgb(168,72,112)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_3307)</title>
+			<polygon class=" (ctg1_3307)" points="99,25 115,25 115,10 145,40 115,70 115,55 99,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_1 (PF00534)
+"Glycosyl transferases group 1"</title>
+				<polygon class="PF00534" points="116,28 129,28 132,31 132,49 129,52 116,52" stroke-linejoin="round" width="16" height="24" fill="rgb(228,92,150)" stroke="rgb(182,73,119)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_3308)</title>
+			<polygon class=" (ctg1_3308)" points="147,10 154,40 147,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_3309)</title>
+			<polygon class=" (ctg1_3309)" points="158,10 170,40 158,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_3310)</title>
+			<polygon class=" (ctg1_3310)" points="176,25 246,25 246,10 276,40 246,70 246,55 176,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>cNMP_binding (PF00027)
+"Cyclic nucleotide-binding domain"</title>
+				<rect class="PF00027" x="177" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(138,95,204)" stroke="rgb(110,76,163)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>cNMP_binding (PF00027)
+"Cyclic nucleotide-binding domain"</title>
+				<rect class="PF00027" x="190" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(138,95,204)" stroke="rgb(110,76,163)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Peptidase_C39 (PF03412)
+"Peptidase C39 family"</title>
+				<rect class="PF03412" x="205" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(214,226,77)" stroke="rgb(171,180,61)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="220" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="254,28 260,28 268,36 268,44 260,52 254,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_3311)</title>
+			<polygon class=" (ctg1_3311)" points="279,25 286,25 286,10 316,40 286,70 286,55 279,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Biotin_lipoyl_2 (PF13533)
+"Biotin-lipoyl like"</title>
+				<rect class="PF13533" x="286" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(229,122,112)" stroke="rgb(183,97,89)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HlyD_3 (PF13437)
+"HlyD family secretion protein"</title>
+				<polygon class="PF13437" points="309,37 312,40 309,43" stroke-linejoin="round" width="7" height="24" fill="rgb(82,200,102)" stroke="rgb(65,160,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_3312)</title>
+			<polygon class=" (ctg1_3312)" points="317,10 342,40 317,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Rotamase (PF00639)
+"PPIC-type PPIASE domain"</title>
+				<polygon class="PF00639" points="330,30 337,38 337,42 330,50" stroke-linejoin="round" width="7" height="24" fill="rgb(179,171,54)" stroke="rgb(143,136,43)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_3313)</title>
+			<polygon class=" (ctg1_3313)" points="344,40 372,10 372,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PhyH (PF05721)
+"Phytanoyl-CoA dioxygenase (PhyH)"</title>
+				<polygon class="PF05721" points="350,38 359,28 369,28 369,52 359,52 350,42" stroke-linejoin="round" width="19" height="24" fill="rgb(72,132,214)" stroke="rgb(57,105,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_3314)</title>
+			<polygon class=" (ctg1_3314)" points="373,40 388,10 388,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_3315)</title>
+			<polygon class=" (ctg1_3315)" points="434,25 428,25 428,10 398,40 428,70 428,55 434,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Dala_Dala_lig_C (PF07478)
+"D-ala D-ala ligase C-terminus"</title>
+				<polygon class="PF07478" points="402,40 414,28 419,28 419,52 414,52" stroke-linejoin="round" width="20" height="24" fill="rgb(202,54,160)" stroke="rgb(161,43,127)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Dala_Dala_lig_N (PF01820)
+"D-ala D-ala ligase N-terminus"</title>
+				<rect class="PF01820" x="421" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(55,160,179)" stroke="rgb(44,127,143)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

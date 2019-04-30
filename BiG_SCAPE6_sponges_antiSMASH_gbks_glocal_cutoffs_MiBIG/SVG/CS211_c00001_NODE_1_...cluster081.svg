@@ -1,0 +1,122 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="374.96666666666664" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="364.96666666666664" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg1517_21)</title>
+			<polygon class=" (ctg1517_21)" points="12,10 24,40 12,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1517_22)</title>
+			<polygon class=" (ctg1517_22)" points="38,10 48,40 38,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF167 (PF02594)
+"Uncharacterised ACR, YggU family COG1872"</title>
+				<polygon class="PF02594" points="38,28 40,28 44,40 40,52 38,52" stroke-linejoin="round" width="7" height="24" fill="rgb(60,197,123)" stroke="rgb(47,157,98)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1517_23)</title>
+			<polygon class=" (ctg1517_23)" points="50,10 78,40 50,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Bac_luciferase (PF00296)
+"Luciferase-like monooxygenase"</title>
+				<polygon class="PF00296" points="51,28 62,28 74,40 62,52 51,52" stroke-linejoin="round" width="25" height="24" fill="rgb(180,112,78)" stroke="rgb(144,89,62)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1517_24)</title>
+			<polygon class=" (ctg1517_24)" points="78,40 96,10 96,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Dioxygenase_C (PF00775)
+"Dioxygenase"</title>
+				<polygon class="PF00775" points="82,40 89,28 95,28 95,52 89,52" stroke-linejoin="round" width="16" height="24" fill="rgb(96,217,213)" stroke="rgb(76,173,170)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1517_25)</title>
+			<polygon class=" (ctg1517_25)" points="97,40 120,10 120,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Dioxygenase_C (PF00775)
+"Dioxygenase"</title>
+				<polygon class="PF00775" points="101,40 110,28 115,28 115,52 110,52" stroke-linejoin="round" width="17" height="24" fill="rgb(96,217,213)" stroke="rgb(76,173,170)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1517_26)</title>
+			<polygon class=" (ctg1517_26)" points="174,25 151,25 151,10 121,40 151,70 151,55 174,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GMC_oxred_C (PF05199)
+"GMC oxidoreductase"</title>
+				<polygon class="PF05199" points="125,40 134,31 134,49" stroke-linejoin="round" width="13" height="24" fill="rgb(186,52,106)" stroke="rgb(148,41,84)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GMC_oxred_N (PF00732)
+"GMC oxidoreductase"</title>
+				<rect class="PF00732" x="144" y="28" stroke-linejoin="round" width="29" height="24" fill="rgb(180,89,214)" stroke="rgb(143,71,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1517_27)</title>
+			<polygon class=" (ctg1517_27)" points="216,25 205,25 205,10 175,40 205,70 205,55 216,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CoA_transf_3 (PF02515)
+"CoA-transferase family III"</title>
+				<polygon class="PF02515" points="179,40 191,28 215,28 215,52 191,52 179,40" stroke-linejoin="round" width="36" height="24" fill="rgb(226,102,90)" stroke="rgb(180,81,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1517_28)</title>
+			<polygon class=" (ctg1517_28)" points="248,25 246,25 246,10 216,40 246,70 246,55 248,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aldo_ket_red (PF00248)
+"Aldo/keto reductase family"</title>
+				<polygon class="PF00248" points="220,40 232,28 248,28 248,52 232,52" stroke-linejoin="round" width="29" height="24" fill="rgb(225,205,58)" stroke="rgb(180,164,46)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1517_29)</title>
+			<polygon class=" (ctg1517_29)" points="256,10 274,40 256,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Flavin_Reduct (PF01613)
+"Flavin reductase like domain"</title>
+				<polygon class="PF01613" points="259,28 263,28 271,40 263,52 259,52" stroke-linejoin="round" width="14" height="24" fill="rgb(107,197,222)" stroke="rgb(85,157,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1517_30)</title>
+			<polygon class=" (ctg1517_30)" points="307,25 304,25 304,10 274,40 304,70 304,55 307,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HEAT_2 (PF13646)
+"HEAT repeats"</title>
+				<polygon class="PF13646" points="278,40 282,36 282,44" stroke-linejoin="round" width="7" height="24" fill="rgb(161,180,58)" stroke="rgb(128,144,46)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Fer4_16 (PF13484)
+"4Fe-4S double cluster binding domain"</title>
+				<polygon class="PF13484" points="287,31 290,28 293,28 293,52 290,52 287,49" stroke-linejoin="round" width="6" height="24" fill="rgb(155,190,93)" stroke="rgb(124,152,74)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DUF1730 (PF08331)
+"Domain of unknown function (DUF1730)"</title>
+				<rect class="PF08331" x="298" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(184,157,52)" stroke="rgb(147,125,41)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1517_31)</title>
+			<polygon class=" (ctg1517_31)" points="314,10 329,40 314,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1517_32)</title>
+			<polygon class=" (ctg1517_32)" points="330,40 333,10 333,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1517_33)</title>
+			<polygon class=" (ctg1517_33)" points="343,10 364,40 343,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="344,28 352,28 358,36 358,44 352,52 344,52" stroke-linejoin="round" width="14" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

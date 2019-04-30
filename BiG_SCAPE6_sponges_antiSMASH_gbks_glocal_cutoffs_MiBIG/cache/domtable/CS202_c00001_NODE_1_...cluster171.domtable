@@ -1,0 +1,25 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Transglut_core3      PF13471.6    117 CS202_c00001_NODE_1_...cluster171_ORF1:gid::pid::loc:1:313:strand:+ -            103   1.7e-27   95.7   1.5   1   1     1e-31   1.8e-27   95.6   1.5    30   115    10    96     2    98 0.87 Transglutaminase-like superfamily
+Asn_synthase         PF00733.21   355 CS202_c00001_NODE_1_...cluster171_ORF2:gid::pid::loc:418:2320:strand:+ -            633   2.1e-35  123.0   0.8   1   1     2e-38   1.2e-34  120.6   0.8     3   355   249   617   247   617 0.73 Asparagine synthase
+GATase_7             PF13537.6    123 CS202_c00001_NODE_1_...cluster171_ORF2:gid::pid::loc:418:2320:strand:+ -            633   3.5e-22   78.6   0.0   1   1   1.1e-25   6.5e-22   77.7   0.0    21   122    73   171    66   172 0.92 Glutamine amidotransferase domain
+GATase_6             PF13522.6    134 CS202_c00001_NODE_1_...cluster171_ORF2:gid::pid::loc:418:2320:strand:+ -            633     8e-17   61.7   0.0   1   1   2.6e-20   1.5e-16   60.8   0.0    21   132    50   164    30   166 0.83 Glutamine amidotransferase domain
+PqqD                 PF05402.12    67 CS202_c00001_NODE_1_...cluster171_ORF3:gid::pid::loc:2334:2631:strand:+ -             98   1.2e-16   60.8   0.1   1   1   7.8e-21   1.4e-16   60.5   0.1     2    67    22    87    21    87 0.96 Coenzyme PQQ synthesis protein D (PqqD)
+FMN_dh               PF01070.18   348 CS202_c00001_NODE_1_...cluster171_ORF4:gid::pid::loc:2792:3992:strand:+ -            399   1.9e-96  323.1   0.0   1   1  2.6e-100   2.4e-96  322.8   0.0     2   347    63   395    62   396 0.92 FMN-dependent dehydrogenase
+PQQ                  PF01011.21    38 CS202_c00001_NODE_1_...cluster171_ORF5:gid::pid::loc:4179:6189:strand:+ -            669   9.7e-34  113.7   0.5   1   2   2.2e-09   1.3e-05   24.8   0.1     1    30    99   128    99   137 0.89 PQQ enzyme repeat
+PQQ                  PF01011.21    38 CS202_c00001_NODE_1_...cluster171_ORF5:gid::pid::loc:4179:6189:strand:+ -            669   9.7e-34  113.7   0.5   2   2   2.2e-09   1.3e-05   24.8   0.0     1    37   604   640   604   641 0.91 PQQ enzyme repeat
+PQQ_2                PF13360.6    237 CS202_c00001_NODE_1_...cluster171_ORF5:gid::pid::loc:4179:6189:strand:+ -            669   5.3e-21   75.3   4.3   1   3   4.7e-13   2.8e-09   36.9   0.1    31   146    93   253    68   254 0.80 PQQ-like domain
+PQQ_2                PF13360.6    237 CS202_c00001_NODE_1_...cluster171_ORF5:gid::pid::loc:4179:6189:strand:+ -            669   5.3e-21   75.3   4.3   2   3   7.3e-08   0.00044   19.9   0.2    25   235   152   388   127   390 0.56 PQQ-like domain
+PQQ_2                PF13360.6    237 CS202_c00001_NODE_1_...cluster171_ORF5:gid::pid::loc:4179:6189:strand:+ -            669   5.3e-21   75.3   4.3   3   3   5.7e-08   0.00034   20.3   0.0     4    78   551   645   548   666 0.78 PQQ-like domain
+PQQ_3                PF13570.6     40 CS202_c00001_NODE_1_...cluster171_ORF5:gid::pid::loc:4179:6189:strand:+ -            669   2.8e-14   53.1  19.7   1   1   4.4e-10   2.7e-06   27.7   3.4     1    40   560   622   560   622 0.63 PQQ-like domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster171.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS202_c00001_NODE_1_...cluster171.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster171.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:49:33 2019
+# [ok]

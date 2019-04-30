@@ -1,0 +1,28 @@
+# STOCKHOLM 1.0
+
+CS202_c00001_NODE_1_...cluster007_ORF8:gid::pid::loc:8699:9713:strand:+:3:145           ehvqg--------------------------------------------VEFI----AINTDAQALVRSSAP------TRIRVGDKATRGLGSGGQPSLGQKAAEESLDEIREAVEGADM---VFIAAGMGGGTGTGGAPVVADVARET--GALTVGVVTRPFDF-EGSTRARYAEEGIRNLHERVDTLVMIPNQQLLAV
+#=GR CS202_c00001_NODE_1_...cluster007_ORF8:gid::pid::loc:8699:9713:strand:+:3:145   PP 98765............................................5666....***************......******************************************...**************************..**************.*******************************987
+CS200_c00001_NODE_1_...cluster046_ORF36:gid::pid::loc:40601:41423:strand:-:1:81         ....g----------------------------------------------------------------------------------------------------------------ADM---VFIDAGMGGGTGTGGAPVVADVARDV--GALTVGVVTRPFDF-EGSTRARYAEEGVRNLQERVDTLVMIPNQQLLAV
+#=GR CS200_c00001_NODE_1_...cluster046_ORF36:gid::pid::loc:40601:41423:strand:-:1:81 PP ....6................................................................................................................566...**************************..**************.*******************************987
+CS202_c00001_NODE_1_...cluster162_ORF4:gid::pid::loc:2045:3194:strand:-:18:179          .....-IAVVGVGGGGGNAVNTMIS----A-GM-------------EG-VEFV----AANTDAQVLERSLAS------VKIQLGQELTNGLGAGGNPDIGRKAALEDTERLSEFMHGLEM---VFVTAGMGGGTGTGAAPVIARIAKEA--GVLTVGVVTKPFEF-EGPRRMSQADEGIDELRDSVNTLITIPNQRLLGM
+#=GR CS202_c00001_NODE_1_...cluster162_ORF4:gid::pid::loc:2045:3194:strand:-:18:179  PP ......789****************....5.99.............88.9***....***************......******************************************...**************************..**************.*******************************987
+CS783_c00001_NODE_1_...cluster038_ORF8:gid::pid::loc:8447:9635:strand:+:42:203          ....l--KVVGIGGGGSNAVDRMIE----E-QV-------------QG-VEFI----AINTDAQALVRSSAP------TRIRVGDKATRGLGSGGQPSLGQKAAEESLDEIREAVDGADM---VFIAAGMGGGTGTGGAPVVADVARDA--GALTVGVVTRPFDF-EGSTRARYAEEGVRNLQERVDTLVMIPNQQLLAV
+#=GR CS783_c00001_NODE_1_...cluster038_ORF8:gid::pid::loc:8447:9635:strand:+:42:203  PP ....6..79****************....7.77.............77.9***....***************......******************************************...**************************..**************.*******************************987
+CS211_c00001_NODE_1_...cluster048_ORF9:gid::pid::loc:8526:9714:strand:+:42:203          ....l--KVVGIGGGGSNAVDRMIE----E-HV-------------QG-VDFI----AVNTDAQALVRSSAP------TRIRVGDKATRGLGSGGQPSLGQKAAEESMDEIREAVEGADM---VFIAAGMGGGTGTGGAPVVADVARES--GALTVGVVTRPFDF-EGSTRARYAEEGIRQLQERVDTLVMIPNQQLLAV
+#=GR CS211_c00001_NODE_1_...cluster048_ORF9:gid::pid::loc:8526:9714:strand:+:42:203  PP ....6..79****************....8.55.............67.9***....***************......******************************************...**************************..**************.*******************************987
+#=GC PP_cons                                                                            ......779****************....7.77.............77.8999....***************......***************************************999...**************************..**************.*******************************987
+#=GC RF                                                                                 .....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CS202_c00001_NODE_1_...cluster007_ORF8:gid::pid::loc:8699:9713:strand:+:3:145           A-d
+#=GR CS202_c00001_NODE_1_...cluster007_ORF8:gid::pid::loc:8699:9713:strand:+:3:145   PP 6.6
+CS200_c00001_NODE_1_...cluster046_ORF36:gid::pid::loc:40601:41423:strand:-:1:81         A-d
+#=GR CS200_c00001_NODE_1_...cluster046_ORF36:gid::pid::loc:40601:41423:strand:-:1:81 PP 6.6
+CS202_c00001_NODE_1_...cluster162_ORF4:gid::pid::loc:2045:3194:strand:-:18:179          V-e
+#=GR CS202_c00001_NODE_1_...cluster162_ORF4:gid::pid::loc:2045:3194:strand:-:18:179  PP 6.7
+CS783_c00001_NODE_1_...cluster038_ORF8:gid::pid::loc:8447:9635:strand:+:42:203          A-d
+#=GR CS783_c00001_NODE_1_...cluster038_ORF8:gid::pid::loc:8447:9635:strand:+:42:203  PP 6.6
+CS211_c00001_NODE_1_...cluster048_ORF9:gid::pid::loc:8526:9714:strand:+:42:203          A-d
+#=GR CS211_c00001_NODE_1_...cluster048_ORF9:gid::pid::loc:8526:9714:strand:+:42:203  PP 6.6
+#=GC PP_cons                                                                            6..
+#=GC RF                                                                                 xx.
+//

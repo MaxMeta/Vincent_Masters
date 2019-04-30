@@ -1,0 +1,17 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MelC1                PF06236.11   117 BGC0000909.1_ORF2:gid:melC1_:pid:BAB69181.1:loc:1060:1447:strand:+ -            128     8e-29  100.1   0.3   1   1   6.4e-33   1.2e-28   99.6   0.3    29   114     9    95     2    99 0.86 Tyrosinase co-factor MelC1
+Tyrosinase           PF00264.20   222 BGC0000909.1_ORF3:gid:melC2_:pid:BAB69182.1:loc:1433:2297:strand:+ -            287   1.7e-42  146.2   1.4   1   1   1.3e-46   2.4e-42  145.7   1.4     2   222    29   238    28   238 0.75 Common central domain of tyrosinase
+Dynamin_N            PF00350.23   168 BGC0000909.1_ORF4:gid::pid:BAB69183.1:loc:2849:4454:strand:+ -            534   5.1e-09   36.4   0.0   1   1   7.5e-13   1.4e-08   35.0   0.0     3   143    65   196    62   219 0.85 Dynamin family
+MMR_HSR1             PF01926.23   114 BGC0000909.1_ORF5:gid::pid:BAB69184.1:loc:4756:6625:strand:+ -            622   1.6e-06   28.1   0.0   1   1   3.4e-10   3.1e-06   27.3   0.0     2    93   122   237   121   260 0.61 50S ribosome-binding GTPase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000909.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000909.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000909.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:37:36 2019
+# [ok]

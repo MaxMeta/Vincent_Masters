@@ -1,0 +1,27 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SQS_PSY              PF00494.19   263 CS211_c00001_NODE_1_...cluster187_ORF3:gid::pid::loc:494:1556:strand:- -            353     3e-54  184.3   0.0   1   1   2.1e-58   3.7e-54  184.0   0.0     2   262    21   311    20   312 0.87 Squalene/phytoene synthase
+ADH_zinc_N           PF00107.26   130 CS211_c00001_NODE_1_...cluster187_ORF4:gid::pid::loc:1650:2628:strand:- -            325   3.1e-28   98.3   0.1   1   1   8.4e-32     5e-28   97.7   0.1     1   102   152   253   152   292 0.88 Zinc-binding dehydrogenase
+ADH_zinc_N_2         PF13602.6    133 CS211_c00001_NODE_1_...cluster187_ORF4:gid::pid::loc:1650:2628:strand:- -            325     3e-22   80.1   0.0   1   1     8e-26   4.8e-22   79.4   0.0     2   133   185   323   184   323 0.87 Zinc-binding dehydrogenase
+ADH_N                PF08240.12   109 CS211_c00001_NODE_1_...cluster187_ORF4:gid::pid::loc:1650:2628:strand:- -            325   5.7e-09   35.8   0.0   1   1   3.4e-12   2.1e-08   34.0   0.0     1    62    28    88    28   133 0.91 Alcohol dehydrogenase GroES-like domain
+Hexapep              PF00132.24    36 CS211_c00001_NODE_1_...cluster187_ORF5:gid::pid::loc:2791:3325:strand:+ -            177   3.1e-10   39.3  16.4   1   1   2.2e-10     4e-06   26.3   3.1     1    34    87   120    87   122 0.94 Bacterial transferase hexapeptide (six repeats)
+Hist_deacetyl        PF00850.19   307 CS211_c00001_NODE_1_...cluster187_ORF6:gid::pid::loc:3321:4272:strand:+ -            316   3.4e-88  296.1   0.0   1   1   2.5e-92   4.4e-88  295.7   0.0     1   307    20   310    20   310 0.95 Histone deacetylase domain
+Na_H_Exchanger       PF00999.21   381 CS211_c00001_NODE_1_...cluster187_ORF7:gid::pid::loc:4544:5714:strand:+ -            389   5.7e-43  147.1  43.9   1   1   3.9e-47   6.9e-43  146.9  43.9     4   373    13   370     6   374 0.90 Sodium/hydrogen exchanger family
+AAA_3                PF07726.11   131 CS211_c00001_NODE_1_...cluster187_ORF8:gid::pid::loc:5981:6977:strand:+ -            331   2.1e-62  208.8   0.0   1   1   9.1e-66   3.3e-62  208.2   0.0     1   131    44   174    44   174 0.99 ATPase family associated with various cellular activities (AAA)
+AAA_lid_2            PF17863.1     73 CS211_c00001_NODE_1_...cluster187_ORF8:gid::pid::loc:5981:6977:strand:+ -            331   3.8e-19   68.3   2.1   1   1   1.9e-22   6.9e-19   67.5   0.7     8    71   258   322   253   324 0.94 AAA lid domain
+AAA_5                PF07728.14   138 CS211_c00001_NODE_1_...cluster187_ORF8:gid::pid::loc:5981:6977:strand:+ -            331   1.9e-13   50.6   0.0   1   1   9.6e-17   3.4e-13   49.8   0.0     1   138    44   172    44   172 0.89 AAA domain (dynein-related subfamily)
+MCM                  PF00493.23   224 CS211_c00001_NODE_1_...cluster187_ORF8:gid::pid::loc:5981:6977:strand:+ -            331   1.3e-05   24.4   0.0   1   1   5.5e-09     2e-05   23.8   0.0    54   175    39   157    17   194 0.83 MCM P-loop domain
+DUF58                PF01882.18    86 CS211_c00001_NODE_1_...cluster187_ORF9:gid::pid::loc:6973:7963:strand:+ -            329     6e-21   74.5   0.0   1   1   7.6e-25   1.4e-20   73.4   0.0     1    85    66   150    66   151 0.97 Protein of unknown function DUF58
+DUF4381              PF14316.6    146 CS211_c00001_NODE_1_...cluster187_ORF10:gid::pid::loc:7959:8439:strand:+ -            159   1.1e-38  132.7   5.5   1   1   7.2e-43   1.3e-38  132.5   5.5     2   145    14   157    13   158 0.88 Domain of unknown function (DUF4381)
+BatD                 PF13584.6    480 CS211_c00001_NODE_1_...cluster187_ORF11:gid::pid::loc:8435:9620:strand:+ -            394   5.2e-90  302.5   0.0   1   1   3.6e-94   6.4e-90  302.3   0.0     7   387    22   391    16   394 0.93 Oxygen tolerance
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster187.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS211_c00001_NODE_1_...cluster187.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster187.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:44:04 2019
+# [ok]

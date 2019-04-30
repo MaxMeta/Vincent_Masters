@@ -1,0 +1,84 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="355.9" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="345.9" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg7885_1)</title>
+			<polygon class=" (ctg7885_1)" points="15,40 41,10 41,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg7885_2)</title>
+			<polygon class=" (ctg7885_2)" points="57,10 72,40 57,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg7885_3)</title>
+			<polygon class=" (ctg7885_3)" points="75,40 92,10 92,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GrpB (PF04229)
+"GrpB protein"</title>
+				<polygon class="PF04229" points="78,40 85,28 90,28 90,52 85,52" stroke-linejoin="round" width="15" height="24" fill="rgb(216,82,117)" stroke="rgb(172,65,93)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7885_4)</title>
+			<polygon class=" (ctg7885_4)" points="115,10 123,40 115,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg7885_5)</title>
+			<polygon class=" (ctg7885_5)" points="124,10 134,40 124,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PemK_toxin (PF02452)
+"PemK-like, MazF-like toxin of type II toxin-antitoxin system"</title>
+				<polygon class="PF02452" points="124,28 127,28 131,40 127,52 124,52" stroke-linejoin="round" width="10" height="24" fill="rgb(81,193,221)" stroke="rgb(64,154,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7885_6)</title>
+			<polygon class=" (ctg7885_6)" points="174,25 169,25 169,10 139,40 169,70 169,55 174,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1214 (PF06742)
+"Protein of unknown function (DUF1214)"</title>
+				<polygon class="PF06742" points="143,40 148,35 148,45" stroke-linejoin="round" width="8" height="24" fill="rgb(58,99,204)" stroke="rgb(46,79,163)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7885_7)</title>
+			<polygon class=" (ctg7885_7)" points="216,25 204,25 204,10 174,40 204,70 204,55 216,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Sulfotransfer_3 (PF13469)
+"Sulfotransferase family"</title>
+				<polygon class="PF13469" points="180,38 190,28 205,28 205,52 190,52 180,42" stroke-linejoin="round" width="25" height="24" fill="rgb(59,182,84)" stroke="rgb(47,145,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7885_8)</title>
+			<polygon class=" (ctg7885_8)" points="217,40 227,10 227,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SCP2 (PF02036)
+"SCP-2 sterol transfer family"</title>
+				<polygon class="PF02036" points="220,40 224,28 226,28 226,52 224,52" stroke-linejoin="round" width="9" height="24" fill="rgb(56,163,207)" stroke="rgb(44,130,165)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7885_9)</title>
+			<polygon class=" (ctg7885_9)" points="252,25 257,25 257,10 287,40 257,70 257,55 252,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="254,28 270,28 282,40 282,40 270,52 254,52" stroke-linejoin="round" width="28" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7885_10)</title>
+			<polygon class=" (ctg7885_10)" points="292,10 314,40 292,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg7885_11)</title>
+			<polygon class=" (ctg7885_11)" points="316,40 345,10 345,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQHop_cyclase_C (PF13243)
+"Squalene-hopene cyclase C-terminal domain"</title>
+				<polygon class="PF13243" points="320,40 332,28 344,28 344,52 332,52" stroke-linejoin="round" width="26" height="24" fill="rgb(191,58,201)" stroke="rgb(152,46,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

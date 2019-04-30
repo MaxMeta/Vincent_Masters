@@ -1,0 +1,27 @@
+#                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ketoacyl-synt        PF00109.26   253 CS202_c00001_NODE_1_...cluster160_ORF1:gid::pid::loc:1:6826:strand:- -           2275   1.7e-75  253.9   1.3   1   1   2.6e-78   3.6e-75  252.8   1.3     2   253    18   270    17   270 0.91 Beta-ketoacyl synthase, N-terminal domain
+PS-DH                PF14765.6    298 CS202_c00001_NODE_1_...cluster160_ORF1:gid::pid::loc:1:6826:strand:- -           2275   4.7e-55  186.9   0.2   1   1   5.6e-58   7.8e-55  186.2   0.2     1   296   956  1252   956  1254 0.90 Polyketide synthase dehydratase
+Acyl_transf_1        PF00698.21   319 CS202_c00001_NODE_1_...cluster160_ORF1:gid::pid::loc:1:6826:strand:- -           2275   6.5e-55  186.9   0.1   1   1   8.7e-58   1.2e-54  186.0   0.1     2   297   585   889   584   899 0.88 Acyl transferase domain
+Ketoacyl-synt_C      PF02801.22   118 CS202_c00001_NODE_1_...cluster160_ORF1:gid::pid::loc:1:6826:strand:- -           2275   9.2e-42  141.8   0.1   1   1   4.9e-44   6.8e-41  139.0   0.0     2   117   279   395   278   396 0.99 Beta-ketoacyl synthase, C-terminal domain
+ADH_zinc_N_2         PF13602.6    133 CS202_c00001_NODE_1_...cluster160_ORF1:gid::pid::loc:1:6826:strand:- -           2275   1.8e-23   84.0   0.3   1   1   2.4e-24   3.4e-21   76.7   0.1     1   133  2065  2203  2065  2203 0.84 Zinc-binding dehydrogenase
+ADH_zinc_N           PF00107.26   130 CS202_c00001_NODE_1_...cluster160_ORF1:gid::pid::loc:1:6826:strand:- -           2275   6.2e-19   68.3   1.3   1   1   2.2e-21     3e-18   66.0   0.3     1    89  2034  2121  2034  2137 0.93 Zinc-binding dehydrogenase
+Methyltransf_12      PF08242.12    99 CS202_c00001_NODE_1_...cluster160_ORF1:gid::pid::loc:1:6826:strand:- -           2275   4.8e-15   56.1   0.0   1   1   7.9e-18   1.1e-14   55.0   0.0     1    99  1486  1587  1486  1587 0.91 Methyltransferase domain
+KR                   PF08659.10   180 CS202_c00001_NODE_1_...cluster160_ORF1:gid::pid::loc:1:6826:strand:- -           2275     6e-15   55.6   3.1   1   1   8.2e-17   1.1e-13   51.5   0.7     1    57  2217  2272  2217  2274 0.97 KR domain
+KAsynt_C_assoc       PF16197.5    112 CS202_c00001_NODE_1_...cluster160_ORF1:gid::pid::loc:1:6826:strand:- -           2275   1.3e-13   51.4   0.0   1   1   2.1e-16   2.9e-13   50.2   0.0     1    98   398   528   398   538 0.86 Ketoacyl-synthetase C-terminal extension
+Methyltransf_23      PF13489.6    165 CS202_c00001_NODE_1_...cluster160_ORF1:gid::pid::loc:1:6826:strand:- -           2275     4e-10   39.8   0.0   1   1   1.2e-12   1.7e-09   37.7   0.0     5   164  1466  1641  1458  1642 0.73 Methyltransferase domain
+Methyltransf_25      PF13649.6     97 CS202_c00001_NODE_1_...cluster160_ORF1:gid::pid::loc:1:6826:strand:- -           2275   2.9e-08   34.3   0.0   1   1   7.3e-11     1e-07   32.6   0.0     1    97  1485  1585  1485  1585 0.92 Methyltransferase domain
+Methyltransf_11      PF08241.12    96 CS202_c00001_NODE_1_...cluster160_ORF1:gid::pid::loc:1:6826:strand:- -           2275   3.1e-07   30.9   0.2   1   1   2.1e-09   2.9e-06   27.8   0.0     2    95  1487  1588  1486  1589 0.89 Methyltransferase domain
+ADH_N                PF08240.12   109 CS202_c00001_NODE_1_...cluster160_ORF1:gid::pid::loc:1:6826:strand:- -           2275   5.7e-05   23.0   0.2   1   1     1e-07   0.00014   21.7   0.2     2    61  1918  1972  1917  1979 0.87 Alcohol dehydrogenase GroES-like domain
+Peptidase_M50B       PF13398.6    200 CS202_c00001_NODE_1_...cluster160_ORF2:gid::pid::loc:7320:7992:strand:- -            223   5.3e-46  156.8  14.9   1   1   3.5e-50   6.3e-46  156.5  14.9     3   198    17   213    15   215 0.94 Peptidase M50B-like
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster160.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS202_c00001_NODE_1_...cluster160.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster160.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:34:38 2019
+# [ok]

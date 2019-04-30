@@ -1,0 +1,80 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="350.26666666666665" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="340.26666666666665" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ANIA_07911)
+conserved hypothetical protein</title>
+			<polygon class=" (ANIA_07911)
+conserved hypothetical protein" points="48,25 43,25 43,10 13,40 43,70 43,55 48,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amidohydro_2 (PF04909)
+"Amidohydrolase"</title>
+				<polygon class="PF04909" points="17,40 29,28 43,28 43,52 29,52" stroke-linejoin="round" width="28" height="24" fill="rgb(95,225,123)" stroke="rgb(76,180,98)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ANIA_07912)
+conserved hypothetical protein</title>
+			<polygon class=" (ANIA_07912)
+conserved hypothetical protein" points="61,25 70,25 70,10 100,40 70,70 70,55 61,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Tyrosinase (PF00264)
+"Common central domain of tyrosinase"</title>
+				<polygon class="PF00264" points="70,28 83,28 93,38 93,42 83,52 70,52" stroke-linejoin="round" width="23" height="24" fill="rgb(87,199,223)" stroke="rgb(69,159,178)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ANIA_07913)
+conserved hypothetical protein</title>
+			<polygon class=" (ANIA_07913)
+conserved hypothetical protein" points="168,25 148,25 148,10 118,40 148,70 148,55 168,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>OrsD (PF12013)
+"Orsellinic acid/F9775 biosynthesis cluster protein D"</title>
+				<rect class="PF12013" x="157" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(194,81,97)" stroke="rgb(155,64,77)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ANIA_07914)
+conserved hypothetical protein</title>
+			<polygon class=" (ANIA_07914)
+conserved hypothetical protein" points="186,25 192,25 192,10 222,40 192,70 192,55 186,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ADH_N (PF08240)
+"Alcohol dehydrogenase GroES-like domain"</title>
+				<rect class="PF08240" x="188" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(211,65,138)" stroke="rgb(168,51,110)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ADH_zinc_N (PF00107)
+"Zinc-binding dehydrogenase"</title>
+				<polygon class="PF00107" points="204,28 206,28 215,37 215,43 206,52 204,52" stroke-linejoin="round" width="11" height="24" fill="rgb(81,108,215)" stroke="rgb(64,86,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ANIA_07915)
+beta-glucosidase (Eurofung)</title>
+			<polygon class=" (ANIA_07915)
+beta-glucosidase (Eurofung)" points="339,25 285,25 285,10 255,40 285,70 285,55 339,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Fn3-like (PF14310)
+"Fibronectin type III-like domain"</title>
+				<polygon class="PF14310" points="260,39 266,33 266,47 260,41" stroke-linejoin="round" width="6" height="24" fill="rgb(206,58,194)" stroke="rgb(164,46,155)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Glyco_hydro_3_C (PF01915)
+"Glycosyl hydrolase family 3 C-terminal domain"</title>
+				<rect class="PF01915" x="272" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(181,96,75)" stroke="rgb(144,76,59)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Glyco_hydro_3 (PF00933)
+"Glycosyl hydrolase family 3 N terminal domain"</title>
+				<rect class="PF00933" x="305" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(179,79,172)" stroke="rgb(143,63,137)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Glyco_hydro_3 (PF00933)
+"Glycosyl hydrolase family 3 N terminal domain"</title>
+				<rect class="PF00933" x="320" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(179,79,172)" stroke="rgb(143,63,137)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

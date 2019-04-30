@@ -1,0 +1,32 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SQS_PSY              PF00494.19   263 CS203_c00001_NODE_1_...cluster121_ORF5:gid::pid::loc:3808:4678:strand:+ -            289   1.3e-58  198.6   3.1   1   1   8.6e-63   1.5e-58  198.3   3.1     2   257    17   262    16   268 0.95 Squalene/phytoene synthase
+SQS_PSY              PF00494.19   263 CS203_c00001_NODE_1_...cluster121_ORF6:gid::pid::loc:4674:5583:strand:+ -            302   7.3e-60  202.7   0.2   1   1   5.2e-64   9.4e-60  202.3   0.2     5   261    19   286    17   288 0.93 Squalene/phytoene synthase
+Amino_oxidase        PF01593.24   452 CS203_c00001_NODE_1_...cluster121_ORF7:gid::pid::loc:5579:6953:strand:+ -            457   1.3e-42  146.6   1.4   1   1   9.1e-46   1.6e-42  146.3   1.4     1   446    17   435    17   440 0.79 Flavin containing amine oxidoreductase
+NAD_binding_8        PF13450.6     68 CS203_c00001_NODE_1_...cluster121_ORF7:gid::pid::loc:5579:6953:strand:+ -            457   6.1e-14   52.0   0.2   1   1   9.6e-17   1.7e-13   50.6   0.2     1    55    12    66    12    77 0.91 NAD(P)-binding Rossmann-like domain
+DAO                  PF01266.24   352 CS203_c00001_NODE_1_...cluster121_ORF7:gid::pid::loc:5579:6953:strand:+ -            457   1.9e-11   44.1  11.5   1   1   3.6e-13   6.4e-10   39.1  11.5     1   339     9   422     9   441 0.60 FAD dependent oxidoreductase
+FAD_oxidored         PF12831.7    433 CS203_c00001_NODE_1_...cluster121_ORF7:gid::pid::loc:5579:6953:strand:+ -            457   2.1e-11   43.8   0.5   1   1   1.7e-14     3e-11   43.3   0.5     2    69    10    79     9    96 0.73 FAD dependent oxidoreductase
+Pyr_redox_2          PF07992.14   294 CS203_c00001_NODE_1_...cluster121_ORF7:gid::pid::loc:5579:6953:strand:+ -            457   5.5e-11   42.2   0.3   1   1   1.2e-09   2.2e-06   27.1   0.0   142   178     7    43     2    67 0.77 Pyridine nucleotide-disulphide oxidoreductase
+FAD_binding_2        PF00890.24   417 CS203_c00001_NODE_1_...cluster121_ORF7:gid::pid::loc:5579:6953:strand:+ -            457   8.2e-10   38.3   0.7   1   1   7.4e-13   1.3e-09   37.6   0.2     2    38    10    46     9    58 0.92 FAD binding domain
+HI0933_like          PF03486.14   409 CS203_c00001_NODE_1_...cluster121_ORF7:gid::pid::loc:5579:6953:strand:+ -            457   6.4e-08   31.7   1.6   1   1   7.9e-09   1.4e-05   24.0   0.9     2    36     9    43     8    45 0.95 HI0933-like protein
+AlaDh_PNT_C          PF01262.21   214 CS203_c00001_NODE_1_...cluster121_ORF7:gid::pid::loc:5579:6953:strand:+ -            457   3.2e-07   29.9   0.1   1   1     4e-10   7.1e-07   28.7   0.1    24    62     3    41     1    57 0.91 Alanine dehydrogenase/PNT, C-terminal domain
+Pyr_redox            PF00070.27    81 CS203_c00001_NODE_1_...cluster121_ORF7:gid::pid::loc:5579:6953:strand:+ -            457   1.6e-06   28.6   0.2   1   1     3e-09   5.3e-06   26.9   0.2     1    35     9    43     9    51 0.94 Pyridine nucleotide-disulphide oxidoreductase
+GIDA                 PF01134.22   392 CS203_c00001_NODE_1_...cluster121_ORF7:gid::pid::loc:5579:6953:strand:+ -            457   4.5e-06   26.0   0.1   1   1     4e-09   7.2e-06   25.3   0.1     2    29    10    37     9    70 0.87 Glucose inhibited division protein A
+LytR_C               PF13399.6     85 CS203_c00001_NODE_1_...cluster121_ORF8:gid::pid::loc:7017:7626:strand:+ -            202     1e-14   55.3   2.5   1   1   1.4e-18   2.5e-14   54.0   0.2     1    66    89   154    89   189 0.81 LytR cell envelope-related transcriptional attenuator
+Gly_kinase           PF02595.15   366 CS203_c00001_NODE_1_...cluster121_ORF9:gid::pid::loc:7725:8730:strand:+ -            334     3e-76  256.8  24.7   1   2   9.4e-43   1.7e-38  132.6  10.2     1   147     6   145     6   149 0.92 Glycerate kinase family
+Gly_kinase           PF02595.15   366 CS203_c00001_NODE_1_...cluster121_ORF9:gid::pid::loc:7725:8730:strand:+ -            334     3e-76  256.8  24.7   2   2   4.7e-42   8.3e-38  130.3   6.7   179   320   149   292   146   308 0.94 Glycerate kinase family
+ThiS                 PF02597.20    77 CS203_c00001_NODE_1_...cluster121_ORF11:gid::pid::loc:9123:9405:strand:+ -             93   5.7e-15   55.7   0.1   1   1   3.6e-19   6.4e-15   55.6   0.1     1    77     5    91     5    91 0.96 ThiS family
+Cupin_7              PF12973.7     91 CS203_c00001_NODE_1_...cluster121_ORF12:gid::pid::loc:9635:10205:strand:+ -            189   6.9e-07   29.1   0.0   1   1   5.3e-11   9.6e-07   28.6   0.0     2    83    55   136    54   144 0.81 ChrR Cupin-like domain
+Ring_hydroxyl_A      PF00848.19   214 CS203_c00001_NODE_1_...cluster121_ORF13:gid::pid::loc:10223:11378:strand:+ -            384   3.4e-24   86.0   0.1   1   1   6.2e-28   5.6e-24   85.3   0.1     9   210   194   375   186   378 0.85 Ring hydroxylating alpha subunit (catalytic domain)
+Rieske               PF00355.26    89 CS203_c00001_NODE_1_...cluster121_ORF13:gid::pid::loc:10223:11378:strand:+ -            384   1.4e-16   60.2   0.0   1   1   2.8e-20   2.5e-16   59.4   0.0     4    82    55   133    52   140 0.92 Rieske [2Fe-2S] domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS203_c00001_NODE_1_...cluster121.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS203_c00001_NODE_1_...cluster121.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS203_c00001_NODE_1_...cluster121.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:39:46 2019
+# [ok]

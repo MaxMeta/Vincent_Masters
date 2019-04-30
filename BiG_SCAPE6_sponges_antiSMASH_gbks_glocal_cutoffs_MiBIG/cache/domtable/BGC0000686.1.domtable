@@ -1,0 +1,33 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SQHop_cyclase_C      PF13243.6    319 BGC0000686.1_ORF1:gid::pid:EAL89318.1:loc:0:2208:strand:- -            735   1.7e-55  188.4   0.0   1   1   3.4e-53   1.5e-49  168.8   0.0     4   317   394   724   392   726 0.86 Squalene-hopene cyclase C-terminal domain
+SQHop_cyclase_N      PF13249.6    291 BGC0000686.1_ORF1:gid::pid:EAL89318.1:loc:0:2208:strand:- -            735   6.1e-51  173.2   0.2   1   1   2.2e-48   9.6e-45  152.9   0.1     7   266    91   356    85   374 0.87 Squalene-hopene cyclase N-terminal domain
+Prenyltrans          PF00432.21    44 BGC0000686.1_ORF1:gid::pid:EAL89318.1:loc:0:2208:strand:- -            735   9.3e-29   98.9   8.5   1   4     0.002       9.2    6.1   0.1    11    29    93   111    85   121 0.85 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.21    44 BGC0000686.1_ORF1:gid::pid:EAL89318.1:loc:0:2208:strand:- -            735   9.3e-29   98.9   8.5   2   4   9.7e-12   4.4e-08   32.7   0.0     3    44   132   173   131   173 0.97 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.21    44 BGC0000686.1_ORF1:gid::pid:EAL89318.1:loc:0:2208:strand:- -            735   9.3e-29   98.9   8.5   3   4   2.6e-12   1.2e-08   34.6   1.8     7    44   571   607   568   607 0.97 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.21    44 BGC0000686.1_ORF1:gid::pid:EAL89318.1:loc:0:2208:strand:- -            735   9.3e-29   98.9   8.5   4   4   8.5e-09   3.8e-05   23.3   0.0     5    25   618   638   617   667 0.80 Prenyltransferase and squalene oxidase repeat
+p450                 PF00067.22   463 BGC0000686.1_ORF2:gid::pid:EAL89317.1:loc:2642:4385:strand:- -            580   4.8e-65  220.1   0.0   1   1   3.6e-69   6.4e-65  219.7   0.0    33   440   128   525   101   546 0.86 Cytochrome P450
+p450                 PF00067.22   463 BGC0000686.1_ORF3:gid::pid:EAL89316.1:loc:4963:6487:strand:+ -            507   5.4e-63  213.3   0.0   1   1     4e-67   7.2e-63  212.9   0.0    39   440    67   464    59   477 0.88 Cytochrome P450
+adh_short            PF00106.25   195 BGC0000686.1_ORF4:gid::pid:EAL89315.1:loc:6522:7296:strand:- -            257   1.6e-41  141.9   0.5   1   1   2.2e-45   1.9e-41  141.6   0.5     1   190     2   193     2   198 0.95 short chain dehydrogenase
+adh_short_C2         PF13561.6    234 BGC0000686.1_ORF4:gid::pid:EAL89315.1:loc:6522:7296:strand:- -            257     3e-32  112.0   0.3   1   1   4.2e-36   3.8e-32  111.7   0.3     1   230     8   245     8   246 0.83 Enoyl-(Acyl carrier protein) reductase
+p450                 PF00067.22   463 BGC0000686.1_ORF5:gid::pid:EAL89314.2:loc:7576:9100:strand:+ -            507   3.1e-65  220.7   0.0   1   1   2.3e-69   4.1e-65  220.3   0.0    30   442    61   465    53   476 0.88 Cytochrome P450
+Transferase          PF02458.15   434 BGC0000686.1_ORF6:gid::pid:EAL89313.1:loc:9524:10961:strand:+ -            478   7.9e-29  100.6   0.0   1   2     8e-16   1.4e-11   43.7   0.0    21   190     3   181     1   201 0.86 Transferase family
+Transferase          PF02458.15   434 BGC0000686.1_ORF6:gid::pid:EAL89313.1:loc:9524:10961:strand:+ -            478   7.9e-29  100.6   0.0   2   2   1.1e-18     2e-14   53.1   0.0   273   432   305   469   299   471 0.73 Transferase family
+p450                 PF00067.22   463 BGC0000686.1_ORF7:gid::pid:EAL89312.1:loc:11150:12665:strand:+ -            504   1.4e-66  225.2   0.0   1   1   1.1e-70     2e-66  224.7   0.0    31   442    63   463    43   476 0.83 Cytochrome P450
+Transferase          PF02458.15   434 BGC0000686.1_ORF8:gid::pid:EAL89311.1:loc:13066:14458:strand:+ -            463     1e-22   80.4   0.0   1   2   2.2e-17     4e-13   48.8   0.0    17   176     6   171     3   200 0.90 Transferase family
+Transferase          PF02458.15   434 BGC0000686.1_ORF8:gid::pid:EAL89311.1:loc:13066:14458:strand:+ -            463     1e-22   80.4   0.0   2   2   1.5e-11   2.6e-07   29.6   0.0   257   426   274   448   242   454 0.60 Transferase family
+FAD_binding_2        PF00890.24   417 BGC0000686.1_ORF9:gid::pid:EAL89310.1:loc:14486:16277:strand:- -            596   1.4e-74  251.6   1.2   1   1   4.9e-78   1.8e-74  251.4   1.2     1   417    41   577    41   577 0.87 FAD binding domain
+FAD_oxidored         PF12831.7    433 BGC0000686.1_ORF9:gid::pid:EAL89310.1:loc:14486:16277:strand:- -            596   6.2e-07   29.1   0.1   1   1   2.6e-10   9.3e-07   28.5   0.1     1    61    41   100    41   138 0.88 FAD dependent oxidoreductase
+NAD_binding_8        PF13450.6     68 BGC0000686.1_ORF9:gid::pid:EAL89310.1:loc:14486:16277:strand:- -            596   2.3e-06   27.8   0.3   1   1   1.5e-09   5.5e-06   26.5   0.3     1    36    44    79    44   105 0.92 NAD(P)-binding Rossmann-like domain
+HI0933_like          PF03486.14   409 BGC0000686.1_ORF9:gid::pid:EAL89310.1:loc:14486:16277:strand:- -            596   6.3e-06   25.1   0.1   1   1   3.2e-09   1.2e-05   24.3   0.1     2    45    41    84    40    93 0.96 HI0933-like protein
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000686.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000686.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000686.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:43:53 2019
+# [ok]

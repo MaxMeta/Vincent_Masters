@@ -1,0 +1,28 @@
+#                                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ABC_tran             PF00005.27   137 CS200_c00001_NODE_1_...cluster001_ORF1:gid::pid::loc:303:1920:strand:+ -            538     9e-58  194.7   0.0   1   2     2e-31   4.5e-28   98.5   0.0     2   136    24   182    23   183 0.89 ABC transporter
+ABC_tran             PF00005.27   137 CS200_c00001_NODE_1_...cluster001_ORF1:gid::pid::loc:303:1920:strand:+ -            538     9e-58  194.7   0.0   2   2   4.5e-30     1e-26   94.1   0.0     2   137   301   452   300   452 0.90 ABC transporter
+oligo_HPY            PF08352.12    65 CS200_c00001_NODE_1_...cluster001_ORF1:gid::pid::loc:303:1920:strand:+ -            538   3.1e-11   43.6   0.0   1   2   5.5e-09   1.2e-05   25.7   0.0     1    33   234   266   234   280 0.84 Oligopeptide/dipeptide transporter, C-terminal region
+oligo_HPY            PF08352.12    65 CS200_c00001_NODE_1_...cluster001_ORF1:gid::pid::loc:303:1920:strand:+ -            538   3.1e-11   43.6   0.0   2   2   9.3e-06     0.021   15.3   0.0     1    29   503   531   503   536 0.93 Oligopeptide/dipeptide transporter, C-terminal region
+Rotamase             PF00639.21    97 CS200_c00001_NODE_1_...cluster001_ORF4:gid::pid::loc:2675:3458:strand:- -            260   4.1e-13   50.1   0.0   1   1   6.9e-15   6.2e-11   43.1   0.0    22    95   140   213   139   215 0.95 PPIC-type PPIASE domain
+Rotamase_3           PF13616.6    116 CS200_c00001_NODE_1_...cluster001_ORF4:gid::pid::loc:2675:3458:strand:- -            260   3.1e-06   27.7   0.0   1   1   1.8e-09   1.6e-05   25.4   0.0    39   107   139   208   134   216 0.90 PPIC-type PPIASE domain
+HlyD_3               PF13437.6    106 CS200_c00001_NODE_1_...cluster001_ORF5:gid::pid::loc:3457:4840:strand:- -            460   2.4e-14   53.9   0.2   1   1   1.5e-14   6.7e-11   42.8   0.1     2    81   307   390   306   422 0.83 HlyD family secretion protein
+ABC_membrane         PF00664.23   274 CS200_c00001_NODE_1_...cluster001_ORF6:gid::pid::loc:5000:8015:strand:- -           1004   3.6e-51  174.4  19.5   1   1   1.4e-54     5e-51  174.0  19.5     2   273   446   714   445   715 0.98 ABC transporter transmembrane region
+Peptidase_C39        PF03412.15   133 CS200_c00001_NODE_1_...cluster001_ORF6:gid::pid::loc:5000:8015:strand:- -           1004   4.4e-40  136.6   0.0   1   1   2.5e-43   9.1e-40  135.5   0.0     2   130   291   417   290   420 0.97 Peptidase C39 family
+ABC_tran             PF00005.27   137 CS200_c00001_NODE_1_...cluster001_ORF6:gid::pid::loc:5000:8015:strand:- -           1004   2.1e-35  122.2   0.0   1   1   1.2e-38   4.1e-35  121.3   0.0     1   137   781   930   781   930 0.89 ABC transporter
+cNMP_binding         PF00027.29    89 CS200_c00001_NODE_1_...cluster001_ORF6:gid::pid::loc:5000:8015:strand:- -           1004   2.8e-30  104.2   1.6   1   1     3e-26   1.1e-22   79.9   0.2     3    89    18   104    16   104 0.97 Cyclic nucleotide-binding domain
+Peptidase_C70        PF12385.8    145 CS200_c00001_NODE_1_...cluster001_ORF6:gid::pid::loc:5000:8015:strand:- -           1004   0.00025   21.0   0.0   1   1   1.3e-07   0.00048   20.1   0.0     8   131   292   396   285   406 0.83 Papain-like cysteine protease AvrRpt2
+Glycos_transf_1      PF00534.20   172 CS200_c00001_NODE_1_...cluster001_ORF10:gid::pid::loc:10165:11599:strand:- -            477     2e-18   66.5   0.0   1   1   6.4e-22   3.8e-18   65.6   0.0    15   172   187   343   177   343 0.94 Glycosyl transferases group 1
+Glyco_trans_1_4      PF13692.6    134 CS200_c00001_NODE_1_...cluster001_ORF10:gid::pid::loc:10165:11599:strand:- -            477   5.9e-16   59.1   0.0   1   1   1.7e-19     1e-15   58.4   0.0     2   119   188   301   187   328 0.87 Glycosyl transferases group 1
+Glyco_trans_1_2      PF13524.6     92 CS200_c00001_NODE_1_...cluster001_ORF10:gid::pid::loc:10165:11599:strand:- -            477   1.8e-06   28.2   0.0   1   1   1.3e-09     8e-06   26.2   0.0     8    89   262   355   253   358 0.80 Glycosyl transferases group 1
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS200_c00001_NODE_1_...cluster001.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS200_c00001_NODE_1_...cluster001.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS200_c00001_NODE_1_...cluster001.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:40:01 2019
+# [ok]

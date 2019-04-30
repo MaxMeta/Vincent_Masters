@@ -1,0 +1,24 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+p450                 PF00067.22   463 BGC0001286.1_ORF1:gid:CYP3:pid:ALS30800.1:loc:99:2025:strand:- -            540   1.1e-70  238.7   0.0   1   1   6.9e-75   1.2e-70  238.5   0.0     2   461    61   523    60   525 0.91 Cytochrome P450
+Glyoxalase           PF00903.25   128 BGC0001286.1_ORF2:gid:RDO1:pid:ALS30794.1:loc:2965:3822:strand:+ -            176   2.5e-10   40.6   0.0   1   1     2e-13   1.7e-09   37.9   0.0     2   128    54   169    53   169 0.78 Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily
+Lyase_1              PF00206.20   312 BGC0001286.1_ORF3:gid:TAD1:pid:ALS30796.1:loc:4311:5793:strand:- -            493   1.2e-39  136.5   0.0   1   1   2.2e-43     2e-39  135.9   0.0     7   310    60   343    58   345 0.90 Lyase
+ADSL_C               PF10397.9     73 BGC0001286.1_ORF3:gid:TAD1:pid:ALS30796.1:loc:4311:5793:strand:- -            493   2.3e-20   72.9   0.3   1   1   1.3e-23   1.1e-19   70.7   0.0     1    73   409   486   409   486 0.97 Adenylosuccinate lyase C-terminus
+MFS_1                PF07690.16   353 BGC0001286.1_ORF4:gid:ITP1:pid:ALS30797.1:loc:6812:8639:strand:- -            491   1.2e-48  165.8  28.5   1   1   1.4e-52   1.2e-48  165.8  28.5     2   352    53   443    52   444 0.81 Major Facilitator Superfamily
+Sugar_tr             PF00083.24   452 BGC0001286.1_ORF4:gid:ITP1:pid:ALS30797.1:loc:6812:8639:strand:- -            491   4.3e-11   42.4   5.9   1   1   4.8e-15   4.3e-11   42.4   5.9    43   203    79   234    22   254 0.87 Sugar (and other) transporter
+PrpF                 PF04303.13   371 BGC0001286.1_ORF5:gid:ADI1:pid:ALS30798.1:loc:9922:11337:strand:+ -            443   2.8e-95  319.4   0.2   1   1     2e-99   3.6e-95  319.1   0.2     4   369     5   359     2   361 0.90 PrpF protein
+Mito_carr            PF00153.27    97 BGC0001286.1_ORF6:gid:MTT1:pid:ALS30799.1:loc:12168:13404:strand:+ -            300   7.4e-57  189.3   3.4   1   3     4e-22   7.2e-18   64.3   0.0     3    96     8   102     6   103 0.92 Mitochondrial carrier protein
+Mito_carr            PF00153.27    97 BGC0001286.1_ORF6:gid:MTT1:pid:ALS30799.1:loc:12168:13404:strand:+ -            300   7.4e-57  189.3   3.4   2   3   1.6e-20   2.8e-16   59.2   0.0     3    96   107   201   105   202 0.94 Mitochondrial carrier protein
+Mito_carr            PF00153.27    97 BGC0001286.1_ORF6:gid:MTT1:pid:ALS30799.1:loc:12168:13404:strand:+ -            300   7.4e-57  189.3   3.4   3   3   1.6e-22   2.8e-18   65.6   0.3     3    92   209   294   207   298 0.91 Mitochondrial carrier protein
+HLH                  PF00010.26    53 BGC0001286.1_ORF7:gid:RIA1:pid:ALS30795.1:loc:13712:14958:strand:- -            381   4.6e-08   32.9   0.3   1   1   2.6e-12   4.6e-08   32.9   0.3     2    52    92   142    91   143 0.96 Helix-loop-helix DNA-binding domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001286.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001286.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001286.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:47:59 2019
+# [ok]

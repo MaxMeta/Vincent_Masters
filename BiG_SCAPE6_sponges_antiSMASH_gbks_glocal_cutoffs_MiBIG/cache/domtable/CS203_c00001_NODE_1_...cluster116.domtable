@@ -1,0 +1,20 @@
+#                                                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+PGI                  PF00342.19   486 CS203_c00001_NODE_1_...cluster116_ORF2:gid::pid::loc:385:1969:strand:+ -            527   2.7e-16   59.2   0.0   1   1   2.1e-16   3.8e-12   45.6   0.0    97   309    60   269    50   276 0.83 Phosphoglucose isomerase
+G6PD_C               PF02781.16   290 CS203_c00001_NODE_1_...cluster116_ORF3:gid::pid::loc:1971:3480:strand:+ -            502  4.7e-109  364.1   0.0   1   1  6.2e-113  5.6e-109  363.8   0.0     1   290   203   492   203   492 0.96 Glucose-6-phosphate dehydrogenase, C-terminal domain
+G6PD_N               PF00479.22   177 CS203_c00001_NODE_1_...cluster116_ORF3:gid::pid::loc:1971:3480:strand:+ -            502   6.1e-48  163.8   0.0   1   1     1e-51   9.3e-48  163.2   0.0     1   177    18   201    18   201 0.88 Glucose-6-phosphate dehydrogenase, NAD binding domain
+Methyltransf_25      PF13649.6     97 CS203_c00001_NODE_1_...cluster116_ORF4:gid::pid::loc:4076:4655:strand:- -            192   5.4e-12   46.3   0.0   1   1   1.6e-15   9.7e-12   45.4   0.0     2    97    15   104    15   104 0.93 Methyltransferase domain
+Methyltransf_11      PF08241.12    96 CS203_c00001_NODE_1_...cluster116_ORF4:gid::pid::loc:4076:4655:strand:- -            192   5.9e-09   36.5   0.0   1   1   1.5e-12   8.7e-09   35.9   0.0     1    95    15   107    15   108 0.89 Methyltransferase domain
+Methyltransf_23      PF13489.6    165 CS203_c00001_NODE_1_...cluster116_ORF4:gid::pid::loc:4076:4655:strand:- -            192   3.3e-07   30.3   0.0   1   1   7.3e-11   4.4e-07   29.9   0.0    18   159     6   148     1   149 0.79 Methyltransferase domain
+NHase_alpha          PF02979.16   184 CS203_c00001_NODE_1_...cluster116_ORF6:gid::pid::loc:5000:5279:strand:+ -             92   1.4e-06   27.7   0.0   1   1   1.1e-10   1.9e-06   27.3   0.0   114   165    18    70     4    75 0.90 Nitrile hydratase, alpha chain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS203_c00001_NODE_1_...cluster116.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS203_c00001_NODE_1_...cluster116.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS203_c00001_NODE_1_...cluster116.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:44:43 2019
+# [ok]

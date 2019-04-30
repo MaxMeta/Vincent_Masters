@@ -1,0 +1,147 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="638.3666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="628.3666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg3247_1)</title>
+			<polygon class=" (ctg3247_1)" points="10,40 25,10 25,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3247_2)</title>
+			<polygon class=" (ctg3247_2)" points="25,40 36,10 36,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3247_3)</title>
+			<polygon class=" (ctg3247_3)" points="57,25 61,25 61,10 91,40 61,70 61,55 57,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Phage_int_SAM_3 (PF14659)
+"Phage integrase, N-terminal SAM-like domain"</title>
+				<rect class="PF14659" x="62" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(202,93,203)" stroke="rgb(161,74,162)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Phage_integrase (PF00589)
+"Phage integrase family"</title>
+				<polygon class="PF00589" points="72,28 74,28 86,40 74,52 72,52" stroke-linejoin="round" width="16" height="24" fill="rgb(91,96,195)" stroke="rgb(72,76,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3247_4)</title>
+			<polygon class=" (ctg3247_4)" points="95,10 103,40 95,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DDE_Tnp_IS66 (PF03050)
+"Transposase IS66 family"</title>
+				<polygon class="PF03050" points="95,28 96,28 98,33 98,47 96,52 95,52" stroke-linejoin="round" width="3" height="24" fill="rgb(189,225,106)" stroke="rgb(151,180,84)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DDE_Tnp_IS66_C (PF13817)
+"IS66 C-terminal element"</title>
+				<polygon class="PF13817" points="98,33 100,40 98,47" stroke-linejoin="round" width="3" height="24" fill="rgb(179,66,173)" stroke="rgb(143,52,138)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3247_5)</title>
+			<polygon class=" (ctg3247_5)" points="127,25 174,25 174,10 204,40 174,70 174,55 127,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TonB_dep_Rec (PF00593)
+"TonB dependent receptor"</title>
+				<polygon class="PF00593" points="153,28 188,28 200,40 188,52 153,52" stroke-linejoin="round" width="50" height="24" fill="rgb(171,200,51)" stroke="rgb(136,160,40)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3247_6)</title>
+			<polygon class=" (ctg3247_6)" points="213,40 217,10 217,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3247_7)</title>
+			<polygon class=" (ctg3247_7)" points="218,40 230,10 230,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3247_8)</title>
+			<polygon class=" (ctg3247_8)" points="230,40 247,10 247,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3247_9)</title>
+			<polygon class=" (ctg3247_9)" points="252,40 270,10 270,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_2 (PF00891)
+"O-methyltransferase domain"</title>
+				<polygon class="PF00891" points="256,40 263,28 269,28 269,52 263,52" stroke-linejoin="round" width="15" height="24" fill="rgb(50,51,190)" stroke="rgb(39,40,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3247_10)</title>
+			<polygon class=" (ctg3247_10)" points="307,25 307,25 307,10 277,40 307,70 307,55 307,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Dimerisation2 (PF16864)
+"Dimerisation domain"</title>
+				<polygon class="PF16864" points="281,40 283,38 283,42" stroke-linejoin="round" width="6" height="24" fill="rgb(84,199,85)" stroke="rgb(67,159,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3247_11)</title>
+			<polygon class=" (ctg3247_11)" points="351,25 341,25 341,10 311,40 341,70 341,55 351,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<polygon class="PF04055" points="325,30 327,28 340,28 340,52 327,52 325,50" stroke-linejoin="round" width="15" height="24" fill="rgb(149,56,222)" stroke="rgb(119,44,177)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Glycos_transf_1 (PF00534)
+"Glycosyl transferases group 1"</title>
+				<rect class="PF00534" x="345" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(228,92,150)" stroke="rgb(182,73,119)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3247_12)</title>
+			<polygon class=" (ctg3247_12)" points="352,40 375,10 375,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3247_13)</title>
+			<polygon class=" (ctg3247_13)" points="383,10 400,40 383,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DDE_Tnp_1_2 (PF13586)
+"Transposase DDE domain"</title>
+				<polygon class="PF13586" points="392,32 397,40 392,48" stroke-linejoin="round" width="8" height="24" fill="rgb(94,207,193)" stroke="rgb(75,165,154)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3247_14)</title>
+			<polygon class=" (ctg3247_14)" points="408,25 456,25 456,10 486,40 456,70 456,55 408,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MMPL (PF03176)
+"MMPL family"</title>
+				<rect class="PF03176" x="413" y="28" stroke-linejoin="round" width="36" height="24" fill="rgb(228,109,193)" stroke="rgb(182,87,154)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MMPL (PF03176)
+"MMPL family"</title>
+				<polygon class="PF03176" points="463,28 469,28 481,40 469,52 463,52" stroke-linejoin="round" width="22" height="24" fill="rgb(228,109,193)" stroke="rgb(182,87,154)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3247_15)</title>
+			<polygon class=" (ctg3247_15)" points="491,10 499,40 491,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NHase_alpha (PF02979)
+"Nitrile hydratase, alpha chain"</title>
+				<polygon class="PF02979" points="492,28 492,28 496,40 492,52 492,52" stroke-linejoin="round" width="6" height="24" fill="rgb(204,148,70)" stroke="rgb(163,118,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3247_16)</title>
+			<polygon class=" (ctg3247_16)" points="540,25 533,25 533,10 503,40 533,70 533,55 540,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3247_17)</title>
+			<polygon class=" (ctg3247_17)" points="619,25 571,25 571,10 541,40 571,70 571,55 619,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YcaO (PF02624)
+"YcaO cyclodehydratase, ATP-ad Mg2+-binding"</title>
+				<polygon class="PF02624" points="545,40 557,28 577,28 577,52 557,52" stroke-linejoin="round" width="33" height="24" fill="rgb(76,84,185)" stroke="rgb(60,67,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3247_18)</title>
+			<polygon class=" (ctg3247_18)" points="619,40 627,10 627,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

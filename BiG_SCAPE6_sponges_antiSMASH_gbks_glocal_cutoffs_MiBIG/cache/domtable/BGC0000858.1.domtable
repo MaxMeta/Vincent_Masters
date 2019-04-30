@@ -1,0 +1,18 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Acetyltransf_1       PF00583.25   117 BGC0000858.1_ORF1:gid:ectA:pid:ACB30326.1:loc:213:693:strand:+ -            159     5e-12   46.1   0.0   1   1   7.3e-16   6.5e-12   45.7   0.0    14   113    18   113     6   116 0.86 Acetyltransferase (GNAT) family
+Acetyltransf_7       PF13508.7     76 BGC0000858.1_ORF1:gid:ectA:pid:ACB30326.1:loc:213:693:strand:+ -            159   1.7e-06   28.4   0.0   1   1   2.6e-10   2.4e-06   27.9   0.0     3    54    34    92    23   115 0.70 Acetyltransferase (GNAT) domain
+Aminotran_3          PF00202.21   406 BGC0000858.1_ORF2:gid:ectB:pid:ACB30327.1:loc:689:1967:strand:+ -            425   4.9e-82  275.7   0.0   1   1   3.3e-86     6e-82  275.5   0.0    10   405    19   408    12   409 0.89 Aminotransferase class-III
+Ectoine_synth        PF06339.12   127 BGC0000858.1_ORF3:gid:ectC:pid:ACB30328.1:loc:1963:2371:strand:+ -            135   9.6e-59  197.1   0.0   1   1   1.8e-62   1.1e-58  197.0   0.0     1   124     1   126     1   129 0.98 Ectoine synthase
+SSF                  PF00474.17   406 BGC0000858.1_ORF4:gid:ssf:pid:ACB30329.1:loc:2453:3827:strand:+ -            457   5.7e-50  170.4  26.4   1   1   4.8e-54   8.6e-50  169.8  26.4     1   406    14   406    14   406 0.90 Sodium:solute symporter family
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000858.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000858.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000858.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:52:50 2019
+# [ok]

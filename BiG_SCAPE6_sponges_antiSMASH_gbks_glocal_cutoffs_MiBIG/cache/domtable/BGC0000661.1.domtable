@@ -1,0 +1,15 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+cNMP_binding         PF00027.29    89 BGC0000661.1_ORF1:gid::pid:ACC81291.1:loc:0:1410:strand:- -            469   1.6e-18   66.5   0.0   1   1   2.1e-22   3.8e-18   65.4   0.0     2    88   117   204   116   205 0.95 Cyclic nucleotide-binding domain
+cNMP_binding         PF00027.29    89 BGC0000661.1_ORF2:gid::pid:ACC81292.1:loc:1644:3054:strand:- -            469   4.9e-15   55.4   0.0   1   1   4.7e-19   8.4e-15   54.6   0.0     2    88   116   203   115   204 0.96 Cyclic nucleotide-binding domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000661.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000661.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000661.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:52:33 2019
+# [ok]

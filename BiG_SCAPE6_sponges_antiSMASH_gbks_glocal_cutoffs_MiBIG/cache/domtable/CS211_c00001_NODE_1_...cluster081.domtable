@@ -1,0 +1,28 @@
+#                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DUF167               PF02594.16    77 CS211_c00001_NODE_1_...cluster081_ORF2:gid::pid::loc:859:1162:strand:+ -            100   1.6e-21   76.2   0.1   1   1     1e-25   1.8e-21   76.0   0.1     1    74     9    80     9    83 0.92 Uncharacterised ACR, YggU family COG1872
+Bac_luciferase       PF00296.20   314 CS211_c00001_NODE_1_...cluster081_ORF3:gid::pid::loc:1207:2053:strand:+ -            281   6.1e-57  193.4   4.0   1   1   4.4e-61   7.9e-57  193.1   4.0    27   226    18   235    16   271 0.93 Luciferase-like monooxygenase
+Dioxygenase_C        PF00775.21   182 CS211_c00001_NODE_1_...cluster081_ORF4:gid::pid::loc:2064:2625:strand:- -            186   8.4e-26   90.5   0.0   1   1   8.7e-30   1.6e-25   89.6   0.0    18   181    24   176    11   177 0.79 Dioxygenase
+Dioxygenase_C        PF00775.21   182 CS211_c00001_NODE_1_...cluster081_ORF5:gid::pid::loc:2621:3326:strand:- -            234   3.4e-44  150.4   0.0   1   1   2.5e-48   4.5e-44  150.0   0.0     1   181    42   220    42   221 0.94 Dioxygenase
+GMC_oxred_N          PF00732.19   296 CS211_c00001_NODE_1_...cluster081_ORF6:gid::pid::loc:3358:4951:strand:- -            530   1.1e-89  300.8   0.0   1   1   2.2e-93   1.3e-89  300.5   0.0     1   296     4   295     4   295 0.99 GMC oxidoreductase
+GMC_oxred_C          PF05199.13   144 CS211_c00001_NODE_1_...cluster081_ORF6:gid::pid::loc:3358:4951:strand:- -            530   3.6e-40  137.8   0.2   1   1   9.4e-44   5.6e-40  137.2   0.2     1   144   386   522   386   522 0.93 GMC oxidoreductase
+CoA_transf_3         PF02515.17   368 CS211_c00001_NODE_1_...cluster081_ORF7:gid::pid::loc:4973:6203:strand:- -            409  1.5e-110  369.8   0.2   1   1  9.5e-115  1.7e-110  369.6   0.2     2   367     9   367     8   368 0.97 CoA-transferase family III
+Aldo_ket_red         PF00248.21   294 CS211_c00001_NODE_1_...cluster081_ORF8:gid::pid::loc:6199:7174:strand:- -            324   2.3e-65  220.7   0.0   1   1   1.4e-69   2.5e-65  220.6   0.0     8   293     2   291     1   292 0.93 Aldo/keto reductase family
+Flavin_Reduct        PF01613.18   155 CS211_c00001_NODE_1_...cluster081_ORF9:gid::pid::loc:7388:7955:strand:+ -            188   6.3e-32  110.8   0.0   1   1   4.1e-36   7.4e-32  110.5   0.0     2   154    36   182    35   183 0.91 Flavin reductase like domain
+DUF1730              PF08331.10    76 CS211_c00001_NODE_1_...cluster081_ORF10:gid::pid::loc:7921:8923:strand:- -            333   2.4e-21   75.4   0.0   1   1   1.3e-24     4e-21   74.7   0.0     1    76    11    88    11    88 0.92 Domain of unknown function (DUF1730)
+Fer4_16              PF13484.6     67 CS211_c00001_NODE_1_...cluster081_ORF10:gid::pid::loc:7921:8923:strand:- -            333   4.8e-20   72.3   3.5   1   1   2.8e-23   8.4e-20   71.5   3.5     1    67   140   204   140   204 0.99 4Fe-4S double cluster binding domain
+Fer4_7               PF12838.7     52 CS211_c00001_NODE_1_...cluster081_ORF10:gid::pid::loc:7921:8923:strand:- -            333   2.9e-08   34.2   5.0   1   1   2.1e-11   6.4e-08   33.1   5.0     1    51   140   204   140   205 0.71 4Fe-4S dicluster domain
+HEAT_2               PF13646.6     88 CS211_c00001_NODE_1_...cluster081_ORF10:gid::pid::loc:7921:8923:strand:- -            333   5.2e-07   30.0   0.2   1   1   5.3e-10   1.6e-06   28.4   0.2    18    61   256   300   251   322 0.82 HEAT repeats
+Fer4                 PF00037.27    24 CS211_c00001_NODE_1_...cluster081_ORF10:gid::pid::loc:7921:8923:strand:- -            333   1.3e-05   24.8  11.1   1   1   6.1e-09   1.8e-05   24.3   1.8     4    24   137   157   135   157 0.92 4Fe-4S binding domain
+SQS_PSY              PF00494.19   263 CS211_c00001_NODE_1_...cluster081_ORF13:gid::pid::loc:10000:10648:strand:+ -            216   7.8e-26   91.1   0.9   1   1   4.3e-30   7.8e-26   91.1   0.9     5   160    19   161    15   163 0.94 Squalene/phytoene synthase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster081.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS211_c00001_NODE_1_...cluster081.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster081.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:54:58 2019
+# [ok]

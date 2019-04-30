@@ -1,0 +1,33 @@
+#                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Acyl_transf_1        PF00698.21   319 CS200_c00001_NODE_1_...cluster199_ORF1:gid::pid::loc:1:6523:strand:+ -           2173   4.1e-62  210.5   0.0   1   1   3.7e-65   6.6e-62  209.8   0.0     2   316   359   684   358   686 0.89 Acyl transferase domain
+KR                   PF08659.10   180 CS200_c00001_NODE_1_...cluster199_ORF1:gid::pid::loc:1:6523:strand:+ -           2173   6.5e-51  172.8   0.7   1   1   6.6e-54   1.2e-50  171.9   0.0     1   179  1778  1957  1778  1958 0.93 KR domain
+PS-DH                PF14765.6    298 CS200_c00001_NODE_1_...cluster199_ORF1:gid::pid::loc:1:6523:strand:+ -           2173   2.2e-32  112.5   0.0   1   1   2.7e-35   4.9e-32  111.4   0.0     2   286   733  1024   732  1029 0.85 Polyketide synthase dehydratase
+Ketoacyl-synt_C      PF02801.22   118 CS200_c00001_NODE_1_...cluster199_ORF1:gid::pid::loc:1:6523:strand:+ -           2173   1.5e-27   95.9   0.1   1   1   1.8e-30   3.2e-27   94.9   0.1    16   114   104   202    80   207 0.86 Beta-ketoacyl synthase, C-terminal domain
+ADH_zinc_N           PF00107.26   130 CS200_c00001_NODE_1_...cluster199_ORF1:gid::pid::loc:1:6523:strand:+ -           2173   5.1e-17   62.1   0.1   1   1   7.7e-20   1.4e-16   60.7   0.1     1   108  1583  1690  1583  1714 0.88 Zinc-binding dehydrogenase
+KAsynt_C_assoc       PF16197.5    112 CS200_c00001_NODE_1_...cluster199_ORF1:gid::pid::loc:1:6523:strand:+ -           2173   2.2e-14   53.9   0.0   1   1   2.5e-17   4.6e-14   52.8   0.0     1   108   209   320   209   323 0.82 Ketoacyl-synthetase C-terminal extension
+ADH_zinc_N_2         PF13602.6    133 CS200_c00001_NODE_1_...cluster199_ORF1:gid::pid::loc:1:6523:strand:+ -           2173     9e-13   49.4   0.0   1   1   1.7e-15   3.1e-12   47.7   0.0     1   133  1615  1754  1615  1754 0.83 Zinc-binding dehydrogenase
+ketoacyl-synt        PF00109.26   253 CS200_c00001_NODE_1_...cluster199_ORF1:gid::pid::loc:1:6523:strand:+ -           2173   5.3e-12   45.9   0.5   1   1     7e-15   1.2e-11   44.6   0.5   182   251     1    70     1    72 0.95 Beta-ketoacyl synthase, N-terminal domain
+adh_short            PF00106.25   195 CS200_c00001_NODE_1_...cluster199_ORF1:gid::pid::loc:1:6523:strand:+ -           2173   1.6e-10   40.7   0.1   1   1   2.6e-11   4.7e-08   32.7   0.0     4   166  1781  1944  1779  1949 0.85 short chain dehydrogenase
+PP-binding           PF00550.25    67 CS200_c00001_NODE_1_...cluster199_ORF1:gid::pid::loc:1:6523:strand:+ -           2173   2.8e-06   27.6   0.0   1   1     4e-09   7.3e-06   26.3   0.0     2    67  2048  2111  2047  2111 0.92 Phosphopantetheine attachment site
+NAD_binding_4        PF07993.12   257 CS200_c00001_NODE_1_...cluster199_ORF2:gid::pid::loc:6585:9081:strand:+ -            831   3.4e-51  173.9   0.0   1   1   1.4e-54   5.1e-51  173.3   0.0     1   255    56   303    56   305 0.92 Male sterility protein
+Sulfotransfer_3      PF13469.6    217 CS200_c00001_NODE_1_...cluster199_ORF2:gid::pid::loc:6585:9081:strand:+ -            831   7.8e-39  134.3   0.3   1   1   1.3e-41   4.5e-38  131.8   0.3     1   216   518   776   518   777 0.84 Sulfotransferase family
+Epimerase            PF01370.21   241 CS200_c00001_NODE_1_...cluster199_ORF2:gid::pid::loc:6585:9081:strand:+ -            831     3e-12   46.5   0.0   1   1   3.7e-15   1.3e-11   44.4   0.0     1   173    54   259    54   299 0.78 NAD dependent epimerase/dehydratase family
+3Beta_HSD            PF01073.19   280 CS200_c00001_NODE_1_...cluster199_ORF2:gid::pid::loc:6585:9081:strand:+ -            831   1.3e-07   30.9   0.0   1   1   6.4e-11   2.3e-07   30.1   0.0     2   119    56   190    55   245 0.79 3-beta hydroxysteroid dehydrogenase/isomerase family
+Lactamase_B          PF00753.27   197 CS200_c00001_NODE_1_...cluster199_ORF4:gid::pid::loc:9733:10282:strand:+ -            182   1.6e-20   73.9   0.0   1   1   2.2e-24   1.9e-20   73.7   0.0     2    93    45   136    44   166 0.90 Metallo-beta-lactamase superfamily
+Lactamase_B_2        PF12706.7    201 CS200_c00001_NODE_1_...cluster199_ORF4:gid::pid::loc:9733:10282:strand:+ -            182   1.7e-07   31.0   0.0   1   1   2.4e-11   2.1e-07   30.6   0.0     2    82    60   142    59   173 0.71 Beta-lactamase superfamily domain
+GlnE                 PF03710.15   251 CS200_c00001_NODE_1_...cluster199_ORF5:gid::pid::loc:10278:13290:strand:+ -           1004  3.4e-124  413.2   0.8   1   2   3.7e-68   3.4e-64  216.7   0.4     3   250    59   305    57   306 0.88 Glutamate-ammonia ligase adenylyltransferase
+GlnE                 PF03710.15   251 CS200_c00001_NODE_1_...cluster199_ORF5:gid::pid::loc:10278:13290:strand:+ -           1004  3.4e-124  413.2   0.8   2   2   2.3e-59   2.1e-55  187.9   0.0    39   244   642   844   634   850 0.94 Glutamate-ammonia ligase adenylyltransferase
+GlnD_UR_UTase        PF08335.11   146 CS200_c00001_NODE_1_...cluster199_ORF5:gid::pid::loc:10278:13290:strand:+ -           1004   8.4e-53  178.4   1.9   1   2     8e-46   7.2e-42  142.9   0.3     3   146   327   467   325   467 0.92 GlnD PII-uridylyltransferase
+GlnD_UR_UTase        PF08335.11   146 CS200_c00001_NODE_1_...cluster199_ORF5:gid::pid::loc:10278:13290:strand:+ -           1004   8.4e-53  178.4   1.9   2   2   2.4e-12   2.2e-08   34.3   0.1     3    95   872   958   870   963 0.93 GlnD PII-uridylyltransferase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS200_c00001_NODE_1_...cluster199.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS200_c00001_NODE_1_...cluster199.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS200_c00001_NODE_1_...cluster199.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:49:21 2019
+# [ok]

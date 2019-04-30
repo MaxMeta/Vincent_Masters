@@ -1,0 +1,90 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="360.8333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="350.8333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg2609_10)</title>
+			<polygon class=" (ctg2609_10)" points="29,10 48,40 29,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2609_11)</title>
+			<polygon class=" (ctg2609_11)" points="119,25 81,25 81,10 51,40 81,70 81,55 119,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="55,40 67,28 69,28 69,52 67,52 55,40" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="76" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Peptidase_C39 (PF03412)
+"Peptidase C39 family"</title>
+				<rect class="PF03412" x="105" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(214,226,77)" stroke="rgb(171,180,61)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2609_12)</title>
+			<polygon class=" (ctg2609_12)" points="162,25 150,25 150,10 120,40 150,70 150,55 162,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HlyD_3 (PF13437)
+"HlyD family secretion protein"</title>
+				<polygon class="PF13437" points="124,40 135,29 135,51" stroke-linejoin="round" width="12" height="24" fill="rgb(82,200,102)" stroke="rgb(65,160,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2609_13)</title>
+			<polygon class=" (ctg2609_13)" points="167,40 171,10 171,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2609_14)</title>
+			<polygon class=" (ctg2609_14)" points="176,40 183,10 183,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MccV (PF17508)
+"Microcin V bacteriocin"</title>
+				<polygon class="PF17508" points="179,40 182,28 183,28 183,52 182,52" stroke-linejoin="round" width="7" height="24" fill="rgb(197,161,86)" stroke="rgb(157,128,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2609_15)</title>
+			<polygon class=" (ctg2609_15)" points="199,25 204,25 204,10 234,40 204,70 204,55 199,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GFO_IDH_MocA (PF01408)
+"Oxidoreductase family, NAD-binding Rossmann fold"</title>
+				<rect class="PF01408" x="199" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(76,117,190)" stroke="rgb(60,93,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2609_16)</title>
+			<polygon class=" (ctg2609_16)" points="234,10 253,40 234,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TctB (PF07331)
+"Tripartite tricarboxylate transporter TctB family"</title>
+				<polygon class="PF07331" points="235,28 241,28 249,40 241,52 235,52" stroke-linejoin="round" width="15" height="24" fill="rgb(52,188,110)" stroke="rgb(41,150,88)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2609_17)</title>
+			<polygon class=" (ctg2609_17)" points="256,25 276,25 276,10 306,40 276,70 276,55 256,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TctA (PF01970)
+"Tripartite tricarboxylate transporter TctA family"</title>
+				<polygon class="PF01970" points="257,28 290,28 298,36 298,44 290,52 257,52" stroke-linejoin="round" width="41" height="24" fill="rgb(202,54,202)" stroke="rgb(161,43,161)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2609_18)</title>
+			<polygon class=" (ctg2609_18)" points="307,25 313,25 313,10 343,40 313,70 313,55 307,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TctC (PF03401)
+"Tripartite tricarboxylate transporter family receptor"</title>
+				<polygon class="PF03401" points="316,28 327,28 339,40 327,52 316,52" stroke-linejoin="round" width="27" height="24" fill="rgb(74,93,188)" stroke="rgb(59,74,150)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2609_19)</title>
+			<polygon class=" (ctg2609_19)" points="344,40 348,10 348,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

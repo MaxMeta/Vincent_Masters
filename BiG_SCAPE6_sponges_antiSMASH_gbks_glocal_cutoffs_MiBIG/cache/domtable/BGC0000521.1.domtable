@@ -1,0 +1,25 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DDE_Tnp_1            PF01609.21   214 BGC0000521.1_ORF2:gid:tpase:pid:AAC72261.1:loc:736:2056:strand:+ -            439   7.9e-35  120.4   1.4   1   1   6.7e-39   1.2e-34  119.8   1.4     3   214   116   365   114   365 0.95 Transposase DDE domain
+L_biotic_typeA       PF04604.13    51 BGC0000521.1_ORF3:gid:lctA:pid:AAC72257.1:loc:2470:2626:strand:+ -             51   1.1e-27   95.6   2.0   1   1   6.6e-32   1.2e-27   95.5   2.0     1    51     1    50     1    50 0.97 Type-A lantibiotic
+LANC_like            PF05147.13   352 BGC0000521.1_ORF4:gid:lctM:pid:AAC72258.1:loc:2763:5532:strand:+ -            922   8.1e-77  258.2  14.7   1   1   1.7e-80   1.6e-76  257.2  14.7     2   344   576   912   575   918 0.95 Lanthionine synthetase C-like protein
+DUF4135              PF13575.6    375 BGC0000521.1_ORF4:gid:lctM:pid:AAC72258.1:loc:2763:5532:strand:+ -            922   8.1e-71  239.3   0.0   1   1   1.2e-74     1e-70  239.0   0.0     1   373    87   459    87   461 0.89 Domain of unknown function (DUF4135)
+ABC_membrane         PF00664.23   274 BGC0000521.1_ORF5:gid:lctT:pid:AAC72259.1:loc:5550:7626:strand:+ -            691   1.7e-42  146.0  30.3   1   1   4.2e-46   2.5e-42  145.4  30.3     5   273   158   421   156   422 0.99 ABC transporter transmembrane region
+Peptidase_C39        PF03412.15   133 BGC0000521.1_ORF5:gid:lctT:pid:AAC72259.1:loc:5550:7626:strand:+ -            691   1.1e-38  132.1   0.1   1   1     5e-42     3e-38  130.6   0.1     3   132     2   134     1   135 0.95 Peptidase C39 family
+ABC_tran             PF00005.27   137 BGC0000521.1_ORF5:gid:lctT:pid:AAC72259.1:loc:5550:7626:strand:+ -            691   5.5e-26   91.7   0.3   1   1   9.2e-30   5.5e-26   91.7   0.3     2   136   481   621   480   622 0.81 ABC transporter
+ABC_tran             PF00005.27   137 BGC0000521.1_ORF6:gid:lctF:pid:AAC72253.1:loc:7683:8604:strand:+ -            306   1.2e-31  110.0   1.0   1   1     8e-35   7.2e-31  107.5   0.0     2   137    23   163    22   163 0.93 ABC transporter
+AAA_21               PF13304.6    303 BGC0000521.1_ORF6:gid:lctF:pid:AAC72253.1:loc:7683:8604:strand:+ -            306   5.4e-14   52.7   1.7   1   1   6.8e-14   6.1e-10   39.4   0.1   233   298   131   194    70   199 0.79 AAA domain, putative AbiEii toxin, Type IV TA system
+ABC2_membrane_4      PF12730.7    179 BGC0000521.1_ORF7:gid:lctE:pid:AAC72254.1:loc:8603:9356:strand:+ -            250   3.8e-14   53.0  19.2   1   1   2.1e-18   3.8e-14   53.0  19.2     2   179     5   179     4   179 0.82 ABC-2 family transporter protein
+ABC2_membrane_4      PF12730.7    179 BGC0000521.1_ORF8:gid:lctG:pid:AAC72255.1:loc:9349:10087:strand:+ -            245   3.2e-19   69.6  20.4   1   1   1.8e-23   3.2e-19   69.6  20.4     1   177     5   181     5   184 0.84 ABC-2 family transporter protein
+DDE_Tnp_1            PF01609.21   214 BGC0000521.1_ORF9:gid:tpase:pid:AAC72256.1:loc:10387:11707:strand:+ -            439   7.9e-35  120.4   1.4   1   1   6.7e-39   1.2e-34  119.8   1.4     3   214   116   365   114   365 0.95 Transposase DDE domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000521.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000521.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000521.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:52:33 2019
+# [ok]

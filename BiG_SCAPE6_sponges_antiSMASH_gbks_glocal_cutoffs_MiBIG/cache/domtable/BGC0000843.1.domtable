@@ -1,0 +1,30 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Pkinase              PF00069.25   264 BGC0000843.1_ORF1:gid::pid:EFG07991.1:loc:0:1683:strand:- -            560   9.9e-38  130.0   0.0   1   1   1.4e-41   1.3e-37  129.6   0.0     1   198     9   208     9   256 0.91 Protein kinase domain
+Pkinase_Tyr          PF07714.17   259 BGC0000843.1_ORF1:gid::pid:EFG07991.1:loc:0:1683:strand:- -            560   4.4e-15   55.7   0.0   1   1   6.2e-19   5.6e-15   55.3   0.0     3   249    11   246     9   251 0.86 Protein tyrosine kinase
+Aminotran_3          PF00202.21   406 BGC0000843.1_ORF3:gid:cvm6:pid:EFG07993.1:loc:2652:4011:strand:- -            452   1.9e-91  306.8   0.0   1   1   1.3e-95   2.2e-91  306.5   0.0    10   405    36   441    29   442 0.94 Aminotransferase class-III
+Bac_luciferase       PF00296.20   314 BGC0000843.1_ORF4:gid:cvm5:pid:EFG07994.1:loc:4295:5480:strand:+ -            394   7.8e-31  107.7   2.4   1   1   1.3e-34   2.3e-30  106.1   2.4    19   241    27   297     8   360 0.84 Luciferase-like monooxygenase
+Abhydrolase_1        PF00561.20   257 BGC0000843.1_ORF5:gid:cvm4:pid:EFG07995.1:loc:5534:6521:strand:+ -            328   5.9e-11   42.5   0.1   1   1   4.1e-15   7.4e-11   42.2   0.1     3   127    39   173    37   301 0.84 alpha/beta hydrolase fold
+TauD                 PF02668.16   268 BGC0000843.1_ORF6:gid:cas1:pid:EFG07996.1:loc:6972:7947:strand:- -            324   1.9e-19   70.5   0.0   1   2   1.6e-10   2.8e-06   27.3   0.0    71   147   108   192    45   206 0.74 Taurine catabolism dioxygenase TauD, TfdA family
+TauD                 PF02668.16   268 BGC0000843.1_ORF6:gid:cas1:pid:EFG07996.1:loc:6972:7947:strand:- -            324   1.9e-19   70.5   0.0   2   2   9.6e-15   1.7e-10   41.1   0.0   207   268   237   299   214   299 0.84 Taurine catabolism dioxygenase TauD, TfdA family
+Aldo_ket_red         PF00248.21   294 BGC0000843.1_ORF7:gid:cvm1:pid:EFG07997.1:loc:8525:9560:strand:+ -            344   2.7e-66  223.8   0.0   1   1   1.8e-70   3.2e-66  223.5   0.0    13   292    45   324    34   326 0.95 Aldo/keto reductase family
+Flavin_Reduct        PF01613.18   155 BGC0000843.1_ORF9:gid:cvm3:pid:EFG07999.1:loc:10448:10959:strand:+ -            170   3.6e-28   98.6   0.0   1   1   2.5e-32   4.4e-28   98.3   0.0     2   152    25   168    24   170 0.88 Flavin reductase like domain
+BTAD                 PF03704.17   146 BGC0000843.1_ORF10:gid:cvm7:pid:EFG08000.1:loc:11105:14450:strand:- -           1114   1.7e-27   96.7   6.6   1   1   3.7e-31   1.7e-27   96.7   6.6     1   146   108   253   108   253 0.99 Bacterial transcriptional activator domain
+AAA_16               PF13191.6    170 BGC0000843.1_ORF10:gid:cvm7:pid:EFG08000.1:loc:11105:14450:strand:- -           1114   7.4e-18   65.5   1.1   1   1   1.7e-21   7.4e-18   65.5   1.1     1   170   369   525   369   525 0.81 AAA ATPase domain
+Trans_reg_C          PF00486.28    77 BGC0000843.1_ORF10:gid:cvm7:pid:EFG08000.1:loc:11105:14450:strand:- -           1114   3.1e-07   30.4   0.0   1   1     2e-10     9e-07   28.9   0.0     3    76    27   100    25   101 0.84 Transcriptional regulatory protein, C terminal
+LysE                 PF01810.18   193 BGC0000843.1_ORF11:gid:cvm11:pid:EFG08001.1:loc:14841:15492:strand:- -            216   2.1e-28   99.1  10.2   1   1   1.2e-32   2.1e-28   99.1  10.2     3   192    17   207    15   208 0.96 LysE type translocator
+GntR                 PF00392.21    64 BGC0000843.1_ORF12:gid:cvm12:pid:EFG08002.1:loc:15792:17130:strand:+ -            445   9.6e-12   44.4   0.4   1   1   3.8e-15   6.9e-11   41.6   0.1     2    64     4    66     3    66 0.99 Bacterial regulatory proteins, gntR family
+Asparaginase_2       PF01112.18   306 BGC0000843.1_ORF13:gid:cvm13:pid:EFG08003.1:loc:17256:18429:strand:+ -            390  1.4e-103  346.2   2.9   1   1    1e-107  1.9e-103  345.7   2.9     2   301    73   377    72   382 0.96 Asparaginase
+Abhydrolase_6        PF12697.7    220 BGC0000843.1_ORF14:gid:cvmH:pid:EFG08004.1:loc:19574:20531:strand:+ -            318     1e-11   45.9  17.3   1   1   8.9e-16   1.6e-11   45.3  17.3     1   207    37   262    37   285 0.53 Alpha/beta hydrolase family
+PAD                  PF03068.15   389 BGC0000843.1_ORF15:gid:cvmP:pid:EFG08005.1:loc:20661:22725:strand:- -            687  2.5e-125  418.5   0.0   1   1  1.7e-129  3.1e-125  418.2   0.0     3   389   255   682   253   682 0.93 Protein-arginine deiminase (PAD)
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000843.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000843.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000843.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:35:58 2019
+# [ok]

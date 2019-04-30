@@ -1,0 +1,19 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.28   423 BGC0000442.1_ORF1:gid::pid:CBF80711.1:loc:0:2913:strand:- -            949   1.3e-55  188.7   0.0   1   1   3.5e-59   2.1e-55  188.0   0.0    16   422    39   462    25   463 0.82 AMP-binding enzyme
+Thioesterase         PF00975.20   231 BGC0000442.1_ORF1:gid::pid:CBF80711.1:loc:0:2913:strand:- -            949   4.4e-25   89.1   0.0   1   1   2.2e-28   1.3e-24   87.6   0.0     2   227   700   940   699   944 0.77 Thioesterase domain
+PP-binding           PF00550.25    67 BGC0000442.1_ORF1:gid::pid:CBF80711.1:loc:0:2913:strand:- -            949     3e-05   24.3   0.4   1   1   1.2e-08   7.1e-05   23.1   0.4     2    64   600   666   599   669 0.89 Phosphopantetheine attachment site
+Trp_DMAT             PF11991.8    364 BGC0000442.1_ORF2:gid::pid:CBF80712.1:loc:3302:4695:strand:+ -            419   3.9e-90  302.9   0.0   1   1   2.6e-94   4.7e-90  302.6   0.0     3   357     4   359     2   366 0.92 Tryptophan dimethylallyltransferase
+Aminotran_1_2        PF00155.21   363 BGC0000442.1_ORF4:gid::pid:CBF80716.1:loc:6629:8303:strand:+ -            444   7.9e-24   84.5   0.0   1   1     1e-27   9.4e-24   84.2   0.0    68   363   120   433    81   433 0.84 Aminotransferase class I and II
+Aminotran_MocR       PF12897.7    421 BGC0000442.1_ORF4:gid::pid:CBF80716.1:loc:6629:8303:strand:+ -            444   1.1e-13   50.8   0.0   1   1   3.9e-17   3.5e-13   49.1   0.0    27   409    42   437    32   443 0.78 Alanine-glyoxylate amino-transferase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000442.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000442.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000442.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:54:49 2019
+# [ok]

@@ -1,0 +1,20 @@
+#                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+LANC_like            PF05147.13   352 BGC0000563.1_ORF1:gid:venL:pid:AEA03262.1:loc:185:3038:strand:+ -            950     2e-42  145.0   0.0   1   1   3.2e-46   2.9e-42  144.5   0.0     3   347   590   934   588   936 0.92 Lanthionine synthetase C-like protein
+Pkinase              PF00069.25   264 BGC0000563.1_ORF1:gid:venL:pid:AEA03262.1:loc:185:3038:strand:+ -            950   1.1e-15   57.7   0.0   1   1   1.8e-19   1.6e-15   57.2   0.0    12   197   242   436   233   489 0.87 Protein kinase domain
+ABC_tran             PF00005.27   137 BGC0000563.1_ORF3:gid:venT:pid:AEA03264.1:loc:3294:4422:strand:+ -            375   1.6e-31  109.6   0.0   1   1   2.4e-35   2.1e-31  109.2   0.0     2   136    56   198    55   199 0.94 ABC transporter
+AAA_21               PF13304.6    303 BGC0000563.1_ORF3:gid:venT:pid:AEA03264.1:loc:3294:4422:strand:+ -            375   3.2e-12   46.9   0.8   1   1   8.4e-13   7.5e-09   35.8   0.1   227   297   161   229   124   232 0.87 AAA domain, putative AbiEii toxin, Type IV TA system
+ABC2_membrane        PF01061.24   210 BGC0000563.1_ORF4:gid:venH:pid:AEA03265.1:loc:4418:5330:strand:+ -            303   4.1e-27   95.0   8.6   1   1   8.8e-31   5.2e-27   94.6   8.6     2   206    45   252    44   255 0.92 ABC-2 type transporter
+ABC2_membrane_3      PF12698.7    345 BGC0000563.1_ORF4:gid:venH:pid:AEA03265.1:loc:4418:5330:strand:+ -            303   2.5e-17   63.0   2.4   1   1   5.6e-21   3.4e-17   62.6   2.4   157   343    93   296    83   297 0.89 ABC-2 family transporter protein
+ABC2_membrane_2      PF12679.7    288 BGC0000563.1_ORF4:gid:venH:pid:AEA03265.1:loc:4418:5330:strand:+ -            303   1.3e-07   31.2   6.5   1   1   2.6e-11   1.6e-07   31.0   6.5    86   285   102   301    35   303 0.75 ABC-2 family transporter protein
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000563.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000563.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000563.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:33:11 2019
+# [ok]

@@ -1,0 +1,35 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.28   423 BGC0000384.1_ORF1:gid::pid:AAT12283.1:loc:2739:10182:strand:+ -           2480    3e-201  668.5   0.0   1   2     7e-99     9e-96  321.0   0.0     1   423    23   416    23   416 0.89 AMP-binding enzyme
+AMP-binding          PF00501.28   423 BGC0000384.1_ORF1:gid::pid:AAT12283.1:loc:2739:10182:strand:+ -           2480    3e-201  668.5   0.0   2   2  2.4e-106  3.1e-103  345.6   0.0     1   423  1492  1896  1492  1896 0.88 AMP-binding enzyme
+Condensation         PF00668.20   457 BGC0000384.1_ORF1:gid::pid:AAT12283.1:loc:2739:10182:strand:+ -           2480   1.2e-89  301.1   0.0   1   1     2e-92   2.5e-89  300.1   0.0     4   457  1024  1473  1022  1473 0.90 Condensation domain
+NAD_binding_4        PF07993.12   257 BGC0000384.1_ORF1:gid::pid:AAT12283.1:loc:2739:10182:strand:+ -           2480   2.3e-68  230.1   0.0   1   1     4e-71   5.1e-68  229.0   0.0     1   257  2111  2351  2111  2351 0.97 Male sterility protein
+PP-binding           PF00550.25    67 BGC0000384.1_ORF1:gid::pid:AAT12283.1:loc:2739:10182:strand:+ -           2480   8.1e-34  115.8   1.4   1   2   4.7e-18     6e-15   55.3   0.1     2    67   943  1006   942  1006 0.94 Phosphopantetheine attachment site
+PP-binding           PF00550.25    67 BGC0000384.1_ORF1:gid::pid:AAT12283.1:loc:2739:10182:strand:+ -           2480   8.1e-34  115.8   1.4   2   2   5.5e-19   7.1e-16   58.3   0.2     3    64  2005  2064  2004  2067 0.95 Phosphopantetheine attachment site
+AMP-binding_C        PF13193.6     76 BGC0000384.1_ORF1:gid::pid:AAT12283.1:loc:2739:10182:strand:+ -           2480   2.5e-18   66.8   0.2   1   1   1.3e-12   1.7e-09   38.5   0.0     1    76  1904  1977  1904  1977 0.92 AMP-binding enzyme C-terminal domain
+Epimerase            PF01370.21   241 BGC0000384.1_ORF1:gid::pid:AAT12283.1:loc:2739:10182:strand:+ -           2480   3.3e-13   49.7   0.0   1   1   4.1e-16   5.3e-13   49.0   0.0     1   234  2109  2363  2109  2369 0.80 NAD dependent epimerase/dehydratase family
+Methyltransf_12      PF08242.12    99 BGC0000384.1_ORF1:gid::pid:AAT12283.1:loc:2739:10182:strand:+ -           2480   2.9e-12   47.2   0.0   1   1   5.8e-15   7.4e-12   45.9   0.0     1    99   533   633   533   633 0.81 Methyltransferase domain
+Methyltransf_25      PF13649.6     97 BGC0000384.1_ORF1:gid::pid:AAT12283.1:loc:2739:10182:strand:+ -           2480   4.4e-12   46.5   0.0   1   1   9.6e-15   1.2e-11   45.1   0.0     1    97   532   631   532   631 0.91 Methyltransferase domain
+Methyltransf_11      PF08241.12    96 BGC0000384.1_ORF1:gid::pid:AAT12283.1:loc:2739:10182:strand:+ -           2480     6e-12   46.1   0.0   1   1   1.6e-14   2.1e-11   44.3   0.0     1    96   533   635   533   635 0.95 Methyltransferase domain
+Methyltransf_23      PF13489.6    165 BGC0000384.1_ORF1:gid::pid:AAT12283.1:loc:2739:10182:strand:+ -           2480   7.9e-10   38.8   0.0   1   1   1.4e-12   1.7e-09   37.7   0.0    21   121   527   639   510   682 0.73 Methyltransferase domain
+Methyltransf_31      PF13847.6    152 BGC0000384.1_ORF1:gid::pid:AAT12283.1:loc:2739:10182:strand:+ -           2480   4.8e-08   32.9   0.0   1   1   9.1e-11   1.2e-07   31.7   0.0     6   117   531   643   528   684 0.80 Methyltransferase domain
+3Beta_HSD            PF01073.19   280 BGC0000384.1_ORF1:gid::pid:AAT12283.1:loc:2739:10182:strand:+ -           2480   1.9e-07   30.4   0.0   1   1   2.8e-10   3.5e-07   29.5   0.0     2   163  2111  2288  2110  2319 0.76 3-beta hydroxysteroid dehydrogenase/isomerase family
+NodS                 PF05401.11   201 BGC0000384.1_ORF1:gid::pid:AAT12283.1:loc:2739:10182:strand:+ -           2480   5.3e-06   26.2   0.0   1   1   8.3e-09   1.1e-05   25.2   0.0    43   150   528   641   502   680 0.81 Nodulation protein S (NodS)
+Polysacc_synt_2      PF02719.15   294 BGC0000384.1_ORF1:gid::pid:AAT12283.1:loc:2739:10182:strand:+ -           2480   7.4e-06   25.3   0.0   1   1   1.2e-08   1.5e-05   24.3   0.0     1   129  2109  2242  2109  2257 0.78 Polysaccharide biosynthesis protein
+p450                 PF00067.22   463 BGC0000384.1_ORF2:gid::pid:AAT12284.1:loc:10184:11567:strand:+ -            460   3.6e-28   98.5   0.0   1   1   1.7e-25   1.5e-21   76.7   0.3   214   432   243   429   224   448 0.85 Cytochrome P450
+MbtH                 PF03621.13    53 BGC0000384.1_ORF2:gid::pid:AAT12284.1:loc:10184:11567:strand:+ -            460   9.4e-21   73.0   0.9   1   1   1.8e-24   1.6e-20   72.2   0.9     1    52     1    52     1    53 0.98 MbtH-like protein
+Trp_DMAT             PF11991.8    364 BGC0000384.1_ORF3:gid::pid:AAT12285.1:loc:11729:12902:strand:+ -            390   2.3e-13   50.3   0.0   1   1   2.9e-16   5.2e-12   45.9   0.0    28   355    63   343    46   350 0.76 Tryptophan dimethylallyltransferase
+adh_short_C2         PF13561.6    234 BGC0000384.1_ORF4:gid::pid:AAT12286.1:loc:13258:13999:strand:+ -            246   3.1e-65  220.0   0.4   1   1   6.1e-69   3.6e-65  219.8   0.4     3   233    15   245    11   246 0.96 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.25   195 BGC0000384.1_ORF4:gid::pid:AAT12286.1:loc:13258:13999:strand:+ -            246   5.9e-52  176.0   0.2   1   1   1.2e-55   7.4e-52  175.7   0.2     1   189     7   194     7   199 0.98 short chain dehydrogenase
+KR                   PF08659.10   180 BGC0000384.1_ORF4:gid::pid:AAT12286.1:loc:13258:13999:strand:+ -            246   1.3e-16   61.1   0.9   1   1     3e-20   1.8e-16   60.6   0.9     4   161    10   166     8   186 0.90 KR domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000384.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000384.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000384.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:32:11 2019
+# [ok]

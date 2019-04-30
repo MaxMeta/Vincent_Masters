@@ -1,0 +1,80 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="373.7" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="363.7" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg3734_6)</title>
+			<polygon class=" (ctg3734_6)" points="19,40 37,10 37,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3734_7)</title>
+			<polygon class=" (ctg3734_7)" points="47,10 53,40 47,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3734_8)</title>
+			<polygon class=" (ctg3734_8)" points="63,40 90,10 90,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>RCC1_2 (PF13540)
+"Regulator of chromosome condensation (RCC1) repeat"</title>
+				<polygon class="PF13540" points="67,40 69,38 69,42 67,40" stroke-linejoin="round" width="2" height="24" fill="rgb(81,70,188)" stroke="rgb(64,56,150)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>RCC1_2 (PF13540)
+"Regulator of chromosome condensation (RCC1) repeat"</title>
+				<rect class="PF13540" x="80" y="28" stroke-linejoin="round" width="2" height="24" fill="rgb(81,70,188)" stroke="rgb(64,56,150)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>RCC1_2 (PF13540)
+"Regulator of chromosome condensation (RCC1) repeat"</title>
+				<rect class="PF13540" x="87" y="28" stroke-linejoin="round" width="2" height="24" fill="rgb(81,70,188)" stroke="rgb(64,56,150)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3734_9)</title>
+			<polygon class=" (ctg3734_9)" points="92,40 114,10 114,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3734_10)</title>
+			<polygon class=" (ctg3734_10)" points="133,10 142,40 133,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3734_11)</title>
+			<polygon class=" (ctg3734_11)" points="143,40 157,10 157,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3734_12)</title>
+			<polygon class=" (ctg3734_12)" points="176,10 184,40 176,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NHase_alpha (PF02979)
+"Nitrile hydratase, alpha chain"</title>
+				<polygon class="PF02979" points="177,28 177,28 181,40 177,52 177,52" stroke-linejoin="round" width="6" height="24" fill="rgb(204,148,70)" stroke="rgb(163,118,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3734_13)</title>
+			<polygon class=" (ctg3734_13)" points="187,10 196,40 187,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NHase_alpha (PF02979)
+"Nitrile hydratase, alpha chain"</title>
+				<polygon class="PF02979" points="188,28 188,28 192,40 188,52 188,52" stroke-linejoin="round" width="6" height="24" fill="rgb(204,148,70)" stroke="rgb(163,118,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3734_14)</title>
+			<polygon class=" (ctg3734_14)" points="196,25 201,25 201,10 231,40 201,70 201,55 196,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3734_15)</title>
+			<polygon class=" (ctg3734_15)" points="331,25 264,25 264,10 234,40 264,70 264,55 331,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="241,37 250,28 255,28 255,52 250,52 241,43" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="262" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

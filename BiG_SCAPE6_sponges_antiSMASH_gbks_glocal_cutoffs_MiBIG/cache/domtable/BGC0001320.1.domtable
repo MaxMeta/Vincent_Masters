@@ -1,0 +1,18 @@
+#                                                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DIOX_N               PF14226.6    118 BGC0001320.1_ORF1:gid:PGSC0003DMG400011751:pid::loc:202:1473:strand:+ -            341   1.1e-26   94.0   0.0   1   1   1.9e-30   1.7e-26   93.3   0.0     1   116    37   150    37   156 0.87 non-haem dioxygenase in morphine synthesis N-terminal
+2OG-FeII_Oxy         PF03171.20   101 BGC0001320.1_ORF1:gid:PGSC0003DMG400011751:pid::loc:202:1473:strand:+ -            341   3.6e-21   75.6   0.0   1   1   1.2e-24   1.1e-20   74.0   0.0     5   101   197   291   194   291 0.92 2OG-Fe(II) oxygenase superfamily
+p450                 PF00067.22   463 BGC0001320.1_ORF2:gid:PGSC0003DMG400011750:pid::loc:39342:41337:strand:+ -            517   3.3e-89  299.8   0.0   1   1   2.5e-93   4.6e-89  299.3   0.0    25   456    82   505    71   511 0.91 Cytochrome P450
+UDPGT                PF00201.18   499 BGC0001320.1_ORF3:gid:PGSC0003DMG400011749:pid::loc:108408:109875:strand:+ -            488   3.7e-24   85.4   0.0   1   1   8.6e-28   1.5e-23   83.3   0.0   264   389   276   411   104   417 0.73 UDP-glucoronosyl and UDP-glucosyl transferase
+Aminotran_3          PF00202.21   406 BGC0001320.1_ORF4:gid:PGSC0003DMG400024281:pid::loc:110228:114161:strand:- -            298   1.7e-23   82.9   1.2   1   1   9.9e-17   1.8e-12   46.7   0.1   218   262   168   212   161   212 0.94 Aminotransferase class-III
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001320.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001320.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001320.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:37:39 2019
+# [ok]

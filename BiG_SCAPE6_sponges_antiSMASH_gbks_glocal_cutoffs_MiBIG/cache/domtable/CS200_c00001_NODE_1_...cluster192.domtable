@@ -1,0 +1,23 @@
+#                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ketoacyl-synt        PF00109.26   253 CS200_c00001_NODE_1_...cluster192_ORF1:gid::pid::loc:2:2249:strand:+ -            748     4e-73  246.1   2.4   1   1     9e-77     4e-73  246.1   2.4     4   253     1   242     1   242 0.94 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.22   118 CS200_c00001_NODE_1_...cluster192_ORF1:gid::pid::loc:2:2249:strand:+ -            748   1.7e-39  134.5   0.7   1   1   3.9e-43   1.7e-39  134.5   0.7     2   118   251   368   250   368 0.99 Beta-ketoacyl synthase, C-terminal domain
+Acyl_transf_1        PF00698.21   319 CS200_c00001_NODE_1_...cluster192_ORF1:gid::pid::loc:2:2249:strand:+ -            748     2e-14   53.8   0.1   1   1   6.8e-18     3e-14   53.2   0.1     3   114   554   666   552   675 0.92 Acyl transferase domain
+KAsynt_C_assoc       PF16197.5    112 CS200_c00001_NODE_1_...cluster192_ORF1:gid::pid::loc:2:2249:strand:+ -            748   2.1e-10   41.0   0.0   1   1   1.2e-13   5.2e-10   39.8   0.0     1    87   370   482   370   494 0.88 Ketoacyl-synthetase C-terminal extension
+Helicase_C           PF00271.31   111 CS200_c00001_NODE_1_...cluster192_ORF2:gid::pid::loc:2343:5700:strand:+ -           1118   6.1e-12   45.9   0.0   1   1   3.8e-15   2.2e-11   44.0   0.0    16   109   569   675   564   676 0.83 Helicase conserved C-terminal domain
+SNF2_N               PF00176.23   350 CS200_c00001_NODE_1_...cluster192_ORF2:gid::pid::loc:2343:5700:strand:+ -           1118   2.8e-08   32.9   0.0   1   1   1.3e-11   7.9e-08   31.4   0.0    60   237   147   321   145   364 0.75 SNF2 family N-terminal domain
+ResIII               PF04851.15   171 CS200_c00001_NODE_1_...cluster192_ORF2:gid::pid::loc:2343:5700:strand:+ -           1118   7.7e-08   32.5   0.0   1   1   2.7e-11   1.6e-07   31.5   0.0    25   170   143   300   123   301 0.67 Type III restriction enzyme, res subunit
+N6_Mtase             PF02384.16   312 CS200_c00001_NODE_1_...cluster192_ORF3:gid::pid::loc:5704:9733:strand:+ -           1342   8.6e-06   25.2   0.0   1   1   5.5e-09   9.8e-05   21.8   0.0    19   104   540   668   534   687 0.86 N-6 DNA Methylase
+Peptidase_M78        PF06114.13   123 CS200_c00001_NODE_1_...cluster192_ORF5:gid::pid::loc:10703:11867:strand:+ -            387   4.3e-15   55.7   0.0   1   1   3.6e-19   6.5e-15   55.2   0.0    17   122   181   296   165   297 0.85 IrrE N-terminal-like domain
+DUF4411              PF14367.6    162 CS200_c00001_NODE_1_...cluster192_ORF6:gid::pid::loc:11866:12454:strand:+ -            195   4.9e-47  159.8   0.0   1   1   3.1e-51   5.6e-47  159.6   0.0     1   162     3   158     3   158 0.97 Domain of unknown function (DUF4411)
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS200_c00001_NODE_1_...cluster192.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS200_c00001_NODE_1_...cluster192.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS200_c00001_NODE_1_...cluster192.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:52:50 2019
+# [ok]

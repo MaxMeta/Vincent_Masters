@@ -1,0 +1,22 @@
+#                                                                                                                          --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                         accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                               -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Condensation         PF00668.20   457 BGC0000342.1_ORF1:gid:esyn1:pid:CAA79245.2:loc:1020:10416:strand:+ -           3131  3.3e-143  477.7   0.0   1   3   3.3e-13   9.9e-10   37.7   0.0    21   451    53   466    35   471 0.75 Condensation domain
+Condensation         PF00668.20   457 BGC0000342.1_ORF1:gid:esyn1:pid:CAA79245.2:loc:1020:10416:strand:+ -           3131  3.3e-143  477.7   0.0   2   3   1.6e-88   4.6e-85  286.0   0.0     8   448  1105  1534  1101  1540 0.91 Condensation domain
+Condensation         PF00668.20   457 BGC0000342.1_ORF1:gid:esyn1:pid:CAA79245.2:loc:1020:10416:strand:+ -           3131  3.3e-143  477.7   0.0   3   3   6.7e-47     2e-43  148.7   0.0     2   430  2718  3123  2717  3129 0.86 Condensation domain
+AMP-binding          PF00501.28   423 BGC0000342.1_ORF1:gid:esyn1:pid:CAA79245.2:loc:1020:10416:strand:+ -           3131  8.6e-135  449.6   0.0   1   2   1.7e-65     5e-62  209.9   0.0     6   423   495   887   491   887 0.86 AMP-binding enzyme
+AMP-binding          PF00501.28   423 BGC0000342.1_ORF1:gid:esyn1:pid:CAA79245.2:loc:1020:10416:strand:+ -           3131  8.6e-135  449.6   0.0   2   2   6.2e-74   1.8e-70  237.6   0.0     1   423  1563  1960  1563  1960 0.86 AMP-binding enzyme
+PP-binding           PF00550.25    67 BGC0000342.1_ORF1:gid:esyn1:pid:CAA79245.2:loc:1020:10416:strand:+ -           3131   2.7e-27   94.9   0.1   1   3   3.6e-11   1.1e-07   32.1   0.0     2    64  1018  1079  1017  1082 0.93 Phosphopantetheine attachment site
+PP-binding           PF00550.25    67 BGC0000342.1_ORF1:gid:esyn1:pid:CAA79245.2:loc:1020:10416:strand:+ -           3131   2.7e-27   94.9   0.1   2   3   6.8e-12     2e-08   34.4   0.0     3    64  2513  2571  2512  2572 0.92 Phosphopantetheine attachment site
+PP-binding           PF00550.25    67 BGC0000342.1_ORF1:gid:esyn1:pid:CAA79245.2:loc:1020:10416:strand:+ -           3131   2.7e-27   94.9   0.1   3   3   1.4e-08   4.3e-05   23.8   0.0     3    45  2607  2646  2605  2647 0.89 Phosphopantetheine attachment site
+Methyltransf_11      PF08241.12    96 BGC0000342.1_ORF1:gid:esyn1:pid:CAA79245.2:loc:1020:10416:strand:+ -           3131   2.8e-05   24.7   0.0   1   1   3.7e-08   0.00011   22.8   0.0     1    79  2086  2168  2086  2176 0.90 Methyltransferase domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000342.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000342.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000342.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:52:07 2019
+# [ok]

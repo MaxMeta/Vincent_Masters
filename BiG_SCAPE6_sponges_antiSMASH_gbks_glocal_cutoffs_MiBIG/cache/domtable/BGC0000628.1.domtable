@@ -1,0 +1,22 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+YcaO                 PF02624.16   323 BGC0000628.1_ORF4:gid::pid:EFJ68963.1:loc:1549:3307:strand:+ -            585   5.4e-45  154.1   0.0   1   1   3.9e-49     7e-45  153.7   0.0     2   322   198   547   197   548 0.82 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+Lant_dehydr_N        PF04738.13   653 BGC0000628.1_ORF5:gid::pid:EFJ68964.1:loc:3375:5910:strand:+ -            844   5.6e-24   84.2   0.0   1   1     2e-27   3.6e-23   81.5   0.0    17   611   135   738   118   756 0.79 Lantibiotic dehydratase, N terminus
+Lant_dehydr_C        PF14028.6    312 BGC0000628.1_ORF6:gid::pid:EFJ68965.1:loc:5899:6742:strand:+ -            280   1.7e-36  126.4   0.2   1   1   5.6e-34     1e-29  104.1   0.1     1   194     7   190     7   205 0.85 Lantibiotic biosynthesis dehydratase C-term
+AMP-binding          PF00501.28   423 BGC0000628.1_ORF10:gid:acsA-1:pid:EFJ68969.1:loc:9083:10556:strand:+ -            490   4.7e-41  140.8   0.0   1   1   3.9e-45     7e-41  140.2   0.0     7   421    19   387    16   389 0.86 AMP-binding enzyme
+Abhydrolase_1        PF00561.20   257 BGC0000628.1_ORF11:gid::pid:EFJ68970.1:loc:10557:11445:strand:+ -            295   1.3e-20   74.2   0.0   1   1   3.4e-24     3e-20   72.9   0.0     1   257    23   280    23   280 0.80 alpha/beta hydrolase fold
+Hydrolase_4          PF12146.8    239 BGC0000628.1_ORF11:gid::pid:EFJ68970.1:loc:10557:11445:strand:+ -            295   2.2e-10   40.2   0.0   1   1     8e-14   7.1e-10   38.5   0.0    27   237    46   278    25   280 0.72 Serine aminopeptidase, S33
+TipAS                PF07739.13   117 BGC0000628.1_ORF12:gid::pid:EFJ68971.1:loc:11413:11875:strand:+ -            153   1.4e-22   80.4   0.1   1   1   1.1e-26     2e-22   79.9   0.1     2   117    20   133    19   133 0.97 TipAS antibiotic-recognition domain
+AAA                  PF00004.29   132 BGC0000628.1_ORF13:gid::pid:EFJ68972.1:loc:11882:12770:strand:+ -            295   2.1e-27   96.2   0.1   1   1   5.5e-31   4.9e-27   94.9   0.0     3   131    80   204    78   205 0.95 ATPase family associated with various cellular activities (AAA)
+Phage_integrase      PF00589.22   172 BGC0000628.1_ORF14:gid::pid:EFJ68973.1:loc:13188:13800:strand:+ -            203   5.2e-18   65.4   0.1   1   1   3.6e-22   6.4e-18   65.1   0.1    12   168    22   187    12   191 0.87 Phage integrase family
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000628.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000628.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000628.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:54:56 2019
+# [ok]

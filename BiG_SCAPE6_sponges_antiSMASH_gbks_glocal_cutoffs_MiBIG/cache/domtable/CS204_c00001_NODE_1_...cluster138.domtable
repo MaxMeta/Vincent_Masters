@@ -1,0 +1,15 @@
+#                                                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DDE_Tnp_1            PF01609.21   214 CS204_c00001_NODE_1_...cluster138_ORF15:gid::pid::loc:6843:7422:strand:+ -            192   1.9e-09   37.5   0.1   1   1   1.4e-13   2.4e-09   37.1   0.1    37   135    96   190    64   192 0.83 Transposase DDE domain
+DDE_Tnp_1            PF01609.21   214 CS204_c00001_NODE_1_...cluster138_ORF21:gid::pid::loc:9951:10530:strand:+ -            192   1.9e-09   37.5   0.1   1   1   1.4e-13   2.4e-09   37.1   0.1    37   135    96   190    64   192 0.83 Transposase DDE domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS204_c00001_NODE_1_...cluster138.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS204_c00001_NODE_1_...cluster138.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS204_c00001_NODE_1_...cluster138.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:52:03 2019
+# [ok]

@@ -1,0 +1,26 @@
+#                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SchA_CurD            PF04486.12   119 BGC0000215.1_ORF1:gid:CurD:pid:CAA44378.1:loc:200:1304:strand:+ -            367   3.5e-51  172.3   0.1   1   1   4.9e-50   2.9e-46  156.4   0.3     2   118   130   240   129   241 0.98 SchA/CurD like domain
+Cupin_2              PF07883.11    71 BGC0000215.1_ORF2:gid:CurC:pid:CAA44379.1:loc:1348:1813:strand:+ -            154   5.9e-21   74.0   0.2   1   1   1.4e-24   8.3e-21   73.5   0.2     2    68    42   108    41   111 0.96 Cupin domain
+AraC_binding         PF02311.19   136 BGC0000215.1_ORF2:gid:CurC:pid:CAA44379.1:loc:1348:1813:strand:+ -            154   3.3e-07   30.3   0.0   1   1   7.2e-11   4.3e-07   29.9   0.0    10    68    45   104    37   114 0.89 AraC-like ligand binding domain
+MannoseP_isomer      PF01050.18   151 BGC0000215.1_ORF2:gid:CurC:pid:CAA44379.1:loc:1348:1813:strand:+ -            154   2.3e-06   27.6   0.0   1   1   5.5e-10   3.3e-06   27.1   0.0    69   131    44   106    35   110 0.92 Mannose-6-phosphate isomerase
+ketoacyl-synt        PF00109.26   253 BGC0000215.1_ORF3:gid:CurA:pid:CAA44380.1:loc:1809:3078:strand:+ -            422   8.8e-56  189.3   0.3   1   1   9.8e-60   8.8e-56  189.3   0.3     2   253     3   252     2   252 0.94 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.22   118 BGC0000215.1_ORF3:gid:CurA:pid:CAA44380.1:loc:1809:3078:strand:+ -            422     5e-34  116.8   0.7   1   1   9.5e-38   8.5e-34  116.1   0.7     1   117   260   374   260   375 0.98 Beta-ketoacyl synthase, C-terminal domain
+ketoacyl-synt        PF00109.26   253 BGC0000215.1_ORF4:gid:CurB:pid:CAA44381.1:loc:3074:4334:strand:+ -            419   1.9e-33  116.2   2.2   1   1   2.1e-37   1.9e-33  116.2   2.2     2   252    11   254    10   255 0.89 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.22   118 BGC0000215.1_ORF4:gid:CurB:pid:CAA44381.1:loc:3074:4334:strand:+ -            419   2.3e-19   69.6   0.9   1   1   6.4e-22   5.7e-18   65.0   0.2     2   117   264   374   263   375 0.92 Beta-ketoacyl synthase, C-terminal domain
+PP-binding           PF00550.25    67 BGC0000215.1_ORF5:gid:CurE:pid:CAA44382.1:loc:4417:4678:strand:+ -             86   9.2e-06   25.9   0.0   1   1   7.3e-10   1.3e-05   25.4   0.0     2    46    12    59    11    78 0.83 Phosphopantetheine attachment site
+Polyketide_cyc       PF03364.20   130 BGC0000215.1_ORF6:gid:CurF:pid:CAA44383.1:loc:4679:5138:strand:+ -            152   2.2e-16   60.3   0.9   1   1   4.3e-20   2.6e-16   60.0   0.9     1   112    11   123    11   137 0.86 Polyketide cyclase / dehydrase and lipid transport
+Polyketide_cyc2      PF10604.9    143 BGC0000215.1_ORF6:gid:CurF:pid:CAA44383.1:loc:4679:5138:strand:+ -            152   1.1e-14   54.8   1.4   1   1     2e-18   1.2e-14   54.8   1.4     3   126     4   128     2   145 0.78 Polyketide cyclase / dehydrase and lipid transport
+AHSA1                PF08327.11   125 BGC0000215.1_ORF6:gid:CurF:pid:CAA44383.1:loc:4679:5138:strand:+ -            152   2.5e-05   24.5   1.4   1   1   5.1e-09     3e-05   24.2   1.4     2   101    13   117    12   132 0.67 Activator of Hsp90 ATPase homolog 1-like protein
+Cyclase_polyket      PF04673.12   104 BGC0000215.1_ORF7:gid:CurG:pid:CAA44384.1:loc:5122:5446:strand:+ -            107   5.5e-38  129.4   0.0   1   1   3.4e-42   6.1e-38  129.2   0.0     1   104     2   105     2   105 0.99 Polyketide synthesis cyclase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000215.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000215.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000215.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:47:56 2019
+# [ok]

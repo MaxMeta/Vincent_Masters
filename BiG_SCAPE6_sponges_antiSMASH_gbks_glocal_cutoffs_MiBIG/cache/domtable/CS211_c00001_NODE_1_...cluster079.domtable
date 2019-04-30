@@ -1,0 +1,19 @@
+#                                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MMPL                 PF03176.15   333 CS211_c00001_NODE_1_...cluster079_ORF1:gid::pid::loc:1016:3344:strand:+ -            775   9.5e-37  126.7  27.5   1   2   3.1e-23   2.7e-19   69.3   8.3    70   312   127   392    61   420 0.82 MMPL family
+MMPL                 PF03176.15   333 CS211_c00001_NODE_1_...cluster079_ORF1:gid::pid::loc:1016:3344:strand:+ -            775   9.5e-37  126.7  27.5   2   2   1.8e-21   1.6e-17   63.4  11.2    87   305   556   768   497   775 0.85 MMPL family
+Sterol-sensing       PF12349.8    153 CS211_c00001_NODE_1_...cluster079_ORF1:gid::pid::loc:1016:3344:strand:+ -            775   9.7e-13   48.2   7.5   1   1   2.7e-15   2.4e-11   43.7   0.2     7   142   253   387   247   397 0.88 Sterol-sensing domain of SREBP cleavage-activation
+YcaO                 PF02624.16   323 CS211_c00001_NODE_1_...cluster079_ORF4:gid::pid::loc:5000:7319:strand:- -            772   3.2e-92  309.3   0.8   1   1   2.5e-96   4.5e-92  308.8   0.8     2   323   399   735   398   735 0.87 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+FA_desaturase        PF00487.24   254 CS211_c00001_NODE_1_...cluster079_ORF5:gid::pid::loc:7351:9520:strand:- -            722   4.1e-25   89.1  22.6   1   1   4.6e-29   4.1e-25   89.1  22.6     3   233    45   255    42   272 0.84 Fatty acid desaturase
+GlnE                 PF03710.15   251 CS211_c00001_NODE_1_...cluster079_ORF5:gid::pid::loc:7351:9520:strand:- -            722   2.6e-07   30.3   0.0   1   1   4.4e-09   3.9e-05   23.2   0.0     3   156   321   494   319   507 0.69 Glutamate-ammonia ligase adenylyltransferase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster079.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS211_c00001_NODE_1_...cluster079.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster079.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:52:30 2019
+# [ok]

@@ -1,0 +1,25 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+GATase               PF00117.28   190 CS211_c00001_NODE_1_...cluster204_ORF1:gid::pid::loc:1:757:strand:+ -            251   2.1e-38  132.0   0.0   1   1     3e-42   2.7e-38  131.7   0.0     2   178    54   226    53   233 0.92 Glutamine amidotransferase class-I
+Peptidase_C26        PF07722.13   216 CS211_c00001_NODE_1_...cluster204_ORF1:gid::pid::loc:1:757:strand:+ -            251   2.7e-12   46.9   0.0   1   1   6.3e-16   5.7e-12   45.9   0.0    97   216   113   220   104   220 0.84 Peptidase C26
+adh_short_C2         PF13561.6    234 CS211_c00001_NODE_1_...cluster204_ORF2:gid::pid::loc:873:1614:strand:- -            246   1.1e-58  198.5   1.9   1   1   1.4e-62   1.3e-58  198.3   1.9     2   231    14   242    13   245 0.90 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.25   195 CS211_c00001_NODE_1_...cluster204_ORF2:gid::pid::loc:873:1614:strand:- -            246   1.1e-45  155.5   0.2   1   1   1.6e-49   1.4e-45  155.1   0.2     1   190     8   189     8   193 0.93 short chain dehydrogenase
+ECH_1                PF00378.20   251 CS211_c00001_NODE_1_...cluster204_ORF3:gid::pid::loc:1617:2415:strand:- -            265   9.2e-61  205.3   0.0   1   1   1.2e-64   1.1e-60  205.1   0.0     2   250     9   264     8   265 0.91 Enoyl-CoA hydratase/isomerase
+ECH_2                PF16113.5    334 CS211_c00001_NODE_1_...cluster204_ORF3:gid::pid::loc:1617:2415:strand:- -            265   8.3e-42  143.9   0.0   1   1   1.5e-40   1.4e-36  126.7   0.0     2   188    14   204    13   222 0.90 Enoyl-CoA hydratase/isomerase
+Ribonuc_L-PSP        PF01042.21   121 CS211_c00001_NODE_1_...cluster204_ORF4:gid::pid::loc:2535:2943:strand:+ -            135   1.9e-26   92.5   0.0   1   1   1.2e-30   2.2e-26   92.2   0.0     8   121    17   129    10   129 0.93 Endoribonuclease L-PSP
+Acyl_transf_1        PF00698.21   319 CS211_c00001_NODE_1_...cluster204_ORF5:gid::pid::loc:3222:8367:strand:+ -           1715   6.1e-61  206.7   0.0   1   1   2.7e-64   9.6e-61  206.0   0.0     3   313   542   863   540   868 0.89 Acyl transferase domain
+ketoacyl-synt        PF00109.26   253 CS211_c00001_NODE_1_...cluster204_ORF5:gid::pid::loc:3222:8367:strand:+ -           1715   4.2e-52  177.2   0.1   1   1   5.7e-54     2e-50  171.7   0.1     4   251    10   254     8   256 0.90 Beta-ketoacyl synthase, N-terminal domain
+PS-DH                PF14765.6    298 CS211_c00001_NODE_1_...cluster204_ORF5:gid::pid::loc:3222:8367:strand:+ -           1715   1.4e-35  123.0   0.4   1   1   1.3e-38   4.5e-35  121.3   0.0     2   286   915  1206   914  1211 0.85 Polyketide synthase dehydratase
+Ketoacyl-synt_C      PF02801.22   118 CS211_c00001_NODE_1_...cluster204_ORF5:gid::pid::loc:3222:8367:strand:+ -           1715   2.3e-30  105.1   0.2   1   1   1.4e-33   4.9e-30  104.0   0.2    16   116   288   388   264   389 0.89 Beta-ketoacyl synthase, C-terminal domain
+KAsynt_C_assoc       PF16197.5    112 CS211_c00001_NODE_1_...cluster204_ORF5:gid::pid::loc:3222:8367:strand:+ -           1715     4e-15   56.2   0.0   1   1     2e-18   7.3e-15   55.4   0.0     1   108   393   504   393   508 0.87 Ketoacyl-synthetase C-terminal extension
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster204.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS211_c00001_NODE_1_...cluster204.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster204.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:50:53 2019
+# [ok]

@@ -1,0 +1,23 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MarR                 PF01047.22    59 BGC0000857.1_ORF1:gid::pid:ABY40743.1:loc:300:867:strand:- -            188   1.1e-18   66.9   1.6   1   1   6.3e-22   2.3e-18   65.9   1.6     1    59    56   114    56   114 0.99 MarR family
+MarR_2               PF12802.7     62 BGC0000857.1_ORF1:gid::pid:ABY40743.1:loc:300:867:strand:- -            188   4.3e-12   45.7   2.2   1   1   1.2e-15   4.4e-12   45.7   0.9     3    61    56   112    54   113 0.97 MarR family
+HTH_27               PF13463.6     68 BGC0000857.1_ORF1:gid::pid:ABY40743.1:loc:300:867:strand:- -            188   6.1e-08   33.0   2.5   1   1   4.1e-11   1.5e-07   31.8   1.0     1    67    56   121    56   122 0.97 Winged helix DNA-binding domain
+HTH_24               PF13412.6     48 BGC0000857.1_ORF1:gid::pid:ABY40743.1:loc:300:867:strand:- -            188   8.9e-07   28.4   0.5   1   1   5.6e-10     2e-06   27.2   0.2     7    47    62   102    58   103 0.93 Winged helix-turn-helix DNA-binding
+Acetyltransf_1       PF00583.25   117 BGC0000857.1_ORF2:gid:ectA:pid:ABY40744.1:loc:1135:1654:strand:+ -            172   2.8e-14   53.4   0.0   1   1     6e-18   3.6e-14   53.0   0.0    30   113    48   130    22   133 0.86 Acetyltransferase (GNAT) family
+Acetyltransf_3       PF13302.7    138 BGC0000857.1_ORF2:gid:ectA:pid:ABY40744.1:loc:1135:1654:strand:+ -            172   3.5e-07   31.0   0.0   1   1   7.7e-11   4.6e-07   30.6   0.0    57   134    53   131    15   133 0.80 Acetyltransferase (GNAT) domain
+Acetyltransf_10      PF13673.7    127 BGC0000857.1_ORF2:gid:ectA:pid:ABY40744.1:loc:1135:1654:strand:+ -            172   1.9e-05   24.6   0.0   1   1   5.4e-09   3.2e-05   23.9   0.0    32    96    52   123    38   132 0.83 Acetyltransferase (GNAT) domain
+Aminotran_3          PF00202.21   406 BGC0000857.1_ORF3:gid:ectB:pid:ABY40745.1:loc:1708:3037:strand:+ -            442   9.2e-84  281.4   0.0   1   1   6.2e-88   1.1e-83  281.2   0.0     9   406    18   411    11   411 0.91 Aminotransferase class-III
+Ectoine_synth        PF06339.12   127 BGC0000857.1_ORF4:gid:ectC:pid:ABY40746.1:loc:3082:3487:strand:+ -            134   3.3e-59  198.6   0.0   1   1   2.1e-63   3.8e-59  198.4   0.0     1   126     1   128     1   129 0.98 Ectoine synthase
+AA_kinase            PF00696.28   241 BGC0000857.1_ORF5:gid:ask:pid:ABY40747.1:loc:3557:4871:strand:+ -            438   1.5e-26   93.5   0.1   1   1   3.2e-30   2.9e-26   92.5   0.1     3   241     5   299     4   299 0.83 Amino acid kinase family
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000857.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000857.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000857.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:30:33 2019
+# [ok]

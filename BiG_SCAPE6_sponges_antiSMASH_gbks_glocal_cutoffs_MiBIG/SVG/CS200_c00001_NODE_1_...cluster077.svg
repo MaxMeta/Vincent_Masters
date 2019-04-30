@@ -1,0 +1,122 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="412.1666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="402.1666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg559_64)</title>
+			<polygon class=" (ctg559_64)" points="93,25 78,25 78,10 48,40 78,70 78,55 93,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_8 (PF02954)
+"Bacterial regulatory protein, Fis family"</title>
+				<polygon class="PF02954" points="52,40 53,39 53,41" stroke-linejoin="round" width="4" height="24" fill="rgb(168,63,200)" stroke="rgb(134,50,160)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Sigma54_activat (PF00158)
+"Sigma-54 interaction domain"</title>
+				<polygon class="PF00158" points="62,30 64,28 78,28 78,52 64,52 62,50" stroke-linejoin="round" width="16" height="24" fill="rgb(101,145,216)" stroke="rgb(80,115,172)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<rect class="PF00072" x="81" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(100,107,203)" stroke="rgb(80,85,162)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg559_65)</title>
+			<polygon class=" (ctg559_65)" points="173,25 127,25 127,10 97,40 127,70 127,55 173,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HATPase_c (PF02518)
+"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"</title>
+				<polygon class="PF02518" points="101,40 107,34 107,46" stroke-linejoin="round" width="10" height="24" fill="rgb(80,94,225)" stroke="rgb(64,75,180)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HisKA (PF00512)
+"His Kinase A (phospho-acceptor) domain"</title>
+				<polygon class="PF00512" points="111,30 113,28 118,28 118,52 113,52 111,50" stroke-linejoin="round" width="7" height="24" fill="rgb(193,125,62)" stroke="rgb(154,100,49)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PAS (PF00989)
+"PAS fold"</title>
+				<rect class="PF00989" x="120" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(205,221,64)" stroke="rgb(164,176,51)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HAMP (PF00672)
+"HAMP domain"</title>
+				<rect class="PF00672" x="133" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(124,89,195)" stroke="rgb(99,71,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg559_66)</title>
+			<polygon class=" (ctg559_66)" points="179,40 192,10 192,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1844 (PF08899)
+"Domain of unknown function (DUF1844)"</title>
+				<polygon class="PF08899" points="182,40 186,31 186,49" stroke-linejoin="round" width="7" height="24" fill="rgb(86,55,205)" stroke="rgb(68,44,164)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg559_67)</title>
+			<polygon class=" (ctg559_67)" points="197,10 226,40 197,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MazG (PF03819)
+"MazG nucleotide pyrophosphohydrolase domain"</title>
+				<rect class="PF03819" x="199" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(199,54,154)" stroke="rgb(159,43,123)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MazG (PF03819)
+"MazG nucleotide pyrophosphohydrolase domain"</title>
+				<polygon class="PF03819" points="213,31 220,39 220,41 213,49" stroke-linejoin="round" width="7" height="24" fill="rgb(199,54,154)" stroke="rgb(159,43,123)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg559_68)</title>
+			<polygon class=" (ctg559_68)" points="225,10 246,40 225,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg559_69)</title>
+			<polygon class=" (ctg559_69)" points="251,40 264,10 264,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg559_70)</title>
+			<polygon class=" (ctg559_70)" points="265,40 286,10 286,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Rhodanese (PF00581)
+"Rhodanese-like domain"</title>
+				<polygon class="PF00581" points="269,40 277,29 277,51" stroke-linejoin="round" width="9" height="24" fill="rgb(145,191,76)" stroke="rgb(116,152,60)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg559_71)</title>
+			<polygon class=" (ctg559_71)" points="291,10 298,40 291,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg559_72)</title>
+			<polygon class=" (ctg559_72)" points="301,10 313,40 301,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg559_73)</title>
+			<polygon class=" (ctg559_73)" points="314,10 327,40 314,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg559_74)</title>
+			<polygon class=" (ctg559_74)" points="377,25 373,25 373,10 343,40 373,70 373,55 377,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="347,40 359,28 376,28 376,52 359,52" stroke-linejoin="round" width="30" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg559_75)</title>
+			<polygon class=" (ctg559_75)" points="378,40 392,10 392,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cupredoxin_1 (PF13473)
+"Cupredoxin-like domain"</title>
+				<polygon class="PF13473" points="381,40 387,28 391,28 391,52 387,52" stroke-linejoin="round" width="12" height="24" fill="rgb(54,142,203)" stroke="rgb(43,113,162)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg559_76)</title>
+			<polygon class=" (ctg559_76)" points="396,40 401,10 401,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

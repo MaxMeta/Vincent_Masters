@@ -1,0 +1,21 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+PatG_C               PF18065.1    115 BGC0001505.1_ORF3:gid:acyA:pid:AVD53610.1:loc:530:2534:strand:- -            667   6.5e-41  138.9   0.0   1   1   2.1e-44   1.3e-40  138.0   0.0     2   115   550   663   549   663 0.99 PatG C-terminal
+Peptidase_S8         PF00082.22   298 BGC0001505.1_ORF3:gid:acyA:pid:AVD53610.1:loc:530:2534:strand:- -            667   1.4e-38  132.8   0.1   1   1   4.5e-42   2.7e-38  131.9   0.1     4   284    23   265    20   280 0.86 Subtilase family
+PatG_D               PF18047.1    111 BGC0001505.1_ORF3:gid:acyA:pid:AVD53610.1:loc:530:2534:strand:- -            667     9e-27   93.7   0.0   1   1   2.9e-30   1.7e-26   92.8   0.0     1   109   391   503   391   505 0.98 PatG Domain
+Y1_Tnp               PF01797.16   121 BGC0001505.1_ORF5:gid::pid:AVG44180.1:loc:3475:4267:strand:- -            263   2.3e-22   79.4   0.5   1   1     2e-26   3.7e-22   78.7   0.5     2   121    10   134     9   134 0.85 Transposase IS200 like
+XisI                 PF08869.11   110 BGC0001505.1_ORF8:gid::pid:AVG44181.1:loc:7316:7652:strand:- -            111   1.1e-48  164.1   0.6   1   1   6.8e-53   1.2e-48  164.0   0.6     1   110     1   110     1   110 1.00 XisI protein
+PatG_C               PF18065.1    115 BGC0001505.1_ORF9:gid::pid:AVG44182.1:loc:8086:10279:strand:+ -            730   3.4e-37  126.9   0.0   1   1   5.7e-41   3.4e-37  126.9   0.0     3   115   612   724   610   724 0.97 PatG C-terminal
+PatG_D               PF18047.1    111 BGC0001505.1_ORF9:gid::pid:AVG44182.1:loc:8086:10279:strand:+ -            730   2.3e-29  102.0   0.0   1   1   8.4e-33     5e-29  101.0   0.0     1   108   451   562   451   566 0.97 PatG Domain
+Peptidase_S8         PF00082.22   298 BGC0001505.1_ORF9:gid::pid:AVG44182.1:loc:8086:10279:strand:+ -            730   4.1e-19   68.9   0.0   1   1   1.1e-22   6.6e-19   68.3   0.0     4   284    41   332    35   343 0.74 Subtilase family
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001505.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001505.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001505.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:50:03 2019
+# [ok]

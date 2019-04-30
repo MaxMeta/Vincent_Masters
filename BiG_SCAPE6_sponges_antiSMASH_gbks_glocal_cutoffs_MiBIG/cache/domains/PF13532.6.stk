@@ -1,0 +1,24 @@
+# STOCKHOLM 1.0
+
+CS203_c00001_NODE_1_...cluster086_ORF1:gid::pid::loc:872:1475:strand:-:18:197          ..........................vd---YFSELLGTDAAEKAYRLAI....EDIQWRQERIVVfGKQLDVPRLS----AWFSDAgQTYTYSGI-VHRPQPIPPFVQSIKQSIEETT----.....--NMHFNSVLANLYEHGAhSVGWHADNEpELGPEVNIASFSLGSTRKLRMR.HRH.RRNRSVSIDLEHNSLL
+#=GR CS203_c00001_NODE_1_...cluster086_ORF1:gid::pid::loc:872:1475:strand:-:18:197  PP ..........................76...6777788888888888888....*********9988999****994....59988879******9.7899999999998888887776...........6*************************999********************.***.****************
+BGC0000075.1_ORF16:gid:hgc5:pid:AFV30255.1:loc:58769:59450:strand:-:15:213             ...........................a--VHVPGWLTLEQQRELVLACRgwatGPVPIRHTKLPR.GGVMSVRTV-C--IGWHWQP.YAYTRTAD-DVNGARVAEFPDWMVELGRRALVDAYddetaGEGYTPDTALINFYDAQA.KLGMHQDKD.ER-SSAPVVSLTIGDSCVFRFG.NTEtRTKPYTDLELASGDLF
+#=GR BGC0000075.1_ORF16:gid:hgc5:pid:AFV30255.1:loc:58769:59450:strand:-:15:213     PP ...........................7..57899**9888888877776664667789*******.*******77.7..8******.******88.9*******************99999999998999***************.*********.99.******************9.6665999*************
+BGC0001598.1_ORF34:gid:foxRVIII:pid:AOE23591.1:loc:49622:50348:strand:+:21:217         ...........................a--VHVPDWLDADRQRQLLEACRawarPPAGLRTVRTPG.GGAMTARQV-C--LGWHWYP.YGYARTVV-DGDGSPVKPLPEWLAALGRDAVHTALgp.qaATTAPYDIALINFYDADA.RMGMHRDSD.EK-SDAPVVSLSLGDTCVFRFGnTAS.RARPYRDVDLRSGDLF
+#=GR BGC0001598.1_ORF34:gid:foxRVIII:pid:AOE23591.1:loc:49622:50348:strand:+:21:217 PP ...........................7..57899**9988888888888652334458999****.*******98.7..9******.*****977.89********************966699.998999**************.*********.99.******************94556.****************
+BGC0000721.1_ORF18:gid:tobX:pid:CAH18549.1:loc:17828:18488:strand:+:43:212             lvhqpdlldeaeerslltaveamplhev----------------------....------------.----R----MHGQVARRTVRhFGFDYGYE-SWRLTPTDPLPEEFWWLRDRCAHLAG.....LRPESLAQTLIARYPPGA.TIGWHRDAP.--MFGPSVVGVSLLSSCLMRFQ.RRVgEERRVYELELAPRSAY
+#=GR BGC0000721.1_ORF18:gid:tobX:pid:CAH18549.1:loc:17828:18488:strand:+:43:212     PP *999888777777666666554433332...........................................2....33444443333234444444.67999*********************.....******************.*******99...68*****************6.6554889*************
+#=GC PP_cons                                                                           ..............................57889998888888888888....67779******9.****8**9836447788887.88888877.8899********99999999999888.....999***************.*********.9989*****************9.777.999*************
+#=GC RF                                                                                ............................xxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.....xxxxxxxxxxxxxxxxxx.xxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxx.xxx.xxxxxxxxxxxxxxxx
+
+CS203_c00001_NODE_1_...cluster086_ORF1:gid::pid::loc:872:1475:strand:-:18:197          MMCEPFQRFWmHELPKTSRDV----------GPRVNFSFR
+#=GR CS203_c00001_NODE_1_...cluster086_ORF1:gid::pid::loc:872:1475:strand:-:18:197  PP *******************84..........677777777
+BGC0000075.1_ORF16:gid:hgc5:pid:AFV30255.1:loc:58769:59450:strand:-:15:213             VFGGPSRYAY.HAVPRILPGTGDP--ATGLKSGRLNITMR
+#=GR BGC0000075.1_ORF16:gid:hgc5:pid:AFV30255.1:loc:58769:59450:strand:-:15:213     PP **********.********99766..78999********9
+BGC0001598.1_ORF34:gid:foxRVIII:pid:AOE23591.1:loc:49622:50348:strand:+:21:217         VFGGASRLAY.HGVPRVHAGTAPP---ELGLTGRLNVTLR
+#=GR BGC0001598.1_ORF34:gid:foxRVIII:pid:AOE23591.1:loc:49622:50348:strand:+:21:217 PP **********.*********9987...45689*******9
+BGC0000721.1_ORF18:gid:tobX:pid:CAH18549.1:loc:17828:18488:strand:+:43:212             VLSGAARSAWqHSIPPVPE-------------LRYSITFR
+#=GR BGC0000721.1_ORF18:gid:tobX:pid:CAH18549.1:loc:17828:18488:strand:+:43:212     PP ****************977.............57777776
+#=GC PP_cons                                                                           **********.******9997877..76789888999988
+#=GC RF                                                                                xxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

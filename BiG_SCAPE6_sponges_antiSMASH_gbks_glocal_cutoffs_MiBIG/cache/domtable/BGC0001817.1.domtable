@@ -1,0 +1,28 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Methyltransf_14      PF08484.11   160 BGC0001817.1_ORF1:gid::pid:AKA59112.1:loc:4399:5626:strand:+ -            408     1e-54  184.7   0.0   1   1   4.5e-58   1.3e-54  184.3   0.0     1   160   246   403   246   403 0.99 C-methyltransferase C-terminal domain
+Methyltransf_23      PF13489.6    165 BGC0001817.1_ORF1:gid::pid:AKA59112.1:loc:4399:5626:strand:+ -            408   8.5e-19   68.0   0.0   1   1   4.8e-22   1.4e-18   67.2   0.0    26   164   103   241    79   242 0.87 Methyltransferase domain
+Methyltransf_13      PF08421.11    62 BGC0001817.1_ORF1:gid::pid:AKA59112.1:loc:4399:5626:strand:+ -            408   8.3e-18   64.4   0.2   1   1   4.8e-21   1.4e-17   63.6   0.2     1    62     7    66     7    66 0.97 Putative zinc binding domain
+Methyltransf_12      PF08242.12    99 BGC0001817.1_ORF1:gid::pid:AKA59112.1:loc:4399:5626:strand:+ -            408   6.9e-11   42.8   0.0   1   1   5.8e-14   1.7e-10   41.5   0.0     1    99   104   196   104   196 0.88 Methyltransferase domain
+Methyltransf_11      PF08241.12    96 BGC0001817.1_ORF1:gid::pid:AKA59112.1:loc:4399:5626:strand:+ -            408   4.3e-10   40.1   0.1   1   1     4e-13   1.2e-09   38.7   0.1     2    96   105   198   104   198 0.91 Methyltransferase domain
+Methyltransf_25      PF13649.6     97 BGC0001817.1_ORF1:gid::pid:AKA59112.1:loc:4399:5626:strand:+ -            408   2.9e-07   31.1   0.3   1   1     3e-10   8.8e-07   29.5   0.1     1    97   103   194   103   194 0.88 Methyltransferase domain
+DegT_DnrJ_EryC1      PF01041.17   361 BGC0001817.1_ORF2:gid::pid:AKA59113.1:loc:10081:11191:strand:+ -            369  1.1e-117  393.4   0.0   1   1  6.8e-122  1.2e-117  393.3   0.0     2   361    15   363    14   363 0.97 DegT/DnrJ/EryC1/StrS aminotransferase family
+dTDP_sugar_isom      PF00908.17   169 BGC0001817.1_ORF3:gid::pid:AKA59114.1:loc:11520:12213:strand:+ -            230   8.9e-48  162.2   0.0   1   1   5.8e-52     1e-47  161.9   0.0     3   168    26   196    24   197 0.94 dTDP-4-dehydrorhamnose 3,5-epimerase
+Epimerase            PF01370.21   241 BGC0001817.1_ORF4:gid::pid:AKA59115.1:loc:12205:13225:strand:+ -            339   4.8e-37  127.7   0.0   1   1   1.6e-40   5.7e-37  127.5   0.0     1   241    19   257    19   257 0.92 NAD dependent epimerase/dehydratase family
+GDP_Man_Dehyd        PF16363.5    332 BGC0001817.1_ORF4:gid::pid:AKA59115.1:loc:12205:13225:strand:+ -            339   1.2e-14   54.5   0.0   1   1     4e-18   1.4e-14   54.2   0.0     2   331    21   328    20   329 0.82 GDP-mannose 4,6 dehydratase
+RmlD_sub_bind        PF04321.17   287 BGC0001817.1_ORF4:gid::pid:AKA59115.1:loc:12205:13225:strand:+ -            339   1.5e-09   37.4   0.1   1   1     6e-13   2.2e-09   36.9   0.1     2   255    18   300    17   323 0.81 RmlD substrate binding domain
+NAD_binding_10       PF13460.6    184 BGC0001817.1_ORF4:gid::pid:AKA59115.1:loc:12205:13225:strand:+ -            339     7e-09   35.8   1.1   1   1   1.9e-12     7e-09   35.8   1.1     1    91    23   126    23   174 0.73 NAD(P)H-binding
+3Beta_HSD            PF01073.19   280 BGC0001817.1_ORF4:gid::pid:AKA59115.1:loc:12205:13225:strand:+ -            339   5.1e-08   32.3   0.0   1   1   1.7e-11   6.1e-08   32.0   0.0     2   183    21   191    20   247 0.82 3-beta hydroxysteroid dehydrogenase/isomerase family
+Hexose_dehydrat      PF03559.14   204 BGC0001817.1_ORF5:gid::pid:AKA59116.1:loc:87691:89071:strand:+ -            459  1.8e-160  530.4   0.0   1   2   4.7e-92   8.4e-88  293.1   0.0     2   204    35   237    34   237 0.99 NDP-hexose 2,3-dehydratase
+Hexose_dehydrat      PF03559.14   204 BGC0001817.1_ORF5:gid::pid:AKA59116.1:loc:87691:89071:strand:+ -            459  1.8e-160  530.4   0.0   2   2   1.9e-74   3.4e-70  235.6   0.0     2   204   251   452   250   452 0.99 NDP-hexose 2,3-dehydratase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001817.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001817.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001817.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:47:54 2019
+# [ok]

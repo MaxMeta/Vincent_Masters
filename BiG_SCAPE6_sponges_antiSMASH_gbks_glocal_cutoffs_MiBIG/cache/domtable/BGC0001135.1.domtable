@@ -1,0 +1,33 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.28   423 BGC0001135.1_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615         0 1706.8   0.0   1   5  8.8e-106  3.1e-102  342.3   0.0     1   423   273   673   273   673 0.88 AMP-binding enzyme
+AMP-binding          PF00501.28   423 BGC0001135.1_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615         0 1706.8   0.0   2   5  3.7e-104  1.3e-100  337.0   0.0     1   423  1355  1749  1355  1749 0.86 AMP-binding enzyme
+AMP-binding          PF00501.28   423 BGC0001135.1_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615         0 1706.8   0.0   3   5  1.4e-106    5e-103  344.9   0.0     1   423  2417  2817  2417  2817 0.89 AMP-binding enzyme
+AMP-binding          PF00501.28   423 BGC0001135.1_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615         0 1706.8   0.0   4   5  1.6e-104  5.7e-101  338.2   0.0     1   423  3499  3899  3499  3899 0.87 AMP-binding enzyme
+AMP-binding          PF00501.28   423 BGC0001135.1_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615         0 1706.8   0.0   5   5  1.7e-104  6.1e-101  338.1   0.0     1   423  4582  4982  4582  4982 0.88 AMP-binding enzyme
+Condensation         PF00668.20   457 BGC0001135.1_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615         0 1157.0   0.0   1   5   1.5e-45   5.3e-42  144.1   0.0     2   456   900  1334   899  1335 0.87 Condensation domain
+Condensation         PF00668.20   457 BGC0001135.1_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615         0 1157.0   0.0   2   5  1.3e-113  4.5e-110  368.4   0.0     2   457  1951  2397  1950  2397 0.94 Condensation domain
+Condensation         PF00668.20   457 BGC0001135.1_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615         0 1157.0   0.0   3   5     3e-45   1.1e-41  143.0   0.0     2   456  3044  3478  3043  3479 0.89 Condensation domain
+Condensation         PF00668.20   457 BGC0001135.1_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615         0 1157.0   0.0   4   5   3.6e-46   1.3e-42  146.1   0.0     2   456  4126  4560  4125  4561 0.91 Condensation domain
+Condensation         PF00668.20   457 BGC0001135.1_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615         0 1157.0   0.0   5   5  4.1e-107  1.5e-103  347.0   0.1     3   452  5174  5614  5172  5615 0.94 Condensation domain
+AMP-binding_C        PF13193.6     76 BGC0001135.1_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615   1.2e-69  231.3  12.0   1   5   3.6e-14   1.3e-10   42.1   0.0     1    76   681   759   681   759 0.87 AMP-binding enzyme C-terminal domain
+AMP-binding_C        PF13193.6     76 BGC0001135.1_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615   1.2e-69  231.3  12.0   2   5   1.3e-13   4.8e-10   40.3   0.4     1    76  1757  1840  1757  1840 0.83 AMP-binding enzyme C-terminal domain
+AMP-binding_C        PF13193.6     76 BGC0001135.1_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615   1.2e-69  231.3  12.0   3   5   9.1e-17   3.3e-13   50.4   0.3     1    76  2825  2903  2825  2903 0.89 AMP-binding enzyme C-terminal domain
+AMP-binding_C        PF13193.6     76 BGC0001135.1_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615   1.2e-69  231.3  12.0   4   5   1.1e-16   4.1e-13   50.1   0.1     1    76  3907  3985  3907  3985 0.91 AMP-binding enzyme C-terminal domain
+AMP-binding_C        PF13193.6     76 BGC0001135.1_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615   1.2e-69  231.3  12.0   5   5   3.7e-17   1.3e-13   51.7   0.0     1    76  4990  5063  4990  5063 0.94 AMP-binding enzyme C-terminal domain
+PP-binding           PF00550.25    67 BGC0001135.1_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615   6.8e-64  212.1  10.3   1   5     3e-13   1.1e-09   38.5   0.1     3    67   789   850   787   850 0.94 Phosphopantetheine attachment site
+PP-binding           PF00550.25    67 BGC0001135.1_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615   6.8e-64  212.1  10.3   2   5   1.6e-15   5.8e-12   45.8   0.0     2    67  1869  1931  1868  1931 0.94 Phosphopantetheine attachment site
+PP-binding           PF00550.25    67 BGC0001135.1_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615   6.8e-64  212.1  10.3   3   5   1.5e-15   5.4e-12   45.9   0.1     3    67  2933  2994  2932  2994 0.95 Phosphopantetheine attachment site
+PP-binding           PF00550.25    67 BGC0001135.1_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615   6.8e-64  212.1  10.3   4   5   1.7e-13   6.2e-10   39.3   0.1     3    67  4015  4076  4014  4076 0.95 Phosphopantetheine attachment site
+PP-binding           PF00550.25    67 BGC0001135.1_ORF1:gid:nrpS:pid:AFP87549.1:loc:0:16848:strand:+ -           5615   6.8e-64  212.1  10.3   5   5   3.8e-15   1.4e-11   44.6   0.1     3    65  5093  5152  5092  5154 0.93 Phosphopantetheine attachment site
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001135.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001135.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001135.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:44:55 2019
+# [ok]

@@ -1,0 +1,22 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+IucA_IucC            PF04183.12   239 BGC0000941.1_ORF1:gid:alcC:pid:BAG21576.1:loc:0:1779:strand:- -            592   4.7e-80  268.6   0.0   1   1   7.4e-84   6.7e-80  268.1   0.0     2   239   142   391   141   391 0.98 IucA / IucC family
+FhuF                 PF06276.12   163 BGC0000941.1_ORF1:gid:alcC:pid:BAG21576.1:loc:0:1779:strand:- -            592   1.4e-38  132.9   0.1   1   1   3.3e-42   2.9e-38  131.8   0.1     2   162   413   570   412   571 0.97 Ferric iron reductase FhuF-like transporter
+Acetyltransf_8       PF13523.6    145 BGC0000941.1_ORF2:gid:alcB:pid:BAG21577.1:loc:1775:2345:strand:- -            189   8.8e-51  171.4   0.2   1   1   1.2e-54   1.1e-50  171.1   0.2     1   144    21   164    21   165 0.99 Acetyltransferase (GNAT) domain
+Acetyltransf_3       PF13302.7    138 BGC0000941.1_ORF2:gid:alcB:pid:BAG21577.1:loc:1775:2345:strand:- -            189   1.2e-06   29.2   0.0   1   1   1.9e-10   1.7e-06   28.8   0.0     4   138    17   158    15   158 0.81 Acetyltransferase (GNAT) domain
+K_oxygenase          PF13434.6    342 BGC0000941.1_ORF3:gid:alcA:pid:BAG21578.1:loc:2341:3619:strand:- -            425  1.1e-122  409.5   0.0   1   1  7.2e-127  1.3e-122  409.2   0.0     2   342     7   339     6   339 0.97 L-lysine 6-monooxygenase (NADPH-requiring)
+Pyridoxal_deC        PF00282.19   375 BGC0000941.1_ORF4:gid::pid:BAG21579.1:loc:3602:5051:strand:- -            482   4.1e-63  213.4   0.0   1   1   6.1e-67   5.5e-63  212.9   0.0    38   374    79   404    62   405 0.95 Pyridoxal-dependent decarboxylase conserved domain
+Aminotran_5          PF00266.19   371 BGC0000941.1_ORF4:gid::pid:BAG21579.1:loc:3602:5051:strand:- -            482   1.6e-05   24.0   0.0   1   1   2.8e-09   2.5e-05   23.4   0.0    63   178   140   266   122   271 0.80 Aminotransferase class-V
+FAD_binding_9        PF08021.11   121 BGC0000941.1_ORF5:gid::pid:BAG21580.1:loc:5206:6127:strand:- -            306   8.9e-34  116.3   0.0   1   1   1.6e-37   1.4e-33  115.6   0.0     1   120    20   142    20   143 0.96 Siderophore-interacting FAD-binding domain
+SIP                  PF04954.13   119 BGC0000941.1_ORF5:gid::pid:BAG21580.1:loc:5206:6127:strand:- -            306   3.5e-33  114.6   2.9   1   1   6.7e-37     6e-33  113.9   2.9     2   119   156   270   155   270 0.98 Siderophore-interacting protein
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000941.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000941.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000941.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:44:25 2019
+# [ok]

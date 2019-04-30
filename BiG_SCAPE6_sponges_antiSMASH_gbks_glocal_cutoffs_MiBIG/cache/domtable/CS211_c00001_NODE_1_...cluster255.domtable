@@ -1,0 +1,23 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+FUR                  PF01475.19   120 CS211_c00001_NODE_1_...cluster255_ORF1:gid::pid::loc:1:328:strand:- -            109   8.2e-22   77.6   0.0   1   1   5.2e-26   9.3e-22   77.4   0.0     2   104     7   106     6   109 0.93 Ferric uptake regulator family
+ketoacyl-synt        PF00109.26   253 CS211_c00001_NODE_1_...cluster255_ORF2:gid::pid::loc:673:5701:strand:+ -           1676     2e-79  266.8   3.3   1   1   1.1e-82   2.2e-79  266.6   1.4     2   253    29   281    28   281 0.96 Beta-ketoacyl synthase, N-terminal domain
+Acyl_transf_1        PF00698.21   319 CS211_c00001_NODE_1_...cluster255_ORF2:gid::pid::loc:673:5701:strand:+ -           1676     5e-57  193.8   0.2   1   1   4.3e-60   8.6e-57  193.0   0.2     2   272   593   872   592   911 0.90 Acyl transferase domain
+PS-DH                PF14765.6    298 CS211_c00001_NODE_1_...cluster255_ORF2:gid::pid::loc:673:5701:strand:+ -           1676   1.5e-54  185.3   0.0   1   1   1.4e-57   2.8e-54  184.4   0.0     1   296   968  1262   968  1264 0.89 Polyketide synthase dehydratase
+Ketoacyl-synt_C      PF02801.22   118 CS211_c00001_NODE_1_...cluster255_ORF2:gid::pid::loc:673:5701:strand:+ -           1676   8.8e-43  145.1   0.5   1   1   2.2e-45   4.4e-42  142.8   0.2     2   117   290   406   289   407 0.99 Beta-ketoacyl synthase, C-terminal domain
+KAsynt_C_assoc       PF16197.5    112 CS211_c00001_NODE_1_...cluster255_ORF2:gid::pid::loc:673:5701:strand:+ -           1676   1.5e-14   54.4   0.0   1   1     2e-17     4e-14   53.0   0.0     1    87   409   525   409   546 0.88 Ketoacyl-synthetase C-terminal extension
+Methyltransf_12      PF08242.12    99 CS211_c00001_NODE_1_...cluster255_ORF2:gid::pid::loc:673:5701:strand:+ -           1676   1.8e-14   54.3   0.0   1   1   8.2e-17   1.6e-13   51.2   0.0     2    99  1497  1597  1496  1597 0.87 Methyltransferase domain
+Methyltransf_23      PF13489.6    165 CS211_c00001_NODE_1_...cluster255_ORF2:gid::pid::loc:673:5701:strand:+ -           1676   7.3e-09   35.7   0.0   1   1   8.3e-12   1.6e-08   34.5   0.0     9   164  1476  1651  1468  1652 0.72 Methyltransferase domain
+Methyltransf_25      PF13649.6     97 CS211_c00001_NODE_1_...cluster255_ORF2:gid::pid::loc:673:5701:strand:+ -           1676   5.9e-08   33.3   0.0   1   1   1.2e-10   2.4e-07   31.4   0.0     1    97  1495  1595  1495  1595 0.92 Methyltransferase domain
+Methyltransf_11      PF08241.12    96 CS211_c00001_NODE_1_...cluster255_ORF2:gid::pid::loc:673:5701:strand:+ -           1676   8.7e-06   26.3   0.0   1   1   1.2e-08   2.4e-05   24.9   0.0     2    95  1497  1598  1496  1599 0.90 Methyltransferase domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster255.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS211_c00001_NODE_1_...cluster255.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS211_c00001_NODE_1_...cluster255.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:37:57 2019
+# [ok]

@@ -1,0 +1,21 @@
+#                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ketoacyl-synt        PF00109.26   253 CS202_c00001_NODE_1_...cluster181_ORF1:gid::pid::loc:2:2126:strand:- -            708   3.3e-79  266.1   2.0   1   1   4.4e-82   1.6e-78  263.8   0.5     2   253    30   281    29   281 0.92 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.22   118 CS202_c00001_NODE_1_...cluster181_ORF1:gid::pid::loc:2:2126:strand:- -            708   1.5e-45  154.0   0.1   1   1   4.5e-48   1.6e-44  150.7   0.1     2   117   290   406   289   407 0.99 Beta-ketoacyl synthase, C-terminal domain
+Acyl_transf_1        PF00698.21   319 CS202_c00001_NODE_1_...cluster181_ORF1:gid::pid::loc:2:2126:strand:- -            708   2.4e-33  116.0   0.3   1   1   9.3e-37   3.3e-33  115.5   0.3     2   119   586   706   585   708 0.95 Acyl transferase domain
+KAsynt_C_assoc       PF16197.5    112 CS202_c00001_NODE_1_...cluster181_ORF1:gid::pid::loc:2:2126:strand:- -            708   1.9e-14   54.0   0.0   1   1   1.5e-17   5.5e-14   52.6   0.0     1   108   409   551   409   553 0.85 Ketoacyl-synthetase C-terminal extension
+Xan_ur_permease      PF00860.20   389 CS202_c00001_NODE_1_...cluster181_ORF2:gid::pid::loc:2225:3224:strand:- -            332   1.4e-18   66.8  14.7   1   1   7.8e-23   1.4e-18   66.8  14.7   248   383     9   145     1   150 0.90 Permease family
+NIPSNAP              PF07978.13   102 CS202_c00001_NODE_1_...cluster181_ORF4:gid::pid::loc:4128:4452:strand:- -            107   5.3e-16   58.7   0.0   1   1   3.3e-20     6e-16   58.5   0.0     1   101     4   104     4   105 0.93 NIPSNAP
+AstE_AspA            PF04952.14   291 CS202_c00001_NODE_1_...cluster181_ORF5:gid::pid::loc:4593:5625:strand:+ -            343   6.2e-60  202.7   0.0   1   1   4.1e-64   7.3e-60  202.5   0.0     1   289    49   335    49   337 0.94 Succinylglutamate desuccinylase / Aspartoacylase family
+Putative_PNPOx       PF01243.20    88 CS202_c00001_NODE_1_...cluster181_ORF6:gid::pid::loc:5657:6113:strand:+ -            152   2.2e-07   30.9   0.0   1   1   3.6e-11   3.2e-07   30.4   0.0     3    71    20    95    18   111 0.84 Pyridoxamine 5'-phosphate oxidase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster181.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS202_c00001_NODE_1_...cluster181.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster181.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:39:57 2019
+# [ok]

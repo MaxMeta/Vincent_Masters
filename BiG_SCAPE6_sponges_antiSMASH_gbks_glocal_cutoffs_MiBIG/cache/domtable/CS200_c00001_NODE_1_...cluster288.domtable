@@ -1,0 +1,20 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ketoacyl-synt        PF00109.26   253 CS200_c00001_NODE_1_...cluster288_ORF2:gid::pid::loc:293:5015:strand:+ -           1574   3.7e-77  259.3   2.9   1   1     4e-80     1e-76  257.9   0.7     2   253     6   258     5   258 0.90 Beta-ketoacyl synthase, N-terminal domain
+Acyl_transf_1        PF00698.21   319 CS200_c00001_NODE_1_...cluster288_ORF2:gid::pid::loc:293:5015:strand:+ -           1574   1.4e-58  198.9   1.5   1   1   8.7e-62   2.2e-58  198.3   1.5     2   278   572   857   571   886 0.89 Acyl transferase domain
+PS-DH                PF14765.6    298 CS200_c00001_NODE_1_...cluster288_ORF2:gid::pid::loc:293:5015:strand:+ -           1574   4.3e-52  177.2   1.2   1   1   2.3e-54   5.9e-51  173.5   0.2     1   296   946  1257   946  1259 0.88 Polyketide synthase dehydratase
+Ketoacyl-synt_C      PF02801.22   118 CS200_c00001_NODE_1_...cluster288_ORF2:gid::pid::loc:293:5015:strand:+ -           1574   7.7e-40  135.6   0.8   1   1     3e-43   7.7e-40  135.6   0.8     2   117   267   383   266   384 0.98 Beta-ketoacyl synthase, C-terminal domain
+KAsynt_C_assoc       PF16197.5    112 CS200_c00001_NODE_1_...cluster288_ORF2:gid::pid::loc:293:5015:strand:+ -           1574   2.6e-15   56.8   0.0   1   1   4.1e-18   1.1e-14   54.9   0.0     1    85   386   502   386   519 0.91 Ketoacyl-synthetase C-terminal extension
+Methyltransf_12      PF08242.12    99 CS200_c00001_NODE_1_...cluster288_ORF2:gid::pid::loc:293:5015:strand:+ -           1574   6.2e-11   42.9   0.0   1   1   1.2e-13   2.9e-10   40.7   0.0     1    79  1491  1572  1491  1574 0.87 Methyltransferase domain
+Methyltransf_25      PF13649.6     97 CS200_c00001_NODE_1_...cluster288_ORF2:gid::pid::loc:293:5015:strand:+ -           1574   1.5e-06   28.8   0.0   1   1   1.9e-09   4.8e-06   27.2   0.0     1    76  1490  1571  1490  1574 0.92 Methyltransferase domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS200_c00001_NODE_1_...cluster288.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS200_c00001_NODE_1_...cluster288.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS200_c00001_NODE_1_...cluster288.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:44:08 2019
+# [ok]

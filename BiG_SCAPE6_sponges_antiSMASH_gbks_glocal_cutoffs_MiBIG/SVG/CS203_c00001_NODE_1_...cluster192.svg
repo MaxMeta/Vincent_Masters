@@ -1,0 +1,59 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="224.73333333333332" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="214.73333333333332" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg11552_1)</title>
+			<polygon class=" (ctg11552_1)" points="12,10 36,40 12,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_25 (PF13649)
+"Methyltransferase domain"</title>
+				<polygon class="PF13649" points="18,28 22,28 27,34 27,46 22,52 18,52" stroke-linejoin="round" width="9" height="24" fill="rgb(227,135,74)" stroke="rgb(181,108,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11552_2)</title>
+			<polygon class=" (ctg11552_2)" points="38,40 47,10 47,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NHase_alpha (PF02979)
+"Nitrile hydratase, alpha chain"</title>
+				<polygon class="PF02979" points="41,40 45,28 45,28 45,52 45,52" stroke-linejoin="round" width="6" height="24" fill="rgb(204,148,70)" stroke="rgb(163,118,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11552_3)</title>
+			<polygon class=" (ctg11552_3)" points="62,25 74,25 74,10 104,40 74,70 74,55 62,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AAA_14 (PF13173)
+"AAA domain"</title>
+				<rect class="PF13173" x="64" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(77,222,177)" stroke="rgb(61,177,141)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DUF4143 (PF13635)
+"Domain of unknown function (DUF4143)"</title>
+				<polygon class="PF13635" points="75,28 87,28 97,38 97,42 87,52 75,52" stroke-linejoin="round" width="22" height="24" fill="rgb(119,89,210)" stroke="rgb(95,71,168)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11552_4)</title>
+			<polygon class=" (ctg11552_4)" points="113,25 118,25 118,10 148,40 118,70 118,55 113,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg11552_5)</title>
+			<polygon class=" (ctg11552_5)" points="205,25 178,25 178,10 148,40 178,70 178,55 205,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TaqI_C (PF12950)
+"TaqI-like C-terminal specificity domain"</title>
+				<polygon class="PF12950" points="152,40 164,28 164,28 164,52 164,52" stroke-linejoin="round" width="13" height="24" fill="rgb(132,203,53)" stroke="rgb(105,162,42)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>N6_Mtase (PF02384)
+"N-6 DNA Methylase"</title>
+				<rect class="PF02384" x="179" y="28" stroke-linejoin="round" width="23" height="24" fill="rgb(46,179,90)" stroke="rgb(36,143,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11552_6)</title>
+			<polygon class=" (ctg11552_6)" points="205,40 211,10 211,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

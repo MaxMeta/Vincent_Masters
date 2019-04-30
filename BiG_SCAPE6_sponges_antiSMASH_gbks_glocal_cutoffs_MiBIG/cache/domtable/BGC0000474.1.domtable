@@ -1,0 +1,23 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+PatG_C               PF18065.1    115 BGC0000474.1_ORF1:gid:mcaA:pid:CAP64335.1:loc:73:2047:strand:+ -            657   2.7e-40  136.9   0.0   1   1   8.7e-44   5.2e-40  136.0   0.0     4   115   542   653   539   653 0.97 PatG C-terminal
+Peptidase_S8         PF00082.22   298 BGC0000474.1_ORF1:gid:mcaA:pid:CAP64335.1:loc:73:2047:strand:+ -            657   1.9e-32  112.7   0.0   1   1   5.3e-36   3.2e-32  112.0   0.0     2   282    13   254    12   289 0.89 Subtilase family
+PatG_D               PF18047.1    111 BGC0000474.1_ORF1:gid:mcaA:pid:CAP64335.1:loc:73:2047:strand:+ -            657   1.3e-26   93.2   0.0   1   1   4.2e-30   2.5e-26   92.3   0.0     1   110   380   494   380   495 0.98 PatG Domain
+YcaO                 PF02624.16   323 BGC0000474.1_ORF4:gid:mcaD:pid:CAP64338.1:loc:2755:5086:strand:+ -            776   5.9e-97  324.8   0.0   1   1  5.9e-101   1.1e-96  324.0   0.0     1   323   407   739   407   739 0.93 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+HTH_57               PF18679.1    108 BGC0000474.1_ORF8:gid::pid:CAP64341.1:loc:7715:8063:strand:+ -            115   4.7e-07   30.1   0.0   1   1   3.3e-11   5.9e-07   29.8   0.0     1    49     3    54     3    88 0.88 ThcOx helix turn helix domain
+PatG_C               PF18065.1    115 BGC0000474.1_ORF9:gid:mcaG:pid:CAP64342.1:loc:8566:12508:strand:+ -           1313   2.5e-38  130.6   0.0   1   1   1.3e-41   4.7e-38  129.7   0.0     3   115  1192  1304  1190  1304 0.97 PatG C-terminal
+HTH_57               PF18679.1    108 BGC0000474.1_ORF9:gid:mcaG:pid:CAP64342.1:loc:8566:12508:strand:+ -           1313     2e-37  127.8   0.0   1   1   1.4e-40   4.9e-37  126.5   0.0     1   108     2   111     2   111 0.98 ThcOx helix turn helix domain
+PatG_D               PF18047.1    111 BGC0000474.1_ORF9:gid:mcaG:pid:CAP64342.1:loc:8566:12508:strand:+ -           1313   9.1e-21   74.4   0.0   1   1   7.2e-24   2.6e-20   72.9   0.0     2   109  1033  1144  1032  1146 0.96 PatG Domain
+Peptidase_S8         PF00082.22   298 BGC0000474.1_ORF9:gid:mcaG:pid:CAP64342.1:loc:8566:12508:strand:+ -           1313   7.3e-19   68.1   0.0   1   1   7.1e-22   2.6e-18   66.3   0.0    60   283   705   923   616   935 0.78 Subtilase family
+Nitroreductase       PF00881.24   170 BGC0000474.1_ORF9:gid:mcaG:pid:CAP64342.1:loc:8566:12508:strand:+ -           1313   3.4e-17   63.0   0.0   1   1   1.6e-20   5.9e-17   62.2   0.0     1   169   270   477   270   478 0.93 Nitroreductase family
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000474.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0000474.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0000474.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:29:38 2019
+# [ok]

@@ -1,0 +1,24 @@
+#                                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                       accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                             -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Pyridoxal_deC        PF00282.19   375 BGC0001531.1_ORF1:gid:bsbA:pid:BAX07665.1:loc:1112:2621:strand:+ -            502   6.5e-66  222.6   1.2   1   1     9e-70   8.1e-66  222.3   1.2    15   375    70   430    57   430 0.92 Pyridoxal-dependent decarboxylase conserved domain
+Beta_elim_lyase      PF01212.21   293 BGC0001531.1_ORF1:gid:bsbA:pid:BAX07665.1:loc:1112:2621:strand:+ -            502   3.6e-08   33.1   0.3   1   1   8.3e-12   7.5e-08   32.0   0.3    73   221   198   344   136   406 0.80 Beta-eliminating lyase
+K_oxygenase          PF13434.6    342 BGC0001531.1_ORF2:gid:bsbB:pid:BAX07666.1:loc:2626:3949:strand:+ -            440  4.1e-125  417.5   0.0   1   1  1.1e-128  6.4e-125  416.8   0.0     2   341     5   341     4   342 0.95 L-lysine 6-monooxygenase (NADPH-requiring)
+MFS_1                PF07690.16   353 BGC0001531.1_ORF3:gid:bsbE:pid:BAX07667.1:loc:3935:5129:strand:+ -            397   6.6e-14   51.6  30.8   1   1   1.1e-15     2e-11   43.4  24.7     2   293    14   291    11   316 0.71 Major Facilitator Superfamily
+IucA_IucC            PF04183.12   239 BGC0001531.1_ORF4:gid:bsbCD1:pid:BAX07668.1:loc:5132:7550:strand:+ -            805   2.6e-70  236.7   0.0   1   1   6.2e-74   3.7e-70  236.2   0.0     1   239   350   599   350   599 0.97 IucA / IucC family
+FhuF                 PF06276.12   163 BGC0001531.1_ORF4:gid:bsbCD1:pid:BAX07668.1:loc:5132:7550:strand:+ -            805     7e-39  133.9   0.5   1   1   1.9e-42   1.2e-38  133.1   0.5     2   161   621   777   620   779 0.97 Ferric iron reductase FhuF-like transporter
+Acetyltransf_8       PF13523.6    145 BGC0001531.1_ORF4:gid:bsbCD1:pid:BAX07668.1:loc:5132:7550:strand:+ -            805   3.7e-38  130.5   0.0   1   1   9.6e-42   5.8e-38  129.8   0.0     2   144    26   169    25   170 0.96 Acetyltransferase (GNAT) domain
+Acetyltransf_8       PF13523.6    145 BGC0001531.1_ORF5:gid:bsbC2:pid:BAX07669.1:loc:7552:8143:strand:+ -            196   8.1e-49  165.0   0.2   1   1   1.1e-52     1e-48  164.7   0.2     2   145    26   169    25   169 0.99 Acetyltransferase (GNAT) domain
+Acetyltransf_3       PF13302.7    138 BGC0001531.1_ORF5:gid:bsbC2:pid:BAX07669.1:loc:7552:8143:strand:+ -            196   1.4e-06   29.1   0.1   1   1   4.8e-10   4.3e-06   27.4   0.1     3   138    20   162    19   162 0.80 Acetyltransferase (GNAT) domain
+IucA_IucC            PF04183.12   239 BGC0001531.1_ORF6:gid:bsbD2:pid:BAX07670.1:loc:8132:9953:strand:+ -            606   6.6e-77  258.3   0.0   1   1   1.1e-80   9.5e-77  257.8   0.0     1   239   142   391   142   391 0.98 IucA / IucC family
+FhuF                 PF06276.12   163 BGC0001531.1_ORF6:gid:bsbD2:pid:BAX07670.1:loc:8132:9953:strand:+ -            606   1.3e-40  139.5   0.3   1   1   2.4e-44   2.1e-40  138.8   0.3     2   161   413   569   412   571 0.97 Ferric iron reductase FhuF-like transporter
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001531.1.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/BGC0001531.1.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/BGC0001531.1.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:55:22 2019
+# [ok]

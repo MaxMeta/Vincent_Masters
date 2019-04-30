@@ -1,0 +1,101 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="354.26666666666665" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="344.26666666666665" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg3074_1)</title>
+			<polygon class=" (ctg3074_1)" points="10,25 16,25 16,10 46,40 16,70 16,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_1 (PF00534)
+"Glycosyl transferases group 1"</title>
+				<polygon class="PF00534" points="16,28 29,28 32,31 32,49 29,52 16,52" stroke-linejoin="round" width="16" height="24" fill="rgb(228,92,150)" stroke="rgb(182,73,119)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3074_2)</title>
+			<polygon class=" (ctg3074_2)" points="47,10 54,40 47,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3074_3)</title>
+			<polygon class=" (ctg3074_3)" points="58,10 70,40 58,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3074_4)</title>
+			<polygon class=" (ctg3074_4)" points="76,25 146,25 146,10 176,40 146,70 146,55 76,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>cNMP_binding (PF00027)
+"Cyclic nucleotide-binding domain"</title>
+				<rect class="PF00027" x="77" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(138,95,204)" stroke="rgb(110,76,163)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>cNMP_binding (PF00027)
+"Cyclic nucleotide-binding domain"</title>
+				<rect class="PF00027" x="90" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(138,95,204)" stroke="rgb(110,76,163)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Peptidase_C39 (PF03412)
+"Peptidase C39 family"</title>
+				<rect class="PF03412" x="105" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(214,226,77)" stroke="rgb(171,180,61)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="120" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="154,28 160,28 168,36 168,44 160,52 154,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3074_5)</title>
+			<polygon class=" (ctg3074_5)" points="180,25 196,25 196,10 226,40 196,70 196,55 180,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Biotin_lipoyl_2 (PF13533)
+"Biotin-lipoyl like"</title>
+				<rect class="PF13533" x="187" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(229,122,112)" stroke="rgb(183,97,89)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HlyD_3 (PF13437)
+"HlyD family secretion protein"</title>
+				<polygon class="PF13437" points="210,29 221,40 221,40 210,51" stroke-linejoin="round" width="11" height="24" fill="rgb(82,200,102)" stroke="rgb(65,160,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3074_6)</title>
+			<polygon class=" (ctg3074_6)" points="226,10 251,40 226,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Rotamase (PF00639)
+"PPIC-type PPIASE domain"</title>
+				<polygon class="PF00639" points="239,30 246,38 246,42 239,50" stroke-linejoin="round" width="7" height="24" fill="rgb(179,171,54)" stroke="rgb(143,136,43)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3074_7)</title>
+			<polygon class=" (ctg3074_7)" points="253,40 281,10 281,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PhyH (PF05721)
+"Phytanoyl-CoA dioxygenase (PhyH)"</title>
+				<polygon class="PF05721" points="259,38 268,28 278,28 278,52 268,52 259,42" stroke-linejoin="round" width="19" height="24" fill="rgb(72,132,214)" stroke="rgb(57,105,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3074_8)</title>
+			<polygon class=" (ctg3074_8)" points="282,40 297,10 297,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3074_9)</title>
+			<polygon class=" (ctg3074_9)" points="343,25 337,25 337,10 307,40 337,70 337,55 343,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Dala_Dala_lig_C (PF07478)
+"D-ala D-ala ligase C-terminus"</title>
+				<polygon class="PF07478" points="311,40 323,28 328,28 328,52 323,52" stroke-linejoin="round" width="20" height="24" fill="rgb(202,54,160)" stroke="rgb(161,43,127)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Dala_Dala_lig_N (PF01820)
+"D-ala D-ala ligase N-terminus"</title>
+				<rect class="PF01820" x="330" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(55,160,179)" stroke="rgb(44,127,143)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

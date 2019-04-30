@@ -1,0 +1,20 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DUF692               PF05114.13   263 CS204_c00001_NODE_1_...cluster180_ORF2:gid::pid::loc:358:1219:strand:+ -            286    3e-100  334.8   0.0   1   1  1.9e-104  3.4e-100  334.6   0.0     2   262    14   274    13   275 0.98 Protein of unknown function (DUF692)
+DUF2063              PF09836.9     85 CS204_c00001_NODE_1_...cluster180_ORF3:gid::pid::loc:1222:2005:strand:+ -            260   2.5e-26   91.7   0.3   1   1   3.3e-30   5.9e-26   90.5   0.3     2    85    14    99    13    99 0.98 Putative DNA-binding domain
+Cob_adeno_trans      PF01923.18   164 CS204_c00001_NODE_1_...cluster180_ORF4:gid::pid::loc:2015:2564:strand:- -            182   2.9e-54  183.6   0.0   1   1   1.8e-58   3.2e-54  183.5   0.0     1   163     8   165     8   166 0.95 Cobalamin adenosyltransferase
+TonB_dep_Rec         PF00593.24   470 CS204_c00001_NODE_1_...cluster180_ORF5:gid::pid::loc:2583:4419:strand:- -            611   7.9e-36  124.9  16.8   1   1   1.2e-39     1e-35  124.5  16.8    19   469   218   607   170   608 0.62 TonB dependent receptor
+Plug                 PF07715.15   108 CS204_c00001_NODE_1_...cluster180_ORF5:gid::pid::loc:2583:4419:strand:- -            611   1.9e-25   89.5   1.0   1   1   5.6e-29     5e-25   88.2   1.0     8   108    57   157    51   157 0.98 TonB-dependent Receptor Plug Domain
+adh_short            PF00106.25   195 CS204_c00001_NODE_1_...cluster180_ORF6:gid::pid::loc:4465:5173:strand:- -            235   2.3e-47  161.0   0.1   1   1   4.9e-51   2.9e-47  160.6   0.1     1   188     7   192     7   198 0.95 short chain dehydrogenase
+adh_short_C2         PF13561.6    234 CS204_c00001_NODE_1_...cluster180_ORF6:gid::pid::loc:4465:5173:strand:- -            235   1.9e-43  148.7   0.1   1   1   1.3e-46     8e-43  146.7   0.1     1   229    13   231    13   233 0.88 Enoyl-(Acyl carrier protein) reductase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS204_c00001_NODE_1_...cluster180.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS204_c00001_NODE_1_...cluster180.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS204_c00001_NODE_1_...cluster180.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:52:46 2019
+# [ok]

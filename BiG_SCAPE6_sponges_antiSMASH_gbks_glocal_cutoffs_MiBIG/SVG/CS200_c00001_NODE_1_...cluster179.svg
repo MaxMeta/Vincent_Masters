@@ -1,0 +1,136 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="566.3333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="556.3333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg4504_1)</title>
+			<polygon class=" (ctg4504_1)" points="10,25 12,25 12,10 42,40 12,70 12,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Mur_ligase_M (PF08245)
+"Mur ligase middle domain"</title>
+				<rect class="PF08245" x="10" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(57,133,195)" stroke="rgb(45,106,156)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Mur_ligase_C (PF02875)
+"Mur ligase family, glutamate ligase domain"</title>
+				<polygon class="PF02875" points="27,30 35,38 35,42 27,50" stroke-linejoin="round" width="8" height="24" fill="rgb(197,75,168)" stroke="rgb(157,60,134)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4504_2)</title>
+			<polygon class=" (ctg4504_2)" points="62,10 77,40 62,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg4504_3)</title>
+			<polygon class=" (ctg4504_3)" points="81,10 98,40 81,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>OsmC (PF02566)
+"OsmC-like protein"</title>
+				<polygon class="PF02566" points="86,28 88,28 95,40 88,52 86,52" stroke-linejoin="round" width="10" height="24" fill="rgb(161,56,212)" stroke="rgb(128,44,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4504_4)</title>
+			<polygon class=" (ctg4504_4)" points="100,10 120,40 100,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SRAP (PF02586)
+"SOS response associated peptidase (SRAP)"</title>
+				<polygon class="PF02586" points="100,28 108,28 116,40 108,52 100,52" stroke-linejoin="round" width="19" height="24" fill="rgb(152,181,61)" stroke="rgb(121,144,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4504_5)</title>
+			<polygon class=" (ctg4504_5)" points="121,25 155,25 155,10 185,40 155,70 155,55 121,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="122" y="28" stroke-linejoin="round" width="43" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="178,37 181,40 178,43" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4504_6)</title>
+			<polygon class=" (ctg4504_6)" points="215,25 215,25 215,10 185,40 215,70 215,55 215,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lip_A_acyltrans (PF03279)
+"Bacterial lipid A biosynthesis acyltransferase"</title>
+				<polygon class="PF03279" points="189,40 201,28 213,28 213,52 201,52" stroke-linejoin="round" width="28" height="24" fill="rgb(95,219,149)" stroke="rgb(76,175,119)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4504_7)</title>
+			<polygon class=" (ctg4504_7)" points="217,10 241,40 217,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>UPF0014 (PF03649)
+"Uncharacterised protein family (UPF0014)"</title>
+				<polygon class="PF03649" points="218,28 228,28 237,40 228,52 218,52" stroke-linejoin="round" width="22" height="24" fill="rgb(208,153,93)" stroke="rgb(166,122,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4504_8)</title>
+			<polygon class=" (ctg4504_8)" points="246,10 267,40 246,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg4504_9)</title>
+			<polygon class=" (ctg4504_9)" points="345,25 298,25 298,10 268,40 298,70 298,55 345,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MMPL (PF03176)
+"MMPL family"</title>
+				<polygon class="PF03176" points="272,40 284,28 296,28 296,52 284,52" stroke-linejoin="round" width="28" height="24" fill="rgb(228,109,193)" stroke="rgb(182,87,154)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MMPL (PF03176)
+"MMPL family"</title>
+				<rect class="PF03176" x="304" y="28" stroke-linejoin="round" width="28" height="24" fill="rgb(228,109,193)" stroke="rgb(182,87,154)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4504_10)</title>
+			<polygon class=" (ctg4504_10)" points="379,25 377,25 377,10 347,40 377,70 377,55 379,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PSII_BNR (PF14870)
+"Photosynthesis system II assembly factor YCF48"</title>
+				<polygon class="PF14870" points="359,32 363,28 369,28 369,52 363,52 359,48" stroke-linejoin="round" width="10" height="24" fill="rgb(188,81,115)" stroke="rgb(150,64,92)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4504_11)</title>
+			<polygon class=" (ctg4504_11)" points="426,25 410,25 410,10 380,40 410,70 410,55 426,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1329 (PF07044)
+"Protein of unknown function (DUF1329)"</title>
+				<polygon class="PF07044" points="384,40 396,28 416,28 416,52 396,52" stroke-linejoin="round" width="36" height="24" fill="rgb(92,198,159)" stroke="rgb(73,158,127)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4504_12)</title>
+			<polygon class=" (ctg4504_12)" points="488,25 457,25 457,10 427,40 457,70 457,55 488,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1302 (PF06980)
+"Protein of unknown function (DUF1302)"</title>
+				<polygon class="PF06980" points="431,40 443,28 485,28 485,52 443,52" stroke-linejoin="round" width="58" height="24" fill="rgb(162,92,212)" stroke="rgb(129,73,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4504_13)</title>
+			<polygon class=" (ctg4504_13)" points="494,40 519,10 519,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1524 (PF07510)
+"Protein of unknown function (DUF1524)"</title>
+				<polygon class="PF07510" points="498,40 507,29 507,51" stroke-linejoin="round" width="12" height="24" fill="rgb(220,94,137)" stroke="rgb(176,75,109)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4504_14)</title>
+			<polygon class=" (ctg4504_14)" points="526,10 552,40 526,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Exo_endo_phos (PF03372)
+"Endonuclease/Exonuclease/phosphatase family"</title>
+				<polygon class="PF03372" points="526,28 537,28 548,40 537,52 526,52" stroke-linejoin="round" width="25" height="24" fill="rgb(76,66,180)" stroke="rgb(60,52,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,27 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SQS_PSY              PF00494.19   263 CS202_c00001_NODE_1_...cluster094_ORF1:gid::pid::loc:2:623:strand:+ -            206   9.9e-35  120.3   0.0   1   1   6.6e-39   1.2e-34  120.0   0.0    99   262     6   173     1   174 0.88 Squalene/phytoene synthase
+PNP_UDP_1            PF01048.20   234 CS202_c00001_NODE_1_...cluster094_ORF2:gid::pid::loc:666:1380:strand:+ -            237   4.1e-21   75.3   0.3   1   1   4.2e-24   7.6e-20   71.2   0.3    41   203    31   172    11   192 0.87 Phosphorylase superfamily
+PhyH                 PF05721.13   211 CS202_c00001_NODE_1_...cluster094_ORF3:gid::pid::loc:1418:2159:strand:+ -            246   2.1e-21   77.2   0.0   1   1   1.5e-25   2.7e-21   76.8   0.0     1   211    10   205    10   205 0.77 Phytanoyl-CoA dioxygenase (PhyH)
+MMPL                 PF03176.15   333 CS202_c00001_NODE_1_...cluster094_ORF4:gid::pid::loc:2384:5312:strand:+ -            975     3e-30  105.3  33.1   1   2   2.3e-23   4.2e-19   68.7  15.5   114   302   265   450   254   475 0.89 MMPL family
+MMPL                 PF03176.15   333 CS202_c00001_NODE_1_...cluster094_ORF4:gid::pid::loc:2384:5312:strand:+ -            975     3e-30  105.3  33.1   2   2   2.8e-15     5e-11   42.1   9.6   109   315   776   969   767   972 0.80 MMPL family
+Epimerase            PF01370.21   241 CS202_c00001_NODE_1_...cluster094_ORF6:gid::pid::loc:6380:7367:strand:+ -            328   1.2e-37  129.7   0.0   1   1   6.6e-41   1.5e-37  129.4   0.0     2   241     4   230     3   230 0.93 NAD dependent epimerase/dehydratase family
+3Beta_HSD            PF01073.19   280 CS202_c00001_NODE_1_...cluster094_ORF6:gid::pid::loc:6380:7367:strand:+ -            328   4.1e-23   81.8   0.0   1   1   2.3e-26   5.2e-23   81.5   0.0     1   228     4   217     4   228 0.79 3-beta hydroxysteroid dehydrogenase/isomerase family
+GDP_Man_Dehyd        PF16363.5    332 CS202_c00001_NODE_1_...cluster094_ORF6:gid::pid::loc:6380:7367:strand:+ -            328   1.7e-22   80.3   0.0   1   1   1.1e-25   2.4e-22   79.8   0.0     1   259     4   240     4   249 0.87 GDP-mannose 4,6 dehydratase
+NAD_binding_4        PF07993.12   257 CS202_c00001_NODE_1_...cluster094_ORF6:gid::pid::loc:6380:7367:strand:+ -            328   1.1e-20   73.9   0.0   1   2   1.8e-08     4e-05   22.9   0.0     1    55     5    57     5    64 0.90 Male sterility protein
+NAD_binding_4        PF07993.12   257 CS202_c00001_NODE_1_...cluster094_ORF6:gid::pid::loc:6380:7367:strand:+ -            328   1.1e-20   73.9   0.0   2   2   5.4e-17   1.2e-13   50.8   0.0    78   209    55   178    45   212 0.84 Male sterility protein
+NAD_binding_10       PF13460.6    184 CS202_c00001_NODE_1_...cluster094_ORF6:gid::pid::loc:6380:7367:strand:+ -            328     2e-20   73.5   0.0   1   1   1.2e-23   2.7e-20   73.0   0.0     1   145     7   170     7   195 0.82 NAD(P)H-binding
+NmrA                 PF05368.13   233 CS202_c00001_NODE_1_...cluster094_ORF6:gid::pid::loc:6380:7367:strand:+ -            328   1.4e-12   47.7   0.0   1   1   9.5e-16   2.1e-12   47.1   0.0     2   105     4   116     3   239 0.85 NmrA-like family
+RmlD_sub_bind        PF04321.17   287 CS202_c00001_NODE_1_...cluster094_ORF6:gid::pid::loc:6380:7367:strand:+ -            328   3.8e-11   42.6   0.0   1   1   2.3e-14   5.3e-11   42.2   0.0     1   140     1   156     1   166 0.86 RmlD substrate binding domain
+Abhydrolase_1        PF00561.20   257 CS202_c00001_NODE_1_...cluster094_ORF8:gid::pid::loc:7726:8593:strand:- -            288   1.8e-23   83.5   0.0   1   1   1.1e-27     2e-23   83.4   0.0    12   256    12   267     1   268 0.93 alpha/beta hydrolase fold
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster094.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS202_c00001_NODE_1_...cluster094.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS202_c00001_NODE_1_...cluster094.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:41:23 2019
+# [ok]

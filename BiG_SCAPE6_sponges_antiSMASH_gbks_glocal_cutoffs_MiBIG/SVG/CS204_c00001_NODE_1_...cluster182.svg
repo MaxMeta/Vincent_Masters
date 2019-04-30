@@ -1,0 +1,72 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="248.5" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="238.5" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg11035_1)</title>
+			<polygon class=" (ctg11035_1)" points="10,40 25,10 25,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Transglut_core3 (PF13471)
+"Transglutaminase-like superfamily"</title>
+				<polygon class="PF13471" points="13,40 19,28 22,28 22,52 19,52" stroke-linejoin="round" width="11" height="24" fill="rgb(63,111,179)" stroke="rgb(50,88,143)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11035_2)</title>
+			<polygon class=" (ctg11035_2)" points="25,40 54,10 54,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Sulfotransfer_1 (PF00685)
+"Sulfotransferase domain"</title>
+				<polygon class="PF00685" points="29,40 41,28 54,28 54,52 41,52" stroke-linejoin="round" width="27" height="24" fill="rgb(66,135,208)" stroke="rgb(52,107,166)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11035_3)</title>
+			<polygon class=" (ctg11035_3)" points="87,25 85,25 85,10 55,40 85,70 85,55 87,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg11035_4)</title>
+			<polygon class=" (ctg11035_4)" points="87,40 107,10 107,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Asp_Arg_Hydrox (PF05118)
+"Aspartyl/Asparaginyl beta-hydroxylase"</title>
+				<polygon class="PF05118" points="91,40 97,31 97,49" stroke-linejoin="round" width="10" height="24" fill="rgb(110,77,203)" stroke="rgb(88,61,162)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11035_5)</title>
+			<polygon class=" (ctg11035_5)" points="138,25 138,25 138,10 108,40 138,70 138,55 138,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Sulfotransfer_3 (PF13469)
+"Sulfotransferase family"</title>
+				<polygon class="PF13469" points="114,38 124,28 132,28 132,52 124,52 114,42" stroke-linejoin="round" width="18" height="24" fill="rgb(59,182,84)" stroke="rgb(47,145,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11035_6)</title>
+			<polygon class=" (ctg11035_6)" points="144,40 173,10 173,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Sulfotransfer_3 (PF13469)
+"Sulfotransferase family"</title>
+				<polygon class="PF13469" points="152,36 160,28 170,28 170,52 160,52 152,44" stroke-linejoin="round" width="18" height="24" fill="rgb(59,182,84)" stroke="rgb(47,145,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11035_7)</title>
+			<polygon class=" (ctg11035_7)" points="204,25 203,25 203,10 173,40 203,70 203,55 204,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyco_transf_8 (PF01501)
+"Glycosyl transferase family 8"</title>
+				<polygon class="PF01501" points="177,40 189,28 202,28 202,52 189,52 177,40" stroke-linejoin="round" width="25" height="24" fill="rgb(208,74,95)" stroke="rgb(166,59,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11035_8)</title>
+			<polygon class=" (ctg11035_8)" points="237,25 234,25 234,10 204,40 234,70 234,55 237,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Asn_synthase (PF00733)
+"Asparagine synthase"</title>
+				<polygon class="PF00733" points="208,40 220,28 232,28 232,52 220,52" stroke-linejoin="round" width="28" height="24" fill="rgb(97,201,176)" stroke="rgb(77,160,140)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

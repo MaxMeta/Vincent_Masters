@@ -1,0 +1,22 @@
+#                                                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+FolB                 PF02152.18   111 CS204_c00001_NODE_1_...cluster178_ORF1:gid::pid::loc:361:730:strand:- -            122   5.4e-33  113.9   0.2   1   1   3.3e-37     6e-33  113.7   0.2     2   111     5   115     4   115 0.97 Dihydroneopterin aldolase
+AMP-binding          PF00501.28   423 CS204_c00001_NODE_1_...cluster178_ORF2:gid::pid::loc:1170:5568:strand:+ -           1465   2.2e-93  313.2   0.1   1   1   9.7e-97   2.9e-93  312.8   0.1     2   422   572  1003   571  1004 0.81 AMP-binding enzyme
+NAD_binding_4        PF07993.12   257 CS204_c00001_NODE_1_...cluster178_ORF2:gid::pid::loc:1170:5568:strand:+ -           1465   1.7e-67  227.3   0.0   1   1     1e-70     3e-67  226.5   0.0     1   257    15   360    15   360 0.98 Male sterility protein
+Acyltransferase      PF01553.21   135 CS204_c00001_NODE_1_...cluster178_ORF2:gid::pid::loc:1170:5568:strand:+ -           1465   1.9e-18   66.4   0.0   1   1   1.3e-21   3.9e-18   65.4   0.0     2   134  1270  1401  1269  1402 0.88 Acyltransferase
+Sterile              PF03015.19    93 CS204_c00001_NODE_1_...cluster178_ORF2:gid::pid::loc:1170:5568:strand:+ -           1465   4.7e-12   46.0   0.0   1   1   3.9e-15   1.2e-11   44.7   0.0    24    92   462   531   444   532 0.92 Male sterility protein
+PP-binding           PF00550.25    67 CS204_c00001_NODE_1_...cluster178_ORF2:gid::pid::loc:1170:5568:strand:+ -           1465   3.4e-09   36.9   0.5   1   1   2.9e-12   8.7e-09   35.6   0.5     3    65  1149  1212  1148  1214 0.93 Phosphopantetheine attachment site
+AMP-binding_C        PF13193.6     76 CS204_c00001_NODE_1_...cluster178_ORF2:gid::pid::loc:1170:5568:strand:+ -           1465   6.8e-09   36.6   0.0   1   1   1.1e-11   3.1e-08   34.5   0.0     1    71  1013  1092  1013  1096 0.86 AMP-binding enzyme C-terminal domain
+HAD                  PF12710.7    188 CS204_c00001_NODE_1_...cluster178_ORF3:gid::pid::loc:5615:6317:strand:+ -            233     1e-34  120.6   0.0   1   1   1.3e-38   1.2e-34  120.4   0.0     1   188    13   199    13   199 0.86 haloacid dehalogenase-like hydrolase
+Hydrolase_3          PF08282.12   255 CS204_c00001_NODE_1_...cluster178_ORF3:gid::pid::loc:5615:6317:strand:+ -            233   2.6e-08   33.9   0.0   1   1     8e-11   7.1e-07   29.2   0.0   187   231   166   210   152   214 0.94 haloacid dehalogenase-like hydrolase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS204_c00001_NODE_1_...cluster178.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS204_c00001_NODE_1_...cluster178.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS204_c00001_NODE_1_...cluster178.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:41:44 2019
+# [ok]

@@ -1,0 +1,26 @@
+#                                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DUF1501              PF07394.12   392 CS204_c00001_NODE_1_...cluster052_ORF1:gid::pid::loc:2371:3757:strand:+ -            461  1.5e-139  465.5   1.1   1   1  9.5e-144  1.7e-139  465.2   1.1     1   392    53   460    53   460 0.96 Protein of unknown function (DUF1501)
+PALP                 PF00291.25   294 CS204_c00001_NODE_1_...cluster052_ORF2:gid::pid::loc:3940:4927:strand:- -            328   3.1e-73  246.8   0.8   1   1   1.9e-77   3.5e-73  246.6   0.8     3   294    23   310    21   310 0.98 Pyridoxal-phosphate dependent enzyme
+CarboxypepD_reg      PF13620.6     82 CS204_c00001_NODE_1_...cluster052_ORF3:gid::pid::loc:4931:8729:strand:+ -           1265   3.5e-17   62.5   4.3   1   1   1.9e-21   3.5e-17   62.5   4.3     1    81   244   324   244   325 0.97 Carboxypeptidase regulatory-like domain
+Amino_oxidase        PF01593.24   452 CS204_c00001_NODE_1_...cluster052_ORF4:gid::pid::loc:8747:10004:strand:- -            418   9.1e-33  114.2   0.0   1   1   2.3e-36   2.1e-32  113.0   0.0     1   452     8   412     8   412 0.85 Flavin containing amine oxidoreductase
+NAD_binding_8        PF13450.6     68 CS204_c00001_NODE_1_...cluster052_ORF4:gid::pid::loc:8747:10004:strand:- -            418   1.5e-10   41.2   0.9   1   1   3.7e-14   3.3e-10   40.0   0.3     1    53     3    60     3    73 0.84 NAD(P)-binding Rossmann-like domain
+SQS_PSY              PF00494.19   263 CS204_c00001_NODE_1_...cluster052_ORF5:gid::pid::loc:10000:11830:strand:- -            609    1e-135  451.3  15.5   1   2   5.4e-67   9.6e-63  212.1   1.3     3   259    33   285    31   289 0.93 Squalene/phytoene synthase
+SQS_PSY              PF00494.19   263 CS204_c00001_NODE_1_...cluster052_ORF5:gid::pid::loc:10000:11830:strand:- -            609    1e-135  451.3  15.5   2   2   6.9e-77   1.2e-72  244.6   7.0     2   262   329   586   328   587 0.94 Squalene/phytoene synthase
+G_glu_transpept      PF01019.21   512 CS204_c00001_NODE_1_...cluster052_ORF6:gid::pid::loc:11840:13424:strand:- -            527  1.4e-174  581.7   0.0   1   1  8.7e-179  1.6e-174  581.5   0.0     2   512    15   522    14   522 0.98 Gamma-glutamyltranspeptidase
+HXXSHH               PF07586.11   304 CS204_c00001_NODE_1_...cluster052_ORF8:gid::pid::loc:14390:15674:strand:- -            427     2e-92  310.1   0.0   1   1   1.3e-96   2.3e-92  309.8   0.0     1   304    24   331    24   331 0.92 Protein of unknown function (DUF1552)
+DUF3500              PF12006.8    296 CS204_c00001_NODE_1_...cluster052_ORF9:gid::pid::loc:16092:16467:strand:- -            124   1.1e-15   57.9   0.0   1   1   7.4e-20   1.3e-15   57.7   0.0   183   275     8   100     3   113 0.94 Protein of unknown function (DUF3500)
+Uma2                 PF05685.12   172 CS204_c00001_NODE_1_...cluster052_ORF11:gid::pid::loc:16614:17583:strand:+ -            322   7.8e-19   67.8   0.0   1   1   7.2e-23   1.3e-18   67.1   0.0    52   137    64   156    50   195 0.87 Putative restriction endonuclease
+DUF4143              PF13635.6    122 CS204_c00001_NODE_1_...cluster052_ORF13:gid::pid::loc:17788:19123:strand:- -            444   1.3e-26   93.1   0.0   1   1   2.1e-30   1.9e-26   92.6   0.0     1   121   234   390   234   391 0.98 Domain of unknown function (DUF4143)
+AAA_14               PF13173.6    131 CS204_c00001_NODE_1_...cluster052_ORF13:gid::pid::loc:17788:19123:strand:- -            444   1.9e-20   73.2   0.0   1   1   3.2e-24   2.9e-20   72.6   0.0     4   129    75   194    73   196 0.84 AAA domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS204_c00001_NODE_1_...cluster052.fasta
+# Target file:     /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/domtable/CS204_c00001_NODE_1_...cluster052.domtable --cut_tc --cpu 0 /nfs/home/nowakvi/BiG-SCAPE/Pfam-A.hmm /nfs/scratch/nowakvi/all_sponges_antiSMASH_gbks_glocal_cutoffs_MiBIG/cache/fasta/CS204_c00001_NODE_1_...cluster052.fasta 
+# Current dir:     /nfs/home/nowakvi
+# Date:            Mon Feb 18 09:54:25 2019
+# [ok]
