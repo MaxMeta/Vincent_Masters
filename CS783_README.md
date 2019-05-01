@@ -382,8 +382,9 @@ spades.py --threads 40 --memory 1000 -k 21,33,55,77,99,127 --meta --pe1-1 /nfs/s
 ======= Warnings saved to /nfs/scratch/nowakvi/Zamp_both_Tru_adap_ID_meta_SPAdes/warnings.log
 ```
 - quast results (default params)
+
 | Statistics without reference | contigs |
---- | ---
+| --- | --- |
 | #contigs | 857815 |
 | #contigs (>= 0 bp) | 1612819
 | #contigs (>= 1000 bp) | 182821 |
