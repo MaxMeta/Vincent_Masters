@@ -619,6 +619,22 @@ source activate antismash4.2.0
 antismash -c 12 --full-hmmer --clusterblast --subclusterblast --knownclusterblast --smcogs --outputfolder /nfs/scratch/nowakvi/antiSMASH_Zamp_150_Tru_adap_plus_Nano_meta_SPAdes/ /nfs/scratch/nowakvi/Zamp_150_Tru_adap_plus_Nano_meta_SPAdes/contigs_len_5000_filtered_.fasta
 ""
 ```
+- summary of geneclusters discovered (from antismash geneclusters.txt file)
+```shell
+$ grep "c*_NODE_*" geneclusters.txt | awk -v FS='\t' -v OFS='\t' '{print $2,$3}' | cut -f 2 | sort | uniq -c
+   2 arylpolyene
+  26 bacteriocin
+   1 bacteriocin-lantipeptide
+   1 head_to_tail
+   1 lantipeptide
+   1 lassopeptide
+  24 other
+   1 phosphonate
+  43 t1pks
+   1 t2pks
+   5 t3pks
+  55 terpene
+```
 
 ### PE250_on_PE150
 ```shell
@@ -641,6 +657,23 @@ $ sbatch antiSMASH_Zamp_250_on_Zamp_150_Tru_meta_SPAdes.sh
 source activate antismash4.2.0
 antismash -c 12 --full-hmmer --clusterblast --subclusterblast --knownclusterblast --smcogs --outputfolder /nfs/scratch/nowakvi/antiSMASH_Zamp_250_on_Zamp_150_Tru_adap_meta_SPAdes /nfs/scratch/nowakvi/Zamp_250_on_Zamp_150_Tru_adap_meta_SPAdes/contigs_len_5000_filtered.fasta
 ""
+```
+- summary of geneclusters discovered (from antismash geneclusters.txt file)
+```shell
+$ grep "c*_NODE_*" geneclusters.txt | awk -v FS='\t' -v OFS='\t' '{print $2,$3}' | cut -f 2 | sort | uniq -c
+   4 arylpolyene
+  29 bacteriocin
+   1 bacteriocin-t1pks
+   1 head_to_tail
+   2 lantipeptide
+   1 lassopeptide
+   1 nrps
+  31 other
+   1 phosphonate
+  52 t1pks
+   1 t2pks
+   5 t3pks
+  73 terpene
 ```
 
 
@@ -720,6 +753,7 @@ $ grep "^>" *.fasta | sed 's/:>/\t/' | awk -F'_' 'BEGIN {print "bin""\t""contig"
 
 
 ## Summarizing the number of bins per lineage from file generated for blobplot
+```shell
 $ cut -f 6,5 Zamp_150_plus_Nano_dRep_dereplicated_bins_plot_data.tsv | sort -su | cut -f 2 | sort | uniq -c
       2 c__Alphaproteobacteria (UID3305)
       4 c__Gammaproteobacteria (UID4443)
@@ -733,3 +767,4 @@ $ cut -f 6,5 Zamp_150_plus_Nano_dRep_dereplicated_bins_plot_data.tsv | sort -su 
       1 marker_lineage
       1 NA
       1 o__Rhodospirillales (UID3754)
+```
