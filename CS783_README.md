@@ -382,30 +382,31 @@ spades.py --threads 40 --memory 1000 -k 21,33,55,77,99,127 --meta --pe1-1 /nfs/s
 ======= Warnings saved to /nfs/scratch/nowakvi/Zamp_both_Tru_adap_ID_meta_SPAdes/warnings.log
 ```
 - quast results (default params)
-Statistics without reference	contigs
-#contigs	857815
-#contigs (>= 0 bp)	1612819
-#contigs (>= 1000 bp)	182821
-#contigs (>= 5000 bp)	13252
-#contigs (>= 10000 bp)	5160
-#contigs (>= 25000 bp)	1635
-#contigs (>= 50000 bp)	618
-Largest contig	1644273
-Total length	953513948
-Total length (>= 0 bp)	1273532229
-Total length (>= 1000 bp)	508123310
-Total length (>= 5000 bp)	218261023
-Total length (>= 10000 bp)	163529057
-Total length (>= 25000 bp)	110322500
-Total length (>= 50000 bp)	75422370
-N50	1093
-N75	672
-L50	152770
-L75	441976
-GC (%)	50.58
-Mismatches	
-#N's	500
-#N's per 100 kbp	0.05
+| Statistics without reference | contigs |
+|------------------------------|:-------:|
+| #contigs |857815
+| #contigs (>= 0 bp) | 1612819
+| #contigs (>= 1000 bp) | 182821
+| #contigs (>= 5000 bp) | 13252
+| #contigs (>= 10000 bp) | 5160
+| #contigs (>= 25000 bp) | 1635
+| #contigs (>= 50000 bp) | 618
+| Largest contig | 1644273
+| Total length | 953513948
+| Total length (>= 0 bp) | 1273532229
+| Total length (>= 1000 bp) | 508123310
+| Total length (>= 5000 bp) | 218261023
+| Total length (>= 10000 bp) | 163529057
+| Total length (>= 25000 bp) | 110322500
+| Total length (>= 50000 bp) | 75422370
+| N50 | 1093
+| N75 | 672
+| L50 | 152770
+| L75 | 441976
+| GC (%) | 50.58
+| Mismatches | |
+| #N's | 500
+| #N's per 100 kbp | 0.05
 
 
 ### Assembly of concatented PE_150 and PE_250 plus Nanopore reads
