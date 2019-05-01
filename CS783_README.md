@@ -1,6 +1,6 @@
-#Readme for the analyses of CS783 (C. mycofijiensis)
+# Readme for the analyses of CS783 (C. mycofijiensis)
 
-###Summary of algorithms and operation system used
+### Summary of algorithms and operation system used
 - Jobs were run on the Victoria University of Wellington high-performance computing cluster (raapoi) running CentOS Linux release 7.6.1810 unless otherwise specified
 - slurm 18.08.4
 - Singularity  2.6.0
@@ -12,7 +12,7 @@
 - dRep v2.2.3
 - barrnap 0.9
 
-###General notes and conventions
+### General notes and conventions
 - Note that file names including "Zamp" refer to the CS783 (C. mycofijiensis) sponge
 - note that sbatch scripts are given between two lines of "" underneath the command initiating the scrpit, e.g.:
 $ sbatch random_script_name.sh
@@ -26,9 +26,13 @@ script
 - line starting with '>' are R commands
 - lines immediately following commands are output (usually truncated with ...)
 
-##Assemblies
-###PE_150 data only:
-####Adapter identification and trimming
+
+## Assemblies
+
+### PE_150 data only
+
+#### Adapter identification and trimming
+```shell
 $ srun --pty -c 12 --mem=120G bash
 $ bash ../adap_ID.sh Zamp_150_DSW50676-1_H7YFMCCXY_L4_1.fq.gz 
 2228
@@ -54,8 +58,10 @@ Quality encoding detected as phred33
 Input Read Pairs: 35262051 Both Surviving: 33243987 (94.28%) Forward Only Surviving: 1880913 (5.33%) Reverse Only Surviving: 68308 (0.19%) Dropped: 68843 (0.20%)
 TrimmomaticPE: Completed successfully
 (2.49% less surviving for both)
+```
 
-####meta-SPAdes assembly:
+#### meta-SPAdes assembly:
+```shell
 $ sbatch sbatch_scripts/Zamp_150_Tru_adap_meta_SPAdes.sh
 ""
 #!/bin/bash
@@ -73,16 +79,17 @@ $ sbatch sbatch_scripts/Zamp_150_Tru_adap_meta_SPAdes.sh
 module load spades/3.12.0
 spades.py --meta --threads 48 --memory 500 -k 21,33,55,77,99,127 --pe1-1 ~/Zamp_150/Zamp_150_Tru_adap_1P.fq --pe1-2 ~/Zamp_150/Zamp_150_Tru_adap_2P.fq -o ~/Zamp_150_Tru_adap_meta_SPAdes
 ""
+```
 - finished without warnings
 - quast results (default params)
 Statistics without reference	contigs
-# contigs	275848
-# contigs (>= 0 bp)	547761
-# contigs (>= 1000 bp)	125531
-# contigs (>= 5000 bp)	12487
-# contigs (>= 10000 bp)	4944
-# contigs (>= 25000 bp)	1574
-# contigs (>= 50000 bp)	593
+#contigs	275848
+#contigs (>= 0 bp)	547761
+#contigs (>= 1000 bp)	125531
+#contigs (>= 5000 bp)	12487
+#contigs (>= 10000 bp)	4944
+#contigs (>= 25000 bp)	1574
+#contigs (>= 50000 bp)	593
 Largest contig	1452608
 Total length	525812756
 Total length (>= 0 bp)	621792397
@@ -97,12 +104,14 @@ L50	27104
 L75	100837
 GC (%)	56.82
 Mismatches	
-# N's	500
-# N's per 100 kbp	0.1
+#N's	500
+#N's per 100 kbp	0.1
 
 
-###PE_250 data only
-####Adapter identification and trimming
+### PE_250 data only
+
+#### Adapter identification and trimming
+```shell
 $ srun --pty -c 12 --mem=120G bash
 $ bash ../adap_ID.sh Zamp_250_DSW56586-W_HYGJ2BCXY_L1_1.fq.gz 
 44767
@@ -128,8 +137,9 @@ Quality encoding detected as phred33
 Input Read Pairs: 25162970 Both Surviving: 18974410 (75.41%) Forward Only Surviving: 6146304 (24.43%) Reverse Only Surviving: 27570 (0.11%) Dropped: 14686 (0.06%)
 TrimmomaticPE: Completed successfully
 (23.41% less surviving for both)
-
+```
 ####meta-SPades assembly
+```shell
 $ sbatch sbatch_scripts/Zamp_250_Tru_adap_meta_SPAdes.sh
 ""
 #!/bin/bash
@@ -147,16 +157,17 @@ $ sbatch sbatch_scripts/Zamp_250_Tru_adap_meta_SPAdes.sh
 module load spades/3.12.0
 spades.py --meta --threads 48 --memory 500 -k 21,33,55,77,99,127 --pe1-1 ~/Zamp_250/Zamp_250_Tru_adap_1P.fq --pe1-2 ~/Zamp_250/Zamp_250_Tru_adap_2P.fq -o ~/Zamp_250_Tru_adap_meta_SPAdes
 ""
+```
 - finsihed without warnings
 - quast results (default params)
 Statistics without reference	contigs
-# contigs	610748
-# contigs (>= 0 bp)	1292838
-# contigs (>= 1000 bp)	63096
-# contigs (>= 5000 bp)	249
-# contigs (>= 10000 bp)	52
-# contigs (>= 25000 bp)	2
-# contigs (>= 50000 bp)	0
+#contigs	610748
+#contigs (>= 0 bp)	1292838
+#contigs (>= 1000 bp)	63096
+#contigs (>= 5000 bp)	249
+#contigs (>= 10000 bp)	52
+#contigs (>= 25000 bp)	2
+#contigs (>= 50000 bp)	0
 Largest contig	26536
 Total length	441609279
 Total length (>= 0 bp)	731092925
@@ -171,11 +182,12 @@ L50	230462
 L75	405094
 GC (%)	43.35
 Mismatches	
-# N's	0
-# N's per 100 kbp	0
+#N's	0
+#N's per 100 kbp	0
 
 
-###Assembly of PE_150 and Nanopore data:
+### Assembly of PE_150 and Nanopore data
+```shell
 $ sbatch sbatch_scripts/Zamp_150_Tru_adap_plus_Zamp_mapped_Nano_meta_SPAdes.sh
 ""
 #!/bin/bash
@@ -193,16 +205,17 @@ $ sbatch sbatch_scripts/Zamp_150_Tru_adap_plus_Zamp_mapped_Nano_meta_SPAdes.sh
 module load spades/3.12.0
 spades.py --meta --threads 40--memory 1000 -k 21,33,55,77,99,127 --pe1-1 /nfs/scratch/nowakvi/Zamp_150_Tru_adap_1P.fq --pe1-2 /nfs/scratch/nowakvi/Zamp_150_Tru_adap_2P.fq --nanopore /nfs/scratch/nowakvi/final_mapped_Nano_to_Zamp_150_SPAdes.fasta -o /nfs/scratch/nowakvi/Zamp_150_Tru_adap_plus_Zamp_mapped_Nano_meta_SPAdes
 ""
+```
 - finished without warnings
 - quast results (default parameters
 Statistics without reference	contigs
-# contigs	274771
-# contigs (>= 0 bp)	546669
-# contigs (>= 1000 bp)	124531
-# contigs (>= 5000 bp)	12256
-# contigs (>= 10000 bp)	4967
-# contigs (>= 25000 bp)	1631
-# contigs (>= 50000 bp)	619
+#contigs	274771
+#contigs (>= 0 bp)	546669
+#contigs (>= 1000 bp)	124531
+#contigs (>= 5000 bp)	12256
+#contigs (>= 10000 bp)	4967
+#contigs (>= 25000 bp)	1631
+#contigs (>= 50000 bp)	619
 Largest contig	2765707
 Total length	525805054
 Total length (>= 0 bp)	621776526
@@ -217,12 +230,13 @@ L50	26140
 L75	99798
 GC (%)	56.82
 Mismatches	
-# N's	500
-# N's per 100 kbp	0.1
+#N's	500
+#N's per 100 kbp	0.1
 ""
 
 
-###Hybrid assembly of PE_250 with PE_150 meta-SPAdes assembly supplied as trusted contigs (PE250_on_PE150)
+### Hybrid assembly of PE_250 with PE_150 meta-SPAdes assembly supplied as trusted contigs (PE250_on_PE150)
+```shell
 $ sbatch sbatch_scripts/Zamp_250_on_Zamp_150_meta_SPAdes.sh
 ""
 #!/bin/bash
@@ -240,7 +254,9 @@ $ sbatch sbatch_scripts/Zamp_250_on_Zamp_150_meta_SPAdes.sh
 module load spades/3.12.0
 spades.py --threads 48 -k 21,33,55,77,99,127 --pe1-1 ~/Zamp_250/Zamp_250_Tru_adap_1P.fq --pe1-2 ~/Zamp_250/Zamp_250_Tru_adap_2P.fq --trusted-contigs ~/Zamp_150_Tru_adap_meta_SPAdes/contigs.fasta -o ~/Zamp_250_on_Zamp_150_Tru_adap_meta_SPAdes
 ""
+```
 - finished with these warnings:
+```shell
 ======= SPAdes pipeline finished WITH WARNINGS!
 
 === Error correction and assembling warnings:
@@ -250,15 +266,16 @@ spades.py --threads 48 -k 21,33,55,77,99,127 --pe1-1 ~/Zamp_250/Zamp_250_Tru_ada
  * 0:55:23.752     7G / 45G   WARN    General                 (kmer_coverage_model.cpp   : 327)   Valley value was estimated improperly, reset to 27
  * 1:04:27.697     7G / 60G   WARN    General                 (kmer_coverage_model.cpp   : 327)   Valley value was estimated improperly, reset to 28
  * 2:41:20.679    33G / 60G   WARN   ScaffoldingUniqueEdgeAna (scaff_supplementary.cpp   :  59)   Less than half of genome in unique edges!
+```
 - quast results (default params)
 Statistics without reference	contigs
-# contigs	837749
-# contigs (>= 0 bp)	1538731
-# contigs (>= 1000 bp)	190032
-# contigs (>= 5000 bp)	17851
-# contigs (>= 10000 bp)	6659
-# contigs (>= 25000 bp)	2055
-# contigs (>= 50000 bp)	792
+#contigs	837749
+#contigs (>= 0 bp)	1538731
+#contigs (>= 1000 bp)	190032
+#contigs (>= 5000 bp)	17851
+#contigs (>= 10000 bp)	6659
+#contigs (>= 25000 bp)	2055
+#contigs (>= 50000 bp)	792
 Largest contig	1121381
 Total length	1004619775
 Total length (>= 0 bp)	1304113051
@@ -273,11 +290,12 @@ L50	124116
 L75	407150
 GC (%)	50.05
 Mismatches	
-# N's	0
-# N's per 100 kbp	0
+#N's	0
+#N's per 100 kbp	0
 
 
-###Hybrid assembly of PE_250 with the PE_150_plus_Nano meta-SPAdes assembly supplied as trusted contigs (PE250_on_PE150_plus_Nano)
+### Hybrid assembly of PE_250 with the PE_150_plus_Nano meta-SPAdes assembly supplied as trusted contigs (PE250_on_PE150_plus_Nano)
+```shell
 $ sbatch sbatch_scripts/Zamp_250_and_Nanopore_on_Zamp_150_Tru_adap_meta_SPAdes.sh
 ""
 #!/bin/bash
@@ -295,8 +313,9 @@ $ sbatch sbatch_scripts/Zamp_250_and_Nanopore_on_Zamp_150_Tru_adap_meta_SPAdes.s
 module load spades/3.12.0
 spades.py --threads 48 --memory 500 -k 21,33,55,77,99,127 --trusted-contigs /nfs/scratch/nowakvi/Zamp_150_Tru_adap_plus_Nano_meta_SPAdes/contigs.fasta --pe1-1 /nfs/scratch/nowakvi/Zamp_250_Tru_adap_1P.fq --pe1-2 /nfs/scratch/nowakvi/Zamp_250_Tru_adap_2P.fq -o /nfs/scratch/nowakvi/Zamp_250_on_Zamp_150_plus_Nano_meta_SPAdes
 ""
-...
+```
 - finished with warnings these warnings:
+```shell
 === Error correction and assembling warnings:
  * 0:51:32.300    17G / 29G   WARN    General                 (kmer_coverage_model.cpp   : 218)   Too many erroneous kmers, the estimates might be unreliable
  * 2:14:35.328    40G / 68G   WARN    General                 (simplification.cpp        : 479)   The determined erroneous connection coverage threshold may be determined improperly
@@ -304,15 +323,16 @@ spades.py --threads 48 --memory 500 -k 21,33,55,77,99,127 --trusted-contigs /nfs
  * 1:59:10.115     7G / 60G   WARN    General                 (kmer_coverage_model.cpp   : 327)   Valley value was estimated improperly, reset to 36
  * 1:44:59.891     6G / 60G   WARN    General                 (kmer_coverage_model.cpp   : 327)   Valley value was estimated improperly, reset to 27
  * 6:10:44.657    33G / 60G   WARN   ScaffoldingUniqueEdgeAna (scaff_supplementary.cpp   :  59)   Less than half of genome in unique edges!
+```
 - quast results (default params)
 Statistics without reference	contigs
-# contigs	837012
-# contigs (>= 0 bp)	1537336
-# contigs (>= 1000 bp)	190020
-# contigs (>= 5000 bp)	17761
-# contigs (>= 10000 bp)	6565
-# contigs (>= 25000 bp)	2049
-# contigs (>= 50000 bp)	807
+#contigs	837012
+#contigs (>= 0 bp)	1537336
+#contigs (>= 1000 bp)	190020
+#contigs (>= 5000 bp)	17761
+#contigs (>= 10000 bp)	6565
+#contigs (>= 25000 bp)	2049
+#contigs (>= 50000 bp)	807
 Largest contig	1301649
 Total length	1004988585
 Total length (>= 0 bp)	1304189864
@@ -327,12 +347,13 @@ L50	123545
 L75	406325
 GC (%)	50.05
 Mismatches	
-# N's	0
-# N's per 100 kbp	0
+#N's	0
+#N's per 100 kbp	0
 
 
-###Assembly of PE_150 and PE_250 reads
+### Assembly of PE_150 and PE_250 reads
 - meta-SPAdes only accepts one paired-end library, thus PE_150 and PE_250 reads were concatenated
+```shell
 $ sbatch /nfs/home/nowakvi/sbatch_scripts/Zamp_both_Tru_adap_meta_SPAdes.sh
  ""
  #!/bin/bash
@@ -350,22 +371,25 @@ $ sbatch /nfs/home/nowakvi/sbatch_scripts/Zamp_both_Tru_adap_meta_SPAdes.sh
 module load spades/3.12.0
 spades.py --threads 40 --memory 1000 -k 21,33,55,77,99,127 --meta --pe1-1 /nfs/scratch/nowakvi/Zamp_both_Tru_adap_1.fq --pe1-2 /nfs/scratch/nowakvi/Zamp_both_Tru_adap_2.fq -o /nfs/scratch/nowakvi/Zamp_both_Tru_adap_ID_meta_SPAdes
 ""
+```
 - finished with these warnings
+```shell
 ======= SPAdes pipeline finished WITH WARNINGS!
 
 === Error correction and assembling warnings:
  * 1:33:43.657    34G / 60G   WARN    General                 (pair_info_count.cpp       : 358)   Estimated mean insert size 257.29 is very small compared to read length 250
  * 4:43:07.695    34G / 71G   WARN    General                 (pair_info_count.cpp       : 358)   Estimated mean insert size 257.349 is very small compared to read length 250
 ======= Warnings saved to /nfs/scratch/nowakvi/Zamp_both_Tru_adap_ID_meta_SPAdes/warnings.log
+```
 - quast results (default params)
 Statistics without reference	contigs
-# contigs	857815
-# contigs (>= 0 bp)	1612819
-# contigs (>= 1000 bp)	182821
-# contigs (>= 5000 bp)	13252
-# contigs (>= 10000 bp)	5160
-# contigs (>= 25000 bp)	1635
-# contigs (>= 50000 bp)	618
+#contigs	857815
+#contigs (>= 0 bp)	1612819
+#contigs (>= 1000 bp)	182821
+#contigs (>= 5000 bp)	13252
+#contigs (>= 10000 bp)	5160
+#contigs (>= 25000 bp)	1635
+#contigs (>= 50000 bp)	618
 Largest contig	1644273
 Total length	953513948
 Total length (>= 0 bp)	1273532229
@@ -380,11 +404,12 @@ L50	152770
 L75	441976
 GC (%)	50.58
 Mismatches	
-# N's	500
-# N's per 100 kbp	0.05
+#N's	500
+#N's per 100 kbp	0.05
 
 
-###Assembly of concatented PE_150 and PE_250 plus Nanopore reads
+### Assembly of concatented PE_150 and PE_250 plus Nanopore reads
+```shell
 $ sbatch sbatch_scripts/Zamp_both_Tru_plus_Nano_meta_SPAdes.sh
 ""
 #!/bin/bash
@@ -402,19 +427,26 @@ $ sbatch sbatch_scripts/Zamp_both_Tru_plus_Nano_meta_SPAdes.sh
 module load spades/3.12.0
 spades.py --threads 40 --memory 1000 -k 21,33,55,77,99,127 --meta --pe1-1 /nfs/scratch/nowakvi/Zamp_both_Tru_adap_1.fq --pe1-2 /nfs/scratch/nowakvi/Zamp_both_Tru_adap_2.fq --nanopore /nfs/scratch/nowakvi/final_unmapped_Nano_to_MH_SPAdes.fasta -o /nfs/scratch/nowakvi/Zamp_both_Tru_adap_ID_plus_Nano_meta_SPAdes
 ""
+```
 ...
+```shell
 == Error ==  system call for: "['/home/software/apps/spades/3.12.0/bin/spades-hammer', '/nfs/scratch/nowakvi/Zamp_both_Tru_adap_ID_plus_Nano_meta_SPAdes/corrected/configs/config.info']" finished abnormally, err code: -6
 - may be due it being on smaller c10n01 node; mem=1000G was not specified in sbatch script
 - rerun on 1TB c11n01 nodes with #SBATCH --mem=1000G
 5:28:14.902    33G / 71G   INFO    General                 (hybrid_aligning.cpp       : 288)   Aligning long reads with bwa-mem based aligner
 <jemalloc>: Error in calloc(): out of memory
+```
 ...
+```shell
 == Error ==  system call for: "['/home/software/apps/spades/3.12.0/bin/spades-core', '/nfs/scratch/nowakvi/Zamp_both_Tru_adap_ID_plus_Nano_meta_SPAdes/K127/configs/config.info', '/nfs/scratch/nowakvi/Zamp_both_Tru_adap_ID_plus_Nano_meta_SPAdes/K127/configs/mda_mode.info', '/nfs/scratch/nowakvi/Zamp_both_Tru_adap_ID_plus_Nano_meta_SPAdes/K127/configs/meta_mode.info']" finished abnormally, err code: -6
+```
 ...
+
 - fails when trying to align long reads to assembly
 
 
-###Hybrid assembly of PE_250 and Nanopore data with PE_150 meta-SPAdes assembly supplied as trusted contigs
+### Hybrid assembly of PE_250 and Nanopore data with PE_150 meta-SPAdes assembly supplied as trusted contigs
+```shell
 $ sbatch sbatch_scripts/Zamp_250_and_Nanopore_on_Zamp_150_Tru_adap_meta_SPAdes.sh
 ""
 #!/bin/bash
@@ -432,8 +464,11 @@ $ sbatch sbatch_scripts/Zamp_250_and_Nanopore_on_Zamp_150_Tru_adap_meta_SPAdes.s
 module load spades/3.12.0
 spades.py --threads 40 --memory 1000 -k 21,33,55,77,99,127 --pe1-1 /nfs/scratch/nowakvi/Zamp_250_Tru_adap_1P.fq --pe1-2 /nfs/scratch/nowakvi/Zamp_250_Tru_adap_2P.fq --trusted-contigs /nfs/scratch/nowakvi/contigs.fasta --nanopore /nfs/scratch/nowakvi/final_unmapped_Nano_to_MH_SPAdes.fasta -o /nfs/scratch/nowakvi/Zamp_250_plus_Nano_on_Zamp_150_Tru_adap_meta_SPAdes
 ""
+```
 ...
+```shell
 == Error ==  system call for: "['/home/software/apps/spades/3.12.0/bin/spades-hammer', '/nfs/scratch/nowakvi/Zamp_both_Tru_adap_ID_plus_Nano_meta_SPAdes/corrected/configs/config.info']" finished abnormally, err code: -6
+```
 - fails during K127  graph construction (displays several warnings)
 
 
