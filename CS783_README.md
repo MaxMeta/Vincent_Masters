@@ -383,9 +383,9 @@ spades.py --threads 40 --memory 1000 -k 21,33,55,77,99,127 --meta --pe1-1 /nfs/s
 ```
 - quast results (default params)
 | Statistics without reference | contigs |
-|------------------------------|:-------:|
+--- | ---
 | #contigs | 857815 |
-| #contigs (>= 0 bp) | 1612819 |
+| #contigs (>= 0 bp) | 1612819
 | #contigs (>= 1000 bp) | 182821 |
 | #contigs (>= 5000 bp) | 13252 |
 | #contigs (>= 10000 bp) | 5160 |
