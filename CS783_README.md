@@ -82,30 +82,32 @@ spades.py --meta --threads 48 --memory 500 -k 21,33,55,77,99,127 --pe1-1 ~/Zamp_
 ```
 - finished without warnings
 - quast results (default params)
-Statistics without reference	contigs
-#contigs	275848
-#contigs (>= 0 bp)	547761
-#contigs (>= 1000 bp)	125531
-#contigs (>= 5000 bp)	12487
-#contigs (>= 10000 bp)	4944
-#contigs (>= 25000 bp)	1574
-#contigs (>= 50000 bp)	593
-Largest contig	1452608
-Total length	525812756
-Total length (>= 0 bp)	621792397
-Total length (>= 1000 bp)	421185594
-Total length (>= 5000 bp)	207685886
-Total length (>= 10000 bp)	156570789
-Total length (>= 25000 bp)	105713102
-Total length (>= 50000 bp)	72216924
-N50	2987
-N75	1185
-L50	27104
-L75	100837
-GC (%)	56.82
-Mismatches	
-#N's	500
-#N's per 100 kbp	0.1
+
+| Statistics without reference | contigs |
+| --- | --- |
+| #contigs | 275848 |
+| #contigs (>= 0 bp) | 547761 |
+| #contigs (>= 1000 bp) | 125531 |
+| #contigs (>= 5000 bp) | 12487 |
+| #contigs (>= 10000 bp) | 4944 |
+| #contigs (>= 25000 bp) | 1574 |
+| #contigs (>= 50000 bp) | 593 |
+| Largest contig | 1452608 |
+| Total length | 525812756 |
+| Total length (>= 0 bp) | 621792397 |
+| Total length (>= 1000 bp) | 421185594 |
+| Total length (>= 5000 bp) | 207685886 |
+| Total length (>= 10000 bp) | 156570789 |
+| Total length (>= 25000 bp) | 105713102 |
+| Total length (>= 50000 bp) | 72216924 |
+| N50 | 2987 |
+| N75 | 1185 |
+| L50 | 27104 |
+| L75 | 100837 |
+| GC (%) | 56.82 |
+| Mismatches | |	
+| #N's | 500 |
+| #N's per 100 kbp | 0.1 |
 
 
 ### PE_250 data only
@@ -160,30 +162,32 @@ spades.py --meta --threads 48 --memory 500 -k 21,33,55,77,99,127 --pe1-1 ~/Zamp_
 ```
 - finsihed without warnings
 - quast results (default params)
-Statistics without reference	contigs
-#contigs	610748
-#contigs (>= 0 bp)	1292838
-#contigs (>= 1000 bp)	63096
-#contigs (>= 5000 bp)	249
-#contigs (>= 10000 bp)	52
-#contigs (>= 25000 bp)	2
-#contigs (>= 50000 bp)	0
-Largest contig	26536
-Total length	441609279
-Total length (>= 0 bp)	731092925
-Total length (>= 1000 bp)	85057041
-Total length (>= 5000 bp)	1989611
-Total length (>= 10000 bp)	733405
-Total length (>= 25000 bp)	52361
-Total length (>= 50000 bp)	0
-N50	696
-N75	580
-L50	230462
-L75	405094
-GC (%)	43.35
-Mismatches	
-#N's	0
-#N's per 100 kbp	0
+
+| Statistics without reference | contigs |
+| --- | --- |
+| #contigs | 610748 |
+| #contigs (>= 0 bp) | 1292838 |
+| #contigs (>= 1000 bp) | 63096 |
+| #contigs (>= 5000 bp) | 249 |
+| #contigs (>= 10000 bp) | 52 |
+| #contigs (>= 25000 bp) | 2 |
+| #contigs (>= 50000 bp) | 0 |
+| Largest contig | 26536 |
+| Total length | 441609279 |
+| Total length (>= 0 bp) | 731092925 |
+| Total length (>= 1000 bp) | 85057041 |
+| Total length (>= 5000 bp) | 1989611 |
+| Total length (>= 10000 bp) | 733405 |
+| Total length (>= 25000 bp) | 52361 |
+| Total length (>= 50000 bp) | 0 |
+| N50 | 696 |
+| N75 | 580 |
+| L50 | 230462 |
+| L75 | 405094 |
+| GC (%) | 43.35 |
+| Mismatches | |	
+| #N's | 0 |
+| #N's per 100 kbp | 0 |
 
 
 ### Assembly of PE_150 and Nanopore data
@@ -208,31 +212,33 @@ spades.py --meta --threads 40--memory 1000 -k 21,33,55,77,99,127 --pe1-1 /nfs/sc
 ```
 - finished without warnings
 - quast results (default parameters
-Statistics without reference	contigs
-#contigs	274771
-#contigs (>= 0 bp)	546669
-#contigs (>= 1000 bp)	124531
-#contigs (>= 5000 bp)	12256
-#contigs (>= 10000 bp)	4967
-#contigs (>= 25000 bp)	1631
-#contigs (>= 50000 bp)	619
-Largest contig	2765707
-Total length	525805054
-Total length (>= 0 bp)	621776526
-Total length (>= 1000 bp)	421228225
-Total length (>= 5000 bp)	210311935
-Total length (>= 10000 bp)	160876357
-Total length (>= 25000 bp)	110472675
-Total length (>= 50000 bp)	75882121
-N50	3008
-N75	1186
-L50	26140
-L75	99798
-GC (%)	56.82
-Mismatches	
-#N's	500
-#N's per 100 kbp	0.1
-""
+
+| Statistics without reference | contigs |
+| --- | --- |
+| #contigs | 274771 |
+| #contigs (>= 0 bp) | 546669 |
+| #contigs (>= 1000 bp) | 124531 |
+| #contigs (>= 5000 bp) | 12256 |
+| #contigs (>= 10000 bp) | 4967 |
+| #contigs (>= 25000 bp) | 1631 |
+| #contigs (>= 50000 bp) | 619 |
+| Largest contig | 2765707 |
+| Total length | 525805054 |
+| Total length (>= 0 bp) | 621776526 |
+| Total length (>= 1000 bp) | 421228225 |
+| Total length (>= 5000 bp) | 210311935 |
+| Total length (>= 10000 bp) | 160876357 |
+| Total length (>= 25000 bp) | 110472675 |
+| Total length (>= 50000 bp) | 75882121 |
+| N50 | 3008 |
+| N75 | 1186 |
+| L50 | 26140 |
+| L75 | 99798 |
+| GC (%) | 56.82 |
+| Mismatches | |	
+| #N's | 500 |
+| #N's per 100 kbp | 0.1 |
+
 
 
 ### Hybrid assembly of PE_250 with PE_150 meta-SPAdes assembly supplied as trusted contigs (PE250_on_PE150)
@@ -268,30 +274,32 @@ spades.py --threads 48 -k 21,33,55,77,99,127 --pe1-1 ~/Zamp_250/Zamp_250_Tru_ada
  * 2:41:20.679    33G / 60G   WARN   ScaffoldingUniqueEdgeAna (scaff_supplementary.cpp   :  59)   Less than half of genome in unique edges!
 ```
 - quast results (default params)
-Statistics without reference	contigs
-#contigs	837749
-#contigs (>= 0 bp)	1538731
-#contigs (>= 1000 bp)	190032
-#contigs (>= 5000 bp)	17851
-#contigs (>= 10000 bp)	6659
-#contigs (>= 25000 bp)	2055
-#contigs (>= 50000 bp)	792
-Largest contig	1121381
-Total length	1004619775
-Total length (>= 0 bp)	1304113051
-Total length (>= 1000 bp)	575252410
-Total length (>= 5000 bp)	278981443
-Total length (>= 10000 bp)	202721479
-Total length (>= 25000 bp)	134300197
-Total length (>= 50000 bp)	90961553
-N50	1246
-N75	700
-L50	124116
-L75	407150
-GC (%)	50.05
-Mismatches	
-#N's	0
-#N's per 100 kbp	0
+
+| Statistics without reference | contigs |
+| --- | --- |
+| #contigs | 837749 |
+| #contigs (>= 0 bp) | 1538731 |
+| #contigs (>= 1000 bp) | 190032 |
+| #contigs (>= 5000 bp) | 17851 |
+| #contigs (>= 10000 bp) | 6659 |
+| #contigs (>= 25000 bp) | 2055 |
+| #contigs (>= 50000 bp) | 792
+| Largest contig | 1121381 |
+| Total length | 1004619775 |
+| Total length (>= 0 bp) | 1304113051 |
+| Total length (>= 1000 bp) | 575252410 |
+| Total length (>= 5000 bp) | 278981443 |
+| Total length (>= 10000 bp) | 202721479 |
+| Total length (>= 25000 bp) | 134300197 |
+| Total length (>= 50000 bp) | 90961553 |
+| N50 | 1246 |
+| N75 | 700 |
+| L50 | 124116 |
+| L75 | 407150 |
+| GC (%) | 50.05 |
+| Mismatches | |	
+| #N's | 0 |
+| #N's per 100 kbp | 0 |
 
 
 ### Hybrid assembly of PE_250 with the PE_150_plus_Nano meta-SPAdes assembly supplied as trusted contigs (PE250_on_PE150_plus_Nano)
@@ -325,30 +333,32 @@ spades.py --threads 48 --memory 500 -k 21,33,55,77,99,127 --trusted-contigs /nfs
  * 6:10:44.657    33G / 60G   WARN   ScaffoldingUniqueEdgeAna (scaff_supplementary.cpp   :  59)   Less than half of genome in unique edges!
 ```
 - quast results (default params)
-Statistics without reference	contigs
-#contigs	837012
-#contigs (>= 0 bp)	1537336
-#contigs (>= 1000 bp)	190020
-#contigs (>= 5000 bp)	17761
-#contigs (>= 10000 bp)	6565
-#contigs (>= 25000 bp)	2049
-#contigs (>= 50000 bp)	807
-Largest contig	1301649
-Total length	1004988585
-Total length (>= 0 bp)	1304189864
-Total length (>= 1000 bp)	576142958
-Total length (>= 5000 bp)	279904488
-Total length (>= 10000 bp)	203583034
-Total length (>= 25000 bp)	136751924
-Total length (>= 50000 bp)	94024851
-N50	1249
-N75	700
-L50	123545
-L75	406325
-GC (%)	50.05
-Mismatches	
-#N's	0
-#N's per 100 kbp	0
+
+| Statistics without reference | contigs |
+| --- | --- |
+| #contigs | 837012 |
+| #contigs (>= 0 bp) | 1537336 |
+| #contigs (>= 1000 bp) | 190020 |
+| #contigs (>= 5000 bp) | 17761 |
+| #contigs (>= 10000 bp) | 6565 |
+| #contigs (>= 25000 bp) | 2049 |
+| #contigs (>= 50000 bp) | 807 |
+| Largest contig | 1301649 |
+| Total length | 1004988585 |
+| Total length (>= 0 bp) | 1304189864 |
+| Total length (>= 1000 bp) | 576142958 |
+| Total length (>= 5000 bp) | 279904488 |
+| Total length (>= 10000 bp) | 203583034 |
+| Total length (>= 25000 bp) | 136751924 |
+| Total length (>= 50000 bp) | 94024851 |
+| N50 | 1249 |
+| N75 | 700 |
+| L50 | 123545 |
+| L75 | 406325 |
+| GC (%) | 50.05 |
+| Mismatches | |	
+| #N's | 0 |
+| #N's per 100 kbp | 0 |
 
 
 ### Assembly of PE_150 and PE_250 reads
@@ -442,8 +452,6 @@ spades.py --threads 40 --memory 1000 -k 21,33,55,77,99,127 --meta --pe1-1 /nfs/s
 ```shell
 == Error ==  system call for: "['/home/software/apps/spades/3.12.0/bin/spades-core', '/nfs/scratch/nowakvi/Zamp_both_Tru_adap_ID_plus_Nano_meta_SPAdes/K127/configs/config.info', '/nfs/scratch/nowakvi/Zamp_both_Tru_adap_ID_plus_Nano_meta_SPAdes/K127/configs/mda_mode.info', '/nfs/scratch/nowakvi/Zamp_both_Tru_adap_ID_plus_Nano_meta_SPAdes/K127/configs/meta_mode.info']" finished abnormally, err code: -6
 ```
-...
-
 - fails when trying to align long reads to assembly
 
 
@@ -475,72 +483,77 @@ spades.py --threads 40 --memory 1000 -k 21,33,55,77,99,127 --pe1-1 /nfs/scratch/
 
 
 
-##Binning
-- binning software was unavailable on the local HPC, and thus binning had to be
-###metaWRAP --maxbin2 --metabat2 of PE250_on_PE150
+## Binning
+
+### metaWRAP --maxbin2 --metabat2 of PE250_on_PE150
 - run on EC2 m4.10xlarge (40vCPUs, 160GB) aws instance with Ubuntu 16.04 and 250GB  magnetic storage
 - uses Zamp_both as reference, which is PE_150 and PE_250 concatenated after trimming, as only one reference library can be supplied
+```shell
 $ source activate miniconda3/envs/metawrap-env2/
 $ metaWRAP binning -t 40 -m 160 --metabat2 --maxbin2 -a ~/contigs.fasta -o ~/Zamp_250_on_Zamp_150_bins ~/Zamp_both_Tru_adap_1.fastq ~/Zamp_both_Tru_adap_2.fastq
-...
-real    374m5.174s
-user    3520m30.788s
-sys     46m26.555s
+```
 - finished successfully
 - metabat2 produced 87 bins
 - maxbin2 produced 101 bins
 
-###Autometa of PE250_on_PE150
+### Autometa of PE250_on_PE150
 - run on EC2 m4.10xlarge (40vCPUs, 160GB) aws instance with Ubuntu 16.04 and 500GB magnetic storage
+```shell
 $ make_taxonomy_table.py -p 40 -l 1000 -a ~/contigs.fasta -o ~/Zamp_250_on_Zamp_150_Tru_adap_meta_SPAdes_autometa_taxonomy_tables/
 $ run_autometa.py --assembly ~/Zamp_250_on_Zamp_150_Tru_adap_meta_SPAdes_autometa_taxonomy_tables/Bacteria.fasta --processors 40 --length_cutoff 1000 --taxonomy_table ~/Zamp_250_on_Zamp_150_Tru_adap_meta_SPAdes_autometa_taxonomy_tables/taxonomy.tab -o ~/Zamp_250_autometa/
 $ run_autometa.py --assembly ~/Bacteria.fasta --processors 40 --length_cutoff 1000 --taxonomy_table ~/taxonomy.tab -o ~/Zamp_250_on_Zamp_150_autometa/
 $ cluster_process.py --bin_table ~/Zamp_250_on_Zamp_150_autometa/recursive_dbscan_output.tab --column cluster --fasta ~/Bacteria.fasta --output_dir ~/Zamp_250_on_Zamp_150_Tru_adap_meta_SPAdes_processed_autometa_bins/
+'''
 - produced 90 bins
 
-
-###dRep of bin sets for PE250_on_PE150
+### dRep of bin sets for PE250_on_PE150
 - run on EC2 m4.10xlarge (40vCPUs, 160GB) aws instance with Ubuntu 16.04 and 500GB magnetic storage 
+```shell
 $  dRep dereplicate ~/Zamp_250_on_Zamp_150_Tru_adap_meta_SPAdes_dRep_dereplicated_bins_CORRECTED/ -p 40 -g ~/Zamp_250_on_Zamp_150_Tru_adap_meta_SPAdes_bins/*.fasta
+```
 - finished with the following warning
+```shell
 /home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/externals/joblib/externals/cloudpickle/cloudpickle.py:47: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+```
 
-
-###Meta_WRAP of PE_150_plus_Nano
+### Meta_WRAP of PE_150_plus_Nano
 - run on EC2 m4.10xlarge (40vCPUs, 160GB) aws instance with Ubuntu 16.04 and 500GB magnetic storage
+```shell
 $ source activate ~/miniconda3/envs/metawrap-env2/
 $ metaWRAP binning -t 40 -m 160 --metabat2 --maxbin2 -a ~/Zamp_150_Nano/contigs.fasta -o ~/Zamp_150_Nano_meta_WRAP/ ~/Zamp_150_Tru_adap_1.fastq ~/Zamp_150_Tru_adap_2.fastq
+```
 - finished without error
-...
-real    204m28.093s
-user    865m28.580s
-sys     22m52.532s
 - finished successfully
 - maxbin2 found 96 bins
 - metabat2 found 81 bins
 
-
-###Autometa of PE_150_plus_Nanopore
+### Autometa of PE_150_plus_Nanopore
 - run on EC2 m4.10xlarge awx instance with Ubuntu 16.04 and 500GB magnetic storage
+```shell
 $ make_taxonomy_table.py -p 40 -a ~/Zamp_150_Nano/contigs.fasta -l 1000 -o ~/Zamp_150_Nano_taxonomy_tables/
 $ run_autometa.py --assembly ~/Zamp_150_Nano_taxonomy_tables/Bacteria.fasta --processors 40 --length_cutoff 1000 --taxonomy_table ~/Zamp_150_Nano_taxonomy_tables/taxonomy.tab -o ~/Zamp_150_Nano_autometa/
 $ cluster_process.py --bin_table ~/Zamp_150_Nano_autometa/recursive_dbscan_output.tab --column cluster --fasta ~/Zamp_150_Nano_taxonomy_tables/Bacteria.fasta --output_dir ~/Zamp_150_Nano_autometa_processed_bins/
+```
 - produced 101 bins
 
-
-###dRep of PE_150_plus_Nano
+### dRep of PE_150_plus_Nano
 - run on EC2 m4.10xlarge (40vCPUs, 160GB) aws instance  with Ubuntu 16.04 and 250GB magnetic storage
+```shell
 $ dRep dereplicate ~/Zamp_150_Nano_dereplicated_bins/ -p 40 -g ~/Zamp_150_Nano_bins/*.fasta
+```
 - finished with the following warning
+```shell
 /home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/externals/joblib/externals/cloudpickle/cloudpickle.py:47: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+```
 
 
 
-##antiSMASH of dRep dereplicated bins
+## antiSMASH of dRep dereplicated bins
 - run on server (rosalind) running Ubuntu 16.04.6 LTS (GNU/Linux 4.4.0-142-generic x86_64)
 - uses antiSMASH version 4.2.0 (conda)
 
-###PE150_plus_Nano
+### PE150_plus_Nano
+```shell
 $ sbatch sbatch_scripts/antiSMASH_Zamp_150_Tru_adap_plus_Nano_dereplicated_genomes.sh
 ""
 #!/bin/bash
@@ -558,9 +571,10 @@ $ sbatch sbatch_scripts/antiSMASH_Zamp_150_Tru_adap_plus_Nano_dereplicated_genom
 source activate antismash4.2.0
 antismash -c 12 --full-hmmer --clusterblast --subclusterblast --knownclusterblast --smcogs --outputfolder /nfs/scratch/nowakvi/antiSMASH_Zamp_150_Tru_adap_plus_Nano_dereplicated_genomes /nfs/scratch/nowakvi/Zamp_150_Tru_adap_plus_Nano_meta_SPAdes_dereplicated_genomes_/*.fasta
 ""
+```
 
-
-###PE250_on_PE150_dRep_dereplicated_bins
+### PE250_on_PE150_dRep_dereplicated_bins
+```shell
 $ sbatch sbatch_scripts/antiSMASH_Zamp_250_on_Zamp_150_Tru_dereplicated_genomes.sh
 ""
 #!/bin/bash
@@ -578,12 +592,13 @@ $ sbatch sbatch_scripts/antiSMASH_Zamp_250_on_Zamp_150_Tru_dereplicated_genomes.
 source activate antismash4.2.0
 antismash -c 12 --full-hmmer --clusterblast --subclusterblast --knownclusterblast --smcogs --outputfolder /nfs/scratch/nowakvi/antiSMASH_Zamp_250_on_Zamp_150_dereplicated_genomes2 /nfs/scratch/nowakvi/Zamp_250_on_Zamp_150_Tru_adap_meta_SPAdes_dereplicated_genomes_CORRECTED/*.fasta
 ""
+```
 
-
-##antiSMASH of length-filtered (>5kb) contigs
+## antiSMASH of length-filtered (>5kb) contigs
 - antiSMASH version 4.1.0 (conda) on raapoi (confusingly I named the conda environment antismash4.2.0)
 
-###PE150_plus_Nano
+### PE150_plus_Nano
+```shell
 $ bash ../fasta_len_filter.sh /nfs/scratch/nowakvi/Zamp_150_Tru_adap_plus_Nano_meta_SPAdes/contigs.fasta /nfs/scratch/nowakvi/Zamp_150_Tru_adap_plus_Nano_meta_SPAdes/contigs_len_5000_filtered_.fasta 5000
 - 12291 contigs
 $ sbatch antiSMASH_Zamp_150_Tru_adap_plus_Nano_meta_SPAdes.sh
@@ -603,9 +618,10 @@ $ sbatch antiSMASH_Zamp_150_Tru_adap_plus_Nano_meta_SPAdes.sh
 source activate antismash4.2.0
 antismash -c 12 --full-hmmer --clusterblast --subclusterblast --knownclusterblast --smcogs --outputfolder /nfs/scratch/nowakvi/antiSMASH_Zamp_150_Tru_adap_plus_Nano_meta_SPAdes/ /nfs/scratch/nowakvi/Zamp_150_Tru_adap_plus_Nano_meta_SPAdes/contigs_len_5000_filtered_.fasta
 ""
+```
 
-
-###PE250_on_PE150
+### PE250_on_PE150
+```shell
 $ bash ~/fasta_len_filter.sh ./Zamp_250_on_Zamp_150_Tru_adap_meta_SPAdes/contigs.fasta ./Zamp_250_on_Zamp_150_Tru_adap_meta_SPAdes/contigs_len_5000_filtered.fasta 5000
 - 17851 contigs
 $ sbatch antiSMASH_Zamp_250_on_Zamp_150_Tru_meta_SPAdes.sh
@@ -625,68 +641,44 @@ $ sbatch antiSMASH_Zamp_250_on_Zamp_150_Tru_meta_SPAdes.sh
 source activate antismash4.2.0
 antismash -c 12 --full-hmmer --clusterblast --subclusterblast --knownclusterblast --smcogs --outputfolder /nfs/scratch/nowakvi/antiSMASH_Zamp_250_on_Zamp_150_Tru_adap_meta_SPAdes /nfs/scratch/nowakvi/Zamp_250_on_Zamp_150_Tru_adap_meta_SPAdes/contigs_len_5000_filtered.fasta
 ""
-
-###Summarizing geneclusters dicovered in each assembly per secondary metabolite class from antismash geneclusters.txt file
-$ grep "c*_NODE_*" geneclusters.txt | awk -v FS='\t' -v OFS='\t' '{print $2,$3}' | cut -f 2 | sort | uniq -c
-   2 arylpolyene
-  26 bacteriocin
-   1 bacteriocin-lantipeptide
-   1 head_to_tail
-   1 lantipeptide
-   1 lassopeptide
-  24 other
-   1 phosphonate
-  43 t1pks
-   1 t2pks
-   5 t3pks
-  55 terpene
-
-$ grep "c*_NODE_*" geneclusters.txt | awk -v FS='\t' -v OFS='\t' '{print $2,$3}' | cut -f 2 | sort | uniq -c
-   4 arylpolyene
-  29 bacteriocin
-   1 bacteriocin-t1pks
-   1 head_to_tail
-   2 lantipeptide
-   1 lassopeptide
-   1 nrps
-  31 other
-   1 phosphonate
-  52 t1pks
-   1 t2pks
-   5 t3pks
-  73 terpene
+```
 
 
+## Sponge taxonomy:
 
-##Sponge taxonomy:
-
-###PE150_plus_Nano:
+### PE150_plus_Nano:
+```shell
 $ barrnap --threads 12 --kingdom euk --outseq Zamp_150_Tru_adap_plus_Nano_meta_SPAdes_barrnap_outseqs.fasta contigs.fasta
+```
 - identified 293 sequences
 
-###PE250_on_PE150 assembly:
+### PE250_on_PE150 assembly:
+```shell
 $ barrnap --threads 12 --kingdom euk --outseq Zamp_250_on_Zamp_150_Tru_adap_meta_SPAdes_barrnap_outseqs.fasta contigs.fasta
+```
 
 
-
-##Data generation for the coverage over GC blobplot
-- calculate gc content of each contig (from Albersten et. al 2013)
+## Data generation for the coverage over GC blobplot
+```shell
+# calculate gc content of each contig (from Albersten et. al 2013)
 $ git clone git://github.com/MadsAlbertsen/multi-metagenome.git
 $ perl ~/multi-metagenome/R.data.generation/calc.gc.pl -i assembly.fa -o assembly.gc.tab
-- create a column with coverag info from SPAdes contig name
+# create a column with coverag info from SPAdes contig name
 $ grep "^>" assembly.fa | awk -F'_' 'BEGIN {print "coverage"} {print $6}' > coverage_column.tab
-- checked that wc -l is the same
+# checked that wc -l is the same
 $ paste -d '\t' assembly_copy.gc.tab coverage_column.tab > assembly_copy.gc.coverage.tab
-- create length table
+# create length table
 $ grep "^>" assembly.fa | awk -F'_' 'BEGIN {print "length"} {print $4}' > assembly_length.tab
-- checked that wc -l is the same
+# checked that wc -l is the same
 $ paste -d '\t' assembly_copy.gc.coverage.tab assembly_length.tab > assembly_copy.gc.coverage.length.tab
-- creating table with contig per bin info
+# creating table with contig per bin info
 $ grep "^>" *.fasta | sed 's/:>/\t/' | awk -F'_' 'BEGIN {print "bin""\t""contig"} {print $0}' > contigs_per_bin.tsv
+```
 - joining dataframes on raapoi running R/3.5.1
+```{r}
 > gc_coverage <- read.delim("/nfs/scratch/nowakvi/Zamp_150_Tru_adap_plus_Nano_meta_SPAdes_plot_data/assembly_copy.gc.coverage.length.tab", header = TRUE, sep = "\t")
 > contigs_per_bin <- read.delim("/nfs/scratch/nowakvi/Zamp_150_Tru_adap_plus_Nano_meta_SPAdes_plot_data/contigs_per_bin.tsv", header = TRUE, sep = "\t")
-- checked with head and tail that every row has all values
+# checked with head and tail that every row has all values
 > table(gc_coverage$contig %in% contigs_per_bin$contig)
  FALSE   TRUE 
 532348  14185
@@ -708,26 +700,26 @@ $ grep "^>" *.fasta | sed 's/:>/\t/' | awk -F'_' 'BEGIN {print "bin""\t""contig"
 3        bin.30.fa.maxbin2.fasta
 4        bin.12.fa.maxbin2.fasta
 5  cluster_DBSCAN_round2_1.fasta
-- above workflow can be boiled down to the command "gc_coverage$bin <- contigs_per_bin$bin[match(gc_coverage$contig, contigs_per_bin$contig)]"
-- adding marker lineage (from dRep check-m results) to final data in R on macbook as above
+# above workflow can be boiled down to the command "gc_coverage$bin <- contigs_per_bin$bin[match(gc_coverage$contig, contigs_per_bin$contig)]"
+# adding marker lineage (from dRep check-m results) to final data in R on macbook as above
 >  data <- read.delim("~/Documents/Sequencing/CS_783/Zamp_150_plus_Nano_dRep_dereplicated_bins_plot_data.tsv", header=TRUE, sep="\t")
 > bin_taxonomy <- read.delim("~/Documents/Sequencing/CS_783/check_m_Zamp_150_Tru_adap_plus_Nano_meta_SPAdes_dRep_dereplicated_bins/results.tsv", header=TRUE, sep="\t")
-- checked head and tail
+# checked head and tail
 > data$marker_lineage <- bin_taxonomy$Marker.lineage[match(data$bin, bin_taxonomy$Bin.Id,)]
 > write.table(gc_coverage, file="/nfs/scratch/nowakvi/~/Documents/Sequencing/CS_783/Zamp_150_plus_Nano_dRep_dereplicated_bins_plot_data.tsv", quote=FALSE, sep="\t", row.names=FALSE, col.names=TRUE)
-
-- plotting data with ggplot2 on MacBook (macOS  10.14.2) with R version 3.4.3: 
+# plotting data with ggplot2 on MacBook (macOS  10.14.2) with R version 3.4.3: 
 > data <- read.delim("~/Documents/Sequencing/CS_783/Zamp_150_plus_Nano_dRep_dereplicated_bins_plot_data.tsv", header=TRUE, sep="\t")
 > library(ggplot2)
 > ggplot(data[!is.na(data$bin), ], aes(x = gc, y = coverage, color = marker_lineage, size = length)) + geom_point(alpha = 0.25, shape = 21, stroke = (0.8)) + scale_y_log10(limits = c(0.1, 500)) + theme_bw() + theme(legend.position="right", legend.key.size = unit(0.25, "cm")) + xlab("% GC") + ylab("log10(coverage)") + scale_size_area(name = "Contig length", max_size = 20) + guides(colour = guide_legend(override.aes = list(alpha = 1, size = 3, shape = 19)))
-- saving to desktop
+# saving to desktop
 > Zamp_150_plus_Nano_plot <- ggplot(data[!is.na(data$bin), ], aes(x = gc, y = coverage, color = marker_lineage, size = length)) + geom_point(alpha = 0.25, shape = 21, stroke = (0.8)) + scale_y_log10(limits = c(0.1, 500)) + theme_bw() + theme(legend.position="right", legend.key.size = unit(0.25, "cm")) + xlab("% GC") + ylab("log10(coverage)") + scale_size_area(name = "Contig length", max_size = 20) + guides(colour = guide_legend(override.aes = list(alpha = 1, size = 3, shape = 19))) 
 > pdf(file = "~/Documents/Sequencing/CS_783/Zamp_150_plus_Nano_dRep_dereplicated_bins_plot.pdf")
 > plot(Zamp_150_plus_Nano_plot)
 > dev.off()
+```
 
 
-##Summarizing the number of bins per lineage from file generated for blobplot
+## Summarizing the number of bins per lineage from file generated for blobplot
 $ cut -f 6,5 Zamp_150_plus_Nano_dRep_dereplicated_bins_plot_data.tsv | sort -su | cut -f 2 | sort | uniq -c
       2 c__Alphaproteobacteria (UID3305)
       4 c__Gammaproteobacteria (UID4443)
