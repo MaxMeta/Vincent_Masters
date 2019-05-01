@@ -1047,7 +1047,7 @@ source deactivate
 - git://github.com/MadsAlbertsen/multi-metagenome.git
 
 ### CS200
-'''shell
+```shell
 $ cp contigs.fasta assembly.fa
 $ perl ~/multi-metagenome/R.data.generation/calc.gc.pl -i assembly.fa -o assembly.gc.tab
 $ grep "^>" assembly.fa | awk -F'_' 'BEGIN {print "coverage"} {print $6}' > coverage_column.tab
