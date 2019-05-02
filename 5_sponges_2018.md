@@ -1003,16 +1003,21 @@ $ for i in */geneclusters.txt; do grep "c*_NODE_*" $i | awk -v FS='\t' '{print $
 - checked total number of clusters was what was expected and number of clusters per sponges was what was expected
 - on Desktop running Ubuntu 18.04.2 LTS (GNU/Linux 4.15.0-47-generic x86_64) using R version 3.4.4 (2018-03-15) -- "Someone to Lean On"
 ```{r}
-> df <- read.delim("~/Documents/Sequencing/5_sponges_2018/6_sponges_BGCs_per_taxon_summary.csv", header = TRUE, sep = ",")
-> library(ggplot2)
-> tonga <- ggplot(df2, aes(marker_lineage, cluster_count)) +  geom_bar(aes(fill = marker_lineage), stat = "identity") + theme(axis.text.x = element_text(angle = 90, hjust = 1, size=3), axis.text.y = element_text(size=5), legend.key.size = unit(0.25, "cm"), legend.text = element_text(size=5)) + facet_grid(compound_class ~ Sponge, scales = "free_y") + theme(strip.text.y = element_text(size = 5, angle = 360)) + labs(x="Marker lineage", y="# BGCs", cex.lab=0.01)
-> pdf(file = "Documents/6_sponges_BGC_per_taxon_plot_free_y.pdf")
+> df2 <- read.delim("~/Downloads/6_sponges_BGCs_per_taxon_summary_reformatted_1.csv", header = TRUE, sep = ",")
+> ggplot(df2, aes(marker_lineage, cluster_count)) +  geom_bar(aes(fill = marker_lineage), stat = "identity") + theme(axis.text.x = element_blank(), axis.text.y = element_text(size=5), legend.key.size = unit(0.25, "cm"), legend.text = element_text(size=5)) + facet_grid(compound_class ~ Sponge, scales = "free_y") + theme(strip.text.y = element_text(size = 5, angle = 360)) + labs(x="Marker lineage", y="# BGCs", cex.lab=0.01)
+Warning message:
+Removed 868 rows containing missing values (position_stack). 
+> tonga <- ggplot(df2, aes(marker_lineage, cluster_count)) +  geom_bar(aes(fill = marker_lineage), stat = "identity") + theme(axis.text.x = element_blank(), axis.text.y = element_text(size=5), legend.key.size = unit(0.25, "cm"), legend.text = element_text(size=5)) + facet_grid(compound_class ~ Sponge, scales = "free_y") + theme(strip.text.y = element_text(size = 5, angle = 360)) + labs(x="Marker lineage", y="# BGCs", cex.lab=0.01)
+>  pdf(file = "Documents/6_sponges_BGC_per_taxon_plot_free_y.pdf")
+Error in pdf(file = "Documents/6_sponges_BGC_per_taxon_plot_free_y.pdf") : 
+  cannot open file 'Documents/6_sponges_BGC_per_taxon_plot_free_y.pdf'
+>  pdf(file = "~/Documents/6_sponges_BGC_per_taxon_plot_free_y.pdf")
 > plot(tonga)
 Warning message:
 Removed 868 rows containing missing values (position_stack). 
 > dev.off()
-X11cairo 
-       2
+null device 
+          1 
 ```
 
 
